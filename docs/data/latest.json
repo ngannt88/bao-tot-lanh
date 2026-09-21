@@ -2,7 +2,7 @@
  "date": "2026-09-21",
  "paper": "Báo Tốt Lành",
  "tagline": "Mỗi ngày một số báo. Đọc hết là xong. Hẹn mai nhé.",
- "generated_at": "2026-09-21T13:03:57+07:00",
+ "generated_at": "2026-09-21T16:39:39+07:00",
  "sections": [
   {
    "id": "the-thao-dep",
@@ -37,452 +37,208 @@
  ],
  "articles": [
   {
-   "id": "47e424ec5801",
+   "id": "d2baf01d9160",
    "order": 1,
-   "slug": "thu-hang-moi-nhat-cua-doi-tuyen-viet-nam-truoc-hanh-trinh-ch",
+   "slug": "nguyen-thi-dieu-ly-tu-co-be-hay-om-den-chien-binh-thep-gianh",
    "section": "the-thao-dep",
    "section_name": "Thể thao đẹp",
    "emoji": "⚽",
-   "title": "Thứ hạng mới nhất của đội tuyển Việt Nam trước hành trình chinh phục chức vô địch FIFA ASEAN Cup",
-   "sapo": "Bảng xếp hạng FIFA mới nhất được công bố ngày 21.9, ngay trước lịch thi đấu quốc tế tháng 9 và 10. Đội tuyển Việt Nam tăng 1 bậc lên hạng 98 thế giới trước hành trình chinh phục ngôi vô địch FIFA ASEAN Cup.",
+   "title": "Nguyễn Thị Diệu Ly: Từ cô bé hay ốm đến 'chiến binh thép' giành HCĐ karate ASIAD",
+   "sapo": "Chiều 21.9, Nguyễn Thị Diệu Ly khép lại một trận đấu nghẹt thở tại ASIAD 20 bằng tấm HCĐ ở nội dung kumite của môn karate. Đằng sau chiến tích ấy là hành trình 9 năm cô gái sinh năm 2005 không ngừng vượt qua những giới hạn của chính mình.",
    "author": "thanhnien.vn",
    "source_name": "Thanh Niên",
-   "source_url": "https://thanhnien.vn/thu-hang-moi-nhat-cua-doi-tuyen-viet-nam-truoc-hanh-trinh-chinh-phuc-chuc-vo-dich-fifa-asean-cup-185260921124931298.htm",
-   "published": "2026-09-21T05:57:00+07:00",
+   "source_url": "https://thanhnien.vn/nguyen-thi-dieu-ly-tu-co-be-hay-om-den-chien-binh-thep-gianh-hcd-karate-asiad-185260921153424025.htm",
+   "published": "2026-09-21T08:50:00+07:00",
    "lang": "vi",
-   "score": null,
-   "words": 521,
+   "score": 8,
+   "words": 673,
    "images": [
     {
-     "src": "img/2026-09-21/47e424ec5801-lead.jpg",
+     "src": "img/2026-09-21/d2baf01d9160-lead.jpg",
      "caption": "",
      "w": 1200,
      "h": 630
     },
     {
-     "src": "img/2026-09-21/47e424ec5801-0.jpg",
-     "caption": "FIFA chính thức cộng điểm cho đội tuyển Việt Nam sau chiến dịch vô địch ASEAN Cup 2026 đầy thuyết phục trong tháng 7 và 8 vừa qua",
-     "w": 1280,
-     "h": 853
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "h",
-     "text": "Đội tuyển Việt Nam tăng điểm nhiều nhất nhờ vô địch ASEAN Cup"
-    },
-    {
-     "t": "p",
-     "text": "Trong chiến dịch vô địch giải khu vực ASEAN Cup hồi tháng 7 và 8 vừa qua, đội tuyển Việt Nam thắng 6 trận và chỉ hòa 2 trận, được tổng cộng 9,82 điểm. Nhờ đó, đã tích lũy vào số điểm đã có trên bảng xếp hạng FIFA hồi tháng 7, hiện có tổng cộng là 1.237,02 điểm."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Với điểm số mới nhất này, đội tuyển Việt Nam đã chính thức tăng 1 bậc trên bảng xếp hạng FIFA từ vị trí thứ 99 lên 98 thế giới."
-    },
-    {
-     "t": "p",
-     "text": "Đội tuyển Việt Nam vẫn xếp thứ 2 ở khu vực Đông Nam Á sau Thái Lan, đội chỉ được cộng 1,46 điểm, để hiện có 1.252,26 điểm và cũng tăng 1 bậc từ hạng 94 lên 93 thế giới."
-    },
-    {
-     "t": "p",
-     "text": "Ở khu vực châu Á, đội tuyển Thái Lan vẫn xếp ở tốp 15, còn đội tuyển Việt Nam nhờ tăng 1 bậc, cũng tiến lên vị trí thứ 17 và hứa hẹn sẽ còn tiếp tục cải thiện thứ hạng."
-    },
-    {
-     "t": "h",
-     "text": "Thứ hạng sẽ thay đổi nhờ FIFA ASEAN Cup"
-    },
-    {
-     "t": "p",
-     "text": "Trong đó, đội tuyển Việt Nam sắp tham dự FIFA ASEAN Cup (từ 24.9 đến 5.10) và nằm cùng bảng với đội tuyển Thái Lan. Hai đội sẽ gặp nhau trực tiếp vào ngày 29.9 tới tại Bandung, Indonesia."
-    },
-    {
-     "t": "p",
-     "text": "Kết quả trận đấu này không chỉ mang tính chất quan trọng cho đội nào đứng đầu bảng đấu để tiến vào trận chung kết, mà còn xác định vị trí trên bảng xếp hạng FIFA mới nhất, sau lịch thi đấu quốc tế sắp tới đây kết thúc."
-    },
-    {
-     "t": "p",
-     "text": "Với đội tuyển Việt Nam, điểm số trên bảng xếp hạng FIFA hiện nay còn cách không xa so với Thái Lan. Tương tự là với đội tuyển Palestine (hạng 95, với 1.243,71 điểm)."
-    },
-    {
-     "t": "p",
-     "text": "Do đó, nếu thầy trò HLV Kim Sang-sik giành các kết quả khả quan trong bảng đấu tại FIFA ASEAN Cup (được cộng điểm với hệ số cao nhất do thi đấu trong lịch FIFA Day), thì việc sẽ được thăng hạng là điều hoàn toàn có thể diễn ra."
-    },
-    {
-     "t": "p",
-     "text": "Tại FIFA ASEAN Cup, đội tuyển Việt Nam nằm ở bảng B, bên cạnh trận gặp Thái Lan (ngày 29.9) là cuộc gặp đội tuyển Philippines (hạng 135 thế giới) ở ngày ra quân 26.9, và trận cuối vòng bảng gặp Pakistan (hạng 198) ngày 2.10."
-    },
-    {
-     "t": "p",
-     "text": "Trong khi đó, đội chủ nhà FIFA ASEAN Cup là Indonesia vẫn xếp hạng 118 thế giới, bị trừ 0,09 điểm sau thất bại toàn diện tại giải khu vực ASEAN Cup."
-    },
-    {
-     "t": "p",
-     "text": "Đội tuyển Malaysia cũng bị trừ 0,83 điểm và xếp hạng 136 thế giới. Còn Singapore tăng 2 bậc lên hạng 146 thế giới khi được cộng 6,35 điểm. Singapore cũng là đội được cộng nhiều điểm thứ 2 sau đội tuyển Việt Nam nhờ các kết quả ở ASEAN Cup."
-    },
-    {
-     "t": "p",
-     "text": "Cả Malaysia và Singapore đều là các đối thủ đáng ngại của Indonesia tại FIFA ASEAN Cup khi nằm cùng bảng A, còn có đội khách mời Bangladesh."
-    }
-   ]
-  },
-  {
-   "id": "c1eb6fb37032",
-   "order": 2,
-   "slug": "ly-do-thoi-gian-du-kien-den-noi-tren-google-maps-chuyen-mau",
-   "section": "kham-pha-khoa-hoc",
-   "section_name": "Khám phá khoa học",
-   "emoji": "🔬",
-   "title": "Lý do thời gian dự kiến đến nơi trên Google Maps chuyển màu đen",
-   "sapo": "Thời gian dự kiến đến nơi trên ứng dụng Google Maps chuyển sang màu đen đến từ nguyên nhân nào?",
-   "author": "thanhnien.vn",
-   "source_name": "Thanh Niên",
-   "source_url": "https://thanhnien.vn/ly-do-thoi-gian-du-kien-den-noi-tren-google-maps-chuyen-mau-den-185260921103833475.htm",
-   "published": "2026-09-21T05:04:00+07:00",
-   "lang": "vi",
-   "score": null,
-   "words": 442,
-   "images": [
-    {
-     "src": "img/2026-09-21/c1eb6fb37032-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 630
-    },
-    {
-     "src": "img/2026-09-21/c1eb6fb37032-0.jpg",
-     "caption": "Thời gian dự kiến đến nơi chuyển sang màu đen trên Google Maps",
-     "w": 1280,
-     "h": 720
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Trong giao diện điều hướng của Google Maps , thời gian dự kiến đến nơi (ETA) thường hiển thị qua các gam màu trực quan để thông báo nhanh về tình trạng di chuyển. Dù vậy, việc các con số ETA bất ngờ chuyển sang màu đen không hoàn toàn là tin xấu, mà biểu thị các trạng thái kỹ thuật cụ thể ở cả chế độ lái xe lẫn phương tiện công cộng."
-    },
-    {
-     "t": "h",
-     "text": "Ý nghĩa đằng sau việc ETA đổi sang màu đen trên Google Maps"
-    },
-    {
-     "t": "p",
-     "text": "Phản hồi người dùng trên diễn đàn hỗ trợ vào tháng 1.2025, Google cho biết màu đen hoặc trắng xuất hiện nhằm tăng cường độ tương phản ở chế độ nền tối (dark mode), hoặc cảnh báo tình trạng thiếu dữ liệu giao thông trực tiếp. Với chế độ lái xe thông thường, ba màu sắc cốt lõi gồm xanh lá cây (thông suốt), cam (trung bình) và đỏ (đông đúc), trong khi ở chế độ phương tiện công cộng, màu đen đồng nghĩa với việc ứng dụng không nhận được dữ liệu cập nhật theo thời gian thực của chuyến đi."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Bên cạnh các gam màu báo hiệu chuyến đi đúng lịch trình (xanh lá), đến sớm (cam), trễ chuyến (đỏ) hay biểu tượng thi công công trình, dữ liệu ETA của Google Maps đạt độ tin cậy rất cao. Hãng công nghệ cho biết sau khi hợp tác với phòng nghiên cứu AI DeepMind vào năm 2020, tỷ lệ dự đoán ETA chính xác đã vượt mốc 97% nhờ kết hợp dữ liệu chất lượng đường sá, quy định địa phương, thói quen giao thông trong 4 tuần cùng thông tin trực tiếp từ người dùng."
-    },
-    {
-     "t": "p",
-     "text": "Người dùng hiện không thể chủ động thay đổi quy ước bảng màu ETA trong ứng dụng, nhưng có thể hạn chế xuất hiện chữ số màu đen khi lái xe bằng cách tắt chế độ nền tối trên điện thoại. Dù vậy, chỉ số ETA vẫn sẽ hiển thị màu đen nếu thiết bị mất kết nối mạng hoặc đang sử dụng tính năng điều hướng ngoại tuyến (offline) do ứng dụng không có quyền truy cập vào thông tin giao thông trực tiếp."
-    },
-    {
-     "t": "p",
-     "text": "Đối với phương tiện giao thông công cộng, việc ETA hiển thị màu đen là dấu hiệu cho thấy ứng dụng không có thông tin thời gian thực về chuyến xe buýt hoặc tàu tiếp theo. Nắm rõ ý nghĩa của các màu sắc giao diện sẽ giúp người dùng nhanh chóng đánh giá nguy cơ chậm trễ và linh hoạt điều chỉnh lộ trình di chuyển phù hợp với thực tế."
-    }
-   ]
-  },
-  {
-   "id": "3b8bb48bcc2c",
-   "order": 3,
-   "slug": "truc-tiep-asiad-2026-hom-nay-21-9-my-tien-vao-chung-ket-boi",
-   "section": "the-thao-dep",
-   "section_name": "Thể thao đẹp",
-   "emoji": "⚽",
-   "title": "Trực tiếp Asiad 2026 hôm nay 21/9: Mỹ Tiên vào chung kết bơi",
-   "sapo": "VietNamNet tường thuật ngày thi đấu chính thức thứ hai của đoàn Thể thao Việt Nam (TTVN) tại Asiad 2026, sự kiện diễn ra ở Aichi-Nagoya, Nhật Bản.",
-   "author": "Đại Nam",
-   "source_name": "VietnamNet",
-   "source_url": "https://vietnamnet.vn/truc-tiep-asiad-2026-hom-nay-21-9-the-thao-viet-nam-san-hcv-2557122.html",
-   "published": "2026-09-21T05:55:52+07:00",
-   "lang": "vi",
-   "score": null,
-   "words": 667,
-   "images": [
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-lead.jpg",
-     "caption": "",
-     "w": 597,
-     "h": 312
-    },
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-0.jpg",
-     "caption": "",
-     "w": 1143,
-     "h": 1376
-    },
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-1.jpg",
+     "src": "img/2026-09-21/d2baf01d9160-0.jpg",
      "caption": "",
      "w": 1280,
-     "h": 960
+     "h": 878
     },
     {
-     "src": "img/2026-09-21/3b8bb48bcc2c-2.jpg",
-     "caption": "Ảnh: Tam Ninh",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-3.jpg",
+     "src": "img/2026-09-21/d2baf01d9160-1.jpg",
      "caption": "",
-     "w": 1280,
-     "h": 720
-    },
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-4.jpg",
-     "caption": "",
-     "w": 1075,
-     "h": 865
-    },
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-5.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 720
-    },
-    {
-     "src": "img/2026-09-21/3b8bb48bcc2c-6.jpg",
-     "caption": "Ảnh: Tam Ninh",
      "w": 1280,
      "h": 846
     },
     {
-     "src": "img/2026-09-21/3b8bb48bcc2c-7.jpg",
+     "src": "img/2026-09-21/d2baf01d9160-2.jpg",
      "caption": "",
      "w": 1280,
-     "h": 879
+     "h": 853
     },
     {
-     "src": "img/2026-09-21/3b8bb48bcc2c-8.jpg",
-     "caption": "Ảnh: Tam Ninh",
+     "src": "img/2026-09-21/d2baf01d9160-3.jpg",
+     "caption": "",
      "w": 1280,
-     "h": 960
+     "h": 853
     }
    ],
    "lead": 0,
    "blocks": [
     {
-     "t": "p",
-     "text": "Giành 2 HCĐ trong ngày thi đấu chính thức đầu tiên tại Asiad 2026 , hôm nay (21/9), đoàn TTVN tiếp tục tranh tài với nhiều môn thi đấu rất đáng chú ý ở ngày thứ hai của Đại hội, trong đó có bắn súng, bơi, boxing, karate, TDDC, wushu, bóng chuyền nữ, bóng đá nữ..."
+     "t": "h",
+     "text": "Trận tranh HCĐ nghẹt thở"
     },
     {
      "t": "p",
-     "text": "Cuộc cạnh tranh huy chương tại đấu trường Asiad rất khốc liệt, đòi hỏi các VĐV Việt Nam phải vượt ngưỡng mới có thể mang vinh quang về cho Tổ quốc."
+     "text": "Trong trận tranh HCĐ với võ sĩ chủ nhà Nhật Bản Kama Tsubasa, Nguyễn Thị Diệu Ly nhập cuộc đầy tự tin. Nữ võ sĩ Việt Nam sớm tạo lợi thế bằng đòn Ippon, vươn lên dẫn trước 3-0."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng lợi thế ấy nhanh chóng bị san lấp. Kama Tsubasa kiên trì tấn công và lần lượt đưa trận đấu về thế cân bằng 3-3, trước khi vượt lên dẫn 4-3. Khi thời gian thi đấu không còn nhiều, Diệu Ly buộc phải đẩy cao tốc độ và tìm kiếm cơ hội cuối cùng."
+    },
+    {
+     "t": "p",
+     "text": "Nỗ lực của võ sĩ Việt Nam được đền đáp khi cô ghi thêm điểm, đưa tỷ số về 4-4. Do Diệu Ly là người ghi điểm trước, cô được xử thắng theo luật ưu tiên điểm ghi trước, qua đó giành HCĐ ASIAD 20."
     },
     {
      "t": "img",
      "i": 1
     },
     {
-     "t": "p",
-     "text": "* Bấm F5 để tiếp tục cập nhật diễn biến nóng trực tiếp Asiad 20 ..."
-    },
-    {
-     "t": "h",
-     "text": "Karate"
-    },
-    {
-     "t": "p",
-     "text": "Trong trận tranh HCĐ nội dung kumite cá nhân nam hạng cân 67kg, võ sĩ Khuất Hải Nam để thua đối thủ người Đài Loan (Trung Quốc)."
-    },
-    {
-     "t": "h",
-     "text": "Thể dục dụng cụ"
-    },
-    {
-     "t": "p",
-     "text": "Thể dục dụng cụ nam Việt Nam đứng thứ 2 lượt thi đầu tiên của vòng loại nội dung đồng đội. Trong sáng nay, lãnh đạo đoàn TTVN tới động viên các VĐV của tuyển TDDC Việt Nam."
-    },
-    {
      "t": "img",
      "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Diệu Ly (đỏ) thi đấu xuất sắc và đầy quyết tâm ở trận tranh HCĐ. Cô ăn mừng sau khi giành chiến thắng"
+    },
+    {
+     "t": "p",
+     "text": "Tấm huy chương đến sau một trận đấu mà Diệu Ly phải liên tục chống chọi với sức ép từ võ sĩ chủ nhà. Nhưng bản lĩnh từng được tôi luyện qua rất nhiều giải đấu quốc tế đã giúp cô đứng vững ở thời khắc quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Đây là tấm HCĐ thứ 3 của đoàn thể thao Việt Nam ở ASIAD 20. Đồng đội của Ly ở đội tuyển karate là Bùi Ngọc Nhi cũng đã giành HCĐ nội dung kata (biểu diễn) vào ngày 20.9. Tấm HCĐ đầu tiên của Việt Nam tại ASIAD 20 do công của bộ đôi Minh Tân - Gia Nghi môn teqball."
+    },
+    {
+     "t": "h",
+     "text": "Từ cô bé hay ốm đến nhà vô địch"
+    },
+    {
+     "t": "p",
+     "text": "Hành trình đến bục huy chương ASIAD của Diệu Ly bắt đầu từ năm 2017, khi cô mới 12 tuổi. Khi ấy, Ly theo chị gái đến Trung tâm Thể dục thể thao Quân đội tập thử karate. Cô bé có thể lực không tốt, khá gầy và thường xuyên ốm. Chính người chị ruột Nguyễn Thị Ngoan - một võ sĩ karate giàu thành tích của thể thao quân đội - đã truyền cảm hứng để Ly gắn bó với môn võ này."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt lớn đến vào năm 2022. Trước giải vô địch trẻ thế giới tại Thổ Nhĩ Kỳ, Diệu Ly từng gặp chấn thương trật khớp háng và phải ép 7 kg để thi đấu đúng hạng cân. Đây cũng là giải quốc tế đầu tiên cô tham dự sau nhiều năm tập luyện ở đội tuyển trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Áp lực rất lớn, nhưng Diệu Ly đã vượt qua tất cả để giành HCV thế giới. Khoảnh khắc nữ võ sĩ cùng HLV Phạm Hồng Hà ôm nhau sau trận chung kết trở thành một trong những ký ức đáng nhớ nhất trong sự nghiệp của cô."
     },
     {
      "t": "img",
      "i": 3
     },
     {
-     "t": "h",
-     "text": "Boxing"
-    },
-    {
-     "t": "p",
-     "text": "Nguyễn Đức Ngọc thi đấu vòng loại hạng cân 70kg với đối thủ Mohammed Lassaad Dbichi của Qatar. VĐV Việt Nam thua 0-5."
-    },
-    {
-     "t": "h",
-     "text": "Bắn súng"
-    },
-    {
-     "t": "p",
-     "text": "Tuyển bắn súng Việt Nam không có VĐV nào giành vé vào chung kết nội dung súng trường hơi cá nhân nam. Xạ thủ Việt Nam có thành tích cao nhất vòng loại nội dung này là Phùng Việt Dũng với 627 điểm, xếp hạng thứ 15. Tính tổng thành tích ở nội dung đồng đội, Việt Nam xếp hạng 8 với 1870,9 điểm. Trung Quốc giành HCV nội dung đồng đội súng trường hơi nam, phá kỷ lục thế giới với 1899 điểm."
-    },
-    {
-     "t": "h",
-     "text": "Bơi"
-    },
-    {
-     "t": "p",
-     "text": "Với thành tích 2 phút 17 giây 03, kình ngư Võ Thị Mỹ Tiên đoạt vé vào thi đấu chung kết nội dung 200m hỗn hợp nữ. Ở nội dung tiếp sức 4x200m tự do nam, đội Việt Nam gồm gồm Nguyễn Huy Hoàng, Trần Hưng Nguyên, Nguyễn Viết Tường và Trần Văn Nguyễn Quốc đạt thành tích 7 phút 21 giây 62, đứng thứ 2 lượt thi vòng loại đầu tiên. Kết quả này cũng giúp 4 VĐV Việt Nam lọt vào chung kết với vị trí thứ 4 vòng loại."
-    },
-    {
      "t": "img",
      "i": 4
     },
     {
-     "t": "h",
-     "text": "Wushu"
+     "t": "p",
+     "text": "Nguyễn Thị Diệu Ly mang về tấm HCĐ thứ 3 cho đoàn thể thao Việt Nam ở ASIAD 20"
     },
     {
      "t": "p",
-     "text": "Ở nội dung thi Thái cực quyền nam tính điểm, Nguyễn Trọng Lâm xếp hạng 6 chung cuộc."
-    },
-    {
-     "t": "img",
-     "i": 5
-    },
-    {
-     "t": "h",
-     "text": "Bơi"
+     "text": "Từ một cô bé có thể lực yếu, Diệu Ly từng bước trở thành gương mặt nổi bật của karate Việt Nam. Cô giành nhiều HCV ở các giải Đông Nam Á, châu Á, thế giới, SEA Games và các giải quốc gia."
     },
     {
      "t": "p",
-     "text": "Phạm Thanh Bảo của Việt Nam bước vào nội dung thi vòng loại 100m bơi ếch nam. Kình ngư người Việt Nam về thứ 3 (lượt 2 vòng loại) với thành tích 1 phút 00 giây 85. Với kết quả này, Thanh Bảo đứng chung cuộc 11 vòng loại, không thể vào chung kết."
-    },
-    {
-     "t": "img",
-     "i": 6
-    },
-    {
-     "t": "h",
-     "text": "Wushu"
+     "text": "Đặc biệt, năm 2025 là một dấu mốc đáng nhớ khi Diệu Ly vinh dự 3 lần được Chủ tịch nước tặng Huân chương Lao động hạng Nhì vì những thành tích xuất sắc trong màu áo thể thao quân đội và đội tuyển quốc gia."
     },
     {
      "t": "p",
-     "text": "Ở nội dung thi Thái cực quyền nam tính điểm, Nguyễn Trọng Lâm của Việt Nam giành được 9.710 điểm, tạm đứng thứ 5."
-    },
-    {
-     "t": "img",
-     "i": 7
-    },
-    {
-     "t": "h",
-     "text": "Thể dục dụng cụ"
+     "text": "Phía sau những thành tích ấy là một tuổi trẻ gần như gắn trọn với thảm đấu. Những buổi tập kéo dài, các chuyến tập huấn và thi đấu liên tục khiến thời gian dành cho gia đình, bạn bè của Diệu Ly bị thu hẹp."
     },
     {
      "t": "p",
-     "text": "Các nội dung nam môn thể dục dụng cụ bắt đầu tranh tài ở vòng loại. Việt Nam có 5 VĐV góp mặt là Đặng Ngọc Xuân Thiện, Nguyễn Văn Khánh Phong, Trịnh Hải Khang, Trần Đình Vương và Đỗ Nam Anh. Trong số này, Khánh Phong và Xuân Thiện được kỳ vọng có khả năng tranh chấp huy chương."
-    },
-    {
-     "t": "h",
-     "text": "Karate"
-    },
-    {
-     "t": "p",
-     "text": "Tại vòng 16 nội dung kata đơn nam môn karate, võ sĩ Phạm Minh Đức vượt qua đối thủ người Campuchia Theng Kimchhea với tỷ số 3-2."
-    },
-    {
-     "t": "h",
-     "text": "8h10"
-    },
-    {
-     "t": "p",
-     "text": "Ngày 21/9, đoàn TTVN tiếp tục bước vào ngày thi đấu thứ hai với lịch tranh tài ở 9 môn gồm bóng chuyền trong nhà (nữ), bóng chuyền bãi biển nam, bóng đá, wushu, bắn súng, bơi, boxing, karate và thể dục dụng cụ. Trong số này, bắn súng, Karate và Wushu được kỳ vọng có thể tạo nên bất ngờ."
-    },
-    {
-     "t": "h",
-     "text": "Wushu"
-    },
-    {
-     "t": "p",
-     "text": "Ở nội dung thi chung kết trường quyền nữ (wushu), Nguyễn Thị Hiền với số điểm 9.573 đứng hạng 14/16 VĐV. Giành HCV là VĐV Sham Hui Yu Lydia của Hong Kong (Trung Quốc) với 9.713 điểm."
-    },
-    {
-     "t": "img",
-     "i": 8
-    },
-    {
-     "t": "img",
-     "i": 9
+     "text": "“Tuổi trẻ của tôi gắn liền với thảm đấu và những chuyến tập huấn, thi đấu dài ngày, xa xôi. Đôi khi là nỗi cô đơn, áp lực và cả những giới hạn mình buộc phải vượt qua”, cô từng tâm sự."
     }
    ]
   },
   {
-   "id": "35315e0871f8",
-   "order": 4,
-   "slug": "nguoi-cuu-chien-binh-2-lan-hien-dat-mo-duong",
-   "section": "sang-tao-kien-truc",
-   "section_name": "Sáng tạo & Kiến trúc",
-   "emoji": "🎨",
-   "title": "Người cựu chiến binh 2 lần hiến đất mở đường",
-   "sapo": "Sau gần 40 năm khoác áo bộ đội biên phòng, cựu chiến binh, đảng viên Nguyễn Công Tân tiếp tục có 8 năm góp sức xây dựng nông thôn mới, giảm nghèo ở địa phương trên cương vị Chủ tịch Hội Cựu chiến binh xã Lương Phong.",
-   "author": "thanhnien.vn",
-   "source_name": "Thanh Niên",
-   "source_url": "https://thanhnien.vn/nguoi-cuu-chien-binh-2-lan-hien-dat-mo-duong-185260829151054439.htm",
-   "published": "2026-09-21T02:00:00+07:00",
+   "id": "cbf2205fa254",
+   "order": 2,
+   "slug": "tre-em-ha-noi-thich-thu-ngam-mat-trang-qua-kinh-thien-van-o",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Trẻ em Hà Nội thích thú ngắm Mặt Trăng qua kính thiên văn ở độ cao 267m",
+   "sapo": "(Dân trí) - Không chỉ được quan sát Mặt Trăng qua kính thiên văn, nhiều em nhỏ tại Hà Nội còn có dịp khám phá những câu chuyện thú vị về vũ trụ ngay trước",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/tre-em-ha-noi-thich-thu-ngam-mat-trang-qua-kinh-thien-van-o-do-cao-267m-20260919234407036.htm",
+   "published": "2026-09-20T06:17:59+07:00",
    "lang": "vi",
-   "score": null,
-   "words": 1549,
+   "score": 9,
+   "words": 908,
    "images": [
     {
-     "src": "img/2026-09-21/35315e0871f8-lead.jpg",
+     "src": "img/2026-09-21/cbf2205fa254-lead.jpg",
      "caption": "",
      "w": 1200,
      "h": 630
     },
     {
-     "src": "img/2026-09-21/35315e0871f8-0.jpg",
-     "caption": "Ông Tân tặng quà một cựu chiến binh",
-     "w": 960,
-     "h": 960
+     "src": "img/2026-09-21/cbf2205fa254-0.jpg",
+     "caption": "Cán bộ VNSC sử dụng phần mềm chuyên dụng để xác định vị trí Mặt Trăng, từ đó căn chỉnh kính thiên văn theo hướng quan sát (Ảnh: Thanh Bình).",
+     "w": 1280,
+     "h": 851
     },
     {
-     "src": "img/2026-09-21/35315e0871f8-1.jpg",
-     "caption": "Đoạn đường chạy qua nhà ông Tân được ông Tân hiến đất mở đường",
+     "src": "img/2026-09-21/cbf2205fa254-1.jpg",
+     "caption": "Hình ảnh khi quan sát qua kính thiên văn (Ảnh: Thanh Bình).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/cbf2205fa254-2.jpg",
+     "caption": "Em Đỗ Tuấn Khoa cùng mẹ nhận quà sau khi trả lời đúng câu hỏi (Ảnh: Thanh Bình).",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-21/cbf2205fa254-3.jpg",
+     "caption": "Trẻ em quan sát Mặt Trăng qua kính thiên văn (Ảnh: Thanh Bình).",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-21/cbf2205fa254-4.jpg",
+     "caption": "Toàn cảnh chương trình do Lotte Department Store Vietnam phối hợp cùng VNSC tổ chức tại tầng thượng khách sạn Lotte Hà Nội (Ảnh: Thanh Bình).",
      "w": 1280,
      "h": 960
-    },
-    {
-     "src": "img/2026-09-21/35315e0871f8-2.jpg",
-     "caption": "Ông Tân tặng quà và hỏi thăm người cao tuổi trong thôn",
-     "w": 1280,
-     "h": 720
-    },
-    {
-     "src": "img/2026-09-21/35315e0871f8-3.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 307
     }
    ],
    "lead": 0,
    "blocks": [
     {
      "t": "h",
-     "text": "Người thương binh cần mẫn"
+     "text": "(Dân trí) - Không chỉ được quan sát Mặt Trăng qua kính thiên văn, nhiều em nhỏ tại Hà Nội còn có dịp khám phá những câu chuyện thú vị về vũ trụ ngay trước thềm Trung thu."
     },
     {
      "t": "p",
-     "text": "Về thôn Vân An, xã Hiệp Hòa (Bắc Ninh), hỏi cựu chiến binh Nguyễn Công Tân, hầu như ai cũng biết. Gần 40 năm trong quân ngũ, ông ít có thời gian ở quê, nhưng sau khi nghỉ hưu, ông lại dành hơn chục năm góp sức cho quê hương, từ vận động xây dựng nông thôn mới , giúp hội viên giảm nghèo đến hiến đất mở đường."
+     "text": "Tối 19/9, nhiều trẻ em tại Hà Nội có dịp quan sát Mặt Trăng qua kính thiên văn ở độ cao 267m, đồng thời tìm hiểu thêm về bầu trời và các hiện tượng thiên văn giữa lòng thành phố."
     },
     {
      "t": "p",
-     "text": "Ông Tân sinh năm 1957, từng xung phong nhập ngũ khi chưa đủ tuổi. Gần 40 năm phục vụ trong bộ đội biên phòng, ông lần lượt đóng quân ở Lạng Sơn, Cao Bằng, trực tiếp tham gia chiến tranh biên giới phía bắc và bị thương, tỷ lệ thương tật 17%. Năm 1980, ông được kết nạp Đảng. Tháng 12.2012, ông nghỉ hưu với quân hàm thượng tá."
+     "text": "Chương trình \"Đêm Quan sát Thiên văn\" tại tầng thượng khách sạn Lotte Hà Nội (số 54 phố Liễu Giai, Hà Nội) diễn ra nhân dịp Tết Trung thu đang đến gần, trong tiết trời mùa thu mát mẻ, thu hút nhiều trẻ em và phụ huynh tham gia."
     },
     {
      "t": "p",
-     "text": "Trở về địa phương, ông được tín nhiệm làm Phó bí thư Chi bộ, Trưởng ban Công tác Mặt trận thôn Vân An, rồi Chủ tịch Hội Cựu chiến binh xã Lương Phong (trước sáp nhập) từ năm 2017 đến tháng 6.2025."
+     "text": "Ngắm Mặt Trăng ở độ cao 267m"
     },
     {
      "t": "img",
@@ -490,35 +246,23 @@
     },
     {
      "t": "p",
-     "text": "Trong thời gian này, ông cùng hội viên triển khai nhiều hoạt động thiết thực, từ chăm lo đời sống đồng đội đến xây dựng nông thôn mới, giữ gìn an ninh trật tự và giáo dục truyền thống cho thế hệ trẻ."
+     "text": "Trước khi chương trình bắt đầu, cán bộ Trung tâm Vũ trụ Việt Nam (VNSC) đã chuẩn bị 3 kính thiên văn, được thiết lập với các cấu hình khác nhau để phù hợp với từng mục tiêu quan sát."
     },
     {
      "t": "p",
-     "text": "Trong dịch Covid-19, dù tuổi đã cao, ông vẫn đi vận động hội viên, người dân và các nhà hảo tâm quyên góp khoảng 395 triệu đồng hỗ trợ những gia đình khó khăn. Riêng gia đình ông đóng góp 53 triệu đồng."
+     "text": "Các thiết bị được kiểm tra và căn chỉnh nhằm xác định vị trí các thiên thể, đưa chúng vào trường nhìn của kính. Theo kế hoạch, người tham dự sẽ lần lượt được hướng dẫn quan sát Mặt Trăng và Sao Kim qua thiết bị chuyên dụng. Đây là hai thiên thể có thể dễ dàng quan sát khi điều kiện bầu trời và vị trí của chúng thuận lợi."
     },
     {
      "t": "p",
-     "text": "Với mong muốn truyền lại những câu chuyện lịch sử cho thế hệ trẻ, ông phối hợp với Đoàn thanh niên và các trường học thành lập Đội Tuyên truyền giáo dục \"Tiếp lửa truyền thống anh hùng\". Vào các dịp lễ lớn, ông cùng hội viên đến trường kể chuyện về lịch sử dân tộc, những hy sinh trong các cuộc kháng chiến và cuộc đời Chủ tịch Hồ Chí Minh. Hoạt động đã thu hút hơn 20.000 lượt học sinh tham gia."
+     "text": "Các ống kính được sử dụng có tiêu cự khác nhau, trong đó có loại tiêu cự khoảng 300-600mm, giúp việc quan sát toàn cảnh hoặc phóng cận các khu vực trên bề mặt Mặt Trăng dễ dàng hơn."
     },
     {
      "t": "p",
-     "text": "Không thành thạo công nghệ, ông vẫn tự học để tham gia các nhóm tìm kiếm thông tin liệt sĩ trên mạng xã hội. Từ những thông tin ông và các thành viên tìm được, 4 hài cốt liệt sĩ đã được đưa về quê hương."
-    },
-    {
-     "t": "h",
-     "text": "Hai lần hiến đất mở đường"
+     "text": "Việc căn chỉnh ống kính được cán bộ VNSC thực hiện cẩn thận, bởi chỉ một dịch chuyển nhỏ cũng có thể khiến thiên thể rời khỏi trường nhìn."
     },
     {
      "t": "p",
-     "text": "Một trong những việc khiến người dân nhớ đến ông Tân là câu chuyện hiến đất mở đường."
-    },
-    {
-     "t": "p",
-     "text": "Khi địa phương triển khai mở rộng đường giao thông, giải phóng mặt bằng trở thành vấn đề khó bởi liên quan trực tiếp đến đất đai và công trình của từng gia đình. Với vai trò Chủ tịch Hội Cựu chiến binh xã, ông Tân vận động hội viên thực hiện \"Ba hiến\": hiến đất, hiến công lao động và hiến của cải; đồng thời vận động người dân tự tháo dỡ công trình để bàn giao mặt bằng."
-    },
-    {
-     "t": "p",
-     "text": "Gia đình ông là một trong những hộ đi đầu."
+     "text": "Còn khoảng 6 ngày trước khi đến Rằm tháng Tám, Mặt Trăng hiện đang ở pha khuyết lớn dần. Phần đĩa Mặt Trăng được Mặt Trời chiếu sáng đã lớn hơn một nửa nhưng chưa đạt trạng thái tròn đầy. Qua kính thiên văn, ranh giới giữa phần được chiếu sáng và phần chưa được Mặt Trời chiếu sáng trên đĩa Mặt Trăng hiện lên rõ ràng."
     },
     {
      "t": "img",
@@ -526,117 +270,69 @@
     },
     {
      "t": "p",
-     "text": "Lần đầu, gia đình ông hiến 130 m² đất để xây dựng cống thoát nước. Sau đó, ông tiếp tục hiến 120 m² đất để mở rộng tuyến đường lên 11 m. Tổng giá trị đất gia đình ông hiến ước tính hơn 2 tỉ đồng."
+     "text": "Trong chương trình, cán bộ VNSC đặt câu hỏi giao lưu, giúp các em nhỏ và phụ huynh khởi động không khí trước khi ngắm trăng, đồng thời kiểm tra kiến thức về khoa học vũ trụ. Các câu hỏi xoay quanh những kiến thức gần gũi như thời gian Mặt Trăng hoàn thành một vòng quanh Trái Đất hay khoảng cách trung bình từ Trái Đất đến Mặt Trăng."
     },
     {
      "t": "p",
-     "text": "Từ sự gương mẫu của gia đình ông, phong trào hiến đất lan rộng trong hội viên Hội Cựu chiến binh. Tổng diện tích đất hội viên đã hiến để làm đường giao thông lên hơn 20.000 m²."
+     "text": "Tuy nhiên, mây dần xuất hiện dày đặc khiến việc quan sát vệ tinh tự nhiên của Trái Đất gặp khó khăn. Trong thời gian chờ đợi, các em nhỏ được hướng dẫn xem những tòa nhà cao tầng trong khu vực để làm quen với kính thiên văn. Đến hơn 19h, Mặt Trăng dần lộ ra qua những khoảng mây."
     },
     {
      "t": "p",
-     "text": "Thương binh Trương Cửu Long, người cùng thôn, kể ban đầu gia đình ông không đồng ý vì căn nhà mới xây phải tháo dỡ một phần để lùi đất mở đường. Sau khi được ông Tân và Hội Cựu chiến binh vận động, thấy nhiều hội viên đi trước tự nguyện hiến đất, tháo dỡ công trình, gia đình ông đã đồng thuận."
-    },
-    {
-     "t": "p",
-     "text": "\"Đất thì không tiếc, nhưng công trình vừa xây xong phải tháo dỡ nên lúc đầu gia đình tôi rất đắn đo. Sau thấy mọi người cùng làm, mình cũng phải góp sức\", ông Long chia sẻ."
-    },
-    {
-     "t": "p",
-     "text": "Không chỉ vận động hiến đất, ông Tân cùng tập thể Hội Cựu chiến binh xây dựng mô hình \"Bao xi măng CCB\", vận động hội viên đóng góp gần 300 triệu đồng cho xây dựng nông thôn mới, hỗ trợ cựu chiến binh có hoàn cảnh khó khăn xóa nhà tạm, nhà dột."
-    },
-    {
-     "t": "p",
-     "text": "Mô hình \"Giúp nhau giảm nghèo, làm kinh tế giỏi\" cũng được triển khai, nhân rộng các điển hình sản xuất, kinh doanh, tạo việc làm ổn định cho gần 500 lao động với thu nhập từ 7 - 25 triệu đồng/tháng. Qua đó, tỷ lệ hội viên nghèo, cận nghèo giảm từ 2,5% xuống dưới 0,2%."
-    },
-    {
-     "t": "p",
-     "text": "Anh Hà Văn Tám, hội viên Hội Cựu chiến binh xã, cho biết ông Tân thường xuyên đến thăm hỏi, động viên hội viên sản xuất, kinh doanh."
-    },
-    {
-     "t": "p",
-     "text": "\"Ông Tân rất quan tâm đến anh em làm kinh tế, thường xuyên động viên chúng tôi lao động, sản xuất, vươn lên\", anh Tám nói."
-    },
-    {
-     "t": "p",
-     "text": "Từ một xưởng mộc nhỏ, cơ sở của anh Tám hiện đạt doanh thu hơn 1 tỉ đồng/năm, tạo việc làm cho gần 30 lao động tại địa phương, trong đó có một số hội viên Hội Cựu chiến binh."
+     "text": "Đưa trẻ đến gần hơn với kiến thức thiên văn"
     },
     {
      "t": "img",
      "i": 3
     },
     {
-     "t": "h",
-     "text": "Góp sức giữ bình yên quê nhà"
+     "t": "p",
+     "text": "\"A, thấy Mặt Trăng rồi!\", em Đỗ Tuấn Khoa, học sinh lớp 7, háo hức reo lên khi ghé mắt qua ống kính thiên văn."
     },
     {
      "t": "p",
-     "text": "Từ những việc lớn đến những công việc gần với đời sống hằng ngày, ông Tân đều chọn cách bắt đầu bằng vận động, thuyết phục."
+     "text": "Theo chị Nguyễn Thị Bảo Ngọc, mẹ của Khoa, ngay khi biết về hoạt động, em đã chủ động xin tham gia vì yêu thích và muốn tìm hiểu thêm về thiên văn, vũ trụ."
     },
     {
      "t": "p",
-     "text": "Nhận thấy nhiều tuyến đường trong xã chưa có đèn chiếu sáng, ông vận động hội viên và các nhà hảo tâm triển khai mô hình \"Thắp sáng đường quê\". Từ 2 thôn Sơn Quả và Từ với 43 bóng đèn trên 1,2 km đường làng, mô hình được nhân rộng. Riêng tại thôn Vân An và các thôn khác, ông vận động hơn 1 tỉ đồng để lắp đặt hệ thống chiếu sáng do Hội Cựu chiến binh tự quản."
-    },
-    {
-     "t": "p",
-     "text": "Hội còn xây dựng 13 đoạn \"Đường CCB tự quản\", 4 đoạn \"Đường cây CCB\" với 1.862 cây xanh; phối hợp với Công an xã thành lập 13 tổ an ninh trật tự do cựu chiến binh tham gia tự quản."
-    },
-    {
-     "t": "p",
-     "text": "Trong công tác giữ gìn an ninh trật tự, ông trực tiếp vận động người dân giao nộp 127 viên đạn, 1 súng tự chế và 1 quả lựu đạn cấp 5; vận động lắp đặt camera an ninh tại 42 điểm trọng yếu, góp phần hỗ trợ lực lượng chức năng xử lý các vụ việc trên địa bàn."
-    },
-    {
-     "t": "p",
-     "text": "Ngoài công tác Hội, ông Tân còn được bầu làm Hội thẩm nhân dân, tham gia hòa giải ở cơ sở. Đến nay, ông đã tham gia hòa giải thành công 24 vụ và xét xử gần 100 vụ án tại Tòa án nhân dân huyện Hiệp Hòa trước đây."
-    },
-    {
-     "t": "h",
-     "text": "Hết lòng với đồng đội, quê hương"
-    },
-    {
-     "t": "p",
-     "text": "Điều ông Tân nhắc nhiều không phải những phần việc mình đã làm, mà là sự chung sức của hội viên và người dân."
-    },
-    {
-     "t": "p",
-     "text": "Trong khoảng 10 năm, ông cùng Hội Cựu chiến binh vận động xã hội hóa Quỹ \"Nghĩa tình cựu chiến binh\" hơn 200 triệu đồng; vận động Công ty Tân cảng hỗ trợ xây 5 nhà tình nghĩa, tổng trị giá gần 400 triệu đồng; đồng thời vận động xây dựng nhà vòm cho Trường mầm non Lương Phong số 2 trị giá 120 triệu đồng."
-    },
-    {
-     "t": "p",
-     "text": "Từ người lính biên phòng trở về quê, ông Tân tiếp tục làm những công việc không còn gắn với quân hàm hay chức vụ. Đó là vận động một gia đình lùi hàng rào để mở đường, tìm thông tin đưa đồng đội đã hy sinh về quê, giúp một hội viên có sinh kế hay góp một phần kinh phí để thắp sáng con đường làng."
-    },
-    {
-     "t": "p",
-     "text": "Có lẽ chính từ những việc cụ thể ấy mà ở Vân An, nhắc đến ông Tân, người dân không chỉ nhớ một người thương binh, một cựu chiến binh , mà còn nhớ một người luôn sẵn lòng góp sức cho việc chung."
-    },
-    {
-     "t": "p",
-     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
-    },
-    {
-     "t": "p",
-     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
-    },
-    {
-     "t": "p",
-     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
-    },
-    {
-     "t": "p",
-     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
-    },
-    {
-     "t": "p",
-     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+     "text": "Lần lượt quan sát Mặt Trăng qua kính thiên văn, nhiều em nhỏ tỏ ra ngạc nhiên và thích thú, cho rằng đây là một trải nghiệm đặc biệt. Dù đã quen với hình ảnh thiên thể này qua sách vở, truyền hình, các em cho biết việc trực tiếp quan sát vẫn mang lại cảm giác khác biệt."
     },
     {
      "t": "img",
      "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, các em nhỏ còn được hướng dẫn tìm hiểu về hai ngôi sao Ngưu Lang và Chức Nữ trên bầu trời đêm. Khi các em ngẩng lên trời nhìn hai ngôi sao, ban tổ chức giới thiệu thêm câu chuyện Ngưu Lang - Chức Nữ gắn với hai ngôi sao này."
+    },
+    {
+     "t": "p",
+     "text": "Anh Nguyễn Trí Thức (SN 1992), một trong những người đăng ký đầu tiên, cho biết anh yêu thích khoa học vũ trụ từ nhỏ. Khi biết đến chương trình, anh nhanh chóng đăng ký và đưa con gái nhỏ cùng tham gia để hai bố con có dịp trải nghiệm quan sát bầu trời qua kính thiên văn."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Thức, hai bố con đã có một buổi tối vui vẻ khi lần đầu được trực tiếp chiêm ngưỡng Mặt Trăng qua thiết bị chuyên dụng."
+    },
+    {
+     "t": "p",
+     "text": "Trong khuôn khổ chương trình \"Đêm Quan sát Thiên văn\", đơn vị tổ chức phối hợp với Trung tâm Vũ trụ Việt Nam (VNSC) và nhanh chóng nhận đủ số lượng đăng ký chỉ vài giờ sau khi mở đăng ký."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người tiếp tục liên hệ để bày tỏ mong muốn tham gia. Tuy nhiên, do giới hạn về không gian và điều kiện tổ chức, số lượng người tham dự được giới hạn khoảng 100 người nhằm bảo đảm sự kiện diễn ra thuận lợi."
+    },
+    {
+     "t": "p",
+     "text": "Ban tổ chức kỳ vọng những trải nghiệm thực tế và kiến thức được chia sẻ tại chương trình sẽ giúp các em nhỏ thêm yêu thích thiên văn, nuôi dưỡng niềm đam mê khám phá khoa học và vũ trụ."
+    },
+    {
+     "t": "img",
+     "i": 5
     }
    ]
   },
   {
    "id": "0b299f63afa7",
-   "order": 5,
+   "order": 3,
    "slug": "khi-trend-dua-nguoi-tre-den-voi-sach",
    "section": "sang-tao-kien-truc",
    "section_name": "Sáng tạo & Kiến trúc",
@@ -648,7 +344,7 @@
    "source_url": "https://thanhnien.vn/khi-trend-dua-nguoi-tre-den-voi-sach-185260921103004122.htm",
    "published": "2026-09-21T04:20:00+07:00",
    "lang": "vi",
-   "score": null,
+   "score": 8,
    "words": 1100,
    "images": [
     {
@@ -763,6 +459,1390 @@
     {
      "t": "p",
      "text": "Những nội dung ngắn giới thiệu sách, bài chia sẻ cảm nhận hay các trang mạng xã hội chuyên về sách có thể khơi gợi sự quan tâm, tạo cơ hội để người trẻ khám phá những tác phẩm mới. Từ một nội dung bắt gặp trên màn hình, họ có thể tìm đến cuốn sách và tiếp tục đọc bằng sự yêu thích của chính mình."
+    }
+   ]
+  },
+  {
+   "id": "4ecb535da3e1",
+   "order": 4,
+   "slug": "viet-nam-vao-nhom-8-quoc-gia-dan-dau-olympic-tin-hoc-quoc-te",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Việt Nam vào nhóm 8 quốc gia dẫn đầu Olympic Tin học quốc tế 2026",
+   "sapo": "Cả 4 thành viên Đội tuyển quốc gia Việt Nam tham dự Olympic Tin học quốc tế (IOI) năm 2026 đều giành thành tích, với 1 Huy chương Vàng, 2 Huy chương Bạc và 1 Bằng khen.",
+   "author": "Ngọc Nguyễn",
+   "source_name": "Thiếu niên Tiền phong",
+   "source_url": "https://thieunien.vn/viet-nam-vao-nhom-8-quoc-gia-dan-dau-olympic-tin-hoc-quoc-te-2026-tbd68230.html",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 341,
+   "images": [
+    {
+     "src": "img/2026-09-21/4ecb535da3e1-lead.jpg",
+     "caption": "",
+     "w": 560,
+     "h": 315
+    },
+    {
+     "src": "img/2026-09-21/4ecb535da3e1-0.jpg",
+     "caption": "Đội tuyển Olympic tin học quốc gia Việt Nam 2026 cùng 2 thầy dẫn đội. (Ảnh: Bộ GD&ĐT)",
+     "w": 602,
+     "h": 458
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Theo thông tin từ Bộ GD&ĐT, Đội tuyển quốc gia Việt Nam tham dự Olympic Tin học quốc tế (IOI) năm 2026 gồm 4 học sinh. Kết quả, cả 4 thành viên đều được trao giải, gồm 1 Huy chương Vàng, 2 Huy chương Bạc và 1 Bằng khen, đưa Việt Nam vào nhóm 8 quốc gia dẫn đầu tại kỳ thi năm nay."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, thành tích của các thành viên Đội tuyển Việt Nam như sau: Bạn Nguyễn Hữu Tuấn, lớp 12 Trường THPT chuyên Khoa học tự nhiên, Trường ĐH Khoa học tự nhiên, ĐH Quốc gia Hà Nội, là thí sinh duy nhất đoạt huy chương vàng. Các bạn Đặng Huy Hậu, lớp 11 Trường THPT chuyên Thăng Long, tỉnh Lâm Đồng và Nguyễn Bùi Đức Dũng, lớp 12 Trường THPT chuyên Khoa học tự nhiên, Trường ĐH Khoa học tự nhiên, ĐH Quốc gia Hà Nội, cùng đoạt huy chương bạc."
+    },
+    {
+     "t": "p",
+     "text": "Bạn Nguyễn Khánh Phúc, học sinh lớp 10 Trường THPT chuyên Lương Văn Tụy, tỉnh Ninh Bình, được nhận bằng khen."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi IOI lần thứ 38 được tổ chức trực tiếp từ ngày 9/8 đến ngày 16/8, tại thủ đô Tashkent, Uzbekistan, có sự tham gia chính thức của 375 thí sinh đến từ 92 quốc gia và vùng lãnh thổ. Các nước Nga, Belarus, Israel và Turkmenistan dự thi dưới lá cờ Olympic."
+    },
+    {
+     "t": "p",
+     "text": "Có 188 thí sinh đoạt huy chương (32 huy chương vàng, 62 huy chương bạc và 94 huy chương đồng), chiếm tỷ lệ 50% số thí sinh tham dự và 42 thí sinh được tặng bằng khen."
+    },
+    {
+     "t": "p",
+     "text": "Với kết quả 100% thí sinh đều đoạt giải, đội tuyển IOI quốc gia Việt Nam đứng trong nhóm 8 nước và vùng lãnh thổ đạt kết quả cao nhất theo bảng tổng sắp huy chương."
+    },
+    {
+     "t": "p",
+     "text": "7 quốc gia có thành tích cao nhất, lần lượt là: Trung Quốc, Hàn Quốc, Mỹ, Malaysia, Nhật Bản, Ba Lan, Thổ Nhĩ Kỳ. Ban tổ chức không xếp hạng các đội dự thi dưới cờ Olympic."
+    }
+   ]
+  },
+  {
+   "id": "c11d681449bb",
+   "order": 5,
+   "slug": "viet-nam-gianh-21-huy-chuong-ky-thi-toan-hoc-quoc-te-lan-thu",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Việt Nam giành 21 huy chương Kỳ thi Toán học Quốc tế lần thứ 26",
+   "sapo": "Trong 24 thành viên đội tuyển Việt Nam tham dự Kỳ thi Toán học Quốc tế - MIMC 2026, trường Tiểu học, THCS và THPT Ngôi Sao Hoàng Mai đóng góp 8 học sinh. Tất cả học sinh của trường đều giành huy chương cá nhân, đồng thời góp mặt trong nhiều đội đoạt giải cao ở nội dung nhóm và đồng đội.",
+   "author": "Trường Phạm",
+   "source_name": "Thiếu niên Tiền phong",
+   "source_url": "https://thieunien.vn/viet-nam-gianh-21-huy-chuong-ky-thi-toan-hoc-quoc-te-lan-thu-26-tbd68096.html",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 538,
+   "images": [
+    {
+     "src": "img/2026-09-21/c11d681449bb-lead.jpg",
+     "caption": "",
+     "w": 561,
+     "h": 315
+    },
+    {
+     "src": "img/2026-09-21/c11d681449bb-0.jpg",
+     "caption": "Đội tuyển Việt Nam tham gia Kỳ thi Toán học Quốc tế MIMC 2026.",
+     "w": 1000,
+     "h": 562
+    },
+    {
+     "src": "img/2026-09-21/c11d681449bb-1.jpg",
+     "caption": "Các bạn học sinh tham gia Kỳ thi MIMC 2026 thăm Đại sứ quán Việt Nam tại Mông Cổ.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c11d681449bb-2.jpg",
+     "caption": "Học sinh Trường Tiểu học, THCS và THPT Ngôi Sao Hoàng Mai góp mặt vào thành công chung của đội tuyển.",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Kỳ thi Toán học Quốc tế lần thứ 26 – Mongolia International Mathematics Competition 2026, gọi tắt là MIMC 2026, diễn ra tại thủ đô Ulaanbaatar, Mông Cổ, từ ngày 22 đến 27/7/2026, với sự tham gia của học sinh đến từ 32 quốc gia và vùng lãnh thổ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây là sân chơi toán học thường niên dành cho học sinh bậc Tiểu học và THCS. Bên cạnh hai nội dung chính là thi cá nhân và thi đồng đội, MIMC 2026 còn là cơ hội để học sinh giao lưu học thuật, trải nghiệm văn hóa và rèn luyện kỹ năng hợp tác trong môi trường quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Khép lại kỳ thi, đội tuyển Việt Nam giành 4 Huy chương Vàng, 7 Huy chương Bạc, 10 Huy chương Đồng và 2 Giải Khuyến khích ở nội dung cá nhân."
+    },
+    {
+     "t": "p",
+     "text": "Ở hạng mục Group Awards, được xác định dựa trên tổng điểm bài thi cá nhân của các thành viên, Việt Nam có hai đội giành giải Group Champion và một đội đạt giải Group 1st Runner-up. Tại hạng mục Team Awards, dựa trên kết quả bài thi phối hợp của cả đội, các đại diện Việt Nam giành ba Huy chương Bạc và hai Huy chương Đồng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong thành tích chung đó, trường Ngôi Sao Hoàng Mai có đóng góp nổi bật với 8 trong tổng số 24 thành viên đội tuyển Việt Nam, tương đương một phần ba lực lượng tham dự. Học sinh của trường giành 2 trong tổng số 4 Huy chương Vàng của đoàn Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, cả 8 học sinh Ngôi Sao Hoàng Mai đều giành huy chương cá nhân, gồm 2 Huy chương Vàng, 2 Huy chương Bạc và 4 Huy chương Đồng."
+    },
+    {
+     "t": "p",
+     "text": "Hai Huy chương Vàng thuộc về Tạ Minh Quang (lớp 6) và Nguyễn Xuân Đức Minh (lớp 5). Vũ Duy Cường và Phan Hoàng Minh, cùng học lớp 8, giành Huy chương Bạc. Bốn Huy chương Đồng thuộc về Nguyễn Tuấn Đức (lớp 6), Lê Đức Lâm (lớp 5), Trần Quốc Khang và Nguyễn Văn Hữu Nhân (cùng học lớp 7)."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh 8 huy chương cá nhân, 7 trong số 8 học sinh Ngôi Sao Hoàng Mai còn góp mặt trong các đội đạt giải nhóm hoặc đồng đội."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện trường Ngôi Sao Hoàng Mai cho biết, học sinh không được huấn luyện theo một công thức giống nhau. Đội ngũ chuyên môn gồm các thầy cô và chuyên gia căn cứ vào điểm mạnh, tốc độ tiếp nhận và những nội dung cần hoàn thiện của từng em để xây dựng mục tiêu, phương pháp hỗ trợ phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Học sinh được rèn luyện khả năng phân tích, tiếp cận bài toán mới, lựa chọn chiến lược giải, quản trị thời gian và kiểm soát sai sót. Với nội dung đồng đội, các em được rèn thêm kỹ năng phân chia nhiệm vụ, phản biện phương pháp và thống nhất quyết định chung."
+    },
+    {
+     "t": "p",
+     "text": "Theo đó, nhà trường xây dựng mô hình phát triển học sinh dựa trên ba yếu tố: chiều sâu chuyên môn, lộ trình phù hợp với từng cá nhân và sự đồng hành liên tục của chuyên gia, giáo viên."
+    }
+   ]
+  },
+  {
+   "id": "059a6c923878",
+   "order": 6,
+   "slug": "68-ngay-lai-xe-tu-ha-noi-den-paris",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "68 ngày lái xe từ Hà Nội đến Paris",
+   "sapo": "Đỗ Minh Hồ Hải lái xe qua 20 quốc gia, vượt sa mạc, núi cao và quy định nghiêm ngặt ở các cửa khẩu, để đưa những chiếc xe biển số Việt Nam đến Pháp.",
+   "author": "Phương Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/68-ngay-lai-xe-tu-ha-noi-den-paris-5120819.html",
+   "published": "2026-09-21T03:51:54+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1130,
+   "images": [
+    {
+     "src": "img/2026-09-21/059a6c923878-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-21/059a6c923878-0.jpg",
+     "caption": "Ảnh Hải (thứ hai từ phải sang) chụp ảnh tại Paris, Pháp, bên chiếc xe tự lái từ Việt Nam vào ngày 10/9.",
+     "w": 1020,
+     "h": 1529
+    },
+    {
+     "src": "img/2026-09-21/059a6c923878-1.jpg",
+     "caption": "Anh Hải chụp ảnh bên chiếc xe lái từ Việt Nam sang châu Âu tại Tân Cương, Trung Quốc, ngày 20/7.",
+     "w": 1020,
+     "h": 765
+    },
+    {
+     "src": "img/2026-09-21/059a6c923878-2.jpg",
+     "caption": "Anh Hải (thứ ba từ phải sang) chụp ảnh cùng đoàn tại Georgia ngày 13/8.",
+     "w": 1020,
+     "h": 765
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đỗ Minh Hồ Hải lái xe qua 20 quốc gia, vượt sa mạc, núi cao và quy định nghiêm ngặt ở các cửa khẩu, để đưa những chiếc xe biển số Việt Nam đến Pháp."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 6/7, nhóm 16 thành viên do anh Đỗ Minh Hồ Hải làm trưởng đoàn khởi hành từ Hà Nội với đích đến là Paris, Pháp, vượt tổng quãng đường gần 22.000 km."
+    },
+    {
+     "t": "p",
+     "text": "\"Mục tiêu không phải đến đích càng nhanh càng tốt mà là ngắm cảnh đẹp, khám phá văn hóa, cuộc sống của những vùng đất nằm giữa điểm đầu và cuối\", nam du khách đến từ TP HCM nói."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi xe có 1-2 thành viên, gồm 7 ôtô và 2 môtô, đi qua 20 quốc gia: Việt Nam, Lào, Trung Quốc, Kyrgyzstan, Uzbekistan, Kazakhstan, Nga, Georgia, Thổ Nhĩ Kỳ, Hy Lạp, Albania, Montenegro, Croatia, Hungary, Slovakia, CH Czech, Áo, Đức, Luxembourg và Pháp. Lượt về, họ lựa chọn đi máy bay."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải chuyến phượt hay caravan truyền thống. Anh Hải gọi đó là hành trình dạng rally: các xe cùng chung cung đường, điểm đến nhưng chủ động tốc độ, thời gian dừng nghỉ, không nhất thiết phải đi thành đoàn. Sau mỗi 2-3 ngày chạy đường dài, nhóm dành một ngày nghỉ để khám phá thành phố vừa tới."
+    },
+    {
+     "t": "p",
+     "text": "Các thành viên mất gần một năm chuẩn bị cho chuyến đi, từ rèn luyện thể lực, chuẩn bị visa, giấy tờ xe cùng giấy phép lái xe quốc tế IDP cũng như nghiên cứu cung đường, điểm dừng nghỉ và chuẩn bị phương án nếu xe hoặc thành viên gặp sự cố."
+    },
+    {
+     "t": "p",
+     "text": "\"Với chúng tôi, một năm chuẩn bị cũng quan trọng không kém 68 ngày trên đường\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Các xe đều là SUV hoặc bán tải hai cầu, sử dụng lốp AT để có thể chạy trên cao tốc, đường đất, đá và những khu vực xa thành phố."
+    },
+    {
+     "t": "p",
+     "text": "Trung Quốc là quốc gia đoàn lưu lại lâu nhất, 17 ngày nhưng ngày dài nhất chuyến đi, với anh Hải, lại là lúc rời Trung Quốc để nhập cảnh Kyrgyzstan."
+    },
+    {
+     "t": "p",
+     "text": "Đoàn mất 13 tiếng tại cửa khẩu để kiểm tra giấy tờ, làm thủ tục cho 16 người và phương tiện, đến 2h sáng, mọi người mới về tới khách sạn trong tình trạng mệt nhoài."
+    },
+    {
+     "t": "p",
+     "text": "Anh Hải cho biết điều đáng lo không phải chờ lâu mà là chỉ cần một thành viên hoặc một chiếc xe gặp vấn đề về giấy tờ, cả đoàn có thể phải thay đổi kế hoạch. May mắn, tất cả đều nhập cảnh an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, Kyrgyzstan cũng là nơi khiến nam du khách choáng ngợp nhất về cảnh sắc."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, sau khi xem bộ phim Off Road trên Netflix, anh bị cuốn hút bởi thung lũng Altyn-Arashan ở độ cao hơn 2.300 m, dưới chân dãy Terskey Alatau - nơi có những đồng cỏ xanh, rừng thông, sông băng và các mạch nước khoáng nóng tự nhiên. Khi đó, anh tự nhủ một ngày sẽ lái chiếc xe mang biển số Việt Nam tới đây."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 27/7, điều đó thành hiện thực."
+    },
+    {
+     "t": "p",
+     "text": "Cung đường Altyn-Arashan dài 14 km nhưng đoàn mất gần hai giờ để vượt qua đá hộc, cát, suối cạn, dốc cao và những khúc cua men theo vách núi. Có lúc Hải thót tim, toát mồ hôi tay vì chỉ một sai sót nhỏ cũng có thể khiến chiếc xe lao xuống vực."
+    },
+    {
+     "t": "p",
+     "text": "Trong 68 ngày, những cuộc gặp tình cờ với người địa phương trở thành phần ký ức anh Hải nhớ lâu nhất."
+    },
+    {
+     "t": "p",
+     "text": "Tại Chechnya, họ một người nông dân bán dưa. Biết nhóm đã lái xe từ Việt Nam tới, ông cắt dưa mời mọi người, nhất quyết không nhận tiền và chỉ muốn chụp một tấm ảnh lưu niệm. \"Những cuộc gặp đôi khi chỉ kéo dài vài phút, nhưng lại là những thứ tôi nhớ rất lâu sau hành trình\", anh Hải nói."
+    },
+    {
+     "t": "p",
+     "text": "Một kỷ niệm đáng nhớ khác với anh là một số xe trong đoàn bị cảnh sát Nga phạt 150 USD. Theo Hải, nhiều nước Trung Á và Nga cấm sử dụng phim cách nhiệt trên ôtô. Nếu bị kiểm tra, tài xế có thể phải lột phim và nộp phạt."
+    },
+    {
+     "t": "p",
+     "text": "Tổng chi phí chuyến đi khoảng 600 triệu đồng mỗi người. Trong đó, mỗi thành viên tự chi khoảng 300 triệu đồng cho ăn uống, khách sạn và các tour tham quan. Mỗi ôtô tốn thêm 350-400 triệu đồng cho xăng dầu, phí đường bộ và bảo dưỡng. Chi phí vận chuyển xe từ châu Âu về Việt Nam khoảng 170-200 triệu đồng. Họ được một số hãng tài trợ toàn bộ lốp xe."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tại châu Âu, đường sá đi lại thuận lợi hơn nhưng giá cả đắt đỏ hơn. Phí đỗ xe ở châu Âu có thể lên 30-50 euro mỗi ngày, nhiên liệu khoảng 65.000-75.000 đồng mỗi lít."
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi lần vào cây xăng là một lần bị móc túi\", Hải nói vui."
+    },
+    {
+     "t": "p",
+     "text": "Tại CH Czech, một số người trẻ yêu thích du lịch bằng xe tự lái tìm đến khách sạn để ghi hình đoàn xe. Cũng tại quốc gia này, anh Hải còn thưởng thức món tiết canh \"ngon nhất châu Âu\" ở một nhà hàng Việt."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 8/9, sau 65 ngày, 5 trong 9 xe của đoàn tới Paris. Đến lúc này, anh Hải mới thực sự nhẹ nhõm. Mọi người dành thêm 2-3 ngày khám phá thành phố trước khi về Việt Nam. Các xe còn lại tiếp tục khám phá các cung đường riêng tại châu Âu trước khi đến Paris."
+    },
+    {
+     "t": "p",
+     "text": "Tối hôm đó, những thành viên đã tới đích cùng ăn một bữa. Câu chuyện không còn là ngày mai chạy bao nhiêu kilomet hay mấy giờ xuất phát, mà là những kỷ niệm và khó khăn đã trải qua."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Phương Nga, một trong hai phụ nữ của đoàn, ban đầu \"sốc rồi choáng\" khi nghĩ đến chuyến đi kéo dài 68 ngày nhưng vẫn quyết định đồng hành cùng chồng. Hành lý trở về của chị ngoài quà cho gia đình còn có khoảng 2 kg nam châm dán tủ lạnh mua ở những nơi đã đi qua."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 13/9, anh Hải hạ cánh xuống TP HCM, khép lại hành trình gần 22.000 km. Sau mỗi chuyến đi dài, anh nhận thấy mình nhìn mọi việc đơn giản và kiên nhẫn hơn và thế giới còn rất nhiều nơi đáng đến ít nhất một lần trong đời."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2027, Hải dự định lái xe từ Hà Nội tới Moskva. Nhưng trước mắt, kế hoạch ấy vẫn cần một thủ tục mà anh đánh giá quan trọng nhất: \"Đợi vợ cấp phép!\""
+    },
+    {
+     "t": "p",
+     "text": "Phương Anh Video, Ảnh: NVCC"
+    }
+   ]
+  },
+  {
+   "id": "c0037111581b",
+   "order": 7,
+   "slug": "vao-noi-che-tao-robot-chua-chay-hien-dai-cua-viet-nam-xuat-k",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc",
+   "sapo": "(Dân trí) - Sau hơn 3 năm nghiên cứu, những robot chữa cháy do kỹ sư Việt phát triển đã bước ra khỏi nhà máy, tham gia dập lửa thực tế và được xuất khẩu",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/vao-noi-che-tao-robot-chua-chay-hien-dai-cua-viet-nam-xuat-khau-han-quoc-20260918154352795.htm",
+   "published": "2026-09-21T01:51:05+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1219,
+   "images": [
+    {
+     "src": "img/2026-09-21/c0037111581b-0.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-1.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-2.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-3.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-4.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-5.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-6.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-7.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-8.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-9.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-10.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/c0037111581b-11.jpg",
+     "caption": "Vào nơi chế tạo robot chữa cháy hiện đại của Việt Nam xuất khẩu Hàn Quốc - 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Bên trong 1 công xưởng tại Bắc Ninh là nơi nghiên cứu và ra đời của những chú robot chữa cháy đa năng hiện đại. Qua bàn tay và khối óc của đội ngũ kỹ sư Việt Nam, robot ra lò có khả năng phun nước áp lực cao, chịu nhiệt độ khắc nghiệt đã xuất khẩu sang Hàn Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Để tạo ra một sản phẩm robot chữa cháy hoàn chỉnh đáp ứng các tiêu chuẩn quốc tế nghiêm ngặt, đội ngũ phát triển của đã mất hơn 3 năm miệt mài nghiên cứu và thử nghiệm. Quy trình sản xuất robot từ bản vẽ đến khi xuất xưởng kéo dài từ 3 đến 4 tháng, trải qua quy trình kỹ thuật khắt khe."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hành trình ra đời của mỗi chú robot bắt đầu tại Phòng Nghiên cứu & Phát triển (R&D) của nhà máy. Tại đây, các kỹ sư cơ khí đảm nhận việc dựng hình hài, thiết kế kết cấu 3D, trong khi đội ngũ phần mềm và điện tử tập trung nghiên cứu tích hợp hệ thống, lập trình bộ điều khiển."
+    },
+    {
+     "t": "p",
+     "text": "Mọi tham số kỹ thuật, khả năng chịu tải và thuật toán di chuyển đều được tính toán tỉ mỉ trước khi chuyển bản vẽ xuống phân xưởng sản xuất."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhận bản vẽ từ phòng R&D, phân xưởng gia công cơ khí tiến hành cắt, gọt và tạo hình các chi tiết cấu kiện."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Máy cắt laser vận hành tạo ra các phôi linh kiện từ tấm kim loại."
+    },
+    {
+     "t": "p",
+     "text": "Nhà máy được trang bị hệ thống máy móc gia công hiện đại nhập khẩu từ Hàn Quốc, Nhật Bản và các nước tiên tiến, bao gồm máy phay, máy tiện, máy cắt laser, máy uốn và máy chấn."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Kỹ sư vận hành máy gia công cơ khí để tạo phôi và các chi tiết chịu lực cho robot."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Việc sử dụng máy móc độ chính xác cao giúp các chi tiết cơ khí đạt tiêu chuẩn khắt khe, đảm bảo robot vận hành trơn tru và bền bỉ trong môi trường khắc nghiệt."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Sau khi gia công, toàn bộ chi tiết cơ khí được đưa vào phòng đo đạc kiểm tra chất lượng. Tại đây, kỹ sư sử dụng máy đo tọa độ 3D CMM - dòng máy kiểm tra cơ khí hiện đại - để quét và đo đạc chính xác từng kích thước, so sánh trực tiếp với yêu cầu thiết kế ban đầu."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Công đoạn tiếp theo diễn ra tại Phòng Lắp ráp Điện và Phòng Lắp ráp Cơ khí. Tại phòng điện, các linh kiện, mạch điều khiển, cảm biến khí độc và camera nhiệt được đấu nối hoàn chỉnh."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Các kỹ sư tập trung lắp đặt hệ thống dây điện, cảm biến và kết cấu cơ khí lên robot. Cùng lúc đó, khung gầm, hệ thống bánh xích và lăng phun nước áp lực cao được hoàn thiện ở khu vực cơ khí."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Theo Kỹ sư R&D Nguyễn Văn Phi, sau khi hoàn thiện lắp ráp, mỗi robot phải trải qua chuỗi bài kiểm tra thực tế nghiêm ngặt."
+    },
+    {
+     "t": "p",
+     "text": "Robot được đưa vào bãi thử để vượt qua các chướng ngại vật, thử thách leo dốc, leo cầu thang, di chuyển trên nền địa hình gồ ghề, thử khả năng chạy không tải cũng như thử phun nước áp lực lớn."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt với mẫu robot MFF-01 còn có các bài kiểm tra vượt vật cản, kéo vật nặng. Chỉ khi vượt qua tất cả bài test ổn định, robot mới đủ điều kiện đóng gói và giao tới khách hàng."
+    },
+    {
+     "t": "p",
+     "text": "Dòng robot SFF-01 được thiết kế với tiêu chí nhỏ gọn, linh hoạt, tối ưu cho phản ứng nhanh trong các môi trường chật hẹp như tầng hầm, ngõ nhỏ hay công trình dân dụng."
+    },
+    {
+     "t": "p",
+     "text": "Với kích thước khoảng 1.000x495x660mm và khối lượng chỉ khoảng 105kg, hai chiến sĩ cứu hỏa có thể khiêng vác hoặc xếp gọn robot này trên xe thang và xe chỉ huy. Mặc dù nhỏ bé, SFF-01 sở hữu thông số vận hành ấn tượng với vận tốc 5 km/h, khả năng leo dốc 35 độ và vượt vật cản cao 120mm."
+    },
+    {
+     "t": "p",
+     "text": "SFF-01 được trang bị lăng phun có lưu lượng 1.000l/phút với tầm phun xa tới 40m, hỗ trợ nhiều chế độ phun chụm và xòe linh hoạt."
+    },
+    {
+     "t": "p",
+     "text": "“Bên cạnh camera trước sau hỗ trợ lái và quan sát trong khói bụi, robot còn mang bộ cảm biến khí độc có khả năng phát hiện các khí nguy hiểm như CO, CO2, propane,... để liên tục gửi dữ liệu cảnh báo về trung tâm chỉ huy. Nhờ bộ pin dung lượng lớn, thiết bị có thể vận hành liên tục lên tới 8 giờ đồng hồ”, kỹ sư Phi chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trái ngược với vẻ nhỏ gọn của SFF-01, dòng robot MFF-01 là nền tảng đa nhiệm hạng nặng chuyên xử lý các sự cố cháy nổ quy mô lớn tại nhà xưởng, kho xăng dầu hay khu công nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Với trọng lượng 738 kg, MFF-01 có thể di chuyển với tốc độ 10,8 km/h, leo dốc 45 độ, đi nghiêng 35 độ và vượt chướng ngại vật cao tới 300mm. Lăng phun chính của robot hỗ trợ cả nước và bọt chữa cháy, đạt lưu lượng khủng tới 4.800l/phút và tầm phun xa đến 90m."
+    },
+    {
+     "t": "p",
+     "text": "MFF được phát triển như một nền tảng robot chữa cháy mạnh mẽ và đa nhiệm, có khả năng đảm nhận nhiều công việc nguy hiểm tại hiện trường."
+    },
+    {
+     "t": "p",
+     "text": "Robot còn được trang bị camera nhiệt, giúp đo nhiệt độ từ xa, xác định tâm đám cháy và hỗ trợ tìm kiếm nạn nhân trong môi trường khói dày đặc. Hệ thống cảm biến khí độc liên tục giám sát và phát cảnh báo, trong khi tời kéo và lưỡi ủi giúp di chuyển cây đổ, dọn đống đổ nát, mở đường cho lực lượng cứu hỏa tiếp cận."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, nhóm nghiên cứu đã tự thiết kế và chế tạo thành công cơ cấu \"chốt tháo lắp nhanh\" chuyên dụng."
+    },
+    {
+     "t": "p",
+     "text": "Tùy theo yêu cầu nhiệm vụ, MFF có thể lắp hai cáng cứu thương, hai quạt thổi khói hoặc vận chuyển tới 500 kg thiết bị vào hiện trường."
+    },
+    {
+     "t": "p",
+     "text": "Ngay từ năm 2025, 5 robot SFF-01 đã được xuất khẩu sang Hàn Quốc, đồng thời tiếp tục nhận thêm đơn hàng trang bị cho các sân bay tại quốc gia này."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, sản phẩm cũng đã được bàn giao cho Công an Thành phố Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Robot đã góp mặt trong các buổi diễn tập cứu hộ và trực tiếp tham gia chữa cháy tại các vụ cháy lớn ở Hà Nội, gồm vụ cháy bãi đất chứa dầu thải tại Đông Anh ngày 26/4 và vụ cháy xưởng gỗ khoảng 6.000 m2 tại Thanh Liệt ngày 30/3."
+    },
+    {
+     "t": "p",
+     "text": "Đây là điều kiện quan trọng để đánh giá thao tác triển khai, sự phối hợp với lực lượng và phương tiện hiện có, cũng như tính phù hợp của robot với quy trình tác chiến thực tế."
+    },
+    {
+     "t": "p",
+     "text": "So với các đối thủ ngoại nhập từ Châu Âu, sản phẩm robot Việt Nam sở hữu lợi thế cạnh tranh vượt trội về giá thành nhưng vẫn đảm bảo đầy đủ các tính năng tương đương."
+    }
+   ]
+  },
+  {
+   "id": "ddb6d50a4e85",
+   "order": 8,
+   "slug": "man-city-thang-nghet-tho-sunderland-trong-tran-cau-8-ban",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Man City thắng nghẹt thở Sunderland trong trận cầu 8 bàn",
+   "sapo": "(Dân trí) - Etihad bùng nổ với màn rượt đuổi tỷ số nghẹt thở, Man City giành chiến thắng 5-3 trước Sunderland, kéo dài chuỗi bất bại trên sân nhà và chiếm",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/man-city-thang-nghet-tho-sunderland-trong-tran-cau-8-ban-20260920223626255.htm",
+   "published": "2026-09-20T15:36:51+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 957,
+   "images": [
+    {
+     "src": "img/2026-09-21/ddb6d50a4e85-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-21/ddb6d50a4e85-0.jpg",
+     "caption": "Enzo Fernandez ăn mừng bàn mở tỷ số (Ảnh: Getty).",
+     "w": 1280,
+     "h": 815
+    },
+    {
+     "src": "img/2026-09-21/ddb6d50a4e85-1.jpg",
+     "caption": "Fernandez cùng Rayan Cherki ăn mừng bàn thắng (Ảnh: Getty).",
+     "w": 1280,
+     "h": 815
+    },
+    {
+     "src": "img/2026-09-21/ddb6d50a4e85-2.jpg",
+     "caption": "Brian Brobbey lập hat-trick vào lưới Man City (Ảnh: Getty).",
+     "w": 1280,
+     "h": 710
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Etihad bùng nổ với màn rượt đuổi tỷ số nghẹt thở, Man City giành chiến thắng 5-3 trước Sunderland, kéo dài chuỗi bất bại trên sân nhà và chiếm ngôi đầu bảng trước kỳ nghỉ quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Tối 20/9 (giờ Việt Nam), sân Etihad đã chứng kiến một bữa tiệc bóng đá mãn nhãn với 8 bàn thắng được ghi, nơi Man City xuất sắc đánh bại Sunderland với tỷ số 5-3 sau màn rượt đuổi kịch tính đến nghẹt thở. Chiến thắng này không chỉ giúp đoàn quân của HLV Enzo Maresca kéo dài chuỗi 15 trận bất bại trên sân nhà trước Sunderland tại Ngoại hạng Anh, mà còn đưa họ vươn lên dẫn đầu bảng xếp hạng với khoảng cách 3 điểm, tạo đà thuận lợi trước khi giải đấu tạm nghỉ ba tuần."
+    },
+    {
+     "t": "p",
+     "text": "Tận dụng cú sảy chân của Arsenal một ngày trước đó, Man City nhập cuộc đầy quyết tâm và nhanh chóng dồn ép Sunderland. Chỉ sau 9 phút bóng lăn, đội chủ nhà đã có bàn mở tỷ số đầy bất ngờ. Từ một quả đá phạt ở góc rất hẹp, tiền vệ Enzo Fernandez của Man City tung cú sút đưa bóng đi theo quỹ đạo khó lường, khiến thủ môn Robin Roefs của Sunderland hoàn toàn bất ngờ ở cột gần và không kịp phản ứng, đành nhìn bóng nằm gọn trong lưới."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bàn thua sớm không làm Sunderland nao núng. Chỉ 3 phút sau, đội khách đã có câu trả lời đanh thép. Enzo Le Fee thực hiện đường chuyền sắc bén xuyên qua hàng thủ Man City, tạo điều kiện cho Brian Brobbey thoát xuống đối mặt với thủ môn. Tiền đạo người Hà Lan giữ được sự bình tĩnh cần thiết và dứt điểm hiểm hóc vào góc xa, đưa trận đấu trở lại vạch xuất phát."
+    },
+    {
+     "t": "p",
+     "text": "Man City tiếp tục kiểm soát thế trận và một lần nữa vượt lên dẫn trước ở phút 29. Hàng thủ Sunderland mắc sai lầm ngay trong khu vực nguy hiểm, tạo cơ hội cho Rayan Cherki xoay sở trong vòng cấm. Tiền vệ người Pháp nhanh chóng tìm được khoảng trống và tung cú sút chìm hiểm hóc, đưa bóng vào góc thấp khung thành trong sự bất lực của Roefs."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, lợi thế của đội chủ nhà lại một lần nữa chỉ tồn tại trong thời gian ngắn ngủi. Sunderland cho thấy khả năng phản công đáng gờm khi Thomas Meunier, được bố trí chơi như một cầu thủ chạy cánh, bất ngờ xâm nhập khoảng trống phía sau hàng thủ Man City. Sau khi thoát xuống, Meunier bình tĩnh căng ngang vào khu vực cấm địa để Brobbey dễ dàng đệm bóng vào lưới trống ở phút 33, hoàn tất cú đúp và lần thứ hai đưa Sunderland trở lại cuộc chơi."
+    },
+    {
+     "t": "p",
+     "text": "Thế trận trở nên đặc biệt hấp dẫn trong những phút cuối hiệp một khi Man City tiếp tục gia tăng sức ép. Sau một pha bóng lộn xộn trong vòng cấm Sunderland, Antoine Semenyo nhanh chân dứt điểm mạnh mẽ, đưa đội chủ nhà lần thứ ba vượt lên dẫn trước. Man City lẽ ra đã có thể tạo cách biệt hai bàn trước giờ nghỉ, nhưng Haaland lại bỏ lỡ đáng tiếc khi dứt điểm chệch khung thành bỏ trống sau pha xử lý kỹ thuật và đường chuyền thuận lợi của Iliman Ndiaye."
+    },
+    {
+     "t": "p",
+     "text": "Ngay đầu hiệp hai, Man City tiếp tục đẩy cao đội hình và nhanh chóng có bàn thắng thứ tư. Semenyo một lần nữa trở thành nhân vật chính khi tung cú dứt điểm hiểm hóc đưa bóng đi vào góc xa, nâng tỷ số lên 4-2. Tuy nhiên, Sunderland cho thấy họ không dễ dàng chấp nhận thất bại. Đội khách lập tức dồn lên đáp trả và Brobbey hoàn tất cú hat-trick sau pha đệm bóng cận thành."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với ba bàn thắng vào lưới Man City, Brobbey trở thành cầu thủ Sunderland đầu tiên lập hat-trick tại Ngoại hạng Anh kể từ Jermain Defoe năm 2016. Tuy nhiên, dấu ấn cá nhân của tiền đạo người Hà Lan cuối cùng không đủ giúp Sunderland giành điểm. Brobbey cũng trở thành cầu thủ thứ năm trong lịch sử Ngoại hạng Anh ghi hat-trick nhưng vẫn phải nhận thất bại cùng đội nhà."
+    },
+    {
+     "t": "p",
+     "text": "Sunderland tiếp tục gây sức ép trong những phút sau đó, trong khi hàng thủ Man City không ít lần để lộ khoảng trống. Đội khách suýt tận dụng được một sai lầm của thủ môn Gianluigi Donnarumma để tìm bàn gỡ hòa. Donnarumma bị Dan Ballard đánh bại trong pha không chiến, nhưng cú đánh đầu của hậu vệ Sunderland lại bị Ruben Dias kịp thời phá bóng ngay trên vạch vôi, cứu Man City khỏi một bàn thua trông thấy."
+    },
+    {
+     "t": "p",
+     "text": "Khi trận đấu bước vào 10 phút cuối, Man City cuối cùng cũng tạo được khoảng cách đủ an toàn. Erling Haaland ghi bàn thắng thứ năm cho đội chủ nhà, qua đó chấm dứt một thống kê đáng chú ý: Sunderland là đội bóng duy nhất tại Ngoại hạng Anh mà tiền đạo người Na Uy chưa từng chọc thủng lưới trước trận đấu này."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng 5-3 giúp Man City tận dụng thành công cú sảy chân của Arsenal để vươn lên dẫn đầu bảng xếp hạng với cách biệt 3 điểm. Đội bóng của HLV Enzo Maresca sẽ bước vào kỳ nghỉ quốc tế với vị trí dẫn đầu, trong khi Sunderland phải nhận một thất bại đáng tiếc sau khi vừa giành chiến thắng tại Europa League trước AZ Alkmaar hồi giữa tuần."
+    },
+    {
+     "t": "p",
+     "text": "FPT Play mang Ngoại Hạng Anh đến mọi nhà, tại: https://share.fptplay.vn/KQyFwB"
+    }
+   ]
+  },
+  {
+   "id": "7cff44efa3ab",
+   "order": 9,
+   "slug": "ong-lao-sua-xe-75-tuoi-va-goc-nho-tu-te-giua-long-thanh-pho",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Ông lão sửa xe 75 tuổi và góc nhỏ tử tế giữa lòng thành phố",
+   "sapo": "Ở tuổi 75, khi nhiều người đã chọn nghỉ ngơi bên gia đình, ông Sáu vẫn đều đặn ngồi bên góc sửa xe nhỏ tại phường Tam Long, TP.HCM. Chiếc bơm, vài chiếc cờ lê và hộp đồ nghề cũ kỹ đã theo ông suốt nhiều năm, trở thành những vật dụng quen thuộc trong công việc mưu sinh.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ong-lao-sua-xe-75-tuoi-va-goc-nho-tu-te-giua-long-thanh-pho-185260918095922491.htm",
+   "published": "2026-09-20T06:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 405,
+   "images": [
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-0.jpg",
+     "caption": "Những vị khách kiên nhẫn chờ đến lượt sửa xe",
+     "w": 1179,
+     "h": 885
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 959
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 959
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-4.jpg",
+     "caption": "Nụ cười hiếm hoi chỉ xuất hiện lúc ông Sáu trò chuyện với khách",
+     "w": 1189,
+     "h": 892
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-5.jpg",
+     "caption": "Cái xua tay quen thuộc khi khách ngỏ ý gửi tiền công",
+     "w": 1280,
+     "h": 959
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-6.jpg",
+     "caption": "Phút nghỉ ngơi giữa nhịp mưu sinh quen thuộc",
+     "w": 960,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-09-21/7cff44efa3ab-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 307
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Người dân quanh khu vực đã quen với hình ảnh ông Sáu lom khom bên những chiếc xe hỏng. Mỗi ngày, ông vá ruột xe, bơm bánh, chỉnh xích, kiểm tra những hư hỏng nhỏ. Thu nhập chẳng đáng là bao, nhưng ông vẫn ngồi đó, chờ người cần đến mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Tranh thủ lúc vắng khách ông Sáu thu gọn lại những dụng cụ sửa xe. Đôi bàn tay chai sần vẫn khéo léo, chắc nhịp trong từng thao tác sửa xe"
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến nhiều người quý ông Sáu không chỉ là sự cần mẫn mà còn ở cách ông đối đãi với những người khó khăn. Với học sinh, sinh viên, người bán vé số hay lao động nghèo , ông thường bơm bánh, vá xe hoặc sửa những lỗi nhỏ mà không lấy tiền. Có khi chỉ vài nghìn đồng tiền công, thấy khách ái ngại móc ví, ông lại nhẹ nhàng xua tay."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Năm tháng đã để lại những nếp nhăn trên gương mặt và sự chai sần trên đôi bàn tay, nhưng không làm vơi đi sự tận tâm của ông với công việc. Với ông Sáu, sẻ chia không nhất thiết phải bắt đầu từ những điều lớn lao. Đôi khi, đó chỉ là một lần bơm bánh không lấy tiền, một chiếc xe được vá giúp hay cái xua tay khi người khó khăn định gửi vài nghìn đồng."
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    },
+    {
+     "t": "img",
+     "i": 8
+    }
+   ]
+  },
+  {
+   "id": "2d276e7b3a7b",
+   "order": 10,
+   "slug": "robot-ai-han-quoc-tu-tim-duong-o-cho-la-di-nham-con-biet-tim",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Robot AI Hàn Quốc tự tìm đường ở chỗ lạ, đi nhầm còn biết tìm lại",
+   "sapo": "Nhận yêu cầu 'tìm chiếc sofa màu xanh', robot AI do nhóm nghiên cứu Hàn Quốc phát triển có thể quan sát xung quanh, tự tìm đường và kiểm tra xem mình đã đến đúng nơi hay chưa.",
+   "author": "HOÀNG THI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/robot-ai-han-quoc-tu-tim-duong-o-cho-la-di-nham-con-biet-tim-lai-100260917121545559.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 658,
+   "images": [
+    {
+     "src": "img/2026-09-21/2d276e7b3a7b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-21/2d276e7b3a7b-0.jpg",
+     "caption": "Các mẫu robot mới của KAIST-ETRI - Ảnh: HERALD CORP",
+     "w": 1280,
+     "h": 1707
+    },
+    {
+     "src": "img/2026-09-21/2d276e7b3a7b-1.jpg",
+     "caption": "Mẫu robot Guide Dog do nhóm nghiên cứu phát triển - Ảnh: MAEIL BUSINESS",
+     "w": 1280,
+     "h": 959
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một nhóm nghiên cứu của Hàn Quốc vừa đứng đầu cuộc thi quốc tế về khả năng robot hiểu chỉ dẫn của con người và tự di chuyển trong những không gian chưa biết trước."
+    },
+    {
+     "t": "p",
+     "text": "Theo Viện Nghiên cứu điện tử và Viễn thông Hàn Quốc (ETRI), nhóm của viện phối hợp với Viện Khoa học và Công nghệ tiên tiến Hàn Quốc (KAIST) tham dự VLNVerse Challenge, vừa được tổ chức trong khuôn khổ Hội nghị Thị giác máy tính châu Âu ECCV 2026 tại Malmö, Thụy Điển."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc thi có 112 đội tham gia. Nhóm ETRI - KAIST đạt tỉ lệ thành công trung bình 90,7% qua hai nhiệm vụ. Kết quả này ngang đội đứng thứ hai, nhưng nhóm Hàn Quốc xếp đầu do nộp kết quả sớm hơn theo quy định của cuộc thi."
+    },
+    {
+     "t": "p",
+     "text": "Công nghệ được thử sức là điều hướng bằng hình ảnh và ngôn ngữ, gọi tắt là VLN. Robot nhận một yêu cầu bằng ngôn ngữ tự nhiên, dùng camera quan sát môi trường rồi tự quyết định đường đi, không cần con người nhập sẵn từng chặng hoặc chuẩn bị bản đồ chi tiết."
+    },
+    {
+     "t": "p",
+     "text": "Ở nhiệm vụ thứ nhất, robot có thể nhận yêu cầu kiểu \"hãy tìm chiếc sofa màu xanh trong phòng khách\" rồi tự xác định đường đến mục tiêu. Nhiệm vụ thứ hai khó hơn, robot phải làm theo chuỗi chỉ dẫn như \"rẽ phải ở cuối hành lang, đi qua cửa thứ hai rồi dừng cạnh cửa sổ\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo KAIST, nhóm nghiên cứu nhận thấy một nguyên nhân khiến robot thất bại thường nằm ở quyết định dừng. Robot có thể đi qua mục tiêu hoặc nhầm một căn phòng có hình dáng tương tự rồi cho rằng mình đã đến nơi."
+    },
+    {
+     "t": "p",
+     "text": "Để xử lý lỗi này, nhóm phát triển công nghệ CoRe-VLN. Khi robot cho rằng đã đến đích, nó chưa kết thúc nhiệm vụ ngay, mà quan sát lại bốn hướng xung quanh. Một mô hình AI đa phương thức sẽ kiểm tra địa điểm có đúng với yêu cầu hay không, màu sắc và đặc điểm của vật thể có khớp hay không, đồng thời dùng thông tin khoảng cách để xác định mục tiêu có thực sự ở gần."
+    },
+    {
+     "t": "p",
+     "text": "Nếu kết quả cho thấy robot dừng sai chỗ, hệ thống tạo một đường tìm kiếm mới và tiếp tục di chuyển đến những vị trí có khả năng là mục tiêu."
+    },
+    {
+     "t": "p",
+     "text": "ETRI cho biết nhóm đã tinh chỉnh một mô hình thị giác - ngôn ngữ có khoảng 8 tỉ tham số cho nhiệm vụ điều hướng. Quá trình huấn luyện và kiểm tra sử dụng 32 bộ xử lý đồ họa Nvidia H200 được hỗ trợ trong 12 tháng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một ứng dụng ETRI đang hướng đến là robot dẫn đường cho người khiếm thị mang tên Guide Dog. Hệ thống đang được phát triển để xử lý những yêu cầu bằng lời nói như \"đi thẳng\", \"đi đường bên trái\", \"tìm cầu thang\" hay \"tìm lối vào\"."
+    },
+    {
+     "t": "p",
+     "text": "Robot dẫn đường hiện dùng camera và LiDAR để nhận biết lối đi, giao lộ và khoảng cách. ETRI dự kiến kết hợp công nghệ VLN để robot hiểu thêm người dùng muốn đến đâu và địa điểm trước mặt có ý nghĩa gì."
+    },
+    {
+     "t": "p",
+     "text": "Chẳng hạn với yêu cầu \"tìm lối vào\", robot cần xác định đúng đâu là cửa vào, di chuyển đến đó rồi kiểm tra lại để tránh nhầm với một khu vực có hình dáng tương tự."
+    },
+    {
+     "t": "p",
+     "text": "ETRI cũng đang phát triển phiên bản có thể chạy trực tiếp trên chip AI do Hàn Quốc sản xuất. Dự án đặt mục tiêu đến năm 2029 đưa mô hình thị giác - ngôn ngữ lên các bộ xử lý AI trong nước để robot, gồm cả robot hình người, có thể tự di chuyển trong nhà máy và kho hàng mà không cần bản đồ độ chính xác cao."
+    }
+   ]
+  },
+  {
+   "id": "a904511b8338",
+   "order": 11,
+   "slug": "pho-hang-ma-dong-kin-nguoi-ruc-ro-sac-mau-dip-can-trung-thu",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Phố Hàng Mã đông kín người, rực rỡ sắc màu dịp cận Trung thu",
+   "sapo": "Cận Trung thu, hàng ngàn người dân đổ về phố Hàng Mã (phường Hoàn Kiếm, Hà Nội) để dạo chơi, chụp ảnh, mua sắm trong ngày cuối tuần nắng đẹp. Không khí phố cổ rộn ràng với sắc màu của đèn lồng, mặt nạ, đầu lân và đồ chơi truyền thống.",
+   "author": "PHẠM TUẤN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/pho-hang-ma-dong-kin-nguoi-ruc-ro-sac-mau-dip-can-trung-thu-100260920184827338.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 597,
+   "images": [
+    {
+     "src": "img/2026-09-21/a904511b8338-0.jpg",
+     "caption": "Chiều 20-9, chợ Trung thu truyền thống trên phố Hàng Mã đông kín người",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-1.jpg",
+     "caption": "Nhiều món đồ chơi truyền thống dịp Trung thu được nhiều người chọn mua",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-4.jpg",
+     "caption": "Chợ Trung thu trên phố Hàng Mã được tổ chức đều đặn hằng năm",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-5.jpg",
+     "caption": "Đầu lân, trống mini với nhiều hình dạng, kiểu dáng đa dạng được bày bán tại chợ Trung thu truyền thống trên phố Hàng Mã",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-10.jpg",
+     "caption": "Nắng chiều thu chiếu xuống phố Hàng Mã càng khiến tuyến phố thêm lung linh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/a904511b8338-11.jpg",
+     "caption": "Nhiều gia đình đưa trẻ nhỏ lên phố Hàng Mã để dạo chơi dịp cuối tuần",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Chiều 20-9 (ngày 10-8 âm lịch), cận Trung thu , hàng ngàn người dân đổ về phố Hàng Mã ( Hà Nội ) để dạo chơi, chụp ảnh, mua sắm trong ngày cuối tuần nắng đẹp."
+    },
+    {
+     "t": "p",
+     "text": "Ghi nhận của Tuổi Trẻ , phố Hàng Mã (Hà Nội) khoác lên mình sắc màu rực rỡ của mùa Trung thu. Dọc tuyến phố, đèn lồng, mặt nạ giấy bồi, đầu lân và nhiều món đồ chơi truyền thống được bày kín trước các cửa hàng, tạo nên không khí đặc trưng của Trung thu Hà Nội."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Phố Hàng Mã trở thành điểm đến cuối tuần của nhiều gia đình, trẻ nhỏ, người trẻ và du khách. Nhiều người đến mua sắm, chụp ảnh lưu niệm; các em nhỏ háo hức chọn đèn ông sao, mặt nạ, đầu lân."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các em nhỏ chụp ảnh lưu niệm dịp Trung thu"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Không gian Hàng Mã chiều 20-9 nổi bật với những gam màu đỏ, vàng, xanh của đồ chơi và ánh đèn. Tiếng mua bán, tiếng trẻ nhỏ cùng dòng người đi bộ len giữa các gian hàng khiến con phố càng thêm nhộn nhịp trước thềm rằm tháng tám."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đưa con lên phố Hàng Mã chơi Trung thu, chị Vũ Thu Hương (36 tuổi, phường Minh Khai, Hà Nội) cho biết chị cảm thấy vui và thích thú."
+    },
+    {
+     "t": "p",
+     "text": "“Hôm nay không khí hơi đông một chút nhưng mình cũng rất thích, bởi đây là một dịp lễ truyền thống. Mọi người có dịp được xem những đồ chơi truyền thống, đồng thời cho trẻ em hiểu hơn về những truyền thống của dân tộc”, chị Hương chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo chị Hương, đưa trẻ đến những không gian như phố Hàng Mã không chỉ để vui chơi mà còn giúp các em trực tiếp nhìn thấy, trải nghiệm những món đồ chơi gắn với Tết Trung thu truyền thống."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Nhiều gia đình, bạn trẻ chụp ảnh bên đèn lồng Trung thu rực rỡ sắc màu"
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Du khách nước ngoài dạo chơi khu vực phố Hàng Mã và các tuyến phố lân cận"
+    },
+    {
+     "t": "h",
+     "text": "Cấm đường tuyến phố Hàng Mã để tổ chức chợ Trung thu truyền thống"
+    },
+    {
+     "t": "p",
+     "text": "UBND phường Hoàn Kiếm cho biết từ nay đến hết ngày 25-9, phường sẽ tổ chức chợ Trung thu truyền thống phố cổ năm 2026 trên phố Hàng Mã phục vụ người dân và du khách tham quan, mua sắm, trải nghiệm các sản phẩm văn hóa truyền thống."
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, chợ được tổ chức trên phố Hàng Mã, đoạn từ ngã tư Hàng Mã - Hàng Đường đến ngã tư Hàng Mã - Hàng Cót."
+    },
+    {
+     "t": "p",
+     "text": "Các gian hàng được bố trí dọc hai bên tuyến phố, giới thiệu đồ chơi trẻ em, đồ trang trí Trung thu, sản phẩm nghề thủ công truyền thống, bánh Trung thu và các sản phẩm phù hợp với bản sắc văn hóa dân tộc."
+    },
+    {
+     "t": "p",
+     "text": "Chợ Trung thu truyền thống phố cổ được tổ chức kết nối với các hoạt động văn hóa Trung thu khác tại khu phố cổ Hà Nội, gồm chương trình \"Lưu trăng phố cổ 2026\" tại số 22 Hàng Buồm, không gian \"Đón trăng\" tại Ngôi nhà Di sản 87 Mã Mây và không gian sáng tạo về đầu sư tử truyền thống tại Trung tâm Thông tin văn hóa Hồ Gươm, số 2 Lê Thái Tổ."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian tổ chức chợ, đoạn phố Hàng Mã nêu trên sẽ được cấm đường 24/24h. Các xe được phân luồng theo phương án tổ chức giao thông."
+    },
+    {
+     "t": "p",
+     "text": "Tết Trung thu năm 2026 rơi vào ngày 25-9."
+    }
+   ]
+  },
+  {
+   "id": "a132ac089ebb",
+   "order": 12,
+   "slug": "lac-buoc-dao-thien-duong-santorini",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Lạc bước đảo thiên đường Santorini",
+   "sapo": "Đảo Santorini của Hy Lạp được cho là nơi đẹp nhất thế gian để ngắm hoàng hôn. Dạo bước trên đỉnh làng cổ nổi tiếng Oia hay ngôi làng lãng mạn Imerovigli, nhiều du khách như lạc vào thiên đường khi ngắm mặt trời",
+   "author": "TS BÙI TỐ UYÊN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/lac-buoc-dao-thien-duong-santorini-100260920162627388.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1730,
+   "images": [
+    {
+     "src": "img/2026-09-21/a132ac089ebb-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-0.jpg",
+     "caption": "Nhiều tình yêu đôi lứa đã ươm mầm từ đảo thiên đường này - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-1.jpg",
+     "caption": "Ánh tà trên Santorini - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-2.jpg",
+     "caption": "Rất nhiều du khách đã tìm đến để được ngắm phong cảnh hòn đảo đẹp như thiên đường này - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-3.jpg",
+     "caption": "Du khách đến đảo một lần sẽ mãi khó quên - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-4.jpg",
+     "caption": "Du khách ngắm buổi trình diễn cuối ngày của thiên nhiên tuyệt đẹp - Ảnh: BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 748
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-5.jpg",
+     "caption": "Dấu vết hoạt động núi lửa từ xa xưa vẫn còn nhìn thấy trên các vách đá ở đảo",
+     "w": 1280,
+     "h": 848
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-6.jpg",
+     "caption": "Cánh đồng nho đã từ xa xưa trên đảo Santorini - Ảnh: BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 729
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-7.jpg",
+     "caption": "Hầm rượu vang trong hang núi - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-8.jpg",
+     "caption": "Làng Akarotiri đẹp bình yên với những con ngõ nhỏ như nhiều ngôi làng khác trên đảo - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-09-21/a132ac089ebb-9.jpg",
+     "caption": "Tháp chuông Megacholori đẹp như cảnh thần thoại trước biển hoàng hôn - Ảnh: TS BÙI TỐ UYÊN",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau một ngày tắm biển hay tham quan đảo Santorini , một hoạt động không thể bỏ qua, gần như một nghi lễ, là tận hưởng khoảng thời gian mặt trời lặn xuống đại dương hay hắt bóng nhà thờ. Và người ta không phải thấy ngày tàn, mà là tinh túy của nắng gió một ngày gói lại, ban tặng cuộc trình diễn đỉnh cao cuối cùng."
+    },
+    {
+     "t": "h",
+     "text": "Những ngôi làng cheo leo với tháp chuông trên vách núi"
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh những ngôi làng với khung cảnh panorama choáng ngợp, đảo Santorini còn rất nhiều ngôi làng nhỏ nằm rải rác. Rong ruổi trên đường gập ghềnh vắt qua những dãy núi, men theo vách đá dựng đứng dọc bờ biển hay uốn lượn giữa cánh đồng nho, dấu hiệu nhận ra những ngôi làng là chùm nhà trắng nổi bật lên chóp tròn xanh da trời hay tháp chuông hướng về biển."
+    },
+    {
+     "t": "p",
+     "text": "Một ngày, chúng tôi đi xe từ bờ đông vắt ngang hòn đảo sang bờ tây, mục đích chỉ kiếm tìm mơ hồ \"trái tim Santorini\" đẽo hình xuyên vào núi đá. Nào ngờ nơi mép đá cheo leo ấy lại là rìa ngôi làng Megacholori nổi tiếng trồng nho cổ với những hầm rượu vang quý. Đi thêm vài bước xuống chân vách núi, tôi lại bất ngờ gặp nhà thờ nhỏ xíu nép mình dưới vách đá khuất nẻo. Nhà thờ chìm trong hốc núi, chỉ có phần mái với 3 quả chuông truyền thống là vươn lên giữa sỏi đá khô cằn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh ba quả chuông này là đặc trưng bất cứ tháp chuông nào trong phần lớn nhà thờ lớn nhỏ trên đảo. Cách xa nhà cửa dân cư, lối xuống khuất nẻo và gập ghềnh khó đi, tưởng như nhà thờ tìm một nơi yên tĩnh ẩn mình. Quay mặt về hướng tây hứng trọn ánh hoàng hôn, với màu trắng muốt, ba tháp chuông nổi bật trên nền vách đá núi lửa nâu đỏ. Tháp chuông vươn cao như cột mốc cho những thuyền cá tìm đường về trong những ngày dông bão, cũng là nơi gióng những hồi chuông cầu nguyện bình an cho những người ra khơi xa."
+    },
+    {
+     "t": "p",
+     "text": "Những ngôi làng cheo leo trên vách đá này mang kiến trúc nhà \"hang động\" Yposkafa, đặc trưng của các đảo vùng Cyclades. Xưa kia, người dân đã sử dụng những hang động tự nhiên hình thành bởi hoạt động của núi lửa đào sâu trong vách núi, để trở thành nơi trú ngụ, rồi dần dần xây dựng và mở rộng để có những kiến trúc độc đáo như nay."
+    },
+    {
+     "t": "p",
+     "text": "Chúng là những ví dụ trực quan cho tính thích ứng của nó với điều kiện khí hậu khắc nghiệt nóng nắng mùa hè và gió mạnh mùa đông. Những ngôi nhà thấp nhỏ trần cong với màu vôi trắng phản xạ ánh sáng, nép tựa vào nhau thành một khối thống nhất, cùng giữ mát vào mùa hạ và tránh gió mạnh mùa đông."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Tạt vào thăm khi hoàng hôn dần tắt, chúng tôi tìm đến những ngôi làng giản dị hơn. Như Akrotiri ở nam đảo, với điểm khảo cổ nổi tiếng nhất vùng là dấu tích thành cổ vùi lấp dưới nham thạch núi lửa từ hơn 1.500 năm trước Công nguyên. Hay ở trung tâm đảo, làng Pyrgos trên ngọn đồi cao với tầm nhìn 360 độ. Điểm chung là những con ngõ hẹp chẳng bao giờ thẳng, những lối ngang ngõ tắt lên xuống giao cắt như ma trận. Những lối đi mở ra góc nhìn luôn bất ngờ, có khi chui xuyên lom khom dưới một tòa nhà rồi đột ngột dẫn ra một hiên trời tầm nhìn bát ngát ra mặt biển lộng gió."
+    },
+    {
+     "t": "p",
+     "text": "Và không thể thiếu những bậc thang chẳng bao giờ bằng nhau, chẳng vuông thành sắc cạnh, những vách tường đất liêu xiêu. Rất khó tìm thấy những đường thẳng tuyệt đối, tất cả góc cạnh đều biến mất, như được vuốt mềm bằng gió, như những viên sỏi được bào tròn bởi dòng nước. Ngõ vắng, chỉ thi thoảng bắt gặp những cụ già ngồi chuyện trò bên hiên, tiếng người nói trộn với mùi đồ ăn phả ra từ những khung cửa không kính, chỉ gỗ và rèm vải rung rinh cho gió luồn qua. Vài đứa trẻ và chó mèo rong chơi ú tìm trong những con hẻm hẹp đôi khi chỉ đủ một người đi."
+    },
+    {
+     "t": "p",
+     "text": "Lạc bước ở đây, tôi không thể không liên tưởng ngôi làng chài bên bờ biển Quy Nhơn với nhiều điểm tương đồng. Những con ngõ lắt léo mà điểm chỉ dẫn duy nhất là mùi gió chỉ lối về hướng biển. Vòng vèo lên dốc, tôi mỏi chân nhưng gặp một khoảng sân thoáng đón gió lộng và ngắm nhìn về xa giúp vơi bớt mệt. Tương truyền những con ngõ uốn lượn ấy được tạo hình bằng hướng gió. Khi xưa, làng chài chỉ mọc trên đồi cát, những căn nhà nép vào nhau tránh gió mùa mưa bão, nhấp nhô hướng về biển ngóng thuyền về. Không biết những con ngõ của ngôi làng trên hòn đảo Hy Lạp này có cùng lý do hình thành bởi hướng gió?"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "h",
+     "text": "Giống nho quý hiếm cổ xưa vẫn vươn lên từ sỏi đá Santorini"
+    },
+    {
+     "t": "p",
+     "text": "Bao quanh những ngôi làng rải rác khắp đảo Santorini là khung cảnh ruộng nho trải dài tít tắp. Ngoài nghề đi biển, nghề trồng và làm rượu nho là hoạt động nông nghiệp chính và niềm tự hào của cư dân."
+    },
+    {
+     "t": "p",
+     "text": "Từ hàng ngàn năm trước Công nguyên, nghề trồng nho và làm rượu vang đã hình thành, đưa Santorini là một trong những vùng làm rượu vang lâu đời nhất thế giới. Thời hoàng kim những thế kỷ 6 đến 4 trước Công nguyên dưới thời La Mã cổ đại, ban tặng rượu nho Santorini là món quà quý của các bậc đế vương."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Sản vật kết tinh từ đất núi cằn khô nơi đây là hơn chục giống nho được gìn giữ qua nhiều thế kỷ. Do đặc tính đất núi lửa nghèo đất sét, mà những ruộng nho không bị tấn công bởi bệnh Phylloxéra - loại côn trùng đã hủy diệt hàng triệu héc ta cánh đồng nho của các nước châu Âu và thế giới giữa thế kỷ 19 ."
+    },
+    {
+     "t": "p",
+     "text": "Kể từ đó, nhiều giống nho cổ bị mai một, và phần rất nhiều giống nho hiện nay của châu Âu là mọc trên thân ghép gốc nho Mỹ, bị cho là thay đổi hương vị nguyên gốc. Vì vậy, các giống nho Santorini còn nổi tiếng thuộc số hiếm không bị cấy ghép, có sự đồng điệu giữa hương vị nho và thổ nhưỡng. Trong đó, Assyrtiko là giống nho nổi tiếng nhất, mang mùi vị giàu khoáng chất của đất đảo núi lửa, được tưới tắm bằng những giọt sương sớm đượm hương biển trời Địa Trung Hải. Nó trở nên độc nhất, không thể nhầm lẫn với bất cứ giống nho nào khác."
+    },
+    {
+     "t": "p",
+     "text": "Những giống nho này làm nguyên liệu tạo ra nhiều loại rượu vang trắng trứ danh với cách chưng cất đặc biệt riêng. Và không thể không kể đến Vinsanto - rượu vang xứ Santorini nổi tiếng ra đời từ thời Trung Cổ, được các thuyền buôn xứ Venise giao thương khắp các thương cảng giàu có nhất."
+    },
+    {
+     "t": "p",
+     "text": "Nho được thu hoạch muộn cuối mùa để chín đậm nhất, rồi được phơi nhiều tuần liền dưới nắng, sau đó rượu được ủ ít nhất 2 năm trong thùng gỗ sồi trước khi đóng chai và để thêm 5 năm mới bán ra, tạo ra loại rượu vang ngọt, màu sánh vàng nâu như mật ong, giàu vị khoáng chất đặc trưng."
+    },
+    {
+     "t": "p",
+     "text": "Điều đặc biệt nữa là chủ yếu các loại rượu nho ở đây được lên men hoàn toàn tự nhiên, không dùng thêm đường tăng độ cồn như nhiều loại rượu nho khác trên thế giới hiện nay. Những cánh đồng nho trên đảo cũng được nông dân tìm tòi cách chăm sóc đặc biệt để chống chọi với điều kiện khí hậu khắc nghiệt. Nhờ đó ra đời cách cuốn cành nho \"koulara\" thành hình như cái giỏ tròn, để bảo vệ các mầm non phát triển chống lại gió mạnh khốc liệt, đồng thời giữ độ ẩm cho cây."
+    },
+    {
+     "t": "p",
+     "text": "Đến thăm Santorini, du khách sẽ gặp những cánh đồng nho trải dài lòa xòa mặt đất, cuốn quanh những thân cây như những tổ chim lớn. Rượu nho cũng được ủ trong những khu hầm sâu đào trong hang núi đá , mà ngày nay du khách dễ dàng tham quan và thưởng thức trong những hầm rượu cổ xưa, đặc biệt quanh khu vực vách núi làng Oia ở phía bắc, hay tại các làng trồng nho và bảo tàng rượu nho ở trung tâm và phía bờ đông đảo."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ khi đặt chân đến đây để sống và cảm nhận mới càng bị mê hoặc và kính nể sức sống mãnh liệt tiềm tàng của con người trên hòn đảo này. Cảnh quan kiến trúc và đặc sản nghề rượu vang chính là những tinh túy mà con người nơi đây đã chắt lọc để sinh tồn, rồi gìn giữ qua hàng ngàn năm và trở thành báu vật của nhân loại."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Santorini (tên cổ Thera) là hòn đảo xinh đẹp như thần thoại ở miền nam biển Aegea, cách 200km về phía đông nam đại lục Hy Lạp. Đây là đảo lớn nhất của một quần đảo, có hình dạng hình vòng tròn và là tàn dư hoạt động núi lửa xa xưa."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 3.600 năm trước ở thời điểm đỉnh cao nền văn minh Minoa, đảo đã diễn ra một trong những vụ phun trào núi lửa lớn nhất từng được ghi nhận trong lịch sử. Vụ phun trào đã để lại miệng núi lửa bao quanh một lớp tro núi lửa dày và có thể gián tiếp là khởi nguồn dẫn đến sự sụp đổ nền văn minh Minoa trên đảo Crete, 110km về phía nam bằng một trận sóng thần khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, Santorini là một trong những hòn đảo có sức hấp dẫn đặc biệt với du khách khắp thế giới."
     }
    ]
   }
