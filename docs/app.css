@@ -206,3 +206,7 @@ textarea.answer {
 .barrow i.bar { height: 14px; border-radius: 999px; background: var(--accent); display: block; }
 .barrow b { color: var(--accent); }
 .parent table { table-layout: fixed; word-break: break-word; }
+.hint-box { background: var(--soft); border-radius: 16px; padding: 14px 18px; margin-top: 14px; font-size: .9rem; }
+.hint-box p { margin: 6px 0 0; }
+.hint-box code { background: rgba(0,0,0,.07); border-radius: 6px; padding: 1px 6px; }
+:root[data-theme="dark"] .hint-box code { background: rgba(255,255,255,.12); }

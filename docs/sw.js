@@ -12,6 +12,9 @@ self.addEventListener("activate", e => {
 self.addEventListener("fetch", e => {
   const url = new URL(e.request.url);
   if (url.origin !== location.origin) return;               // font Google: để trình duyệt tự lo
+  // File giọng đọc rất nặng (mỗi bài ~1,6 MB): để trình duyệt tự xử lý, KHÔNG đưa vào cache
+  // của app, tránh làm đầy bộ nhớ máy tính bảng và giữ lại audio của những ngày đã cũ.
+  if (url.pathname.endsWith(".mp3")) return;
   if (url.pathname.includes("/data/")) {
     // mạng trước, lưu lại; mất mạng → cache (bỏ query ?t=)
     const key = new Request(url.origin + url.pathname);

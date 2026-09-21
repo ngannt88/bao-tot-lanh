@@ -44,6 +44,31 @@ Ngày thường 150–250 bài mới → khoảng **10.000 token đầu ra Haiku
 So với một buổi code dùng Opus (hàng triệu token) thì không đáng kể. Nếu bật suy nghĩ ở vòng 1 sẽ tốn gấp 9 lần
 mà chỉ tinh hơn chút; vòng 2 mới là nơi đáng để AI suy nghĩ vì chỉ 25 bài và có nội dung thật.
 
+## Giọng đọc thật, chữ sáng theo lời
+
+Bé 7 tuổi chưa đọc trôi, nên mỗi sáng `pipeline/tts.py` tạo sẵn file giọng đọc tiếng Việt cho các bài đầu
+số báo, kèm mốc thời gian theo từng câu. Trong app, nút **Nghe đọc bài này** phát giọng và làm **sáng câu
+đang đọc**, cuộn theo. Đây là cách trẻ tập đọc: nghe và nhìn chữ cùng lúc.
+
+| | |
+|---|---|
+| Công cụ | edge-tts, giọng `vi-VN-HoaiMyNeural`, chậm 8% |
+| Đo thật | 10 bài mất 153 giây, 15,7 MB |
+| Giới hạn | `audio.max_articles` bài mỗi số, giữ `audio.keep_days` ngày |
+| Token AI | 0 |
+
+Bài ngoài hạn mức vẫn nghe được bằng giọng máy của trình duyệt, chỉ là không có chữ sáng theo.
+File mp3 **không** được đưa vào bộ nhớ đệm của app, tránh làm đầy máy tính bảng.
+
+## Con thích bài nào
+
+Cuối mỗi bài có nút 👍. Dữ liệu này **chỉ nằm trên máy tính bảng**, không gửi đi đâu. Góc cha mẹ hiển thị
+số bài đã đọc, chủ đề con thích nhất và danh sách bài được thích, kèm nút sao chép báo cáo.
+
+**Hệ thống không tự đọc được tín hiệu này**, vì nó nằm trên máy của con chứ không phải máy chạy pipeline.
+Muốn biến nó thành thay đổi thật, cha mẹ sao chép báo cáo rồi sửa `scoring.criteria` hoặc `max_per_issue`
+trong `config/newspaper.yaml`. Góc cha mẹ ghi rõ điều này để không hứa hẹn sai với trẻ.
+
 ## Lưới an toàn: tự xuất bản
 
 Nếu đến giờ hẹn (`review.auto_publish.hour`, mặc định 7:30) mà bố mẹ chưa duyệt, hệ thống tự chọn

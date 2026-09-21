@@ -191,7 +191,7 @@
         <div class="byline end">${a.translated ? "Bài gốc tiếng Anh của " : "Theo "}${esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
         <div class="like-box">
           <button class="btn like ${isLiked(a) ? "on" : ""}" id="like">${isLiked(a) ? "👍 Bạn thích bài này" : "👍 Bài này hay"}</button>
-          <span class="muted">Bấm để bố mẹ biết con thích gì, hôm sau sẽ có thêm bài giống thế.</span>
+          <span class="muted">Bấm để bố mẹ biết con thích đọc gì.</span>
         </div>
         <div class="nav">
           <button class="btn" data-go="cover">☰ Trang bìa</button>
@@ -205,7 +205,7 @@
   function viewDone() {
     const liked = Object.keys(state.likes[state.issue.date] || {}).length;
     return shell(`<section class="done"><div class="big">🌟</div><h1>Bạn đọc hết ${state.issue.articles.length} bài!</h1>
-      <p>${liked ? `Bạn đã thích ${liked} bài. Hôm sau sẽ có thêm bài giống thế.` : "Hẹn gặp lại ngày mai với số báo mới nhé."}</p>
+      <p>${liked ? `Bạn đã thích ${liked} bài hôm nay.` : ""} Hẹn gặp lại ngày mai với số báo mới nhé.</p>
       <div class="row" style="justify-content:center"><button class="btn" data-go="cover">Về trang bìa</button><button class="btn primary" data-go="history">🗓️ Các số trước</button></div></section>`);
   }
 
@@ -273,6 +273,10 @@
         : `<p class="muted">Con chưa bấm thích bài nào. Nút 👍 nằm ở cuối mỗi bài.</p>`}
       ${r.liked.length ? `<h2>Bài con thích gần đây</h2><table>${r.liked.slice(0, 12).map(x => `<tr><td style="white-space:nowrap">${esc(x.d)}</td><td>${esc(x.title)}</td><td>${esc(x.source)}</td></tr>`).join("")}</table>` : ""}
       <div class="row" style="margin-top:14px"><button class="btn small" id="copy-report">📋 Sao chép báo cáo</button><span class="muted" id="copied"></span></div>
+      ${top.length ? `<div class="hint-box"><b>Biến điều này thành thay đổi thật</b>
+        <p>Con thích nhất <b>${esc(secName(top[0][0]))}</b>. Hệ thống KHÔNG tự đọc được dữ liệu này vì nó chỉ nằm trên máy tính bảng.
+        Muốn số báo sau có thêm bài loại này, hãy sao chép báo cáo rồi sửa mục <code>scoring.criteria</code> trong
+        <code>config/newspaper.yaml</code>, hoặc tăng <code>max_per_issue</code> của mục đó.</p></div>` : ""}
 
       <h2>Số báo ${fmtDate(iss.date)} — nguồn để đối chiếu</h2>
       <table><tr><th>Mục</th><th>Bài</th><th>Nguồn</th><th>Điểm</th></tr>
