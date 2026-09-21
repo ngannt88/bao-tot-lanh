@@ -10,3 +10,5 @@ data/probe_result.json
 .env
 data/candidates/
 docs/data/img/
+docs/data/audio/
+data/tts-test/
