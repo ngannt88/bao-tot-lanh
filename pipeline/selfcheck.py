@@ -24,10 +24,17 @@ def main():
             continue
         row = {"id": src["id"], "name": src["name"], "feed_ok": False, "items": 0, "extract_ok": None}
         try:
-            r = http_get(src["url"], HEADERS, 20)
-            fp = feedparser.parse(r.content)
-            row["items"] = len(fp.entries)
-            row["feed_ok"] = r.status_code == 200 and len(fp.entries) > 0
+            if src.get("type") == "html":
+                from collect import _fetch_html_listing
+                entries = _fetch_html_listing(src)
+                row["items"] = len(entries)
+                row["feed_ok"] = len(entries) > 0
+                fp = type("FP", (), {"entries": [type("E", (), {"link": e["url"], "get": (lambda self, k, d="": e.get("title", d) if k == "title" else d)})() for e in entries]})()
+            else:
+                r = http_get(src["url"], HEADERS, 20)
+                fp = feedparser.parse(r.content)
+                row["items"] = len(fp.entries)
+                row["feed_ok"] = r.status_code == 200 and len(fp.entries) > 0
         except Exception as e:
             row["error"] = str(e)[:80]
         domain = src["url"].split("/")[2]

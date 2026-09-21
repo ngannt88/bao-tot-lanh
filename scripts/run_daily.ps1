@@ -9,7 +9,7 @@ $env:PYTHONUTF8 = "1"
 $Py = Join-Path $Root ".venv\Scripts\python.exe"
 $log = Join-Path $Root "data\logs\scheduler.log"
 New-Item -ItemType Directory -Force (Split-Path $log) | Out-Null
-"=== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') bắt đầu ===" | Add-Content $log
+"=== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') bắt đầu ===" | Add-Content -Encoding UTF8 $log
 
 function Notify($title, $msg) {
     # Thông báo Windows, không cần cài thêm gì
@@ -21,7 +21,7 @@ function Notify($title, $msg) {
         $t.Item(1).AppendChild($xml.CreateTextNode($msg)) | Out-Null
         $toast = [Windows.UI.Notifications.ToastNotification]::new($xml)
         [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("Báo Tốt Lành").Show($toast)
-    } catch { "notify lỗi: $_" | Add-Content $log }
+    } catch { "notify lỗi: $_" | Add-Content -Encoding UTF8 $log }
 }
 
 $today = Get-Date -Format 'yyyy-MM-dd'
@@ -29,7 +29,7 @@ $candFile = Join-Path $Root "data\candidates\$today.json"
 $issueFile = Join-Path $Root "docs\data\issues\$today.json"
 
 if (Test-Path $issueFile) {
-    "Số báo hôm nay đã xuất bản, không làm gì." | Add-Content $log
+    "Số báo hôm nay đã xuất bản, không làm gì." | Add-Content -Encoding UTF8 $log
     exit 0
 }
 
@@ -40,17 +40,17 @@ if (-not (Test-Path $candFile)) {
         if (Test-Connection -ComputerName 1.1.1.1 -Count 1 -Quiet) { $ok = $true; break }
         Start-Sleep -Seconds 10
     }
-    if (-not $ok) { "Không có mạng, bỏ qua." | Add-Content $log; exit 1 }
-    & $Py (Join-Path $Root "pipeline\run_daily.py") 2>&1 | Add-Content $log
+    if (-not $ok) { "Không có mạng, bỏ qua." | Add-Content -Encoding UTF8 $log; exit 1 }
+    & $Py (Join-Path $Root "pipeline\run_daily.py") 2>&1 | Add-Content -Encoding UTF8 $log
     $code = $LASTEXITCODE
-    "pipeline exit=$code" | Add-Content $log
+    "pipeline exit=$code" | Add-Content -Encoding UTF8 $log
     if ($code -ne 0 -or -not (Test-Path $candFile)) {
         Notify "Báo Tốt Lành: lỗi lấy tin sáng nay" "Xem data\logs\scheduler.log"
         exit 1
     }
     Notify "Báo Tốt Lành: có ứng viên mới" "Mở trang duyệt để chọn bài cho con"
 } else {
-    "Ứng viên hôm nay đã có, chỉ mở trang duyệt." | Add-Content $log
+    "Ứng viên hôm nay đã có, chỉ mở trang duyệt." | Add-Content -Encoding UTF8 $log
 }
 
 # Bật máy chủ duyệt nếu chưa chạy, rồi mở trình duyệt tới trang duyệt
@@ -58,7 +58,7 @@ $listening = Get-NetTCPConnection -LocalPort 8765 -State Listen -ErrorAction Sil
 if (-not $listening) {
     Start-Process -FilePath $Py -ArgumentList "`"$(Join-Path $Root 'pipeline\review_server.py')`"" -WindowStyle Hidden -WorkingDirectory $Root
     Start-Sleep -Seconds 2
-    "đã bật máy chủ duyệt" | Add-Content $log
+    "đã bật máy chủ duyệt" | Add-Content -Encoding UTF8 $log
 }
 Start-Process "http://localhost:8765/duyet.html"
-"=== xong ===" | Add-Content $log
+"=== xong ===" | Add-Content -Encoding UTF8 $log

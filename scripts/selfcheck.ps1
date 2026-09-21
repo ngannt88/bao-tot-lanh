@@ -5,9 +5,9 @@ $env:PYTHONIOENCODING = "utf-8"; $env:PYTHONUTF8 = "1"
 $Py = Join-Path $Root ".venv\Scripts\python.exe"
 $log = Join-Path $Root "data\logs\selfcheck.log"
 New-Item -ItemType Directory -Force (Split-Path $log) | Out-Null
-"=== $(Get-Date -Format 'yyyy-MM-dd HH:mm') ===" | Add-Content $log
+"=== $(Get-Date -Format 'yyyy-MM-dd HH:mm') ===" | Add-Content -Encoding UTF8 $log
 $out = & $Py (Join-Path $Root "pipeline\selfcheck.py") 2>&1
-$out | Add-Content $log
+$out | Add-Content -Encoding UTF8 $log
 $code = $LASTEXITCODE
 $summary = ($out | Select-String "nguồn ổn" | Select-Object -Last 1).ToString()
 try {
