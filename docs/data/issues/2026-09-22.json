@@ -2,7 +2,7 @@
  "date": "2026-09-22",
  "paper": "LEVEL UP",
  "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
- "generated_at": "2026-09-22T04:47:53+07:00",
+ "generated_at": "2026-09-22T04:51:36+07:00",
  "sections": [
   {
    "id": "the-thao-dep",
@@ -528,8 +528,388 @@
    ]
   },
   {
-   "id": "8dcce0e0241e",
+   "id": "f8e17b6bfdda",
    "order": 5,
+   "slug": "giai-doan-ngu-mo-song-dong-rem-lien-quan-den-nguy-co-thap-ho",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Giai đoạn Ngủ Mơ Sống Động REM Liên Quan Đến Nguy Cơ Thấp Hơn Của 83 Bệnh",
+   "sapo": "Giấc ngủ không chỉ đơn giản là khoảng thời gian trôi qua từ lúc bạn chìm vào giấc ngủ đến khi tỉnh dậy – các khía cạnh khác nhau của giấc ngủ cũng mang những ý nghĩa khác nhau đối với sức khỏe của chúng ta.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/the-vivid-dreams-stage-of-rem-sleep-is-linked-with-a-lower-risk-of-83-diseases",
+   "published": "2026-09-21T03:00:39+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1006,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "The Vivid Dreams Stage of REM Sleep Is Linked With a Lower Risk of 83 Diseases",
+   "images": [
+    {
+     "src": "img/2026-09-22/f8e17b6bfdda-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-22/f8e17b6bfdda-0.jpg",
+     "caption": "Các nhà nghiên cứu đã xem xét sáu chỉ số giấc ngủ khác nhau. (Luo et al., PLOS Med., 2026)",
+     "w": 600,
+     "h": 384
+    },
+    {
+     "src": "img/2026-09-22/f8e17b6bfdda-1.jpg",
+     "caption": "Đăng ký nhận bản tin miễn phí đã được kiểm chứng thông tin của ScienceAlert",
+     "w": 1200,
+     "h": 628
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giấc ngủ không chỉ đơn giản là khoảng thời gian trôi qua từ lúc bạn chìm vào giấc ngủ đến khi tỉnh dậy – các khía cạnh khác nhau của giấc ngủ cũng mang những ý nghĩa khác nhau đối với sức khỏe của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Trong một nghiên cứu mới đăng trên tạp chí PLOS Medicine, các nhà nghiên cứu dẫn đầu bởi một nhóm từ Đại học Y khoa Thủ đô (Trung Quốc) đã phân tích dữ liệu từ 95.559 người tham gia một dự án y tế tại Anh."
+    },
+    {
+     "t": "p",
+     "text": "Các thiết bị theo dõi đeo cổ tay được dùng để ghi lại các kiểu ngủ trong một tuần, đối chiếu với hơn một nghìn tình trạng sức khỏe, với thời gian theo dõi trung vị gần chín năm."
+    },
+    {
+     "t": "p",
+     "text": "Một giai đoạn giấc ngủ đặc biệt nổi bật: REM, hay giấc ngủ chuyển động mắt nhanh (Rapid Eye Movement)."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một giai đoạn ngủ riêng biệt, trong đó phần lớn các giấc mơ của chúng ta diễn ra."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động não bộ trong giấc ngủ REM khá giống với hoạt động não khi ta thức, và được cho là giúp cải thiện khả năng học tập và phát triển não bộ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Có nhiều giấc ngủ REM hơn có liên quan đến nguy cơ thấp hơn đối với hàng chục bệnh khác nhau, bao gồm suy tim, bệnh Alzheimer, huyết áp thấp và rung nhĩ."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi phát hiện rằng những biến đổi trong kiểu ngủ có liên quan đến 156 trường hợp mắc bệnh,\" các nhà nghiên cứu viết trong bài báo được công bố."
+    },
+    {
+     "t": "p",
+     "text": "\"Cụ thể, lượng giấc ngủ REM và giấc ngủ sâu cao hơn có liên quan đến nguy cơ thấp hơn lần lượt đối với 83 và 7 bệnh, trong khi tính bất thường của giấc ngủ cao hơn và thời gian thức giấc sau khi đã ngủ tăng lên có liên quan đến nguy cơ cao hơn lần lượt đối với 3 và 6 bệnh.\""
+    },
+    {
+     "t": "p",
+     "text": "Đối với giấc ngủ sâu, một số tình trạng có liên quan đến nguy cơ thấp hơn là bệnh tiểu đường tuýp 2 và bệnh Parkinson."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu lưu ý rằng ngủ từ sáu đến tám tiếng mỗi đêm dường như là \"điểm vàng\" gắn liền với nguy cơ thấp hơn đối với một số lượng đáng kể các loại bệnh. Ngủ ít hơn năm tiếng mỗi đêm có liên quan đến nguy cơ cao hơn đối với 37 loại bệnh, so với mức sáu đến tám tiếng."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cũng xem xét tỷ lệ giấc ngủ REM mà những người tham gia có được, cho thấy mối liên hệ với loại giấc ngủ này không chỉ đơn thuần là hệ quả của việc ngủ nhiều thời gian hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Những phát hiện này cho thấy cả cấu trúc giấc ngủ lẫn thời lượng giấc ngủ đều có liên quan đến nguy cơ mắc bệnh,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Dù cần thêm nhiều nghiên cứu để biết chắc chắn, các nhà nghiên cứu cho rằng giấc ngủ REM có thể tác động lên các con đường sinh học khác với giấc ngủ nói chung, có thể mang lại những lợi ích khác nhau và tương tác với bệnh tật theo một cách khác."
+    },
+    {
+     "t": "p",
+     "text": "Hiện nay người ta đã biết rõ rằng giấc ngủ cho cơ thể thời gian để nghỉ ngơi, và cho não bộ cơ hội để nạp lại năng lượng và tự sắp xếp lại, nhưng việc hiểu rõ hơn về tác động cụ thể của giấc ngủ REM sẽ giúp định hướng cho các nghiên cứu trong tương lai."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Khuôn khổ này cho phép xác định các mô hình liên kết riêng biệt trên nhiều lĩnh vực sức khỏe khác nhau, từ đó mang lại một cách hiểu tổng hợp hơn về việc giấc ngủ trong đời thực liên quan thế nào đến nguy cơ mắc bệnh,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Dù nghiên cứu không chứng minh được mối quan hệ nhân quả trực tiếp, việc sử dụng một nhóm lớn người tham gia – cùng với dữ liệu giấc ngủ thực tế, thay vì các ước tính tự khai báo – càng làm tăng thêm ý nghĩa của nghiên cứu này đối với các nhà nghiên cứu về giấc ngủ và sức khỏe."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta trải qua các giai đoạn giấc ngủ khác nhau theo chu kỳ trong suốt một đêm, và hai yếu tố then chốt ảnh hưởng đến lượng giấc ngủ REM mà chúng ta tích lũy được là tổng thời lượng giấc ngủ và mức độ liên tục của giấc ngủ đó."
+    },
+    {
+     "t": "p",
+     "text": "Việc đi ngược lại nhịp sinh học tự nhiên của cơ thể, căng thẳng, và rượu bia cũng có thể gây tác động tiêu cực đến lượng giấc ngủ REM diễn ra, và nó cũng có xu hướng suy giảm một cách tự nhiên theo tuổi tác."
+    },
+    {
+     "t": "p",
+     "text": "Vẫn còn rất nhiều điều chúng ta chưa biết về giấc ngủ REM – kể cả lý do vì sao những loài động vật có thân nhiệt cao hơn thường tích lũy được ít giấc ngủ REM hơn – nhưng rõ ràng nó có ý nghĩa quan trọng đối với sức khỏe. Đây là thêm một lý do để cân nhắc đi ngủ sớm hơn một chút vào tối nay."
+    },
+    {
+     "t": "p",
+     "text": "\"Các phát hiện này nhấn mạnh rằng việc duy trì giấc ngủ từ 6–8 tiếng có liên quan đến cấu trúc giấc ngủ thuận lợi hơn và nguy cơ mắc bệnh thấp hơn, mang lại những hiểu biết có giá trị cho công tác phòng ngừa và nâng cao sức khỏe,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu đã được công bố trên tạp chí PLOS Medicine."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được Peter Dockrill kiểm chứng thông tin và biên tập. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện sai sót, xin vui lòng cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "7f22fa76d5f1",
+   "order": 6,
+   "slug": "nhung-dia-diem-tuyet-voi-nhat-the-gioi",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Những địa điểm tuyệt vời nhất thế giới",
+   "sapo": "Mỗi năm, tạp chí TIME lập một danh sách những địa điểm hấp dẫn nhất thế giới. Ban biên tập TFK xem xét danh sách này và chọn ra những nơi yêu thích của mình. Độ cao vời vợi, khám phá dưới đáy biển, kho báu cổ xưa: danh sách năm nay xoay quanh chủ đề phiêu lưu. Những điểm đến này đại diện cho…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g56/worlds-greatest-places-g5/",
+   "published": "2026-09-17T13:03:58+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 429,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "World’s Greatest Places",
+   "images": [
+    {
+     "src": "img/2026-09-22/7f22fa76d5f1-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/7f22fa76d5f1-0.jpg",
+     "caption": "Pháo hoa thắp sáng bầu trời đêm phía trên một bảo tàng.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-09-22/7f22fa76d5f1-1.jpg",
+     "caption": "Bờ biển đá, rừng ngập mặn và những vịnh nước nông trải dài trên một vùng đất hoang sơ nhìn từ trên cao.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-09-22/7f22fa76d5f1-2.jpg",
+     "caption": "Một cây cầu treo màu ngọc lam bắc ngang thung lũng núi sâu, xung quanh mây phủ.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-09-22/7f22fa76d5f1-3.jpg",
+     "caption": "Bờ biển một hòn đảo nhiệt đới với rừng xanh tươi tốt tiếp giáp làn nước xanh.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-09-22/7f22fa76d5f1-4.jpg",
+     "caption": "Một người lặn ống thở bơi phía trên tác phẩm điêu khắc những chiếc ô tô dưới đáy biển.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mỗi năm, tạp chí TIME lập một danh sách những địa điểm hấp dẫn nhất thế giới. Ban biên tập TFK xem xét danh sách này và chọn ra những nơi yêu thích của mình. Độ cao vời vợi, khám phá dưới đáy biển, kho báu cổ xưa: danh sách năm nay xoay quanh chủ đề phiêu lưu. Những điểm đến này đại diện cho cả một thế giới đầy khả năng đang chờ được khám phá."
+    },
+    {
+     "t": "p",
+     "text": "Trong số những địa điểm này, nơi nào thú vị nhất? Bạn muốn đi đâu đầu tiên? Địa điểm hấp dẫn nào nên nằm trong tầm ngắm của chúng tôi cho danh sách năm sau? Hãy chia sẻ suy nghĩ của bạn tại tfkeditors@time.com."
+    },
+    {
+     "t": "h",
+     "text": "Kho báu vô giá"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hãy chiêm ngưỡng 7.000 năm lịch sử tại một nơi duy nhất: Bảo tàng Ai Cập Vĩ đại mới ở Cairo, Ai Cập. Nơi đây trưng bày hàng nghìn hiện vật, bao gồm mọi món đồ tìm thấy trong lăng mộ vua Tutankhamun. Kim tự tháp Giza nằm ngay gần đó. Du khách có thể đi bộ từ bảo tàng đến đó. —Scott Laird"
+    },
+    {
+     "t": "h",
+     "text": "Lên đường chinh phục"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong tiếng Tây Ban Nha, camino nghĩa là \"con đường\". El Camino de Costa Rica không chỉ đơn thuần là một con đường. Cung đường dài 174 dặm này đưa người đi bộ băng qua các dòng sông và rừng mưa nhiệt đới của Costa Rica. Những người may mắn có thể bắt gặp kỳ nhông và khỉ. —Laura Dannen Redman"
+    },
+    {
+     "t": "h",
+     "text": "Dạo bước giữa trời"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hãy tận hưởng khung cảnh từ độ cao 2.050 feet trên cầu Hoa Giang, tại tỉnh Quý Châu xa xôi của Trung Quốc. Bạn có dám bước đi trên lối đi bằng kính nối liền hai ngọn núi? Du khách cũng có thể lên tầng cao bằng thang máy kính để đến quán cà phê trên trời. —Sucheta Rawal"
+    },
+    {
+     "t": "h",
+     "text": "Hàng ngàn dặm lịch sử"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cảnh quan Văn hóa Murujuga, nằm ở Tây Úc, chứa hàng ngàn dặm những hình khắc đá cổ xưa có niên đại lên tới 50.000 năm. Một số hình khắc mô tả các loài động vật đã tuyệt chủng, chẳng hạn như hổ Tasmania. —Michelle Tchea"
+    },
+    {
+     "t": "h",
+     "text": "Nghệ Thuật Dưới Nước"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đeo kính bơi vào! Reefline là một công viên điêu khắc dưới nước kết hợp lối lặn ống thở ở Miami Beach, Florida. Du khách có thể bơi xuyên qua các tác phẩm nghệ thuật và đến gần các sinh vật biển. Một số người gọi đây là “sân chơi của nàng tiên cá”. —Bởi Nora Walsh"
+    }
+   ]
+  },
+  {
+   "id": "543af88e0d75",
+   "order": 7,
+   "slug": "sach-tuu-truong",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Sách Tựu Trường",
+   "sapo": "Năm học mới mang đến những bạn học và bạn bè mới. Hai cuốn sách mới dạy những bài học quan trọng về tình bạn. Mac là nhân vật chính trong Mac & Cheese: The Origin Story (ảnh trên). Sách được viết bởi MICHAEL L. BENNER.…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g2/back-to-school-books-g2/",
+   "published": "2026-09-16T13:05:17+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 292,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Back to School Books",
+   "images": [
+    {
+     "src": "img/2026-09-22/543af88e0d75-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/543af88e0d75-0.jpg",
+     "caption": "Bìa sách \"All Brains Welcome\" bên cạnh ảnh một người phụ nữ đang mỉm cười.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Năm học mới mang đến những bạn học và bạn bè mới. Hai cuốn sách mới dạy những bài học quan trọng về tình bạn."
+    },
+    {
+     "t": "h",
+     "text": "Gặp Gỡ Người Bạn Đích Thực"
+    },
+    {
+     "t": "p",
+     "text": "Mac là nhân vật chính trong Mac & Cheese: The Origin Story (ảnh trên). Sách được viết bởi MICHAEL L. BENNER. Mac sống ở Pastaland. Nhưng cậu không hòa nhập được. Cậu lên đường tìm kiếm một người bạn thân. Trên đường đi có những khoảnh khắc ngộ nghĩnh và cảm động."
+    },
+    {
+     "t": "p",
+     "text": "Có những lúc Mac cố gắng thay đổi bản thân. Benner nói rằng độc giả không nên làm vậy. “Điều quan trọng nhất là luôn là chính mình,” ông chia sẻ với TIME for Kids."
+    },
+    {
+     "t": "p",
+     "text": "Benner hy vọng độc giả không bao giờ từ bỏ việc kết bạn mới: “Bạn không bao giờ biết được mình sẽ tìm thấy người bạn thân nhất ở đâu!”"
+    },
+    {
+     "t": "h",
+     "text": "Tôn Vinh Những Bộ Não"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mọi bộ não đều khác nhau. JOHANNA PEYTON giới thiệu nhiều loại bộ não trong All Brains Welcome. Trong sách, cô Shepard tổ chức một buổi tiệc về não bộ. Độc giả gặp gỡ những đứa trẻ có các loại não bộ khác nhau. Một em mắc chứng tự kỷ. Một em khác mắc chứng khó đọc."
+    },
+    {
+     "t": "p",
+     "text": "Peyton hy vọng cuốn sách sẽ giúp độc giả hiểu hơn về người khác. Mọi bộ não đều có những thế mạnh khác nhau. “Chúng ta mạnh mẽ hơn khi cùng nhau nhờ vào sự khác biệt của mình,” Peyton chia sẻ với TIME for Kids. Đôi khi, những sự khác biệt ấy khó hiểu. Trẻ em hoàn toàn có thể đặt câu hỏi. Điều đó tạo nên một không gian “nơi mọi người đều cảm thấy tự do là chính mình.”"
+    }
+   ]
+  },
+  {
+   "id": "4fc2b0969d1f",
+   "order": 8,
+   "slug": "kinh-vien-vong-cat-canh",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Kính viễn vọng cất cánh",
+   "sapo": "Vào ngày 30/8, NASA đã phóng Kính viễn vọng không gian Nancy Grace Roman từ Trung tâm Vũ trụ Kennedy, bang Florida. Kính viễn vọng không gian này có thể quan sát một vùng bầu trời rộng gấp 100 lần so với kính Hubble hay James Webb. Trong ba tháng,…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g34/telescope-takes-off/",
+   "published": "2026-09-15T13:24:54+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 111,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Telescope Takes Off",
+   "images": [
+    {
+     "src": "img/2026-09-22/4fc2b0969d1f-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vào ngày 30/8, NASA đã phóng Kính viễn vọng không gian Nancy Grace Roman từ Trung tâm Vũ trụ Kennedy, bang Florida. Kính viễn vọng không gian này có thể quan sát một vùng bầu trời rộng gấp 100 lần so với kính Hubble hay James Webb. Trong ba tháng, nó sẽ tìm kiếm những vật thể vũ trụ chưa từng được phát hiện trước đây. Ăng-ten của kính sẽ gửi hình ảnh và dữ liệu về Trái Đất với tốc độ kỷ lục. Jared Isaacman, quản trị viên NASA, cho biết kính viễn vọng này \"sẽ mang đến cho chúng ta một bản đồ hoàn toàn mới về vũ trụ.\""
+    }
+   ]
+  },
+  {
+   "id": "8dcce0e0241e",
+   "order": 9,
    "slug": "chung-tay-chung-suc-nhat-rac-lam-sach-moi-truong",
    "section": "guong-sang",
    "section_name": "Gương sáng & Tài năng trẻ",
@@ -774,7 +1154,7 @@
   },
   {
    "id": "137010379748",
-   "order": 6,
+   "order": 10,
    "slug": "dai-hoc-y-duoc-buon-ma-thuot-cap-hoc-bong-6-nam-hoc-cho-nu-s",
    "section": "guong-sang",
    "section_name": "Gương sáng & Tài năng trẻ",
@@ -933,7 +1313,7 @@
   },
   {
    "id": "4759d967bbb0",
-   "order": 7,
+   "order": 11,
    "slug": "7-dieu-dang-cho-doi-o-dot-fifa-days-thang-9",
    "section": "the-thao-dep",
    "section_name": "Thể thao đẹp",
@@ -1314,7 +1694,7 @@
   },
   {
    "id": "605b24af3faf",
-   "order": 8,
+   "order": 12,
    "slug": "lich-thi-dau-cua-viet-nam-ngay-22-9-asiad-20-tranh-11-mon-hy",
    "section": "the-thao-dep",
    "section_name": "Thể thao đẹp",
@@ -1463,7 +1843,7 @@
   },
   {
    "id": "c5af4e3fcd2f",
-   "order": 9,
+   "order": 13,
    "slug": "viet-nam-gap-trung-quoc-o-tu-ket-bong-da-nu-asiad",
    "section": "the-thao-dep",
    "section_name": "Thể thao đẹp",
@@ -1557,324 +1937,8 @@
    ]
   },
   {
-   "id": "059a6c923878",
-   "order": 10,
-   "slug": "68-ngay-lai-xe-tu-ha-noi-den-paris",
-   "section": "kham-pha-the-gioi",
-   "section_name": "Khám phá thế giới",
-   "emoji": "🌏",
-   "title": "68 ngày lái xe từ Hà Nội đến Paris",
-   "sapo": "Đỗ Minh Hồ Hải lái xe qua 20 quốc gia, vượt sa mạc, núi cao và quy định nghiêm ngặt ở các cửa khẩu, để đưa những chiếc xe biển số Việt Nam đến Pháp.",
-   "author": "Phương Anh",
-   "source_name": "VnExpress",
-   "source_url": "https://vnexpress.net/68-ngay-lai-xe-tu-ha-noi-den-paris-5120819.html",
-   "published": "2026-09-21T03:51:54+07:00",
-   "lang": "vi",
-   "score": 8,
-   "words": 1130,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/059a6c923878-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 675
-    },
-    {
-     "src": "img/2026-09-22/059a6c923878-0.jpg",
-     "caption": "Ảnh Hải (thứ hai từ phải sang) chụp ảnh tại Paris, Pháp, bên chiếc xe tự lái từ Việt Nam vào ngày 10/9.",
-     "w": 1020,
-     "h": 1529
-    },
-    {
-     "src": "img/2026-09-22/059a6c923878-1.jpg",
-     "caption": "Anh Hải chụp ảnh bên chiếc xe lái từ Việt Nam sang châu Âu tại Tân Cương, Trung Quốc, ngày 20/7.",
-     "w": 1020,
-     "h": 765
-    },
-    {
-     "src": "img/2026-09-22/059a6c923878-2.jpg",
-     "caption": "Anh Hải (thứ ba từ phải sang) chụp ảnh cùng đoàn tại Georgia ngày 13/8.",
-     "w": 1020,
-     "h": 765
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Đỗ Minh Hồ Hải lái xe qua 20 quốc gia, vượt sa mạc, núi cao và quy định nghiêm ngặt ở các cửa khẩu, để đưa những chiếc xe biển số Việt Nam đến Pháp."
-    },
-    {
-     "t": "p",
-     "text": "Ngày 6/7, nhóm 16 thành viên do anh Đỗ Minh Hồ Hải làm trưởng đoàn khởi hành từ Hà Nội với đích đến là Paris, Pháp, vượt tổng quãng đường gần 22.000 km."
-    },
-    {
-     "t": "p",
-     "text": "\"Mục tiêu không phải đến đích càng nhanh càng tốt mà là ngắm cảnh đẹp, khám phá văn hóa, cuộc sống của những vùng đất nằm giữa điểm đầu và cuối\", nam du khách đến từ TP HCM nói."
-    },
-    {
-     "t": "p",
-     "text": "Mỗi xe có 1-2 thành viên, gồm 7 ôtô và 2 môtô, đi qua 20 quốc gia: Việt Nam, Lào, Trung Quốc, Kyrgyzstan, Uzbekistan, Kazakhstan, Nga, Georgia, Thổ Nhĩ Kỳ, Hy Lạp, Albania, Montenegro, Croatia, Hungary, Slovakia, CH Czech, Áo, Đức, Luxembourg và Pháp. Lượt về, họ lựa chọn đi máy bay."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Đây không phải chuyến phượt hay caravan truyền thống. Anh Hải gọi đó là hành trình dạng rally: các xe cùng chung cung đường, điểm đến nhưng chủ động tốc độ, thời gian dừng nghỉ, không nhất thiết phải đi thành đoàn. Sau mỗi 2-3 ngày chạy đường dài, nhóm dành một ngày nghỉ để khám phá thành phố vừa tới."
-    },
-    {
-     "t": "p",
-     "text": "Các thành viên mất gần một năm chuẩn bị cho chuyến đi, từ rèn luyện thể lực, chuẩn bị visa, giấy tờ xe cùng giấy phép lái xe quốc tế IDP cũng như nghiên cứu cung đường, điểm dừng nghỉ và chuẩn bị phương án nếu xe hoặc thành viên gặp sự cố."
-    },
-    {
-     "t": "p",
-     "text": "\"Với chúng tôi, một năm chuẩn bị cũng quan trọng không kém 68 ngày trên đường\", anh nói."
-    },
-    {
-     "t": "p",
-     "text": "Các xe đều là SUV hoặc bán tải hai cầu, sử dụng lốp AT để có thể chạy trên cao tốc, đường đất, đá và những khu vực xa thành phố."
-    },
-    {
-     "t": "p",
-     "text": "Trung Quốc là quốc gia đoàn lưu lại lâu nhất, 17 ngày nhưng ngày dài nhất chuyến đi, với anh Hải, lại là lúc rời Trung Quốc để nhập cảnh Kyrgyzstan."
-    },
-    {
-     "t": "p",
-     "text": "Đoàn mất 13 tiếng tại cửa khẩu để kiểm tra giấy tờ, làm thủ tục cho 16 người và phương tiện, đến 2h sáng, mọi người mới về tới khách sạn trong tình trạng mệt nhoài."
-    },
-    {
-     "t": "p",
-     "text": "Anh Hải cho biết điều đáng lo không phải chờ lâu mà là chỉ cần một thành viên hoặc một chiếc xe gặp vấn đề về giấy tờ, cả đoàn có thể phải thay đổi kế hoạch. May mắn, tất cả đều nhập cảnh an toàn."
-    },
-    {
-     "t": "p",
-     "text": "Dù vậy, Kyrgyzstan cũng là nơi khiến nam du khách choáng ngợp nhất về cảnh sắc."
-    },
-    {
-     "t": "p",
-     "text": "Năm 2025, sau khi xem bộ phim Off Road trên Netflix, anh bị cuốn hút bởi thung lũng Altyn-Arashan ở độ cao hơn 2.300 m, dưới chân dãy Terskey Alatau - nơi có những đồng cỏ xanh, rừng thông, sông băng và các mạch nước khoáng nóng tự nhiên. Khi đó, anh tự nhủ một ngày sẽ lái chiếc xe mang biển số Việt Nam tới đây."
-    },
-    {
-     "t": "p",
-     "text": "Ngày 27/7, điều đó thành hiện thực."
-    },
-    {
-     "t": "p",
-     "text": "Cung đường Altyn-Arashan dài 14 km nhưng đoàn mất gần hai giờ để vượt qua đá hộc, cát, suối cạn, dốc cao và những khúc cua men theo vách núi. Có lúc Hải thót tim, toát mồ hôi tay vì chỉ một sai sót nhỏ cũng có thể khiến chiếc xe lao xuống vực."
-    },
-    {
-     "t": "p",
-     "text": "Trong 68 ngày, những cuộc gặp tình cờ với người địa phương trở thành phần ký ức anh Hải nhớ lâu nhất."
-    },
-    {
-     "t": "p",
-     "text": "Tại Chechnya, họ một người nông dân bán dưa. Biết nhóm đã lái xe từ Việt Nam tới, ông cắt dưa mời mọi người, nhất quyết không nhận tiền và chỉ muốn chụp một tấm ảnh lưu niệm. \"Những cuộc gặp đôi khi chỉ kéo dài vài phút, nhưng lại là những thứ tôi nhớ rất lâu sau hành trình\", anh Hải nói."
-    },
-    {
-     "t": "p",
-     "text": "Một kỷ niệm đáng nhớ khác với anh là một số xe trong đoàn bị cảnh sát Nga phạt 150 USD. Theo Hải, nhiều nước Trung Á và Nga cấm sử dụng phim cách nhiệt trên ôtô. Nếu bị kiểm tra, tài xế có thể phải lột phim và nộp phạt."
-    },
-    {
-     "t": "p",
-     "text": "Tổng chi phí chuyến đi khoảng 600 triệu đồng mỗi người. Trong đó, mỗi thành viên tự chi khoảng 300 triệu đồng cho ăn uống, khách sạn và các tour tham quan. Mỗi ôtô tốn thêm 350-400 triệu đồng cho xăng dầu, phí đường bộ và bảo dưỡng. Chi phí vận chuyển xe từ châu Âu về Việt Nam khoảng 170-200 triệu đồng. Họ được một số hãng tài trợ toàn bộ lốp xe."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Tại châu Âu, đường sá đi lại thuận lợi hơn nhưng giá cả đắt đỏ hơn. Phí đỗ xe ở châu Âu có thể lên 30-50 euro mỗi ngày, nhiên liệu khoảng 65.000-75.000 đồng mỗi lít."
-    },
-    {
-     "t": "p",
-     "text": "\"Mỗi lần vào cây xăng là một lần bị móc túi\", Hải nói vui."
-    },
-    {
-     "t": "p",
-     "text": "Tại CH Czech, một số người trẻ yêu thích du lịch bằng xe tự lái tìm đến khách sạn để ghi hình đoàn xe. Cũng tại quốc gia này, anh Hải còn thưởng thức món tiết canh \"ngon nhất châu Âu\" ở một nhà hàng Việt."
-    },
-    {
-     "t": "p",
-     "text": "Ngày 8/9, sau 65 ngày, 5 trong 9 xe của đoàn tới Paris. Đến lúc này, anh Hải mới thực sự nhẹ nhõm. Mọi người dành thêm 2-3 ngày khám phá thành phố trước khi về Việt Nam. Các xe còn lại tiếp tục khám phá các cung đường riêng tại châu Âu trước khi đến Paris."
-    },
-    {
-     "t": "p",
-     "text": "Tối hôm đó, những thành viên đã tới đích cùng ăn một bữa. Câu chuyện không còn là ngày mai chạy bao nhiêu kilomet hay mấy giờ xuất phát, mà là những kỷ niệm và khó khăn đã trải qua."
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "p",
-     "text": "Nguyễn Phương Nga, một trong hai phụ nữ của đoàn, ban đầu \"sốc rồi choáng\" khi nghĩ đến chuyến đi kéo dài 68 ngày nhưng vẫn quyết định đồng hành cùng chồng. Hành lý trở về của chị ngoài quà cho gia đình còn có khoảng 2 kg nam châm dán tủ lạnh mua ở những nơi đã đi qua."
-    },
-    {
-     "t": "p",
-     "text": "Ngày 13/9, anh Hải hạ cánh xuống TP HCM, khép lại hành trình gần 22.000 km. Sau mỗi chuyến đi dài, anh nhận thấy mình nhìn mọi việc đơn giản và kiên nhẫn hơn và thế giới còn rất nhiều nơi đáng đến ít nhất một lần trong đời."
-    },
-    {
-     "t": "p",
-     "text": "Năm 2027, Hải dự định lái xe từ Hà Nội tới Moskva. Nhưng trước mắt, kế hoạch ấy vẫn cần một thủ tục mà anh đánh giá quan trọng nhất: \"Đợi vợ cấp phép!\""
-    },
-    {
-     "t": "p",
-     "text": "Phương Anh Video, Ảnh: NVCC"
-    }
-   ]
-  },
-  {
-   "id": "f8e17b6bfdda",
-   "order": 11,
-   "slug": "giai-doan-ngu-mo-song-dong-rem-lien-quan-den-nguy-co-thap-ho",
-   "section": "kham-pha-khoa-hoc",
-   "section_name": "Khám phá khoa học",
-   "emoji": "🔬",
-   "title": "Giai đoạn Ngủ Mơ Sống Động REM Liên Quan Đến Nguy Cơ Thấp Hơn Của 83 Bệnh",
-   "sapo": "Giấc ngủ không chỉ đơn giản là khoảng thời gian trôi qua từ lúc bạn chìm vào giấc ngủ đến khi tỉnh dậy – các khía cạnh khác nhau của giấc ngủ cũng mang những ý nghĩa khác nhau đối với sức khỏe của chúng ta.",
-   "author": "David Nield",
-   "source_name": "ScienceAlert",
-   "source_url": "https://www.sciencealert.com/the-vivid-dreams-stage-of-rem-sleep-is-linked-with-a-lower-risk-of-83-diseases",
-   "published": "2026-09-21T03:00:39+07:00",
-   "lang": "vi-dich",
-   "score": 8,
-   "words": 1006,
-   "translated": true,
-   "translated_from": "ScienceAlert",
-   "title_original": "The Vivid Dreams Stage of REM Sleep Is Linked With a Lower Risk of 83 Diseases",
-   "images": [
-    {
-     "src": "img/2026-09-22/f8e17b6bfdda-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 675
-    },
-    {
-     "src": "img/2026-09-22/f8e17b6bfdda-0.jpg",
-     "caption": "Các nhà nghiên cứu đã xem xét sáu chỉ số giấc ngủ khác nhau. (Luo et al., PLOS Med., 2026)",
-     "w": 600,
-     "h": 384
-    },
-    {
-     "src": "img/2026-09-22/f8e17b6bfdda-1.jpg",
-     "caption": "Đăng ký nhận bản tin miễn phí đã được kiểm chứng thông tin của ScienceAlert",
-     "w": 1200,
-     "h": 628
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Giấc ngủ không chỉ đơn giản là khoảng thời gian trôi qua từ lúc bạn chìm vào giấc ngủ đến khi tỉnh dậy – các khía cạnh khác nhau của giấc ngủ cũng mang những ý nghĩa khác nhau đối với sức khỏe của chúng ta."
-    },
-    {
-     "t": "p",
-     "text": "Trong một nghiên cứu mới đăng trên tạp chí PLOS Medicine, các nhà nghiên cứu dẫn đầu bởi một nhóm từ Đại học Y khoa Thủ đô (Trung Quốc) đã phân tích dữ liệu từ 95.559 người tham gia một dự án y tế tại Anh."
-    },
-    {
-     "t": "p",
-     "text": "Các thiết bị theo dõi đeo cổ tay được dùng để ghi lại các kiểu ngủ trong một tuần, đối chiếu với hơn một nghìn tình trạng sức khỏe, với thời gian theo dõi trung vị gần chín năm."
-    },
-    {
-     "t": "p",
-     "text": "Một giai đoạn giấc ngủ đặc biệt nổi bật: REM, hay giấc ngủ chuyển động mắt nhanh (Rapid Eye Movement)."
-    },
-    {
-     "t": "p",
-     "text": "Đây là một giai đoạn ngủ riêng biệt, trong đó phần lớn các giấc mơ của chúng ta diễn ra."
-    },
-    {
-     "t": "p",
-     "text": "Hoạt động não bộ trong giấc ngủ REM khá giống với hoạt động não khi ta thức, và được cho là giúp cải thiện khả năng học tập và phát triển não bộ."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Có nhiều giấc ngủ REM hơn có liên quan đến nguy cơ thấp hơn đối với hàng chục bệnh khác nhau, bao gồm suy tim, bệnh Alzheimer, huyết áp thấp và rung nhĩ."
-    },
-    {
-     "t": "p",
-     "text": "\"Chúng tôi phát hiện rằng những biến đổi trong kiểu ngủ có liên quan đến 156 trường hợp mắc bệnh,\" các nhà nghiên cứu viết trong bài báo được công bố."
-    },
-    {
-     "t": "p",
-     "text": "\"Cụ thể, lượng giấc ngủ REM và giấc ngủ sâu cao hơn có liên quan đến nguy cơ thấp hơn lần lượt đối với 83 và 7 bệnh, trong khi tính bất thường của giấc ngủ cao hơn và thời gian thức giấc sau khi đã ngủ tăng lên có liên quan đến nguy cơ cao hơn lần lượt đối với 3 và 6 bệnh.\""
-    },
-    {
-     "t": "p",
-     "text": "Đối với giấc ngủ sâu, một số tình trạng có liên quan đến nguy cơ thấp hơn là bệnh tiểu đường tuýp 2 và bệnh Parkinson."
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu lưu ý rằng ngủ từ sáu đến tám tiếng mỗi đêm dường như là \"điểm vàng\" gắn liền với nguy cơ thấp hơn đối với một số lượng đáng kể các loại bệnh. Ngủ ít hơn năm tiếng mỗi đêm có liên quan đến nguy cơ cao hơn đối với 37 loại bệnh, so với mức sáu đến tám tiếng."
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu cũng xem xét tỷ lệ giấc ngủ REM mà những người tham gia có được, cho thấy mối liên hệ với loại giấc ngủ này không chỉ đơn thuần là hệ quả của việc ngủ nhiều thời gian hơn."
-    },
-    {
-     "t": "p",
-     "text": "\"Những phát hiện này cho thấy cả cấu trúc giấc ngủ lẫn thời lượng giấc ngủ đều có liên quan đến nguy cơ mắc bệnh,\" các nhà nghiên cứu viết."
-    },
-    {
-     "t": "p",
-     "text": "Dù cần thêm nhiều nghiên cứu để biết chắc chắn, các nhà nghiên cứu cho rằng giấc ngủ REM có thể tác động lên các con đường sinh học khác với giấc ngủ nói chung, có thể mang lại những lợi ích khác nhau và tương tác với bệnh tật theo một cách khác."
-    },
-    {
-     "t": "p",
-     "text": "Hiện nay người ta đã biết rõ rằng giấc ngủ cho cơ thể thời gian để nghỉ ngơi, và cho não bộ cơ hội để nạp lại năng lượng và tự sắp xếp lại, nhưng việc hiểu rõ hơn về tác động cụ thể của giấc ngủ REM sẽ giúp định hướng cho các nghiên cứu trong tương lai."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "\"Khuôn khổ này cho phép xác định các mô hình liên kết riêng biệt trên nhiều lĩnh vực sức khỏe khác nhau, từ đó mang lại một cách hiểu tổng hợp hơn về việc giấc ngủ trong đời thực liên quan thế nào đến nguy cơ mắc bệnh,\" các nhà nghiên cứu viết."
-    },
-    {
-     "t": "p",
-     "text": "Dù nghiên cứu không chứng minh được mối quan hệ nhân quả trực tiếp, việc sử dụng một nhóm lớn người tham gia – cùng với dữ liệu giấc ngủ thực tế, thay vì các ước tính tự khai báo – càng làm tăng thêm ý nghĩa của nghiên cứu này đối với các nhà nghiên cứu về giấc ngủ và sức khỏe."
-    },
-    {
-     "t": "p",
-     "text": "Chúng ta trải qua các giai đoạn giấc ngủ khác nhau theo chu kỳ trong suốt một đêm, và hai yếu tố then chốt ảnh hưởng đến lượng giấc ngủ REM mà chúng ta tích lũy được là tổng thời lượng giấc ngủ và mức độ liên tục của giấc ngủ đó."
-    },
-    {
-     "t": "p",
-     "text": "Việc đi ngược lại nhịp sinh học tự nhiên của cơ thể, căng thẳng, và rượu bia cũng có thể gây tác động tiêu cực đến lượng giấc ngủ REM diễn ra, và nó cũng có xu hướng suy giảm một cách tự nhiên theo tuổi tác."
-    },
-    {
-     "t": "p",
-     "text": "Vẫn còn rất nhiều điều chúng ta chưa biết về giấc ngủ REM – kể cả lý do vì sao những loài động vật có thân nhiệt cao hơn thường tích lũy được ít giấc ngủ REM hơn – nhưng rõ ràng nó có ý nghĩa quan trọng đối với sức khỏe. Đây là thêm một lý do để cân nhắc đi ngủ sớm hơn một chút vào tối nay."
-    },
-    {
-     "t": "p",
-     "text": "\"Các phát hiện này nhấn mạnh rằng việc duy trì giấc ngủ từ 6–8 tiếng có liên quan đến cấu trúc giấc ngủ thuận lợi hơn và nguy cơ mắc bệnh thấp hơn, mang lại những hiểu biết có giá trị cho công tác phòng ngừa và nâng cao sức khỏe,\" các nhà nghiên cứu viết."
-    },
-    {
-     "t": "p",
-     "text": "Nghiên cứu đã được công bố trên tạp chí PLOS Medicine."
-    },
-    {
-     "t": "p",
-     "text": "Bài viết này đã được Peter Dockrill kiểm chứng thông tin và biên tập. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện sai sót, xin vui lòng cho chúng tôi biết."
-    }
-   ]
-  },
-  {
    "id": "c0037111581b",
-   "order": 12,
+   "order": 14,
    "slug": "vao-noi-che-tao-robot-chua-chay-hien-dai-cua-viet-nam-xuat-k",
    "section": "kham-pha-khoa-hoc",
    "section_name": "Khám phá khoa học",
@@ -2139,7 +2203,7 @@
   },
   {
    "id": "cbf2205fa254",
-   "order": 13,
+   "order": 15,
    "slug": "tre-em-ha-noi-thich-thu-ngam-mat-trang-qua-kinh-thien-van-o",
    "section": "kham-pha-khoa-hoc",
    "section_name": "Khám phá khoa học",
@@ -2304,7 +2368,7 @@
   },
   {
    "id": "d6a3883afc72",
-   "order": 14,
+   "order": 16,
    "slug": "tet-trung-thu-trong-nam-ngoai-bac-va-tren-song-truyen-hinh",
    "section": "sang-tao-kien-truc",
    "section_name": "Sáng tạo & Kiến trúc",
@@ -2446,254 +2510,6 @@
     {
      "t": "p",
      "text": "Một trong những điểm nhấn, triển lãm không dừng ở hình ảnh múa lân quen thuộc mà giới thiệu nhiều kiểu thức biểu diễn lân khác nhau. Nổi bật tại triển lãm là hình ảnh đầu lân Nam Sư của Đoàn lân - sư - rồng Nhơn Nghĩa Đường, một đoàn võ thuật, múa lân lâu đời tại khu vực Chợ Lớn. Một mạch nội dung khác của triển lãm là nghề làm khuôn bánh."
-    }
-   ]
-  },
-  {
-   "id": "50d76613b91c",
-   "order": 15,
-   "slug": "danh-ca-chi-tam-tai-tu-miet-vuon-tu-nam-7-tuoi",
-   "section": "sang-tao-kien-truc",
-   "section_name": "Sáng tạo & Kiến trúc",
-   "emoji": "🎨",
-   "title": "Danh ca Chí Tâm: Tài tử miệt vườn từ năm 7 tuổi",
-   "sapo": "Là nghệ sĩ nổi tiếng và được khán giả mộ điệu cải lương yêu mến với nhân vật anh Điệp trong vở Lan và Điệp, đóng cặp với nghệ sĩ Thanh Kim Huệ từ năm 1974, nghệ sĩ Chí Tâm thổ lộ mình nuôi dưỡng đam mê cải lương từ một tài tử miệt vườn nhí.",
-   "author": "LINH ĐOAN",
-   "source_name": "Tuổi Trẻ",
-   "source_url": "https://tuoitre.vn/danh-ca-chi-tam-tai-tu-miet-vuon-tu-nam-7-tuoi-100260920170346356.htm",
-   "published": null,
-   "lang": "vi",
-   "score": 8,
-   "words": 743,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/50d76613b91c-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 630
-    },
-    {
-     "src": "img/2026-09-22/50d76613b91c-0.jpg",
-     "caption": "Nghệ sĩ Chí Tâm nuôi dưỡng đam mê từ một tài tử nhí - Ảnh: LINH ĐOAN",
-     "w": 1280,
-     "h": 940
-    },
-    {
-     "src": "img/2026-09-22/50d76613b91c-1.jpg",
-     "caption": "Nghệ sĩ Chí Tâm (bìa phải) là giám khảo Tài tử miệt vườn mùa 6 bên cạnh các nghệ sĩ Ngọc Huyền, Võ Minh Lâm - Ảnh: LINH ĐOAN",
-     "w": 1280,
-     "h": 881
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Nghệ sĩ Chí Tâm được mời làm giám khảo chương trình Tài tử miệt vườn mùa 6 - 2026 cùng các nghệ sĩ Ngọc Huyền, Võ Minh Lâm. Chương trình đầu tiên lên sóng THĐT1 từ 19h10 ngày 20-9, sau đó sẽ phát sóng đều đặn tối chủ nhật hằng tuần."
-    },
-    {
-     "t": "h",
-     "text": "Chí Tâm đi ca khi chưa rành mặt chữ"
-    },
-    {
-     "t": "p",
-     "text": "Trò chuyện với Tuổi Trẻ , nghệ sĩ Chí Tâm cho biết hồi 7, 8 tuổi ở quê hương Trà Ôn, thấy con trai còn nhỏ mà ham ca nên cứ nghe chỗ nào có đờn ca tài tử là cha ông đều dắt ông đi."
-    },
-    {
-     "t": "p",
-     "text": "Đi theo cha riết mà Chí Tâm sớm làm quen với nhiều ban đờn ca tài tử lớn ở Trà Ôn. Nơi sản sinh nhiều tài tử ca hay đó chính là chùa Thiên Phước."
-    },
-    {
-     "t": "p",
-     "text": "\"Ban đầu tôi tập tành ca theo mấy bài vọng cổ từ đài phát thanh, tới chừng biết ráp chữ tôi đã chạy ra chợ mua tập bài ca lõm bõm đánh vần học hát theo. Thấy tôi ca được nên mấy bác, mấy chú biểu đừng có ca vọng cổ không, tập thêm bài bản đi."
-    },
-    {
-     "t": "p",
-     "text": "Vậy là các nhạc sư nổi tiếng ở Trà Ôn như ông Mười Kiên, Mười Ngoạn, chú Phước… thay nhau dạy tôi những bài bản lớn của đờn ca tài tử. Mới có chút xíu mà đã rành rọt ca Nam Ai, Nam Xuân, Đảo Ngũ Cung, 6 Bắc , những bản Xàng Xê …"
-    },
-    {
-     "t": "p",
-     "text": "Rồi họ còn dẫn cậu nhóc là tôi qua Cần Thơ tham gia những buổi sinh hoạt đờn ca tài tử tại bến Ninh Kiều\" - ông Tâm kể."
-    },
-    {
-     "t": "p",
-     "text": "Trong ký ức của ông, những buổi mấy ban đờn ca tài tử đi tàu cả tiếng rưỡi từ Trà Ôn qua Cần Thơ cực thiệt là cực. Vậy mà không biết mệt, vậy mà ca say sưa, rồi các ban giao lưu với nhau. Những người mê đờn ca tài tử cứ thế như tri âm tri kỷ hội ngộ."
-    },
-    {
-     "t": "p",
-     "text": "Nghệ sĩ Chí Tâm bày tỏ tình cảm với chương trình Tài tử miệt vườn - Video: LINH ĐOAN"
-    },
-    {
-     "t": "h",
-     "text": "Dù đi đến đâu vẫn mê đờn ca tài tử"
-    },
-    {
-     "t": "p",
-     "text": "Sau này dù đã là một danh ca, một nghệ sĩ cải lương nổi tiếng nhưng Chí Tâm vẫn mê chơi đờn ca tài tử. Ngoài thời gian đi hát ông nghiên cứu để tìm hiểu sự khác biệt giữa cải lương và đờn ca tài tử."
-    },
-    {
-     "t": "p",
-     "text": "Khi định cư ở Pháp, rồi Mỹ, ông vẫn tập hợp các nghệ sĩ để có thể sinh hoạt ca hát phục vụ bà con xa xứ. Ông thường xây dựng các chương trình trò chuyện về cải lương, đờn ca tài tử để phổ biến kiến thức và khiến mọi người yêu bộ môn này hơn."
-    },
-    {
-     "t": "p",
-     "text": "Chí Tâm mê đờn ca tài tử tới mức ông tìm hiểu và có thể chơi rất nhiều nhạc cụ truyền thống. Khi về Việt Nam, ngoài các show diễn, ở tuổi ngoài 70, ông vẫn còn thích dự các buổi sinh hoạt đờn ca tài tử, vẫn ca không biết mệt cùng các bạn trẻ yêu mến loại hình này."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Chính sự dày dạn kinh nghiệm của ông đã khiến ban tổ chức nhiều cuộc thi lớn mời ông tham gia vị trí giám khảo như Chuông vàng vọng cổ , Bông lúa vàng ."
-    },
-    {
-     "t": "p",
-     "text": "Với Tài tử miệt vườn ông cũng ngồi vị trí giám khảo được mấy mùa. Chí Tâm bày tỏ ông cảm ơn ban tổ chức đã mời ông đến với cuộc thi này. Ngồi ở vị trí quan trọng, ông không chỉ chấm điểm cho thí sinh mà còn sống lại ký ức của cậu bé mê đờn ca tài tử năm nào."
-    },
-    {
-     "t": "p",
-     "text": "Ông nhớ đến những người thầy giỏi nghề đã tận tình dạy dỗ, chỉ cho ông nhịp nhàng, cách ca sao cho đúng, cho mùi mẫn. Nhờ những bài học bổ ích đó nên khi tiếp cận với sàn diễn cải lương ông đã tạo nên được danh tiếng, mà giọng ca chính là \"bửu bối\" để ông có thể chinh phục được người làm nghề, khán giả."
-    },
-    {
-     "t": "p",
-     "text": "Ông bảo nhìn những tài tử ca ông như thấy mình của năm nào, của một thời tuổi thơ chỉ trông tới buổi sinh hoạt đờn ca tài tử để được hát, được sống trong niềm đam mê mãnh liệt."
-    }
-   ]
-  },
-  {
-   "id": "7f22fa76d5f1",
-   "order": 16,
-   "slug": "nhung-dia-diem-tuyet-voi-nhat-the-gioi",
-   "section": "kham-pha-the-gioi",
-   "section_name": "Khám phá thế giới",
-   "emoji": "🌏",
-   "title": "Những địa điểm tuyệt vời nhất thế giới",
-   "sapo": "Mỗi năm, tạp chí TIME lập một danh sách những địa điểm hấp dẫn nhất thế giới. Ban biên tập TFK xem xét danh sách này và chọn ra những nơi yêu thích của mình. Độ cao vời vợi, khám phá dưới đáy biển, kho báu cổ xưa: danh sách năm nay xoay quanh chủ đề phiêu lưu. Những điểm đến này đại diện cho…",
-   "author": "",
-   "source_name": "TIME for Kids",
-   "source_url": "https://www.timeforkids.com/g56/worlds-greatest-places-g5/",
-   "published": "2026-09-17T13:03:58+07:00",
-   "lang": "vi-dich",
-   "score": 8,
-   "words": 429,
-   "translated": true,
-   "translated_from": "TIME for Kids",
-   "title_original": "World’s Greatest Places",
-   "images": [
-    {
-     "src": "img/2026-09-22/7f22fa76d5f1-lead.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/7f22fa76d5f1-0.jpg",
-     "caption": "Pháo hoa thắp sáng bầu trời đêm phía trên một bảo tàng.",
-     "w": 1024,
-     "h": 682
-    },
-    {
-     "src": "img/2026-09-22/7f22fa76d5f1-1.jpg",
-     "caption": "Bờ biển đá, rừng ngập mặn và những vịnh nước nông trải dài trên một vùng đất hoang sơ nhìn từ trên cao.",
-     "w": 1024,
-     "h": 682
-    },
-    {
-     "src": "img/2026-09-22/7f22fa76d5f1-2.jpg",
-     "caption": "Một cây cầu treo màu ngọc lam bắc ngang thung lũng núi sâu, xung quanh mây phủ.",
-     "w": 1024,
-     "h": 682
-    },
-    {
-     "src": "img/2026-09-22/7f22fa76d5f1-3.jpg",
-     "caption": "Bờ biển một hòn đảo nhiệt đới với rừng xanh tươi tốt tiếp giáp làn nước xanh.",
-     "w": 1024,
-     "h": 682
-    },
-    {
-     "src": "img/2026-09-22/7f22fa76d5f1-4.jpg",
-     "caption": "Một người lặn ống thở bơi phía trên tác phẩm điêu khắc những chiếc ô tô dưới đáy biển.",
-     "w": 1024,
-     "h": 682
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Mỗi năm, tạp chí TIME lập một danh sách những địa điểm hấp dẫn nhất thế giới. Ban biên tập TFK xem xét danh sách này và chọn ra những nơi yêu thích của mình. Độ cao vời vợi, khám phá dưới đáy biển, kho báu cổ xưa: danh sách năm nay xoay quanh chủ đề phiêu lưu. Những điểm đến này đại diện cho cả một thế giới đầy khả năng đang chờ được khám phá."
-    },
-    {
-     "t": "p",
-     "text": "Trong số những địa điểm này, nơi nào thú vị nhất? Bạn muốn đi đâu đầu tiên? Địa điểm hấp dẫn nào nên nằm trong tầm ngắm của chúng tôi cho danh sách năm sau? Hãy chia sẻ suy nghĩ của bạn tại tfkeditors@time.com."
-    },
-    {
-     "t": "h",
-     "text": "Kho báu vô giá"
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Hãy chiêm ngưỡng 7.000 năm lịch sử tại một nơi duy nhất: Bảo tàng Ai Cập Vĩ đại mới ở Cairo, Ai Cập. Nơi đây trưng bày hàng nghìn hiện vật, bao gồm mọi món đồ tìm thấy trong lăng mộ vua Tutankhamun. Kim tự tháp Giza nằm ngay gần đó. Du khách có thể đi bộ từ bảo tàng đến đó. —Scott Laird"
-    },
-    {
-     "t": "h",
-     "text": "Lên đường chinh phục"
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Trong tiếng Tây Ban Nha, camino nghĩa là \"con đường\". El Camino de Costa Rica không chỉ đơn thuần là một con đường. Cung đường dài 174 dặm này đưa người đi bộ băng qua các dòng sông và rừng mưa nhiệt đới của Costa Rica. Những người may mắn có thể bắt gặp kỳ nhông và khỉ. —Laura Dannen Redman"
-    },
-    {
-     "t": "h",
-     "text": "Dạo bước giữa trời"
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "p",
-     "text": "Hãy tận hưởng khung cảnh từ độ cao 2.050 feet trên cầu Hoa Giang, tại tỉnh Quý Châu xa xôi của Trung Quốc. Bạn có dám bước đi trên lối đi bằng kính nối liền hai ngọn núi? Du khách cũng có thể lên tầng cao bằng thang máy kính để đến quán cà phê trên trời. —Sucheta Rawal"
-    },
-    {
-     "t": "h",
-     "text": "Hàng ngàn dặm lịch sử"
-    },
-    {
-     "t": "img",
-     "i": 4
-    },
-    {
-     "t": "p",
-     "text": "Cảnh quan Văn hóa Murujuga, nằm ở Tây Úc, chứa hàng ngàn dặm những hình khắc đá cổ xưa có niên đại lên tới 50.000 năm. Một số hình khắc mô tả các loài động vật đã tuyệt chủng, chẳng hạn như hổ Tasmania. —Michelle Tchea"
-    },
-    {
-     "t": "h",
-     "text": "Nghệ Thuật Dưới Nước"
-    },
-    {
-     "t": "img",
-     "i": 5
-    },
-    {
-     "t": "p",
-     "text": "Đeo kính bơi vào! Reefline là một công viên điêu khắc dưới nước kết hợp lối lặn ống thở ở Miami Beach, Florida. Du khách có thể bơi xuyên qua các tác phẩm nghệ thuật và đến gần các sinh vật biển. Một số người gọi đây là “sân chơi của nàng tiên cá”. —Bởi Nora Walsh"
     }
    ]
   }
