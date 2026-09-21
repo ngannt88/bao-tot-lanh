@@ -1,6 +1,7 @@
 """Gọi Claude Code ở chế độ không giao diện (claude -p), tắt hết công cụ, ép JSON."""
 from __future__ import annotations
-import json, os, re, shutil, subprocess, time
+import json, os, re, shutil, subprocess, tempfile, time
+from contextlib import contextmanager
 from typing import Any
 from common import setup_logging
 
@@ -12,6 +13,23 @@ THINKING_TOKENS = 0   # có thể ghi đè từ config scoring.thinking_tokens
 
 class AIError(RuntimeError):
     pass
+
+
+@contextmanager
+def _system_prompt_file(system: str):
+    """Đưa system prompt qua file thay vì dòng lệnh.
+    Trên Windows, 'claude' chạy qua shell nên dòng lệnh chỉ chứa được ~8191 ký tự;
+    tiêu chí chấm điểm dài hơn thế là hỏng toàn bộ với lỗi 'command line is too long'."""
+    f = tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8")
+    try:
+        f.write(system)
+        f.close()
+        yield f.name
+    finally:
+        try:
+            os.unlink(f.name)
+        except OSError:
+            pass
 
 
 def _claude_bin() -> str:
@@ -53,12 +71,10 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
              retries: int = 2, timeout: int = 300, thinking: int | None = None) -> Any:
     """Gửi prompt, nhận JSON. Thử lại khi lỗi mạng hoặc JSON hỏng.
     thinking: số token suy nghĩ tối đa (None = dùng THINKING_TOKENS, mặc định 0 = tắt)."""
-    cmd = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
-           "--output-format", "json", "--tools", "", "--no-session-persistence",
-           "--permission-mode", "dontAsk", "--system-prompt", system,
-           "--effort", "low"]                      # chấm điểm không cần suy nghĩ sâu: nhanh hơn, ít token hơn
-    if schema and False:  # --json-schema không hoạt động ở chế độ này, giữ tham số cho tương thích
-        cmd += ["--json-schema", json.dumps(schema, ensure_ascii=False)]
+    cmd_base = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
+                "--output-format", "json", "--tools", "", "--no-session-persistence",
+                "--permission-mode", "dontAsk",
+                "--effort", "low"]                 # chấm điểm không cần suy nghĩ sâu: nhanh hơn, ít token hơn
     env = dict(os.environ, PYTHONIOENCODING="utf-8", CLAUDE_CODE_DISABLE_TELEMETRY="1")
     # Dùng gói Claude đã đăng nhập, KHÔNG dùng API key trả phí nếu máy có sẵn biến này
     env.pop("ANTHROPIC_API_KEY", None)
@@ -68,8 +84,10 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
     for attempt in range(retries + 1):
         t0 = time.time()
         try:
-            r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
-                               encoding="utf-8", errors="replace", timeout=timeout, env=env, shell=False)
+            with _system_prompt_file(system) as spf:
+                r = subprocess.run(cmd_base + ["--system-prompt-file", spf], input=prompt,
+                                   capture_output=True, text=True, encoding="utf-8",
+                                   errors="replace", timeout=timeout, env=env, shell=False)
         except subprocess.TimeoutExpired:
             last = AIError(f"claude -p quá {timeout}s")
             log.warning("AI timeout (lần %d)", attempt + 1)
@@ -106,9 +124,9 @@ def ask_text(prompt: str, *, system: str, model: str, retries: int = 2,
              timeout: int = 300, thinking: int | None = None) -> str:
     """Như ask_json nhưng trả VĂN BẢN THÔ. Dùng cho dịch: nội dung tiếng Việt có nhiều
     dấu nháy kép, ép model trả JSON thì rất hay vỡ cú pháp."""
-    cmd = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
-           "--output-format", "json", "--tools", "", "--no-session-persistence",
-           "--permission-mode", "dontAsk", "--system-prompt", system, "--effort", "low"]
+    cmd_base = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
+                "--output-format", "json", "--tools", "", "--no-session-persistence",
+                "--permission-mode", "dontAsk", "--effort", "low"]
     env = dict(os.environ, PYTHONIOENCODING="utf-8", CLAUDE_CODE_DISABLE_TELEMETRY="1")
     env.pop("ANTHROPIC_API_KEY", None)
     env.pop("ANTHROPIC_AUTH_TOKEN", None)
@@ -117,8 +135,10 @@ def ask_text(prompt: str, *, system: str, model: str, retries: int = 2,
     for attempt in range(retries + 1):
         t0 = time.time()
         try:
-            r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
-                               encoding="utf-8", errors="replace", timeout=timeout, env=env, shell=False)
+            with _system_prompt_file(system) as spf:
+                r = subprocess.run(cmd_base + ["--system-prompt-file", spf], input=prompt,
+                                   capture_output=True, text=True, encoding="utf-8",
+                                   errors="replace", timeout=timeout, env=env, shell=False)
         except subprocess.TimeoutExpired:
             last = AIError(f"claude -p quá {timeout}s")
             continue

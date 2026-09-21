@@ -141,8 +141,12 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
         return []
     ap_cfg = cfg.get("review", {}).get("auto_publish", {})
     min_score = ap_cfg.get("min_score", 8)
+    floor = int(cfg.get("review", {}).get("min_score_candidate", 6))
     n = cfg["paper"]["articles_per_issue"]
     secs = {s["id"]: s for s in cfg["sections"]}
+    # Ưu tiên bài điểm cao; nếu hôm đó ít bài hay thì hạ dần ngưỡng, không để số báo quá mỏng
+    while min_score > floor and sum(1 for c in data["candidates"] if (c.get("score") or 0) >= min_score) < n:
+        min_score -= 1
     pool = sorted([c for c in data["candidates"] if (c.get("score") or 0) >= min_score],
                   key=lambda c: (-c["score"], c.get("age_h") or 99))
     chosen, count, topics = [], {}, {}
