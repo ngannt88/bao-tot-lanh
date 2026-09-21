@@ -42,7 +42,7 @@ def main():
 
     t0 = time.time()
     log.info("=== %s — lấy ứng viên ngày %s ===", cfg["paper"]["name"], day)
-    raw = collect(cfg["sources"])
+    raw = collect(cfg["sources"], ignore_today=args.force)
     passed, blocked = apply_rules(raw, cfg)
 
     scored, has_scores, rejected_score = passed, False, []

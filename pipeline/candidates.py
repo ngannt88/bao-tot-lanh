@@ -39,6 +39,18 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
     tc = cfg.get("translate", {})
     en_cap = (int(tc.get("max_per_issue", 6)) + 3) if tc.get("enabled") else 0   # dư 3 bài phòng dịch hỏng
     en_used = len(en_used_init)
+    # Giữ suất cho bài tiếng Anh: chọn trước những bài EN điểm cao nhất. Không làm bước này thì
+    # bài Việt (đông hơn nhiều) chiếm hết hạn mức chuyên mục và số báo không còn bài dịch nào.
+    if has_scores and en_cap:
+        for a in pool:
+            if en_used >= en_cap:
+                break
+            if a["id"] in used or a.get("lang") != "en":
+                continue
+            sid = key(a)
+            if count[sid] >= cap.get(sid, 2):
+                continue
+            chosen.append(a); used.add(a["id"]); count[sid] += 1; en_used += 1
     if not has_scores:
         # xoay vòng đều giữa các mục
         buckets: dict[str, list] = {}

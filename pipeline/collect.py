@@ -93,7 +93,9 @@ def _fetch_html_listing(src: dict) -> list[dict]:
     return out
 
 
-def collect(sources: list[dict]) -> list[dict]:
+def collect(sources: list[dict], ignore_today: bool = False) -> list[dict]:
+    """ignore_today=True: bỏ qua bộ nhớ "đã thấy" của CHÍNH HÔM NAY, để chạy lại trong ngày
+    vẫn ra đủ bài (các ngày trước vẫn được nhớ, không lấy lại bài cũ)."""
     active = [s for s in sources if s.get("enabled", True)]
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
         lists = list(ex.map(lambda s: _fetch_html_listing(s) if s.get("type") == "html" else _fetch(s), active))
@@ -101,8 +103,13 @@ def collect(sources: list[dict]) -> list[dict]:
 
     # Khử trùng lặp theo url và theo tiêu đề gần giống (cùng sự kiện nhiều báo đăng)
     state = read_json(STATE, {"seen": {}, "titles": {}})
+    today = today_str()
     seen_urls = state["seen"]
-    uniq, seen_titles = [], set(state.get("titles", {}).keys())   # tiêu đề đã thấy 3 ngày gần đây
+    seen_titles_map = state.get("titles", {})
+    if ignore_today:
+        seen_urls = {k: v for k, v in seen_urls.items() if v != today}
+        seen_titles_map = {k: v for k, v in seen_titles_map.items() if v != today}
+    uniq, seen_titles = [], set(seen_titles_map.keys())   # tiêu đề đã thấy 3 ngày gần đây
     dropped_seen = dropped_dup = 0
     for a in items:
         if a["id"] in seen_urls:

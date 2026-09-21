@@ -143,6 +143,9 @@ def _verify_system(cfg: dict) -> str:
               "(đoạn đầu bài), không chỉ tiêu đề. Bài sẽ hiển thị NGUYÊN VĂN cho trẻ đọc.\n"
               "Với mỗi bài trả: 'safe' (true/false: có nội dung không hợp trẻ như chết chóc, bạo lực, tiền bạc, "
               "chính sách, tranh cãi, quảng cáo, người lớn?), 'score' 0–10 theo tiêu chí, 'reason' ≤ 10 chữ.\n"
+              "LƯU Ý: một số bài đang là tiếng Anh. Chúng SẼ ĐƯỢC DỊCH SÁT sang tiếng Việt trước khi đăng, "
+              "nên TUYỆT ĐỐI KHÔNG trừ điểm hay đánh dấu không an toàn chỉ vì bài viết bằng tiếng Anh. "
+              "Hãy chấm đúng nội dung như thể bạn đang đọc bản tiếng Việt của nó.\n"
               "ĐẦU RA: chỉ JSON nén một dòng {\"scores\":[{\"id\":\"..\",\"safe\":true,\"score\":n,\"reason\":\"..\"}]}, đủ mọi id.")
 
 
