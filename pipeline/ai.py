@@ -57,6 +57,9 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
     if schema:
         cmd += ["--json-schema", json.dumps(schema, ensure_ascii=False)]
     env = dict(os.environ, PYTHONIOENCODING="utf-8", CLAUDE_CODE_DISABLE_TELEMETRY="1")
+    # Dùng gói Claude đã đăng nhập, KHÔNG dùng API key trả phí nếu máy có sẵn biến này
+    env.pop("ANTHROPIC_API_KEY", None)
+    env.pop("ANTHROPIC_AUTH_TOKEN", None)
     last = None
     for attempt in range(retries + 1):
         t0 = time.time()
