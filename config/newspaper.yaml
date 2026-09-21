@@ -7,7 +7,7 @@ paper:
   name: "Báo Tốt Lành"
   tagline: "Mỗi ngày một số báo. Đọc hết là xong. Hẹn mai nhé."
   timezone: "Asia/Ho_Chi_Minh"
-  articles_per_issue: 12         # số bài mỗi số báo (đọc hết 15–25 phút)
+  articles_per_issue: 16         # số bài mỗi số báo (đọc hết 25–30 phút)
   publish_hour: 6                # giờ chạy mỗi sáng
 
 # ---------------------------------------------------------------------
@@ -18,7 +18,7 @@ sections:
     name: "Thể thao đẹp"
     emoji: "⚽"
     required: true
-    max_per_issue: 3
+    max_per_issue: 4
     what: >
       Câu chuyện khổ luyện, kỷ luật, tinh thần đồng đội, vượt khó của vận động
       viên; kỷ lục thể thao; thể thao học đường Việt Nam; khoa học trong thể thao.
@@ -29,7 +29,7 @@ sections:
     name: "Khám phá khoa học"
     emoji: "🔬"
     required: true
-    max_per_issue: 3
+    max_per_issue: 4
     what: >
       Phát minh, thí nghiệm, vũ trụ, robot, năng lượng, y học đơn giản, cách
       mọi thứ hoạt động, bí ẩn khoa học đã có lời giải.
@@ -39,7 +39,7 @@ sections:
     name: "Thế giới động vật"
     emoji: "🦈"
     required: true
-    max_per_issue: 2
+    max_per_issue: 3
     what: >
       Sinh vật kỳ lạ, to lớn, hiếm gặp: cá mập yêu tinh, mực khổng lồ, khủng long,
       sinh vật biển sâu; hành vi thông minh của động vật; bảo tồn thành công.
@@ -51,7 +51,7 @@ sections:
     name: "Sáng tạo & Kiến trúc"
     emoji: "🎨"
     required: true
-    max_per_issue: 3
+    max_per_issue: 4
     what: >
       Hội họa, tranh đẹp, họa sĩ nhỏ tuổi, bảo tàng, hoạt hình được làm thế nào;
       kiến trúc, công trình kỳ vĩ, kỹ sư xây dựng, mô hình, Lego, thiết kế.
@@ -62,7 +62,7 @@ sections:
     name: "Gương sáng & Tài năng trẻ"
     emoji: "🌟"
     required: true
-    max_per_issue: 2
+    max_per_issue: 3
     what: >
       Học sinh đạt giải, sáng chế của trẻ em, người tốt việc tốt, người vượt
       nghịch cảnh để học tập, thầy cô tận tâm, dự án cộng đồng.
@@ -72,7 +72,7 @@ sections:
     name: "Khám phá thế giới"
     emoji: "🌏"
     required: false
-    max_per_issue: 2
+    max_per_issue: 3
     what: >
       Địa lý, văn hóa các nước, lịch sử Việt Nam kể hấp dẫn, danh thắng, ẩm thực
       truyền thống, lễ hội.
@@ -271,7 +271,7 @@ blocklist_exceptions:
 #  DUYỆT TAY — mỗi sáng cha mẹ chọn bài từ danh sách ứng viên
 # ---------------------------------------------------------------------
 review:
-  candidates_per_day: 25       # số ứng viên đưa ra cho cha mẹ chọn
+  candidates_per_day: 32       # số ứng viên đưa ra cho cha mẹ chọn
   min_score_candidate: 6       # điểm AI tối thiểu để thành ứng viên (0–10)
   auto_publish:                # "lưới an toàn": đến giờ hẹn mà chưa duyệt → tự xuất bản
     enabled: true
