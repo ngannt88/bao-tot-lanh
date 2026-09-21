@@ -1,0 +1,97 @@
+{
+ "date": "2026-09-21",
+ "paper": "Báo Tốt Lành",
+ "tagline": "Mỗi ngày một số báo. Đọc hết là xong. Hẹn mai nhé.",
+ "generated_at": "2026-09-21T12:00:00+07:00",
+ "sample": true,
+ "readers": [{"id": "be-nho", "name": "Bé 7", "age": 7}, {"id": "be-lon", "name": "Bé 11", "age": 11}],
+ "sections": [
+  {"id": "the-thao-dep", "name": "Thể thao đẹp", "emoji": "⚽"},
+  {"id": "kham-pha-khoa-hoc", "name": "Khám phá khoa học", "emoji": "🔬"},
+  {"id": "the-gioi-dong-vat", "name": "Thế giới động vật", "emoji": "🦈"},
+  {"id": "sang-tao-kien-truc", "name": "Sáng tạo & Kiến trúc", "emoji": "🎨"},
+  {"id": "guong-sang", "name": "Gương sáng & Tài năng trẻ", "emoji": "🌟"}
+ ],
+ "articles": [
+  {
+   "id": "sample-001", "slug": "may-tinh-lam-tu-dna", "order": 1,
+   "section": "kham-pha-khoa-hoc", "section_name": "Khám phá khoa học", "emoji": "🔬",
+   "tags": ["dna", "may-tinh", "khoa-hoc"],
+   "image_alt": "Một giọt nước lấp lánh, bên trong là sợi DNA xoắn như cầu thang, có các con số nhỏ chạy dọc theo.",
+   "versions": {
+    "be-nho": {
+     "title": "Chiếc máy tính bé bằng giọt nước",
+     "lead": "Các nhà khoa học vừa làm ra một chiếc máy tính nằm gọn trong một giọt nước muối.",
+     "body": "Bạn có tin không? Có một chiếc máy tính chỉ to bằng một giọt nước.\n\nNó không làm bằng sắt hay nhựa. Nó làm bằng DNA. DNA là thứ có trong mọi sinh vật sống, kể cả trong người bạn. Nó giống như một cuốn sách hướng dẫn rất dài, viết bằng bốn chữ cái.\n\nCác nhà khoa học xếp những sợi DNA lại theo cách đặc biệt. Khi thả vào nước muối, chúng bắt đầu tính toán. Chậm hơn máy tính ở nhà, nhưng lại rất nhỏ và tiết kiệm điện.\n\nMột ngày nào đó, máy tính DNA có thể đi vào trong cơ thể để tìm chỗ bị ốm. Thật kỳ diệu phải không?",
+     "words": [{"w": "DNA", "m": "cuốn sách hướng dẫn nhỏ xíu có trong mọi sinh vật"}, {"w": "tính toán", "m": "làm các phép cộng trừ nhân chia"}]
+    },
+    "be-lon": {
+     "title": "Máy tính DNA tính được 100 bit trong một giọt nước muối",
+     "lead": "Một nhóm nghiên cứu đã chế tạo máy tính sinh học dùng các sợi DNA làm bộ nhớ và bộ xử lý, tất cả nằm trong một giọt dung dịch.",
+     "body": "Máy tính trong nhà bạn dùng hàng tỷ công tắc điện tí hon gọi là transistor (linh kiện bật tắt dòng điện). Nhưng có một cách khác để tính toán: dùng chính vật liệu của sự sống.\n\nDNA là chuỗi dài gồm bốn loại \"chữ cái\" A, T, G, C. Các nhà khoa học thiết kế những đoạn DNA ngắn sao cho khi chúng gặp nhau trong nước muối, chúng tự ghép lại theo quy tắc định trước. Mỗi lần ghép tương ứng với một phép tính. Kết quả mới nhất: hệ thống này xử lý được 100 bit (đơn vị thông tin nhỏ nhất, chỉ là 0 hoặc 1) cùng lúc, nhiều nhất từ trước đến nay với loại máy này.\n\nĐiểm mạnh của máy tính DNA không phải tốc độ, vì nó chậm hơn máy tính điện tử rất nhiều. Điểm mạnh là kích cỡ và năng lượng: một giọt nước chứa hàng nghìn tỷ phân tử cùng làm việc, mà gần như không tốn điện.\n\nCác nhà nghiên cứu hình dung một tương lai nơi những \"máy tính\" như vậy được đưa vào cơ thể, nhận ra tế bào bị bệnh và thả thuốc đúng chỗ. Từ ý tưởng đến bệnh viện còn xa, nhưng mỗi bước như hôm nay lại gần thêm một chút.\n\nNếu máy tính có thể làm từ vật liệu của sự sống, liệu sự sống có phải là một loại máy tính?",
+     "words": [{"w": "transistor", "m": "công tắc điện siêu nhỏ trong chip máy tính (transistor)"}, {"w": "bit", "m": "đơn vị thông tin nhỏ nhất, chỉ nhận giá trị 0 hoặc 1 (bit)"}, {"w": "phân tử", "m": "hạt rất nhỏ tạo nên mọi chất (molecule)"}]
+    }
+   },
+   "activities": [
+    {"type": "ve", "text": "Thử vẽ một giọt nước thật to, bên trong có chiếc cầu thang xoắn DNA và những con số 0, 1 chạy dọc theo nhé."},
+    {"type": "thu", "text": "Lấy hai dây ruy băng màu khác nhau, xoắn chúng quanh nhau rồi dùng que tăm nối ngang từng đoạn: bạn vừa làm mô hình DNA đấy. Nhờ người lớn giúp cắt tăm."}
+   ],
+   "question": "Nếu bạn có một chiếc máy tính nhỏ như giọt nước, bạn muốn nó làm việc gì cho mình?",
+   "fun_fact": "Nếu kéo thẳng toàn bộ DNA trong một tế bào người, nó dài khoảng 2 mét.",
+   "source_name": "Tuổi Trẻ", "source_url": "https://tuoitre.vn/", "score": 9
+  },
+  {
+   "id": "sample-002", "slug": "thu-mon-can-hai-qua-luan-luu", "order": 2,
+   "section": "the-thao-dep", "section_name": "Thể thao đẹp", "emoji": "⚽",
+   "tags": ["bong-da", "thu-mon", "kien-tri"],
+   "image_alt": "Một thủ môn bay người hết cỡ về góc trái khung thành, quả bóng vừa chạm đầu ngón tay găng.",
+   "versions": {
+    "be-nho": {
+     "title": "Thủ môn bay như chim, cản hai quả phạt đền",
+     "lead": "Trong loạt đá luân lưu căng thẳng, một thủ môn đã đoán đúng hướng và cản liền hai cú sút.",
+     "body": "Đá luân lưu là lúc hồi hộp nhất trong bóng đá. Mỗi đội sút năm quả. Ai ghi nhiều hơn thì thắng.\n\nHôm qua, một thủ môn đã làm điều rất khó. Anh cản được hai quả liền. Anh bay sang trái, rồi lại bay sang phải. Cả sân vận động hò reo.\n\nBí mật của anh là gì? Anh kể rằng mỗi ngày anh tập cản bóng hàng trăm lần. Anh còn xem lại cách các cầu thủ hay sút để đoán trước.\n\nTập nhiều, quan sát kỹ. Đó là cách anh trở thành người hùng.",
+     "words": [{"w": "luân lưu", "m": "mỗi đội lần lượt sút phạt đền để phân thắng bại"}, {"w": "thủ môn", "m": "người giữ khung thành"}]
+    },
+    "be-lon": {
+     "title": "Hai pha cản luân lưu và bài học về sự chuẩn bị",
+     "lead": "Thủ môn Bùi Tiến Dũng cản hai quả phạt đền liên tiếp, đưa đội nhà đi tiếp. Đằng sau khoảnh khắc ấy là hàng nghìn giờ luyện tập và một cuốn sổ ghi chép.",
+     "body": "Loạt luân lưu thường được gọi là \"trò xổ số\", nhưng những thủ môn giỏi không tin vào may mắn. Họ chuẩn bị.\n\nTrong trận đấu vừa qua, khi hai đội hòa sau 120 phút, mọi ánh mắt dồn vào thủ môn Bùi Tiến Dũng. Anh cản quả thứ hai bằng một cú bay sang trái, rồi cản tiếp quả thứ tư khi đổ người sang phải. Đội của anh giành quyền đi tiếp.\n\nSau trận, anh chia sẻ điều mà ít người biết: trước mỗi trận, anh và huấn luyện viên xem lại các cú sút phạt đền cũ của từng cầu thủ đối phương, ghi chú thói quen của họ vào sổ. Khi đứng trước vạch vôi, anh không đoán mò mà đoán có cơ sở (dựa trên dữ liệu đã quan sát).\n\nCác nghiên cứu về thể thao cho thấy thủ môn phản ứng sau khi bóng rời chân thì gần như không kịp, vì bóng bay tới khung thành chỉ trong khoảng 0,4 giây. Vì thế quyết định phải được đưa ra sớm hơn, dựa trên dáng chạy đà và tư thế của người sút.\n\nKhoảnh khắc tỏa sáng kéo dài vài giây, nhưng được xây từ hàng nghìn giờ tập luyện lặp đi lặp lại. Điều gì trong việc học của bạn cũng đang cần \"cuốn sổ ghi chép\" như vậy?",
+     "words": [{"w": "chạy đà", "m": "vài bước chạy trước khi sút (run-up)"}, {"w": "dữ liệu", "m": "thông tin đã ghi lại để phân tích (data)"}, {"w": "phản xạ", "m": "phản ứng rất nhanh của cơ thể (reflex)"}]
+    }
+   },
+   "activities": [
+    {"type": "thu", "text": "Chơi trò đoán hướng: một người giả làm người sút, chỉ được dùng mắt và tư thế chân để 'đánh lừa', người kia đoán trái hay phải. Đổi vai sau 5 lần. Bạn đoán đúng được mấy lần?"}
+   ],
+   "question": "Bạn nghĩ tài năng quan trọng hơn hay luyện tập quan trọng hơn? Vì sao?",
+   "fun_fact": "Một quả phạt đền sút mạnh bay đến khung thành trong chưa tới nửa giây, nhanh hơn một cái chớp mắt chậm.",
+   "source_name": "VnExpress", "source_url": "https://vnexpress.net/", "score": 8
+  },
+  {
+   "id": "sample-003", "slug": "dan-voi-chin-con-o-da-nang", "order": 3,
+   "section": "the-gioi-dong-vat", "section_name": "Thế giới động vật", "emoji": "🦈",
+   "tags": ["voi", "rung", "bao-ton"],
+   "image_alt": "Đàn voi rừng đi qua khe rừng sáng sớm, hai chú voi con đi giữa, được các voi lớn che hai bên.",
+   "versions": {
+    "be-nho": {
+     "title": "Đàn voi có hai em bé đi dạo trong rừng",
+     "lead": "Máy ảnh giấu trong rừng Đà Nẵng đã chụp được đàn voi chín con, trong đó có hai voi con.",
+     "body": "Trong rừng sâu có những chiếc máy ảnh nhỏ giấu trên cây. Chúng tự chụp khi có con vật đi qua.\n\nLần này máy ảnh chụp được một đàn voi. Đếm kỹ thì có chín con. Hai con bé nhất đi ở giữa. Các voi lớn đi hai bên để bảo vệ.\n\nVoi con uống sữa mẹ đến hai tuổi. Cả đàn cùng chăm em bé, giống như một gia đình lớn.\n\nCó voi con nghĩa là rừng vẫn khỏe. Các bác kiểm lâm rất vui vì điều đó.",
+     "words": [{"w": "bẫy ảnh", "m": "máy ảnh giấu trong rừng, tự chụp khi có con vật đi qua"}, {"w": "kiểm lâm", "m": "người bảo vệ rừng và các con vật trong rừng"}]
+    },
+    "be-lon": {
+     "title": "Bẫy ảnh ghi được đàn voi chín con, có hai voi con",
+     "lead": "Ở vùng rừng phía tây Đà Nẵng, hệ thống bẫy ảnh vừa ghi lại một đàn voi rừng chín cá thể. Hai voi con là tín hiệu tốt nhất mà người làm bảo tồn có thể mong đợi.",
+     "body": "Bẫy ảnh (camera trap) là những máy ảnh chống nước gắn trên thân cây, kích hoạt bằng cảm biến nhiệt và chuyển động. Chúng làm việc ngày đêm, không làm động vật sợ, và là \"đôi mắt\" chính của các nhà bảo tồn trong rừng sâu.\n\nĐoạn phim mới nhất cho thấy đàn voi di chuyển theo đội hình quen thuộc của loài: các con cái trưởng thành đi bao quanh, hai voi con ở giữa. Voi sống theo chế độ mẫu hệ (con voi cái già nhất dẫn đầu), và cả đàn cùng chăm sóc voi con, kể cả những con không phải mẹ.\n\nVì sao hai voi con lại quan trọng đến vậy? Voi cái mang thai gần 22 tháng, lâu nhất trong các loài thú trên đất liền, và mỗi lần chỉ sinh một con. Một đàn có voi con nghĩa là chúng đủ ăn, đủ an toàn và đủ không gian để sinh sản. Với loài đang bị đe dọa, đó là tin tốt hiếm có.\n\nNhững năm gần đây, hành lang rừng nối các khu bảo tồn được giữ lại để voi có đường đi. Đàn voi này chính là bằng chứng sống cho thấy nỗ lực đó có kết quả.\n\nNếu bạn được đặt một chiếc bẫy ảnh trong rừng, bạn hy vọng sẽ chụp được con vật gì?",
+     "words": [{"w": "mẫu hệ", "m": "đàn do con cái lớn tuổi nhất dẫn dắt (matriarchal)"}, {"w": "cảm biến", "m": "bộ phận nhận biết nhiệt hay chuyển động (sensor)"}, {"w": "hành lang rừng", "m": "dải rừng nối các khu rừng lớn để thú đi lại (wildlife corridor)"}]
+    }
+   },
+   "activities": [
+    {"type": "ve", "text": "Vẽ đàn voi chín con đi qua rừng buổi sáng. Nhớ hai voi con đi ở giữa, tai voi châu Á nhỏ và tròn hơn voi châu Phi nhé."},
+    {"type": "xay", "text": "Xây trong Minecraft một khu rừng có 'hành lang' nối hai cánh rừng, đủ rộng cho một đàn voi đi qua. Thử đặt vài chiếc bẫy ảnh bằng khối observer xem sao."}
+   ],
+   "question": "Theo bạn, vì sao cả đàn voi cùng chăm sóc voi con thay vì chỉ voi mẹ?",
+   "fun_fact": "Voi có thể nhận ra mình trong gương, điều rất ít loài vật làm được.",
+   "source_name": "Tuổi Trẻ", "source_url": "https://tuoitre.vn/", "score": 9
+  }
+ ]
+}
