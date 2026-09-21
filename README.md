@@ -16,6 +16,27 @@ bình luận, không link ra ngoài, không cuộn vô tận.
   → con mở app trên máy tính bảng  https://ngannt88.github.io/bao-tot-lanh/
 ```
 
+## Lưới an toàn: tự xuất bản
+
+Nếu đến giờ hẹn (`review.auto_publish.hour`, mặc định 7:30) mà bố mẹ chưa duyệt, hệ thống tự chọn
+các bài AI chấm từ `min_score` (mặc định 8/10) trở lên, cân bằng chuyên mục, và xuất bản. Bố mẹ vẫn
+có thể mở trang duyệt sửa lại sau. **Không có điểm AI thì không tự xuất bản**, nên bắt buộc đã
+`claude login`. Tắt bằng `enabled: false` rồi chạy lại `register_task.ps1`.
+
+## Ba tác vụ Task Scheduler
+
+| Tác vụ | Khi nào | Làm gì |
+|---|---|---|
+| BaoTotLanh-HangNgay | 6:00, và khi đăng nhập Windows | lấy tin, lọc, tách ứng viên, mở trang duyệt, báo Windows |
+| BaoTotLanh-TuXuatBan | giờ hẹn, và 12 phút sau đăng nhập | chưa duyệt → tự xuất bản bài điểm cao |
+| BaoTotLanh-KiemTra | thứ hai 7:00 | kiểm tra feed và bộ tách từng báo, báo nếu hỏng |
+
+## Nguồn không có RSS
+
+Trong `config/newspaper.yaml`, nguồn có `type: html` sẽ lấy link bài từ trang chuyên mục theo
+`link_pattern` (regex). Dùng cho báo trẻ em như Thiếu niên Tiền phong. Trang chậm hay lỗi thì hôm đó
+thiếu nguồn, không ảnh hưởng nguồn khác.
+
 ## Cấu trúc
 
 ```

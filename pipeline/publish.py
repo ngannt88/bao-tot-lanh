@@ -92,14 +92,68 @@ def publish(day: str, ids: list[str], cfg: dict, push: bool = True) -> dict:
     return {"ok": ok, "message": msg, "count": len(issue["articles"]), "date": day}
 
 
+def auto_pick(day: str, cfg: dict) -> list[str]:
+    """Chọn tự động: bài điểm AI ≥ min_score, cân bằng chuyên mục, đủ articles_per_issue.
+    Không có điểm AI → trả rỗng (không tự xuất bản khi chưa có AI)."""
+    data = load_candidates(day)
+    if not data or not data.get("ai_scored"):
+        return []
+    ap_cfg = cfg.get("review", {}).get("auto_publish", {})
+    min_score = ap_cfg.get("min_score", 8)
+    n = cfg["paper"]["articles_per_issue"]
+    secs = {s["id"]: s for s in cfg["sections"]}
+    pool = sorted([c for c in data["candidates"] if (c.get("score") or 0) >= min_score],
+                  key=lambda c: (-c["score"], c.get("age_h") or 99))
+    chosen, count = [], {}
+    for sid, s in secs.items():                      # mỗi mục bắt buộc 1 bài trước
+        if s.get("required"):
+            for c in pool:
+                if c not in chosen and c.get("section") == sid:
+                    chosen.append(c); count[sid] = 1; break
+    for c in pool:
+        if len(chosen) >= n:
+            break
+        sid = c.get("section")
+        if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2):
+            continue
+        chosen.append(c); count[sid] = count.get(sid, 0) + 1
+    return [c["id"] for c in chosen]
+
+
 if __name__ == "__main__":
     import argparse, sys
     from pathlib import Path
     sys.path.insert(0, str(Path(__file__).parent))
     from common import load_config, today_str
     ap = argparse.ArgumentParser()
-    ap.add_argument("ids", nargs="+")
+    ap.add_argument("ids", nargs="*")
     ap.add_argument("--date", default=today_str())
     ap.add_argument("--no-push", action="store_true")
+    ap.add_argument("--auto", action="store_true", help="tự chọn bài điểm cao nếu hôm nay chưa xuất bản")
     a = ap.parse_args()
-    print(publish(a.date, a.ids, load_config(), push=not a.no_push))
+    cfg = load_config()
+    if a.auto:
+        if not cfg.get("review", {}).get("auto_publish", {}).get("enabled"):
+            print("Tự xuất bản đang tắt trong config."); sys.exit(0)
+        if (ISSUES / f"{a.date}.json").exists():
+            print(f"Ngày {a.date} đã có số báo (cha mẹ đã duyệt), không làm gì."); sys.exit(0)
+        ids = auto_pick(a.date, cfg)
+        if not ids:
+            print("Không tự xuất bản: chưa có ứng viên có điểm AI đủ cao."); sys.exit(2)
+        res = publish(a.date, ids, cfg, push=not a.no_push)
+        print("TỰ XUẤT BẢN:", res)
+        try:
+            import subprocess
+            subprocess.run(["powershell", "-NoProfile", "-Command",
+                f"[Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] | Out-Null; "
+                f"$x=[Windows.UI.Notifications.ToastNotificationManager]::GetTemplateContent([Windows.UI.Notifications.ToastTemplateType]::ToastText02); "
+                f"$t=$x.GetElementsByTagName('text'); $t.Item(0).AppendChild($x.CreateTextNode('Báo Tốt Lành: đã tự xuất bản {res['count']} bài')) | Out-Null; "
+                f"$t.Item(1).AppendChild($x.CreateTextNode('Bạn chưa duyệt nên hệ thống chọn bài điểm cao. Mở trang duyệt để chỉnh nếu cần.')) | Out-Null; "
+                f"[Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier('Báo Tốt Lành').Show([Windows.UI.Notifications.ToastNotification]::new($x))"],
+                timeout=20)
+        except Exception:
+            pass
+        sys.exit(0 if res["ok"] else 1)
+    if not a.ids:
+        ap.error("cần danh sách id hoặc --auto")
+    print(publish(a.date, a.ids, cfg, push=not a.no_push))

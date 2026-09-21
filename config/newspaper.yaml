@@ -273,6 +273,10 @@ blocklist_exceptions:
 review:
   candidates_per_day: 25       # số ứng viên đưa ra cho cha mẹ chọn
   min_score_candidate: 6       # điểm AI tối thiểu để thành ứng viên (0–10)
+  auto_publish:                # "lưới an toàn": đến giờ hẹn mà chưa duyệt → tự xuất bản
+    enabled: true
+    hour: "07:30"              # giờ tự xuất bản (Task Scheduler đọc khi đăng ký)
+    min_score: 8               # chỉ lấy bài AI chấm từ 8/10; không có điểm AI → KHÔNG tự xuất bản
 
 # ---------------------------------------------------------------------
 #  TẦNG 3 — TIÊU CHÍ AI CHẤM ĐIỂM  (Haiku đọc tiêu đề + mô tả). Bài lên báo

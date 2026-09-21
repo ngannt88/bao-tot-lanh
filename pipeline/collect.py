@@ -55,10 +55,48 @@ def _fetch(src: dict) -> list[dict]:
     return out
 
 
+def _fetch_html_listing(src: dict) -> list[dict]:
+    """Nguồn KHÔNG có RSS: lấy link bài từ trang chuyên mục theo mẫu regex (type: html)."""
+    import re
+    from urllib.parse import urljoin, urlparse
+    from bs4 import BeautifulSoup
+    try:
+        r = http_get(src["url"], HEADERS, src.get("timeout", 40))
+        r.raise_for_status()
+    except Exception as e:
+        log.warning("Trang chuyên mục lỗi %s: %s", src["id"], str(e)[:100])
+        return []
+    soup = BeautifulSoup(r.content, "lxml")
+    pat = re.compile(src["link_pattern"])
+    host = urlparse(r.url).netloc
+    out, seen = [], set()
+    for a in soup.find_all("a", href=True):
+        link = urljoin(r.url, a["href"]).split("#")[0]
+        if urlparse(link).netloc != host or not pat.search(link) or link in seen:
+            continue
+        title = strip_html(a.get("title") or a.get_text(" ", strip=True))
+        if not title or len(title) < 15:            # bỏ link ảnh/"Xem thêm" không có tiêu đề
+            img = a.find("img")
+            title = strip_html(img.get("alt")) if img is not None and img.get("alt") else ""
+            if len(title) < 15:
+                continue
+        seen.add(link)
+        out.append({
+            "id": article_id(link), "url": link, "title": title, "summary": "",
+            "published": None, "age_h": None,                 # trang chuyên mục không có ngày; state 'seen' lo việc lặp
+            "source": src["id"], "source_name": src.get("name", src["id"]), "lang": src.get("lang", "vi"),
+            "hint_section": src.get("section"), "image_src": None,
+        })
+        if len(out) >= src.get("max_items", 20):
+            break
+    log.info("Trang %-27s %3d bài", src["id"], len(out))
+    return out
+
+
 def collect(sources: list[dict]) -> list[dict]:
     active = [s for s in sources if s.get("enabled", True)]
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
-        lists = list(ex.map(_fetch, active))
+        lists = list(ex.map(lambda s: _fetch_html_listing(s) if s.get("type") == "html" else _fetch(s), active))
     items = [a for lst in lists for a in lst]
 
     # Khử trùng lặp theo url và theo tiêu đề gần giống (cùng sự kiện nhiều báo đăng)
