@@ -1,4 +1,4 @@
-# Đăng ký Task Scheduler. Chạy MỘT LẦN:
+﻿# Đăng ký Task Scheduler. Chạy MỘT LẦN:
 #   powershell -ExecutionPolicy Bypass -File scripts\register_task.ps1
 # Ba tác vụ:
 #   1. BaoTotLanh-HangNgay   6:00 + khi đăng nhập Windows: lấy tin, tách ứng viên, mở trang duyệt

@@ -1,4 +1,4 @@
-# Mỗi sáng: lấy tin, lọc, tách nguyên văn ứng viên, rồi mở trang duyệt cho cha mẹ.
+﻿# Mỗi sáng: lấy tin, lọc, tách nguyên văn ứng viên, rồi mở trang duyệt cho cha mẹ.
 # Task Scheduler gọi lúc 6:00 và khi đăng nhập Windows. Chạy tay:
 #   powershell -ExecutionPolicy Bypass -File scripts\run_daily.ps1
 $ErrorActionPreference = "Continue"

@@ -1,4 +1,4 @@
-# Kiểm tra sức khỏe nguồn hàng tuần. Task Scheduler gọi sáng thứ hai. Báo Windows nếu có nguồn hỏng.
+﻿# Kiểm tra sức khỏe nguồn hàng tuần. Task Scheduler gọi sáng thứ hai. Báo Windows nếu có nguồn hỏng.
 $Root = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)
 Set-Location $Root
 $env:PYTHONIOENCODING = "utf-8"; $env:PYTHONUTF8 = "1"

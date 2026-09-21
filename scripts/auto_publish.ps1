@@ -1,4 +1,4 @@
-# Đến giờ hẹn mà cha mẹ chưa duyệt → tự xuất bản các bài điểm AI cao nhất.
+﻿# Đến giờ hẹn mà cha mẹ chưa duyệt → tự xuất bản các bài điểm AI cao nhất.
 $Root = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)
 Set-Location $Root
 $env:PYTHONIOENCODING = "utf-8"; $env:PYTHONUTF8 = "1"

@@ -69,21 +69,52 @@ def build_issue(day: str, ids: list[str], cfg: dict) -> dict:
 
 
 def git_push(day: str) -> tuple[bool, str]:
-    def run(*args):
-        return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace")
+    """Hai việc:
+    1. main: commit JSON số báo (nhỏ, giữ lịch sử). Ảnh KHÔNG vào main (.gitignore) để kho không phình.
+    2. gh-pages: nhánh web, dựng lại từ toàn bộ thư mục docs/ (kể cả ảnh) thành MỘT commit không cha,
+       đẩy ghi đè. Không có lịch sử → kho không lớn theo ngày. GitHub Pages phục vụ nhánh này."""
+    import os
+    def run(*args, env=None):
+        return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True,
+                              encoding="utf-8", errors="replace", env=env)
     if not (ROOT / ".git").exists():
         return False, "chưa có kho git"
+    msgs = []
+    # 1) main
     run("add", "docs/data")
-    st = run("status", "--porcelain", "docs/data")
-    if not st.stdout.strip():
-        return True, "không có gì mới để đẩy"
-    c = run("commit", "-q", "-m", f"Số báo {day}")
-    if c.returncode != 0:
-        return False, "commit lỗi: " + (c.stderr or c.stdout)[-300:]
-    p = run("push", "-q")
-    if p.returncode != 0:
-        return False, "push lỗi: " + (p.stderr or p.stdout)[-300:]
-    return True, "đã đẩy lên GitHub"
+    if run("status", "--porcelain", "docs/data").stdout.strip():
+        c = run("commit", "-q", "-m", f"Số báo {day}")
+        if c.returncode != 0:
+            return False, "commit lỗi: " + (c.stderr or c.stdout)[-300:]
+        p = run("push", "-q")
+        if p.returncode != 0:
+            return False, "push main lỗi: " + (p.stderr or p.stdout)[-300:]
+        msgs.append("main")
+    # 2) gh-pages = snapshot docs/ (dùng index tạm để lấy cả file bị ignore như ảnh)
+    tmp_index = ROOT / ".git" / "tmp-pages-index"
+    env = dict(os.environ, GIT_INDEX_FILE=str(tmp_index))
+    try:
+        if tmp_index.exists():
+            tmp_index.unlink()
+        a = run("add", "-f", "docs", env=env)
+        if a.returncode != 0:
+            return False, "gh-pages add lỗi: " + (a.stderr or a.stdout)[-300:]
+        t = run("write-tree", "--prefix=docs/", env=env)
+        if t.returncode != 0:
+            return False, "gh-pages write-tree lỗi: " + (t.stderr or t.stdout)[-300:]
+        tree = t.stdout.strip()
+        cm = run("commit-tree", tree, "-m", f"Trang web {day}")
+        if cm.returncode != 0:
+            return False, "gh-pages commit-tree lỗi: " + (cm.stderr or cm.stdout)[-300:]
+        run("update-ref", "refs/heads/gh-pages", cm.stdout.strip())
+        p = run("push", "-q", "-f", "origin", "gh-pages")
+        if p.returncode != 0:
+            return False, "push gh-pages lỗi: " + (p.stderr or p.stdout)[-300:]
+        msgs.append("gh-pages")
+    finally:
+        if tmp_index.exists():
+            tmp_index.unlink()
+    return True, "đã đẩy lên GitHub (" + ", ".join(msgs) + ")"
 
 
 def publish(day: str, ids: list[str], cfg: dict, push: bool = True) -> dict:

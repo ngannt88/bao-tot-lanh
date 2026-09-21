@@ -104,7 +104,8 @@
           <div class="meta">${sc}<span class="badge sec">${sec ? sec.emoji + " " + esc(sec.name) : "?"}</span><span>${esc(c.source_name)}</span><span>${c.images?.length || 0} ảnh · ${c.words} chữ</span></div>
           <h3>${esc(c.title)}</h3>
           <p class="sapo">${esc(c.sapo)}</p>
-          ${c.reason ? `<div class="reason">AI: ${esc(c.reason)}${c.flags?.length ? " · " + esc(c.flags.join(", ")) : ""}</div>` : ""}
+          ${c.reason ? `<div class="reason">AI tiêu đề: ${esc(c.reason)}${c.flags?.length ? " · " + esc(c.flags.join(", ")) : ""}</div>` : ""}
+          ${c.verified ? `<div class="reason">AI đọc bài (vòng 2): ${esc(c.reason2 || "")}${c.score1 != null && c.score2 != null && c.score1 !== c.score2 ? ` · điểm ${c.score1} → ${c.score2}` : ""}</div>` : ""}
         </div>
         <div class="actions">
           <button class="pick">${idx >= 0 ? "✓ Đã chọn" : "Chọn"}</button>

@@ -9,3 +9,4 @@ data/probe_result.json
 *.tmp
 .env
 data/candidates/
+docs/data/img/
