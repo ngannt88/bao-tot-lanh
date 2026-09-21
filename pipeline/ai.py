@@ -102,6 +102,47 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
     raise last or AIError("AI thất bại")
 
 
+def ask_text(prompt: str, *, system: str, model: str, retries: int = 2,
+             timeout: int = 300, thinking: int | None = None) -> str:
+    """Như ask_json nhưng trả VĂN BẢN THÔ. Dùng cho dịch: nội dung tiếng Việt có nhiều
+    dấu nháy kép, ép model trả JSON thì rất hay vỡ cú pháp."""
+    cmd = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
+           "--output-format", "json", "--tools", "", "--no-session-persistence",
+           "--permission-mode", "dontAsk", "--system-prompt", system, "--effort", "low"]
+    env = dict(os.environ, PYTHONIOENCODING="utf-8", CLAUDE_CODE_DISABLE_TELEMETRY="1")
+    env.pop("ANTHROPIC_API_KEY", None)
+    env.pop("ANTHROPIC_AUTH_TOKEN", None)
+    env["MAX_THINKING_TOKENS"] = str(THINKING_TOKENS if thinking is None else thinking)
+    last = None
+    for attempt in range(retries + 1):
+        t0 = time.time()
+        try:
+            r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
+                               encoding="utf-8", errors="replace", timeout=timeout, env=env, shell=False)
+        except subprocess.TimeoutExpired:
+            last = AIError(f"claude -p quá {timeout}s")
+            continue
+        out = r.stdout.strip()
+        try:
+            envelope = json.loads(out) if out.startswith("{") else {"result": out}
+        except json.JSONDecodeError:
+            envelope = {"result": out}
+        if envelope.get("is_error"):
+            msg = envelope.get("result") or f"exit {r.returncode}"
+            last = AIError(f"claude -p lỗi: {msg}")
+            if "Not logged in" in msg:
+                raise last
+            time.sleep(3 * (attempt + 1))
+            continue
+        usage = envelope.get("usage") or {}
+        log.info("AI %s (text): %.1fs, out=%s", model, time.time() - t0, usage.get("output_tokens", "?"))
+        text = str(envelope.get("result") or "")
+        if text.strip():
+            return text
+        last = AIError("trả lời rỗng")
+    raise last or AIError("AI thất bại")
+
+
 def check_login() -> tuple[bool, str]:
     """Kiểm tra CLI đã đăng nhập chưa, trả (ok, thông điệp)."""
     try:

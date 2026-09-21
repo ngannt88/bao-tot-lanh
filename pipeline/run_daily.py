@@ -62,7 +62,7 @@ def main():
             log.error("Tầng AI lỗi: %s → tiếp tục không có điểm AI", e)
 
     chosen = select(scored, cfg, has_scores)
-    ok, bad = extract_all(chosen, day)
+    ok, bad = extract_all(chosen, day, cfg)
     unsafe = []
     if has_scores and ok:
         # VÒNG 2: đọc nội dung thật của ứng viên, chặn bài không an toàn trước khi lên trang duyệt / tự xuất bản

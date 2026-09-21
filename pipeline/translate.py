@@ -2,22 +2,24 @@
 
 Nguyên tắc: DỊCH SÁT, không viết lại, không tóm tắt, không thêm bài học.
 Giữ nguyên số đoạn, thứ tự, ảnh và chú thích của bài gốc; chỉ đổi ngôn ngữ.
-Bài dịch được đánh dấu để app hiện "Dịch từ <nguồn>" và góc cha mẹ vẫn giữ link gốc.
 
-Bài dài được chia lô để trả lời của model không bị cắt giữa chừng (JSON hỏng).
+Định dạng trao đổi là VĂN BẢN CÓ ĐÁNH DẤU, không phải JSON: tiếng Việt dùng rất nhiều
+dấu nháy kép nên ép model trả JSON thì hỏng cú pháp khoảng một nửa số lần.
+Bài dài được chia lô để trả lời không bị cắt giữa chừng.
 """
 from __future__ import annotations
-import json
+import re
 import concurrent.futures as cf
-from ai import ask_json, AIError
+from ai import ask_text, AIError
 from common import setup_logging
 
 log = setup_logging()
 PARALLEL = 3          # số bài dịch cùng lúc
-CHUNK_PARAS = 10      # số đoạn mỗi lần gọi; giữ nhỏ để tránh bị cắt output
+CHUNK_PARAS = 10      # số đoạn mỗi lần gọi
 CHUNK_CHARS = 4000    # hoặc cắt lô khi đủ ngần này ký tự
 MAX_CHARS = 12000     # bài dài hơn thì bỏ phần đuôi
 TEXT_KINDS = ("p", "h", "q", "li")
+MARK = re.compile(r"^@@([A-Z]+\d*)@@\s*$", re.M)
 
 
 def _system(cfg: dict) -> str:
@@ -25,18 +27,54 @@ def _system(cfg: dict) -> str:
     return f"""Bạn là người dịch báo chuyên nghiệp, dịch tin tức tiếng Anh sang tiếng Việt cho một tờ báo
 dành cho trẻ em Việt Nam 7 đến 11 tuổi. Bài dịch sẽ được đăng NGUYÊN VĂN cho trẻ đọc.
 
-QUY TẮC:
+QUY TẮC DỊCH:
 {rules}
 
-ĐẦU VÀO là JSON có thể gồm: title, sapo, paras (mảng đoạn văn theo thứ tự), captions (mảng chú thích ảnh).
-Trường nào không có trong đầu vào thì KHÔNG trả về trường đó.
-ĐẦU RA BẮT BUỘC: chỉ một JSON object, không lời dẫn, không markdown, không xuống dòng thừa.
-- Mảng paras phải có ĐÚNG số phần tử như đầu vào và đúng thứ tự. Đoạn rỗng trả chuỗi rỗng.
-- Mảng captions cũng phải đúng số phần tử như đầu vào.
-- title ngắn gọn, hấp dẫn, trung thực với bản gốc, không thêm dấu chấm than.
-- Nếu một đoạn chỉ là quảng cáo, lời mời đăng ký nhận bản tin, hay điều hướng của trang web,
-  hãy trả về chuỗi rỗng cho đoạn đó.
-- Dùng dấu nháy kép chuẩn trong JSON; trong nội dung tiếng Việt hãy dùng nháy đơn hoặc nháy kép cong."""
+ĐỊNH DẠNG BẮT BUỘC
+Đầu vào gồm nhiều khối, mỗi khối mở đầu bằng một dòng đánh dấu như @@TITLE@@, @@SAPO@@, @@P1@@, @@C1@@.
+Bạn trả về ĐÚNG những dòng đánh dấu đó, theo ĐÚNG thứ tự, mỗi dòng đánh dấu nằm riêng một dòng,
+và ngay dưới nó là phần đã dịch sang tiếng Việt.
+- KHÔNG thêm, KHÔNG bớt, KHÔNG đổi tên bất kỳ dòng đánh dấu nào.
+- KHÔNG viết lời dẫn, KHÔNG giải thích, KHÔNG dùng markdown, KHÔNG dùng JSON.
+- Nếu một khối chỉ là quảng cáo, lời mời đăng ký nhận bản tin, hay điều hướng của trang web,
+  hãy để phần dưới dòng đánh dấu đó TRỐNG.
+- Giữ nguyên nội dung nhiều dòng nếu bản gốc có nhiều dòng.
+
+Ví dụ đầu ra đúng:
+@@TITLE@@
+Bí mật của loài cá voi xanh
+@@P1@@
+Cá voi xanh là loài vật lớn nhất từng sống trên Trái Đất."""
+
+
+def _parse(text: str) -> dict[str, str]:
+    """Tách văn bản có đánh dấu thành {khóa: nội dung}."""
+    parts, out = MARK.split(text), {}
+    # parts = [phần đầu, key1, nội dung1, key2, nội dung2, ...]
+    for i in range(1, len(parts) - 1, 2):
+        out[parts[i]] = parts[i + 1].strip()
+    return out
+
+
+def _build(pairs: list[tuple[str, str]]) -> str:
+    return "\n".join(f"@@{k}@@\n{v}" for k, v in pairs)
+
+
+def _ask_block(pairs: list[tuple[str, str]], cfg: dict, model: str) -> dict[str, str] | None:
+    keys = [k for k, _ in pairs]
+    prompt = ("Dịch phần sau sang tiếng Việt, giữ nguyên các dòng đánh dấu.\n\n" + _build(pairs)
+              + f"\n\nTrả lại đúng {len(keys)} dòng đánh dấu: " + ", ".join(f"@@{k}@@" for k in keys))
+    try:
+        raw = ask_text(prompt, system=_system(cfg), model=model, thinking=0, timeout=420)
+    except AIError as e:
+        log.warning("Lô dịch lỗi: %s", str(e)[:100])
+        return None
+    got = _parse(raw)
+    missing = [k for k in keys if k not in got]
+    if missing:
+        log.warning("Lô dịch thiếu %d/%d khối: %s", len(missing), len(keys), ", ".join(missing[:4]))
+        return None
+    return got
 
 
 def _chunks(paras: list[str]) -> list[tuple[int, list[str]]]:
@@ -48,17 +86,6 @@ def _chunks(paras: list[str]) -> list[tuple[int, list[str]]]:
     if cur:
         out.append((start, cur))
     return out
-
-
-def _ask(payload: dict, cfg: dict, model: str, note: str) -> dict | None:
-    prompt = ("Dịch phần sau của bài báo sang tiếng Việt.\n\n" + json.dumps(payload, ensure_ascii=False)
-              + f"\n\n{note} Chỉ trả JSON, không thêm chữ nào khác.")
-    try:
-        res = ask_json(prompt, system=_system(cfg), model=model, thinking=0, timeout=420)
-    except AIError as e:
-        log.warning("Lô dịch lỗi: %s", str(e)[:100])
-        return None
-    return res if isinstance(res, dict) else None
 
 
 def translate_article(a: dict, cfg: dict) -> dict | None:
@@ -74,20 +101,25 @@ def translate_article(a: dict, cfg: dict) -> dict | None:
 
     parts = _chunks(paras)
     vi_paras: list[str] = []
+    head: dict[str, str] = {}
     for k, (start, chunk) in enumerate(parts):
-        payload = {"paras": chunk}
+        pairs: list[tuple[str, str]] = []
         if k == 0:
-            payload = {"title": a.get("title", ""), "sapo": a.get("sapo", ""), "paras": chunk}
-            if captions:
-                payload["captions"] = captions
-        res = _ask(payload, cfg, model, f"paras phải đúng {len(chunk)} phần tử.")
-        if not res or not isinstance(res.get("paras"), list) or len(res["paras"]) != len(chunk):
+            pairs.append(("TITLE", a.get("title", "")))
+            if a.get("sapo"):
+                pairs.append(("SAPO", a["sapo"]))
+            for j, cap in enumerate(captions):
+                if cap:
+                    pairs.append((f"C{j}", cap))
+        pairs += [(f"P{start + j}", t) for j, t in enumerate(chunk)]
+        got = _ask_block(pairs, cfg, model)
+        if got is None:
             log.error("Dịch hỏng ở lô %d/%d: %s", k + 1, len(parts), a["title"][:55])
             return None
-        vi_paras.extend(str(x) for x in res["paras"])
+        vi_paras.extend(got.get(f"P{start + j}", "") for j in range(len(chunk)))
         if k == 0:
-            head = res
-    if not head.get("title"):
+            head = got
+    if not head.get("TITLE"):
         log.error("Dịch thiếu tiêu đề: %s", a["title"][:55])
         return None
 
@@ -96,13 +128,13 @@ def translate_article(a: dict, cfg: dict) -> dict | None:
     for k, i in enumerate(idx):
         blocks[i]["text"] = vi_paras[k].strip()
     out["blocks"] = [b for b in blocks if b.get("t") == "img" or b.get("text")]
-    vi_caps = head.get("captions") or []
-    if captions and len(vi_caps) == len(captions):
-        out["images"] = [dict(im, caption=str(vi_caps[j]).strip()) for j, im in enumerate(a.get("images", []))]
+    if captions:
+        out["images"] = [dict(im, caption=head.get(f"C{j}", im.get("caption", "")).strip())
+                         for j, im in enumerate(a.get("images", []))]
     out.update(
         title_original=a.get("title", ""),
-        title=str(head["title"]).strip(),
-        sapo=str(head.get("sapo") or "").strip(),
+        title=head["TITLE"].strip(),
+        sapo=head.get("SAPO", "").strip(),
         translated=True,
         translated_from=a.get("source_name", ""),
         lang="vi-dich",

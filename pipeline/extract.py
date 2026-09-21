@@ -153,7 +153,7 @@ def _body_container(soup: BeautifulSoup, html: bytes, rules: dict) -> Tag | None
         return None
 
 
-def extract_article(a: dict, img_dir: Path) -> dict:
+def extract_article(a: dict, img_dir: Path, min_words: int | None = None) -> dict:
     """Trả về bản sao của a với: title, sapo, author, images[], blocks[], words, extracted_ok."""
     out = dict(a)
     try:
@@ -252,10 +252,11 @@ def extract_article(a: dict, img_dir: Path) -> dict:
             seen_img.add(url)
 
     words = sum(word_count(b.get("text", "")) for b in blocks)
+    floor = MIN_WORDS if min_words is None else int(min_words)
     # bỏ dòng tác giả lặp cuối bài nếu trùng
     if blocks and blocks[-1]["t"] == "p" and author and blocks[-1]["text"].strip() == author.strip():
         blocks.pop()
     out.update(title=title, sapo=strip_html(sapo)[:600], author=author, images=images, blocks=blocks,
                words=words, lead_image=(0 if images else None),
-               extracted_ok=(words >= MIN_WORDS), extract_error=None if words >= MIN_WORDS else f"chỉ {words} chữ")
+               extracted_ok=(words >= floor), extract_error=None if words >= floor else f"chỉ {words} chữ")
     return out

@@ -383,6 +383,17 @@ blocklist_exceptions:
   - "đánh rơi"      # "đánh rơi 3 điểm" là cách nói bóng đá
 
 # ---------------------------------------------------------------------
+#  GIỌNG ĐỌC — tạo sẵn file giọng thật cho từng bài, kèm mốc câu để chữ sáng
+#  lên theo lời đọc. Dành cho bé chưa đọc trôi. Không tốn token AI.
+# ---------------------------------------------------------------------
+audio:
+  enabled: true
+  voice: "vi-VN-HoaiMyNeural"   # giọng nữ; giọng nam: vi-VN-NamMinhNeural
+  rate: "-8%"                   # chậm hơn một chút cho trẻ tập đọc
+  keep_days: 3                  # giữ giọng đọc mấy ngày gần nhất (xóa ngày cũ cho nhẹ kho)
+  max_articles: 10              # chỉ tạo giọng cho mấy bài đầu (mỗi bài ~1,6 MB)
+
+# ---------------------------------------------------------------------
 #  DỊCH — bài từ nguồn tiếng Anh được dịch SÁT sang tiếng Việt, không viết lại.
 #  Giữ nguyên số đoạn, ảnh và chú thích. Mỗi bài ghi rõ "Dịch từ <nguồn>".
 # ---------------------------------------------------------------------
@@ -501,7 +512,7 @@ sources:
   - {id: vtv-giao-duc,         name: VTV,        lang: vi, section: guong-sang,         url: "https://vtv.vn/rss/giao-duc.rss"}
   - {id: vtv-the-thao,         name: VTV,        lang: vi, section: the-thao-dep,       url: "https://vtv.vn/rss/the-thao.rss"}
   # ---- QUỐC TẾ, VIẾT CHO TRẺ EM (AI dịch sang tiếng Việt) ----
-  - {id: timeforkids,      name: TIME for Kids,      lang: en, section: kham-pha-the-gioi,  url: "https://www.timeforkids.com/feed/",                  max_age_h: 168, max_items: 25}
+  - {id: timeforkids,      name: TIME for Kids,      lang: en, section: kham-pha-the-gioi,  url: "https://www.timeforkids.com/feed/",                  max_age_h: 168, max_items: 25, min_words: 70}   # báo cho trẻ, bài ngắn là bình thường
   - {id: bbc-newsround,    name: BBC Newsround,      lang: en, section: kham-pha-the-gioi,  url: "https://feeds.bbci.co.uk/newsround/rss.xml",         max_age_h: 96, enabled: false}   # bbc.co.uk không truy cập được từ VN
   - {id: snexplores,       name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/feed",                  max_age_h: 240}
 

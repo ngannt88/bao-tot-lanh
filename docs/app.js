@@ -1,5 +1,5 @@
-/* Báo Tốt Lành — app đọc cho con. Bài hiện NGUYÊN VĂN báo gốc đã được bố mẹ duyệt.
-   Không link ra ngoài trong chế độ trẻ em. Dữ liệu riêng lưu tại máy. */
+/* LEVEL UP — app đọc cho con. Bài hiện NGUYÊN VĂN báo gốc đã được bố mẹ duyệt.
+   Không link ra ngoài trong chế độ trẻ em. Mọi dữ liệu của con nằm lại trên máy này. */
 (() => {
   "use strict";
   const $app = document.getElementById("app");
@@ -11,10 +11,12 @@
   const FONT_STEPS = [0.9, 1, 1.15, 1.3];
   const state = {
     issue: null, latestDate: null, view: "cover", idx: 0, offline: false,
-    read: LS.get("read", {}), pin: LS.get("pin", "1234"), parentUnlocked: false,
-    font: LS.get("font", 1), dark: LS.get("dark", false), last: LS.get("last", null), history: null,
+    read: LS.get("read", {}), likes: LS.get("likes", {}), pin: LS.get("pin", "1234"),
+    parentUnlocked: false, font: LS.get("font", 1), dark: LS.get("dark", false),
+    last: LS.get("last", null), history: null,
   };
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const norm = s => String(s ?? "").replace(/\s+/g, " ").trim();
   const fmtDate = iso => { const d = new Date(iso + "T00:00:00"); const days = ["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"]; return `${days[d.getDay()]}, ${d.getDate()}/${d.getMonth() + 1}/${d.getFullYear()}`; };
   const imgUrl = im => im ? "data/" + im.src : "";
   const applyPrefs = () => {
@@ -37,22 +39,79 @@
   const loadIssue = date => fetchJson(date ? `data/issues/${date}.json` : "data/latest.json");
   const isRead = (a, date = state.issue.date) => !!state.read[date]?.[a.id];
   const markRead = a => { (state.read[state.issue.date] ||= {})[a.id] = true; LS.set("read", state.read); };
+  const isLiked = (a, date = state.issue?.date) => !!state.likes[date]?.[a.id];
+  const toggleLike = a => {
+    const d = state.issue.date; state.likes[d] ||= {};
+    if (state.likes[d][a.id]) delete state.likes[d][a.id];
+    else state.likes[d][a.id] = { section: a.section, source: a.source_name, title: a.title, at: new Date().toISOString() };
+    LS.set("likes", state.likes); return isLiked(a);
+  };
   const readCount = (iss = state.issue) => iss.articles.filter(a => isRead(a, iss.date)).length;
   const isToday = () => state.issue && state.issue.date === state.latestDate;
 
-  const tts = {
-    on: false,
-    speak(text, btn) {
-      if (!("speechSynthesis" in window)) { btn.textContent = "Máy này chưa đọc được"; btn.disabled = true; return; }
-      if (this.on) return this.stop(btn);
-      const u = new SpeechSynthesisUtterance(text);
-      const v = speechSynthesis.getVoices().find(v => /^vi/i.test(v.lang)); if (v) u.voice = v;
-      u.lang = "vi-VN"; u.rate = 0.95; u.onend = u.onerror = () => this.stop(btn);
-      speechSynthesis.cancel(); speechSynthesis.speak(u); this.on = true; btn.classList.add("speaking"); btn.innerHTML = "⏹ Dừng đọc";
+  /* ---------- Trình nghe: phát giọng đọc, làm sáng câu đang đọc ---------- */
+  const player = {
+    el: null, cues: [], cur: -1,
+    setBtn(on) {
+      const b = document.getElementById("play");
+      if (b) b.innerHTML = on ? "⏸ Dừng đọc" : "🔊 Nghe đọc bài này";
+      document.getElementById("bar")?.classList.toggle("on", on);
     },
-    stop(btn) { window.speechSynthesis?.cancel(); this.on = false; if (btn) { btn.classList.remove("speaking"); btn.innerHTML = "🔊 Đọc cho tớ nghe"; } },
+    async open(a) {
+      const btn = document.getElementById("play");
+      if (btn) btn.innerHTML = "⏳ Đang tải giọng đọc…";
+      const meta = await fetchJson(`data/audio/${state.issue.date}/${a.id}.json`);
+      if (!meta) { this.fallback(a); return; }
+      this.cues = meta.cues || [];
+      const au = new Audio(`data/audio/${state.issue.date}/${a.id}.mp3`);
+      this.el = au;
+      au.addEventListener("timeupdate", () => this.tick(au.currentTime));
+      au.addEventListener("ended", () => { this.stop(); });
+      au.addEventListener("error", () => { this.el = null; this.fallback(a); });
+      au.play().then(() => this.setBtn(true)).catch(() => { this.el = null; this.fallback(a); });
+    },
+    tick(t) {
+      let i = -1;
+      for (let k = 0; k < this.cues.length; k++) { if (this.cues[k].t <= t + 0.15) i = k; else break; }
+      const p = document.getElementById("prog");
+      if (p && this.el?.duration) p.style.width = Math.round(this.el.currentTime / this.el.duration * 100) + "%";
+      if (i === this.cur) return;
+      this.cur = i;
+      this.clearMarks();
+      const c = this.cues[i]; if (!c) return;
+      const el = document.querySelector(`[data-p="${c.p}"]`); if (!el) return;
+      const full = el.dataset.text || "";
+      el.innerHTML = esc(full.slice(0, c.s)) + '<span class="sent">' + esc(full.slice(c.s, c.e)) + "</span>" + esc(full.slice(c.e));
+      const r = el.getBoundingClientRect();
+      if (r.top < 80 || r.bottom > innerHeight - 100) el.scrollIntoView({ block: "center", behavior: "smooth" });
+    },
+    clearMarks() {
+      document.querySelectorAll("[data-p]").forEach(el => {
+        if (el.querySelector(".sent")) el.textContent = el.dataset.text || el.textContent;
+      });
+    },
+    toggle(a) {
+      if (this.el) { if (this.el.paused) { this.el.play(); this.setBtn(true); } else { this.el.pause(); this.setBtn(false); } return; }
+      if (window.speechSynthesis?.speaking) { this.stop(); return; }
+      this.open(a);
+    },
+    fallback(a) {   // bài ngoài 10 bài đầu chưa có file giọng thật → dùng giọng máy của trình duyệt
+      if (!("speechSynthesis" in window)) { const b = document.getElementById("play"); if (b) { b.textContent = "Máy này chưa đọc được"; b.disabled = true; } return; }
+      const u = new SpeechSynthesisUtterance([a.title, a.sapo, ...(a.blocks || []).filter(b => b.text).map(b => b.text)].join(". "));
+      const v = speechSynthesis.getVoices().find(v => /^vi/i.test(v.lang)); if (v) u.voice = v;
+      u.lang = "vi-VN"; u.rate = 0.92;
+      u.onend = u.onerror = () => this.setBtn(false);
+      speechSynthesis.cancel(); speechSynthesis.speak(u); this.setBtn(true);
+    },
+    stop() {
+      if (this.el) { this.el.pause(); this.el.removeAttribute("src"); this.el.load(); this.el = null; }
+      if (window.speechSynthesis) speechSynthesis.cancel();
+      this.cues = []; this.cur = -1;
+      this.clearMarks(); this.setBtn(false);
+    },
   };
 
+  /* ---------- Khung ---------- */
   function shell(inner, opts = {}) {
     return `
       <header class="top">
@@ -78,13 +137,13 @@
   function viewCover() {
     const iss = state.issue, n = iss.articles.length, rc = readCount();
     const [first, ...rest] = iss.articles;
-    const resume = state.last && state.last.date === iss.date && !isRead(iss.articles[state.last.idx] || {}) && rc > 0 && rc < n
+    const resume = state.last && state.last.date === iss.date && rc > 0 && rc < n
       ? `<button class="btn primary" data-open="${state.last.idx}" style="margin-top:12px">▶ Đọc tiếp bài ${state.last.idx + 1}</button>` : "";
     const hero = first ? `
       <button class="hero-card ${isRead(first) ? "read" : ""}" data-open="0">
         ${first.images?.length ? `<img class="hero-img" src="${imgUrl(first.images[first.lead ?? 0])}" alt="">` : `<div class="hero-img placeholder">${first.emoji}</div>`}
         <div class="hero-text"><div class="sec">${first.emoji} ${esc(first.section_name)} · ${esc(first.source_name)}</div><h2>${esc(first.title)}</h2><p>${esc(first.sapo)}</p></div>
-        ${isRead(first) ? '<div class="tick">✓</div>' : ""}
+        ${isLiked(first) ? '<div class="tick">👍</div>' : isRead(first) ? '<div class="tick">✓</div>' : ""}
       </button>` : "";
     return shell(`
       <section class="cover">
@@ -100,7 +159,7 @@
         ${rest.map((a, k) => `<button class="card ${isRead(a) ? "read" : ""}" data-open="${k + 1}">
             ${a.images?.length ? `<img class="thumb" src="${imgUrl(a.images[a.lead ?? 0])}" alt="" loading="lazy">` : `<div class="thumb placeholder">${a.emoji}</div>`}
             <div><div class="sec">${esc(a.section_name)} · ${esc(a.source_name)}</div><h3>${esc(a.title)}</h3><p>${esc(a.sapo)}</p></div>
-            <div class="tick">${isRead(a) ? "✓" : ""}</div>
+            <div class="tick">${isLiked(a) ? "👍" : isRead(a) ? "✓" : ""}</div>
           </button>`).join("")}
       </div>
       <p class="muted" style="text-align:center;margin-top:26px">${rc === n ? "Muốn đọc thêm? Bấm 🗓️ để xem các số trước." : `Đọc hết ${n} bài là xong. Hẹn mai nhé!`}</p>`);
@@ -109,33 +168,44 @@
   function viewArticle() {
     const iss = state.issue, a = iss.articles[state.idx];
     const lead = a.images?.length ? a.lead ?? 0 : null;
-    const body = (a.blocks || []).map(b => {
+    const para = (i, text, tag = "p", cls = "") => {
+      const t = norm(text);
+      return `<${tag} class="${cls}" data-p="${i}" data-text="${esc(t)}">${esc(t)}</${tag}>`;
+    };
+    const body = (a.blocks || []).map((b, i) => {
       if (b.t === "img") return b.i === lead ? "" : figure(a, b.i);
-      if (b.t === "h") return `<h3>${esc(b.text)}</h3>`;
-      if (b.t === "q") return `<blockquote>${esc(b.text)}</blockquote>`;
-      if (b.t === "li") return `<p class="li">• ${esc(b.text)}</p>`;
-      return `<p>${esc(b.text)}</p>`;
+      if (b.t === "h") return para(i, b.text, "h3");
+      if (b.t === "q") return para(i, b.text, "blockquote");
+      if (b.t === "li") return para(i, "• " + b.text, "p", "li");
+      return para(i, b.text);
     }).join("");
     return shell(`
       <article class="article">
         <div class="sec">${a.emoji} ${esc(a.section_name)} · Bài ${state.idx + 1}/${iss.articles.length}</div>
-        <h1>${esc(a.title)}</h1>
-        ${a.sapo ? `<p class="lead">${esc(a.sapo)}</p>` : ""}
+        <h1 data-p="-2" data-text="${esc(norm(a.title))}">${esc(a.title)}</h1>
+        ${a.sapo ? `<p class="lead" data-p="-1" data-text="${esc(norm(a.sapo))}">${esc(a.sapo)}</p>` : ""}
         <div class="byline">${a.translated ? `<span class="tag-dich">Dịch từ ${esc(a.source_name)}</span>` : esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
         ${lead != null ? figure(a, lead, "lead-fig") : ""}
-        <div class="tools"><button class="btn small" id="tts">🔊 Đọc cho tớ nghe</button></div>
+        <div class="tools"><button class="btn small" id="play">🔊 Nghe đọc bài này</button></div>
         <div class="body">${body}</div>
         <div class="byline end">${a.translated ? "Bài gốc tiếng Anh của " : "Theo "}${esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
+        <div class="like-box">
+          <button class="btn like ${isLiked(a) ? "on" : ""}" id="like">${isLiked(a) ? "👍 Bạn thích bài này" : "👍 Bài này hay"}</button>
+          <span class="muted">Bấm để bố mẹ biết con thích gì, hôm sau sẽ có thêm bài giống thế.</span>
+        </div>
         <div class="nav">
           <button class="btn" data-go="cover">☰ Trang bìa</button>
           <button class="btn primary" id="next">${state.idx + 1 < iss.articles.length ? "Đọc xong, bài tiếp →" : "Đọc xong 🎉"}</button>
         </div>
       </article>
+      <div class="playbar" id="bar"><i id="prog"></i></div>
       <div class="lightbox" id="lightbox" hidden><img alt=""><div class="cap"></div></div>`, { back: true });
   }
 
   function viewDone() {
-    return shell(`<section class="done"><div class="big">🌟</div><h1>Bạn đọc hết ${state.issue.articles.length} bài!</h1><p>${isToday() ? "Hẹn gặp lại ngày mai với số báo mới nhé." : "Còn nhiều số khác đang chờ."}</p>
+    const liked = Object.keys(state.likes[state.issue.date] || {}).length;
+    return shell(`<section class="done"><div class="big">🌟</div><h1>Bạn đọc hết ${state.issue.articles.length} bài!</h1>
+      <p>${liked ? `Bạn đã thích ${liked} bài. Hôm sau sẽ có thêm bài giống thế.` : "Hẹn gặp lại ngày mai với số báo mới nhé."}</p>
       <div class="row" style="justify-content:center"><button class="btn" data-go="cover">Về trang bìa</button><button class="btn primary" data-go="history">🗓️ Các số trước</button></div></section>`);
   }
 
@@ -153,6 +223,35 @@
     return shell(`<section class="cover"><div class="date">Các số báo</div><h1>Đọc lại số trước</h1><p>Toàn bộ đều là bài bố mẹ đã duyệt.</p></section><div class="list">${rows}</div>`, { back: true });
   }
 
+  /* ---------- Góc cha mẹ: con đọc gì, thích gì ---------- */
+  function report() {
+    const days = [...new Set([...Object.keys(state.read), ...Object.keys(state.likes)])].sort().reverse().slice(0, 14);
+    const secCount = {}, liked = [];
+    let totalRead = 0, totalLike = 0;
+    for (const d of days) {
+      totalRead += Object.keys(state.read[d] || {}).length;
+      for (const info of Object.values(state.likes[d] || {})) {
+        totalLike++;
+        const s = info.section || "?"; secCount[s] = (secCount[s] || 0) + 1;
+        liked.push({ d, ...info });
+      }
+    }
+    liked.sort((a, b) => (b.at || "").localeCompare(a.at || ""));
+    return { days, secCount, liked, totalRead, totalLike };
+  }
+  const secName = id => state.issue?.sections?.find(s => s.id === id)?.name || id;
+  function reportText() {
+    const r = report();
+    const top = Object.entries(r.secCount).sort((a, b) => b[1] - a[1]);
+    return [
+      `BÁO CÁO ĐỌC — ${r.days.length} ngày gần nhất`,
+      `Đã đọc ${r.totalRead} bài, thích ${r.totalLike} bài.`,
+      top.length ? "Chủ đề con thích: " + top.map(([s, n]) => `${secName(s)} (${n})`).join(", ") : "Chưa bấm thích bài nào.",
+      "", "Các bài con thích:",
+      ...r.liked.slice(0, 30).map(x => `- [${x.d}] ${x.title} (${x.source})`),
+    ].join("\n");
+  }
+
   function viewParent() {
     if (!state.parentUnlocked) {
       return shell(`<section class="done"><div class="big">🔒</div><h1>Góc cha mẹ</h1><p>Nhập mã 4 số</p>
@@ -160,12 +259,24 @@
         <div class="muted" id="pin-msg">Mã mặc định 1234, đổi được ở trong.</div>
         <div style="margin-top:14px"><button class="btn" data-go="cover">Quay lại</button></div></section>`);
     }
-    const iss = state.issue;
+    const iss = state.issue, r = report();
+    const top = Object.entries(r.secCount).sort((a, b) => b[1] - a[1]);
     return shell(`<section class="parent">
+      <h2>Con đọc gì</h2>
+      <p class="muted">Dữ liệu này chỉ nằm trên máy tính bảng, không gửi đi đâu.</p>
+      <div class="stats">
+        <div class="stat"><b>${r.totalRead}</b><span>bài đã đọc</span></div>
+        <div class="stat"><b>${r.totalLike}</b><span>bài con thích</span></div>
+        <div class="stat"><b>${r.days.length}</b><span>ngày có đọc</span></div>
+      </div>
+      ${top.length ? `<h2>Chủ đề con thích nhất</h2><div class="bars">${top.map(([s, n]) => `<div class="barrow"><span>${esc(secName(s))}</span><i class="bar" style="width:${Math.max(8, Math.round(n / top[0][1] * 100))}%"></i><b>${n}</b></div>`).join("")}</div>`
+        : `<p class="muted">Con chưa bấm thích bài nào. Nút 👍 nằm ở cuối mỗi bài.</p>`}
+      ${r.liked.length ? `<h2>Bài con thích gần đây</h2><table>${r.liked.slice(0, 12).map(x => `<tr><td style="white-space:nowrap">${esc(x.d)}</td><td>${esc(x.title)}</td><td>${esc(x.source)}</td></tr>`).join("")}</table>` : ""}
+      <div class="row" style="margin-top:14px"><button class="btn small" id="copy-report">📋 Sao chép báo cáo</button><span class="muted" id="copied"></span></div>
+
       <h2>Số báo ${fmtDate(iss.date)} — nguồn để đối chiếu</h2>
-      <p class="muted">Trẻ không thấy phần này. Bài được duyệt tại máy tính qua trang <code>duyet.html</code>.</p>
-      <table><tr><th>Mục</th><th>Bài</th><th>Nguồn</th><th>Điểm AI</th></tr>
-        ${iss.articles.map(a => `<tr><td>${a.emoji} ${esc(a.section_name)}</td><td>${esc(a.title)}</td><td><a href="${esc(a.source_url)}" target="_blank" rel="noopener">${esc(a.source_name)}</a></td><td>${a.score ?? "–"}</td></tr>`).join("")}
+      <table><tr><th>Mục</th><th>Bài</th><th>Nguồn</th><th>Điểm</th></tr>
+        ${iss.articles.map(a => `<tr><td>${a.emoji} ${esc(a.section_name)}</td><td>${esc(a.title)}${a.translated ? ' <span class="tag-dich">dịch</span>' : ""}</td><td><a href="${esc(a.source_url)}" target="_blank" rel="noopener">${esc(a.source_name)}</a></td><td>${a.score ?? "–"}</td></tr>`).join("")}
       </table>
       <h2>Cài đặt</h2>
       <div class="row"><button class="btn small" id="change-pin">Đổi mã PIN</button><button class="btn small" id="clear-read">Đánh dấu chưa đọc số này</button><button class="btn small" id="clear-all">Xóa dữ liệu trên máy này</button></div>
@@ -174,7 +285,7 @@
   }
 
   function render() {
-    tts.stop(document.getElementById("tts"));
+    player.stop();
     applyPrefs();
     let html;
     if (!state.issue && state.view !== "history") html = shell(`<div class="empty"><div style="font-size:3rem">📭</div><h2>Chưa có số báo</h2><p>Bố mẹ chưa xuất bản số báo hôm nay, hoặc chưa có mạng lần đầu.</p><div class="row" style="justify-content:center"><button class="btn" id="retry">Thử lại</button><button class="btn" data-go="history">🗓️ Các số trước</button></div></div>`);
@@ -206,8 +317,14 @@
     document.getElementById("dark")?.addEventListener("click", () => { state.dark = !state.dark; LS.set("dark", state.dark); render(); });
 
     const a = state.issue?.articles?.[state.idx];
-    const ttsBtn = document.getElementById("tts");
-    if (ttsBtn && a) ttsBtn.addEventListener("click", () => tts.speak([a.title, a.sapo, ...(a.blocks || []).filter(b => b.text).map(b => b.text)].join(". "), ttsBtn));
+    document.getElementById("play")?.addEventListener("click", () => player.toggle(a));
+    document.getElementById("like")?.addEventListener("click", e => {
+      const on = toggleLike(a);
+      const b = e.currentTarget;
+      b.classList.toggle("on", on);
+      b.innerHTML = on ? "👍 Bạn thích bài này" : "👍 Bài này hay";
+      if (on) { b.classList.add("pop"); setTimeout(() => b.classList.remove("pop"), 400); }
+    });
     const lb = document.getElementById("lightbox");
     if (lb && a) {
       $app.querySelectorAll("img[data-zoom]").forEach(img => img.addEventListener("click", () => {
@@ -223,6 +340,7 @@
       if (state.view === "article") { state.last = { date: state.issue.date, idx: state.idx }; LS.set("last", state.last); }
       render();
     });
+
     const pins = [...$app.querySelectorAll("[data-pin]")];
     if (pins.length) {
       pins[0].focus();
@@ -233,15 +351,19 @@
         inp.addEventListener("keydown", e => { if (e.key === "Backspace" && !inp.value && i > 0) { pins[i - 1].value = ""; pins[i - 1].focus(); e.preventDefault(); } });
       });
     }
+    document.getElementById("copy-report")?.addEventListener("click", async () => {
+      const t = reportText(), out = document.getElementById("copied");
+      try { await navigator.clipboard.writeText(t); out.textContent = "Đã sao chép."; }
+      catch { const ta = document.createElement("textarea"); ta.value = t; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); out.textContent = "Đã sao chép."; } catch { out.textContent = "Không sao chép được."; } ta.remove(); }
+    });
     document.getElementById("change-pin")?.addEventListener("click", () => { const p = prompt("Mã PIN mới (4 số):", ""); if (p && /^\d{4}$/.test(p)) { state.pin = p; LS.set("pin", p); alert("Đã đổi mã."); } });
     document.getElementById("clear-read")?.addEventListener("click", () => { delete state.read[state.issue.date]; LS.set("read", state.read); alert("Đã đánh dấu chưa đọc."); });
-    document.getElementById("clear-all")?.addEventListener("click", () => { if (confirm("Xóa tiến độ đọc và cài đặt trên máy này?")) { ["read", "pin", "font", "dark", "last"].forEach(LS.del); location.reload(); } });
+    document.getElementById("clear-all")?.addEventListener("click", () => { if (confirm("Xóa tiến độ đọc, danh sách thích và cài đặt trên máy này?")) { ["read", "likes", "pin", "font", "dark", "last"].forEach(LS.del); location.reload(); } });
   }
 
   async function loadHistory() {
     const idx = await fetchJson("data/index.json");
     const dates = (idx?.issues || []).slice(0, 30);
-    // tải song song tối đa 10 số gần nhất để có ảnh và tiến độ; số cũ hơn chỉ hiện ngày
     const full = await Promise.all(dates.slice(0, 10).map(d => loadIssue(d)));
     state.history = dates.map((d, i) => full[i] || { date: d, articles: null });
     if (state.view === "history") render();

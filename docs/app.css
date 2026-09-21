@@ -179,3 +179,30 @@ textarea.answer {
 /* Nhãn bài dịch */
 .tag-dich { background: #E3EDF9; color: #1B4B7A; border-radius: 999px; padding: 2px 10px; font-size: .78rem; font-weight: 800; }
 :root[data-theme="dark"] .tag-dich { background: #22364C; color: #A8CBEE; }
+
+/* ===== Nghe đọc bài: câu đang đọc sáng lên ===== */
+.sent { background: #FFE9A8; border-radius: 6px; box-shadow: 0 0 0 3px #FFE9A8; }
+:root[data-theme="dark"] .sent { background: #5C4A18; box-shadow: 0 0 0 3px #5C4A18; color: #FFF6DC; }
+.playbar { position: fixed; left: 0; right: 0; bottom: 0; height: 6px; background: var(--line); opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 30; }
+.playbar.on { opacity: 1; }
+.playbar > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s linear; }
+.tools .btn { min-height: 48px; }
+
+/* ===== Nút thích ===== */
+.like-box { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 22px; padding-top: 18px; border-top: 2px dashed var(--line); }
+.btn.like { border-color: var(--accent); color: var(--accent); }
+.btn.like.on { background: var(--accent); color: var(--accent-ink); }
+.btn.like.pop { animation: pop .4s ease; }
+@keyframes pop { 0% { transform: scale(1);} 40% { transform: scale(1.12);} 100% { transform: scale(1);} }
+
+/* ===== Góc cha mẹ: thống kê ===== */
+.stats { display: flex; gap: 12px; flex-wrap: wrap; margin: 10px 0 4px; }
+.stat { background: var(--paper); border: 2px solid var(--line); border-radius: 16px; padding: 12px 18px; min-width: 110px; text-align: center; }
+.stat b { display: block; font-size: 1.6rem; color: var(--accent); }
+.stat span { font-size: .8rem; color: var(--ink-2); }
+.parent i.bar { display: inline-block; height: 10px; background: var(--accent); border-radius: 999px; vertical-align: middle; margin-right: 8px; min-width: 6px; }
+.bars { display: grid; gap: 8px; margin-top: 8px; }
+.barrow { display: grid; grid-template-columns: minmax(120px, 34%) 1fr auto; align-items: center; gap: 10px; font-size: .9rem; }
+.barrow i.bar { height: 14px; border-radius: 999px; background: var(--accent); display: block; }
+.barrow b { color: var(--accent); }
+.parent table { table-layout: fixed; word-break: break-word; }

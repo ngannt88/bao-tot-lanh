@@ -77,11 +77,14 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
     return chosen
 
 
-def extract_all(chosen: list[dict], day: str) -> tuple[list[dict], list[dict]]:
+def extract_all(chosen: list[dict], day: str, cfg: dict | None = None) -> tuple[list[dict], list[dict]]:
+    """min_words riêng theo nguồn: báo viết cho trẻ (TIME for Kids mục lớp 3-4) có bài chỉ
+    80-140 chữ — ngắn là đúng với lứa tuổi, không phải tách hỏng."""
     from extract import extract_article
     img_dir = CAND_IMG / day
+    floors = {s["id"]: s.get("min_words") for s in (cfg or {}).get("sources", []) if s.get("min_words")}
     with cf.ThreadPoolExecutor(max_workers=4) as ex:
-        results = list(ex.map(lambda a: extract_article(a, img_dir), chosen))
+        results = list(ex.map(lambda a: extract_article(a, img_dir, floors.get(a.get("source"))), chosen))
     ok = [r for r in results if r.get("extracted_ok")]
     bad = [r for r in results if not r.get("extracted_ok")]
     for r in bad:

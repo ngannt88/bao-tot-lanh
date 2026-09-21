@@ -119,10 +119,18 @@ def git_push(day: str) -> tuple[bool, str]:
     return True, "đã đẩy lên GitHub (" + ", ".join(msgs) + ")"
 
 
-def publish(day: str, ids: list[str], cfg: dict, push: bool = True) -> dict:
+def publish(day: str, ids: list[str], cfg: dict, push: bool = True, audio: bool = True) -> dict:
     issue = build_issue(day, ids, cfg)
+    audio_info = None
+    if audio and cfg.get("audio", {}).get("enabled", True):
+        try:
+            from tts import build as build_audio
+            audio_info = build_audio(day, cfg)
+        except Exception as e:                      # giọng đọc hỏng thì vẫn ra báo, chỉ là không có nút nghe
+            log.warning("Giọng đọc lỗi: %s", str(e)[:120])
+            audio_info = {"error": str(e)[:120]}
     ok, msg = (True, "không đẩy") if not push else git_push(day)
-    return {"ok": ok, "message": msg, "count": len(issue["articles"]), "date": day}
+    return {"ok": ok, "message": msg, "count": len(issue["articles"]), "date": day, "audio": audio_info}
 
 
 def auto_pick(day: str, cfg: dict) -> list[str]:
