@@ -36,6 +36,12 @@ các bài AI chấm từ `min_score` (mặc định 8/10) trở lên, cân bằn
 có thể mở trang duyệt sửa lại sau. **Không có điểm AI thì không tự xuất bản**, nên bắt buộc đã
 `claude login`. Tắt bằng `enabled: false` rồi chạy lại `register_task.ps1`.
 
+## Web nằm ở nhánh `gh-pages`, kho không phình
+
+Mỗi lần xuất bản, thư mục `docs/` (kể cả ảnh) được chụp thành **một commit không lịch sử** và đẩy ghi đè lên nhánh
+`gh-pages`; GitHub Pages phục vụ nhánh này. Nhánh `main` chỉ giữ mã nguồn và JSON số báo (ảnh nằm trong
+`.gitignore`), nên kho không lớn theo ngày dù mỗi ngày thêm vài MB ảnh.
+
 ## Ba tác vụ Task Scheduler
 
 | Tác vụ | Khi nào | Làm gì |
@@ -49,6 +55,12 @@ có thể mở trang duyệt sửa lại sau. **Không có điểm AI thì khôn
 Trong `config/newspaper.yaml`, nguồn có `type: html` sẽ lấy link bài từ trang chuyên mục theo
 `link_pattern` (regex). Dùng cho báo trẻ em như Thiếu niên Tiền phong. Trang chậm hay lỗi thì hôm đó
 thiếu nguồn, không ảnh hưởng nguồn khác.
+
+## Lưu ý Windows
+
+Các file `scripts/*.ps1` phải lưu **UTF-8 có BOM**: Windows PowerShell 5.1 đọc UTF-8 không BOM thành ANSI, chữ Việt
+biến thành dấu nháy cong và kịch bản lỗi cú pháp ngay khi Task Scheduler gọi (đã gặp, đã sửa). Log ghi bằng
+`Add-Content -Encoding UTF8`.
 
 ## Cấu trúc
 
