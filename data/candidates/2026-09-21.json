@@ -1,0 +1,2655 @@
+{
+ "date": "2026-09-21",
+ "generated_at": "2026-09-21T13:02:16+07:00",
+ "ai_scored": false,
+ "target": 7,
+ "sections": [
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  }
+ ],
+ "candidates": [
+  {
+   "id": "47e424ec5801",
+   "url": "https://thanhnien.vn/thu-hang-moi-nhat-cua-doi-tuyen-viet-nam-truoc-hanh-trinh-chinh-phuc-chuc-vo-dich-fifa-asean-cup-185260921124931298.htm",
+   "title": "Thứ hạng mới nhất của đội tuyển Việt Nam trước hành trình chinh phục chức vô địch FIFA ASEAN Cup",
+   "published": "2026-09-21T05:57:00+07:00",
+   "age_h": 7.1,
+   "source": "thanhnien-the-thao",
+   "source_name": "Thanh Niên",
+   "lang": "vi",
+   "hint_section": "the-thao-dep",
+   "image_src": null,
+   "sapo": "Bảng xếp hạng FIFA mới nhất được công bố ngày 21.9, ngay trước lịch thi đấu quốc tế tháng 9 và 10. Đội tuyển Việt Nam tăng 1 bậc lên hạng 98 thế giới trước hành trình chinh phục ngôi vô địch FIFA ASEAN Cup.",
+   "author": "thanhnien.vn",
+   "images": [
+    {
+     "file": "47e424ec5801-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/9/21/tnw-vn-kim-sang-sik-17877929219421319174826-400-566-1204-2102-crop-17899697133621993095925.jpg"
+    },
+    {
+     "file": "47e424ec5801-0.jpg",
+     "caption": "FIFA chính thức cộng điểm cho đội tuyển Việt Nam sau chiến dịch vô địch ASEAN Cup 2026 đầy thuyết phục trong tháng 7 và 8 vừa qua",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/8/27/tnw-vn-kim-sang-sik-17877929219421319174826.jpg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Đội tuyển Việt Nam tăng điểm nhiều nhất nhờ vô địch ASEAN Cup"
+    },
+    {
+     "t": "p",
+     "text": "Trong chiến dịch vô địch giải khu vực ASEAN Cup hồi tháng 7 và 8 vừa qua, đội tuyển Việt Nam thắng 6 trận và chỉ hòa 2 trận, được tổng cộng 9,82 điểm. Nhờ đó, đã tích lũy vào số điểm đã có trên bảng xếp hạng FIFA hồi tháng 7, hiện có tổng cộng là 1.237,02 điểm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Với điểm số mới nhất này, đội tuyển Việt Nam đã chính thức tăng 1 bậc trên bảng xếp hạng FIFA từ vị trí thứ 99 lên 98 thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Đội tuyển Việt Nam vẫn xếp thứ 2 ở khu vực Đông Nam Á sau Thái Lan, đội chỉ được cộng 1,46 điểm, để hiện có 1.252,26 điểm và cũng tăng 1 bậc từ hạng 94 lên 93 thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Ở khu vực châu Á, đội tuyển Thái Lan vẫn xếp ở tốp 15, còn đội tuyển Việt Nam nhờ tăng 1 bậc, cũng tiến lên vị trí thứ 17 và hứa hẹn sẽ còn tiếp tục cải thiện thứ hạng."
+    },
+    {
+     "t": "h",
+     "text": "Thứ hạng sẽ thay đổi nhờ FIFA ASEAN Cup"
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, đội tuyển Việt Nam sắp tham dự FIFA ASEAN Cup (từ 24.9 đến 5.10) và nằm cùng bảng với đội tuyển Thái Lan. Hai đội sẽ gặp nhau trực tiếp vào ngày 29.9 tới tại Bandung, Indonesia."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả trận đấu này không chỉ mang tính chất quan trọng cho đội nào đứng đầu bảng đấu để tiến vào trận chung kết, mà còn xác định vị trí trên bảng xếp hạng FIFA mới nhất, sau lịch thi đấu quốc tế sắp tới đây kết thúc."
+    },
+    {
+     "t": "p",
+     "text": "Với đội tuyển Việt Nam, điểm số trên bảng xếp hạng FIFA hiện nay còn cách không xa so với Thái Lan. Tương tự là với đội tuyển Palestine (hạng 95, với 1.243,71 điểm)."
+    },
+    {
+     "t": "p",
+     "text": "Do đó, nếu thầy trò HLV Kim Sang-sik giành các kết quả khả quan trong bảng đấu tại FIFA ASEAN Cup (được cộng điểm với hệ số cao nhất do thi đấu trong lịch FIFA Day), thì việc sẽ được thăng hạng là điều hoàn toàn có thể diễn ra."
+    },
+    {
+     "t": "p",
+     "text": "Tại FIFA ASEAN Cup, đội tuyển Việt Nam nằm ở bảng B, bên cạnh trận gặp Thái Lan (ngày 29.9) là cuộc gặp đội tuyển Philippines (hạng 135 thế giới) ở ngày ra quân 26.9, và trận cuối vòng bảng gặp Pakistan (hạng 198) ngày 2.10."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, đội chủ nhà FIFA ASEAN Cup là Indonesia vẫn xếp hạng 118 thế giới, bị trừ 0,09 điểm sau thất bại toàn diện tại giải khu vực ASEAN Cup."
+    },
+    {
+     "t": "p",
+     "text": "Đội tuyển Malaysia cũng bị trừ 0,83 điểm và xếp hạng 136 thế giới. Còn Singapore tăng 2 bậc lên hạng 146 thế giới khi được cộng 6,35 điểm. Singapore cũng là đội được cộng nhiều điểm thứ 2 sau đội tuyển Việt Nam nhờ các kết quả ở ASEAN Cup."
+    },
+    {
+     "t": "p",
+     "text": "Cả Malaysia và Singapore đều là các đối thủ đáng ngại của Indonesia tại FIFA ASEAN Cup khi nằm cùng bảng A, còn có đội khách mời Bangladesh."
+    }
+   ],
+   "words": 521,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "c1eb6fb37032",
+   "url": "https://thanhnien.vn/ly-do-thoi-gian-du-kien-den-noi-tren-google-maps-chuyen-mau-den-185260921103833475.htm",
+   "title": "Lý do thời gian dự kiến đến nơi trên Google Maps chuyển màu đen",
+   "published": "2026-09-21T05:04:00+07:00",
+   "age_h": 8.0,
+   "source": "thanhnien-cong-nghe",
+   "source_name": "Thanh Niên",
+   "lang": "vi",
+   "hint_section": "kham-pha-khoa-hoc",
+   "image_src": null,
+   "sapo": "Thời gian dự kiến đến nơi trên ứng dụng Google Maps chuyển sang màu đen đến từ nguyên nhân nào?",
+   "author": "thanhnien.vn",
+   "images": [
+    {
+     "file": "c1eb6fb37032-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/9/21/eta-maps-17899621163961899944845-32-0-907-1672-crop-1789962469421854395582.jpg"
+    },
+    {
+     "file": "c1eb6fb37032-0.jpg",
+     "caption": "Thời gian dự kiến đến nơi chuyển sang màu đen trên Google Maps",
+     "w": 1280,
+     "h": 720,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/21/eta-maps-17899621163961899944845.jpg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong giao diện điều hướng của Google Maps , thời gian dự kiến đến nơi (ETA) thường hiển thị qua các gam màu trực quan để thông báo nhanh về tình trạng di chuyển. Dù vậy, việc các con số ETA bất ngờ chuyển sang màu đen không hoàn toàn là tin xấu, mà biểu thị các trạng thái kỹ thuật cụ thể ở cả chế độ lái xe lẫn phương tiện công cộng."
+    },
+    {
+     "t": "h",
+     "text": "Ý nghĩa đằng sau việc ETA đổi sang màu đen trên Google Maps"
+    },
+    {
+     "t": "p",
+     "text": "Phản hồi người dùng trên diễn đàn hỗ trợ vào tháng 1.2025, Google cho biết màu đen hoặc trắng xuất hiện nhằm tăng cường độ tương phản ở chế độ nền tối (dark mode), hoặc cảnh báo tình trạng thiếu dữ liệu giao thông trực tiếp. Với chế độ lái xe thông thường, ba màu sắc cốt lõi gồm xanh lá cây (thông suốt), cam (trung bình) và đỏ (đông đúc), trong khi ở chế độ phương tiện công cộng, màu đen đồng nghĩa với việc ứng dụng không nhận được dữ liệu cập nhật theo thời gian thực của chuyến đi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh các gam màu báo hiệu chuyến đi đúng lịch trình (xanh lá), đến sớm (cam), trễ chuyến (đỏ) hay biểu tượng thi công công trình, dữ liệu ETA của Google Maps đạt độ tin cậy rất cao. Hãng công nghệ cho biết sau khi hợp tác với phòng nghiên cứu AI DeepMind vào năm 2020, tỷ lệ dự đoán ETA chính xác đã vượt mốc 97% nhờ kết hợp dữ liệu chất lượng đường sá, quy định địa phương, thói quen giao thông trong 4 tuần cùng thông tin trực tiếp từ người dùng."
+    },
+    {
+     "t": "p",
+     "text": "Người dùng hiện không thể chủ động thay đổi quy ước bảng màu ETA trong ứng dụng, nhưng có thể hạn chế xuất hiện chữ số màu đen khi lái xe bằng cách tắt chế độ nền tối trên điện thoại. Dù vậy, chỉ số ETA vẫn sẽ hiển thị màu đen nếu thiết bị mất kết nối mạng hoặc đang sử dụng tính năng điều hướng ngoại tuyến (offline) do ứng dụng không có quyền truy cập vào thông tin giao thông trực tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Đối với phương tiện giao thông công cộng, việc ETA hiển thị màu đen là dấu hiệu cho thấy ứng dụng không có thông tin thời gian thực về chuyến xe buýt hoặc tàu tiếp theo. Nắm rõ ý nghĩa của các màu sắc giao diện sẽ giúp người dùng nhanh chóng đánh giá nguy cơ chậm trễ và linh hoạt điều chỉnh lộ trình di chuyển phù hợp với thực tế."
+    }
+   ],
+   "words": 442,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "97107329a62d",
+   "url": "https://www.smithsonianmag.com/science-nature/five-ways-the-world-of-the-dinosaurs-looked-different-from-ours-beyond-the-presence-of-the-terrible-lizards-180989521/",
+   "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the ‘Terrible Lizards’",
+   "published": "2026-09-18T14:00:00+07:00",
+   "age_h": 71.0,
+   "source": "smithsonian",
+   "source_name": "Smithsonian",
+   "lang": "en",
+   "hint_section": "the-gioi-dong-vat",
+   "image_src": "https://th-thumbnailer.cdn-si-edu.com/t91DcsWLB4_BB1o3UgGA9ktjZeU=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/96/8696575f-21e0-4d7c-8edc-a86d1b808ee6/gettyimages-1402265692.jpg",
+   "sapo": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
+   "author": "Riley Black",
+   "images": [
+    {
+     "file": "97107329a62d-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/zAbu12WMZrnSUV8rMvQ02_N_0WI=/fit-in/1600x0/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/96/8696575f-21e0-4d7c-8edc-a86d1b808ee6/gettyimages-1402265692.jpg"
+    },
+    {
+     "file": "97107329a62d-0.jpg",
+     "caption": "The Earth in the Mesozoic Era, when dinosaurs roamed the planet, looked much unlike how it does today—even beyond presence of creatures like Giganotosaurus . Roger Harris / Science Photo Library via Getty Images",
+     "w": 1000,
+     "h": 750,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/CWVU9yT-g0DO_0iodneQaZM_iG4=/1000x750/filters:no_upscale():focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/96/8696575f-21e0-4d7c-8edc-a86d1b808ee6/gettyimages-1402265692.jpg"
+    },
+    {
+     "file": "97107329a62d-1.jpg",
+     "caption": "Large dinosaurs kept Mesozoic landscapes open, with stands of trees clustering among wide areas of low-growing plants. These illustrated plants are consistent with what’s known about China’s Shishugou Formation during the Jurassic, and two Guanlong and a Yinlong walk among them. ABelov2014 via Wikimedia Commons under CC BY-SA 3.0",
+     "w": 1072,
+     "h": 1479,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/S-58L4Znul0P8DjD-kx9qNsl9oY=/fit-in/1072x0/filters:focal(778x1074:779x1075)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/b0/9db05719-2b32-4910-a2d6-5eb612ff41ef/guanlong_and_yinlong.jpg"
+    },
+    {
+     "file": "97107329a62d-2.jpg",
+     "caption": "Earth was in a hothouse climate for much of the Mesozoic, so warm that there were often no polar icecaps. Here, a Dilophosaurus rests in the Early Jurassic environment. Heather Kyoht Luterman via Wikimedia Commons under CC BY 2.5",
+     "w": 1072,
+     "h": 581,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/7BoPGk-nzY9uyf4C2mU93LnalQ8=/fit-in/1072x0/filters:focal(694x377:695x378)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/73/d473c84c-7cde-4bfc-985c-fa16ea92ddf0/dilophosaurus_wetherilli_cropped.jpg"
+    },
+    {
+     "file": "97107329a62d-3.jpg",
+     "caption": "Earth 190 million years ago, as continents were shifting away from each other during the breakup of Pangaea, overlaid with the locations of present-day countries Scotese, Christopher R.; Vérard, Christian; Burgener, Landon; Elling, Reece P.; Kocsis, Ádám T. via Wikimedia Commons under CC BY 4.0",
+     "w": 1071,
+     "h": 537,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/FchGpQj41rIQXNhlK_SwV5Mn1jA=/fit-in/1072x0/filters:focal(1805x911:1806x912)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/e2/2de2e848-b0b0-488b-a1e7-7069fd94c895/mollweide_paleographic_map_of_earth_190_ma_pliensbachian_age.png"
+    },
+    {
+     "file": "97107329a62d-4.jpg",
+     "caption": "Mesozoic oceans were full of wondrous creatures, like the seafaring lizards called mosasaurs and the four-flippered plesiosaurs. Andrey Atuchin in Zietlow et al. via Wikimedia Commons under CC BY 4.0",
+     "w": 1072,
+     "h": 648,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/UeME4w4A08IPRirhPQr73sx6IWA=/fit-in/1072x0/filters:focal(1063x643:1064x644)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/c5/8bc526ff-4b86-40cf-a44e-e17f7715f86c/tylosaurus_proriger_hunting_a_plesiosaur_andrey_atuchin.png"
+    },
+    {
+     "file": "97107329a62d-5.jpg",
+     "caption": "Some mammals, like the badger-sized Repenomamus , fought and ate dinosaurs. Here, Repenomamus robustus is illustrated fighting the larger Psittacosaurus lujiatunensis . Michael Skrepnick in Han et al., 2023, via Wikimedia Commons under CC BY 4.0",
+     "w": 1072,
+     "h": 738,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/zDb1FKzm55F4a1ikyHjjXiGu3vc=/fit-in/1072x0/filters:focal(1004x693:1005x694)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/53/a0/53a09204-b9d6-445f-945c-cb09e0ebad42/psittacosaurus_and_repenomamus_life_restoration_-_han_et_al_2023.png"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Imagine waking up in another time. A time of incredible dinosaurs."
+    },
+    {
+     "t": "p",
+     "text": "From the pages of 19th-century novels to the screens playing summer blockbusters, countless stories have entertained the scenario. They almost always envision the great reptiles within thick and humid jungles, where tiny mammals shriek and scurry away from sharp-toothed shadows."
+    },
+    {
+     "t": "p",
+     "text": "But the forests and swamps where most dinosaurs roamed didn’t resemble modern habitats . And the mammals of the time were not all so meek. Between the Triassic origin of the dinosaurs more than 235 million years ago and the cataclysmic asteroid strike 66 million years ago that left beaked birds as the only dinosaurs remaining , the Earth we now reside on was very different."
+    },
+    {
+     "t": "p",
+     "text": "Were you to travel back to the time of Tyrannosaurus rex , Apatosaurus or even the earliest dinosaurs , you would be able to tell you’d awoken in another era without ever seeing a “terrible lizard.” Here are five ways—beyond the dinosaurs’ presence—that the Earth in their heyday was different from the one we know today."
+    },
+    {
+     "t": "h",
+     "text": "Strange forests"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "When the earliest dinosaurs began to step onto the Triassic scene, there were no flowering plants . Earth had no palm trees, grasses or citrus fruits. Many of the most numerous plants were larger and more varied relatives of those still around us today, such as ginkgo trees and horsetails . These grew alongside now-extinct lineages, like bennettitales —spiky relatives of cycads that sprouted broad fronds and were likely some of the first plants to be pollinated by animals ."
+    },
+    {
+     "t": "p",
+     "text": "For millions of years, through the Triassic and the Jurassic that followed, large dinosaurs kept such forests open and sunlit down to their trunks by feeding and trampling on plants. A sunny stand of conifers flanked by large horsetails and cycads sprouting up in an understory dotted by ferns was often the shape of a dinosaur-tended habitat."
+    },
+    {
+     "t": "p",
+     "text": "It probably wasn’t until during the early Cretaceous, about 125 million years ago, that flowering plants as we know them today began to become more common. Some were wispy aquatic plants ; others were relatives of today’s magnolias and so full of seeds that toothy birds foraged among their leaves . By 75 million years ago, palms grew alongside leafy flowering plants dotted with large fruit. But it was only after the big asteroid strike that more modern forests of close-growing, canopy-forming trees began to pop up, creating thick habitats where our primate ancestors evolved some of the key traits we still possess."
+    },
+    {
+     "t": "h",
+     "text": "A global hothouse"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Our modern world can be a hot one , but the dinosaurs’ world was often hotter still, with sweltering stretches when the poles lacked ice and sea levels rose to the point of splitting continents in two ."
+    },
+    {
+     "t": "p",
+     "text": "The entire span of the Mesozoic —the Age of Dinosaurs, from Triassic to Cretaceous—was a very long time, nearly three times as long as the post-asteroid impact history of the planet. Earth’s climate didn’t maintain a constant temperature throughout that era: It swung between relatively warmer and cooler climates that had major effects on habitats."
+    },
+    {
+     "t": "p",
+     "text": "Key context: When was the Age of Dinosaurs?"
+    },
+    {
+     "t": "p",
+     "text": "The Mesozoic era spanned between 66 million and 252 million years ago, and it was broken into three distinct periods."
+    },
+    {
+     "t": "li",
+     "text": "Cretaceous: 66 million to 145 million years ago"
+    },
+    {
+     "t": "li",
+     "text": "Jurassic: 145 million to 201 million years ago"
+    },
+    {
+     "t": "li",
+     "text": "Triassic: 201 million to 252 million years ago"
+    },
+    {
+     "t": "p",
+     "text": "The Triassic started off hot. The geological period followed Earth’s biggest mass extinction , during which volcanic eruptions in what’s now Siberia dumped incredible amounts of carbon dioxide and methane into the atmosphere, leading to rampant warming and an average global temperature of about 89 degrees Fahrenheit . (Today, the global average temperature is about 59 degrees Fahrenheit .)"
+    },
+    {
+     "t": "p",
+     "text": "Although temperatures fell after the early Triassic spike, the world remained warm for the rest of the Mesozoic. Although average global temperatures wobbled some, in the warmest times, what would have otherwise been polar ice was instead heated seawater, further altering rain patterns and the shape of ancient coasts. Dinosaurs lived in a seemingly endless global summer."
+    },
+    {
+     "t": "h",
+     "text": "Continental shuffle"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Perhaps the most striking illustration of how different the Earth of the dinosaurs’ time was from our own would have been hard to perceive from the ground. It would have best been seen from space—the contrast only truly visible on a planetary scale."
+    },
+    {
+     "t": "p",
+     "text": "When the first dinosaurs were stepping through ferns and cycads, most of Earth’s landmass was pushed together into a supercontinent called Pangaea . Due to the hot global temperatures, the most habitable regions were around the edges of the land, since the middle portion received little rain as the Triassic got going."
+    },
+    {
+     "t": "p",
+     "text": "But Pangaea didn’t stay intact. Plate tectonics began to break it apart, shifting large chunks of the continent away from each other. Around 170 million years ago, in the middle of the Jurassic, what’s now Eurasia was separated from the other landmasses by a yawning gap of ocean, and smaller but spreading spans of sea divided North America from South America and Africa, which were attached to each other and close to ancient Australia and Antarctica."
+    },
+    {
+     "t": "p",
+     "text": "The loosely connected northern continents, collectively known as Laurasia , became separated from the southern continents, or Gondwana , throughout the Jurassic. By the end of the Cretaceous, ocean was increasingly splashing between South America and Africa, with North America and Eurasia only intermittently connected by a land bridge in the north stretch of the prehistoric Pacific. Wherever you are on Earth right now, the location was once someplace very different."
+    },
+    {
+     "t": "h",
+     "text": "Shifting seas"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Alongside these ever-changing coasts, the Mesozoic oceans were shifting, too, filled with coil-shelled ammonites, fishlike ichthyosaurs and other wonders. The warmth of these seas led them to rise and repeatedly spill over continents—places that are landlocked today used to be coastline."
+    },
+    {
+     "t": "p",
+     "text": "The incursion of ancient seas is most visible from the Jurassic onward, as Pangaea continued to break up into component parts. The Sundance Sea spilled over North America in the mid- to late Jurassic, around 165 million years ago, only to recede and later be replaced by a long-lasting Western Interior Seaway that split the continent in two during the late Cretaceous. And life in those seas was unlike anything we know today."
+    },
+    {
+     "t": "p",
+     "text": "Mesozoic waters were rife with unusual invertebrates. Among the most numerous and diverse were ammonites : many-armed cephalopods that lived in coiled shells . The largest of these plankton- and crustacean-eaters could grow shells that spanned eight feet in diameter . Cousins of sea stars called crinoids were incredibly common as well, looking almost like medieval maces on stalks. They might have grown in reefs that were made of enormous clams rather than coral."
+    },
+    {
+     "t": "p",
+     "text": "But the marine reptiles were the most spectacular of all. Reptiles of many lineages began to evolve aquatic forms from the onset of the Triassic, and the fishlike ichthyosaurs were the first group to spin off whale-size species . The ichthyosaurs evolved alongside the long-necked plesiosaurs , which later included short-necked pliosaurs that preyed upon other marine reptiles, both groups thriving through the Jurassic and parts of the Cretaceous. Seagoing lizards called mosasaurs entered the water toward the end of the Mesozoic, but they evolved so rapidly that they became everything from blunt-toothed shell crunchers to open-water hunters . Sharks and sea turtles also swam the Mesozoic seas, but the ichthyosaurs, plesiosaurs and mosasaurs were unlike any creatures alive today."
+    },
+    {
+     "t": "h",
+     "text": "Look out for mammals"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Mammals are among the most obvious animals in modern ecosystems—the past 66 million years is often called the Age of Mammals . But mammals thrived during the time of the dinosaurs, too, and those creatures were significantly different from our present-day relatives."
+    },
+    {
+     "t": "p",
+     "text": "The earliest beasts that we would recognize as mammals are technically known as mammaliaformes, or “mammal-shaped animals,” and they evolved around the same time as the first dinosaurs . Most were small, just like most mammal species are today. Throughout the Mesozoic, they expanded into a variety of forms akin to modern otters, aardvarks, flying squirrels , badgers and more. Some may have even gotten to mountain lion size . But despite their familiar appearance, many of these early mammals reproduced and raised their young in different ways."
+    },
+    {
+     "t": "p",
+     "text": "Some of the earliest mammaliaforms had many, many offspring, likely laying large clutches of eggs . Fossils of Kayentatherium , a mammaliaform from 185 million years ago, indicate that the creature could have litters of 38 babies at a time . The pattern suggests that these earlier mammals didn’t look after their offspring—instead, survival was a matter of numbers. But by 170 million years ago, some squirrel-like mammals were doing something different. Called multituberculates, these creatures were having smaller litters but putting in more effort— feeding their offspring milk and weaning them ."
+    },
+    {
+     "t": "p",
+     "text": "But many Mesozoic mammals were likely laying eggs or having tiny babies that needed more care out of the womb, like modern marsupials such as the kangaroo. Placental mammals like humans, which gestate their offspring to an advanced stage of development, didn’t appear until late in the Cretaceous and only became more prominent after the mass extinction of 66 million years ago. The most abundant and widespread Mesozoic mammals were the more archaic mammaliaforms and relatives of today’s pouched marsupials ."
+    },
+    {
+     "t": "p",
+     "text": "If you were in a strange forest on an unfamiliar coast and saw what at first appeared to be a squirrel but had tiny, close-eyed babies peeking out of a pouch, that’s all you’d need to know that you were back in the Age of Dinosaurs."
+    },
+    {
+     "t": "h",
+     "text": "Get the latest Science stories in your inbox."
+    }
+   ],
+   "words": 1595,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "0b299f63afa7",
+   "url": "https://thanhnien.vn/khi-trend-dua-nguoi-tre-den-voi-sach-185260921103004122.htm",
+   "title": "Khi ‘trend’ đưa người trẻ đến với sách",
+   "published": "2026-09-21T04:20:00+07:00",
+   "age_h": 8.7,
+   "source": "thanhnien-van-hoa",
+   "source_name": "Thanh Niên",
+   "lang": "vi",
+   "hint_section": "sang-tao-kien-truc",
+   "image_src": null,
+   "sapo": "Giữa dòng thông tin cuồn cuộn trên mạng xã hội, điều gì khiến người trẻ dừng lại bên một cuốn sách và muốn đọc tiếp? Câu chuyện từ chương trình giao lưu tại Đường sách TP.HCM gợi mở những cách đưa văn hóa đọc đến gần hơn với người trẻ.",
+   "author": "thanhnien.vn",
+   "images": [
+    {
+     "file": "0b299f63afa7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/9/21/base64-17899611147421803794492-227-0-1274-2000-crop-1789961156321860249220.jpeg"
+    },
+    {
+     "file": "0b299f63afa7-0.jpg",
+     "caption": "Nguyễn Lê Thu Phương đoạt giải nhất khối đại học - cao đẳng toàn quốc cuộc thi Đại sứ Văn hóa đọc năm 2025",
+     "w": 891,
+     "h": 1023,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/21/1000069946-1789961011282317016060.jpg"
+    },
+    {
+     "file": "0b299f63afa7-1.jpg",
+     "caption": "Nhà văn Nguyễn Khắc Cường (phải) cùng nhà văn Phương Huyền giao lưu cùng độc giả trong buổi giới thiệu, ra mắt cuốn sách mới tại Đường sách TP.HCM ngày 20.9, do NXB Kim Đồng tổ chức",
+     "w": 1280,
+     "h": 833,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/21/base64-17899611147421803794492.jpeg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ một lần tò mò đến việc ở lại với trang sách"
+    },
+    {
+     "t": "p",
+     "text": "Mạng xã hội đang làm thay đổi nhanh chóng cách người trẻ tiếp nhận thông tin. Những đoạn video ngắn, bài đăng vài dòng hay nội dung bất ngờ xuất hiện trên dòng thời gian có thể thu hút sự chú ý chỉ trong vài giây. Nhưng khi thông tin ngày càng dày đặc, sự chú ý cũng dễ bị phân tán."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Lê Thu Phương, đại sứ Văn hóa đọc 2025 , cho biết người trẻ hiện nay có nhiều cơ hội tiếp cận thông tin nhưng đồng thời cũng đối diện với sự mệt mỏi khi phải liên tục cập nhật."
+    },
+    {
+     "t": "p",
+     "text": "\"Mạng xã hội có rất nhiều thông tin nhanh, giúp mình cập nhật nhanh nhưng đồng thời cũng gây ra sự mệt mỏi vì lượng thông tin quá lớn. Người trẻ đôi khi bị áp lực, bị phân tâm vì không thể xử lý hết tất cả những thông tin đó\", Thu Phương chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong bối cảnh ấy, đọc sách có thể trở thành một khoảng lặng để người trẻ tạm rời dòng thông tin liên tục, dành thời gian cho bản thân."
+    },
+    {
+     "t": "p",
+     "text": "\"Đọc sách giống như mình có một góc riêng để có thể tạm dẹp bớt đi những thứ lộn xộn ở bên ngoài, hướng vào bên trong, tìm một sự bình yên, ổn định\", Thu Phương nói."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, hành trình đến với sách không phải lúc nào cũng bắt đầu từ một nhu cầu đọc rõ ràng. Đôi khi, đó chỉ là sự tò mò trước một cuốn sách được bạn bè giới thiệu hoặc bắt gặp trong cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "\"Ban đầu có thể bạn thấy người xung quanh mình đọc thì tò mò và đọc thử. Nếu đọc được những nội dung mình thích, thấy thú vị thì mình sẽ thích đọc, rồi dần dần nó sẽ trở thành thói quen, trở thành một niềm vui nho nhỏ trong thời gian rảnh\", Thu Phương chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ góc nhìn này, \"trend\" không nhất thiết đối lập với việc đọc sách. Một cuốn sách được nhiều người nhắc đến, nội dung giới thiệu sách trên mạng xã hội hay lời rủ rê của bạn bè đều có thể trở thành điểm khởi đầu. Điều quan trọng là người đọc có tìm thấy điều đủ hấp dẫn trong cuốn sách để tiếp tục tìm đọc và dần hình thành thói quen hay không."
+    },
+    {
+     "t": "p",
+     "text": "Với đại sứ Văn hóa đọc 2025, một trong những cuốn sách để lại dấu ấn là Điều kỳ diệu của thái độ sống (Mac Anderson). Đây là tác phẩm Thu Phương lựa chọn khi tham gia cuộc thi Đại sứ Văn hóa đọc năm 2025. Những câu chuyện ngắn, gần gũi với đời sống giúp người đọc dễ tiếp nhận, từ đó có thêm những suy ngẫm về chính mình."
+    },
+    {
+     "t": "h",
+     "text": "Khi mạng xã hội không chỉ là đối thủ của sách"
+    },
+    {
+     "t": "p",
+     "text": "Nếu mạng xã hội có thể đưa người trẻ đến với sách, điều gì khiến họ ở lại với một tác phẩm? Câu hỏi này dẫn đến một điểm đáng chú ý: Trong khi thông tin trên mạng xã hội thường được tiếp nhận nhanh, văn chương lại cần thời gian để hình thành và đi sâu vào người đọc."
+    },
+    {
+     "t": "p",
+     "text": "Nhà văn Nguyễn Khắc Cường có nhiều năm làm việc tại các tờ báo Mực Tím, Rùa Vàng, Khăn Quàng Đỏ, Nhi Đồng … Công việc báo chí giúp anh thường xuyên tiếp xúc với những câu chuyện, xu hướng và thông tin mới về người trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi tuần, anh đọc khoảng 50.000 chữ liên quan đến trẻ em, thanh thiếu niên, từ đời sống học sinh, tâm lý đến thông tin trên mạng xã hội. Công việc đòi hỏi người viết phải nhanh chóng quan sát đời sống, nắm bắt những vấn đề đang diễn ra và chuyển tải thông tin trong thời gian ngắn. Tuy nhiên, theo anh, chất liệu từ đời sống không phải lúc nào cũng có thể lập tức trở thành văn chương."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về cuốn sách Nụ hôn dưới vòm cây , nhà văn Nguyễn Khắc Cường cho biết ý tưởng tác phẩm xuất hiện từ một sự kiện anh tham dự nhiều năm trước, khi thành phố tổ chức hoạt động làm phim về phong trào học sinh, sinh viên trước năm 1975. Tại đây, nhiều nhân chứng lịch sử cùng có mặt, các nhà văn, nhà làm phim có cơ hội lắng nghe và tìm kiếm chất liệu sáng tác."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, thời điểm ấy, anh chưa thể bắt tay vào viết. \"Lúc đó mình cảm thấy hiểu chưa đủ để làm thành một tác phẩm truyện ngắn hay tiểu thuyết\", nhà văn Nguyễn Khắc Cường nói."
+    },
+    {
+     "t": "p",
+     "text": "Chất liệu ấy tiếp tục ở lại trong tâm trí anh qua nhiều năm. Khoảng 20 năm sau, khi cảm thấy đã đủ độ chín, anh mới bắt đầu viết. \"Nó cứ nằm ở đâu đó trong tâm trí của mình. Và đến một lúc nào đó mình cảm thấy đủ độ chín thì mình mới bắt đầu viết. Làm sao cho nó gần gũi với người đọc hôm nay thì cái đó là cái khó\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ trải nghiệm sáng tác, nhà văn Nguyễn Khắc Cường cho rằng thời gian trực tiếp viết một cuốn sách có thể không dài, nhưng để một câu chuyện đủ độ chín lại là quá trình cần nhiều năm tháng."
+    },
+    {
+     "t": "p",
+     "text": "Sự khác biệt giữa tốc độ của mạng xã hội và nhịp điệu chậm rãi của việc đọc, vì thế, không nhất thiết phải được nhìn như một cuộc cạnh tranh. Mạng xã hội có thể khơi gợi sự chú ý ban đầu, nhưng để giữ chân người đọc, một cuốn sách cần đủ sức cuốn hút họ vào câu chuyện, nhân vật và những suy ngẫm phía sau trang viết."
+    },
+    {
+     "t": "p",
+     "text": "Đại sứ Văn hóa đọc 2025 cũng cho rằng thay vì chỉ xem mạng xã hội là nguyên nhân khiến người trẻ xa rời sách, có thể tận dụng chính nền tảng này để đưa văn hóa đọc đến gần họ hơn."
+    },
+    {
+     "t": "p",
+     "text": "Những nội dung ngắn giới thiệu sách, bài chia sẻ cảm nhận hay các trang mạng xã hội chuyên về sách có thể khơi gợi sự quan tâm, tạo cơ hội để người trẻ khám phá những tác phẩm mới. Từ một nội dung bắt gặp trên màn hình, họ có thể tìm đến cuốn sách và tiếp tục đọc bằng sự yêu thích của chính mình."
+    }
+   ],
+   "words": 1100,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "bcd1f5246fef",
+   "url": "https://www.vietnamplus.vn/nga-ngan-chan-hon-100-trieu-moi-de-doa-tan-cong-mang-trong-bau-cu-duma-quoc-gia-post1137434.vnp",
+   "title": "Nga ngăn chặn hơn 100 triệu mối đe dọa tấn công mạng trong bầu cử Duma Quốc gia",
+   "published": "2026-09-21T06:00:14+07:00",
+   "age_h": 7.0,
+   "source": "vietnamplus-giaoduc",
+   "source_name": "VietnamPlus",
+   "lang": "vi",
+   "hint_section": "guong-sang",
+   "image_src": null,
+   "sapo": "Các nền tảng bầu cử của Nga, trong đó có trang thông tin chính thức về bầu cử, đã phải đối phó với các cuộc tấn công từ chối dịch vụ phân tán quy mô lớn, cùng các hoạt động xâm nhập nhằm vào máy chủ.",
+   "author": "Phương Oanh",
+   "images": [
+    {
+     "file": "bcd1f5246fef-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://media.vietnamplus.vn/images/wU9keeg-MVtM86KQbMalHh-LzSR6UQoG-Fq23-pqBOYiE5zKOIFfj-jpx8n3zICy4N0tjLJVuQxie3LRUsQNiIDNLImZUH7_1ZOmvDjRe8auP0gpBarwPMkUgpzyB41j2Zv20UIK93HJJKj6S4tjNg/ttxvn-bau-cu-ha-vien-nga-dang-nuoc-nga-thong-tam-dan-dau-9037705.jpg.webp"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 20/9, Chủ tịch Ủy ban Bầu cử Trung ương Nga (CEC) Ella Pamfilova cho biết Nga đã ngăn chặn hơn 100 triệu mối đe dọa tấn công mạng nhằm vào cơ sở hạ tầng phục vụ cuộc bầu cử Duma Quốc gia (Hạ viện)."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian diễn ra bầu cử, các nền tảng bầu cử của Nga, trong đó có trang thông tin chính thức về bầu cử, đã phải đối phó với các cuộc tấn công từ chối dịch vụ phân tán (DDoS) quy mô lớn, cùng các hoạt động xâm nhập nhằm vào máy chủ."
+    },
+    {
+     "t": "p",
+     "text": "Nhà chức trách Nga cũng phát hiện các nỗ lực khai thác lỗ hổng của hệ thống và gây gián đoạn cơ sở hạ tầng viễn thông quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Theo CEC, các hoạt động bị xác định là nguy hiểm đã được hệ thống an ninh mạng của Nga phát hiện và ngăn chặn, không ghi nhận vụ xâm nhập thành công nào."
+    },
+    {
+     "t": "p",
+     "text": "Bà Pamfilova cho biết các cuộc tấn công nhằm vào hệ thống bỏ phiếu điện tử từ xa của Nga chủ yếu xuất phát từ nước ngoài, trong đó một số vụ sử dụng địa chỉ IP giả mạo của Nga."
+    },
+    {
+     "t": "p",
+     "text": "Thông tin trên được đưa ra trong bối cảnh Nga vừa tổ chức cuộc bầu cử Hạ viện."
+    },
+    {
+     "t": "p",
+     "text": "Theo dữ liệu của CEC được cập nhật ngày 21/9, sau khi kiểm 75,31% số phiếu, đảng Nước Nga Thống nhất đang dẫn đầu với 57,48% số phiếu."
+    },
+    {
+     "t": "p",
+     "text": "Bốn đảng khác vượt ngưỡng 5% gồm đảng Cộng sản Nga với 14,03%, đảng Dân chủ Tự do Nga (LDPR) với 8,75%, đảng Những người Mới với 8,01% và đảng Nước Nga Công bằng với 5,01%./."
+    },
+    {
+     "t": "h",
+     "text": "Đảng nước Nga thống nhất áp đảo trong cuộc bầu cử Duma Quốc gia"
+    },
+    {
+     "t": "p",
+     "text": "Tính đến 18g50 (giờ Moskva) ngày 20/9, tỷ lệ cử tri đi bỏ phiếu trên toàn quốc đã đạt 56,57%; chính thức vượt qua tỷ lệ tham gia của nhiều kỳ bầu cử trước đó."
+    }
+   ],
+   "words": 334,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "766e0e915d9c",
+   "url": "https://tienphong.vn/bua-an-ban-tru-o-ha-noi-du-ho-so-lieu-co-du-nang-luc-post1878095.tpo",
+   "title": "Bữa ăn bán trú ở Hà Nội: Đủ hồ sơ, liệu có đủ năng lực?",
+   "published": "2026-09-21T06:00:00+07:00",
+   "age_h": 7.0,
+   "source": "tienphong-giao-duc",
+   "source_name": "Tiền Phong",
+   "lang": "vi",
+   "hint_section": "guong-sang",
+   "image_src": null,
+   "sapo": "TPO - Giao suất ăn chậm, phương tiện vận chuyển không phù hợp, gà, tôm bốc mùi... những sự cố liên tiếp đầu năm học tại các trường tiểu học của Hà Nội đặt ra câu hỏi về năng lực thực tế của các đơn vị cung ứng bữa ăn bán trú.",
+   "author": "Hà Linh",
+   "images": [
+    {
+     "file": "766e0e915d9c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://cdn.tienphong.vn/images/vfxVTqNZg61oqW4AULbiy_A62oM6_7iqiknyDRziMKy9Yjw9szbumFsO40ZSr1Sk/nau-an.jpg.webp"
+    },
+    {
+     "file": "766e0e915d9c-0.jpg",
+     "caption": "Phụ huynh, nhà trường phát hiện gà bốc mùi được doanh nghiệp đưa đến bếp ăn Trường tiểu học Lê Trọng Tấn, phường Yên Nghĩa.",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://cdn.tienphong.vn/images/ETcaDkEbHBn05tgaBARQY5xID22VoCM7gSqTce11k6KXuQi5LjfjDZ9bdwxa1NpJ4epL05xpVzO1E6OYXf62Pw/ga-boc-mui.jpg.avif"
+    },
+    {
+     "file": "766e0e915d9c-1.jpg",
+     "caption": "Bữa ăn bán trú có đảm bảo an toàn là nỗi lo của phụ huynh.",
+     "w": 1280,
+     "h": 960,
+     "src_url": "https://cdn.tienphong.vn/images/ETcaDkEbHBn05tgaBARQY5xID22VoCM7gSqTce11k6Iu3CnGN8GjreJsw8EmAkwl/nau-an.jpg.avif"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tại Trường Tiểu học Kim Bài (xã Thanh Oai), học sinh phải chờ đến gần 13h mới được ăn do suất ăn giao muộn. Nhà trường phải mua bánh, sữa để học sinh sử dụng tạm thời, đồng thời xử lý việc đơn vị cung cấp dùng xe chở hàng để vận chuyển suất ăn."
+    },
+    {
+     "t": "p",
+     "text": "Tại Trường Tiểu học Lê Trọng Tấn (phường Yên Nghĩa), phụ huynh và nhà trường phát hiện tôm, thịt có mùi được đưa đến bếp ăn bán trú. Nhà trường lập biên bản, từ chối nhận hàng. Ở một số trường khác, đơn vị cung cấp mang đến suất ăn thiếu cơm, thiếu canh hoặc thiếu thức ăn."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều trường phải thay đổi đơn vị cung cấp chỉ sau vài ngày vận hành. Đây cũng là năm đầu tiên ghi nhận trường hợp đơn vị cung cấp suất ăn, ngay khi xảy ra sự cố, xin chấm dứt hợp đồng."
+    },
+    {
+     "t": "p",
+     "text": "Sau mỗi sự cố, phương án xử lý thường là yêu cầu nhà cung cấp khắc phục, thay đổi đơn vị hoặc tăng cường giám sát. Tuy nhiên, khi các vấn đề xuất hiện liên tiếp ở nhiều khâu, câu hỏi đặt ra là năng lực của các nhà cung cấp đã được rà soát tương xứng với quy mô phục vụ hay chưa."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Năng lực liệu có chỉ đáp ứng \"trên giấy\"?"
+    },
+    {
+     "t": "p",
+     "text": "Hiệu trưởng một trường tiểu học tổ chức nấu ăn bán trú tại trường cho biết, để có suất ăn được đưa lên bàn vào 11h, nhân viên phải bắt đầu làm việc từ 5h sáng. Căn cứ số lượng học sinh, nhà trường tính toán định lượng rau, thịt và các loại thực phẩm cần sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Nhà trường và phụ huynh sẽ kiểm tra các khâu giao nhận thực phẩm, sơ chế, chế biến, chia suất ăn. Với những trường có quy mô lớn, việc tổ chức bữa ăn cho hàng nghìn học sinh đòi hỏi khối lượng công việc lớn trong khi nhân lực giám sát có hạn."
+    },
+    {
+     "t": "p",
+     "text": "Nếu tổ chức ăn bán trú bằng suất ăn do doanh nghiệp cung cấp, nhà trường giảm được phần việc tổ chức nấu nướng nhưng lại phải kiểm soát chặt chẽ thực phẩm đầu vào và quá trình cung cấp."
+    },
+    {
+     "t": "p",
+     "text": "Theo hiệu trưởng này, suất ăn học sinh là một loại hàng hóa đặc biệt. Doanh nghiệp không thể chỉ dựa vào việc nhận thêm đơn hàng để tăng sản lượng mà phải tính toán được năng lực phục vụ thực tế."
+    },
+    {
+     "t": "p",
+     "text": "\"Để xảy ra những sự việc như vừa qua, có thể có những đơn vị cung cấp phục vụ vượt quá năng lực thực tế\", hiệu trưởng này nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông dẫn chứng, năng lực không đáp ứng nên doanh nghiệp mới dùng xe chở hàng để chở suất ăn hay không đủ nhân viên nấu, xe vận chuyển nên giao cơm đến trường chậm, muộn…"
+    },
+    {
+     "t": "p",
+     "text": "Điểm khác biệt trong tổ chức bữa ăn bán trú tại Hà Nội năm học này là việc lựa chọn đơn vị cung cấp thực phẩm, cung cấp suất ăn được giao cho UBND xã, phường. Hà Nội xây dựng quy trình 5 bước, trong đó doanh nghiệp gửi hồ sơ, xã, phường thẩm định thực tế, chấm điểm và lựa chọn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cách làm này khác với trước đây, khi nhà trường có quyền lựa chọn đơn vị cung cấp."
+    },
+    {
+     "t": "p",
+     "text": "Theo hiệu trưởng trên, các nhà cung cấp vẫn gửi hồ sơ năng lực để nhà trường nắm thông tin, nhưng việc thẩm định và phê duyệt danh sách thuộc UBND xã, phường."
+    },
+    {
+     "t": "p",
+     "text": "Về nguyên tắc, việc đưa thêm một cấp quản lý vào quá trình lựa chọn có thể giúp việc thẩm định chuyên nghiệp hơn. Hiệu trưởng này cho rằng giáo viên và cán bộ quản lý trường học chủ yếu có chuyên môn giáo dục, không phải chuyên gia thẩm định doanh nghiệp thực phẩm, do đó cần có cơ quan chuyên môn đủ sâu để đánh giá năng lực nhà cung cấp."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, cơ chế này cũng đặt ra yêu cầu phải thẩm định đúng năng lực thực tế của từng đơn vị, thay vì chỉ dựa vào hồ sơ pháp lý hoặc kinh nghiệm cung cấp suất ăn."
+    },
+    {
+     "t": "p",
+     "text": "Từ các sự cố xảy ra, hiệu trưởng này cho rằng cần rà soát năng lực nhà cung cấp thực phẩm bằng những con số và điều kiện cụ thể. Một doanh nghiệp có thể cung cấp bao nhiêu suất ăn, tương ứng với bao nhiêu nhân viên bếp, bao nhiêu phương tiện vận chuyển chuyên dụng? Nếu xe gặp sự cố, doanh nghiệp có phương án thay thế hay không?"
+    },
+    {
+     "t": "p",
+     "text": "Theo ông, những vấn đề này cần được làm rõ trước khi doanh nghiệp nhận thêm trường, thay vì chờ xảy ra sự cố mới tạm dừng và thay đổi đơn vị cung cấp."
+    },
+    {
+     "t": "h",
+     "text": "Khi sự cố xảy ra, nhà trường phải xử lý"
+    },
+    {
+     "t": "p",
+     "text": "Tại Trường Tiểu học Kim Bài, khi suất ăn được giao gần 13h, nhà trường và địa phương phải xử lý tình huống ngay trong ngày. Trao đổi với PV, đại diện Phòng Văn hóa - Xã hội xã Thanh Oai cho biết, trước đó địa phương đã thực hiện quy trình thẩm định hồ sơ, kiểm tra thực tế và lựa chọn đơn vị có điểm cao."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, ngay trong ngày đầu tiên vận hành, đơn vị cung cấp không thể giao suất ăn đúng giờ. Theo đại diện địa phương, phương tiện vận chuyển suất ăn theo quy định phải là xe chuyên dụng nhưng đơn vị cung cấp lại sử dụng xe chở hàng."
+    },
+    {
+     "t": "p",
+     "text": "Nhà trường lập biên bản, UBND xã cho dừng tổ chức ăn bán trú để tìm đơn vị cung cấp khác."
+    },
+    {
+     "t": "p",
+     "text": "Sự việc cho thấy, dù đơn vị đã được lựa chọn qua quy trình thẩm định, những bất cập trong quá trình vận hành vẫn có thể phát sinh ngay khi bắt đầu cung cấp suất ăn."
+    },
+    {
+     "t": "p",
+     "text": "Tại Trường Tiểu học Lê Trọng Tấn, câu chuyện lại đặt ra áp lực ở khâu giám sát thực phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Theo Phó Hiệu trưởng Đỗ Thị Phượng, trường có hơn 2.300 học sinh tại ba phân hiệu, trong đó khoảng 2.100 em đăng ký ăn bán trú. Công ty tổ chức nấu ăn tại phân hiệu chính, nhà trường phải giám sát các khâu giao nhận thực phẩm, sơ chế, chế biến, chia suất ăn và vận chuyển đến hai phân hiệu còn lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi phát hiện thịt gà, tôm có mùi và trả lại cho nhà cung cấp thực phẩm, nhà trường tăng cường phối hợp với phụ huynh và nhân viên để giám sát."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, theo bà Phượng, ở khâu giao nhận thực phẩm, nhà trường và phụ huynh chủ yếu có thể kiểm tra hồ sơ, quét mã truy xuất và đánh giá bằng cảm quan. Ngoài những việc này, trường không có chuyên môn hoặc phương tiện chuyên sâu để kiểm nghiệm thực phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Cũng theo bà Phượng, việc phải tập trung xử lý các vấn đề liên quan đến bán trú khiến cán bộ quản lý dành gần như toàn bộ thời gian trong nhiều ngày để giải quyết sự cố, ảnh hưởng đến việc tập trung cho chuyên môn."
+    },
+    {
+     "t": "p",
+     "text": "Quản lý nhà trường mong muốn thực phẩm cũng như năng lực của các đơn vị cung ứng được quản lý chặt chẽ, đồng thời có cơ chế xử lý nghiêm khi vi phạm, để bảo đảm an toàn bữa ăn bán trú và giúp giáo viên, cán bộ quản lý tập trung cho nhiệm vụ dạy học."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi liên tiếp xảy ra nhiều sự việc ở bữa ăn bán trú, Thành phố Hà Nội đã thành lập 4 đoàn kiểm tra liên ngành công tác tổ chức bữa ăn bán trú thực hiện kiểm tra công tác tổ chức bữa ăn bán trú cho học sinh tại các trường học từ 20/9/2026 đến 31/5/2027."
+    },
+    {
+     "t": "h",
+     "text": "Mang cơm tới trường cho con sau vụ phát hiện 'cánh gà chiên còn sống' trong suất ăn"
+    },
+    {
+     "t": "h",
+     "text": "Bữa ăn của hơn 2.000 học sinh sau vụ gà, tôm có mùi bất thường"
+    },
+    {
+     "t": "h",
+     "text": "Tôm, thịt gà 'có mùi bất thường': Phụ huynh lo chất lượng bữa ăn bán trú"
+    }
+   ],
+   "words": 1383,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "33e72e1929bd",
+   "url": "https://vietnamnet.vn/truc-tiep-tuyen-bong-chuyen-nu-viet-nam-vs-indonesia-11h-ngay-21-9-2557149.html",
+   "title": "Trực tiếp tuyển bóng chuyền nữ Việt Nam 0-2 Indonesia: Nỗ lực gỡ hòa",
+   "published": "2026-09-21T05:54:09+07:00",
+   "age_h": 7.1,
+   "source": "vietnamnet-the-thao",
+   "source_name": "VietnamNet",
+   "lang": "vi",
+   "hint_section": "the-thao-dep",
+   "image_src": null,
+   "sapo": "Trực tiếp bóng chuyền Việt Nam vs Indonesia, vòng tranh hạng 5-8 Asiad 2026, lúc 11h hôm nay (21/9).",
+   "author": "Đại Nam",
+   "images": [
+    {
+     "file": "33e72e1929bd-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/truc-tiep-tuyen-bong-chuyen-nu-viet-nam-0-1-indonesia-no-luc-go-hoa-1485.jpg?width=0&s=lW6qx3iwXnIiBHkLcKsvxg"
+    },
+    {
+     "file": "33e72e1929bd-0.jpg",
+     "caption": "Ảnh: Vietcontent",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images/000001/000003/2026/9/21/bong-chuyen-viet-nam-indonesia-3-1475.jpg?width=0&s=S7xCq-bo0ERxcUJawFihcg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau thất bại trước Trung Quốc tại vòng tứ kết Asiad 2026 , tuyển bóng chuyền nữ Việt Nam bước vào loạt trận phân hạng từ 5 đến 8, với đối thủ đầu tiên là Indonesia. Ở lần gặp nhau gần nhất tại chặng 2 SEA V Cup 2026, dù được đánh giá mạnh hơn và dẫn trước 2 set nhưng tuyển bóng chuyền nữ Việt Nam sau đó thua ngược 2-3."
+    },
+    {
+     "t": "p",
+     "text": "Tại Asiad 2026, Indonesia cũng không thể vào bán kết sau trận thua 0-3 trước Thái Lan. Tái đấu tuyển bóng chuyền nữ Việt Nam ở vòng tranh hạng 5-8, đội bóng xứ Vạn đảo hy vọng một lần nữa giành chiến thắng sau cuộc lội ngược dòng ngoạn mục ở SEA V Cup 2026."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, tuyển bóng chuyền nữ Việt Nam đang có sự quyết tâm rất cao. Với sự chuẩn bị kỹ về mọi mặt, Thanh Thúy và các đồng đội tự tin hướng tới chiến thắng."
+    },
+    {
+     "t": "p",
+     "text": "* Liên tục cập nhật..."
+    },
+    {
+     "t": "h",
+     "text": "13-19"
+    },
+    {
+     "t": "p",
+     "text": "Tuyển bóng chuyền nữ Việt Nam đang dần hết hy vọng gỡ hòa, nhiều khả năng sẽ phải nhận thất bại 0-3 trước Indonesia."
+    },
+    {
+     "t": "h",
+     "text": "7-11"
+    },
+    {
+     "t": "p",
+     "text": "Quỳnh Hương là điểm sáng trên hàng công của tuyển bóng chuyền nữ Việt Nam, nhưng điều quan trọng là hầu hết các vị trí còn lại đều chơi dưới sức."
+    },
+    {
+     "t": "h",
+     "text": "3-6"
+    },
+    {
+     "t": "p",
+     "text": "Các điểm yếu của tuyển bóng chuyền nữ Việt Nam đều được đối thủ khai thác ở trận đấu này."
+    },
+    {
+     "t": "h",
+     "text": "Set 3"
+    },
+    {
+     "t": "p",
+     "text": "Indonesia vượt lên dẫn 4-2."
+    },
+    {
+     "t": "h",
+     "text": "21-25"
+    },
+    {
+     "t": "p",
+     "text": "Bước 1 kém cùng tâm lý không tốt khiến tuyển bóng chuyền nữ Việt Nam một lần nữa thua Indonesia."
+    },
+    {
+     "t": "h",
+     "text": "20-20"
+    },
+    {
+     "t": "p",
+     "text": "Tuyển bóng chuyền nữ Việt Nam thi đấu rất nỗ lực, san bằng cách biệt trước Indonesia."
+    },
+    {
+     "t": "h",
+     "text": "16-19"
+    },
+    {
+     "t": "p",
+     "text": "Đoàn quân của HLV Nguyễn Tuấn Kiệt để đối thủ vượt lên ở thời điểm rất quan trọng của set đấu."
+    },
+    {
+     "t": "h",
+     "text": "10-10"
+    },
+    {
+     "t": "p",
+     "text": "Bích Thủy đập bóng ra ngoài. Indonesia đuổi kịp tỷ số trước tuyển bóng chuyền nữ Việt Nam."
+    },
+    {
+     "t": "h",
+     "text": "10-6"
+    },
+    {
+     "t": "p",
+     "text": "Bích Thủy với cú đập chính xác mang về điểm số cho tuyển bóng chuyền nữ Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "5-2"
+    },
+    {
+     "t": "p",
+     "text": "Việc khắc phục được điểm yếu bước 1 giúp tuyển bóng chuyền nữ Việt Nam triển khai tấn công hiệu quả hơn."
+    },
+    {
+     "t": "h",
+     "text": "Set 2"
+    },
+    {
+     "t": "p",
+     "text": "Sau set 1 thi đấu không tốt, các cô gái Việt Nam chơi khởi sắc hơn trong set 2."
+    },
+    {
+     "t": "h",
+     "text": "20-25"
+    },
+    {
+     "t": "p",
+     "text": "Cú đập bóng dọc biên giúp Indonesia chiến thắng trong set đấu đầu tiên."
+    },
+    {
+     "t": "h",
+     "text": "11-15"
+    },
+    {
+     "t": "p",
+     "text": "Các cô gái Việt Nam gặp vấn đề ở cả phòng ngự lẫn tấn công. Ngay cả tay đập chủ lực Trần Thị Thanh Thúy cũng không có được phong độ tốt nhất, thường xuyên mắc sai lầm."
+    },
+    {
+     "t": "h",
+     "text": "Set 1"
+    },
+    {
+     "t": "p",
+     "text": "Tuyển bóng chuyền nữ Việt Nam khởi đầu không tốt khi để Indonesia ghi liền 4 điểm vượt lên dẫn trước."
+    },
+    {
+     "t": "h",
+     "text": "10h37"
+    },
+    {
+     "t": "p",
+     "text": "Tuyển bóng chuyền nữ Việt Nam vừa trải qua 2 trận thua liên tiếp trước Hàn Quốc (vòng bảng) và Trung Quốc (tứ kết). Thầy trò HLV Nguyễn Tuấn Kiệt quyết tâm giành chiến thắng khi đối đầu với Indonesia ở vòng tranh hạng 5-8."
+    },
+    {
+     "t": "h",
+     "text": "10h08"
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải là lần đầu tuyển bóng chuyền nữ Việt Nam gặp khó khăn trong quá trình di chuyển tại Asiad. Các cô gái Việt Nam sẽ bước vào trận đấu với Indonesia muộn hơn dự kiến 30 phút."
+    },
+    {
+     "t": "h",
+     "text": "10h00"
+    },
+    {
+     "t": "p",
+     "text": "Trận đấu giữa tuyển bóng chuyền nữ Việt Nam vs Indonesia bắt đầu muộn hơn 30 phút so với lịch thi đấu dự kiến do sự cố di chuyển. Tuyển bóng chuyền nữ Việt Nam ở cách nơi thi đấu khoảng 50km nhưng xe của BTC tới muộn 1 tiếng đồng hồ nên không kịp tới nhà thi đấu."
+    }
+   ],
+   "words": 619,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "ffc7b87ebd4b",
+   "url": "https://vnexpress.net/ngoi-sao-ban-dan-trung-quoc-san-xuat-hang-loat-dram-the-he-5-5122672.html",
+   "title": "'Ngôi sao bán dẫn Trung Quốc' sản xuất hàng loạt DRAM thế hệ 5",
+   "published": "2026-09-21T04:14:16+07:00",
+   "age_h": 8.8,
+   "source": "vnexpress-khoa-hoc",
+   "source_name": "VnExpress",
+   "lang": "vi",
+   "hint_section": "kham-pha-khoa-hoc",
+   "image_src": "https://i1-vnexpress.vnecdn.net/2026/09/21/20251028105342570-1789960244-9260-1789960310.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VqZHZcHhiwodGLOzZwSaQw",
+   "sapo": "CXMT tuyên bố đã \"thu hẹp khoảng cách\" với những nhà sản xuất chip nhớ DRAM hàng đầu thế giới khi ra mắt hai mẫu LPDDR5X.",
+   "author": "Bảo Lâm - Huy Đức",
+   "images": [
+    {
+     "file": "ffc7b87ebd4b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675,
+     "src_url": "https://i2-vnexpress.vnecdn.net/2026/09/21/20251028105342570-1789960244-9260-1789960310.png?w=1200&h=675&q=100&dpr=1&fit=crop&s=0oxe81X6rrU7fZAONwBMjg"
+    },
+    {
+     "file": "ffc7b87ebd4b-0.jpg",
+     "caption": "Đồ họa chip LPDDR5X của CXMT. Ảnh: CXMT",
+     "w": 1020,
+     "h": 571,
+     "src_url": "https://i1-vnexpress.vnecdn.net/2026/09/21/20251028105342570-1789960219-2276-1789960310.png?w=1020&h=0&q=100&dpr=1&fit=crop&s=7wzZ0efQsJaoHJJ9e4PPZQ"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "CXMT tuyên bố đã \"thu hẹp khoảng cách\" với những nhà sản xuất chip nhớ DRAM hàng đầu thế giới khi ra mắt hai mẫu LPDDR5X."
+    },
+    {
+     "t": "p",
+     "text": "\"Năng lực của chúng tôi hiện ngang bằng với các công nghệ sản xuất hàng loạt tiên tiến nhất trong ngành,\" Luo Xiaodong, Phó chủ tịch kiêm Giám đốc tiếp thị của CXMT, phát biểu tại sự kiện World Manufacturing Convention 2026 ở Hợp Phì ngày 20/9."
+    },
+    {
+     "t": "p",
+     "text": "CXMT cho biết đã tạo nền tảng công nghệ thế hệ thứ năm cho sản xuất DRAM, có tên G5. Hệ thống đạt \"bước nhảy vọt\" về mật độ lưu trữ bằng cách giúp bố trí các cấu trúc nhỏ lưu trữ dữ liệu gần nhau hơn, cho phép tích hợp nhiều bộ nhớ hơn trên mỗi chip và tạo ra nhiều chip riêng lẻ hơn từ mỗi tấm silicon. Cách này giúp số lượng chip được sản xuất trên mỗi tấm wafer tăng ít nhất 50% so với thế hệ trước, trong khi vẫn duy trì hiệu quả năng lượng và kiểm soát chi phí tốt hơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo SCMP , các nhà sản xuất DRAM hàng đầu như Samsung hay SK Hynix sử dụng công nghệ xử lý 10 nm. Trong khi đó, CXMT nói đã đạt đến ngưỡng 11,95 nm bằng công nghệ \"phơi sáng bốn lớp\" tự phát triển, đưa họ gần mức độ của \"các nền tảng bộ nhớ sản xuất hàng loạt tiên tiến nhất thế giới\"."
+    },
+    {
+     "t": "p",
+     "text": "Để phát triển G5, CXMT sử dụng mô phỏng máy tính và hợp tác với các nhà sản xuất thiết bị chip Trung Quốc khác trong những bước sản xuất quan trọng cho nền tảng, nhưng không nêu tên cụ thể. Có hai kiểu đóng gói khác nhau phù hợp với điện thoại và máy tính bảng, cùng kiểu còn lại cho thiết bị điện tử khác."
+    },
+    {
+     "t": "p",
+     "text": "Công ty trình làng hai mẫu LPDDR5X 24 gigabit được sản xuất trên nền tảng G5 với tốc độ cao, hiệu suất ổn định cùng mức tiêu thụ điện năng thấp. Theo hãng bán dẫn Trung Quốc, sản phẩm \"đáp ứng nhu cầu của điện thoại thông minh tầm trung đến cao cấp và thiết bị điện tử tiêu dùng\", đồng thời cam kết \"tiếp tục cải tiến công nghệ để đáp ứng nhu cầu thị trường toàn cầu\" trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Một số thiết bị di động Trung Quốc đã tích hợp DRAM LPDDR5X, chẳng hạn smartphone NaviX Ultra của Nubia. Hai hãng khác là Xiaomi và Transsion cũng nằm trong số những khách hàng chuẩn bị sử dụng dòng LPDDR5X của CXMT."
+    },
+    {
+     "t": "p",
+     "text": "CXMT thành lập năm 2016 tại thành phố Hợp Phì thuộc tỉnh An Huy, tên gọi ban đầu là Innotron. Doanh nghiệp ra đời cùng năm với Fujian Jinhua Integrated Circuit (JHICC) và Xi'an UniIC Semiconductors, hai trong số những nhà máy bán dẫn lớn của Trung Quốc, đặt mục tiêu cạnh tranh với các nhà sản xuất bộ nhớ máy tính toàn cầu."
+    },
+    {
+     "t": "p",
+     "text": "CXMT hiện là nhà sản xuất chip nhớ DRAM lớn thứ tư thế giới, sau Samsung Electronics, SK Hynix và Micron Technology. Theo dữ liệu từ TrendForce vào đầu tháng 9, thị phần doanh thu DRAM toàn cầu của CXMT đạt 9,5% trong quý II/2026, tăng từ mức 7,6% trong quý I/2026. Samsung dẫn đầu với thị phần 39,4%, tiếp theo là SK Hynix với 24,9% và Micron Technology với 23,3%."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian gần đây, CXMT liên tục đạt bước tiến về chip nhớ. Cuối tháng trước, công ty cho biết đã phát triển thành công LPDDR6 (trang bị trên mẫu điện thoại Xiaomi 18 Fold) hay bộ nhớ băng thông cao tiên tiến HBM3E sử dụng trong hệ thống chip AI."
+    },
+    {
+     "t": "p",
+     "text": "WSJ đánh giá CXMT là \"ngôi sao sáng\" trong danh sách công ty bán dẫn Trung Quốc, với kỳ vọng giúp nâng cao vị thế tự chủ trong cuộc đua với Mỹ. Theo Reuters , loạt bước tiến của CXMT diễn ra trong bối cảnh Bắc Kinh tìm cách giảm sự phụ thuộc vào công nghệ bán dẫn nước ngoài và các biện pháp kiểm soát xuất khẩu của Mỹ kể từ năm 2022."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, một số tài liệu gần đây cho thấy công ty Trung Quốc cố gắng đánh cắp bí mật của đối thủ. Theo nhật báo NoCut News của Hàn Quốc, CXMT được cho là đã lập kế hoạch nhiều năm để lấy được công nghệ và nhân lực từ Samsung nhằm đẩy nhanh quá trình sản xuất DRAM."
+    },
+    {
+     "t": "p",
+     "text": "Bảo Lâm - Huy Đức tổng hợp"
+    }
+   ],
+   "words": 762,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "35315e0871f8",
+   "url": "https://thanhnien.vn/nguoi-cuu-chien-binh-2-lan-hien-dat-mo-duong-185260829151054439.htm",
+   "title": "Người cựu chiến binh 2 lần hiến đất mở đường",
+   "published": "2026-09-21T02:00:00+07:00",
+   "age_h": 11.0,
+   "source": "thanhnien-van-hoa",
+   "source_name": "Thanh Niên",
+   "lang": "vi",
+   "hint_section": "sang-tao-kien-truc",
+   "image_src": null,
+   "sapo": "Sau gần 40 năm khoác áo bộ đội biên phòng, cựu chiến binh, đảng viên Nguyễn Công Tân tiếp tục có 8 năm góp sức xây dựng nông thôn mới, giảm nghèo ở địa phương trên cương vị Chủ tịch Hội Cựu chiến binh xã Lương Phong.",
+   "author": "thanhnien.vn",
+   "images": [
+    {
+     "file": "35315e0871f8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/8/29/anh-3-17879906717032021946762-261-35-745-960-crop-17879908812021020908418.jpg"
+    },
+    {
+     "file": "35315e0871f8-0.jpg",
+     "caption": "Ông Tân tặng quà một cựu chiến binh",
+     "w": 960,
+     "h": 960,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/8/29/anh-3-17879906717032021946762.jpg"
+    },
+    {
+     "file": "35315e0871f8-1.jpg",
+     "caption": "Đoạn đường chạy qua nhà ông Tân được ông Tân hiến đất mở đường",
+     "w": 1280,
+     "h": 960,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/8/29/anh-1-17879906716231645278794.jpg"
+    },
+    {
+     "file": "35315e0871f8-2.jpg",
+     "caption": "Ông Tân tặng quà và hỏi thăm người cao tuổi trong thôn",
+     "w": 1280,
+     "h": 720,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/8/29/anh-2-17879906716751644080216.jpg"
+    },
+    {
+     "file": "35315e0871f8-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 307,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/8/28/chantrangtaitro-02-1787888272290965362686.jpg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Người thương binh cần mẫn"
+    },
+    {
+     "t": "p",
+     "text": "Về thôn Vân An, xã Hiệp Hòa (Bắc Ninh), hỏi cựu chiến binh Nguyễn Công Tân, hầu như ai cũng biết. Gần 40 năm trong quân ngũ, ông ít có thời gian ở quê, nhưng sau khi nghỉ hưu, ông lại dành hơn chục năm góp sức cho quê hương, từ vận động xây dựng nông thôn mới , giúp hội viên giảm nghèo đến hiến đất mở đường."
+    },
+    {
+     "t": "p",
+     "text": "Ông Tân sinh năm 1957, từng xung phong nhập ngũ khi chưa đủ tuổi. Gần 40 năm phục vụ trong bộ đội biên phòng, ông lần lượt đóng quân ở Lạng Sơn, Cao Bằng, trực tiếp tham gia chiến tranh biên giới phía bắc và bị thương, tỷ lệ thương tật 17%. Năm 1980, ông được kết nạp Đảng. Tháng 12.2012, ông nghỉ hưu với quân hàm thượng tá."
+    },
+    {
+     "t": "p",
+     "text": "Trở về địa phương, ông được tín nhiệm làm Phó bí thư Chi bộ, Trưởng ban Công tác Mặt trận thôn Vân An, rồi Chủ tịch Hội Cựu chiến binh xã Lương Phong (trước sáp nhập) từ năm 2017 đến tháng 6.2025."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian này, ông cùng hội viên triển khai nhiều hoạt động thiết thực, từ chăm lo đời sống đồng đội đến xây dựng nông thôn mới, giữ gìn an ninh trật tự và giáo dục truyền thống cho thế hệ trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trong dịch Covid-19, dù tuổi đã cao, ông vẫn đi vận động hội viên, người dân và các nhà hảo tâm quyên góp khoảng 395 triệu đồng hỗ trợ những gia đình khó khăn. Riêng gia đình ông đóng góp 53 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Với mong muốn truyền lại những câu chuyện lịch sử cho thế hệ trẻ, ông phối hợp với Đoàn thanh niên và các trường học thành lập Đội Tuyên truyền giáo dục \"Tiếp lửa truyền thống anh hùng\". Vào các dịp lễ lớn, ông cùng hội viên đến trường kể chuyện về lịch sử dân tộc, những hy sinh trong các cuộc kháng chiến và cuộc đời Chủ tịch Hồ Chí Minh. Hoạt động đã thu hút hơn 20.000 lượt học sinh tham gia."
+    },
+    {
+     "t": "p",
+     "text": "Không thành thạo công nghệ, ông vẫn tự học để tham gia các nhóm tìm kiếm thông tin liệt sĩ trên mạng xã hội. Từ những thông tin ông và các thành viên tìm được, 4 hài cốt liệt sĩ đã được đưa về quê hương."
+    },
+    {
+     "t": "h",
+     "text": "Hai lần hiến đất mở đường"
+    },
+    {
+     "t": "p",
+     "text": "Một trong những việc khiến người dân nhớ đến ông Tân là câu chuyện hiến đất mở đường."
+    },
+    {
+     "t": "p",
+     "text": "Khi địa phương triển khai mở rộng đường giao thông, giải phóng mặt bằng trở thành vấn đề khó bởi liên quan trực tiếp đến đất đai và công trình của từng gia đình. Với vai trò Chủ tịch Hội Cựu chiến binh xã, ông Tân vận động hội viên thực hiện \"Ba hiến\": hiến đất, hiến công lao động và hiến của cải; đồng thời vận động người dân tự tháo dỡ công trình để bàn giao mặt bằng."
+    },
+    {
+     "t": "p",
+     "text": "Gia đình ông là một trong những hộ đi đầu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Lần đầu, gia đình ông hiến 130 m² đất để xây dựng cống thoát nước. Sau đó, ông tiếp tục hiến 120 m² đất để mở rộng tuyến đường lên 11 m. Tổng giá trị đất gia đình ông hiến ước tính hơn 2 tỉ đồng."
+    },
+    {
+     "t": "p",
+     "text": "Từ sự gương mẫu của gia đình ông, phong trào hiến đất lan rộng trong hội viên Hội Cựu chiến binh. Tổng diện tích đất hội viên đã hiến để làm đường giao thông lên hơn 20.000 m²."
+    },
+    {
+     "t": "p",
+     "text": "Thương binh Trương Cửu Long, người cùng thôn, kể ban đầu gia đình ông không đồng ý vì căn nhà mới xây phải tháo dỡ một phần để lùi đất mở đường. Sau khi được ông Tân và Hội Cựu chiến binh vận động, thấy nhiều hội viên đi trước tự nguyện hiến đất, tháo dỡ công trình, gia đình ông đã đồng thuận."
+    },
+    {
+     "t": "p",
+     "text": "\"Đất thì không tiếc, nhưng công trình vừa xây xong phải tháo dỡ nên lúc đầu gia đình tôi rất đắn đo. Sau thấy mọi người cùng làm, mình cũng phải góp sức\", ông Long chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ vận động hiến đất, ông Tân cùng tập thể Hội Cựu chiến binh xây dựng mô hình \"Bao xi măng CCB\", vận động hội viên đóng góp gần 300 triệu đồng cho xây dựng nông thôn mới, hỗ trợ cựu chiến binh có hoàn cảnh khó khăn xóa nhà tạm, nhà dột."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình \"Giúp nhau giảm nghèo, làm kinh tế giỏi\" cũng được triển khai, nhân rộng các điển hình sản xuất, kinh doanh, tạo việc làm ổn định cho gần 500 lao động với thu nhập từ 7 - 25 triệu đồng/tháng. Qua đó, tỷ lệ hội viên nghèo, cận nghèo giảm từ 2,5% xuống dưới 0,2%."
+    },
+    {
+     "t": "p",
+     "text": "Anh Hà Văn Tám, hội viên Hội Cựu chiến binh xã, cho biết ông Tân thường xuyên đến thăm hỏi, động viên hội viên sản xuất, kinh doanh."
+    },
+    {
+     "t": "p",
+     "text": "\"Ông Tân rất quan tâm đến anh em làm kinh tế, thường xuyên động viên chúng tôi lao động, sản xuất, vươn lên\", anh Tám nói."
+    },
+    {
+     "t": "p",
+     "text": "Từ một xưởng mộc nhỏ, cơ sở của anh Tám hiện đạt doanh thu hơn 1 tỉ đồng/năm, tạo việc làm cho gần 30 lao động tại địa phương, trong đó có một số hội viên Hội Cựu chiến binh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Góp sức giữ bình yên quê nhà"
+    },
+    {
+     "t": "p",
+     "text": "Từ những việc lớn đến những công việc gần với đời sống hằng ngày, ông Tân đều chọn cách bắt đầu bằng vận động, thuyết phục."
+    },
+    {
+     "t": "p",
+     "text": "Nhận thấy nhiều tuyến đường trong xã chưa có đèn chiếu sáng, ông vận động hội viên và các nhà hảo tâm triển khai mô hình \"Thắp sáng đường quê\". Từ 2 thôn Sơn Quả và Từ với 43 bóng đèn trên 1,2 km đường làng, mô hình được nhân rộng. Riêng tại thôn Vân An và các thôn khác, ông vận động hơn 1 tỉ đồng để lắp đặt hệ thống chiếu sáng do Hội Cựu chiến binh tự quản."
+    },
+    {
+     "t": "p",
+     "text": "Hội còn xây dựng 13 đoạn \"Đường CCB tự quản\", 4 đoạn \"Đường cây CCB\" với 1.862 cây xanh; phối hợp với Công an xã thành lập 13 tổ an ninh trật tự do cựu chiến binh tham gia tự quản."
+    },
+    {
+     "t": "p",
+     "text": "Trong công tác giữ gìn an ninh trật tự, ông trực tiếp vận động người dân giao nộp 127 viên đạn, 1 súng tự chế và 1 quả lựu đạn cấp 5; vận động lắp đặt camera an ninh tại 42 điểm trọng yếu, góp phần hỗ trợ lực lượng chức năng xử lý các vụ việc trên địa bàn."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài công tác Hội, ông Tân còn được bầu làm Hội thẩm nhân dân, tham gia hòa giải ở cơ sở. Đến nay, ông đã tham gia hòa giải thành công 24 vụ và xét xử gần 100 vụ án tại Tòa án nhân dân huyện Hiệp Hòa trước đây."
+    },
+    {
+     "t": "h",
+     "text": "Hết lòng với đồng đội, quê hương"
+    },
+    {
+     "t": "p",
+     "text": "Điều ông Tân nhắc nhiều không phải những phần việc mình đã làm, mà là sự chung sức của hội viên và người dân."
+    },
+    {
+     "t": "p",
+     "text": "Trong khoảng 10 năm, ông cùng Hội Cựu chiến binh vận động xã hội hóa Quỹ \"Nghĩa tình cựu chiến binh\" hơn 200 triệu đồng; vận động Công ty Tân cảng hỗ trợ xây 5 nhà tình nghĩa, tổng trị giá gần 400 triệu đồng; đồng thời vận động xây dựng nhà vòm cho Trường mầm non Lương Phong số 2 trị giá 120 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Từ người lính biên phòng trở về quê, ông Tân tiếp tục làm những công việc không còn gắn với quân hàm hay chức vụ. Đó là vận động một gia đình lùi hàng rào để mở đường, tìm thông tin đưa đồng đội đã hy sinh về quê, giúp một hội viên có sinh kế hay góp một phần kinh phí để thắp sáng con đường làng."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ chính từ những việc cụ thể ấy mà ở Vân An, nhắc đến ông Tân, người dân không chỉ nhớ một người thương binh, một cựu chiến binh , mà còn nhớ một người luôn sẵn lòng góp sức cho việc chung."
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ],
+   "words": 1549,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "a404c9c25d60",
+   "url": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
+   "title": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
+   "published": "2026-09-16T13:43:20+07:00",
+   "age_h": 119.3,
+   "source": "smithsonian",
+   "source_name": "Smithsonian",
+   "lang": "en",
+   "hint_section": "the-gioi-dong-vat",
+   "image_src": "https://th-thumbnailer.cdn-si-edu.com/PXxjXVAbxePFCbMo70I_7XX0d6E=/420x240/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c4/14c43964-f878-4613-99bf-1c76046c3dca/15813162892_742f224e67_o.jpg",
+   "sapo": "Lake sturgeon may be among the longest-living vertebrates, second only to Greenland sharks, according to recent research. However, scientists note that follow-up work is necessary to clarify the species’ lifespan",
+   "author": "Sahas Mehra",
+   "images": [
+    {
+     "file": "a404c9c25d60-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 768,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/GAXt4NaBV-SrgCOzQ8-OgCZGCUA=/fit-in/1600x0/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c4/14c43964-f878-4613-99bf-1c76046c3dca/15813162892_742f224e67_o.jpg"
+    },
+    {
+     "file": "a404c9c25d60-0.jpg",
+     "caption": "Lake sturgeon—massive and long-living fish in the Great Lakes—may survive to much older ages than scientists previously thought, according to a recent study. Here, a juvenile lake sturgeon is captured during a fisheries assessment in the St. Clair-Detroit River System. James Boase / USFWS via Flickr",
+     "w": 1000,
+     "h": 750,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/AP09xjvq9L2H0z7MY_4tBlEJta4=/1000x750/filters:no_upscale():focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/c4/14c43964-f878-4613-99bf-1c76046c3dca/15813162892_742f224e67_o.jpg"
+    },
+    {
+     "file": "a404c9c25d60-1.jpg",
+     "caption": "Fisheries biologists Mark Luehring and Josh Schloesser pose with a 74-pound adult lake sturgeon in the Bad River in northern Wisconsin. USFWS",
+     "w": 1072,
+     "h": 802,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/CtDQWuDOp7ehdC4g1E0OCByBxd0=/fit-in/1072x0/filters:focal(1144x861:1145x862)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e1/ca/e1ca6555-04ef-41da-9038-21fad35069da/usfws-biologists-74-pound-lake-sturgeon.jpeg"
+    },
+    {
+     "file": "a404c9c25d60-2.jpg",
+     "caption": "Researchers measure the length of a lake sturgeon, which was key to understanding their annual growth rates and life span. Michigan Department of Natural Resources",
+     "w": 1072,
+     "h": 804,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/qMxuAlTysSQi_Iv7wNednmh3YJs=/fit-in/1072x0/filters:focal(816x614:817x615)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/c3/eec32d95-1b7c-4723-983e-be1c22440651/dsc08451.jpg"
+    },
+    {
+     "file": "a404c9c25d60-3.jpg",
+     "caption": "Researchers use long-handled dip nets to capture a lake sturgeon. It was released after the analysis. Michigan Department of Natural Resources",
+     "w": 1072,
+     "h": 804,
+     "src_url": "https://th-thumbnailer.cdn-si-edu.com/QyRnI8cyA16saQaCL6MjcnJ_Ft4=/fit-in/1072x0/filters:focal(816x614:817x615)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/ce/4fceee1b-9419-4ed6-bf6b-ec6dc1dd711d/dsc08458.jpg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "In the early 17th century, a refined version of the first telescope spotted some moons of the planet Jupiter , which is up to 54 light-minutes away. Horse riding was the fastest mode of land transportation, and smallpox ran rampant . Now, 400 years later, we have spotted a galaxy that is 13.5 billion light-years away . The fastest crewed train in the world has touched a speed of 375 miles per hour . We’ve completely eradicated smallpox ."
+    },
+    {
+     "t": "p",
+     "text": "And some fish in the Great Lakes may have been alive this entire time."
+    },
+    {
+     "t": "p",
+     "text": "Research published this year in the Journal of Fish Biology suggests lake sturgeon ( Acipenser fulvescens ) have remarkable life spans. The study concludes that males may live up to 435 years, possibly more, which is nearly three times the age of the previously known oldest lake sturgeon. Still, the authors note the need for further research to confirm the findings."
+    },
+    {
+     "t": "p",
+     "text": "“All sturgeon species now need to be reassessed for their age because of this paper,” says ichthyologist Prosanta Chakrabarty from Louisiana State University, who was not involved in the research."
+    },
+    {
+     "t": "p",
+     "text": "Lake sturgeon are cartilaginous fish whose ancestors existed among dinosaurs 200 million years ago . Today, they’re the largest fish in the Great Lakes, typically reaching four to six feet long and weighing 30 to 80 pounds. Their average life span, according to existing research, is 50 to 100 years. A 154-year-old sturgeon caught on the border of Minnesota and Canada in 1953 was previously considered the oldest ever."
+    },
+    {
+     "t": "p",
+     "text": "But accurately estimating the life spans of wild fish isn’t easy. Each dark ring on a fish’s scales, or on the pectoral fin spines of non-scaly fish such as sturgeons , represents a year of the animal’s life. Counting these rings, or annuli, can estimate the ages of fast-growing and relatively young fish, says study co-author Edward Baker , a fisheries researcher at the Michigan Department of Natural Resources. However, in long-lived and slow-growing sturgeons, the annuli eventually begin to form close together and become indistinguishable—or they don’t form at all."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "For this study, Baker and his colleagues used a different aging technique. They analyzed data on thousands of lake sturgeon that they had collected, working with natural resource agencies and universities, from 1980 to 2024. They monitored sturgeon populations in five waterways around the Upper Great Lakes: Black Lake, the Sturgeon River, the Menominee River, the St. Clair River and Lake Winnebago."
+    },
+    {
+     "t": "p",
+     "text": "Over those 44 years, they captured sturgeon, identified their sex, measured their length and injected tags just under their skin, then released the fish back into the water. If they ever caught a fish that had already been tagged, they would re-measure and re-release it, creating a record of the change in its size over time."
+    },
+    {
+     "t": "p",
+     "text": "Baker explains that veterinarians use the same type of transponder tags to identify cats and dogs . They contain a 15-digit number unique to the fish and have a nearly 100 percent retention rate, which allowed scientists to reliably identify the sturgeon they encountered, even as long as 42 years after they had last been captured."
+    },
+    {
+     "t": "p",
+     "text": "With this record, known as capture-mark-recapture data, Baker and his colleagues calculated the average annual growth rates for each waterway’s lake sturgeon population. To do so, they measured the difference between a sturgeon’s length when it was most recently recaptured and when it was first captured, then divided that number by the years in the interval between."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sturgeon growth rates vary, as females typically grow more than males, and food availability influences fish growth. For example, sturgeon in the Black River grew less than 40 percent as much per year as those in the St. Clair River. In their age calculations, the team took into account the growth rate differences between sturgeon sexes and populations and considered that annual growth rates decline in fish as they grow older."
+    },
+    {
+     "t": "p",
+     "text": "They developed an equation to estimate how old a 5-foot-3-inch-long male sturgeon and 5-foot-11-inch female sturgeon would be—the approximate maximum lengths of lake sturgeon across the populations—to predict the longevity of these fish."
+    },
+    {
+     "t": "p",
+     "text": "Male sturgeon of that size, they found, would have a median age range of 87 to 215 years, and that range was 90 to 248 years for the females. However, some even larger fish in the data set had predicted median ages that went up to 435 and 292 years for males and females, respectively. “The age estimates for the largest fish we’ve caught from each population don’t necessarily represent the maximum age the fish could possibly reach,” Baker says. Larger and older males and females may be out there, he adds, and both sexes may reach similar maximum ages."
+    },
+    {
+     "t": "p",
+     "text": "The study indicates that lake sturgeon can live nearly as long as marine-dwelling Greenland sharks , which are the longest-living vertebrates, and twice as long as rougheye rockfish , which are known to reach old ages. Lake sturgeon, per the new findings, may be the longest-living freshwater fish, although Baker notes that other sturgeon species might have similarly long lives."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Spending time in torpor, which the fish do during winter, may prolong sturgeon longevity, the team suggests. In this state, animals reduce their physiological functions, like metabolism, heart rate, respiration rate and body temperature, to conserve energy, which increases their life span ."
+    },
+    {
+     "t": "p",
+     "text": "Chakrabarty says the method used to date the lake sturgeon has been in practice for a long time, but he calls it “a little more quaint than radiocarbon dating,” which is what scientists used to identify the Greenland shark’s life span a decade ago. The annual growth increments used in this study, meanwhile, are “kind of like measuring your kids’ height over time on a wall and predicting how tall they will be when they stop growing,” he adds."
+    },
+    {
+     "t": "p",
+     "text": "The authors note in the paper that capture-mark-recapture data, like what was used for this study, predicted that Greenland sharks may be among the oldest fish before radiocarbon dating verified it. “We would like to try radiocarbon dating as a way to verify our age ranges and have reached out to the authors of the work done with the Greenland shark,” says Baker, noting that they are still awaiting a response."
+    },
+    {
+     "t": "p",
+     "text": "Chakrabarty wonders what the maximum possible age of lake sturgeon could be, especially for old, giant individuals that lived around 80 years before fishing pressure stunted them. He remains cautious about the findings, however, and says he would consider labeling these sturgeon as the oldest vertebrates only after further testing is done."
+    },
+    {
+     "t": "p",
+     "text": "“This should be just the start of more investigations and verification of age estimates for species like lake sturgeon,” says restoration ecologist Stephanie Ogren , vice president of science and education at the Grand Rapids Public Museum, who was not associated with the study. She says that funding for research into these threatened populations is necessary to manage them."
+    },
+    {
+     "t": "p",
+     "text": "The research helps predict the growth and survival success of sturgeon, which could improve conservation efforts for this vulnerable species. In the late 19th century, 15 million lake sturgeon inhabited the Great Lakes . But their population has now been reduced to less than 1 percent of that estimate. Baker says that “unregulated harvest is what led to the decline in lake sturgeon populations in the early 1900s.”"
+    },
+    {
+     "t": "p",
+     "text": "Lake sturgeon take one of the longest times among freshwater fishes to attain sexual maturity. Females typically lay eggs after 20 to 25 years of age and may spawn once about every four to nine years , so their populations may decline rapidly and take a long time to recover. The new study indicates that the population turnover of this threatened species is slower than expected, as some sturgeon still lurking in these waters may have survived mass slaughtering and exploitative fishing centuries ago."
+    },
+    {
+     "t": "p",
+     "text": "This calls for maintaining strict harvest limits for lake sturgeon and making adjustments to conservation plans that reflect their slow recovery, experts say. “We need to protect the species from harvest,” says Baker, or at least “be very restrictive in how much harvest is allowed, to give populations the opportunity to recover.”"
+    },
+    {
+     "t": "h",
+     "text": "Get the latest Science stories in your inbox."
+    }
+   ],
+   "words": 1355,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "86c31e8b13e7",
+   "url": "https://thanhnien.vn/ban-bi-thu-tu-doan-cong-bo-quyet-dinh-ve-cong-tac-can-bo-185260921124145893.htm",
+   "title": "Ban Bí thư T.Ư Đoàn công bố quyết định về công tác cán bộ",
+   "published": "2026-09-21T05:51:00+07:00",
+   "age_h": 7.2,
+   "source": "thanhnien-gioi-tre",
+   "source_name": "Thanh Niên",
+   "lang": "vi",
+   "hint_section": "guong-sang",
+   "image_src": null,
+   "sapo": "Theo quyết định, chị Lê Hồng Nhung, Phó trưởng ban Đối ngoại nhân dân, Cơ quan Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam, được điều động, bổ nhiệm làm Phó trưởng ban Công tác thanh thiếu nhi.",
+   "author": "thanhnien.vn",
+   "images": [
+    {
+     "file": "86c31e8b13e7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/9/21/anh1-17899693945361235603948-0-0-936-1498-crop-1789969406140883323366.jpg"
+    },
+    {
+     "file": "86c31e8b13e7-0.jpg",
+     "caption": "Anh Nguyễn Kim Quy trao quyết định và tặng hoa chúc mừng chị Lê Hồng Nhung",
+     "w": 1280,
+     "h": 783,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/21/anh1-178996898531659865955.jpg"
+    },
+    {
+     "file": "86c31e8b13e7-1.jpg",
+     "caption": "Anh Nguyễn Kim Quy và các cán bộ chủ chốt Ban Công tác thanh thiếu nhi chúc mừng chị Lê Hồng Nhung",
+     "w": 1280,
+     "h": 814,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/21/anh2-1789969055223703107489.jpg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 21.9, tại Hà Nội, T.Ư Đoàn tổ chức công bố, trao quyết định của Ban Thường trực Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam về điều động, bổ nhiệm công chức giữ chức vụ lãnh đạo quản lý."
+    },
+    {
+     "t": "p",
+     "text": "Dự chương trình có anh Nguyễn Kim Quy, Bí thư T.Ư Đoàn, Chủ tịch T.Ư Hội Liên hiệp thanh niên Việt Nam; anh Lê Hải Long, Ủy viên Ban Thường vụ T.Ư Đoàn, Trưởng ban Công tác thanh thiếu nhi, Phó chủ tịch thường trực T.Ư Hội Liên hiệp thanh niên Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Theo quyết định, chị Lê Hồng Nhung, Phó trưởng ban Đối ngoại nhân dân, Cơ quan Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam, được điều động, bổ nhiệm làm Phó trưởng ban Công tác thanh thiếu nhi. Thời hạn bổ nhiệm theo quyết định là 5 năm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Phát biểu nhận nhiệm vụ, chị Lê Hồng Nhung bày tỏ sự cảm ơn Ban Bí thư T.Ư Đoàn đã tin tưởng, giao nhiệm vụ và tạo điều kiện để chị được tiếp tục trở lại công tác tại T.Ư Đoàn, trong lĩnh vực đã có nhiều năm gắn bó và dành nhiều tâm huyết."
+    },
+    {
+     "t": "p",
+     "text": "\"Đối với cá nhân tôi, đây cũng là một dấu mốc rất đặc biệt. Tôi đã có thời gian công tác tại T.Ư Đoàn từ năm 2008, gắn bó với công tác Đoàn, đặc biệt là lĩnh vực đối ngoại và hợp tác quốc tế thanh niên 17 năm."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, trong quá trình sắp xếp, kiện toàn tổ chức bộ máy, tôi được phân công chuyển sang công tác tại Ban Đối ngoại nhân dân, Cơ quan Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam. Đây là một trải nghiệm rất quý báu, giúp tôi có thêm góc nhìn và kinh nghiệm trong công tác đối ngoại nhân dân\", chị Lê Hồng Nhung chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo chị Lê Hồng Nhung, được trở về công tác tại T.Ư Đoàn và tiếp tục được phân công trong lĩnh vực đối ngoại thanh niên, chị rất trân trọng cơ hội này. Đồng thời chị xác định đây vừa là niềm vinh dự, vừa là trách nhiệm để tiếp tục đóng góp những kinh nghiệm mình đã tích lũy trong thời gian qua cho công tác Đoàn và phong trào thanh thiếu nhi."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi xin hứa sẽ không ngừng học hỏi, nỗ lực, chủ động và trách nhiệm, phối hợp chặt chẽ với tập thể lãnh đạo và cán bộ Ban Công tác thanh thiếu nhi để hoàn thành tốt nhất nhiệm vụ được giao\", chị Lê Hồng Nhung bày tỏ."
+    }
+   ],
+   "words": 437,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "3b8bb48bcc2c",
+   "url": "https://vietnamnet.vn/truc-tiep-asiad-2026-hom-nay-21-9-the-thao-viet-nam-san-hcv-2557122.html",
+   "title": "Trực tiếp Asiad 2026 hôm nay 21/9: Mỹ Tiên vào chung kết bơi",
+   "published": "2026-09-21T05:55:52+07:00",
+   "age_h": 7.1,
+   "source": "vietnamnet-the-thao",
+   "source_name": "VietnamNet",
+   "lang": "vi",
+   "hint_section": "the-thao-dep",
+   "image_src": null,
+   "sapo": "VietNamNet tường thuật ngày thi đấu chính thức thứ hai của đoàn Thể thao Việt Nam (TTVN) tại Asiad 2026, sự kiện diễn ra ở Aichi-Nagoya, Nhật Bản.",
+   "author": "Đại Nam",
+   "images": [
+    {
+     "file": "3b8bb48bcc2c-lead.jpg",
+     "caption": "",
+     "w": 597,
+     "h": 312,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/20/9-doan-viet-nam-san-hcv-2080.jpg?width=0&s=T-RL0t6gbV3hJgRJxvpckw"
+    },
+    {
+     "file": "3b8bb48bcc2c-0.jpg",
+     "caption": "",
+     "w": 1143,
+     "h": 1376,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/lich-thi-dau-asiad-219-387.jpg?width=0&s=G_vwB4I8236bDp2MnDvrPg"
+    },
+    {
+     "file": "3b8bb48bcc2c-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/tddc-asiad-1-1042.jpg?width=0&s=VusFVpPuoAOlig0NYp7MVA"
+    },
+    {
+     "file": "3b8bb48bcc2c-2.jpg",
+     "caption": "Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/tddc-asiad-1043.jpg?width=0&s=iQEuEsC8X3tT-ganKfOD3A"
+    },
+    {
+     "file": "3b8bb48bcc2c-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720,
+     "src_url": "https://static-images.vnncdn.net/vps_images/000001/000003/2026/9/21/boi-asiad-5-673.jpg?width=0&s=5zwsXflx3rI7rGOYVFxtFA"
+    },
+    {
+     "file": "3b8bb48bcc2c-4.jpg",
+     "caption": "",
+     "w": 1075,
+     "h": 865,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/wushu-asiad-5-481.jpg?width=0&s=KHaakrnkMAI7rTbAij0NRQ"
+    },
+    {
+     "file": "3b8bb48bcc2c-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720,
+     "src_url": "https://static-images.vnncdn.net/vps_images/000001/000003/2026/9/21/boi-asiad-471.jpg?width=0&s=9YQ0AgXtQ3M2ZKkdoijXnQ"
+    },
+    {
+     "file": "3b8bb48bcc2c-6.jpg",
+     "caption": "Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 846,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/wushu-asiad-3-463.jpg?width=0&s=wKmvuZqIM88zC5dG0JEKhA"
+    },
+    {
+     "file": "3b8bb48bcc2c-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 879,
+     "src_url": "https://static-images.vnncdn.net/vps_images/000001/000003/2026/9/21/thuy-hien-370.jpg?width=0&s=pCeElMhNmSm92lTUo30SqQ"
+    },
+    {
+     "file": "3b8bb48bcc2c-8.jpg",
+     "caption": "Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 960,
+     "src_url": "https://static-images.vnncdn.net/vps_images/000001/000003/2026/9/21/ket-qua-thuy-hien-369.jpg?width=0&s=ePM22BKmdMfmWlxZwSeRvg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giành 2 HCĐ trong ngày thi đấu chính thức đầu tiên tại Asiad 2026 , hôm nay (21/9), đoàn TTVN tiếp tục tranh tài với nhiều môn thi đấu rất đáng chú ý ở ngày thứ hai của Đại hội, trong đó có bắn súng, bơi, boxing, karate, TDDC, wushu, bóng chuyền nữ, bóng đá nữ..."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc cạnh tranh huy chương tại đấu trường Asiad rất khốc liệt, đòi hỏi các VĐV Việt Nam phải vượt ngưỡng mới có thể mang vinh quang về cho Tổ quốc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "* Bấm F5 để tiếp tục cập nhật diễn biến nóng trực tiếp Asiad 20 ..."
+    },
+    {
+     "t": "h",
+     "text": "Karate"
+    },
+    {
+     "t": "p",
+     "text": "Trong trận tranh HCĐ nội dung kumite cá nhân nam hạng cân 67kg, võ sĩ Khuất Hải Nam để thua đối thủ người Đài Loan (Trung Quốc)."
+    },
+    {
+     "t": "h",
+     "text": "Thể dục dụng cụ"
+    },
+    {
+     "t": "p",
+     "text": "Thể dục dụng cụ nam Việt Nam đứng thứ 2 lượt thi đầu tiên của vòng loại nội dung đồng đội. Trong sáng nay, lãnh đạo đoàn TTVN tới động viên các VĐV của tuyển TDDC Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Boxing"
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Đức Ngọc thi đấu vòng loại hạng cân 70kg với đối thủ Mohammed Lassaad Dbichi của Qatar. VĐV Việt Nam thua 0-5."
+    },
+    {
+     "t": "h",
+     "text": "Bắn súng"
+    },
+    {
+     "t": "p",
+     "text": "Tuyển bắn súng Việt Nam không có VĐV nào giành vé vào chung kết nội dung súng trường hơi cá nhân nam. Xạ thủ Việt Nam có thành tích cao nhất vòng loại nội dung này là Phùng Việt Dũng với 627 điểm, xếp hạng thứ 15. Tính tổng thành tích ở nội dung đồng đội, Việt Nam xếp hạng 8 với 1870,9 điểm. Trung Quốc giành HCV nội dung đồng đội súng trường hơi nam, phá kỷ lục thế giới với 1899 điểm."
+    },
+    {
+     "t": "h",
+     "text": "Bơi"
+    },
+    {
+     "t": "p",
+     "text": "Với thành tích 2 phút 17 giây 03, kình ngư Võ Thị Mỹ Tiên đoạt vé vào thi đấu chung kết nội dung 200m hỗn hợp nữ. Ở nội dung tiếp sức 4x200m tự do nam, đội Việt Nam gồm gồm Nguyễn Huy Hoàng, Trần Hưng Nguyên, Nguyễn Viết Tường và Trần Văn Nguyễn Quốc đạt thành tích 7 phút 21 giây 62, đứng thứ 2 lượt thi vòng loại đầu tiên. Kết quả này cũng giúp 4 VĐV Việt Nam lọt vào chung kết với vị trí thứ 4 vòng loại."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Wushu"
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung thi Thái cực quyền nam tính điểm, Nguyễn Trọng Lâm xếp hạng 6 chung cuộc."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "h",
+     "text": "Bơi"
+    },
+    {
+     "t": "p",
+     "text": "Phạm Thanh Bảo của Việt Nam bước vào nội dung thi vòng loại 100m bơi ếch nam. Kình ngư người Việt Nam về thứ 3 (lượt 2 vòng loại) với thành tích 1 phút 00 giây 85. Với kết quả này, Thanh Bảo đứng chung cuộc 11 vòng loại, không thể vào chung kết."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "h",
+     "text": "Wushu"
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung thi Thái cực quyền nam tính điểm, Nguyễn Trọng Lâm của Việt Nam giành được 9.710 điểm, tạm đứng thứ 5."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "h",
+     "text": "Thể dục dụng cụ"
+    },
+    {
+     "t": "p",
+     "text": "Các nội dung nam môn thể dục dụng cụ bắt đầu tranh tài ở vòng loại. Việt Nam có 5 VĐV góp mặt là Đặng Ngọc Xuân Thiện, Nguyễn Văn Khánh Phong, Trịnh Hải Khang, Trần Đình Vương và Đỗ Nam Anh. Trong số này, Khánh Phong và Xuân Thiện được kỳ vọng có khả năng tranh chấp huy chương."
+    },
+    {
+     "t": "h",
+     "text": "Karate"
+    },
+    {
+     "t": "p",
+     "text": "Tại vòng 16 nội dung kata đơn nam môn karate, võ sĩ Phạm Minh Đức vượt qua đối thủ người Campuchia Theng Kimchhea với tỷ số 3-2."
+    },
+    {
+     "t": "h",
+     "text": "8h10"
+    },
+    {
+     "t": "p",
+     "text": "Ngày 21/9, đoàn TTVN tiếp tục bước vào ngày thi đấu thứ hai với lịch tranh tài ở 9 môn gồm bóng chuyền trong nhà (nữ), bóng chuyền bãi biển nam, bóng đá, wushu, bắn súng, bơi, boxing, karate và thể dục dụng cụ. Trong số này, bắn súng, Karate và Wushu được kỳ vọng có thể tạo nên bất ngờ."
+    },
+    {
+     "t": "h",
+     "text": "Wushu"
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung thi chung kết trường quyền nữ (wushu), Nguyễn Thị Hiền với số điểm 9.573 đứng hạng 14/16 VĐV. Giành HCV là VĐV Sham Hui Yu Lydia của Hong Kong (Trung Quốc) với 9.713 điểm."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    }
+   ],
+   "words": 667,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "907d728ac596",
+   "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+   "title": "Cocoon Nebula Wide Field",
+   "published": "2026-09-21T04:05:00+07:00",
+   "age_h": 8.9,
+   "source": "nasa",
+   "source_name": "NASA",
+   "lang": "en",
+   "hint_section": "kham-pha-khoa-hoc",
+   "image_src": null,
+   "sapo": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Cocoon Nebula Wide […]",
+   "author": "",
+   "images": [
+    {
+     "file": "907d728ac596-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+    },
+    {
+     "file": "907d728ac596-0.jpg",
+     "caption": "A starfield is shown against a patchy red-glowing background. Two irregular brown trails occur, the lower of which culminates in a bright pink and white region.",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=2000&h=1333&fit=crop&crop=faces%2Cfocalpoint"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "APOD"
+    },
+    {
+     "t": "p",
+     "text": "Astronomy Picture of the Day"
+    },
+    {
+     "t": "p",
+     "text": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Explanation: When does a nebula look like a comet? In this crowded starfield covering over two degrees within the high-flying constellation of the Swan ( Cygnus ), the eye is drawn to the Cocoon Nebula. A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the lower right, with a long trail of interstellar dust clouds to the left, making the entire complex appear a bit like a comet . Cataloged as IC 5146 , the central bright head of the nebula spans about 10 light years , while the dark dust y tail spans nearly 100 light years. Both are located about 2,500 light years away. A bright star near the colorful nebula's center likely supplies power and helps clear out a cavity. The long dusty filaments of the tail, although dark in this visible light image, hide stars in the process of formation . The featured image was captured in July from Death Valley , California , USA . APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod Tomorrow's picture: triple eclipse"
+    }
+   ],
+   "words": 215,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "fa6d626d09db",
+   "url": "https://thanhnien.vn/doi-song-ngoai-man-anh-cua-nhac-phim-185260920204159975.htm",
+   "title": "Đời sống ngoài màn ảnh của nhạc phim",
+   "published": "2026-09-20T23:15:00+07:00",
+   "age_h": 13.8,
+   "source": "thanhnien-van-hoa",
+   "source_name": "Thanh Niên",
+   "lang": "vi",
+   "hint_section": "sang-tao-kien-truc",
+   "image_src": null,
+   "sapo": "Nhiều nhà sản xuất tổ chức tuyển chọn ca khúc mới hay thực hiện MV cho những bản nhạc phim, với mong muốn tiếp cận thêm nhiều lớp khán giả. Hành trình này cũng mở ra cơ hội để những bài hát có thêm đời sống mới ngoài màn ảnh.",
+   "author": "thanhnien.vn",
+   "images": [
+    {
+     "file": "fa6d626d09db-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630,
+     "src_url": "https://images2.thanhnien.vn/zoom/1200_630/528068263637045248/2026/9/20/18a-17899114961681200800389-932-0-2272-2560-crop-17899115825291589143369.jpg"
+    },
+    {
+     "file": "fa6d626d09db-0.jpg",
+     "caption": "Phim Cảm ơn người đã thức cùng tôi sử dụng 14 ca khúc, cho thấy mức độ đầu tư cho âm nhạc của đạo diễn Chung Chí Công và nhà sản xuất",
+     "w": 1280,
+     "h": 1737,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/20/18a-17899114961681200800389.jpg"
+    },
+    {
+     "file": "fa6d626d09db-1.jpg",
+     "caption": "Thảo Trang gây chú ý với ca khúc Hồn nhiên , nhạc phim Lên hương",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://images2.thanhnien.vn/528068263637045248/2026/9/20/18b-17899114961981518177227.jpg"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Đ ẦU TƯ CÔNG PHU"
+    },
+    {
+     "t": "p",
+     "text": "Gần đây, ca khúc Hồn nhiên ( nhạc phim Lên hương ) do Thảo Trang thể hiện được chia sẻ rộng rãi trên mạng xã hội, chạm đến khán giả nhờ giai điệu nhẹ nhàng, ca từ xúc động. Thậm chí, không ít người khi nghe nhạc phẩm này mới bắt đầu biết đến và tìm hiểu về dự án do Khương Ngọc - Tấn Hoàng Thông làm đạo diễn. Bên cạnh đó, câu chuyện về độ lan tỏa của Sau lời khước từ (phim Mai ), Nỗi buồn em đánh rơi (phim Nụ hôn bạc tỉ ), Cảm ơn người đã thức cùng tôi (phim Cảm ơn người đã thức cùng tôi )... cũng là minh chứng cho thấy những ca khúc nhạc phim vẫn có thể có đời sống riêng, sau khi tác phẩm điện ảnh rời rạp."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khi sự cạnh tranh trong thị trường điện ảnh ngày càng lớn, nhiều nhà sản xuất không chỉ đầu tư cho nội dung, hình ảnh mà còn về âm nhạc. Điển hình như phim Hộ linh tráng sĩ: Bí ẩn mộ vua Đinh đã cất công thực hiện một MV cho ca khúc Kiếp duyên tình , với sự kết hợp giữa Bùi Lan Hương và Đăng Trần - một diễn viên của phim. Hay để thực hiện Cảm ơn người đã thức cùng tôi , đạo diễn Chung Chí Công cho biết đã làm việc với ê kíp để có 7 sáng tác mới (của Phạm Hải Âu), bám sát nội dung phim và bộc lộ được cảm xúc của nhân vật. Chưa kể, anh còn mở casting công khai nhằm tìm kiếm bản nhạc phù hợp, thu hút gần 200 sáng tác mới gửi về."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về hướng đi này, Chung Chí Công cho biết không riêng thị trường VN mà cả thị trường châu Á và thế giới, phần âm nhạc (bao gồm nhạc nền và ca khúc chủ đề) luôn đóng vai trò quan trọng trong việc truyền thông phim (điển hình nhất là ca khúc My heart will go on qua giọng hát của Celine Dion gắn liền với Titanic hay I don't want to miss a thing của ban nhạc Aerosmith thậm chí còn nổi tiếng hơn bản thân bộ phim Armageddon - NV ). Có nhiều người biết đến ca khúc trước, sau đó mới tìm hiểu về bộ phim và khám phá những cảm xúc mới. Ngược lại, có những ca khúc đến khi ra rạp khán giả mới biết đến và tiếp nhận. Từ bản nhạc, họ sẽ liên tưởng đến câu chuyện khác gắn với bản thân. \"Cả hai yếu tố này đều giúp bộ phim lan tỏa sâu hơn, rộng hơn mà bản thân người làm phim cũng không thể hình dung được. Ca khúc ngoài khơi gợi cảm xúc phải phục vụ cho việc kể chuyện và sự phát triển của nhân vật\", nam đạo diễn bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Khi nói về sự đầu tư dành cho nhạc phim hiện nay, đạo diễn Chung Chí Công cho biết ngoài mức độ tài chính, nhiều dự án còn tập trung khai thác hướng đi mới là để diễn viên thể hiện ca khúc trong câu chuyện phim. \"Để có thể quay được cảnh diễn viên hát, bắt buộc phải sáng tác ca khúc trước khi bấm máy. Thường thì chỉ một số ít dự án có thời gian tiền kỳ dài, người nhạc sĩ mới có thể sáng tác ca khúc đồng hành. Đây là hình thức đòi hỏi sự đầu tư về mặt thời gian, con người và ngân sách\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nhạc sĩ trẻ Ssay Huỳnh khi tham gia viết nhạc phim cho Ma xó nhìn nhận rằng làm nhạc phim không đơn giản là viết một ca khúc, mà còn là phụ trách \"linh hồn âm thanh\" của cả dự án thông qua scoring (nhạc nền), theme song, âm nhạc cho teaser, trailer… Âm nhạc vì thế cũng có ảnh hưởng nhất định đến cách bộ phim được truyền tải và xây dựng chiến lược truyền thông. \"Đôi khi, một giai điệu rất đơn giản nhưng được đặt đúng chỗ một cách tinh tế lại có thể nói thay những điều nhân vật không thể nói thành lời, và chạm vào bên trong khán giả\", nhạc sĩ trẻ cho hay."
+    },
+    {
+     "t": "h",
+     "text": "S ỨC SỐNG NGOÀI MÀN ẢNH"
+    },
+    {
+     "t": "p",
+     "text": "Nhận định về việc nhiều nhà sản xuất đầu tư thực hiện các ca khúc nhạc phim thành một MV chỉn chu và xem như phương tiện phục vụ công tác truyền thông, nhạc sĩ Ssay Huỳnh cho rằng đây là cách làm tốt, vì một bài hát hay xứng đáng có thêm cơ hội đến với khán giả, kể cả những người chưa xem phim. \"Một MV nhạc phim hay không chỉ khiến khán giả muốn nghe lại bài hát, mà còn có thể khiến họ muốn mua vé để biết câu chuyện phía sau\", nhạc sĩ chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, một bản nhạc phim muốn nối dài sức sống ngoài màn ảnh rộng phải có sức chạm bằng giai điệu đủ hấp dẫn, nội dung giá trị tạo sự đồng cảm. Khi trong phim, bài hát kể câu chuyện của nhân vật còn khi bước ra khỏi màn ảnh, nó phải đủ gần gũi để người nghe có thể tìm thấy câu chuyện của riêng họ. Một bài hát thực sự sống lâu là khi bộ phim đã kết thúc, cảm xúc mang lại vẫn còn."
+    },
+    {
+     "t": "p",
+     "text": "Bàn về câu chuyện này, đạo diễn Chung Chí Công cho rằng âm nhạc có \"sức mạnh không biên giới\". Do đó, việc thực hiện MV cho một ca khúc nhạc phim là sự đầu tư xứng đáng nhưng cũng là điều nhà sản xuất cần cân nhắc. \"Đối với tôi, âm nhạc hay điện ảnh, ở góc độ nhà sản xuất tôi luôn muốn mang đến những sản phẩm có chất lượng tốt nhất. Thế nhưng đầu tư và truyền thông cho một sản phẩm phát sinh từ bộ phim còn tùy thuộc vào nguồn lực, ngân sách của nhà phát hành, nhà sản xuất\", anh cho hay."
+    },
+    {
+     "t": "p",
+     "text": "Ở một khía cạnh khác, đạo diễn Khương Ngọc nói nếu nhạc phim được đặt đúng vị trí, sẽ đưa tác phẩm và khán giả chuyển sang một bậc khác về cảm xúc. \"Khi thị trường phát triển, biết đâu sẽ có những cặp nhạc sĩ - đạo diễn song hành cùng nhau\", Khương Ngọc chia sẻ."
+    }
+   ],
+   "words": 1090,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "32aeb6063c55",
+   "url": "https://vietnamnet.vn/bo-gd-dt-cung-1-muc-ielts-nhung-cac-truong-quy-thanh-26-muc-diem-cong-khac-nhau-2557267.html",
+   "title": "Bộ GD-ĐT: Cùng 1 mức IELTS nhưng các trường quy thành 26 mức điểm cộng khác nhau",
+   "published": "2026-09-21T05:50:00+07:00",
+   "age_h": 7.2,
+   "source": "vietnamnet-giao-duc",
+   "source_name": "VietnamNet",
+   "lang": "vi",
+   "hint_section": "guong-sang",
+   "image_src": null,
+   "sapo": "Đây là một trong những lý do Bộ GD-ĐT đề xuất từ năm 2027 bỏ điểm cộng do cơ sở đào tạo tự quy định đối với chứng chỉ, thành tích hoặc tiêu chí bổ sung.",
+   "author": "Thanh Hùng",
+   "images": [
+    {
+     "file": "32aeb6063c55-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 680,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/bo-gd-dt-cung-1-muc-ielts-nhung-cac-truong-quy-thanh-26-muc-diem-cong-khac-nhau-1517.jpg?width=0&s=X3gXvBI62G4XF1oMdUym3w"
+    },
+    {
+     "file": "32aeb6063c55-0.jpg",
+     "caption": "GS Nguyễn Tiến Thảo, Vụ trưởng Vụ Giáo dục Đại học (Bộ GD-ĐT). Ảnh: MOET.",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/img-9594-1434-1518.jpg?width=0&s=Zoe9Ff5TfWFyPajPZacAyw"
+    },
+    {
+     "file": "32aeb6063c55-1.jpg",
+     "caption": "Chưa thí điểm thi tốt nghiệp THPT trên máy tính vào năm 2027",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/20/chua-thi-diem-thi-tot-nghiep-thpt-tren-may-tinh-vao-nam-2027-1311.jpg?width=0&s=qjOkfYDEjEFd8KsH5fx4wQ"
+    },
+    {
+     "file": "32aeb6063c55-2.jpg",
+     "caption": "Bỏ cộng điểm IELTS nhưng không nên 'xóa sổ' học sinh giỏi khi xét tuyển đại học",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/19/bo-cong-diem-ielts-nhung-khong-nen-xoa-so-hoc-sinh-gioi-khi-xet-tuyen-dai-hoc-739.jpg?width=0&s=aG3_VDlMJXZj-AZfPazxNA"
+    },
+    {
+     "file": "32aeb6063c55-3.jpg",
+     "caption": "Đầu tư hàng chục triệu học IELTS, thí sinh hụt hẫng nếu bỏ điểm cộng",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/18/dau-tu-hang-chuc-trieu-hoc-ielts-thi-sinh-hut-hang-neu-bo-diem-cong-2339.jpg?width=0&s=ykL3n7MliDvjD0eTDIFshw"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "GS Nguyễn Tiến Thảo, Vụ trưởng Vụ Giáo dục Đại học (Bộ GD-ĐT) cho biết, đây là điều chỉnh cấp thiết nhằm bảo đảm mọi thí sinh dự tuyển vào cùng một ngành được đánh giá theo cùng yêu cầu đầu vào, trên cùng thang đo; để việc tuyển sinh minh bạch, đơn giản và thực chất hơn."
+    },
+    {
+     "t": "p",
+     "text": "Nói về lý do cần rà soát việc sử dụng chứng chỉ và điểm cộng, ông Thảo cho hay một ngành, chương trình đào tạo phải có tiêu chí tuyển sinh thống nhất và điểm đầu vào giữa các phương thức phải tương đương."
+    },
+    {
+     "t": "p",
+     "text": "“Từ năm 2023, Bộ đã yêu cầu quy đổi tương đương để giảm chênh lệch; năm 2026 tiếp tục khống chế điểm cộng tối đa 10% tổng điểm xét tuyển. Tuy nhiên, khi mỗi trường tự quy đổi và xác định điểm cộng, sự khác biệt vẫn lớn. Vì vậy, đề xuất bỏ điểm cộng không phải thay đổi đột ngột về định hướng, mà là bước tiếp theo của lộ trình kiểm soát và chuẩn hóa”, ông Thảo nói."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện Bộ GD-ĐT cho hay, dữ liệu tuyển sinh năm 2026 cho thấy hơn 37.300 thí sinh sử dụng chứng chỉ tiếng Anh để được cộng điểm, trong đó trên 35.900 thí sinh sử dụng IELTS. Mức IELTS 6.0 là phổ biến nhất với 8.318 thí sinh, nhưng được các trường quy đổi thành 26 mức điểm cộng khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Ở nhóm 5% ngành có điểm chuẩn cao nhất, với ngưỡng tham chiếu 26,09/30, hơn 30% người nhập học có điểm cộng; tỷ lệ này ở nhóm ngoài tốp 25% là 9,51%. Trong 3 phương thức không xét riêng ngoại ngữ gồm điểm thi tốt nghiệp THPT, học bạ và kết hợp hai kết quả, 51,42% thí sinh có điểm cộng dù điểm gốc thấp hơn mức trúng tuyển của ngành."
+    },
+    {
+     "t": "p",
+     "text": "“Các con số này không xác định được từng cặp thí sinh bị thay thế, nhưng cho thấy điểm cộng có thể trở thành yếu tố quyết định kết quả tại các ngành cạnh tranh cao, tạo sự bất bình đẳng trong tuyển sinh\", ông Thảo nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Thảo, công bằng trong tuyển sinh không phải là chia đều lợi thế, mà là bảo đảm thí sinh cùng dự tuyển vào một ngành được đánh giá bằng cùng tiêu chí. Có 2 cách thức đang gây mất công bằng trong tuyển sinh và cần được tháo gỡ ngay. Thứ nhất, ngành không yêu cầu ngoại ngữ nhưng thí sinh có chứng chỉ tiếng Anh vẫn được cộng điểm. Chẳng hạn, với ngành chỉ xét Toán, Vật lý và Hóa học, một thí sinh có kết quả 3 môn cao hơn vẫn có thể trượt, trong khi thí sinh có điểm chuyên môn thấp hơn lại được cộng điểm từ chứng chỉ. Quyền sử dụng chứng chỉ của một người không thể làm mất quyền được đánh giá công bằng của người còn lại."
+    },
+    {
+     "t": "p",
+     "text": "Thứ hai, tổ hợp đã có môn Tiếng Anh nhưng chứng chỉ tiếng Anh tiếp tục được dùng để cộng thêm điểm. Khi đó, năng lực ngoại ngữ vừa được phản ánh trong điểm tổ hợp, vừa tạo thêm lợi thế ngoài thang đo. Một năng lực được tính 2 lần sẽ làm sai lệch thứ tự xét tuyển, đặc biệt ở các ngành có điểm chuẩn cao, nơi chênh lệch rất nhỏ cũng có thể quyết định trúng tuyển hay không."
+    },
+    {
+     "t": "p",
+     "text": "Ông Thảo dẫn chứng, nhiều ngành hiện có điểm chuẩn khoảng 28 nhưng cho cộng tới 1,5 điểm, khiến hàng nghìn thí sinh đạt 26,5-28 điểm vẫn không trúng tuyển chỉ vì không có điều kiện thi chứng chỉ có chi phí cao. “Đây là vấn đề cấp bách liên quan trực tiếp đến công bằng và cần được điều chỉnh ngay. Tự chủ tuyển sinh phải đi cùng trách nhiệm giải trình và không thể hợp thức hóa một tiêu chí làm sai lệch cạnh tranh giữa các thí sinh”, ông Thảo nói."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện Bộ GD-ĐT chia sẻ với tâm lý của phụ huynh, học sinh đã đầu tư nghiêm túc cho việc học ngoại ngữ. Quyền sử dụng chứng chỉ để chứng minh năng lực ngoại ngữ vẫn được bảo đảm; giá trị của việc học tiếng Anh cũng không vì vậy mà giảm đi. Việc học tiếng Anh vẫn cần thiết cho quá trình học đại học và nghề nghiệp sau này, nên không thể xem là lãng phí."
+    },
+    {
+     "t": "p",
+     "text": "“Không nên đồng nhất ‘không được cộng điểm’ với ‘học ngoại ngữ không còn giá trị’. Nếu chứng chỉ chủ yếu được theo đuổi để lấy lợi thế điểm số, việc học dễ chuyển từ phát triển năng lực giao tiếp, học tập và làm việc sang luyện thi để đạt một mốc điểm. Chính sách cần đưa động lực học ngoại ngữ trở lại đúng mục tiêu: học thật, sử dụng được và tạo lợi thế lâu dài cho người học\", ông nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông cho biết, việc chỉnh sửa dự thảo thông tư tuyển sinh lần này dựa trên nguyên tắc: năng lực nào cần cho ngành học thì phải được đánh giá trực tiếp, minh bạch và bình đẳng; năng lực nào không thuộc yêu cầu đầu vào thì không nên trở thành điểm cộng làm thay đổi thứ tự thí sinh."
+    },
+    {
+     "t": "p",
+     "text": "“Tuyển sinh đại học là quá trình lựa chọn đúng người học cho đúng ngành học trên cơ sở năng lực thực chất. Dự thảo không bỏ chứng chỉ ngoại ngữ mà sử dụng chứng chỉ đúng bản chất; không hạ thấp thành tích học sinh giỏi mà ghi nhận đúng cơ chế. Việc này không thu hẹp cơ hội, mà đưa các thí sinh dự tuyển vào cùng một ngành về một thước đo công bằng, minh bạch và có thể kiểm chứng. Loại bỏ những điểm cộng không phù hợp là việc cần thiết để bảo vệ nguyên tắc đó”, ông Thảo nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ],
+   "words": 1002,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  },
+  {
+   "id": "39638ab9efc6",
+   "url": "https://vietnamnet.vn/tuyen-viet-nam-mat-trung-ve-quan-trong-truoc-fifa-asean-cup-2557302.html",
+   "title": "Tuyển Việt Nam mất trung vệ quan trọng trước FIFA ASEAN Cup",
+   "published": "2026-09-21T05:32:56+07:00",
+   "age_h": 7.5,
+   "source": "vietnamnet-the-thao",
+   "source_name": "VietnamNet",
+   "lang": "vi",
+   "hint_section": "the-thao-dep",
+   "image_src": null,
+   "sapo": "Trung vệ Nguyễn Thành Chung lỡ hẹn với FIFA ASEAN Cup 2026 cùng tuyển Việt Nam do chưa hồi phục hoàn toàn chấn thương.",
+   "author": "Đại Nam",
+   "images": [
+    {
+     "file": "39638ab9efc6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/tuyen-viet-nam-mat-trung-ve-quan-trong-truoc-fifa-asean-cup-1449.jpg?width=0&s=chgTcRKwNt2WTlzAB_AQ8g"
+    },
+    {
+     "file": "39638ab9efc6-0.jpg",
+     "caption": "Thành Chung lỡ hẹn với FIFA ASEAN Cup 2026. Ảnh: VFF",
+     "w": 1280,
+     "h": 852,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/thanh-chung-1450.jpg?width=0&s=-HtQjwAVsQZstFWbssMnfQ"
+    },
+    {
+     "file": "39638ab9efc6-1.jpg",
+     "caption": "",
+     "w": 1080,
+     "h": 1350,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/21/danh-sach-dtvn-1451.jpg?width=0&s=UdResckUag_UdSHiMHvTQA"
+    },
+    {
+     "file": "39638ab9efc6-2.jpg",
+     "caption": "Lịch thi đấu của tuyển Việt Nam tại FIFA ASEAN Cup 2026 mới nhất",
+     "w": 1040,
+     "h": 693,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/10/lich-thi-dau-cua-tuyen-viet-nam-tai-fifa-asean-cup-2026-moi-nhat-963.jpg?width=0&s=n1FTdgJcNORk-kL-wIxScQ"
+    },
+    {
+     "file": "39638ab9efc6-3.jpg",
+     "caption": "Lịch thi đấu FIFA ASEAN Cup 2026 mới nhất",
+     "w": 993,
+     "h": 662,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/8/28/lich-thi-dau-fifa-asean-cup-2026-moi-nhat-3639.jpg?width=0&s=atzMuRC9MIi44xVjFqR59A"
+    },
+    {
+     "file": "39638ab9efc6-4.jpg",
+     "caption": "Tuyển Việt Nam bổ sung gấp Khoa Ngô dự FIFA ASEAN Cup 2026",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/19/tuyen-viet-nam-bo-sung-gap-khoa-ngo-du-fifa-asean-cup-2026-2304.jpg?width=0&s=flWvVg4fxzDwMv9NPrHwgQ"
+    },
+    {
+     "file": "39638ab9efc6-5.jpg",
+     "caption": "Tuyển Việt Nam dự FIFA ASEAN Cup: Trông cả vào HLV Kim Sang Sik",
+     "w": 1280,
+     "h": 853,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/18/tuyen-viet-nam-du-fifa-asean-cup-trong-ca-vao-hlv-kim-sang-sik-3081.jpg?width=0&s=u-NAbaS-Ne3Pa9nUBmRBLA"
+    },
+    {
+     "file": "39638ab9efc6-6.jpg",
+     "caption": "Indonesia mang nửa đội hình từ châu Âu về FIFA ASEAN Cup",
+     "w": 1080,
+     "h": 720,
+     "src_url": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/9/18/indonesia-mang-nua-doi-hinh-tu-chau-au-ve-fifa-asean-cup-3256.jpg?width=0&s=1Q0NlrObwWtXs-TmNPWjPw"
+    }
+   ],
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thành Chung có tên trong danh sách tuyển Việt Nam chuẩn bị cho FIFA ASEAN Cup 2026 vừa được HLV Kim Sang Sik công bố. Tuy nhiên, chiến lược gia người Hàn Quốc buộc phải có sự thay đổi về nhân sự vào phút chót, khi trung vệ Hà Nội FC chưa hoàn toàn bình phục chấn thương."
+    },
+    {
+     "t": "p",
+     "text": "Việc mất Thành Chung là một tổn thất lớn với tuyển Việt Nam. Tại ASEAN Cup 2026, cầu thủ quê Tuyên Quang luôn là lựa chọn số 1 của HLV Kim Sang Sik ở vị trí trung vệ. Sự chắc chắn của anh góp công không nhỏ giúp \"Những chiến binh sao vàng\" bảo vệ thành công ngôi vô địch."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Để tăng cường lực lượng cho đội tuyển, HLV Kim Sang Sik triệu tập tiền vệ Ngô Đăng Khoa của CA TPHCM. Cầu thủ sinh năm 2006 từng được gọi lên tuyển Việt Nam trong quá trình chuẩn bị cho ASEAN 2026 nhưng phải chia tay vì chấn thương."
+    },
+    {
+     "t": "p",
+     "text": "Việc triệu tập Ngô Đăng Khoa giúp HLV Kim Sang Sik có thêm một lựa chọn trước khi đội tuyển lên đường sang Indonesia, đồng thời mang đến cho tiền vệ Việt kiều cơ hội lần đầu ra sân trong màu áo đội tuyển quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch, tuyển Việt Nam hội quân vào ngày 22/9 và di chuyển sang Indonesia vào sáng ngày 23/9. Đình Bắc và các đồng đội có trận ra quân tại FIFA ASEAN Cup 2026 gặp Philippines vào ngày 26/9 tại sân Si Jalak Harupat, Bandung, sau đó lần lượt gặp Thái Lan ngày 29/9 và Pakistan ngày 2/10."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ],
+   "words": 272,
+   "lead_image": 0,
+   "extracted_ok": true,
+   "extract_error": null
+  }
+ ],
+ "rejected_rules": [
+  {
+   "title": "Cá voi lưng gù mẹ tìm cách 'đánh thức' xác con non",
+   "why": [
+    "bao-luc-tai-nan:chết(mô tả)"
+   ],
+   "url": "https://vnexpress.net/ca-voi-lung-gu-me-tim-cach-danh-thuc-xac-con-non-5121428.html",
+   "source": "VnExpress"
+  },
+  {
+   "title": "GS Việt đứng sau những dự án triệu USD về 'bản sao số'",
+   "why": [
+    "bao-luc-tai-nan:động đất(mô tả)"
+   ],
+   "url": "https://vnexpress.net/gs-viet-dung-sau-nhung-du-an-trieu-usd-ve-ban-sao-so-5114172.html",
+   "source": "VnExpress"
+  },
+  {
+   "title": "Ban trọng tài thừa nhận Lee Kang-in đáng nhận thẻ đỏ ở derby Madrid",
+   "why": [
+    "bong-da-rac:trọng tài",
+    "bong-da-rac:thẻ đỏ"
+   ],
+   "url": "https://vnexpress.net/ban-trong-tai-thua-nhan-lee-kang-in-dang-nhan-the-do-o-derby-madrid-5122594.html",
+   "source": "VnExpress"
+  },
+  {
+   "title": "HLV Fulham tố trọng tài không muốn Man Utd thua",
+   "why": [
+    "bong-da-rac:trọng tài"
+   ],
+   "url": "https://vnexpress.net/hlv-fulham-to-trong-tai-khong-muon-man-utd-thua-5122583.html",
+   "source": "VnExpress"
+  },
+  {
+   "title": "Đình Bắc khiến đối phương nhận thẻ đỏ ở V-League",
+   "why": [
+    "bong-da-rac:thẻ đỏ"
+   ],
+   "url": "https://vnexpress.net/dinh-bac-khien-doi-phuong-nhan-the-do-o-v-league-5122559.html",
+   "source": "VnExpress"
+  },
+  {
+   "title": "Trung Quốc mở bán robot cá nhân biến hình, giá từ gần 3.000 USD, lắp ráp 2,5 phút",
+   "why": [
+    "quang-cao-thuong-mai:mở bán"
+   ],
+   "url": "https://tuoitre.vn/trung-quoc-mo-ban-robot-ca-nhan-bien-hinh-gia-tu-gan-3000-usd-lap-rap-25-phut-100260921115741881.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Lũ lụt ở biên giới Nepal - Trung Quốc: Biến đổi khí hậu đã gây ra thảm họa thế nào?",
+   "why": [
+    "bao-luc-tai-nan:thảm họa"
+   ],
+   "url": "https://tuoitre.vn/lu-lut-o-bien-gioi-nepal-trung-quoc-bien-doi-khi-hau-da-gay-ra-tham-hoa-the-nao-100260917145411122.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Đà Nẵng dời thiết bị cảnh báo ngập, cháy rừng đến vị trí mới",
+   "why": [
+    "bao-luc-tai-nan:cháy rừng"
+   ],
+   "url": "https://tuoitre.vn/da-nang-doi-thiet-bi-canh-bao-ngap-chay-rung-den-vi-tri-moi-100260916183512673.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Cải cách tiền lương cho giáo viên, chừng nào mới có quy định chi tiết?",
+   "why": [
+    "bong-da-rac:tiền lương"
+   ],
+   "url": "https://tuoitre.vn/cai-cach-tien-luong-cho-giao-vien-chung-nao-moi-co-quy-dinh-chi-tiet-100260920144959068.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Đại biểu Quốc hội: Kỳ thi vào lớp 10 quá áp lực, cạnh tranh còn hơn thi đại học",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội",
+    "ap-luc-hoc-tap:áp lực"
+   ],
+   "url": "https://tuoitre.vn/dai-bieu-quoc-hoi-ky-thi-vao-lop-10-qua-ap-luc-canh-tranh-con-hon-thi-dai-hoc-100260920125744303.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Bộ trưởng Hoàng Minh Sơn: Trường điểm chuẩn rất cao mà điểm thưởng tới 1,5 là bất công",
+   "why": [
+    "ap-luc-hoc-tap:điểm chuẩn"
+   ],
+   "url": "https://tuoitre.vn/bo-truong-hoang-minh-son-truong-diem-chuan-rat-cao-ma-diem-thuong-toi-15-la-bat-cong-1002609201150199.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Phó chủ tịch Quốc hội: Cần dứt điểm việc thiếu sách giáo khoa, không để xảy ra nữa",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội"
+   ],
+   "url": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-can-dut-diem-viec-thieu-sach-giao-khoa-khong-de-xay-ra-nua-100260920094221373.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Thiếu sách giáo khoa, sáp nhập trường, tuyển sinh 2027: Những câu hỏi chờ Bộ trưởng GD-ĐT trả lời",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://tuoitre.vn/thieu-sach-giao-khoa-sap-nhap-truong-tuyen-sinh-2027-nhung-cau-hoi-cho-bo-truong-gd-dt-tra-loi-100260919192717095.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Bộ GD-ĐT: Giảm áp lực thành tích, không giao chỉ tiêu học sinh giỏi cho giáo viên",
+   "why": [
+    "ap-luc-hoc-tap:áp lực"
+   ],
+   "url": "https://tuoitre.vn/bo-gd-dt-giam-ap-luc-thanh-tich-khong-giao-chi-tieu-hoc-sinh-gioi-cho-giao-vien-100260919184036344.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "HLV Arbeloa: Man United được hưởng lợi từ trọng tài",
+   "why": [
+    "bong-da-rac:trọng tài"
+   ],
+   "url": "https://tuoitre.vn/hlv-arbeloa-man-united-duoc-huong-loi-tu-trong-tai-100260921094225102.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "HLV Mourinho nổi giận chỉ trích trọng tài sau trận thua Atletico",
+   "why": [
+    "bong-da-rac:trọng tài"
+   ],
+   "url": "https://tuoitre.vn/hlv-mourinho-noi-gian-chi-trich-trong-tai-sau-tran-thua-atletico-10026092105050663.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Video: Đánh Đình Bắc, Văn Sơn nhận thẻ đỏ trực tiếp",
+   "why": [
+    "bong-da-rac:thẻ đỏ"
+   ],
+   "url": "https://tuoitre.vn/video-danh-dinh-bac-van-son-nhan-the-do-truc-tiep-100260920192112277.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Kinh dị chuyện kiếm tiền bằng cách livestream hành hạ bản thân",
+   "why": [
+    "kinh-di:kinh dị"
+   ],
+   "url": "https://tuoitre.vn/kinh-di-chuyen-kiem-tien-bang-cach-livestream-hanh-ha-ban-than-100260913120642321.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Trao giải và ra mắt sách 50 năm thành phố nghĩa tình của tôi: Vẹn nguyên tình người",
+   "why": [
+    "quang-cao-thuong-mai:ra mắt"
+   ],
+   "url": "https://tuoitre.vn/trao-giai-va-ra-mat-sach-50-nam-thanh-pho-nghia-tinh-cua-toi-ven-nguyen-tinh-nguoi-100260918222640902.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Mời bạn đọc dự lễ trao giải và ra mắt sách 50 năm thành phố nghĩa tình của tôi",
+   "why": [
+    "quang-cao-thuong-mai:ra mắt"
+   ],
+   "url": "https://tuoitre.vn/moi-ban-doc-du-le-trao-giai-va-ra-mat-sach-50-nam-thanh-pho-nghia-tinh-cua-toi-100260917220506417.htm",
+   "source": "Tuổi Trẻ"
+  },
+  {
+   "title": "Hàng nghìn thí sinh 26,5 - 28 điểm trượt nguyện vọng vì không có điểm cộng",
+   "why": [
+    "ap-luc-hoc-tap:trượt"
+   ],
+   "url": "https://thanhnien.vn/hang-nghin-thi-sinh-265-28-diem-truot-nguyen-vong-vi-khong-co-diem-cong-185260921110144834.htm",
+   "source": "Thanh Niên"
+  },
+  {
+   "title": "Bảo đảm công bằng tuyển sinh đại học",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://thanhnien.vn/bao-dam-cong-bang-tuyen-sinh-dai-hoc-185260920213453539.htm",
+   "source": "Thanh Niên"
+  },
+  {
+   "title": "Đại biểu chất vấn thay đổi tuyển sinh đại học đột ngột, Bộ trưởng GD-ĐT nói gì?",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://thanhnien.vn/dai-bieu-chat-van-thay-doi-tuyen-sinh-dai-hoc-dot-ngot-bo-truong-gd-dt-noi-gi-185260920113048254.htm",
+   "source": "Thanh Niên"
+  },
+  {
+   "title": "Sinh viên dùng năng lực công nghệ giải quyết những vấn đề của xã hội",
+   "why": [
+    "chinh-tri-phap-luat:nghị quyết(mô tả)"
+   ],
+   "url": "https://thanhnien.vn/sinh-vien-dung-nang-luc-cong-nghe-giai-quyet-nhung-van-de-cua-xa-hoi-185260920185123771.htm",
+   "source": "Thanh Niên"
+  },
+  {
+   "title": "Ra mắt Không gian Văn hóa Đông Dương - Thăng Long",
+   "why": [
+    "quang-cao-thuong-mai:ra mắt"
+   ],
+   "url": "https://thanhnien.vn/ra-mat-khong-gian-van-hoa-dong-duong-thang-long-185260920090307259.htm",
+   "source": "Thanh Niên"
+  },
+  {
+   "title": "Nepal phát thải dưới 0,1%, vì sao vẫn hứng chịu rủi ro từ khí hậu nóng lên?",
+   "why": [
+    "bao-luc-tai-nan:thảm họa(mô tả)"
+   ],
+   "url": "https://dantri.com.vn/khoa-hoc/nepal-phat-thai-duoi-01-vi-sao-van-hung-chiu-rui-ro-tu-khi-hau-nong-len-20260918123012965.htm",
+   "source": "Dân Trí"
+  },
+  {
+   "title": "Bộ GD&ĐT: Không gây áp lực thành tích lên giáo viên và trường học",
+   "why": [
+    "ap-luc-hoc-tap:áp lực"
+   ],
+   "url": "https://dantri.com.vn/giao-duc/bo-gddt-khong-gay-ap-luc-thanh-tich-len-giao-vien-va-truong-hoc-20260920211849260.htm",
+   "source": "Dân Trí"
+  },
+  {
+   "title": "Làm cầu tạm đưa 172 học sinh vượt qua đoạn đường bị núi sạt lở vùi lấp",
+   "why": [
+    "bao-luc-tai-nan:sạt lở"
+   ],
+   "url": "https://dantri.com.vn/giao-duc/lam-cau-tam-dua-172-hoc-sinh-vuot-qua-doan-duong-bi-nui-sat-lo-vui-lap-20260920155655910.htm",
+   "source": "Dân Trí"
+  },
+  {
+   "title": "\"Thi tuyển sinh vào lớp 10 quá áp lực, cạnh tranh gay gắt hơn thi đại học\"",
+   "why": [
+    "ap-luc-hoc-tap:áp lực"
+   ],
+   "url": "https://dantri.com.vn/thoi-su/thi-tuyen-sinh-vao-lop-10-qua-ap-luc-canh-tranh-gay-gat-hon-thi-dai-hoc-20260920120420880.htm",
+   "source": "Dân Trí"
+  },
+  {
+   "title": "Real Madrid gục ngã trước Atletico, Mourinho chỉ trích trọng tài",
+   "why": [
+    "bong-da-rac:trọng tài"
+   ],
+   "url": "https://dantri.com.vn/the-thao/real-madrid-guc-nga-truoc-atletico-mourinho-chi-trich-trong-tai-20260921061838093.htm",
+   "source": "Dân Trí"
+  },
+  {
+   "title": "Thảm kịch lạ trên núi tuyết chưa có lời giải: Sáu người tử vong bí ẩn",
+   "why": [
+    "bao-luc-tai-nan:tử vong"
+   ],
+   "url": "https://dantri.com.vn/du-lich/tham-kich-la-tren-nui-tuyet-chua-co-loi-giai-sau-nguoi-tu-vong-bi-an-20260920111224669.htm",
+   "source": "Dân Trí"
+  },
+  {
+   "title": "Bộ trưởng GD-ĐT nghiêm túc rút kinh nghiệm khi để thiếu sách giáo khoa",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://vietnamnet.vn/bo-truong-gd-dt-nghiem-tuc-rut-kinh-nghiem-khi-de-thieu-sach-giao-khoa-2557041.html",
+   "source": "VietnamNet"
+  },
+  {
+   "title": "Giám đốc ĐHQG TPHCM: Kỳ thi vào lớp 10 quá áp lực vì thiếu trường công",
+   "why": [
+    "ap-luc-hoc-tap:áp lực"
+   ],
+   "url": "https://vietnamnet.vn/giam-doc-dhqg-tphcm-ky-thi-vao-lop-10-qua-ap-luc-vi-thieu-truong-cong-2557029.html",
+   "source": "VietnamNet"
+  },
+  {
+   "title": "Bộ trưởng GD-ĐT nói lý do dự kiến bỏ cộng điểm IELTS khi xét tuyển đại học",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://vietnamnet.vn/bo-truong-gd-dt-noi-ly-do-du-kien-bo-cong-diem-ielts-khi-xet-tuyen-dai-hoc-2557016.html",
+   "source": "VietnamNet"
+  },
+  {
+   "title": "MU chạm kỷ lục tệ hại, Carrick được đồn đoán mốc bị sa thải",
+   "why": [
+    "bong-da-rac:sa thải"
+   ],
+   "url": "https://vietnamnet.vn/mu-cham-ky-luc-te-hai-carrick-duoc-don-doan-moc-bi-sa-thai-2550418.html",
+   "source": "VietnamNet"
+  },
+  {
+   "title": "Mourinho chỉ trích trọng tài, Simeone phản ứng gắt",
+   "why": [
+    "bong-da-rac:trọng tài"
+   ],
+   "url": "https://vietnamnet.vn/jose-mourinho-tan-cong-trong-tai-simeone-phan-ung-cuc-chat-2556428.html",
+   "source": "VietnamNet"
+  },
+  {
+   "title": "Lâm Đồng xây thêm cầu cạn tránh khúc cua nguy hiểm trên đèo Mimosa Đà Lạt",
+   "why": [
+    "bao-luc-tai-nan:tai nạn(mô tả)",
+    "bao-luc-tai-nan:sạt lở(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/lam-dong-xay-them-cau-can-tranh-khuc-cua-nguy-hiem-tren-deo-mimosa-da-lat-post1137430.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Tháo nút thắt, sớm đưa nhà đất vào khai thác",
+   "why": [
+    "chinh-tri-phap-luat:nghị quyết(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/thao-nut-that-som-dua-nha-dat-vao-khai-thac-post1137325.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Nâng cao hiệu quả công tác tổ chức thi hành pháp luật tại Việt Nam",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/nang-cao-hieu-qua-cong-tac-to-chuc-thi-hanh-phap-luat-tai-viet-nam-post1137429.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Hà Nội phân luồng giao thông qua các vị trí ngập úng ở xã Hạ Bằng, Hòa Lạc",
+   "why": [
+    "bao-luc-tai-nan:sạt lở(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/ha-noi-phan-luong-giao-thong-qua-cac-vi-tri-ngap-ung-o-xa-ha-bang-hoa-lac-post1137428.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Lâm Đồng khẩn trương xử lý điểm sạt lở trên đèo Prenn",
+   "why": [
+    "bao-luc-tai-nan:sạt lở"
+   ],
+   "url": "https://www.vietnamplus.vn/lam-dong-khan-truong-xu-ly-diem-sat-lo-tren-deo-prenn-post1137427.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Hà Nội: Kịp thời cứu 5 người mắc kẹt trong vụ cháy nhà ở kết hợp xưởng may",
+   "why": [
+    "bao-luc-tai-nan:tử vong(mô tả)",
+    "bao-luc-tai-nan:cháy nhà",
+    "bao-luc-tai-nan:vụ cháy"
+   ],
+   "url": "https://www.vietnamplus.vn/ha-noi-kip-thoi-cuu-5-nguoi-mac-ket-trong-vu-chay-nha-o-ket-hop-xuong-may-post1137426.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Mỹ xét xử 18 nghi phạm liên quan vụ ám sát Tổng thống Haiti",
+   "why": [
+    "chinh-tri-phap-luat:bắt giữ(mô tả)",
+    "chinh-tri-phap-luat:xét xử"
+   ],
+   "url": "https://www.vietnamplus.vn/my-xet-xu-18-nghi-pham-lien-quan-vu-am-sat-tong-thong-haiti-post1137421.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Bắt khẩn cấp 7 người sau vụ ôtô tông nhóm người tại quán ăn phường Chợ Quán",
+   "why": [
+    "bao-luc-tai-nan:tử vong(mô tả)",
+    "bao-luc-tai-nan:ẩu đả(mô tả)",
+    "te-nan:ma túy(mô tả)",
+    "chinh-tri-phap-luat:án tù(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/bat-khan-cap-7-nguoi-sau-vu-oto-tong-nhom-nguoi-tai-quan-an-phuong-cho-quan-post1137411.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Lở núi nghiêm trọng khiến 54 hộ dân Nghệ An phải sơ tán khẩn cấp",
+   "why": [
+    "bao-luc-tai-nan:sạt lở(mô tả)",
+    "bao-luc-tai-nan:lũ quét(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/lo-nui-nghiem-trong-khien-54-ho-dan-nghe-an-phai-so-tan-khan-cap-post1137409.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Câu chuyện điện ảnh: “Resident Evil” đại thắng, thu 108,3 triệu USD trong tuần đầu",
+   "why": [
+    "kinh-di:quỷ dữ(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/cau-chuyen-dien-anh-resident-evil-dai-thang-thu-1083-trieu-usd-trong-tuan-dau-post1137416.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Ủy ban Thường vụ Quốc hội Quốc hội cho ý kiến về một số dự án Luật",
+   "why": [
+    "chinh-tri-phap-luat:nghị quyết(mô tả)",
+    "chinh-tri-phap-luat:quốc hội"
+   ],
+   "url": "https://www.vietnamplus.vn/uy-ban-thuong-vu-quoc-hoi-quoc-hoi-cho-y-kien-ve-mot-so-du-an-luat-post1137414.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Thông qua dự thảo Báo cáo kết quả kiểm tra, giám sát đối với Ban Thường vụ Đảng ủy các cơ quan Đảng Trung ương",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://www.vietnamplus.vn/thong-qua-du-thao-bao-cao-ket-qua-kiem-tra-giam-sat-doi-voi-ban-thuong-vu-dang-uy-cac-co-quan-dang-trung-uong-post1137412.vnp",
+   "source": "VietnamPlus"
+  },
+  {
+   "title": "Các trường đại học liên tiếp cảnh báo bị kẻ gian giả mạo để lừa tân sinh viên",
+   "why": [
+    "chinh-tri-phap-luat:lừa đảo(mô tả)"
+   ],
+   "url": "https://tienphong.vn/cac-truong-dai-hoc-lien-tiep-canh-bao-bi-ke-gian-gia-mao-de-lua-tan-sinh-vien-post1878147.tpo",
+   "source": "Tiền Phong"
+  },
+  {
+   "title": "Vụ trưởng Vụ Giáo dục Đại học: Bỏ IELTS là không chính xác",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://tienphong.vn/vu-truong-vu-giao-duc-dai-hoc-bo-ielts-la-khong-chinh-xac-post1878161.tpo",
+   "source": "Tiền Phong"
+  },
+  {
+   "title": "Đại biểu Quốc hội nói gì sau giải trình của Bộ trưởng Giáo dục?",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội"
+   ],
+   "url": "https://tienphong.vn/dai-bieu-quoc-hoi-noi-gi-sau-giai-trinh-cua-bo-truong-giao-duc-post1878069.tpo",
+   "source": "Tiền Phong"
+  },
+  {
+   "title": "Bộ trưởng Hoàng Minh Sơn: Sang năm không thể để xảy ra việc thiếu sách giáo khoa",
+   "why": [
+    "chinh-tri-phap-luat:quốc hội(mô tả)"
+   ],
+   "url": "https://tienphong.vn/bo-truong-hoang-minh-son-sang-nam-khong-the-de-xay-ra-viec-thieu-sach-giao-khoa-post1877936.tpo",
+   "source": "Tiền Phong"
+  }
+ ],
+ "rejected_score": [],
+ "extract_failed": [
+  {
+   "title": "RoboCup 2026: Why are robots playing football in Germany?",
+   "why": "tải trang lỗi: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with u",
+   "url": "https://www.bbc.co.uk/newsround/videos/c699dk22kjreo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "title": "Happy News: Stories to make you smile",
+   "why": "tải trang lỗi: HTTPSConnectionPool(host='www.bbc.co.uk', port=443): Max retries exceeded with u",
+   "url": "https://www.bbc.co.uk/newsround/videos/c0ddx03wmwmo?at_medium=RSS&at_campaign=rss"
+  }
+ ]
+}

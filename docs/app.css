@@ -134,3 +134,27 @@ textarea.answer {
   .card .emoji { width: 52px; height: 52px; font-size: 1.8rem; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* ===== Nguyên văn bài báo: ảnh thật, bìa kiểu tạp chí ===== */
+.hero-card { display:block; width:100%; text-align:left; background:var(--paper); border:2px solid transparent; border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow); cursor:pointer; margin-bottom:16px; padding:0; position:relative; }
+.hero-card.read { opacity:.75; border-color:var(--line); box-shadow:none; }
+.hero-img { display:block; width:100%; aspect-ratio:16/9; object-fit:cover; background:var(--soft); }
+.hero-img.placeholder { display:grid; place-items:center; font-size:4rem; }
+.hero-text { padding:16px 20px 20px; }
+.hero-text .sec, .card .sec { font-size:.72rem; font-weight:800; color:var(--accent); text-transform:uppercase; letter-spacing:.03em; }
+.hero-text h2 { margin:6px 0 6px; font-size:1.45rem; line-height:1.25; }
+.hero-text p { margin:0; color:var(--ink-2); font-size:.95rem; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+.hero-card .tick { position:absolute; top:12px; right:14px; background:#fff; border-radius:50%; width:36px; height:36px; display:grid; place-items:center; color:var(--ok); font-weight:800; }
+.card { grid-template-columns: 96px 1fr auto; }
+.card .thumb { width:96px; height:96px; object-fit:cover; border-radius:16px; background:var(--soft); display:block; }
+.card .thumb.placeholder { display:grid; place-items:center; font-size:2.2rem; }
+.byline { color:var(--ink-2); font-size:.85rem; font-weight:700; margin:0 0 14px; }
+.byline.end { margin:22px 0 0; font-weight:600; font-style:italic; }
+.fig { margin:0 0 20px; }
+.fig img { display:block; width:100%; height:auto; border-radius:16px; background:var(--soft); }
+.fig figcaption { font-size:.85rem; color:var(--ink-2); margin-top:8px; line-height:1.4; }
+.lead-fig { margin:0 0 18px; }
+.body h3 { font-size:1.15rem; margin:1.2em 0 .5em; }
+.body blockquote { margin:1em 0; padding:10px 16px; border-left:5px solid var(--soft); color:var(--ink-2); font-style:italic; }
+.body p.li { padding-left:8px; }
+@media (max-width:560px) { .card { grid-template-columns:72px 1fr auto; } .card .thumb { width:72px; height:72px; } .hero-text h2 { font-size:1.2rem; } }

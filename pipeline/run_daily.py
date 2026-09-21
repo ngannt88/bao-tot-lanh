@@ -1,80 +1,77 @@
-"""Chạy toàn bộ 4 tầng cho một ngày.
+"""Chạy 3 tầng lọc rồi tách nguyên văn các ứng viên cho cha mẹ duyệt.
 
-  python pipeline/run_daily.py            # chạy thật, xuất số báo hôm nay
-  python pipeline/run_daily.py --dry-run  # chỉ tầng 1–3, in danh sách, không viết lại
-  python pipeline/run_daily.py --no-ai    # chỉ tầng 1–2, xem lọc luật hoạt động thế nào
+  python pipeline/run_daily.py            # lấy tin, lọc, chấm, tách → data/candidates/YYYY-MM-DD.json
+  python pipeline/run_daily.py --no-ai    # bỏ tầng AI (khi chưa đăng nhập CLI), chọn xoay vòng theo mục
+  python pipeline/run_daily.py --force    # chạy lại dù hôm nay đã có ứng viên
   python pipeline/run_daily.py --check    # kiểm tra đăng nhập CLI
+Sau đó mở http://localhost:8765/duyet.html (review_server.py) để chọn bài và xuất bản.
 """
 from __future__ import annotations
 import argparse, sys, time
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from common import load_config, setup_logging, today_str, write_json, DATA
+from common import load_config, setup_logging, today_str
 from collect import collect, mark_seen
 from rules import apply_rules
-from score import score_articles
-from build_issue import select_candidates, build
+from candidates import select, extract_all, save, load, CAND_DIR
 
 log = setup_logging()
 
 
-def print_table(rows, cols, limit=60):
-    for r in rows[:limit]:
-        print("  " + " | ".join(str(r.get(c, ""))[:w] for c, w in cols))
-    if len(rows) > limit:
-        print(f"  ... và {len(rows) - limit} bài nữa")
-
-
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dry-run", action="store_true", help="tầng 1–3, không viết lại, không xuất")
-    ap.add_argument("--no-ai", action="store_true", help="chỉ tầng 1–2")
-    ap.add_argument("--check", action="store_true", help="kiểm tra đăng nhập CLI rồi thoát")
-    ap.add_argument("--date", default=None, help="ghi số báo vào ngày này (YYYY-MM-DD)")
-    ap.add_argument("--no-mark", action="store_true", help="không ghi nhớ url đã thấy (để chạy thử lặp lại)")
+    ap.add_argument("--no-ai", action="store_true")
+    ap.add_argument("--force", action="store_true")
+    ap.add_argument("--check", action="store_true")
+    ap.add_argument("--date", default=None)
+    ap.add_argument("--no-mark", action="store_true", help="không ghi nhớ url đã thấy")
     args = ap.parse_args()
-
     cfg = load_config()
+
     if args.check:
         from ai import check_login
         ok, msg = check_login()
         print(("OK " if ok else "LỖI ") + msg)
         sys.exit(0 if ok else 1)
 
-    t0 = time.time()
     day = args.date or today_str()
-    log.info("=== %s — bắt đầu số báo %s ===", cfg["paper"]["name"], day)
+    if not args.force and load(day):
+        log.info("Ứng viên ngày %s đã có (%s). Dùng --force để chạy lại.", day, CAND_DIR / f"{day}.json")
+        return
 
-    # Tầng 1
+    t0 = time.time()
+    log.info("=== %s — lấy ứng viên ngày %s ===", cfg["paper"]["name"], day)
     raw = collect(cfg["sources"])
-    # Tầng 2
     passed, blocked = apply_rules(raw, cfg)
-    if args.no_ai:
-        print("\nBỊ CHẶN BỞI LUẬT:")
-        print_table(blocked, [("title", 70), ("reject_reasons", 40)])
-        print("\nQUA TẦNG 2 (sẽ đưa AI chấm):")
-        print_table(passed, [("source", 22), ("title", 80)])
-        return
-    # Tầng 3
-    scored = score_articles(passed, cfg)
-    auto, review, rejected_score = select_candidates(scored, cfg)
-    write_json(DATA / "raw" / f"{day}-scored.json", scored)
-    print(f"\nTỰ ĐỘNG LÊN BÁO (≥{cfg['scoring']['threshold_auto']}): {len(auto)}")
-    print_table(auto, [("score", 2), ("section", 20), ("title", 70), ("reason", 40)])
-    print(f"\nHÀNG CHỜ DUYỆT: {len(review)}")
-    print_table(review, [("score", 2), ("section", 20), ("title", 70), ("reason", 40)], 25)
-    print(f"\nLOẠI BỞI AI: {len(rejected_score)}")
-    print_table(rejected_score, [("score", 2), ("title", 70), ("reason", 40)], 25)
-    if args.dry_run:
-        build(auto, review, blocked, rejected_score, cfg, day, dry_run=True)
-        log.info("Dry-run xong sau %.0fs", time.time() - t0)
-        return
-    # Tầng 4 + xuất
-    issue = build(auto, review, blocked, rejected_score, cfg, day)
-    if issue and not args.no_mark:
+
+    scored, has_scores, rejected_score = passed, False, []
+    if not args.no_ai:
+        try:
+            from score import score_articles
+            from ai import check_login
+            ok, msg = check_login()
+            if not ok:
+                log.warning("AI chưa sẵn sàng (%s) → chọn ứng viên không có điểm AI. Chạy 'claude login' để bật.", msg)
+            else:
+                scored = score_articles(passed, cfg)
+                has_scores = any(a.get("score") is not None for a in scored)
+                min_score = cfg.get("review", {}).get("min_score_candidate", 6)
+                rejected_score = [a for a in scored if a.get("score") is not None and a["score"] < min_score]
+        except Exception as e:
+            log.error("Tầng AI lỗi: %s → tiếp tục không có điểm AI", e)
+
+    chosen = select(scored, cfg, has_scores)
+    ok, bad = extract_all(chosen, day)
+    payload = save(day, cfg, ok, has_scores, blocked, rejected_score, bad)
+    if not args.no_mark:
         mark_seen(raw)
-    log.info("Xong sau %.0fs", time.time() - t0)
+
+    print(f"\nỨNG VIÊN NGÀY {day}: {len(ok)} bài" + ("" if has_scores else "  (chưa có điểm AI)"))
+    for a in ok:
+        sc = f"{a['score']:>2}" if a.get("score") is not None else " -"
+        print(f"  [{sc}] {a.get('section') or a.get('hint_section') or '':20} {a['source_name']:12} {a['title'][:70]}  ({len(a['images'])} ảnh, {a['words']} chữ)")
+    print(f"\nMở http://localhost:8765/duyet.html để chọn và xuất bản.  ({time.time() - t0:.0f}s)")
 
 
 if __name__ == "__main__":

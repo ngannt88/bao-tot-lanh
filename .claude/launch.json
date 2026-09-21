@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "bao-tot-lanh",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "docs"],
+      "runtimeExecutable": ".venv\\Scripts\\python.exe",
+      "runtimeArgs": ["pipeline/review_server.py"],
       "port": 8765
     }
   ]

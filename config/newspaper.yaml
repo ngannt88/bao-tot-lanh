@@ -11,31 +11,6 @@ paper:
   publish_hour: 6                # giờ chạy mỗi sáng
 
 # ---------------------------------------------------------------------
-#  HỒ SƠ ĐỌC  — mỗi bé một mức viết lại
-# ---------------------------------------------------------------------
-readers:
-  - id: "be-nho"
-    name: "Bé 7"
-    age: 7
-    grade: 2
-    words: [120, 180]            # độ dài bản viết lại (số chữ)
-    style: >
-      Câu ngắn dưới 12 chữ. Từ quen thuộc của học sinh lớp 2. Giọng kể chuyện
-      ấm áp như cô giáo kể. Mỗi đoạn 2–3 câu. Có một câu mở đầu gây tò mò.
-      Không dùng số quá lớn, đổi thành so sánh ("cao bằng 3 ngôi nhà").
-    interests: ["vẽ", "hội họa", "màu sắc", "động vật", "minecraft", "xây nhà", "bóng đá"]
-  - id: "be-lon"
-    name: "Bé 11"
-    age: 11
-    grade: 6
-    words: [300, 450]
-    style: >
-      Câu vừa, có thể dùng thuật ngữ nếu giải thích ngay trong ngoặc. Giọng
-      như một người anh lớn kể chuyện thú vị. Có số liệu cụ thể. Kết bài bằng
-      một ý mở để suy nghĩ thêm.
-    interests: ["bóng đá", "ronaldo", "khoa học", "công nghệ", "kiến trúc", "minecraft", "kỷ lục", "vũ trụ"]
-
-# ---------------------------------------------------------------------
 #  CHUYÊN MỤC  — mỗi số báo cố gắng có đủ các mục "required"
 # ---------------------------------------------------------------------
 sections:
@@ -293,16 +268,22 @@ blocklist_exceptions:
   - "đánh rơi"      # "đánh rơi 3 điểm" là cách nói bóng đá
 
 # ---------------------------------------------------------------------
-#  TẦNG 3 — TIÊU CHÍ AI CHẤM ĐIỂM  (Haiku đọc tiêu đề + mô tả)
+#  DUYỆT TAY — mỗi sáng cha mẹ chọn bài từ danh sách ứng viên
+# ---------------------------------------------------------------------
+review:
+  candidates_per_day: 12       # số ứng viên đưa ra cho cha mẹ chọn
+  min_score_candidate: 6       # điểm AI tối thiểu để thành ứng viên (0–10)
+
+# ---------------------------------------------------------------------
+#  TẦNG 3 — TIÊU CHÍ AI CHẤM ĐIỂM  (Haiku đọc tiêu đề + mô tả). Bài lên báo
+#  hiển thị NGUYÊN VĂN báo gốc, AI không viết lại gì.
 # ---------------------------------------------------------------------
 scoring:
   model_filter: "haiku"
-  model_rewrite: "sonnet"
-  threshold_auto: 8       # >= 8 tự động lên báo
-  threshold_review: 6     # 6–7 vào hàng chờ cha mẹ duyệt; < 6 loại
   criteria: |
-    Bạn là biên tập viên tờ báo dành cho hai bé trai 7 và 11 tuổi. Bố mẹ muốn
-    con được truyền cảm hứng học hỏi, tò mò lành mạnh, yêu cái đẹp, biết nỗ lực.
+    Bạn là biên tập viên tờ báo dành cho hai bé trai 7 và 11 tuổi. Bài được chọn sẽ
+    hiển thị NGUYÊN VĂN cho trẻ đọc, nên chỉ chọn bài mà văn bản gốc trẻ đọc được.
+    Bố mẹ muốn con được truyền cảm hứng học hỏi, tò mò lành mạnh, yêu cái đẹp, biết nỗ lực.
     Chấm mỗi bài từ 0 đến 10 theo các tiêu chí, TRỪ ĐIỂM MẠNH nếu vi phạm:
 
     ĐIỂM CỘNG
@@ -311,7 +292,8 @@ scoring:
     - Gợi tò mò lành mạnh: kỳ lạ, to lớn, bí ẩn có lời giải, kỷ lục.
     - Gần sở thích của các bé: bóng đá tinh thần thể thao, kiến trúc và xây dựng,
       hội họa, động vật, vũ trụ, robot.
-    - Có thể biến thành hoạt động: vẽ lại, xây trong Minecraft, thử tại nhà.
+    - Có ảnh minh họa thật, cụ thể (bài về con vật, công trình, vũ trụ, thí nghiệm).
+    - Văn gốc dễ đọc, kể chuyện, không phải bài phân tích chuyên sâu.
 
     ĐIỂM TRỪ NẶNG (thường đưa về dưới 4)
     - Bạo lực, tai nạn, chết chóc, kinh dị, ma quỷ, gây sợ.
@@ -321,39 +303,9 @@ scoring:
     - Chính trị, pháp luật, xét xử, chiến tranh.
     - Áp lực thi cử, điểm số, so sánh học sinh.
     - Tin thời sự thuần túy không có bài học gì (họp, phát biểu, lịch thi).
-    - Nội dung cần kiến thức người lớn mới hiểu hoặc không thể viết lại cho trẻ.
+    - Nội dung cần kiến thức người lớn mới hiểu; bài phỏng vấn dài, bài chính sách, bài số liệu kinh tế.
 
     ĐỘ TIN CẬY: nếu tiêu đề giật gân, mơ hồ, "gây sốc", "không thể tin" → trừ 2.
-
-# ---------------------------------------------------------------------
-#  TẦNG 4 — VIẾT LẠI  (Sonnet đọc toàn văn, viết 2 bản + hoạt động)
-# ---------------------------------------------------------------------
-rewrite:
-  rules: |
-    - Trung thực với nguồn: không thêm sự kiện, không bịa số liệu. Nếu nguồn có
-      chi tiết không phù hợp trẻ em thì BỎ HẲN, không "nói nhẹ".
-    - Không nhắc tên báo gốc, không link, không "theo nguồn tin".
-    - Không nói về tiền, giá, lương. Không nhắc thương hiệu trừ khi là chủ thể
-      khoa học (NASA, SpaceX được; hãng điện thoại thì không).
-    - Kết mỗi bài bằng một ý tích cực hoặc một câu hỏi mở, không giáo điều.
-    - Tiếng Việt chuẩn, không tiếng lóng mạng, không emoji trong thân bài.
-  activities:
-    - id: "ve"
-      name: "Góc vẽ hôm nay"
-      when: "bài có hình ảnh cụ thể dễ vẽ: con vật, công trình, hành tinh, robot"
-      prompt_style: "Một câu mời vẽ, gợi 2–3 chi tiết đặc trưng để vẽ cho giống."
-    - id: "xay"
-      name: "Thử thách xây"
-      when: "bài về kiến trúc, công trình, thành phố, tàu vũ trụ, cầu, sân vận động"
-      prompt_style: "Một câu mời xây trong Minecraft hoặc bằng Lego, gợi 1 đặc điểm phải có."
-    - id: "thu"
-      name: "Thử tại nhà"
-      when: "bài khoa học có thể tái hiện an toàn bằng đồ trong nhà"
-      prompt_style: "Một thí nghiệm 3 bước, an toàn tuyệt đối, có người lớn cùng làm nếu cần."
-    - id: "hoi"
-      name: "Câu hỏi suy nghĩ"
-      when: "mọi bài"
-      prompt_style: "Một câu hỏi mở, không có đáp án đúng sai, nối bài với đời sống của bé."
 
 # ---------------------------------------------------------------------
 #  NGUỒN — điền sau khi dò RSS (probe_feeds.py). Chỉ giữ feed sống.
@@ -391,11 +343,11 @@ sources:
   - {id: vietnamplus-giaoduc,  name: VietnamPlus, lang: vi, section: guong-sang,        url: "https://www.vietnamplus.vn/rss/giaoduc.rss"}
   - {id: vietnamplus-thethao,  name: VietnamPlus, lang: vi, section: the-thao-dep,      url: "https://www.vietnamplus.vn/rss/thethao.rss"}
   - {id: tienphong-giao-duc,   name: Tiền Phong, lang: vi, section: guong-sang,         url: "https://tienphong.vn/rss/giao-duc-71.rss"}
-  - {id: khoahocdoisong,       name: Khoa học & Đời sống, lang: vi, section: kham-pha-khoa-hoc, url: "https://khoahocdoisong.vn/rss/home.rss", max_age_h: 120}
+  - {id: khoahocdoisong,       name: Khoa học & Đời sống, lang: vi, section: kham-pha-khoa-hoc, url: "https://khoahocdoisong.vn/rss/home.rss", max_age_h: 120, enabled: false}  # feed trang chủ toàn tin chính trị
   - {id: kienthuc-khoa-hoc,    name: Kiến Thức,  lang: vi, section: kham-pha-khoa-hoc,  url: "https://kienthuc.net.vn/rss/khoa-hoc-cong-nghe-8.rss", enabled: false}  # nhiều tít giật gân, tắt mặc định
-  # ---- Quốc tế viết cho trẻ em (AI dịch) ----
-  - {id: bbc-newsround,        name: BBC Newsround, lang: en, section: kham-pha-the-gioi, url: "https://feeds.bbci.co.uk/newsround/rss.xml", max_age_h: 120}
-  - {id: snexplores,           name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/feed", max_age_h: 120}
-  - {id: nasa,                 name: NASA,       lang: en, section: kham-pha-khoa-hoc,  url: "https://www.nasa.gov/rss/dyn/breaking_news.rss", max_age_h: 120}
-  - {id: sciencedaily,         name: ScienceDaily, lang: en, section: kham-pha-khoa-hoc, url: "https://www.sciencedaily.com/rss/top/science.xml", max_age_h: 120}
-  - {id: smithsonian,          name: Smithsonian, lang: en, section: the-gioi-dong-vat,  url: "https://www.smithsonianmag.com/rss/science-nature/", max_age_h: 120}
+  # ---- Quốc tế (TẮT: bài hiện nguyên văn, bé chưa đọc tiếng Anh; bật lại khi có dịch) ----
+  - {id: bbc-newsround,        name: BBC Newsround, lang: en, section: kham-pha-the-gioi, url: "https://feeds.bbci.co.uk/newsround/rss.xml", max_age_h: 120, enabled: false}
+  - {id: snexplores,           name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/feed", max_age_h: 120, enabled: false}
+  - {id: nasa,                 name: NASA,       lang: en, section: kham-pha-khoa-hoc,  url: "https://www.nasa.gov/rss/dyn/breaking_news.rss", max_age_h: 120, enabled: false}
+  - {id: sciencedaily,         name: ScienceDaily, lang: en, section: kham-pha-khoa-hoc, url: "https://www.sciencedaily.com/rss/top/science.xml", max_age_h: 120, enabled: false}
+  - {id: smithsonian,          name: Smithsonian, lang: en, section: the-gioi-dong-vat,  url: "https://www.smithsonianmag.com/rss/science-nature/", max_age_h: 120, enabled: false}
