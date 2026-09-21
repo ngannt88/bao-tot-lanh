@@ -11,6 +11,19 @@ $log = Join-Path $Root "data\logs\scheduler.log"
 New-Item -ItemType Directory -Force (Split-Path $log) | Out-Null
 "=== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') bắt đầu ===" | Add-Content $log
 
+function Notify($title, $msg) {
+    # Thông báo Windows, không cần cài thêm gì
+    try {
+        [Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] | Out-Null
+        $xml = [Windows.UI.Notifications.ToastNotificationManager]::GetTemplateContent([Windows.UI.Notifications.ToastTemplateType]::ToastText02)
+        $t = $xml.GetElementsByTagName("text")
+        $t.Item(0).AppendChild($xml.CreateTextNode($title)) | Out-Null
+        $t.Item(1).AppendChild($xml.CreateTextNode($msg)) | Out-Null
+        $toast = [Windows.UI.Notifications.ToastNotification]::new($xml)
+        [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("Báo Tốt Lành").Show($toast)
+    } catch { "notify lỗi: $_" | Add-Content $log }
+}
+
 $today = Get-Date -Format 'yyyy-MM-dd'
 $candFile = Join-Path $Root "data\candidates\$today.json"
 $issueFile = Join-Path $Root "docs\data\issues\$today.json"
@@ -29,7 +42,13 @@ if (-not (Test-Path $candFile)) {
     }
     if (-not $ok) { "Không có mạng, bỏ qua." | Add-Content $log; exit 1 }
     & $Py (Join-Path $Root "pipeline\run_daily.py") 2>&1 | Add-Content $log
-    "pipeline exit=$LASTEXITCODE" | Add-Content $log
+    $code = $LASTEXITCODE
+    "pipeline exit=$code" | Add-Content $log
+    if ($code -ne 0 -or -not (Test-Path $candFile)) {
+        Notify "Báo Tốt Lành: lỗi lấy tin sáng nay" "Xem data\logs\scheduler.log"
+        exit 1
+    }
+    Notify "Báo Tốt Lành: có ứng viên mới" "Mở trang duyệt để chọn bài cho con"
 } else {
     "Ứng viên hôm nay đã có, chỉ mở trang duyệt." | Add-Content $log
 }

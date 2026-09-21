@@ -33,7 +33,7 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
             if a["id"] not in used and key(a) == sid:
                 chosen.append(a); used.add(a["id"]); count[sid] += 1
                 break
-    cap = {sid: s.get("max_per_issue", 2) + 1 for sid, s in secs.items()}
+    cap = {sid: s.get("max_per_issue", 2) * 2 for sid, s in secs.items()}   # ứng viên gấp đôi số bài mỗi mục
     if not has_scores:
         # xoay vòng đều giữa các mục
         buckets: dict[str, list] = {}

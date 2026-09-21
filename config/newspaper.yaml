@@ -7,7 +7,7 @@ paper:
   name: "Báo Tốt Lành"
   tagline: "Mỗi ngày một số báo. Đọc hết là xong. Hẹn mai nhé."
   timezone: "Asia/Ho_Chi_Minh"
-  articles_per_issue: 7          # số bài mỗi số báo (6–8 là hợp lý)
+  articles_per_issue: 12         # số bài mỗi số báo (đọc hết 15–25 phút)
   publish_hour: 6                # giờ chạy mỗi sáng
 
 # ---------------------------------------------------------------------
@@ -18,7 +18,7 @@ sections:
     name: "Thể thao đẹp"
     emoji: "⚽"
     required: true
-    max_per_issue: 2
+    max_per_issue: 3
     what: >
       Câu chuyện khổ luyện, kỷ luật, tinh thần đồng đội, vượt khó của vận động
       viên; kỷ lục thể thao; thể thao học đường Việt Nam; khoa học trong thể thao.
@@ -29,7 +29,7 @@ sections:
     name: "Khám phá khoa học"
     emoji: "🔬"
     required: true
-    max_per_issue: 2
+    max_per_issue: 3
     what: >
       Phát minh, thí nghiệm, vũ trụ, robot, năng lượng, y học đơn giản, cách
       mọi thứ hoạt động, bí ẩn khoa học đã có lời giải.
@@ -39,7 +39,7 @@ sections:
     name: "Thế giới động vật"
     emoji: "🦈"
     required: true
-    max_per_issue: 1
+    max_per_issue: 2
     what: >
       Sinh vật kỳ lạ, to lớn, hiếm gặp: cá mập yêu tinh, mực khổng lồ, khủng long,
       sinh vật biển sâu; hành vi thông minh của động vật; bảo tồn thành công.
@@ -51,7 +51,7 @@ sections:
     name: "Sáng tạo & Kiến trúc"
     emoji: "🎨"
     required: true
-    max_per_issue: 2
+    max_per_issue: 3
     what: >
       Hội họa, tranh đẹp, họa sĩ nhỏ tuổi, bảo tàng, hoạt hình được làm thế nào;
       kiến trúc, công trình kỳ vĩ, kỹ sư xây dựng, mô hình, Lego, thiết kế.
@@ -62,7 +62,7 @@ sections:
     name: "Gương sáng & Tài năng trẻ"
     emoji: "🌟"
     required: true
-    max_per_issue: 1
+    max_per_issue: 2
     what: >
       Học sinh đạt giải, sáng chế của trẻ em, người tốt việc tốt, người vượt
       nghịch cảnh để học tập, thầy cô tận tâm, dự án cộng đồng.
@@ -72,7 +72,7 @@ sections:
     name: "Khám phá thế giới"
     emoji: "🌏"
     required: false
-    max_per_issue: 1
+    max_per_issue: 2
     what: >
       Địa lý, văn hóa các nước, lịch sử Việt Nam kể hấp dẫn, danh thắng, ẩm thực
       truyền thống, lễ hội.
@@ -271,7 +271,7 @@ blocklist_exceptions:
 #  DUYỆT TAY — mỗi sáng cha mẹ chọn bài từ danh sách ứng viên
 # ---------------------------------------------------------------------
 review:
-  candidates_per_day: 12       # số ứng viên đưa ra cho cha mẹ chọn
+  candidates_per_day: 25       # số ứng viên đưa ra cho cha mẹ chọn
   min_score_candidate: 6       # điểm AI tối thiểu để thành ứng viên (0–10)
 
 # ---------------------------------------------------------------------
@@ -345,6 +345,9 @@ sources:
   - {id: tienphong-giao-duc,   name: Tiền Phong, lang: vi, section: guong-sang,         url: "https://tienphong.vn/rss/giao-duc-71.rss"}
   - {id: khoahocdoisong,       name: Khoa học & Đời sống, lang: vi, section: kham-pha-khoa-hoc, url: "https://khoahocdoisong.vn/rss/home.rss", max_age_h: 120, enabled: false}  # feed trang chủ toàn tin chính trị
   - {id: kienthuc-khoa-hoc,    name: Kiến Thức,  lang: vi, section: kham-pha-khoa-hoc,  url: "https://kienthuc.net.vn/rss/khoa-hoc-cong-nghe-8.rss", enabled: false}  # nhiều tít giật gân, tắt mặc định
+  # ---- VTV ----
+  - {id: vtv-giao-duc,         name: VTV,        lang: vi, section: guong-sang,         url: "https://vtv.vn/rss/giao-duc.rss"}
+  - {id: vtv-the-thao,         name: VTV,        lang: vi, section: the-thao-dep,       url: "https://vtv.vn/rss/the-thao.rss"}
   # ---- Quốc tế (TẮT: bài hiện nguyên văn, bé chưa đọc tiếng Anh; bật lại khi có dịch) ----
   - {id: bbc-newsround,        name: BBC Newsround, lang: en, section: kham-pha-the-gioi, url: "https://feeds.bbci.co.uk/newsround/rss.xml", max_age_h: 120, enabled: false}
   - {id: snexplores,           name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/feed", max_age_h: 120, enabled: false}

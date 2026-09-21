@@ -62,9 +62,9 @@ def collect(sources: list[dict]) -> list[dict]:
     items = [a for lst in lists for a in lst]
 
     # Khử trùng lặp theo url và theo tiêu đề gần giống (cùng sự kiện nhiều báo đăng)
-    state = read_json(STATE, {"seen": {}})
+    state = read_json(STATE, {"seen": {}, "titles": {}})
     seen_urls = state["seen"]
-    uniq, seen_titles = [], set()
+    uniq, seen_titles = [], set(state.get("titles", {}).keys())   # tiêu đề đã thấy 3 ngày gần đây
     dropped_seen = dropped_dup = 0
     for a in items:
         if a["id"] in seen_urls:
@@ -83,10 +83,14 @@ def collect(sources: list[dict]) -> list[dict]:
 
 
 def mark_seen(articles: list[dict]) -> None:
-    state = read_json(STATE, {"seen": {}})
+    state = read_json(STATE, {"seen": {}, "titles": {}})
     day = today_str()
+    titles = state.setdefault("titles", {})
     for a in articles:
         state["seen"][a["id"]] = day
+        titles[norm(a["title"])[:70]] = day
+    keep_t = sorted(set(titles.values()))[-3:]
+    state["titles"] = {k: v for k, v in titles.items() if v in keep_t}
     # Giữ 30 ngày để file không phình
     keep = sorted(set(state["seen"].values()))[-30:]
     state["seen"] = {k: v for k, v in state["seen"].items() if v in keep}

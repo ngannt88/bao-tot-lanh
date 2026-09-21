@@ -158,3 +158,20 @@ textarea.answer {
 .body blockquote { margin:1em 0; padding:10px 16px; border-left:5px solid var(--soft); color:var(--ink-2); font-style:italic; }
 .body p.li { padding-left:8px; }
 @media (max-width:560px) { .card { grid-template-columns:72px 1fr auto; } .card .thumb { width:72px; height:72px; } .hero-text h2 { font-size:1.2rem; } }
+
+/* ===== Chế độ tối, cỡ chữ, hộp ảnh, số cũ ===== */
+:root[data-theme="dark"] {
+  --bg: #1E1B17; --paper: #2A2622; --ink: #F1EBE0; --ink-2: #B9B0A2; --line: #3D3730;
+  --accent: #F0904A; --soft: #3A2E22; --ok: #6FC08D; --shadow: 0 6px 24px rgba(0,0,0,.35);
+}
+:root[data-theme="dark"] .banner { background: #4A3A14; color: #F5DFA8; }
+:root[data-theme="dark"] .fig img, :root[data-theme="dark"] .hero-img, :root[data-theme="dark"] .card .thumb { filter: brightness(.92); }
+.banner.old { display: flex; gap: 8px; justify-content: center; align-items: center; }
+.linkish { background: none; border: none; color: var(--accent); font-weight: 800; cursor: pointer; padding: 0; text-decoration: underline; }
+.fig img { cursor: zoom-in; }
+.lightbox { position: fixed; inset: 0; background: rgba(0,0,0,.94); z-index: 50; display: grid; place-items: center; grid-template-rows: 1fr auto; padding: 12px; cursor: zoom-out; }
+.lightbox[hidden] { display: none; }
+.lightbox img { max-width: 100%; max-height: calc(100dvh - 90px); object-fit: contain; border-radius: 8px; }
+.lightbox .cap { color: #EEE; font-size: .95rem; text-align: center; padding: 10px 6px 4px; max-width: 900px; }
+.top .right .btn.small.ghost { min-width: 42px; padding: 6px 10px; }
+@media (max-width: 480px) { .brand small { display: none; } .top .right { gap: 2px; } }
