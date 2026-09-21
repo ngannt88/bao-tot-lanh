@@ -188,6 +188,20 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
         if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) or not topic_ok(c):
             continue
         take(c, sid)
+    # Vẫn thiếu bài vì hạn mức chuyên mục chặn → nới hạn mức, thà lệch mục còn hơn số báo mỏng
+    if len(chosen) < n:
+        for extra in (1, 2, 99):
+            for c in pool:
+                if len(chosen) >= n:
+                    break
+                sid = c.get("section")
+                if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) + extra:
+                    continue
+                if extra < 99 and not topic_ok(c):
+                    continue
+                take(c, sid)
+            if len(chosen) >= n:
+                break
     return [c["id"] for c in chosen]
 
 

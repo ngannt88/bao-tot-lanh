@@ -7,7 +7,7 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup, Tag
 from PIL import Image
-from common import setup_logging, word_count, strip_html, http_get
+from common import setup_logging, word_count, strip_html, http_get, norm
 
 log = setup_logging()
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128 Safari/537.36",
@@ -254,6 +254,11 @@ def extract_article(a: dict, img_dir: Path, min_words: int | None = None) -> dic
 
     words = sum(word_count(b.get("text", "")) for b in blocks)
     floor = MIN_WORDS if min_words is None else int(min_words)
+    # Tiêu đề vô nghĩa = trang lỗi hoặc trang mục lục, không phải bài
+    if norm(title) in ("tin tuc", "tin tuc moi nhat", "trang chu", "news", "home",
+                       "video", "anh", "khong tim thay trang") or len(title.strip()) < 12:
+        out.update(extracted_ok=False, extract_error=f"tiêu đề không hợp lệ: {title[:40]}")
+        return out
     # bỏ dòng tác giả lặp cuối bài nếu trùng
     if blocks and blocks[-1]["t"] == "p" and author and blocks[-1]["text"].strip() == author.strip():
         blocks.pop()
