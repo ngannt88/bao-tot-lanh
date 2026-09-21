@@ -2,7 +2,7 @@
  "date": "2026-09-21",
  "paper": "Báo Tốt Lành",
  "tagline": "Mỗi ngày một số báo. Đọc hết là xong. Hẹn mai nhé.",
- "generated_at": "2026-09-21T17:07:59+07:00",
+ "generated_at": "2026-09-21T21:27:33+07:00",
  "sections": [
   {
    "id": "the-thao-dep",
@@ -631,8 +631,198 @@
    ]
   },
   {
-   "id": "059a6c923878",
+   "id": "e47c8e095bfd",
    "order": 6,
+   "slug": "xuc-dong-canh-nguoi-dan-khieng-xe-giup-giao-vien-vuot-suoi-d",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Xúc động cảnh người dân khiêng xe giúp giáo viên vượt suối đến lớp",
+   "sapo": "Để đến các điểm trường Cát và Trỉa ở xã Hướng Phùng, Quảng Trị, nơi có đồng bào Vân Kiều sinh sống, giáo viên phải băng rừng, lội suối, vượt những đoạn đường đứt gãy. Sau hành trình nhọc nhằn ấy là những lớp học và học sinh vùng cao đang chờ thầy cô.",
+   "author": "Hương Lài",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/xuc-dong-canh-nguoi-dan-khieng-xe-giup-giao-vien-vuot-suoi-den-lop-2556771.html",
+   "published": "2026-09-21T08:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1004,
+   "images": [
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-0.jpg",
+     "caption": "Người dân hỗ trợ đưa xe máy qua đoạn tràn có dòng nước chảy xiết trên đường vào thôn Cát Trỉa. Ảnh: CTV",
+     "w": 1100,
+     "h": 1467
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-1.jpg",
+     "caption": "Người dân thôn Cát Trỉa khiêng xe giúp cho giáo viên trên địa bàn. Ảnh: CTV",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-2.jpg",
+     "caption": "Cô Nguyễn Thị Lệ Quỳnh trong một tiết dạy tại điểm trường Cát, thuộc Trường Phổ thông dân tộc bán trú Tiểu học Hướng Sơn, xã Hướng Phùng, Quảng Trị. Ảnh: NVCC",
+     "w": 1280,
+     "h": 910
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-3.jpg",
+     "caption": "Nhiều đoạn đường vào các điểm trường Cát và Trỉa bị hư hỏng, chia cắt, khiến giáo viên và người dân gặp nhiều khó khăn trong việc đi lại. Ảnh: CTV",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-4.jpg",
+     "caption": "Nhiều người tập trung tại đoạn tràn qua suối để chờ nước rút, tiếp tục hành trình vào thôn Cát Trỉa. Ảnh: CTV",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-5.jpg",
+     "caption": "Nhiều đoạn đường vào các điểm trường Cát và Trỉa bị hư hỏng, chia cắt, khiến giáo viên và người dân gặp nhiều khó khăn trong việc đi lại.",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-6.jpg",
+     "caption": "Bỏ cộng điểm IELTS, học sinh giỏi khi xét tuyển: 'Không đáng lo, không sợ thiệt'",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/e47c8e095bfd-7.jpg",
+     "caption": "Thầy cô giáo vượt 18km đường rừng đón 83 học sinh dự lễ khai giảng",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "XEM CLIP"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2020, khi 27 tuổi, cô Nguyễn Thị Lệ Quỳnh nhận nhiệm vụ tại điểm trường Cát, thuộc Trường Phổ thông dân tộc bán trú Tiểu học Hướng Sơn, xã Hướng Phùng, tỉnh Quảng Trị. Chỉ vài tháng sau, một trận lũ lịch sử khiến tuyến đường từ Km27 Quốc lộ 9 vào thôn Cát Trỉa bị cuốn trôi, nhiều đoạn đứt gãy."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, theo chính quyền địa phương, tuyến đường vẫn còn gần 10 vị trí bị đứt đoạn, khiến việc đến trường của giáo viên thêm khó khăn."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Quỳnh, giáo viên có 2 hướng đến các điểm trường. Từ trung tâm xã Hướng Phùng theo Quốc lộ 9 đến Km27 rồi vào Cát Trỉa, quãng đường khoảng 85km. Tuy nhiên, 18km từ Km27 vào thôn đã xuống cấp nghiêm trọng. Khi mưa lớn, đoạn này không thể lưu thông, giáo viên phải đi đường vòng khoảng 31km, men theo đường đất, băng rừng, vượt suối."
+    },
+    {
+     "t": "p",
+     "text": "\"Đường đi rất vất vả, nhất là những hôm mưa lớn\", cô Quỳnh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trên tuyến đường, nhiều đoạn và cầu bị nước lũ cuốn trôi. Cầu Rào 1 đã bị cuốn trôi hoàn toàn, mỗi khi nước dâng cao, người dân và giáo viên phải đi thuyền qua. Sau các đợt mưa lớn, nhiều vị trí tiếp tục hư hỏng. Bùn đất bám chặt bánh xe, có đoạn 4-5 người phải cùng đẩy, thậm chí khiêng xe qua. Có chuyến đi kéo dài hàng giờ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chiều chủ nhật, con gái lại khóc vì phải xa mẹ"
+    },
+    {
+     "t": "p",
+     "text": "Nhà cô Quỳnh ở khu vực trung tâm xã Hướng Phùng. Cô có một con gái nhỏ 5 tuổi, phải gửi cho bà ngoại chăm sóc. Những ngày ở điểm trường, cô ở tại nhà tập thể dành cho giáo viên. Chiều thứ 6 hằng tuần, cô về với gia đình, được ôm con, nghe con kể chuyện."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chiều chủ nhật hoặc sáng thứ 2, khi mẹ chuẩn bị trở lại điểm trường, cô bé lại khóc nức nở vì không muốn xa mẹ. \"Nhìn con khóc cũng thương lắm, nhưng mình là giáo viên, các em học sinh vẫn đang chờ\", cô Quỳnh tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi lần rời nhà, cô lại đối mặt với những con dốc, dòng suối và đoạn đường bùn lầy, đứt gãy. Những hôm mưa lớn, cô cùng đồng nghiệp phải xuống xe, lội bùn, dắt từng chiếc xe máy. Đến điểm trường, trước mắt cô vẫn là những học sinh đang chờ giờ lên lớp."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ cô Quỳnh, nhiều giáo viên khác tại 2 điểm trường cũng vượt khó để bám trường, bám lớp."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Thầy Nguyễn Đình Sâm, Hiệu trưởng Trường Phổ thông dân tộc bán trú Tiểu học Hướng Sơn, cho biết 2 điểm trường Cát và Trỉa cách nhau khoảng 7km, hiện có 118 học sinh với 3 cô giáo và 6 thầy giáo."
+    },
+    {
+     "t": "p",
+     "text": "Theo thầy Sâm, mùa mưa lũ, đường đến trường của giáo viên tiềm ẩn nhiều nguy hiểm. Mỗi khi đường bị chia cắt, bà con địa phương thường hỗ trợ đưa giáo viên qua những đoạn khó đi."
+    },
+    {
+     "t": "p",
+     "text": "“Nếu không có bà con hỗ trợ, nhiều hôm giáo viên chưa chắc đã đến được lớp. Nhà trường rất biết ơn và trân trọng sự đồng hành, tình cảm của bà con. Chúng tôi mong muốn chính quyền địa phương sớm sửa chữa tuyến đường từ Km27 Quốc lộ 9 vào 2 điểm trường để không chỉ giáo viên mà học sinh và người dân đều được đi lại thuận tiện, an toàn hơn\", thầy Sâm nói."
+    },
+    {
+     "t": "p",
+     "text": "Con đường 18km và những hố sâu, vực thẳm"
+    },
+    {
+     "t": "p",
+     "text": "Những nhọc nhằn trên đường đến trường của giáo viên cũng chính là khó khăn mà người dân Cát Trỉa phải đối mặt mỗi ngày. Trước khi xuống cấp, người dân chỉ mất khoảng 30 phút đi xe máy trên tuyến đường 18km này, ô tô cũng có thể dễ dàng vào tận thôn. Nhưng sau nhiều năm chịu tác động của mưa lũ và sạt lở, đường đã hư hỏng nghiêm trọng."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 6 năm qua, nhiều đoạn đường xuất hiện hố sâu, vực thẳm, có nơi sâu 5m, có điểm hơn 20m. Mỗi khi mưa lớn, Cát Trỉa có nguy cơ bị cô lập, người dân phải đi theo lối mòn trong rừng, băng suối để ra vào thôn. Quãng đường vốn chỉ mất 30 phút có thể kéo dài nhiều giờ, thời gian di chuyển tăng gấp 4-5 lần."
+    },
+    {
+     "t": "p",
+     "text": "Đáng lo nhất là những lúc người dân cần cấp cứu hoặc phụ nữ chuyển dạ. Đã có trường hợp người bệnh, sản phụ phải nằm trên võng, được người thân cõng vượt suối, qua những đoạn đường hiểm trở để đến cơ sở y tế."
+    },
+    {
+     "t": "p",
+     "text": "Theo lãnh đạo xã Hướng Phùng, Cát Trỉa có 175 hộ với hơn 500 nhân khẩu, 100% là đồng bào Vân Kiều. Tuyến đường xuống cấp nghiêm trọng ảnh hưởng trực tiếp đến đời sống, sản xuất và việc đi lại của người dân. Địa phương mong muốn sớm được đầu tư sửa chữa, nâng cấp tuyến đường từ Km27 Quốc lộ 9 vào Cát Trỉa."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "\"Những con đường hư hỏng vì thế không chỉ là câu chuyện về giao thông, mà còn là câu chuyện về việc học của trẻ em, sức khỏe của người dân và sinh kế của cả một bản làng\", vị lãnh đạo này nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "Với cô Nguyễn Thị Lệ Quỳnh, sửa chữa tuyến đường không chỉ giúp giáo viên đến trường thuận lợi hơn, mà còn giúp trẻ em đến lớp an toàn, người dân kịp thời đưa người bệnh đi cấp cứu và đưa sản phẩm vùng cao đến thị trường."
+    },
+    {
+     "t": "p",
+     "text": "Những năm qua, cô Quỳnh và các đồng nghiệp đã quen với việc dắt xe qua bùn, lội suối, băng rừng để đến trường. Dù mỗi lần trở lại điểm trường là một lần xa con, cô vẫn lên đường vì phía trước là những học sinh đang chờ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "059a6c923878",
+   "order": 7,
    "slug": "68-ngay-lai-xe-tu-ha-noi-den-paris",
    "section": "kham-pha-the-gioi",
    "section_name": "Khám phá thế giới",
@@ -802,7 +992,7 @@
   },
   {
    "id": "c0037111581b",
-   "order": 7,
+   "order": 8,
    "slug": "vao-noi-che-tao-robot-chua-chay-hien-dai-cua-viet-nam-xuat-k",
    "section": "kham-pha-khoa-hoc",
    "section_name": "Khám phá khoa học",
@@ -1064,7 +1254,7 @@
   },
   {
    "id": "ddb6d50a4e85",
-   "order": 8,
+   "order": 9,
    "slug": "man-city-thang-nghet-tho-sunderland-trong-tran-cau-8-ban",
    "section": "the-thao-dep",
    "section_name": "Thể thao đẹp",
@@ -1174,7 +1364,7 @@
   },
   {
    "id": "7cff44efa3ab",
-   "order": 9,
+   "order": 10,
    "slug": "ong-lao-sua-xe-75-tuoi-va-goc-nho-tu-te-giua-long-thanh-pho",
    "section": "sang-tao-kien-truc",
    "section_name": "Sáng tạo & Kiến trúc",
@@ -1318,7 +1508,7 @@
   },
   {
    "id": "2d276e7b3a7b",
-   "order": 10,
+   "order": 11,
    "slug": "robot-ai-han-quoc-tu-tim-duong-o-cho-la-di-nham-con-biet-tim",
    "section": "kham-pha-khoa-hoc",
    "section_name": "Khám phá khoa học",
@@ -1417,8 +1607,136 @@
    ]
   },
   {
+   "id": "33f413f302a4",
+   "order": 12,
+   "slug": "khoanh-khac-mat-trang-nuot-dan-sao-kim-de-lai-hai-vang-luoi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Khoảnh khắc Mặt trăng 'nuốt' dần sao Kim, để lại hai vầng lưỡi liềm trên trời",
+   "sapo": "Hai vầng lưỡi liềm xuất hiện cạnh nhau giữa ban ngày, rồi sao Kim dần khuất sau Mặt trăng. Màn 'trốn tìm' trên bầu trời Các Tiểu vương quốc Ả Rập thống nhất được đài thiên văn ghi lại bằng ảnh và video tua nhanh.",
+   "author": "HOÀNG THI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/khoanh-khac-mat-trang-nuot-dan-sao-kim-de-lai-hai-vang-luoi-liem-tren-troi-100260915092344372.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 495,
+   "images": [
+    {
+     "src": "img/2026-09-21/33f413f302a4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-21/33f413f302a4-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-09-21/33f413f302a4-1.jpg",
+     "caption": "",
+     "w": 1125,
+     "h": 1500
+    },
+    {
+     "src": "img/2026-09-21/33f413f302a4-2.jpg",
+     "caption": "",
+     "w": 554,
+     "h": 554
+    },
+    {
+     "src": "img/2026-09-21/33f413f302a4-3.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 768
+    },
+    {
+     "src": "img/2026-09-21/33f413f302a4-4.jpg",
+     "caption": "",
+     "w": 800,
+     "h": 600
+    },
+    {
+     "src": "img/2026-09-21/33f413f302a4-5.jpg",
+     "caption": "Khoảnh khắc Mặt trăng bắt đầu đi ngang qua sao Kim - Ảnh: WAM",
+     "w": 640,
+     "h": 479
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh Mặt trăng và sao Kim trên bầu trời tối 14-9 - Ảnh: CNA"
+    },
+    {
+     "t": "p",
+     "text": "Chiều 14-9, Đài thiên văn Al Khatim thuộc Trung tâm Thiên văn quốc tế ghi nhận hiện tượng Mặt trăng che khuất sao Kim trên bầu trời UAE. Theo Gulf News , hành tinh này bị che khỏi tầm nhìn trong khoảng 84 phút trước khi xuất hiện trở lại."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình bắt đầu vào khoảng 14h35 (theo giờ địa phương). Mặt trăng dần lấn qua đĩa biểu kiến của sao Kim, mất 2 phút 21 giây để che kín hành tinh. Hình ảnh ghi lại cho thấy sao Kim thu hẹp rồi khuất hẳn sau rìa Mặt trăng."
+    },
+    {
+     "t": "p",
+     "text": "Ấn tượng nhất là cả hai thiên thể đều mang dáng lưỡi liềm. Bên cạnh vầng trăng lớn, sao Kim trông như một lưỡi liềm nhỏ, tạo nên hình ảnh hai đường cong sáng nằm sát nhau trước lúc che khuất."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Trong thiên văn học, hiện tượng này xảy ra khi một thiên thể đi qua phía trước thiên thể khác theo góc nhìn của người quan sát, tạm thời che vật thể ở xa hơn. Ở đây, Mặt trăng nằm gần Trái đất hơn đã chắn đường nhìn tới sao Kim."
+    },
+    {
+     "t": "p",
+     "text": "Hành tinh không thực sự biến mất hay ngừng phát sáng. Khi chuyển động tương đối đưa Mặt trăng ra khỏi đường nhìn, sao Kim lại hiện ra. Đó là một sự thẳng hàng trên bầu trời nhìn từ một khu vực nhất định, chứ không phải cảnh tượng giống nhau ở mọi nơi trên Trái đất."
+    },
+    {
+     "t": "p",
+     "text": "Hình dáng lưỡi liềm của sao Kim cũng có lời giải thích. Theo NASA, sao Kim và sao Thủy chuyển động quanh Mặt trời trên những quỹ đạo nằm phía trong quỹ đạo Trái đất. Vị trí tương đối giữa hành tinh, Mặt trời và người quan sát thay đổi khiến phần được chiếu sáng mà chúng ta nhìn thấy cũng thay đổi."
+    },
+    {
+     "t": "p",
+     "text": "Bởi vậy, qua kính thiên văn , sao Kim có thể hiện ra gần tròn, khuyết hoặc chỉ còn một cung sáng mảnh. Các pha này tương tự những hình dạng quen thuộc của Mặt trăng, dù hai thiên thể chuyển động trên những quỹ đạo khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Một vầng lưỡi liềm không có nghĩa phần còn lại của thiên thể đã mất đi. Chúng ta chỉ đang nhìn thấy một phần nhỏ của nửa được Mặt trời chiếu sáng. Chính sự kết hợp giữa pha sáng và góc nhìn đã tạo nên màn gặp gỡ đặc biệt ở UAE."
+    },
+    {
+     "t": "p",
+     "text": "Theo NASA , năm 2026 có ba lần Mặt trăng che khuất sao Kim. Sự kiện đầu tiên diễn ra ngày 17-6, quan sát được tại Mỹ và một phần Canada. Lần ngày 14-9 nằm trong vùng quan sát gồm một phần châu Á, châu Phi, châu Âu và miền tây nước Nga. Lần tiếp theo vào ngày 7-11 có thể được quan sát từ miền nam Nam Mỹ."
+    }
+   ]
+  },
+  {
    "id": "a904511b8338",
-   "order": 11,
+   "order": 13,
    "slug": "pho-hang-ma-dong-kin-nguoi-ruc-ro-sac-mau-dip-can-trung-thu",
    "section": "sang-tao-kien-truc",
    "section_name": "Sáng tạo & Kiến trúc",
@@ -1628,7 +1946,7 @@
   },
   {
    "id": "a132ac089ebb",
-   "order": 12,
+   "order": 14,
    "slug": "lac-buoc-dao-thien-duong-santorini",
    "section": "kham-pha-the-gioi",
    "section_name": "Khám phá thế giới",
@@ -1843,6 +2161,240 @@
     {
      "t": "p",
      "text": "Ngày nay, Santorini là một trong những hòn đảo có sức hấp dẫn đặc biệt với du khách khắp thế giới."
+    }
+   ]
+  },
+  {
+   "id": "6735e5fca7e8",
+   "order": 15,
+   "slug": "mua-hong-da-lat-da-ve-vang-uom-tu-pho-ra-tan-ngoai-o",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Mùa hồng Đà Lạt đã về, vàng ươm từ phố ra tận ngoại ô",
+   "sapo": "Mùa hồng Đà Lạt vào độ chín. Từ nội ô ra Cầu Đất, Trại Mát, D'Ran, chân đèo Prenn, vườn hồng trĩu quả giữa nắng thu.",
+   "author": "MAI VINH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/mua-hong-da-lat-da-ve-vang-uom-tu-pho-ra-tan-ngoai-o-100260920124621882.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 354,
+   "images": [
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-0.jpg",
+     "caption": "Hồng Đà Lạt loại vuông, hợp ăn chín cây - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-1.jpg",
+     "caption": "Người dân thu hoạch hồng Đà Lạt để ủ giòn hoặc làm hồng sấy gió - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-2.jpg",
+     "caption": "Một vườn hồng ở khu vực Cầu Đất (Đà Lạt) - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-3.jpg",
+     "caption": "Người dân thu hoạch hồng Đà Lạt để ủ giòn hoặc làm hồng sấy gió - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-4.jpg",
+     "caption": "Hồng Đà Lạt đã vào chính vụ, rộ trái - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-5.jpg",
+     "caption": "Gọt vỏ hồng già để làm món mứt hồng sấy gió đang được ưa chuộng - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-21/6735e5fca7e8-6.jpg",
+     "caption": "Giai đoạn sản xuất hồng sấy gió tạo nên hình ảnh rất đẹp, do đó du khách rất muốn tận mắt chứng kiến - Ảnh: PHẠM QUANG NGỌC",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mưa Đà Lạt thưa dần, nắng hanh trở lại cũng là lúc những cây hồng ở Đà Lạt treo đầy trái."
+    },
+    {
+     "t": "p",
+     "text": "Mấy ngày giữa tháng 9, đi trong nội ô Đà Lạt dễ bắt gặp những gốc hồng già lá còn xanh, trái ửng vàng, có cành trĩu xuống sát mái tôn. Người Đà Lạt nhìn cây hồng mà biết mùa, không cần xem lịch."
+    },
+    {
+     "t": "p",
+     "text": "Ra ngoại ô, mùa hồng Đà Lạt hiện rõ hơn. Ở Cầu Đất , Trại Mát, D'Ran hay dưới chân đèo Prenn, hồng mọc xen trong vườn cà phê, bên rìa đồi chè, có cây cao quá nóc nhà."
+    },
+    {
+     "t": "p",
+     "text": "Trái bây giờ phần lớn còn cứng, màu vàng cam, phải thêm vài tuần nữa mới chín rộ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một điều nhỏ mà nhiều chủ vườn nhắc: vườn hồng là vườn nhà người ta, muốn vào chụp thì hỏi một tiếng. Phần lớn chủ nhà đều vui vẻ, có khi còn được mời ăn vài trái chín cây."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch Đà Lạt mùa thu, nhiều người không chỉ muốn ngắm vườn hồng mà còn tìm tới các cơ sở làm hồng treo gió. Cách làm này được chuyên gia Nhật Bản hướng dẫn cho nông dân Đà Lạt hơn chục năm trước, chỉ dùng nắng và gió tự nhiên thay cho sấy than."
+    },
+    {
+     "t": "p",
+     "text": "Để làm hồng gió, trái hồng già được gọt vỏ, chừa cuống, treo từng chuỗi trong nhà phơi kín. Gần 25 ngày, người làm phải đeo găng nắn đều từng quả cho mật kết bên trong. Vì yêu cầu vệ sinh cao, không phải xưởng nào cũng cho khách vào xem, du khách nên hỏi trước."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đà Lạt có nhiều giống hồng nhưng ăn tươi thì có 2 kiểu: hồng giòn, hồng chín mềm ăn ngay tại vườn. Mỗi kiểu cho một vị, người Đà Lạt ăn từ nhỏ quen rồi nên không cầu kỳ phân biệt giống này giống nọ."
+    },
+    {
+     "t": "p",
+     "text": "Mùa hồng Đà Lạt thường kéo dài tới khoảng tháng 11, có năm sang đầu tháng 12. Đẹp nhất là cuối tháng 10, khi lá bắt đầu rụng, trái chín đỏ còn lại trên cành trơ trụi."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "c81718f1e843",
+   "order": 16,
+   "slug": "rybakina-vo-dich-my-mo-rong-2026",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Rybakina vô địch Mỹ Mở rộng 2026",
+   "sapo": "Elena Rybakina đánh bại hạt giống số một Aryna Sabalenka 6-4, 5-7, 6-2 trong trận chung kết ngày 12/9, qua đó lần đầu đăng quang Mỹ Mở rộng và giành Grand Slam thứ ba trong sự nghiệp.",
+   "author": "Ngọc Nguyễn (tổng hợp)",
+   "source_name": "Thiếu niên Tiền phong",
+   "source_url": "https://thieunien.vn/rybakina-vo-dich-my-mo-rong-2026-tbd68455.html",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 516,
+   "images": [
+    {
+     "src": "img/2026-09-21/c81718f1e843-lead.jpg",
+     "caption": "",
+     "w": 473,
+     "h": 315
+    },
+    {
+     "src": "img/2026-09-21/c81718f1e843-0.jpg",
+     "caption": "Elena Rybakina thi đấu bản lĩnh trong trận chung kết. (Ảnh: Getty)",
+     "w": 1280,
+     "h": 812
+    },
+    {
+     "src": "img/2026-09-21/c81718f1e843-1.jpg",
+     "caption": "Rybakina nâng Cup vô địch sau khi thắng Sabalenka ở chung kết đơn nữ Mỹ Mở rộng, (Ảnh: Getty)",
+     "w": 1280,
+     "h": 816
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trước trận chung kết trên sân Arthur Ashe, Rybakina đã chắc chắn vượt Sabalenka để trở thành tay vợt nữ thứ 30 trong lịch sử giữ vị trí số một WTA, đồng thời là tay vợt đầu tiên đại diện Kazakhstan đạt cột mốc này."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng sau ba set còn giúp Rybakina chấm dứt chuỗi hai năm liên tiếp vô địch Mỹ Mở rộng của Sabalenka. Tay vợt Kazakhstan cũng ngăn đối thủ trở thành người đầu tiên vô địch giải ba năm liền kể từ Serena Williams giai đoạn 2012-2014."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần thứ ba Rybakina và Sabalenka gặp nhau ở chung kết Grand Slam. Sabalenka thắng Australia Mở rộng 2023, nhưng Rybakina giành chiến thắng trong cả hai lần đối đầu tại Grand Slam năm nay, ở Australia Mở rộng và Mỹ Mở rộng."
+    },
+    {
+     "t": "p",
+     "text": "Rybakina nhập cuộc tốt hơn dù tỷ lệ giao bóng một không cao như thường lệ. Bù lại, cô trả giao hiệu quả và liên tục gây sức ép lên Sabalenka, tạo ra tổng cộng 12 break-point trong trận."
+    },
+    {
+     "t": "p",
+     "text": "Ở set đầu, Rybakina tận dụng lỗi kép của đối thủ để giành break ở game năm. Sabalenka sau đó nhận cảnh cáo vì đánh bóng lên khán đài, trong khi Rybakina giữ được sự ổn định để thắng 6-4."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sabalenka đáp trả trong set hai. Khi Rybakina giao bóng ở tỷ số 5-6, tay vợt Belarus gia tăng sức ép và tận dụng set-point để thắng 7-5, đưa trận đấu vào set quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Rybakina nhanh chóng lấy lại thế chủ động. Cô đánh bóng sâu hơn, đứng sát baseline khi trả giao và liên tục khiến Sabalenka rơi vào thế khó. Hai break giúp tay vợt Kazakhstan dẫn 5-2 trước khi khép lại set ba với tỷ số 6-2."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi không biết phải diễn tả thế nào”, Rybakina chia sẻ sau trận . “Tôi không kỳ vọng điều này khi đến giải. Tôi gặp một chấn thương trước khi đến đây, nhưng bằng cách nào đó mọi thứ lại đi đúng hướng”."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng dự Mỹ Mở rộng của Rybakina từng bị đặt dấu hỏi vì chấn thương mắt cá. New York cũng là Grand Slam mà cô chưa từng vượt qua vòng bốn trước mùa giải năm nay."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Rybakina càng vào sâu càng chơi ổn định. Cô vượt qua Naomi Osaka ở vòng bốn, ngược dòng trước Zheng Qinwen ở tứ kết và Coco Gauff tại bán kết trước khi đánh bại Sabalenka ở chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Danh hiệu tại New York là Grand Slam thứ ba của Rybakina, sau Wimbledon 2022 và Australia Mở rộng 2026. Cô cũng trở thành tay vợt nữ thứ ba trong thế kỷ 21 vô địch cả Australia Mở rộng và Mỹ Mở rộng trong cùng một mùa, sau Angelique Kerber và Sabalenka."
+    },
+    {
+     "t": "p",
+     "text": "Rybakina hiện chỉ còn thiếu Roland Garros để hoàn tất Career Grand Slam."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Sabalenka khép lại mùa Grand Slam 2026 mà không có danh hiệu lớn, đồng thời kết thúc chuỗi 99 tuần liên tiếp giữ vị trí số một thế giới."
     }
    ]
   }
