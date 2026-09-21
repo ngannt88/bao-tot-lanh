@@ -2,7 +2,7 @@
  "date": "2026-09-22",
  "paper": "LEVEL UP",
  "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
- "generated_at": "2026-09-22T05:54:39+07:00",
+ "generated_at": "2026-09-22T05:57:38+07:00",
  "sections": [
   {
    "id": "the-thao-dep",
@@ -2958,6 +2958,505 @@
     {
      "t": "p",
      "text": "Một số tranh của cố họa sĩ Lê Bá Đảng tại triển lãm"
+    }
+   ]
+  },
+  {
+   "id": "f2745e0896b4",
+   "order": 18,
+   "slug": "haaland-can-bang-ky-luc-cua-kane-o-ngoai-hang-anh",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Haaland cân bằng kỷ lục của Kane ở Ngoại hạng Anh",
+   "sapo": "Anh Bàn thắng trong trận Man City thắng Sunderland 5-3 giúp Erling Haaland thành cầu thủ thứ hai trong lịch sử Ngoại hạng Anh ghi bàn vào lưới mọi đối thủ từng chạm trán ít nhất hai lần.",
+   "author": "Xuân Bình",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/haaland-can-bang-ky-luc-cua-kane-o-ngoai-hang-anh-5122981.html",
+   "published": "2026-09-21T09:26:40+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 705,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/f2745e0896b4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-22/f2745e0896b4-0.jpg",
+     "caption": "Erling Haaland ăn mừng sau khi ghi bàn thứ năm cho Man City trong trận gặp Sunderland tại Ngoại hạng Anh ở Etihad, Manchester, Anh, ngày 20/9/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-09-22/f2745e0896b4-1.jpg",
+     "caption": "Những đội Ngoại hạng Anh bị Haaland chọc thủng lưới, tính đến hết ngày 20/9/2026. Đồ họa: Xuân Bình (AI hỗ trợ)",
+     "w": 1020,
+     "h": 1530
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Anh Bàn thắng trong trận Man City thắng Sunderland 5-3 giúp Erling Haaland thành cầu thủ thứ hai trong lịch sử Ngoại hạng Anh ghi bàn vào lưới mọi đối thủ từng chạm trán ít nhất hai lần."
+    },
+    {
+     "t": "p",
+     "text": "Trước trận đấu, Sunderland là đội duy nhất Haaland từng gặp tại Ngoại hạng Anh nhưng chưa ghi bàn. Tiền đạo Na Uy đã chơi hai trận gặp đối thủ này mùa trước nhưng không lập công, dù sút ba lần trong 159 phút."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó thay đổi ở phút 81 trận đấu hôm 20/9. Haaland băng vào phía cột xa rồi trượt người đưa bóng vào lưới, nâng tỷ số lên 5-3 cho Man City. Bàn thắng ban đầu không được công nhận vì lỗi việt vị, nhưng VAR xác định Haaland không việt vị và trọng tài công nhận pha lập công."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây là bàn thắng thứ 117 của Haaland tại Ngoại hạng Anh và là bàn thứ năm của anh từ đầu mùa 2026-2027. Thành tích này giúp tiền đạo Man City tiếp tục dẫn đầu cuộc đua Vua phá lưới, hơn Alexander Isak một bàn."
+    },
+    {
+     "t": "p",
+     "text": "Haaland đã ghi bàn vào lưới cả 25 đội anh từng đối đầu tại Ngoại hạng Anh kể từ khi ra mắt giải đấu vào tháng 8/2022. Đây là thành tích đặc biệt bởi Haaland mới trải qua hơn bốn mùa giải ở Anh nhưng đã hoàn tất danh sách."
+    },
+    {
+     "t": "p",
+     "text": "Harry Kane là cầu thủ duy nhất trước Haaland từng chơi từ hai trận trở lên và ghi bàn trước mọi đối thủ mà anh gặp tại Ngoại hạng Anh. Kane từng ghi bàn vào lưới 32 đội khác nhau trong thời gian khoác áo Tottenham."
+    },
+    {
+     "t": "p",
+     "text": "Haaland hiện có thành tích 25/25, nhưng con số này vẫn có thể tăng lên 26/26 trước Giáng sinh. Man City chưa từng gặp Hull City khi Haaland thi đấu tại Ngoại hạng Anh. Hai đội dự kiến gặp nhau ngày 19/12, và nếu được sử dụng, Haaland sẽ cần ghi bàn để duy trì thành tích hoàn hảo trước các đối thủ từng chạm trán."
+    },
+    {
+     "t": "p",
+     "text": "Bộ sưu tập của Haaland được hình thành với hiệu suất khác nhau. West Ham là đội anh ghi nhiều bàn nhất, với 11 bàn sau tám trận. Crystal Palace và Wolverhampton đứng tiếp theo với 10 bàn mỗi đội, trong khi Man Utd là nạn nhân của chín bàn."
+    },
+    {
+     "t": "p",
+     "text": "Haaland cũng ghi tám bàn vào lưới Fulham, bảy bàn trước Everton và Brighton, sáu bàn trước Arsenal. Anh có năm bàn trước Burnley, Brentford và Nottingham Forest. Những đội còn lại trong danh sách gồm Ipswich Town, Southampton, Chelsea, Tottenham, Bournemouth, Leicester City, Liverpool, Leeds United, Sheffield United, Luton Town, Coventry City, Sunderland, Aston Villa và Newcastle."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sunderland là trường hợp đặc biệt nhất. Sau hai trận không ghi bàn, Haaland cuối cùng cũng chọc thủng lưới đối thủ. Trước đó, anh cũng bỏ lỡ vài cơ hội, trong đó có cú đệm bóng trước cầu môn trống nhưng chệch cột."
+    },
+    {
+     "t": "p",
+     "text": "Enzo Fernandez, Rayan Cherki và Antoine Semenyo với hai bàn, đưa Man City vượt lên, trước khi Haaland ghi bàn thứ năm cho đội chủ nhà. Tiền đạo Brian Brobbey lập hat-trick, nhưng không thể giúp đội khách tránh thất bại 3-5 ."
+    },
+    {
+     "t": "p",
+     "text": "Hat-trick của Brobbey cũng giúp anh trở thành cầu thủ đầu tiên ghi ba bàn trong một trận Ngoại hạng Anh nhưng vẫn nhận thất bại kể từ Roque Santa Cruz của Blackburn trong trận gặp Wigan tháng 12/2007. Brobbey cũng là cầu thủ Sunderland đầu tiên lập hat-trick tại giải kể từ Jermain Defoe cách đây một thập kỷ."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Haaland tiếp tục xây dựng những cột mốc cá nhân sau khi gia nhập Man City. Tuy nhiên, thành tích ghi bàn trước mọi đối thủ từng gặp vẫn còn cách khá xa kỷ lục về số đội khác nhau mà một cầu thủ ghi bàn tại Ngoại hạng Anh."
+    },
+    {
+     "t": "p",
+     "text": "Frank Lampard hiện giữ kỷ lục với 39 đội khác nhau trong sự nghiệp. Andrew Cole đứng sau với 38 đội, còn Jermain Defoe và Alan Shearer cùng có 37. Haaland còn nhiều thời gian để cải thiện con số 25."
+    },
+    {
+     "t": "p",
+     "text": "Xuân Bình (theo ESPN , Opta )"
+    }
+   ]
+  },
+  {
+   "id": "f46802d17a52",
+   "order": 19,
+   "slug": "bo-nao-nguoi-co-the-lon-nhu-ngay-nay-phan-lon-la-nho-vi-ngot",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Bộ não người có thể lớn như ngày nay phần lớn là nhờ vị ngọt",
+   "sapo": "Thịt cũng rất quan trọng. Nhưng trong suốt quá trình tiến hóa của loài người, trái cây có thể đã nuôi dưỡng phần lớn sự phát triển bộ não ở các họ hàng linh trưởng và tổ tiên xa xưa của chúng ta.",
+   "author": "Jake Buehler",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/sugar-evolution-human-brain",
+   "published": "2026-09-18T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1197,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "The human brain may owe a lot of its size to our love of sweets",
+   "images": [
+    {
+     "src": "img/2026-09-22/f46802d17a52-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sự thèm ngọt của chúng ta có thể đã tạo tiền đề để bộ não người trở nên to lớn và mạnh mẽ. Đó là phát hiện của một nghiên cứu mới."
+    },
+    {
+     "t": "p",
+     "text": "Bộ não của tổ tiên đi thẳng đứng của chúng ta, khoảng 4 triệu năm trước, chỉ nặng chừng 300 gram. Con số này gần bằng một quả táo cỡ vừa. Ngày nay, bộ não người trung bình nặng 1.500 gram. Con số này gần bằng 1,5 lít nước. Phần lớn sự phát triển này của bộ não diễn ra trước khi con người thời cổ làm chủ được lửa và việc nấu ăn. Đó là mốc đánh dấu thời điểm họ có thể bắt đầu thường xuyên ăn các loại tinh bột giàu năng lượng."
+    },
+    {
+     "t": "p",
+     "text": "Carbohydrate (chất bột đường) gồm hai nhóm chính. Đường thường là những phân tử tương đối đơn giản. Tinh bột thường lớn hơn và phức tạp hơn. Một phân tích mới về các dữ liệu đã có từ tổ tiên loài người, cũng như từ tinh tinh, cho thấy phần lớn năng lượng của họ có lẽ đến từ các loại carb có vị ngọt, chẳng hạn như đường trong trái cây và mật ong."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu hiện kết luận rằng đường đơn có thể đã đóng một vai trò bị bỏ quên — nhưng rất quan trọng — trong quá trình tiến hóa của loài người. Họ giải thích lý do trong số ra ngày 6 tháng 8 của tạp chí Science."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến nay, phần lớn các nghiên cứu về việc chế độ ăn ảnh hưởng thế nào đến tiến hóa loài người đều tập trung vào thịt. Khoảng 2,5 triệu năm trước, tổ tiên đi thẳng đứng thời sơ khai của chúng ta bắt đầu ăn nhiều thịt hơn — ban đầu là thịt sống, sau đó dần dần là thịt nấu chín. Thịt giàu chất đạm và chất béo. Và điều đó dường như đã đóng vai trò lớn trong việc cung cấp năng lượng cho bộ não ngày càng phát triển của tổ tiên chúng ta. Nhưng Jennie Brand-Miller cho rằng câu chuyện còn nhiều hơn thế. Là một nhà khoa học dinh dưỡng tại Đại học Sydney, Úc, bà tự hỏi đường có thể đã ảnh hưởng thế nào đến sự tiến hóa bộ não của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu năm 2017 đã cho thấy các loài linh trưởng ăn trái cây có bộ não lớn hơn những loài ăn lá. Việc ăn trái cây làm tăng yêu cầu đối với nhiều quá trình tư duy khác nhau, các nhà nghiên cứu khác đã đề xuất điều này từ hai thập kỷ trước đó. Liệu điều này có thể đã khởi động quá trình tiến hóa của những bộ não lớn ở con người?"
+    },
+    {
+     "t": "p",
+     "text": "Brand-Miller giải thích: \"Bạn cần nhớ khi nào các loài trái cây chín khác nhau bắt đầu chín, rồi bạn cần nhớ nó ở đâu trong khu rừng.\" Và bà nói thêm: \"Trí nhớ của bạn có liên quan đến một bộ não lớn hơn.\""
+    },
+    {
+     "t": "p",
+     "text": "Brand-Miller lưu ý rằng các loài linh trưởng hóa thạch và sau này là các loài người cổ, chẳng hạn như Homo erectus, có dấu hiệu sâu răng. Điều này cho thấy một chế độ ăn chứa các thức ăn mềm, có vị ngọt. (Homo erectus là loài đầu tiên trong số các họ hàng cổ xưa của chúng ta mạo hiểm ra khỏi châu Phi; đó là 2 triệu năm trước)."
+    },
+    {
+     "t": "p",
+     "text": "\"Tất cả những điều này cứ tiếp tục thêm những mảnh ghép vào bức tranh tuyệt đẹp này, câu đố này cho thấy đường có trong trái cây hẳn phải rất quan trọng [đối với quá trình tiến hóa của loài người],\" bà nói."
+    },
+    {
+     "t": "p",
+     "text": "Hãy gửi câu hỏi của em tại đây, biết đâu chúng tôi sẽ trả lời trong một số báo sắp tới của Science News Explores."
+    },
+    {
+     "t": "h",
+     "text": "Vậy còn thịt thì sao?"
+    },
+    {
+     "t": "p",
+     "text": "Brand-Miller là thành viên của một nhóm nghiên cứu đã tính toán nhu cầu dinh dưỡng của tinh tinh, con người và ba loài tổ tiên loài người thời cổ. Để làm điều này, các nhà nghiên cứu đã kết hợp dữ liệu từ hóa thạch, răng, quá trình trao đổi chất (metabolism) của các loài và sinh học của các quá trình trong cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Họ phát hiện tổ tiên xa xưa nhất giống tinh tinh của chúng ta, sống cách đây khoảng 4 triệu năm, chủ yếu ăn thực vật. Trái cây có lẽ cung cấp hơn hai phần ba năng lượng từ thức ăn cho họ. Dữ liệu cũng cho thấy trái cây đóng vai trò lớn khi bộ não của người vượn cổ (hominid) phát triển trong hàng triệu năm tiếp theo."
+    },
+    {
+     "t": "p",
+     "text": "Những kỹ năng kiếm ăn khéo léo hẳn đã giúp nuôi dưỡng bộ não ngốn nhiều năng lượng của họ. Những kỹ năng đó bao gồm săn bắt, đập vỡ hạt, nghiền hạt giống hoặc lấy tủy xương. Về sau, khi việc nấu ăn trở nên phổ biến, con người có thể chuyển sang ăn tinh bột (như ngũ cốc, đậu và củ). Nhưng nhu cầu liên tục về thức ăn có đường dường như vẫn là yếu tố then chốt trong quá trình tiến hóa của chúng ta. Và nhu cầu đó không biến mất sau khi con người chuyển sang ăn nhiều thực phẩm giàu đạm và chất béo, như thịt."
+    },
+    {
+     "t": "p",
+     "text": "Thịt và đường? \"Tôi coi đó là hai câu chuyện song song, chứ không phải cái này thay thế cái kia,\" Brand-Miller nói. \"Thức ăn từ động vật rõ ràng rất quan trọng. Chúng rất giàu dưỡng chất.\""
+    },
+    {
+     "t": "p",
+     "text": "Julie Lee-Thorp đồng ý rằng việc trước đây quá chú trọng vào chuyện ăn thịt có thể đã bỏ sót một số xu hướng ăn uống từng giúp bộ não con người phát triển. Bà là nhà khảo cổ học tại Đại học Oxford ở Anh. Bà không tham gia vào nghiên cứu mới này."
+    },
+    {
+     "t": "p",
+     "text": "Bà nói thêm rằng việc tập trung vào vai trò của thịt có thể phản ánh một thiên kiến của thời hiện đại. \"Ngày nay thịt là món ăn có địa vị cao,\" Lee-Thorp nhận xét. \"Và điều đó có lẽ đã ảnh hưởng đến cách chúng ta nghĩ về quá khứ.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Brian Wood phần lớn không đồng tình với điều đó. Ông cho rằng việc nghiên cứu quá trình tiến hóa của loài người không hề bị ám ảnh bởi chuyện ăn thịt. Wood là nhà nhân chủng học sinh học (biological anthropologist), làm việc tại Đại học California, Los Angeles. Ông cho rằng nhiều loại thức ăn khác nhau đã nuôi dưỡng quá trình tiến hóa của chúng ta. Và những thức ăn đó có được là nhờ \"khả năng ngày càng tăng trong việc bắt và thu hoạch những nguồn thức ăn chất lượng cao, khó kiếm được\" của tổ tiên chúng ta. Điều này đương nhiên bao gồm cả săn bắt. Nhưng ông nói thêm, việc kiếm tìm trái cây, mật ong, hạt và các bộ phận dưới lòng đất của cây cũng là một phần trong đó."
+    }
+   ]
+  },
+  {
+   "id": "87415a73ce09",
+   "order": 20,
+   "slug": "ngoi-ca-phe-ngam-nha-tho-mau-hong-khu-pho-tan-dinh-tp-hcm-va",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Ngồi cà phê, ngắm nhà thờ màu hồng, khu phố Tân Định, TP.HCM vào top 'chất nhất thế giới'",
+   "sapo": "Nhà thờ màu hồng, chợ lâu đời, những quán cà phê đông khách quốc tế, hàng ăn và loạt di tích nằm xen giữa khu dân cư tạo nên sức hút riêng cho khu phố vừa được Time Out xếp thứ 12 trong danh sách những khu phố chất nhất thế giới năm 2026.",
+   "author": "ĐỖ ĐẠT",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ngoi-ca-phe-ngam-nha-tho-mau-hong-khu-pho-tan-dinh-tphcm-vao-top-chat-nhat-the-gioi-100260919134009136.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 1451,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/87415a73ce09-0.jpg",
+     "caption": "Từ các quán cà phê quanh khu vực, du khách có thể ngắm nhà thờ Tân Định nổi bật giữa phố xá - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-1.jpg",
+     "caption": "Các quán cà phê quanh nhà thờ Tân Định luôn đông khách, đặc biệt là du khách nước ngoài tìm chỗ ngồi ngắm công trình màu hồng - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-2.jpg",
+     "caption": "Các du khách nước ngoài thích thú với \"nhà thờ màu hồng\" - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-3.jpg",
+     "caption": "Chợ Tân Định được xây dựng năm 1926, khánh thành năm 1927 do Công ty SIDEC (Pháp) thiết kế, với diện tích khoảng 3.000m². Ngôi chợ gồm nhà lồng lớn theo trục Nam - Bắc, hành lang bao quanh và hệ mái 3 tầng có lam gió giúp lấy sáng và thông khí             tự nhiên - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 802
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-4.jpg",
+     "caption": "Chợ Tân Định đã được Ủy ban nhân dân TP.HCM chính thức công nhận xếp hạng Di tích kiến trúc nghệ thuật cấp thành phố vào cuối tháng 11-2025 - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 721
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-5.jpg",
+     "caption": "Khu ăn uống quanh chợ Tân Định nhộn nhịp với những hàng quán san sát, phục vụ nhiều món Việt từ sáng đến tối - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 816
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-6.jpg",
+     "caption": "Khu vực quanh chợ Tân Định có nhiều hàng quán bình dân, nổi bật với các món ăn đa dạng được người dân địa phương yêu thích - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 721
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-7.jpg",
+     "caption": "Bánh xèo 46A Đinh Công Tráng là địa chỉ được Michelin Guide đưa vào hạng mục Bib Gourmand từ năm 2024 - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 700
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-8.jpg",
+     "caption": "Guốc mộc - món đồ từng quen thuộc với thế hệ trước - bất ngờ trở thành sản phẩm được giới trẻ và khách quốc tế săn tìm tại chợ Tân Định - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 723
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-9.jpg",
+     "caption": "Bảo tàng Biệt động Sài Gòn - Gia Định tại 145 Trần Quang Khải trưng bày hơn 300 hiện vật gắn với lực lượng Biệt động Sài Gòn - Gia Định - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-10.jpg",
+     "caption": "Từ năm 1946, căn nhà 113A Đặng Dung đã được sử dụng làm quán cơm tấm, cà phê, đồng thời là nơi hoạt động bí mật của lực lượng biệt động - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-22/87415a73ce09-11.jpg",
+     "caption": "Bia truyền thống Xóm Chùa trên đường Nguyễn Văn Nguyễn, điểm dừng chân dành cho du khách muốn tìm hiểu lịch sử khu vực Tân Định - Ảnh: ĐỖ ĐẠT",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Ngày 16-9, tạp chí Time Out công bố danh sách 40 khu phố \"chất\" nhất thế giới năm 2026. Tân Định đứng thứ 12, xếp sau Russafa ở Valencia, Tây Ban Nha."
+    },
+    {
+     "t": "p",
+     "text": "Sau đợt sắp xếp đơn vị hành chính, khu vực thường được gọi là Tân Định hiện nằm trên địa bàn hai phường ở hai phía đường Hai Bà Trưng. Chợ Tân Định thuộc phường Tân Định, trong khi nhà thờ Tân Định nằm ở phía đối diện, thuộc phường Xuân Hòa."
+    },
+    {
+     "t": "p",
+     "text": "Chính sự liền mạch về không gian đô thị, văn hóa và đời sống khiến hành trình khám phá nơi này không nhất thiết dừng lại ở một ranh giới hành chính."
+    },
+    {
+     "t": "p",
+     "text": "Và đó cũng là điều thú vị khi tìm hiểu Tân Định: chỉ trong một quãng đi bộ ngắn, du khách có thể lần lượt bắt gặp một nhà thờ cổ nổi tiếng, khu chợ lâu đời, những hàng quán đặc trưng và nhiều \"địa chỉ đỏ\" nằm giữa khu dân cư."
+    },
+    {
+     "t": "h",
+     "text": "Ngồi cà phê, ngắm nhà thờ màu hồng"
+    },
+    {
+     "t": "p",
+     "text": "Điểm dễ nhận ra nhất trong hành trình khám phá khu vực này là nhà thờ Tân Định - công trình màu hồng nổi bật trên đường Hai Bà Trưng."
+    },
+    {
+     "t": "p",
+     "text": "Từ một số quán cà phê nằm trong khu vực, du khách có thể vừa thưởng thức đồ uống, vừa ngắm nhà thờ ở phía đối diện. Những quán này có phong cách khá đa dạng, từ các căn nhà cũ được cải tạo thành không gian cà phê đến những địa điểm được đầu tư theo hướng hiện đại."
+    },
+    {
+     "t": "p",
+     "text": "Trong một buổi ghi nhận, khách nước ngoài xuất hiện khá đông tại các quán cà phê quanh khu vực nhà thờ. Có người tranh thủ chụp ảnh, có người ngồi làm việc hoặc trò chuyện, cũng có nhóm chọn đây làm điểm nghỉ chân sau khi tham quan."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi biết đến nhà thờ Tân Định qua các bài viết và hình ảnh trên mạng. Sau khi tham quan, chúng tôi tìm một quán cà phê gần đó để ngồi nghỉ. Tôi thích việc nơi này vẫn có đời sống của người địa phương, chứ không tạo cảm giác như một khu phố chỉ dành cho khách du lịch\", anh Kang Dong Hyun, du khách Hàn Quốc, nói."
+    },
+    {
+     "t": "p",
+     "text": "Còn một du khách Malaysia cho biết điều khiến chị thích thú là có thể đi bộ giữa nhiều điểm đến."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỉ cần đi bộ một đoạn là có thể tìm thấy quán cà phê, nhà thờ, chợ và nhiều hàng quán. Tôi thích kiểu khám phá như vậy hơn là chỉ đến một điểm rồi rời đi\", chị nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Những trải nghiệm này cũng phần nào lý giải sức hút của khu vực trong mắt Time Out . Tạp chí giới thiệu Tân Định như một khu vực có sự kết hợp giữa những tuyến phố thấp tầng, các hàng quán độc lập, ẩm thực và đời sống cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Rời khu vực nhà thờ, du khách có thể đi về phía chợ Tân Định."
+    },
+    {
+     "t": "p",
+     "text": "Công trình chợ gây chú ý với mặt tiền màu vàng, những mảng kiến trúc mang dấu ấn Pháp và các tháp nhỏ ở các góc. Đây là một trong những khu chợ lâu đời của TP.HCM, gắn với đời sống mua bán của cư dân khu vực qua nhiều thế hệ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Bên trong chợ là hàng loạt quầy thực phẩm, vải vóc, đồ khô và các món ăn. Không gian chợ khá nhộn nhịp, nhất là vào buổi sáng, khi người dân địa phương đến mua thực phẩm và các hàng quán bắt đầu hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Với du khách, chợ Tân Định mang đến một trải nghiệm khác với những điểm tham quan được tổ chức theo tuyến. Không có nhiều khoảng trống để \"ngắm cảnh\", thay vào đó là tiếng rao, tiếng người mua bán và những quầy hàng san sát."
+    },
+    {
+     "t": "p",
+     "text": "Chợ Tân Định cũng vừa được công nhận là di tích kiến trúc nghệ thuật cấp thành phố, thêm một lớp giá trị cho công trình vốn đã quen thuộc với người dân TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Từ chợ, hành trình khám phá ẩm thực có thể tiếp tục đến đường Đinh Công Tráng, nơi có Bánh xèo 46A - địa chỉ được Time Out nhắc đến khi giới thiệu Tân Định."
+    },
+    {
+     "t": "p",
+     "text": "Những chiếc bánh xèo được đổ nóng, vàng giòn, ăn kèm rau sống và nước chấm. Quán cũng là một trong những địa chỉ ẩm thực lâu năm góp phần tạo nên nét riêng của khu vực."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "h",
+     "text": "Đi sâu hơn để thấy một Tân Định giàu tính lịch sử, văn hóa"
+    },
+    {
+     "t": "p",
+     "text": "Nếu chỉ dừng ở nhà thờ, quán cà phê, chợ và hàng ăn, du khách mới khám phá một phần của Tân Định."
+    },
+    {
+     "t": "p",
+     "text": "Đi vào các tuyến đường xung quanh, có thể bắt gặp những địa điểm gắn với lịch sử của thành phố."
+    },
+    {
+     "t": "p",
+     "text": "Tại số 145 Trần Quang Khải là Bảo tàng Biệt động Sài Gòn. Cách đó không xa là di tích hầm nổi và hộp thư bí mật Biệt động Sài Gòn tại 113A Đặng Dung, hiện gắn với không gian Cơm tấm Đại Hàn - Cà phê Đỗ Phủ."
+    },
+    {
+     "t": "p",
+     "text": "Khu vực còn có Bia truyền thống Xóm Chùa trên đường Nguyễn Văn Nguyễn và Bia nhân dân phường Trần Quang Khải nổi dậy giành chính quyền năm 1975 trên đường Trần Quang Khải."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Ở lớp văn hóa tín ngưỡng, du khách có thể tìm đến đền Đức Thánh Trần Hưng Đạo trên đường Võ Thị Sáu, chùa Ngọc Hoàng trên đường Mai Thị Lựu hay tổ đình Vạn Thọ trên đường Hoàng Sa."
+    },
+    {
+     "t": "p",
+     "text": "Các đình Nam Chơn, Sơn Trà, Nghĩa Hòa, Phú Hòa và Tân An cũng nằm trong không gian này, tạo thành một mạng lưới những công trình tín ngưỡng gắn với quá trình hình thành cộng đồng cư dân."
+    },
+    {
+     "t": "p",
+     "text": "Những điểm đến này không nhất thiết nằm trên một tuyến tham quan quen thuộc. Nhưng khi kết nối lại, chúng cho thấy một Tân Định nhiều lớp: có kiến trúc, chợ truyền thống, ẩm thực, cà phê, di tích lịch sử và những không gian tín ngưỡng tồn tại xen kẽ giữa khu dân cư."
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể bắt đầu hành trình bằng một bức ảnh trước nhà thờ màu hồng, nhưng sau đó lại bị giữ chân bởi một ly cà phê, một món ăn trong chợ, hàng bánh xèo lâu năm hay câu chuyện phía sau một căn nhà tưởng như bình thường."
+    },
+    {
+     "t": "p",
+     "text": "Tân Định vì thế không chỉ là nơi để check-in. Đây là khu vực phù hợp để đi bộ, quan sát và khám phá từng lớp đời sống - nơi những không gian mới xuất hiện bên cạnh những dấu tích đã tồn tại qua nhiều thế hệ."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ chính sự đan xen ấy tạo nên nét riêng của Tân Định trong danh sách những khu phố chất nhất thế giới năm nay."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Phạm Anh Vũ - Phó tổng giám đốc Công ty cổ phần Truyền thông Du Lịch Việt, nhà thờ Tân Định được doanh nghiệp lữ hành đưa vào chương trình tour nhờ khả năng đáp ứng nhiều nhu cầu của du khách như tham quan kiến trúc, tìm hiểu lịch sử - văn hóa và chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Vũ, sắc hồng đặc trưng, kiến trúc châu Âu cổ điển cùng vị trí gần trung tâm là những yếu tố tạo sức hút cho công trình. Du khách trẻ thường quan tâm đến hình ảnh, trong khi khách quốc tế và những người yêu văn hóa chú ý hơn đến kiến trúc, tôn giáo và lịch sử đô thị."
+    },
+    {
+     "t": "p",
+     "text": "“Nhà thờ Tân Định không chỉ là điểm dừng để chụp ảnh, mà còn có thể trở thành điểm mở đầu cho hành trình hòa mình vào nhịp sống địa phương”, ông Vũ nói."
+    },
+    {
+     "t": "p",
+     "text": "Trong thiết kế tour, doanh nghiệp thường kết nối nhà thờ Tân Định với chợ Tân Định, các quán cà phê, điểm ẩm thực địa phương hoặc những công trình kiến trúc ở khu vực trung tâm để tạo hành trình ngắn nhưng có chiều sâu. Do đây là cơ sở tôn giáo, du khách được khuyến nghị lựa chọn trang phục lịch sự, giữ trật tự và tuân thủ các quy định khi tham quan."
+    },
+    {
+     "t": "p",
+     "text": "Bạn có bài, ảnh, video du lịch muốn chia sẻ với Báo Tuổi Trẻ? Mời bạn gửi về hòm thư: dulich@tuoitre.com.vn. Vui lòng gửi nội dung/ hình ảnh gốc và bạn có bản quyền; đồng thời cung cáp thông tin tài khoản để tòa soạn gửi nhuận bút nếu bài được chọn đăng. Báo Tuổi Trẻ cảm ơn bạn."
     }
    ]
   }
