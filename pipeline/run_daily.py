@@ -63,6 +63,17 @@ def main():
 
     chosen = select(scored, cfg, has_scores)
     ok, bad = extract_all(chosen, day)
+    unsafe = []
+    if has_scores and ok:
+        # VÒNG 2: đọc nội dung thật của ứng viên, chặn bài không an toàn trước khi lên trang duyệt / tự xuất bản
+        from score import verify_candidates
+        ok = verify_candidates(ok, cfg)
+        unsafe = [c for c in ok if c.get("safe") is False]
+        ok = [c for c in ok if c.get("safe") is not False]
+        ok.sort(key=lambda c: -(c.get("score") or 0))
+        for c in unsafe:
+            c["extract_error"] = "AI vòng 2: không an toàn — " + (c.get("reason2") or "")
+        bad = bad + unsafe
     payload = save(day, cfg, ok, has_scores, blocked, rejected_score, bad)
     if not args.no_mark:
         mark_seen(raw)
@@ -70,7 +81,11 @@ def main():
     print(f"\nỨNG VIÊN NGÀY {day}: {len(ok)} bài" + ("" if has_scores else "  (chưa có điểm AI)"))
     for a in ok:
         sc = f"{a['score']:>2}" if a.get("score") is not None else " -"
-        print(f"  [{sc}] {a.get('section') or a.get('hint_section') or '':20} {a['source_name']:12} {a['title'][:70]}  ({len(a['images'])} ảnh, {a['words']} chữ)")
+        two = f" v1={a['score1']} v2={a['score2']}" if a.get("verified") else ""
+        print(f"  [{sc}] {a.get('section') or a.get('hint_section') or '':20} {a['source_name']:12} {a['title'][:60]}  ({len(a['images'])} ảnh, {a['words']} chữ){two} {a.get('reason2','')[:30]}")
+    if unsafe:
+        print(f"\nVÒNG 2 CHẶN {len(unsafe)} bài:")
+        for c in unsafe: print(f"  ✗ {c['title'][:70]} — {c.get('reason2','')}")
     print(f"\nMở http://localhost:8765/duyet.html để chọn và xuất bản.  ({time.time() - t0:.0f}s)")
 
 

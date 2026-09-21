@@ -7,6 +7,7 @@ from common import setup_logging
 log = setup_logging()
 
 MODEL_ALIAS = {"haiku": "haiku", "sonnet": "sonnet", "opus": "opus"}
+THINKING_TOKENS = 0   # có thể ghi đè từ config scoring.thinking_tokens
 
 
 class AIError(RuntimeError):
@@ -49,17 +50,20 @@ def _extract_json(text: str) -> Any:
 
 
 def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None,
-             retries: int = 2, timeout: int = 300) -> Any:
-    """Gửi prompt, nhận JSON. Thử lại khi lỗi mạng hoặc JSON hỏng."""
+             retries: int = 2, timeout: int = 300, thinking: int | None = None) -> Any:
+    """Gửi prompt, nhận JSON. Thử lại khi lỗi mạng hoặc JSON hỏng.
+    thinking: số token suy nghĩ tối đa (None = dùng THINKING_TOKENS, mặc định 0 = tắt)."""
     cmd = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
            "--output-format", "json", "--tools", "", "--no-session-persistence",
-           "--permission-mode", "dontAsk", "--system-prompt", system]
+           "--permission-mode", "dontAsk", "--system-prompt", system,
+           "--effort", "low"]                      # chấm điểm không cần suy nghĩ sâu: nhanh hơn, ít token hơn
     if schema and False:  # --json-schema không hoạt động ở chế độ này, giữ tham số cho tương thích
         cmd += ["--json-schema", json.dumps(schema, ensure_ascii=False)]
     env = dict(os.environ, PYTHONIOENCODING="utf-8", CLAUDE_CODE_DISABLE_TELEMETRY="1")
     # Dùng gói Claude đã đăng nhập, KHÔNG dùng API key trả phí nếu máy có sẵn biến này
     env.pop("ANTHROPIC_API_KEY", None)
     env.pop("ANTHROPIC_AUTH_TOKEN", None)
+    env["MAX_THINKING_TOKENS"] = str(THINKING_TOKENS if thinking is None else thinking)   # 0 = tắt suy nghĩ ẩn (trước đây chiếm ~90% token ra)
     last = None
     for attempt in range(retries + 1):
         t0 = time.time()
@@ -84,8 +88,10 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
             time.sleep(3 * (attempt + 1))
             continue
         usage = envelope.get("usage") or {}
-        log.info("AI %s: %.1fs, in=%s out=%s", model, time.time() - t0,
-                 usage.get("input_tokens", "?"), usage.get("output_tokens", "?"))
+        think = (usage.get("output_tokens_details") or {}).get("thinking_tokens", "?")
+        log.info("AI %s: %.1fs, in=%s (cache %s) out=%s (suy nghĩ %s)", model, time.time() - t0,
+                 usage.get("input_tokens", "?"), usage.get("cache_read_input_tokens", "?"),
+                 usage.get("output_tokens", "?"), think)
         if schema and envelope.get("structured_output") is not None:
             return envelope["structured_output"]
         try:
