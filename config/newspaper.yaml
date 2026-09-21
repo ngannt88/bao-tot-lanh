@@ -400,6 +400,7 @@ audio:
 translate:
   enabled: true
   max_per_issue: 6           # số bài dịch tối đa mỗi số (còn lại là báo Việt nguyên văn)
+  min_in_issue: 4            # giữ ít nhất ngần này suất cho bài dịch khi tự xuất bản
   model: "sonnet"            # sonnet dịch tiếng Việt mượt hơn haiku
   rules: |
     - DỊCH SÁT NGHĨA, giữ đúng ý và giọng của bài gốc. KHÔNG tóm tắt, KHÔNG viết lại,

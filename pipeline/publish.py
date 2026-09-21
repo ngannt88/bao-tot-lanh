@@ -151,6 +151,20 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
             for c in pool:
                 if c not in chosen and c.get("section") == sid:
                     chosen.append(c); count[sid] = 1; break
+    # Giữ suất cho bài dịch: đã tốn công dịch thì phải được lên báo, đừng để cân bằng
+    # chuyên mục loại mất (bài quốc tế thường dồn vào một vài mục).
+    need_tr = int(cfg.get("translate", {}).get("min_in_issue", 0))
+    if need_tr:
+        have = sum(1 for c in chosen if c.get("translated"))
+        for c in pool:
+            if have >= need_tr or len(chosen) >= n:
+                break
+            if c in chosen or not c.get("translated"):
+                continue
+            sid = c.get("section")
+            if count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) + 1:   # nới 1 suất cho bài dịch
+                continue
+            chosen.append(c); count[sid] = count.get(sid, 0) + 1; have += 1
     for c in pool:
         if len(chosen) >= n:
             break
