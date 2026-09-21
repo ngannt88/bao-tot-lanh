@@ -54,7 +54,7 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
     cmd = [_claude_bin(), "-p", "--model", MODEL_ALIAS.get(model, model),
            "--output-format", "json", "--tools", "", "--no-session-persistence",
            "--permission-mode", "dontAsk", "--system-prompt", system]
-    if schema:
+    if schema and False:  # --json-schema không hoạt động ở chế độ này, giữ tham số cho tương thích
         cmd += ["--json-schema", json.dumps(schema, ensure_ascii=False)]
     env = dict(os.environ, PYTHONIOENCODING="utf-8", CLAUDE_CODE_DISABLE_TELEMETRY="1")
     # Dùng gói Claude đã đăng nhập, KHÔNG dùng API key trả phí nếu máy có sẵn biến này
