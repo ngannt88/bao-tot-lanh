@@ -77,6 +77,24 @@ def _ask_block(pairs: list[tuple[str, str]], cfg: dict, model: str) -> dict[str,
     return got
 
 
+def _fix_title_case(vi: str, en: str) -> str:
+    """Model hay bắt chước Title Case của tiêu đề tiếng Anh ("Những Con Số Kỳ Diệu").
+    Tiếng Việt chỉ viết hoa chữ đầu và tên riêng, nên hạ xuống, giữ lại từ nào vốn
+    là tên riêng (xuất hiện y nguyên trong tiêu đề gốc, như NASA, Messi, Paris)."""
+    words = vi.split()
+    if len(words) < 3:
+        return vi
+    upper = sum(1 for w in words[1:] if w[:1].isupper())
+    if upper / max(1, len(words) - 1) < 0.5:          # không phải Title Case → để yên
+        return vi
+    keep = {w.strip(".,:;!?'\"") for w in en.split() if w[:1].isupper()}
+    out = [words[0]]
+    for w in words[1:]:
+        bare = w.strip(".,:;!?'\"")
+        out.append(w if (bare in keep or bare.isupper()) else w[:1].lower() + w[1:])
+    return " ".join(out)
+
+
 def _chunks(paras: list[str]) -> list[tuple[int, list[str]]]:
     out, cur, start, size = [], [], 0, 0
     for i, t in enumerate(paras):
@@ -133,7 +151,7 @@ def translate_article(a: dict, cfg: dict) -> dict | None:
                          for j, im in enumerate(a.get("images", []))]
     out.update(
         title_original=a.get("title", ""),
-        title=head["TITLE"].strip(),
+        title=_fix_title_case(head["TITLE"].strip(), a.get("title", "")),
         sapo=head.get("SAPO", "").strip(),
         translated=True,
         translated_from=a.get("source_name", ""),

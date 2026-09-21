@@ -472,6 +472,12 @@ scoring:
     LOẠI THẲNG, CHẤM 0 ĐẾN 2 — dù chủ đề nằm trong chuyên mục:
     - Lịch thi đấu, nhận định trước trận, dự đoán tỷ số, kết quả vòng bảng, bảng xếp hạng,
       tường thuật trực tiếp, "những điều đáng chờ đợi", điểm tin thể thao.
+    - TIN KẾT QUẢ TRẬN ĐẤU nói chung: "A thắng B", "A vào bán kết", "A đòi nợ B",
+      "thắng đậm", tỷ số, diễn biến hiệp một hiệp hai. Trận đấu chỉ đáng lên báo khi
+      CÓ CÂU CHUYỆN ngoài tỷ số: một kỷ lục bị phá, một vận động viên rất trẻ hoặc rất
+      già làm điều phi thường, một kỹ thuật đặc biệt, một hành động đẹp trên sân.
+      Ngoại lệ được chấm cao: đội tuyển Việt Nam vô địch hoặc giành huy chương, và các
+      ngôi sao hai bé biết tên (Ronaldo, Messi, Yamal, Mbappe, Haaland).
     - Lễ phát động, hội thảo, tọa đàm, khai mạc, tổng kết, trao giải, ký kết hợp tác,
       bổ nhiệm, công bố quyết định, thông báo tuyển sinh.
     - Bài chỉ có số liệu thống kê mà không có câu chuyện.
