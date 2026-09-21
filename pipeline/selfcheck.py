@@ -6,7 +6,7 @@ import sys, time, tempfile
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import feedparser, requests
-from common import load_config, setup_logging, write_json, DATA, today_str
+from common import load_config, setup_logging, write_json, DATA, today_str, http_get
 from collect import HEADERS
 from extract import extract_article
 
@@ -24,7 +24,7 @@ def main():
             continue
         row = {"id": src["id"], "name": src["name"], "feed_ok": False, "items": 0, "extract_ok": None}
         try:
-            r = requests.get(src["url"], headers=HEADERS, timeout=20)
+            r = http_get(src["url"], HEADERS, 20)
             fp = feedparser.parse(r.content)
             row["items"] = len(fp.entries)
             row["feed_ok"] = r.status_code == 200 and len(fp.entries) > 0

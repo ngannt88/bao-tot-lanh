@@ -96,3 +96,23 @@ def article_id(url: str) -> str:
 
 def word_count(s: str) -> int:
     return len((s or "").split())
+
+
+# ---- Tải HTTP có dự phòng khi báo cấu hình chứng chỉ sai (lỗi bên họ, thường tạm thời) ----
+import requests, urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+_INSECURE_HOSTS: set[str] = set()
+
+
+def http_get(url: str, headers: dict, timeout: int = 20) -> "requests.Response":
+    """GET bình thường; nếu lỗi chứng chỉ thì thử lại KHÔNG xác minh và ghi cảnh báo một lần mỗi host.
+    Chấp nhận được vì đây là tin công khai, còn qua lọc từ khóa, AI và cha mẹ duyệt."""
+    host = url.split("/")[2] if "//" in url else url
+    if host in _INSECURE_HOSTS:
+        return requests.get(url, headers=headers, timeout=timeout, verify=False)
+    try:
+        return requests.get(url, headers=headers, timeout=timeout)
+    except requests.exceptions.SSLError:
+        logging.getLogger("pipeline").warning("Chứng chỉ lỗi ở %s → tải không xác minh (lỗi cấu hình bên báo)", host)
+        _INSECURE_HOSTS.add(host)
+        return requests.get(url, headers=headers, timeout=timeout, verify=False)

@@ -7,7 +7,7 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup, Tag
 from PIL import Image
-from common import setup_logging, word_count, strip_html
+from common import setup_logging, word_count, strip_html, http_get
 
 log = setup_logging()
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128 Safari/537.36",
@@ -108,7 +108,7 @@ def _caption(fig: Tag | None, img: Tag) -> str:
 
 def _download_image(url: str, dest: Path) -> tuple[int, int] | None:
     try:
-        r = requests.get(url, headers=HEADERS, timeout=25)
+        r = http_get(url, HEADERS, 25)
         r.raise_for_status()
         im = Image.open(io.BytesIO(r.content))
         im.load()
@@ -146,7 +146,7 @@ def extract_article(a: dict, img_dir: Path) -> dict:
     """Trả về bản sao của a với: title, sapo, author, images[], blocks[], words, extracted_ok."""
     out = dict(a)
     try:
-        r = requests.get(a["url"], headers=HEADERS, timeout=25)
+        r = http_get(a["url"], HEADERS, 25)
         r.raise_for_status()
         html = r.content
         base = r.url

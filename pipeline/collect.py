@@ -3,7 +3,7 @@ from __future__ import annotations
 import time, concurrent.futures as cf
 import feedparser, requests
 from common import (setup_logging, strip_html, article_id, norm, read_json, write_json,
-                    STATE, RAW, today_str)
+                    STATE, RAW, today_str, http_get)
 
 log = setup_logging()
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) BaoTotLanh/0.1 (+family reader)"}
@@ -13,7 +13,7 @@ MAX_PER_FEED = 30
 
 def _fetch(src: dict) -> list[dict]:
     try:
-        r = requests.get(src["url"], headers=HEADERS, timeout=20)
+        r = http_get(src["url"], HEADERS, 20)
         r.raise_for_status()
     except Exception as e:
         log.warning("Feed lỗi %s: %s", src["id"], str(e)[:100])
