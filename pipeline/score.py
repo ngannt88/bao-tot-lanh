@@ -7,6 +7,7 @@ from common import setup_logging
 
 log = setup_logging()
 BATCH = 40
+PARALLEL = 3   # số lô chấm song song
 
 
 def _normalize(res) -> list[dict]:
@@ -64,17 +65,29 @@ def score_articles(articles: list[dict], cfg: dict) -> list[dict]:
         return []
     system = _system(cfg)
     model = cfg["scoring"].get("model_filter", "haiku")
-    out = []
-    for i in range(0, len(articles), BATCH):
-        chunk = articles[i:i + BATCH]
+    chunks = [articles[i:i + BATCH] for i in range(0, len(articles), BATCH)]
+
+    def _call(idx_chunk):
+        idx, chunk = idx_chunk
         rows = [{"id": a["id"], "nguon": a["source_name"], "goi_y_muc": a.get("hint_section"),
-                 "tieu_de": a["title"], "mo_ta": a.get("summary", "")[:350]} for a in chunk]
+                 "tieu_de": a["title"], "mo_ta": a.get("summary", "")[:300]} for a in chunk]
         prompt = ("Chấm điểm các bài sau.\n\n" + json.dumps(rows, ensure_ascii=False, indent=0)
-                  + '\n\nCHỈ TRẢ JSON {"scores":[...]} thang điểm 0–10, đủ mọi id, không thêm chữ nào khác.')
+                  + '\n\nCHỈ TRẢ JSON {"scores":[...]} thang 0–10, đủ mọi id, reason ≤ 8 chữ, không thêm chữ nào khác.')
         try:
-            res = ask_json(prompt, system=system, model=model)
+            return idx, ask_json(prompt, system=system, model=model)
         except Exception as e:
-            log.error("Chấm điểm lô %d lỗi: %s", i // BATCH + 1, e)
+            log.error("Chấm điểm lô %d lỗi: %s", idx + 1, e)
+            return idx, None
+
+    import concurrent.futures as cf
+    results: dict[int, object] = {}
+    with cf.ThreadPoolExecutor(max_workers=PARALLEL) as ex:      # vài lô cùng lúc: nhanh hơn, usage không đổi
+        for idx, res in ex.map(_call, enumerate(chunks)):
+            results[idx] = res
+    out = []
+    for idx, chunk in enumerate(chunks):
+        res = results.get(idx)
+        if res is None:
             for a in chunk:
                 out.append(dict(a, score=None, section=None, reason="AI lỗi", flags=["ai-loi"]))
             continue

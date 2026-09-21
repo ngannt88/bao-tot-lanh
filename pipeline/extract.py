@@ -14,7 +14,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
            "Accept-Language": "vi,en;q=0.8"}
 MAX_IMAGES = 12
 MAX_TEXT_CHARS = 14000
-MIN_WORDS = 80
+MIN_WORDS = 150   # bài dưới 150 chữ thường là tin vắn, tường thuật, chùm ảnh
 IMG_MAX_W = 1280
 IMG_MIN_SIDE = 220
 
