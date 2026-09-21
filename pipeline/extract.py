@@ -27,6 +27,7 @@ SITE_RULES = {
     "vietnamnet.vn":   {"body": ["div#maincontent", "div.maincontent"], "sapo": ["h2.content-detail-sapo", ".sapo"], "author": [".article-detail-author__info .name", "span.name a"]},
     "vietnamplus.vn":  {"body": ["div.article__body"], "sapo": ["div.article__sapo", "h2.article__sapo"], "author": ["div.article__author", ".article__meta .author"]},
     "tienphong.vn":    {"body": ["div.article__body"], "sapo": ["div.article__sapo", "h2.article__sapo"], "author": ["div.article__author", ".article__meta .author"]},
+    "thieunien.vn":    {"body": ["div.post_content", "div.post-content", "article .content"], "sapo": [".sapo", "h2.sapo"], "author": [".author", ".post-author"]},
     "kienthuc.net.vn": {"body": ["div.article__body", "div.detail-content"], "sapo": ["div.article__sapo"], "author": []},
     "snexplores.org":  {"body": ["div.rich-text", "article .entry-content"], "sapo": [".single__deck", ".post__deck"], "author": [".byline__author a", ".byline a"]},
     "nasa.gov":        {"body": ["div.entry-content", "article .usa-prose"], "sapo": [], "author": []},

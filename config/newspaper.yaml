@@ -349,6 +349,11 @@ sources:
   - {id: tienphong-giao-duc,   name: Tiền Phong, lang: vi, section: guong-sang,         url: "https://tienphong.vn/rss/giao-duc-71.rss"}
   - {id: khoahocdoisong,       name: Khoa học & Đời sống, lang: vi, section: kham-pha-khoa-hoc, url: "https://khoahocdoisong.vn/rss/home.rss", max_age_h: 120, enabled: false}  # feed trang chủ toàn tin chính trị
   - {id: kienthuc-khoa-hoc,    name: Kiến Thức,  lang: vi, section: kham-pha-khoa-hoc,  url: "https://kienthuc.net.vn/rss/khoa-hoc-cong-nghe-8.rss", enabled: false}  # nhiều tít giật gân, tắt mặc định
+  # ---- Thiếu niên Tiền phong & Nhi đồng (báo viết cho trẻ em, không có RSS → lấy từ trang chuyên mục) ----
+  - {id: thieunien-guong-mat,  name: Thiếu niên Tiền phong, lang: vi, section: guong-sang,        type: html, url: "https://thieunien.vn/hoc-duong/guong-mat",    link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}
+  - {id: thieunien-cach-hoc,   name: Thiếu niên Tiền phong, lang: vi, section: guong-sang,        type: html, url: "https://thieunien.vn/hoc-duong/cach-hoc-hay", link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}
+  - {id: thieunien-hi-tech,    name: Thiếu niên Tiền phong, lang: vi, section: kham-pha-khoa-hoc, type: html, url: "https://thieunien.vn/hi-tech",               link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}
+  - {id: thieunien-the-thao,   name: Thiếu niên Tiền phong, lang: vi, section: the-thao-dep,      type: html, url: "https://thieunien.vn/the-thao",              link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}
   # ---- VTV ----
   - {id: vtv-giao-duc,         name: VTV,        lang: vi, section: guong-sang,         url: "https://vtv.vn/rss/giao-duc.rss"}
   - {id: vtv-the-thao,         name: VTV,        lang: vi, section: the-thao-dep,       url: "https://vtv.vn/rss/the-thao.rss"}
