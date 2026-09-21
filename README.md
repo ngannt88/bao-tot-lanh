@@ -16,6 +16,19 @@ bình luận, không link ra ngoài, không cuộn vô tận.
   → con mở app trên máy tính bảng  https://ngannt88.github.io/bao-tot-lanh/
 ```
 
+## AI dùng bao nhiêu
+
+AI chỉ chấm điểm, không viết gì, chạy hai vòng bằng Haiku:
+
+| Vòng | Đọc gì | Suy nghĩ ẩn | Đo thật |
+|---|---|---|---|
+| 1. Chấm thô | tiêu đề + mô tả, 40 bài/lần | tắt | 40 bài ≈ 1.200 token ra, 24 giây |
+| 2. Kiểm ứng viên | 1.200 chữ đầu bài, 8 bài/lần | tối đa 2.000 | 23 bài ≈ 4.500 token ra, 26 giây |
+
+Ngày thường 150–250 bài mới → khoảng **10.000 token đầu ra Haiku mỗi ngày, 1–2 phút**, chạy lúc 6:00.
+So với một buổi code dùng Opus (hàng triệu token) thì không đáng kể. Nếu bật suy nghĩ ở vòng 1 sẽ tốn gấp 9 lần
+mà chỉ tinh hơn chút; vòng 2 mới là nơi đáng để AI suy nghĩ vì chỉ 25 bài và có nội dung thật.
+
 ## Lưới an toàn: tự xuất bản
 
 Nếu đến giờ hẹn (`review.auto_publish.hour`, mặc định 7:30) mà bố mẹ chưa duyệt, hệ thống tự chọn
