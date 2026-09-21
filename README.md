@@ -1,4 +1,4 @@
-# Báo Tốt Lành
+# LEVEL UP
 
 Tờ báo mỗi ngày dành cho trẻ em, do bố mẹ tự chạy và tự duyệt. Mỗi sáng hệ thống thu tin từ các báo
 Việt Nam, lọc qua 3 tầng (nguồn, từ khóa, AI chấm điểm), tách **nguyên văn** 10–12 bài ứng viên kèm ảnh
@@ -16,6 +16,20 @@ bình luận, không link ra ngoài, không cuộn vô tận.
   → con mở app trên máy tính bảng  https://ngannt88.github.io/bao-tot-lanh/
 ```
 
+## Bài tiếng Anh được dịch
+
+Báo Việt không phải lúc nào cũng có bài hay cho trẻ, nên hệ thống lấy thêm từ các nguồn tiếng Anh viết
+cho trẻ em và các tạp chí khoa học, rồi **dịch sát** sang tiếng Việt: giữ đúng số đoạn, đúng ảnh và chú
+thích, không tóm tắt, không thêm bài học. Mỗi bài dịch hiện nhãn "Dịch từ <nguồn>" và góc cha mẹ vẫn giữ
+link bài gốc. Tối đa `translate.max_per_issue` bài mỗi số, phần còn lại là báo Việt nguyên văn.
+
+Nguồn tiếng Anh đang dùng: TIME for Kids, Science News Explores (chung + vũ trụ, động vật, công nghệ),
+Curious Kids của The Conversation, NASA, ScienceAlert, IEEE Spectrum, MIT Technology Review, Smithsonian.
+BBC Newsround và New Scientist đã tắt vì không truy cập được từ Việt Nam.
+
+Nguồn tiếng Anh dùng **bộ chặn từ khóa riêng** (`blocklist_en`), vì nhiều từ trùng mặt chữ mà khác nghĩa,
+ví dụ "game" trong tiếng Việt là trò chơi điện tử còn trong tiếng Anh là trận đấu.
+
 ## AI dùng bao nhiêu
 
 AI chỉ chấm điểm, không viết gì, chạy hai vòng bằng Haiku:
@@ -24,6 +38,7 @@ AI chỉ chấm điểm, không viết gì, chạy hai vòng bằng Haiku:
 |---|---|---|---|
 | 1. Chấm thô | tiêu đề + mô tả, 40 bài/lần | tắt | 40 bài ≈ 1.200 token ra, 24 giây |
 | 2. Kiểm ứng viên | 1.200 chữ đầu bài, 8 bài/lần | tối đa 2.000 | 23 bài ≈ 4.500 token ra, 26 giây |
+| 3. Dịch (Sonnet) | toàn bài tiếng Anh, 1 bài/lần | tắt | 1 bài ≈ 3.300 token ra, 48 giây |
 
 Ngày thường 150–250 bài mới → khoảng **10.000 token đầu ra Haiku mỗi ngày, 1–2 phút**, chạy lúc 6:00.
 So với một buổi code dùng Opus (hàng triệu token) thì không đáng kể. Nếu bật suy nghĩ ở vòng 1 sẽ tốn gấp 9 lần

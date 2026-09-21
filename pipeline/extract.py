@@ -29,11 +29,16 @@ SITE_RULES = {
     "tienphong.vn":    {"body": ["div.article__body"], "sapo": ["div.article__sapo", "h2.article__sapo"], "author": ["div.article__author", ".article__meta .author"]},
     "thieunien.vn":    {"body": ["div.post_content", "div.post-content", "article .content"], "sapo": [".sapo", "h2.sapo"], "author": [".author", ".post-author"]},
     "kienthuc.net.vn": {"body": ["div.article__body", "div.detail-content"], "sapo": ["div.article__sapo"], "author": []},
-    "snexplores.org":  {"body": ["div.rich-text", "article .entry-content"], "sapo": [".single__deck", ".post__deck"], "author": [".byline__author a", ".byline a"]},
+    "snexplores.org":  {"body": ["div.single__content", "div.rich-text", "article .entry-content"], "sapo": [".single__deck", ".post__deck", "p.deck"], "author": [".byline__author a", ".single__byline a", ".byline a"]},
+    "timeforkids.com": {"body": ["div.article-show__content-article", "div.article-content"], "sapo": [".article-show__dek", ".dek", "h2.subtitle"], "author": [".article-show__byline", ".byline"]},
+    "sciencealert.com": {"body": ["div.post-content", "div.article-content"], "sapo": [".post-excerpt", "h2.subtitle"], "author": [".author-name", ".byline a"]},
+    "spectrum.ieee.org": {"body": ["div.article-detail", "div.body-text", "div.social-date-author + div", "article"], "sapo": ["div.intro-text-container", ".article-summary"], "author": [".social-author a", ".author a"]},
+    "technologyreview.com": {"body": ["div[class*='contentBody']", "div[class*='gutenbergContent__content']", "article"], "sapo": ["div[class*='contentHeader__dek']", ".dek"], "author": ["a[class*='byline']", ".byline a"]},
     "nasa.gov":        {"body": ["div.entry-content", "article .usa-prose"], "sapo": [], "author": []},
     "sciencedaily.com": {"body": ["div#text", "div#story_text"], "sapo": ["p.lead", "h1 + p"], "author": []},
-    "smithsonianmag.com": {"body": ["div.article-body", "div.articleBody"], "sapo": [".subtitle", "h2.subtitle"], "author": [".author-name a", ".byline a"]},
-    "bbc.co.uk":       {"body": ["article", "main"], "sapo": [], "author": []},
+    "smithsonianmag.com": {"body": ["div.articleWrap", "div.article-body", "div.articleBody"], "sapo": [".subtitle", "h2.subtitle", ".articleSubtitle"], "author": [".author-name a", ".byline a"]},
+    "bbc.co.uk":       {"body": ["main#main-content", "article", "main"], "sapo": [], "author": []},
+    "bbc.com":         {"body": ["main#main-content", "article", "main"], "sapo": [], "author": []},
 }
 NOISE_SELECTORS = [
     "script", "style", "noscript", "iframe", "ins", "svg", "button", "form", "video", "audio",
@@ -43,8 +48,13 @@ NOISE_SELECTORS = [
     "[class*='comment']", "[class*='binhluan']", "[class*='tag']", "[class*='footer']",
     "[type='RelatedOneNews']", "[type='RelatedNewsBox']", "[type='SubTitle']",
     ".VCSortableInPreviewMode[type='wrapnote']", ".box-taitro", ".embed-container", ".read-more", ".xem-them",
+    "[class*='newsletter']", "[class*='subscribe']", "[class*='promo']", "[class*='paywall']",
+    "[class*='power-words']", "[class*='classroom-questions']", "[class*='citation']", "[class*='recirc']",
+    "[data-component='links-block']", "[class*='toolbar']", "[class*='breadcrumb']", "figure[class*='video']",
 ]
-NOISE_TEXT = re.compile(r"^(xem thêm|đọc thêm|xem video|video:|theo dõi|mời bạn đọc|tin liên quan|ảnh:|nguồn:|>>|→)", re.I)
+NOISE_TEXT = re.compile(r"^(xem thêm|đọc thêm|xem video|video:|theo dõi|mời bạn đọc|tin liên quan|ảnh:|nguồn:|>>|→"
+                        r"|read more|related|sign up|subscribe|follow us|watch:|listen:|advertisement"
+                        r"|power words|classroom questions|more stories|share this|image source|image caption)", re.I)
 FILENAME_LIKE = re.compile(r"\.(jpe?g|png|gif|webp)\b|^ảnh \d+\.?$|- ảnh \d+\.?$|^image\d*$|^\d{6,}", re.I)
 
 

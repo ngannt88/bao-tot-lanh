@@ -4,8 +4,8 @@
 # =====================================================================
 
 paper:
-  name: "Báo Tốt Lành"
-  tagline: "Mỗi ngày một số báo. Đọc hết là xong. Hẹn mai nhé."
+  name: "LEVEL UP"
+  tagline: "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!"
   timezone: "Asia/Ho_Chi_Minh"
   articles_per_issue: 16         # số bài mỗi số báo (đọc hết 25–30 phút)
   publish_hour: 6                # giờ chạy mỗi sáng
@@ -33,8 +33,13 @@ sections:
     what: >
       Phát minh, thí nghiệm, vũ trụ, robot, năng lượng, y học đơn giản, cách
       mọi thứ hoạt động, bí ẩn khoa học đã có lời giải.
+      CÔNG NGHỆ MỚI VÀ TRÍ TUỆ NHÂN TẠO LÀ CHỦ ĐỀ ĐƯỢC KHUYẾN KHÍCH: AI vẽ tranh,
+      AI trong y học, xe tự lái, robot hình người, chip, kính thực tế ảo, máy tính
+      lượng tử. Trẻ lớn lên cùng những thứ này nên cần hiểu chúng hoạt động ra sao.
     not: >
       Thảm họa, dịch bệnh gây hoang mang, thuyết âm mưu, tin chưa kiểm chứng.
+      Về AI: không lấy bài kiểu "AI hủy diệt loài người", "AI cướp việc", "tận thế",
+      không lấy bài tranh cãi giữa các công ty hay bài chỉ toàn thông số kỹ thuật.
   - id: "the-gioi-dong-vat"
     name: "Thế giới động vật"
     emoji: "🦈"
@@ -68,6 +73,24 @@ sections:
       nghịch cảnh để học tập, thầy cô tận tâm, dự án cộng đồng.
     not: >
       Khoe khoang thành tích vật chất, học sinh bị áp lực, so sánh gây tổn thương.
+  - id: "nguoi-va-viec"
+    name: "Người và Việc"
+    emoji: "💡"
+    required: true
+    max_per_issue: 2
+    what: >
+      NGƯỜI TẠO RA THỨ GÌ: nhà phát minh, kỹ sư, người sáng lập đã làm ra một thứ
+      cụ thể và hành trình kiên trì của họ. Vận động viên lớn như Ronaldo, Messi,
+      Yamal, Quang Hải ở góc khổ luyện, kỷ luật, tuổi thơ khó khăn, việc thiện.
+      HIỂU VỀ TIỀN theo cách lành mạnh: tiền từ đâu mà có, vì sao phải tiết kiệm,
+      phân biệt thứ mình CẦN và thứ mình MUỐN, giá trị của lao động, cách nhận ra
+      lừa đảo trên mạng, một đồng bỏ ống hôm nay thành gì sau mười năm.
+    not: >
+      Xếp hạng người giàu, "ai giàu nhất", khối tài sản bao nhiêu tỷ đô, chứng khoán,
+      tiền ảo, giá vàng, đầu tư, "làm giàu nhanh", "bí quyết thành công" sáo rỗng.
+      Đời tư, hẹn hò, biệt thự siêu xe của người nổi tiếng. Quảng cáo trá hình cho
+      một công ty hay một sản phẩm. Lương và chuyển nhượng của cầu thủ.
+
   - id: "kham-pha-the-gioi"
     name: "Khám phá thế giới"
     emoji: "🌏"
@@ -257,6 +280,98 @@ blocklist:
     - "chạy trường"
     - "gian lận thi"
 
+# ---------------------------------------------------------------------
+#  CHẶN TỪ KHÓA CHO NGUỒN TIẾNG ANH (lang: en). Dùng thay cho blocklist ở trên,
+#  vì nhiều từ tiếng Việt trùng nghĩa khác trong tiếng Anh (vd "game" = trận đấu).
+# ---------------------------------------------------------------------
+blocklist_en:
+  violence:
+    - "killed"
+    - "kills"
+    - "murder"
+    - "dead"
+    - "death"
+    - "dies"
+    - "died"
+    - "shooting"
+    - "shot dead"
+    - "stabbed"
+    - "crash"
+    - "wildfire"
+    - "earthquake"
+    - "tsunami"
+    - "disaster"
+    - "missing"
+    - "kidnap"
+    - "abuse"
+    - "war"
+    - "missile"
+    - "airstrike"
+    - "troops"
+    - "hostage"
+    - "terror"
+  adult:
+    - "sex"
+    - "sexual"
+    - "rape"
+    - "porn"
+    - "nude"
+    - "dating"
+    - "girlfriend"
+    - "boyfriend"
+    - "divorce"
+    - "affair"
+    - "drug"
+    - "drugs"
+    - "cannabis"
+    - "vaping"
+    - "alcohol"
+    - "gambling"
+    - "betting"
+  scary:
+    - "horror"
+    - "creepy"
+    - "creepypasta"
+    - "haunted"
+    - "ghost"
+    - "zombie"
+    - "nightmare"
+    - "terrifying"
+    - "corpse"
+  politics_crime:
+    - "election"
+    - "president"
+    - "parliament"
+    - "congress"
+    - "lawsuit"
+    - "sues"
+    - "arrested"
+    - "prison"
+    - "court"
+    - "trial"
+    - "fraud"
+    - "scandal"
+    - "protest"
+    - "sanctions"
+    - "tariff"
+    - "immigration"
+  money_hype:
+    - "billionaire"
+    - "richest"
+    - "net worth"
+    - "stock"
+    - "stocks"
+    - "shares"
+    - "crypto"
+    - "bitcoin"
+    - "ipo"
+    - "valuation"
+    - "layoffs"
+    - "deal worth"
+    - "buy now"
+    - "discount"
+    - "sale"
+
 # Ngoại lệ: nếu tiêu đề có các cụm này thì bỏ qua blocklist tương ứng
 #  (vd "chết" trong "sao chết" của bài thiên văn; "cháy" trong "cháy vé")
 blocklist_exceptions:
@@ -266,6 +381,25 @@ blocklist_exceptions:
   - "cháy vé"
   - "cháy hàng"
   - "đánh rơi"      # "đánh rơi 3 điểm" là cách nói bóng đá
+
+# ---------------------------------------------------------------------
+#  DỊCH — bài từ nguồn tiếng Anh được dịch SÁT sang tiếng Việt, không viết lại.
+#  Giữ nguyên số đoạn, ảnh và chú thích. Mỗi bài ghi rõ "Dịch từ <nguồn>".
+# ---------------------------------------------------------------------
+translate:
+  enabled: true
+  max_per_issue: 6           # số bài dịch tối đa mỗi số (còn lại là báo Việt nguyên văn)
+  model: "sonnet"            # sonnet dịch tiếng Việt mượt hơn haiku
+  rules: |
+    - DỊCH SÁT NGHĨA, giữ đúng ý và giọng của bài gốc. KHÔNG tóm tắt, KHÔNG viết lại,
+      KHÔNG thêm lời bình, KHÔNG thêm bài học đạo đức, KHÔNG bỏ đoạn.
+    - Giữ đúng số đoạn và đúng thứ tự. Mỗi đoạn gốc thành đúng một đoạn tiếng Việt.
+    - Tiếng Việt tự nhiên như người Việt viết, không dịch word-by-word, không dùng
+      cấu trúc câu Tây. Câu dài của bản gốc có thể tách thành hai câu Việt cho dễ đọc.
+    - Giữ nguyên tên riêng, tên tổ chức. Đơn vị đo đổi sang hệ mét và ghi số tròn.
+    - Thuật ngữ khó: dịch rồi mở ngoặc kèm từ tiếng Anh, ví dụ "máy tính lượng tử
+      (quantum computer)". Chỉ làm một lần ở lần xuất hiện đầu tiên.
+    - Không dùng tiếng lóng mạng, không emoji.
 
 # ---------------------------------------------------------------------
 #  DUYỆT TAY — mỗi sáng cha mẹ chọn bài từ danh sách ứng viên
@@ -308,6 +442,15 @@ scoring:
     - Áp lực thi cử, điểm số, so sánh học sinh.
     - Tin thời sự thuần túy không có bài học gì (họp, phát biểu, lịch thi).
     - Nội dung cần kiến thức người lớn mới hiểu; bài phỏng vấn dài, bài chính sách, bài số liệu kinh tế.
+
+    SỞ THÍCH RIÊNG CỦA HAI BÉ — thấy những thứ này thì CỘNG 1 đến 2 điểm:
+    - Bóng đá và các ngôi sao lớn: Ronaldo, Messi, Yamal, Mbappe, Haaland, đội tuyển
+      Việt Nam. Chỉ ở góc khổ luyện, kỷ lục, tinh thần, không phải tiền bạc hay cãi vã.
+    - Minecraft, Lego, mô hình, xây dựng, kiến trúc, công trình khổng lồ.
+    - Vẽ, hội họa, truyện tranh, hoạt hình, thiết kế.
+    - Robot, trí tuệ nhân tạo, chip, xe tự lái, tên lửa, vũ trụ, khủng long.
+    - Sinh vật kỳ lạ và khổng lồ: cá mập, mực khổng lồ, sinh vật biển sâu.
+    - Kỷ lục thế giới, thứ to nhất, nhanh nhất, cổ nhất.
 
     ĐỘ TIN CẬY: nếu tiêu đề giật gân, mơ hồ, "gây sốc", "không thể tin" → trừ 2.
 
@@ -357,9 +500,20 @@ sources:
   # ---- VTV ----
   - {id: vtv-giao-duc,         name: VTV,        lang: vi, section: guong-sang,         url: "https://vtv.vn/rss/giao-duc.rss"}
   - {id: vtv-the-thao,         name: VTV,        lang: vi, section: the-thao-dep,       url: "https://vtv.vn/rss/the-thao.rss"}
-  # ---- Quốc tế (TẮT: bài hiện nguyên văn, bé chưa đọc tiếng Anh; bật lại khi có dịch) ----
-  - {id: bbc-newsround,        name: BBC Newsround, lang: en, section: kham-pha-the-gioi, url: "https://feeds.bbci.co.uk/newsround/rss.xml", max_age_h: 120, enabled: false}
-  - {id: snexplores,           name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/feed", max_age_h: 120, enabled: false}
-  - {id: nasa,                 name: NASA,       lang: en, section: kham-pha-khoa-hoc,  url: "https://www.nasa.gov/rss/dyn/breaking_news.rss", max_age_h: 120, enabled: false}
-  - {id: sciencedaily,         name: ScienceDaily, lang: en, section: kham-pha-khoa-hoc, url: "https://www.sciencedaily.com/rss/top/science.xml", max_age_h: 120, enabled: false}
-  - {id: smithsonian,          name: Smithsonian, lang: en, section: the-gioi-dong-vat,  url: "https://www.smithsonianmag.com/rss/science-nature/", max_age_h: 120, enabled: false}
+  # ---- QUỐC TẾ, VIẾT CHO TRẺ EM (AI dịch sang tiếng Việt) ----
+  - {id: timeforkids,      name: TIME for Kids,      lang: en, section: kham-pha-the-gioi,  url: "https://www.timeforkids.com/feed/",                  max_age_h: 168, max_items: 25}
+  - {id: bbc-newsround,    name: BBC Newsround,      lang: en, section: kham-pha-the-gioi,  url: "https://feeds.bbci.co.uk/newsround/rss.xml",         max_age_h: 96, enabled: false}   # bbc.co.uk không truy cập được từ VN
+  - {id: snexplores,       name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/feed",                  max_age_h: 240}
+
+  - {id: curious-kids,     name: Curious Kids,       lang: en, section: kham-pha-khoa-hoc, url: "https://theconversation.com/au/topics/curious-kids-24587/articles.atom", max_age_h: 336}
+  - {id: sn-space,         name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/topic/space/feed", max_age_h: 240}
+  - {id: sn-animals,      name: Science News Explores, lang: en, section: the-gioi-dong-vat, url: "https://www.snexplores.org/topic/animals/feed", max_age_h: 240}
+  - {id: sn-tech,          name: Science News Explores, lang: en, section: kham-pha-khoa-hoc, url: "https://www.snexplores.org/topic/tech/feed", max_age_h: 240}
+
+  # ---- QUỐC TẾ, KHOA HỌC & CÔNG NGHỆ (người lớn, chất lượng cao; AI lọc kỹ rồi dịch) ----
+  - {id: nasa,             name: NASA,               lang: en, section: kham-pha-khoa-hoc,  url: "https://www.nasa.gov/news-release/feed/",            max_age_h: 240}
+  - {id: sciencealert,     name: ScienceAlert,       lang: en, section: kham-pha-khoa-hoc,  url: "https://www.sciencealert.com/feed",                  max_age_h: 96}
+  - {id: newscientist,     name: New Scientist,      lang: en, section: kham-pha-khoa-hoc,  url: "https://www.newscientist.com/feed/home/",            max_age_h: 96, enabled: false}   # chặn bot, trả 406
+  - {id: ieee-spectrum,    name: IEEE Spectrum,      lang: en, section: kham-pha-khoa-hoc,  url: "https://spectrum.ieee.org/feeds/feed.rss",           max_age_h: 168}
+  - {id: mit-tech-review,  name: MIT Technology Review, lang: en, section: kham-pha-khoa-hoc, url: "https://www.technologyreview.com/feed/",           max_age_h: 168}
+  - {id: smithsonian,      name: Smithsonian,        lang: en, section: the-gioi-dong-vat,  url: "https://www.smithsonianmag.com/rss/science-nature/", max_age_h: 240}

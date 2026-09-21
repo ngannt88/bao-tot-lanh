@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Duyệt số báo — Báo Tốt Lành</title>
+<title>Duyệt số báo — LEVEL UP</title>
 <meta name="robots" content="noindex">
 <link rel="icon" href="icons/icon.svg">
 <style>
@@ -23,6 +23,7 @@
   .badge { border-radius:999px; padding:2px 9px; font-weight:700; background:#EEE; color:#444 }
   .badge.s9,.badge.s10 { background:#DDF3E4; color:#1E6B41 } .badge.s8 { background:#E6F3DD; color:#3B6B1E } .badge.s7,.badge.s6 { background:#FFF0CC; color:#7A5200 }
   .badge.sec { background:#FDEBD3; color:#8A4A12 }
+  .badge.dich { background:#DCE9F8; color:#1B4B7A }
   h3 { margin:0 0 6px; font-size:1.02rem; line-height:1.3 } .sapo { margin:0; color:var(--ink2); font-size:.9rem }
   .reason { font-size:.8rem; color:#555; margin-top:8px; font-style:italic }
   .actions { display:flex; gap:8px; padding:10px 14px 14px; border-top:1px solid var(--line); align-items:center }
@@ -101,10 +102,11 @@
         <div class="num">${idx + 1}</div>
         <div class="thumb" style="${lead ? `background-image:url('${lead}')` : ""}">${lead ? "" : "không có ảnh"}</div>
         <div class="body">
-          <div class="meta">${sc}<span class="badge sec">${sec ? sec.emoji + " " + esc(sec.name) : "?"}</span><span>${esc(c.source_name)}</span><span>${c.images?.length || 0} ảnh · ${c.words} chữ</span></div>
+          <div class="meta">${sc}<span class="badge sec">${sec ? sec.emoji + " " + esc(sec.name) : "?"}</span><span>${esc(c.source_name)}</span>${c.translated ? '<span class="badge dich">DỊCH</span>' : ""}<span>${c.images?.length || 0} ảnh · ${c.words} chữ</span></div>
           <h3>${esc(c.title)}</h3>
           <p class="sapo">${esc(c.sapo)}</p>
           ${c.reason ? `<div class="reason">AI tiêu đề: ${esc(c.reason)}${c.flags?.length ? " · " + esc(c.flags.join(", ")) : ""}</div>` : ""}
+          ${c.translated && c.title_original ? `<div class="reason">Gốc: ${esc(c.title_original)}</div>` : ""}
           ${c.verified ? `<div class="reason">AI đọc bài (vòng 2): ${esc(c.reason2 || "")}${c.score1 != null && c.score2 != null && c.score1 !== c.score2 ? ` · điểm ${c.score1} → ${c.score2}` : ""}</div>` : ""}
         </div>
         <div class="actions">

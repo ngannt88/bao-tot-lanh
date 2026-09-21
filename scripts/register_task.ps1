@@ -27,14 +27,14 @@ function Register($name, $script, $triggers, $desc) {
 $t1 = New-ScheduledTaskTrigger -Daily -At 6:00AM
 $t2 = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
 $t2.Delay = "PT2M"
-Register "BaoTotLanh-HangNgay" (Join-Path $Root "scripts\run_daily.ps1") @($t1, $t2) "Báo Tốt Lành: lấy tin, tách ứng viên, mở trang duyệt"
+Register "BaoTotLanh-HangNgay" (Join-Path $Root "scripts\run_daily.ps1") @($t1, $t2) "LEVEL UP: lấy tin, tách ứng viên, mở trang duyệt"
 
 # 2. Tự xuất bản nếu chưa duyệt (chỉ khi bật trong config)
 if ($autoHour) {
     $t3 = New-ScheduledTaskTrigger -Daily -At $autoHour
     $t4 = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
     $t4.Delay = "PT12M"   # sau tác vụ 1 đủ lâu để có ứng viên
-    Register "BaoTotLanh-TuXuatBan" (Join-Path $Root "scripts\auto_publish.ps1") @($t3, $t4) "Báo Tốt Lành: tự xuất bản bài điểm cao nếu cha mẹ chưa duyệt"
+    Register "BaoTotLanh-TuXuatBan" (Join-Path $Root "scripts\auto_publish.ps1") @($t3, $t4) "LEVEL UP: tự xuất bản bài điểm cao nếu cha mẹ chưa duyệt"
 } else {
     Unregister-ScheduledTask -TaskName "BaoTotLanh-TuXuatBan" -Confirm:$false -ErrorAction SilentlyContinue
     Write-Host "Tự xuất bản đang TẮT (review.auto_publish.enabled: false)"
@@ -42,6 +42,6 @@ if ($autoHour) {
 
 # 3. Kiểm tra nguồn: thứ hai 7:00
 $t5 = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At 7:00AM
-Register "BaoTotLanh-KiemTra" (Join-Path $Root "scripts\selfcheck.ps1") @($t5) "Báo Tốt Lành: kiểm tra feed và bộ tách hàng tuần"
+Register "BaoTotLanh-KiemTra" (Join-Path $Root "scripts\selfcheck.ps1") @($t5) "LEVEL UP: kiểm tra feed và bộ tách hàng tuần"
 
 Write-Host "`nChạy thử ngay:  Start-ScheduledTask -TaskName BaoTotLanh-HangNgay"

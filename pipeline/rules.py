@@ -16,9 +16,12 @@ def vnorm(s: str) -> str:
 
 
 class RuleFilter:
-    def __init__(self, cfg: dict):
+    """Hai bộ chặn: tiếng Việt cho nguồn vi, tiếng Anh cho nguồn en.
+    Cần tách vì nhiều từ trùng mặt chữ mà khác nghĩa (vd "game" = trò chơi / trận đấu)."""
+
+    def __init__(self, cfg: dict, key: str = "blocklist"):
         self.groups: dict[str, list[tuple[str, re.Pattern]]] = {}
-        for group, words in (cfg.get("blocklist") or {}).items():
+        for group, words in (cfg.get(key) or {}).items():
             pats = []
             for w in words:
                 n = vnorm(w)
@@ -48,13 +51,16 @@ class RuleFilter:
 
 
 # Nhóm "nặng": xuất hiện trong mô tả cũng loại. Nhóm nhẹ chỉ xét tiêu đề (tránh loại nhầm).
-HEAVY = {"bao-luc-tai-nan", "nguoi-lon", "kinh-di", "te-nan", "chinh-tri-phap-luat"}
+HEAVY = {"bao-luc-tai-nan", "nguoi-lon", "kinh-di", "te-nan", "chinh-tri-phap-luat",
+         "violence", "adult", "scary", "politics_crime"}
 
 
 def apply_rules(articles: list[dict], cfg: dict) -> tuple[list[dict], list[dict]]:
-    rf = RuleFilter(cfg)
+    rf_vi = RuleFilter(cfg, "blocklist")
+    rf_en = RuleFilter(cfg, "blocklist_en") if cfg.get("blocklist_en") else rf_vi
     passed, blocked = [], []
     for a in articles:
+        rf = rf_en if a.get("lang") == "en" else rf_vi
         hit, why = rf.check(a["title"], a.get("summary", ""))
         if hit:
             a = dict(a, rejected_by="rules", reject_reasons=why)

@@ -51,6 +51,8 @@ def build_issue(day: str, ids: list[str], cfg: dict) -> dict:
             "title": c["title"], "sapo": c.get("sapo", ""), "author": c.get("author", ""),
             "source_name": c["source_name"], "source_url": c["url"], "published": c.get("published"),
             "lang": c.get("lang", "vi"), "score": c.get("score"), "words": c.get("words"),
+            "translated": bool(c.get("translated")), "translated_from": c.get("translated_from", ""),
+            "title_original": c.get("title_original", ""),
             "images": clean, "lead": 0 if clean else None, "blocks": blocks,
         })
     issue = {

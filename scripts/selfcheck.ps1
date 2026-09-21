@@ -14,8 +14,8 @@ try {
     [Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] | Out-Null
     $xml = [Windows.UI.Notifications.ToastNotificationManager]::GetTemplateContent([Windows.UI.Notifications.ToastTemplateType]::ToastText02)
     $t = $xml.GetElementsByTagName("text")
-    $t.Item(0).AppendChild($xml.CreateTextNode($(if ($code -eq 0) { "Báo Tốt Lành: nguồn tin ổn" } else { "Báo Tốt Lành: có nguồn hỏng" }))) | Out-Null
+    $t.Item(0).AppendChild($xml.CreateTextNode($(if ($code -eq 0) { "LEVEL UP: nguồn tin ổn" } else { "LEVEL UP: có nguồn hỏng" }))) | Out-Null
     $t.Item(1).AppendChild($xml.CreateTextNode($summary)) | Out-Null
-    [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("Báo Tốt Lành").Show([Windows.UI.Notifications.ToastNotification]::new($xml))
+    [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("LEVEL UP").Show([Windows.UI.Notifications.ToastNotification]::new($xml))
 } catch {}
 exit $code

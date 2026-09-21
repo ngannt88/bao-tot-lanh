@@ -20,8 +20,16 @@ function Notify($title, $msg) {
         $t.Item(0).AppendChild($xml.CreateTextNode($title)) | Out-Null
         $t.Item(1).AppendChild($xml.CreateTextNode($msg)) | Out-Null
         $toast = [Windows.UI.Notifications.ToastNotification]::new($xml)
-        [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("Báo Tốt Lành").Show($toast)
+        [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("LEVEL UP").Show($toast)
     } catch { "notify lỗi: $_" | Add-Content -Encoding UTF8 $log }
+}
+
+# Không chạy trước 5 giờ sáng: trigger "khi đăng nhập" có thể kích lúc 3 giờ sáng,
+# lúc đó máy thường sắp ngủ lại và tiến trình bị cắt giữa chừng.
+$hourNow = [int](Get-Date -Format 'HH')
+if ($hourNow -lt 5) {
+    "Mới $hourNow giờ, chưa tới 5:00 — bỏ qua lần chạy này." | Add-Content -Encoding UTF8 $log
+    exit 0
 }
 
 $today = Get-Date -Format 'yyyy-MM-dd'
@@ -45,10 +53,10 @@ if (-not (Test-Path $candFile)) {
     $code = $LASTEXITCODE
     "pipeline exit=$code" | Add-Content -Encoding UTF8 $log
     if ($code -ne 0 -or -not (Test-Path $candFile)) {
-        Notify "Báo Tốt Lành: lỗi lấy tin sáng nay" "Xem data\logs\scheduler.log"
+        Notify "LEVEL UP: lỗi lấy tin sáng nay" "Xem data\logs\scheduler.log"
         exit 1
     }
-    Notify "Báo Tốt Lành: có ứng viên mới" "Mở trang duyệt để chọn bài cho con"
+    Notify "LEVEL UP: có ứng viên mới" "Mở trang duyệt để chọn bài cho con"
 } else {
     "Ứng viên hôm nay đã có, chỉ mở trang duyệt." | Add-Content -Encoding UTF8 $log
 }

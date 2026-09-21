@@ -56,7 +56,7 @@
   function shell(inner, opts = {}) {
     return `
       <header class="top">
-        <div class="brand"><img src="icons/icon.svg" alt=""><div>${esc(state.issue?.paper || "Báo Tốt Lành")}<small>${state.issue ? fmtDate(state.issue.date) : ""}</small></div></div>
+        <div class="brand"><img src="icons/icon.svg" alt=""><div>${esc(state.issue?.paper || "LEVEL UP")}<small>${state.issue ? fmtDate(state.issue.date) : ""}</small></div></div>
         <div class="right">
           ${opts.back ? `<button class="btn small" data-go="cover">← Trang bìa</button>` : ""}
           <button class="btn small ghost" id="font" title="Cỡ chữ">Aa</button>
@@ -121,11 +121,11 @@
         <div class="sec">${a.emoji} ${esc(a.section_name)} · Bài ${state.idx + 1}/${iss.articles.length}</div>
         <h1>${esc(a.title)}</h1>
         ${a.sapo ? `<p class="lead">${esc(a.sapo)}</p>` : ""}
-        <div class="byline">${esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
+        <div class="byline">${a.translated ? `<span class="tag-dich">Dịch từ ${esc(a.source_name)}</span>` : esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
         ${lead != null ? figure(a, lead, "lead-fig") : ""}
         <div class="tools"><button class="btn small" id="tts">🔊 Đọc cho tớ nghe</button></div>
         <div class="body">${body}</div>
-        <div class="byline end">Theo ${esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
+        <div class="byline end">${a.translated ? "Bài gốc tiếng Anh của " : "Theo "}${esc(a.source_name)}${a.author ? " · " + esc(a.author) : ""}</div>
         <div class="nav">
           <button class="btn" data-go="cover">☰ Trang bìa</button>
           <button class="btn primary" id="next">${state.idx + 1 < iss.articles.length ? "Đọc xong, bài tiếp →" : "Đọc xong 🎉"}</button>

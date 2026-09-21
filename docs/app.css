@@ -175,3 +175,7 @@ textarea.answer {
 .lightbox .cap { color: #EEE; font-size: .95rem; text-align: center; padding: 10px 6px 4px; max-width: 900px; }
 .top .right .btn.small.ghost { min-width: 42px; padding: 6px 10px; }
 @media (max-width: 480px) { .brand small { display: none; } .top .right { gap: 2px; } }
+
+/* Nhãn bài dịch */
+.tag-dich { background: #E3EDF9; color: #1B4B7A; border-radius: 999px; padding: 2px 10px; font-size: .78rem; font-weight: 800; }
+:root[data-theme="dark"] .tag-dich { background: #22364C; color: #A8CBEE; }

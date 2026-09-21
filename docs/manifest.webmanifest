@@ -1,7 +1,7 @@
 {
-  "name": "Báo Tốt Lành",
-  "short_name": "Báo Tốt Lành",
-  "description": "Tờ báo mỗi ngày dành cho trẻ em: khoa học, thể thao đẹp, động vật, sáng tạo, gương sáng.",
+  "name": "LEVEL UP",
+  "short_name": "LEVEL UP",
+  "description": "Tờ báo mỗi ngày cho các bạn nhỏ: khoa học, công nghệ, thể thao, động vật, sáng tạo.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

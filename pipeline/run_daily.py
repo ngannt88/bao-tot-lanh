@@ -74,6 +74,10 @@ def main():
         for c in unsafe:
             c["extract_error"] = "AI vòng 2: không an toàn — " + (c.get("reason2") or "")
         bad = bad + unsafe
+    # DỊCH: chỉ dịch bài tiếng Anh đã qua vòng 2, tối đa translate.max_per_issue bài
+    if ok and cfg.get("translate", {}).get("enabled") and any(c.get("lang") == "en" for c in ok):
+        from translate import translate_all
+        ok = translate_all(ok, cfg)
     payload = save(day, cfg, ok, has_scores, blocked, rejected_score, bad)
     if not args.no_mark:
         mark_seen(raw)
@@ -82,6 +86,7 @@ def main():
     for a in ok:
         sc = f"{a['score']:>2}" if a.get("score") is not None else " -"
         two = f" v1={a['score1']} v2={a['score2']}" if a.get("verified") else ""
+        two += " [dịch]" if a.get("translated") else ""
         print(f"  [{sc}] {a.get('section') or a.get('hint_section') or '':20} {a['source_name']:12} {a['title'][:60]}  ({len(a['images'])} ảnh, {a['words']} chữ){two} {a.get('reason2','')[:30]}")
     if unsafe:
         print(f"\nVÒNG 2 CHẶN {len(unsafe)} bài:")

@@ -24,7 +24,7 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
         pool = sorted(scored, key=lambda a: a.get("age_h") or 99)
         key = lambda a: a.get("hint_section")
         n = int(n * 1.5)
-    chosen, count, used = [], Counter(), set()
+    chosen, count, used, en_used_init = [], Counter(), set(), []
     # mỗi mục bắt buộc lấy bài tốt nhất trước
     for sid, s in secs.items():
         if not s.get("required"):
@@ -32,8 +32,13 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
         for a in pool:
             if a["id"] not in used and key(a) == sid:
                 chosen.append(a); used.add(a["id"]); count[sid] += 1
+                if a.get("lang") == "en":
+                    en_used_init.append(a["id"])
                 break
     cap = {sid: s.get("max_per_issue", 2) * 2 for sid, s in secs.items()}   # ứng viên gấp đôi số bài mỗi mục
+    tc = cfg.get("translate", {})
+    en_cap = (int(tc.get("max_per_issue", 6)) + 3) if tc.get("enabled") else 0   # dư 3 bài phòng dịch hỏng
+    en_used = len(en_used_init)
     if not has_scores:
         # xoay vòng đều giữa các mục
         buckets: dict[str, list] = {}
@@ -51,6 +56,10 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
             sid = key(a)
             if a["id"] in used or count[sid] >= cap.get(sid, 2):
                 continue
+            if a.get("lang") == "en":
+                if en_used >= en_cap:
+                    continue
+                en_used += 1
             chosen.append(a); used.add(a["id"]); count[sid] += 1
     log.info("Chọn %d ứng viên (%s)", len(chosen), "theo điểm AI" if has_scores else "không có AI, xoay vòng theo mục")
     return chosen
