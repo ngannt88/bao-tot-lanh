@@ -6,7 +6,12 @@ $Script = Join-Path $Root "scripts\run_daily.ps1"
 
 $action = New-ScheduledTaskAction -Execute "powershell.exe" `
     -Argument "-NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$Script`""
-$trigger = New-ScheduledTaskTrigger -Daily -At 6:00AM
+# Hai mốc kích hoạt: 6:00 sáng, và mỗi lần đăng nhập Windows (trễ 2 phút cho mạng lên).
+# Kịch bản tự bỏ qua nếu số báo hôm nay đã có, nên mở máy nhiều lần cũng chỉ chạy một lần.
+$t1 = New-ScheduledTaskTrigger -Daily -At 6:00AM
+$t2 = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
+$t2.Delay = "PT2M"
+$trigger = @($t1, $t2)
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -RunOnlyIfNetworkAvailable `
     -ExecutionTimeLimit (New-TimeSpan -Hours 1) -MultipleInstances IgnoreNew `
     -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries

@@ -9,6 +9,10 @@ $log = Join-Path $Root "data\logs\scheduler.log"
 New-Item -ItemType Directory -Force (Split-Path $log) | Out-Null
 "=== $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') bắt đầu ===" | Add-Content $log
 
+# Đã có số báo hôm nay (vd. chạy lúc 6h rồi, giờ đăng nhập lại) → không chạy lần hai
+$todayFile = Join-Path $Root ("docs\data\issues\" + (Get-Date -Format 'yyyy-MM-dd') + ".json")
+if (Test-Path $todayFile) { "Số báo hôm nay đã có, bỏ qua." | Add-Content $log; exit 0 }
+
 # Chờ mạng tối đa 5 phút (máy vừa mở)
 $ok = $false
 for ($i = 0; $i -lt 30; $i++) {
