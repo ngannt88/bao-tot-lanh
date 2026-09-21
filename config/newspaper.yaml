@@ -412,6 +412,9 @@ translate:
     - Thuật ngữ khó: dịch rồi mở ngoặc kèm từ tiếng Anh, ví dụ "máy tính lượng tử
       (quantum computer)". Chỉ làm một lần ở lần xuất hiện đầu tiên.
     - Không dùng tiếng lóng mạng, không emoji.
+    - TIÊU ĐỀ theo lối tiếng Việt: chỉ viết hoa chữ cái đầu câu và tên riêng.
+      KHÔNG viết hoa đầu mỗi từ như tiếng Anh. Sai: "Giai Đoạn Ngủ Mơ Sống Động".
+      Đúng: "Giai đoạn ngủ mơ sống động".
 
 # ---------------------------------------------------------------------
 #  DUYỆT TAY — mỗi sáng cha mẹ chọn bài từ danh sách ứng viên
