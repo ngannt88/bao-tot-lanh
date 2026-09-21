@@ -7,7 +7,7 @@ paper:
   name: "LEVEL UP"
   tagline: "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!"
   timezone: "Asia/Ho_Chi_Minh"
-  articles_per_issue: 16         # số bài mỗi số báo (đọc hết 25–30 phút)
+  articles_per_issue: 20         # số bài mỗi số báo
   publish_hour: 6                # giờ chạy mỗi sáng
 
 # ---------------------------------------------------------------------
@@ -90,6 +90,24 @@ sections:
       tiền ảo, giá vàng, đầu tư, "làm giàu nhanh", "bí quyết thành công" sáo rỗng.
       Đời tư, hẹn hò, biệt thự siêu xe của người nổi tiếng. Quảng cáo trá hình cho
       một công ty hay một sản phẩm. Lương và chuyển nhượng của cầu thủ.
+
+  - id: "cuoi-tuan-di-dau"
+    name: "Cuối tuần đi đâu"
+    emoji: "🎡"
+    required: false              # không ép: ngày nào không có bài hay thì để trống, đừng lấy bài quảng cáo
+    max_per_issue: 2
+    what: >
+      Chỗ để cả nhà đi cùng nhau vào cuối tuần, ƯU TIÊN TUYỆT ĐỐI Hà Nội và các tỉnh
+      lân cận (Ninh Bình, Hòa Bình, Hà Nam, Bắc Ninh, Hưng Yên, Vĩnh Phúc): bảo tàng,
+      triển lãm, công viên, vườn thú, thủy cung, khu trải nghiệm làm gốm hay làm bánh,
+      làng nghề, chợ phiên, lễ hội, phố đi bộ, địa điểm ngắm cảnh, quán có góc chơi
+      cho trẻ. Bài phải nói rõ CHỖ ĐÓ CÓ GÌ để trẻ thích, đi thế nào, thời điểm nào đẹp.
+      Nơi ngoài miền Bắc chỉ lấy khi thật sự đặc biệt và trẻ em thích.
+    not: >
+      Bài quảng cáo trá hình: nêu giá tiền, khuyến mãi, mã giảm giá, đặt bàn, tên
+      thương hiệu lặp đi lặp lại, lời khen sáo rỗng kiểu "không thể bỏ lỡ", "must try".
+      Resort và khách sạn cao cấp, du lịch nước ngoài đắt đỏ, quán nhậu, quán cà phê
+      chỉ để chụp ảnh sống ảo. Review do nhãn hàng tài trợ. Tin tai nạn du lịch.
 
   - id: "kham-pha-the-gioi"
     name: "Khám phá thế giới"
@@ -388,8 +406,10 @@ blocklist_exceptions:
 # ---------------------------------------------------------------------
 audio:
   enabled: true
-  voice: "vi-VN-HoaiMyNeural"   # giọng nữ; giọng nam: vi-VN-NamMinhNeural
-  rate: "-8%"                   # chậm hơn một chút cho trẻ tập đọc
+  engine: "gtts"                # "gtts" = giọng nữ Google Dịch (mỗi đoạn một file, chữ sáng theo đoạn)
+                                # "edge" = giọng Microsoft vi-VN (một file, chữ sáng theo câu, nhẹ hơn)
+  voice: "vi-VN-HoaiMyNeural"   # chỉ dùng khi engine = edge, hoặc khi Google chặn
+  rate: "-8%"                   # chỉ dùng khi engine = edge
   keep_days: 3                  # giữ giọng đọc mấy ngày gần nhất (xóa ngày cũ cho nhẹ kho)
   max_articles: 10              # chỉ tạo giọng cho mấy bài đầu (mỗi bài ~1,6 MB)
 
@@ -420,8 +440,9 @@ translate:
 #  DUYỆT TAY — mỗi sáng cha mẹ chọn bài từ danh sách ứng viên
 # ---------------------------------------------------------------------
 review:
-  candidates_per_day: 32       # số ứng viên đưa ra cho cha mẹ chọn
+  candidates_per_day: 40       # số ứng viên đưa ra cho cha mẹ chọn
   min_score_candidate: 6       # điểm AI tối thiểu để thành ứng viên (0–10)
+  max_same_topic: 3            # tối đa bao nhiêu bài cùng một chủ đề trong một số báo
   auto_publish:                # "lưới an toàn": đến giờ hẹn mà chưa duyệt → tự xuất bản
     enabled: true
     hour: "07:30"              # giờ tự xuất bản (Task Scheduler đọc khi đăng ký)
@@ -438,6 +459,23 @@ scoring:
     hiển thị NGUYÊN VĂN cho trẻ đọc, nên chỉ chọn bài mà văn bản gốc trẻ đọc được.
     Bố mẹ muốn con được truyền cảm hứng học hỏi, tò mò lành mạnh, yêu cái đẹp, biết nỗ lực.
     Chấm mỗi bài từ 0 đến 10 theo các tiêu chí, TRỪ ĐIỂM MẠNH nếu vi phạm:
+
+    ĐIỀU KIỆN TIÊN QUYẾT — ĐỘ HẤP DẪN. Hỏi trước tiên: "Đứa trẻ 9 tuổi đọc tiêu đề này
+    có MUỐN mở ra đọc không, và đọc xong có muốn kể lại cho bạn nghe không?"
+    - Không có yếu tố nào gây tò mò → TỐI ĐA 6 ĐIỂM, dù bài lành mạnh và tử tế đến mấy.
+    - Yếu tố gây tò mò gồm: điều kỳ lạ hoặc chưa từng thấy, con số gây choáng, kỷ lục,
+      thứ to nhất hay nhỏ nhất, bí ẩn có lời giải, phát hiện mới, sinh vật lạ, khủng long,
+      vũ trụ, thí nghiệm làm được tại nhà, một người làm điều tưởng như không thể.
+    - Bài "an toàn và tích cực" nhưng nhạt (lễ phát động, hội thảo, trao học bổng,
+      kêu gọi, khai mạc, tổng kết) KHÔNG phải bài hay. Chấm 3 đến 5.
+
+    LOẠI THẲNG, CHẤM 0 ĐẾN 2 — dù chủ đề nằm trong chuyên mục:
+    - Lịch thi đấu, nhận định trước trận, dự đoán tỷ số, kết quả vòng bảng, bảng xếp hạng,
+      tường thuật trực tiếp, "những điều đáng chờ đợi", điểm tin thể thao.
+    - Lễ phát động, hội thảo, tọa đàm, khai mạc, tổng kết, trao giải, ký kết hợp tác,
+      bổ nhiệm, công bố quyết định, thông báo tuyển sinh.
+    - Bài chỉ có số liệu thống kê mà không có câu chuyện.
+    - Bài tin vắn dưới 200 chữ không có nội dung gì ngoài một sự việc đơn lẻ.
 
     ĐIỂM CỘNG
     - Có giá trị học hỏi thật: dạy được một điều mới, một hiện tượng, một kỹ năng.
@@ -469,6 +507,10 @@ scoring:
 
     ĐỘ TIN CẬY: nếu tiêu đề giật gân, mơ hồ, "gây sốc", "không thể tin" → trừ 2.
 
+    THÊM TRƯỜNG "topic": một hoặc hai từ không dấu mô tả CHỦ ĐỀ CỤ THỂ của bài, dùng để
+    tránh một số báo có quá nhiều bài giống nhau. Ví dụ: "trung-thu", "asiad", "khung-long",
+    "vu-tru", "robot", "meo", "bong-da-nu", "tuyen-sinh". Bài cùng sự kiện phải cùng topic.
+
 # ---------------------------------------------------------------------
 #  NGUỒN — điền sau khi dò RSS (probe_feeds.py). Chỉ giữ feed sống.
 #  lang: vi = dùng thẳng; en = AI dịch khi viết lại
@@ -478,14 +520,14 @@ sources:
   - {id: vnexpress-khoa-hoc,   name: VnExpress,  lang: vi, section: kham-pha-khoa-hoc,  url: "https://vnexpress.net/rss/khoa-hoc.rss"}
   - {id: vnexpress-giao-duc,   name: VnExpress,  lang: vi, section: guong-sang,         url: "https://vnexpress.net/rss/giao-duc.rss"}
   - {id: vnexpress-the-thao,   name: VnExpress,  lang: vi, section: the-thao-dep,       url: "https://vnexpress.net/rss/the-thao.rss"}
-  - {id: vnexpress-du-lich,    name: VnExpress,  lang: vi, section: kham-pha-the-gioi,  url: "https://vnexpress.net/rss/du-lich.rss"}
+  - {id: vnexpress-du-lich,    name: VnExpress,  lang: vi, section: cuoi-tuan-di-dau,  url: "https://vnexpress.net/rss/du-lich.rss"}
   # ---- Tuổi Trẻ ----
   - {id: tuoitre-khoa-hoc,     name: Tuổi Trẻ,   lang: vi, section: kham-pha-khoa-hoc,  url: "https://tuoitre.vn/rss/khoa-hoc.rss"}
   - {id: tuoitre-giao-duc,     name: Tuổi Trẻ,   lang: vi, section: guong-sang,         url: "https://tuoitre.vn/rss/giao-duc.rss"}
   - {id: tuoitre-the-thao,     name: Tuổi Trẻ,   lang: vi, section: the-thao-dep,       url: "https://tuoitre.vn/rss/the-thao.rss"}
   - {id: tuoitre-nhip-song-tre, name: Tuổi Trẻ,  lang: vi, section: guong-sang,         url: "https://tuoitre.vn/rss/nhip-song-tre.rss"}
   - {id: tuoitre-van-hoa,      name: Tuổi Trẻ,   lang: vi, section: sang-tao-kien-truc, url: "https://tuoitre.vn/rss/van-hoa.rss"}
-  - {id: tuoitre-du-lich,      name: Tuổi Trẻ,   lang: vi, section: kham-pha-the-gioi,  url: "https://tuoitre.vn/rss/du-lich.rss"}
+  - {id: tuoitre-du-lich,      name: Tuổi Trẻ,   lang: vi, section: cuoi-tuan-di-dau,  url: "https://tuoitre.vn/rss/du-lich.rss"}
   # ---- Thanh Niên ----
   - {id: thanhnien-giao-duc,   name: Thanh Niên, lang: vi, section: guong-sang,         url: "https://thanhnien.vn/rss/giao-duc.rss"}
   - {id: thanhnien-gioi-tre,   name: Thanh Niên, lang: vi, section: guong-sang,         url: "https://thanhnien.vn/rss/gioi-tre.rss"}
@@ -496,7 +538,7 @@ sources:
   - {id: dantri-khoa-hoc,      name: Dân Trí,    lang: vi, section: kham-pha-khoa-hoc,  url: "https://dantri.com.vn/rss/khoa-hoc.rss", max_age_h: 120}
   - {id: dantri-giao-duc,      name: Dân Trí,    lang: vi, section: guong-sang,         url: "https://dantri.com.vn/rss/giao-duc.rss"}
   - {id: dantri-the-thao,      name: Dân Trí,    lang: vi, section: the-thao-dep,       url: "https://dantri.com.vn/rss/the-thao.rss"}
-  - {id: dantri-du-lich,       name: Dân Trí,    lang: vi, section: kham-pha-the-gioi,  url: "https://dantri.com.vn/rss/du-lich.rss"}
+  - {id: dantri-du-lich,       name: Dân Trí,    lang: vi, section: cuoi-tuan-di-dau,  url: "https://dantri.com.vn/rss/du-lich.rss"}
   # ---- VietnamNet / VietnamPlus / Tiền Phong / KH&ĐS ----
   - {id: vietnamnet-khoa-hoc,  name: VietnamNet, lang: vi, section: kham-pha-khoa-hoc,  url: "https://vietnamnet.vn/rss/khoa-hoc.rss", max_age_h: 120}
   - {id: vietnamnet-giao-duc,  name: VietnamNet, lang: vi, section: guong-sang,         url: "https://vietnamnet.vn/rss/giao-duc.rss"}
@@ -507,6 +549,11 @@ sources:
   - {id: tienphong-giao-duc,   name: Tiền Phong, lang: vi, section: guong-sang,         url: "https://tienphong.vn/rss/giao-duc-71.rss"}
   - {id: khoahocdoisong,       name: Khoa học & Đời sống, lang: vi, section: kham-pha-khoa-hoc, url: "https://khoahocdoisong.vn/rss/home.rss", max_age_h: 120, enabled: false}  # feed trang chủ toàn tin chính trị
   - {id: kienthuc-khoa-hoc,    name: Kiến Thức,  lang: vi, section: kham-pha-khoa-hoc,  url: "https://kienthuc.net.vn/rss/khoa-hoc-cong-nghe-8.rss", enabled: false}  # nhiều tít giật gân, tắt mặc định
+  # ---- Du lịch & trải nghiệm (cho mục "Cuối tuần đi đâu") ----
+  - {id: thanhnien-du-lich,    name: Thanh Niên, lang: vi, section: cuoi-tuan-di-dau,   url: "https://thanhnien.vn/rss/du-lich.rss"}
+  - {id: znews-du-lich,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/du-lich.rss", max_age_h: 96}
+  - {id: znews-am-thuc,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/am-thuc.rss", max_age_h: 96}
+
   # ---- Thiếu niên Tiền phong & Nhi đồng (báo viết cho trẻ em, không có RSS → lấy từ trang chuyên mục) ----
   - {id: thieunien-guong-mat,  name: Thiếu niên Tiền phong, lang: vi, section: guong-sang,        type: html, url: "https://thieunien.vn/hoc-duong/guong-mat",    link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}
   - {id: thieunien-cach-hoc,   name: Thiếu niên Tiền phong, lang: vi, section: guong-sang,        type: html, url: "https://thieunien.vn/hoc-duong/cach-hoc-hay", link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}

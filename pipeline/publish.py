@@ -145,12 +145,24 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
     secs = {s["id"]: s for s in cfg["sections"]}
     pool = sorted([c for c in data["candidates"] if (c.get("score") or 0) >= min_score],
                   key=lambda c: (-c["score"], c.get("age_h") or 99))
-    chosen, count = [], {}
+    chosen, count, topics = [], {}, {}
+    max_topic = int(cfg.get("review", {}).get("max_same_topic", 3))
+
+    def topic_ok(c):
+        t = (c.get("topic") or "").strip()
+        return not t or topics.get(t, 0) < max_topic
+
+    def take(c, sid):
+        chosen.append(c); count[sid] = count.get(sid, 0) + 1
+        t = (c.get("topic") or "").strip()
+        if t:
+            topics[t] = topics.get(t, 0) + 1
+
     for sid, s in secs.items():                      # mỗi mục bắt buộc 1 bài trước
         if s.get("required"):
             for c in pool:
                 if c not in chosen and c.get("section") == sid:
-                    chosen.append(c); count[sid] = 1; break
+                    take(c, sid); break
     # Giữ suất cho bài dịch: đã tốn công dịch thì phải được lên báo, đừng để cân bằng
     # chuyên mục loại mất (bài quốc tế thường dồn vào một vài mục).
     need_tr = int(cfg.get("translate", {}).get("min_in_issue", 0))
@@ -164,14 +176,14 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
             sid = c.get("section")
             if count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) + 1:   # nới 1 suất cho bài dịch
                 continue
-            chosen.append(c); count[sid] = count.get(sid, 0) + 1; have += 1
+            take(c, sid); have += 1
     for c in pool:
         if len(chosen) >= n:
             break
         sid = c.get("section")
-        if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2):
+        if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) or not topic_ok(c):
             continue
-        chosen.append(c); count[sid] = count.get(sid, 0) + 1
+        take(c, sid)
     return [c["id"] for c in chosen]
 
 

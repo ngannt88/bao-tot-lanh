@@ -1,33 +1,43 @@
-"""Tạo giọng đọc tiếng Việt cho từng bài trong số báo, kèm mốc thời gian theo câu.
+"""Tạo giọng đọc tiếng Việt cho từng bài trong số báo.
 
-Vì sao cần: bé 7 tuổi chưa đọc trôi. Nghe giọng thật và thấy câu đang đọc sáng lên
+Vì sao cần: bé 7 tuổi chưa đọc trôi. Nghe giọng thật và thấy đoạn đang đọc sáng lên
 là cách trẻ tập đọc, thay vì bắt con tự dò từng chữ.
 
-Sinh ra hai file cho mỗi bài, trong docs/data/audio/<ngày>/:
-  <id>.mp3    giọng đọc cả bài
-  <id>.json   {"dur": tổng giây, "cues": [{"t": giây bắt đầu, "p": chỉ số đoạn, "s": vị trí ký tự, "e": ...}]}
+Hai bộ giọng, chọn trong config `audio.engine`:
+  gtts      giọng nữ Google Dịch (quen thuộc). Không báo được vị trí đang đọc, nên
+            mỗi ĐOẠN được cắt thành một file riêng; app phát nối tiếp và làm sáng
+            đúng đoạn đang phát.
+  edge      giọng Microsoft vi-VN. Một file cho cả bài, kèm mốc theo từng câu.
+Nếu bộ chính lỗi (Google chặn vì gọi nhiều) thì tự lùi về bộ còn lại.
 
-Chạy tự động sau khi xuất bản. Chạy tay:  python pipeline/tts.py --date 2026-09-22
+Sinh ra trong docs/data/audio/<ngày>/:
+  <id>.json   {"engine": .., "dur": giây, "parts": [{"p": chỉ số đoạn, "f": tên file, "dur": giây}]}
+              hoặc với edge: {"engine":"edge","dur":.., "cues":[{"t","p","s","e"}]}
+  <id>.mp3            (edge) hoặc
+  <id>-0.mp3, ...     (gtts, mỗi đoạn một file)
+
+Chạy tay:  python pipeline/tts.py --date 2026-09-22
 """
 from __future__ import annotations
-import asyncio, re, shutil, sys, time
+import asyncio, io, re, shutil, sys, time
+import concurrent.futures as cf
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
-import edge_tts
 from common import setup_logging, write_json, read_json, SITE_DATA, ISSUES, today_str, load_config
 
 log = setup_logging()
 AUDIO = SITE_DATA / "audio"
 VOICE = "vi-VN-HoaiMyNeural"
-RATE = "-8%"          # chậm hơn một chút cho trẻ tập đọc
+RATE = "-8%"
 PARALLEL = 4
-KEEP_DAYS = 3         # giữ audio bao nhiêu ngày gần nhất
-MAX_CHARS = 9000      # bài dài hơn thì chỉ đọc phần đầu
+KEEP_DAYS = 3
+MAX_CHARS = 9000
 TEXT_KINDS = ("p", "h", "q", "li")
+MP3_FRAME = 26            # ~26 ms mỗi khung mp3 24 kHz, dùng để đo thời lượng
 
 
 def _pieces(article: dict) -> list[tuple[int, str]]:
-    """Trả [(chỉ số đoạn trong blocks, văn bản)] theo đúng thứ tự đọc: tiêu đề, sapo, rồi thân bài."""
+    """[(chỉ số đoạn trong blocks, văn bản)] theo thứ tự đọc: tiêu đề (-2), sapo (-1), rồi thân bài."""
     out: list[tuple[int, str]] = [(-2, article.get("title", ""))]
     if article.get("sapo"):
         out.append((-1, article["sapo"]))
@@ -41,7 +51,63 @@ def _pieces(article: dict) -> list[tuple[int, str]]:
     return out
 
 
-async def _synth(text: str, voice: str, rate: str) -> tuple[bytes, list[dict]]:
+def _norm(s: str) -> str:
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _mp3_seconds(data: bytes) -> float:
+    """Ước thời lượng mp3 bằng cách đếm khung. Đủ chính xác để nối đoạn và làm sáng chữ."""
+    try:
+        from mutagen.mp3 import MP3
+        return MP3(io.BytesIO(data)).info.length
+    except Exception:
+        return max(1.0, len(data) / 4000)      # gTTS ~32 kbps → 4000 byte mỗi giây
+
+
+# --------------------------------------------------------------------------- gTTS
+def _gtts_one(text: str, tries: int = 3) -> bytes | None:
+    from gtts import gTTS
+    for k in range(tries):
+        try:
+            b = io.BytesIO()
+            gTTS(_norm(text), lang="vi").write_to_fp(b)
+            return b.getvalue()
+        except Exception as e:
+            if k == tries - 1:
+                log.warning("gTTS lỗi: %s", str(e)[:90])
+            time.sleep(1.5 * (k + 1))
+    return None
+
+
+def _build_gtts(article: dict, out_dir: Path) -> dict | None:
+    pieces = [(i, t) for i, t in _pieces(article) if t.strip()]
+    if not pieces:
+        return None
+    out_dir.mkdir(parents=True, exist_ok=True)
+    with cf.ThreadPoolExecutor(max_workers=3) as ex:     # 3 luồng: nhanh mà không dồn dập
+        blobs = list(ex.map(lambda p: _gtts_one(p[1]), pieces))
+    if sum(1 for b in blobs if b) < len(pieces) * 0.8:   # hỏng quá nhiều → coi như thất bại
+        return None
+    parts, total, kb = [], 0.0, 0
+    for (blk_i, _), blob in zip(pieces, blobs):
+        if not blob:
+            continue
+        fname = f"{article['id']}-{len(parts)}.mp3"
+        (out_dir / fname).write_bytes(blob)
+        dur = _mp3_seconds(blob)
+        parts.append({"p": blk_i, "f": fname, "dur": round(dur, 2)})
+        total += dur
+        kb += len(blob) // 1024
+    if not parts:
+        return None
+    write_json(out_dir / f"{article['id']}.json",
+               {"engine": "gtts", "dur": round(total, 2), "parts": parts})
+    return {"id": article["id"], "kb": kb, "parts": len(parts), "dur": round(total)}
+
+
+# --------------------------------------------------------------------------- edge-tts
+async def _edge_synth(text: str, voice: str, rate: str) -> tuple[bytes, list[dict]]:
+    import edge_tts
     comm = edge_tts.Communicate(text, voice, rate=rate)
     audio, cues = bytearray(), []
     async for ch in comm.stream():
@@ -54,12 +120,7 @@ async def _synth(text: str, voice: str, rate: str) -> tuple[bytes, list[dict]]:
     return bytes(audio), cues
 
 
-def _norm(s: str) -> str:
-    return re.sub(r"\s+", " ", s).strip()
-
-
 def _map_cues(pieces: list[tuple[int, str]], cues: list[dict]) -> list[dict]:
-    """Gán mỗi mốc câu vào đúng đoạn và vị trí ký tự, bằng cách dò tuần tự trên văn bản đã ghép."""
     joined, spans, pos = "", [], 0
     for blk_i, text in pieces:
         t = _norm(text)
@@ -72,7 +133,7 @@ def _map_cues(pieces: list[tuple[int, str]], cues: list[dict]) -> list[dict]:
         if not needle:
             continue
         at = joined.find(needle, cursor)
-        if at < 0:                                   # dấu câu khác nhau → thử khớp 25 ký tự đầu
+        if at < 0:
             at = joined.find(needle[:25], cursor)
         if at < 0:
             continue
@@ -84,37 +145,37 @@ def _map_cues(pieces: list[tuple[int, str]], cues: list[dict]) -> list[dict]:
     return out
 
 
-async def _one(article: dict, out_dir: Path, voice: str, rate: str) -> dict | None:
+async def _build_edge_one(article: dict, out_dir: Path, voice: str, rate: str) -> dict | None:
     pieces = _pieces(article)
     text = "\n".join(_norm(t) for _, t in pieces if t.strip())
     if len(text) < 40:
         return None
     try:
-        audio, cues = await _synth(text, voice, rate)
+        audio, cues = await _edge_synth(text, voice, rate)
     except Exception as e:
-        log.warning("Giọng đọc lỗi (%s): %s", str(e)[:70], article["title"][:45])
+        log.warning("edge-tts lỗi (%s): %s", str(e)[:60], article["title"][:40])
         return None
     if not audio:
         return None
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / f"{article['id']}.mp3").write_bytes(audio)
-    mapped = _map_cues(pieces, cues)
     dur = max((c["t"] + c.get("d", 0) for c in cues), default=0)
-    write_json(out_dir / f"{article['id']}.json", {"dur": round(dur, 2), "cues": mapped})
-    return {"id": article["id"], "kb": len(audio) // 1024, "cues": len(mapped), "dur": round(dur)}
+    write_json(out_dir / f"{article['id']}.json",
+               {"engine": "edge", "dur": round(dur, 2), "cues": _map_cues(pieces, cues)})
+    return {"id": article["id"], "kb": len(audio) // 1024, "dur": round(dur)}
 
 
-async def _run(articles: list[dict], out_dir: Path, voice: str, rate: str) -> list[dict]:
+async def _run_edge(articles: list[dict], out_dir: Path, voice: str, rate: str) -> list[dict]:
     sem = asyncio.Semaphore(PARALLEL)
 
     async def guarded(a):
         async with sem:
-            return await _one(a, out_dir, voice, rate)
+            return await _build_edge_one(a, out_dir, voice, rate)
     return [r for r in await asyncio.gather(*(guarded(a) for a in articles)) if r]
 
 
+# --------------------------------------------------------------------------- chung
 def cleanup(keep_days: int = KEEP_DAYS) -> int:
-    """Xóa audio của các ngày cũ để kho không phình."""
     if not AUDIO.exists():
         return 0
     days = sorted([d for d in AUDIO.iterdir() if d.is_dir()], reverse=True)
@@ -126,7 +187,6 @@ def cleanup(keep_days: int = KEEP_DAYS) -> int:
 
 
 def build(day: str | None = None, cfg: dict | None = None) -> dict:
-    """Tạo giọng đọc cho toàn bộ bài của số báo ngày đó. Trả thống kê."""
     day = day or today_str()
     cfg = cfg or load_config()
     tc = cfg.get("audio", {})
@@ -137,16 +197,28 @@ def build(day: str | None = None, cfg: dict | None = None) -> dict:
         return {"error": f"chưa có số báo {day}"}
     out_dir = AUDIO / day
     limit = int(tc.get("max_articles", 10))
-    todo = [a for a in issue["articles"][:limit] if not (out_dir / f"{a['id']}.mp3").exists()]
+    todo = [a for a in issue["articles"][:limit] if not (out_dir / f"{a['id']}.json").exists()]
     if not todo:
         return {"day": day, "made": 0, "note": "đã có đủ"}
+
+    engine = tc.get("engine", "gtts")
     t0 = time.time()
-    res = asyncio.run(_run(todo, out_dir, tc.get("voice", VOICE), tc.get("rate", RATE)))
+    res: list[dict] = []
+    if engine == "gtts":
+        with cf.ThreadPoolExecutor(max_workers=2) as ex:      # 2 bài cùng lúc, mỗi bài 3 đoạn
+            res = [r for r in ex.map(lambda a: _build_gtts(a, out_dir), todo) if r]
+        if len(res) < len(todo) * 0.6:                        # Google chặn → lùi về edge-tts
+            log.warning("Giọng Google chỉ làm được %d/%d bài, chuyển sang giọng dự phòng", len(res), len(todo))
+            rest = [a for a in todo if not (out_dir / f"{a['id']}.json").exists()]
+            res += asyncio.run(_run_edge(rest, out_dir, tc.get("voice", VOICE), tc.get("rate", RATE)))
+    else:
+        res = asyncio.run(_run_edge(todo, out_dir, tc.get("voice", VOICE), tc.get("rate", RATE)))
+
     removed = cleanup(int(tc.get("keep_days", KEEP_DAYS)))
     mb = sum(r["kb"] for r in res) / 1024
-    log.info("Giọng đọc %s: %d/%d bài, %.1f MB, %.0fs (xóa %d ngày cũ)",
-             day, len(res), len(todo), mb, time.time() - t0, removed)
-    return {"day": day, "made": len(res), "failed": len(todo) - len(res),
+    log.info("Giọng đọc %s (%s): %d/%d bài, %.1f MB, %.0fs (xóa %d ngày cũ)",
+             day, engine, len(res), len(todo), mb, time.time() - t0, removed)
+    return {"day": day, "engine": engine, "made": len(res), "failed": len(todo) - len(res),
             "mb": round(mb, 1), "secs": round(time.time() - t0), "removed_days": removed}
 
 
@@ -154,5 +226,9 @@ if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=today_str())
+    ap.add_argument("--engine", default=None, help="gtts hoặc edge")
     a = ap.parse_args()
-    print(build(a.date))
+    cfg = load_config()
+    if a.engine:
+        cfg.setdefault("audio", {})["engine"] = a.engine
+    print(build(a.date, cfg))

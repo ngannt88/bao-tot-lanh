@@ -49,9 +49,12 @@
   const readCount = (iss = state.issue) => iss.articles.filter(a => isRead(a, iss.date)).length;
   const isToday = () => state.issue && state.issue.date === state.latestDate;
 
-  /* ---------- Trình nghe: phát giọng đọc, làm sáng câu đang đọc ---------- */
+  /* ---------- Trình nghe: phát giọng đọc, làm sáng phần đang đọc ----------
+     Hai kiểu dữ liệu giọng đọc:
+       gtts: mỗi đoạn một file, phát nối tiếp → làm sáng cả ĐOẠN đang đọc
+       edge: một file cả bài kèm mốc theo câu → làm sáng đúng CÂU đang đọc          */
   const player = {
-    el: null, cues: [], cur: -1,
+    el: null, meta: null, part: 0, cues: [], cur: -1, article: null, base: "",
     setBtn(on) {
       const b = document.getElementById("play");
       if (b) b.innerHTML = on ? "⏸ Dừng đọc" : "🔊 Nghe đọc bài này";
@@ -60,21 +63,53 @@
     async open(a) {
       const btn = document.getElementById("play");
       if (btn) btn.innerHTML = "⏳ Đang tải giọng đọc…";
-      const meta = await fetchJson(`data/audio/${state.issue.date}/${a.id}.json`);
+      this.base = `data/audio/${state.issue.date}/`;
+      const meta = await fetchJson(this.base + a.id + ".json");
       if (!meta) { this.fallback(a); return; }
+      this.meta = meta; this.article = a; this.part = 0; this.cur = -1;
       this.cues = meta.cues || [];
-      const au = new Audio(`data/audio/${state.issue.date}/${a.id}.mp3`);
+      if (meta.engine === "gtts" && meta.parts?.length) this.playPart(0);
+      else this.playWhole(a);
+    },
+    playWhole(a) {
+      const au = new Audio(this.base + a.id + ".mp3");
       this.el = au;
-      au.addEventListener("timeupdate", () => this.tick(au.currentTime));
-      au.addEventListener("ended", () => { this.stop(); });
+      au.addEventListener("timeupdate", () => this.tickCues(au.currentTime));
+      au.addEventListener("ended", () => this.stop());
       au.addEventListener("error", () => { this.el = null; this.fallback(a); });
       au.play().then(() => this.setBtn(true)).catch(() => { this.el = null; this.fallback(a); });
     },
-    tick(t) {
+    playPart(i) {
+      const parts = this.meta.parts;
+      if (i >= parts.length) { this.stop(); return; }
+      this.part = i;
+      const au = new Audio(this.base + parts[i].f);
+      this.el = au;
+      au.addEventListener("ended", () => this.playPart(i + 1));
+      au.addEventListener("error", () => this.playPart(i + 1));   // hỏng một đoạn thì đọc tiếp đoạn sau
+      au.addEventListener("timeupdate", () => this.progress());
+      this.markWhole(parts[i].p);
+      au.play().then(() => this.setBtn(true)).catch(() => { this.el = null; this.fallback(this.article); });
+    },
+    progress() {
+      const p = document.getElementById("prog"); if (!p || !this.meta) return;
+      const parts = this.meta.parts;
+      let done = 0;
+      if (parts) { for (let k = 0; k < this.part; k++) done += parts[k].dur || 0; done += this.el?.currentTime || 0; }
+      else done = this.el?.currentTime || 0;
+      p.style.width = Math.min(100, Math.round(done / (this.meta.dur || 1) * 100)) + "%";
+    },
+    markWhole(pIdx) {          // làm sáng trọn một đoạn (kiểu gtts)
+      this.clearMarks();
+      const el = document.querySelector(`[data-p="${pIdx}"]`); if (!el) return;
+      el.classList.add("saying");
+      const r = el.getBoundingClientRect();
+      if (r.top < 80 || r.bottom > innerHeight - 100) el.scrollIntoView({ block: "center", behavior: "smooth" });
+    },
+    tickCues(t) {              // làm sáng đúng câu (kiểu edge)
+      this.progress();
       let i = -1;
       for (let k = 0; k < this.cues.length; k++) { if (this.cues[k].t <= t + 0.15) i = k; else break; }
-      const p = document.getElementById("prog");
-      if (p && this.el?.duration) p.style.width = Math.round(this.el.currentTime / this.el.duration * 100) + "%";
       if (i === this.cur) return;
       this.cur = i;
       this.clearMarks();
@@ -87,6 +122,7 @@
     },
     clearMarks() {
       document.querySelectorAll("[data-p]").forEach(el => {
+        el.classList.remove("saying");
         if (el.querySelector(".sent")) el.textContent = el.dataset.text || el.textContent;
       });
     },
@@ -95,7 +131,7 @@
       if (window.speechSynthesis?.speaking) { this.stop(); return; }
       this.open(a);
     },
-    fallback(a) {   // bài ngoài 10 bài đầu chưa có file giọng thật → dùng giọng máy của trình duyệt
+    fallback(a) {   // chưa có file giọng đọc → dùng giọng có sẵn của máy
       if (!("speechSynthesis" in window)) { const b = document.getElementById("play"); if (b) { b.textContent = "Máy này chưa đọc được"; b.disabled = true; } return; }
       const u = new SpeechSynthesisUtterance([a.title, a.sapo, ...(a.blocks || []).filter(b => b.text).map(b => b.text)].join(". "));
       const v = speechSynthesis.getVoices().find(v => /^vi/i.test(v.lang)); if (v) u.voice = v;
@@ -106,7 +142,7 @@
     stop() {
       if (this.el) { this.el.pause(); this.el.removeAttribute("src"); this.el.load(); this.el = null; }
       if (window.speechSynthesis) speechSynthesis.cancel();
-      this.cues = []; this.cur = -1;
+      this.meta = null; this.cues = []; this.cur = -1; this.part = 0;
       this.clearMarks(); this.setBtn(false);
     },
   };

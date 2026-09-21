@@ -214,3 +214,6 @@ textarea.answer {
 /* Tên báo không bị ngắt dòng trên điện thoại */
 .brand > div { white-space: nowrap; }
 @media (max-width: 400px) { .brand img { width: 32px; height: 32px; } .brand { font-size: .95rem; gap: 8px; } }
+/* Đoạn đang được đọc (giọng Google, phát theo từng đoạn) */
+[data-p].saying { background: #FFF3CE; border-radius: 10px; box-shadow: 0 0 0 8px #FFF3CE; }
+:root[data-theme="dark"] [data-p].saying { background: #4A3A14; box-shadow: 0 0 0 8px #4A3A14; }

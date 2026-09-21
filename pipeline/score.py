@@ -68,7 +68,7 @@ def _system(cfg: dict) -> str:
     return (cfg["scoring"]["criteria"].strip()
             + "\n\nCHUYÊN MỤC (chọn đúng một id, hoặc 'khong-phu-hop'):\n" + secs
             + "\n\nĐẦU RA BẮT BUỘC: chỉ một JSON object, không lời dẫn, không markdown, không giải thích ngoài JSON:\n"
-            + '{"scores":[{"id":"<id>","score":<số nguyên 0-10, thang 10>,"section":"<id mục>","reason":"<≤12 chữ>","flags":[]}]}\n'
+            + '{"scores":[{"id":"<id>","score":<số nguyên 0-10, thang 10>,"section":"<id mục>","topic":"<1-2 từ không dấu>","reason":"<≤12 chữ>","flags":[]}]}\n'
             + "Đủ mọi id đã cho. JSON NÉN một dòng, không thụt lề, không xuống dòng. "
               "Bài dưới 6 điểm: bỏ hẳn 'reason' và 'flags' (chỉ id, score, section). "
               "Bài từ 6 điểm: 'reason' ≤ 8 chữ, 'flags' chỉ khi có vấn đề (vd 'tien-bac','giat-gan','chinh-sach').")
@@ -86,8 +86,8 @@ def score_articles(articles: list[dict], cfg: dict) -> list[dict]:
         rows = [{"id": a["id"], "nguon": a["source_name"], "goi_y_muc": a.get("hint_section"),
                  "tieu_de": a["title"], "mo_ta": a.get("summary", "")[:300]} for a in chunk]
         prompt = ("Chấm điểm các bài sau.\n\n" + json.dumps(rows, ensure_ascii=False, indent=0)
-                  + '\n\nCHỈ TRẢ JSON NÉN MỘT DÒNG {"scores":[{"id":"..","score":n,"section":".."},...]} thang 0–10, đủ mọi id; '
-                    'chỉ bài ≥6 mới thêm "reason" ≤ 8 chữ. Không thêm chữ nào khác.')
+                  + '\n\nCHỈ TRẢ JSON NÉN MỘT DÒNG {"scores":[{"id":"..","score":n,"section":"..","topic":".."},...]} thang 0–10, '
+                    'đủ mọi id, mọi bài đều có "topic"; chỉ bài ≥6 mới thêm "reason" ≤ 8 chữ. Không thêm chữ nào khác.')
         try:
             return idx, ask_json(prompt, system=system, model=model)
         except Exception as e:
@@ -119,6 +119,7 @@ def score_articles(articles: list[dict], cfg: dict) -> list[dict]:
             out.append(dict(a, score=sc,
                             section=_pick(x, "section", "muc", "chuyen_muc") or a.get("hint_section"),
                             reason=str(_pick(x, "reason", "ly_do", "lydo", "giai_thich") or "")[:160],
+                            topic=str(_pick(x, "topic", "chu_de") or "")[:40].lower(),
                             flags=[str(f) for f in (x.get("flags") or []) if f]))
     scored = [a for a in out if a["score"] is not None]
     missed = len(out) - len(scored)

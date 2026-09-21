@@ -25,13 +25,25 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
         key = lambda a: a.get("hint_section")
         n = int(n * 1.5)
     chosen, count, used, en_used_init = [], Counter(), set(), []
+    topics: Counter = Counter()
+    max_topic = int(cfg.get("review", {}).get("max_same_topic", 3))
+
+    def topic_ok(a) -> bool:
+        t = (a.get("topic") or "").strip()
+        return not t or topics[t] < max_topic
+
+    def take(a, sid):
+        chosen.append(a); used.add(a["id"]); count[sid] += 1
+        t = (a.get("topic") or "").strip()
+        if t:
+            topics[t] += 1
     # mỗi mục bắt buộc lấy bài tốt nhất trước
     for sid, s in secs.items():
         if not s.get("required"):
             continue
         for a in pool:
             if a["id"] not in used and key(a) == sid:
-                chosen.append(a); used.add(a["id"]); count[sid] += 1
+                take(a, sid)
                 if a.get("lang") == "en":
                     en_used_init.append(a["id"])
                 break
@@ -48,9 +60,9 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
             if a["id"] in used or a.get("lang") != "en":
                 continue
             sid = key(a)
-            if count[sid] >= cap.get(sid, 2):
+            if count[sid] >= cap.get(sid, 2) or not topic_ok(a):
                 continue
-            chosen.append(a); used.add(a["id"]); count[sid] += 1; en_used += 1
+            take(a, sid); en_used += 1
     if not has_scores:
         # xoay vòng đều giữa các mục
         buckets: dict[str, list] = {}
@@ -66,13 +78,13 @@ def select(scored: list[dict], cfg: dict, has_scores: bool) -> list[dict]:
             if len(chosen) >= n:
                 break
             sid = key(a)
-            if a["id"] in used or count[sid] >= cap.get(sid, 2):
+            if a["id"] in used or count[sid] >= cap.get(sid, 2) or not topic_ok(a):
                 continue
             if a.get("lang") == "en":
                 if en_used >= en_cap:
                     continue
                 en_used += 1
-            chosen.append(a); used.add(a["id"]); count[sid] += 1
+            take(a, sid)
     log.info("Chọn %d ứng viên (%s)", len(chosen), "theo điểm AI" if has_scores else "không có AI, xoay vòng theo mục")
     return chosen
 
