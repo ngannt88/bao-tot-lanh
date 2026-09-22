@@ -8,6 +8,25 @@ log = setup_logging()
 IMG_PUB = SITE_DATA / "img"
 
 
+def _arrange(items: list[dict], cfg: dict) -> list[dict]:
+    """Xếp bài theo chuyên mục: bài nổi bật đứng đầu, phần còn lại gom từng mục.
+
+    Phải xếp NGAY Ở ĐÂY chứ không chỉ ở app: giọng đọc chỉ làm cho mấy bài đầu danh
+    sách. Nếu app tự xếp lại thì 10 bài có giọng nằm rải rác, con đọc bài thứ ba lại
+    không có giọng còn bài mười lăm thì có.
+    """
+    if len(items) < 3:
+        return items
+    order = [s["id"] for s in cfg["sections"]]
+    rank = lambda a: (order.index(a["section"]) if a.get("section") in order else 999)
+    head, rest = items[:1], items[1:]
+    rest.sort(key=lambda a: (rank(a), -(a.get("score") or 0)))
+    out = head + rest
+    for i, a in enumerate(out, 1):
+        a["order"] = i
+    return out
+
+
 def build_issue(day: str, ids: list[str], cfg: dict) -> dict:
     data = load_candidates(day)
     if not data:
@@ -55,6 +74,7 @@ def build_issue(day: str, ids: list[str], cfg: dict) -> dict:
             "title_original": c.get("title_original", ""),
             "images": clean, "lead": 0 if clean else None, "blocks": blocks,
         })
+    items = _arrange(items, cfg)
     issue = {
         "date": day, "paper": cfg["paper"]["name"], "tagline": cfg["paper"]["tagline"],
         "generated_at": now_vn().isoformat(timespec="seconds"),

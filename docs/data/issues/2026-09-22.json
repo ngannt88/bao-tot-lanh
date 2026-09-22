@@ -2,7 +2,7 @@
  "date": "2026-09-22",
  "paper": "LEVEL UP",
  "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
- "generated_at": "2026-09-22T09:20:44+07:00",
+ "generated_at": "2026-09-22T11:32:28+07:00",
  "sections": [
   {
    "id": "the-thao-dep",
@@ -156,8 +156,438 @@
    ]
   },
   {
-   "id": "c0037111581b",
+   "id": "d2baf01d9160",
    "order": 2,
+   "slug": "nguyen-thi-dieu-ly-tu-co-be-hay-om-den-chien-binh-thep-gianh",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Nguyễn Thị Diệu Ly: Từ cô bé hay ốm đến 'chiến binh thép' giành HCĐ karate ASIAD",
+   "sapo": "Chiều 21.9, Nguyễn Thị Diệu Ly khép lại một trận đấu nghẹt thở tại ASIAD 20 bằng tấm HCĐ ở nội dung kumite của môn karate. Đằng sau chiến tích ấy là hành trình 9 năm cô gái sinh năm 2005 không ngừng vượt qua những giới hạn của chính mình.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nguyen-thi-dieu-ly-tu-co-be-hay-om-den-chien-binh-thep-gianh-hcd-karate-asiad-185260921153424025.htm",
+   "published": "2026-09-21T08:50:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 673,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/d2baf01d9160-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-22/d2baf01d9160-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 878
+    },
+    {
+     "src": "img/2026-09-22/d2baf01d9160-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 846
+    },
+    {
+     "src": "img/2026-09-22/d2baf01d9160-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/d2baf01d9160-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Trận tranh HCĐ nghẹt thở"
+    },
+    {
+     "t": "p",
+     "text": "Trong trận tranh HCĐ với võ sĩ chủ nhà Nhật Bản Kama Tsubasa, Nguyễn Thị Diệu Ly nhập cuộc đầy tự tin. Nữ võ sĩ Việt Nam sớm tạo lợi thế bằng đòn Ippon, vươn lên dẫn trước 3-0."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng lợi thế ấy nhanh chóng bị san lấp. Kama Tsubasa kiên trì tấn công và lần lượt đưa trận đấu về thế cân bằng 3-3, trước khi vượt lên dẫn 4-3. Khi thời gian thi đấu không còn nhiều, Diệu Ly buộc phải đẩy cao tốc độ và tìm kiếm cơ hội cuối cùng."
+    },
+    {
+     "t": "p",
+     "text": "Nỗ lực của võ sĩ Việt Nam được đền đáp khi cô ghi thêm điểm, đưa tỷ số về 4-4. Do Diệu Ly là người ghi điểm trước, cô được xử thắng theo luật ưu tiên điểm ghi trước, qua đó giành HCĐ ASIAD 20."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Diệu Ly (đỏ) thi đấu xuất sắc và đầy quyết tâm ở trận tranh HCĐ. Cô ăn mừng sau khi giành chiến thắng"
+    },
+    {
+     "t": "p",
+     "text": "Tấm huy chương đến sau một trận đấu mà Diệu Ly phải liên tục chống chọi với sức ép từ võ sĩ chủ nhà. Nhưng bản lĩnh từng được tôi luyện qua rất nhiều giải đấu quốc tế đã giúp cô đứng vững ở thời khắc quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Đây là tấm HCĐ thứ 3 của đoàn thể thao Việt Nam ở ASIAD 20. Đồng đội của Ly ở đội tuyển karate là Bùi Ngọc Nhi cũng đã giành HCĐ nội dung kata (biểu diễn) vào ngày 20.9. Tấm HCĐ đầu tiên của Việt Nam tại ASIAD 20 do công của bộ đôi Minh Tân - Gia Nghi môn teqball."
+    },
+    {
+     "t": "h",
+     "text": "Từ cô bé hay ốm đến nhà vô địch"
+    },
+    {
+     "t": "p",
+     "text": "Hành trình đến bục huy chương ASIAD của Diệu Ly bắt đầu từ năm 2017, khi cô mới 12 tuổi. Khi ấy, Ly theo chị gái đến Trung tâm Thể dục thể thao Quân đội tập thử karate. Cô bé có thể lực không tốt, khá gầy và thường xuyên ốm. Chính người chị ruột Nguyễn Thị Ngoan - một võ sĩ karate giàu thành tích của thể thao quân đội - đã truyền cảm hứng để Ly gắn bó với môn võ này."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt lớn đến vào năm 2022. Trước giải vô địch trẻ thế giới tại Thổ Nhĩ Kỳ, Diệu Ly từng gặp chấn thương trật khớp háng và phải ép 7 kg để thi đấu đúng hạng cân. Đây cũng là giải quốc tế đầu tiên cô tham dự sau nhiều năm tập luyện ở đội tuyển trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Áp lực rất lớn, nhưng Diệu Ly đã vượt qua tất cả để giành HCV thế giới. Khoảnh khắc nữ võ sĩ cùng HLV Phạm Hồng Hà ôm nhau sau trận chung kết trở thành một trong những ký ức đáng nhớ nhất trong sự nghiệp của cô."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Diệu Ly mang về tấm HCĐ thứ 3 cho đoàn thể thao Việt Nam ở ASIAD 20"
+    },
+    {
+     "t": "p",
+     "text": "Từ một cô bé có thể lực yếu, Diệu Ly từng bước trở thành gương mặt nổi bật của karate Việt Nam. Cô giành nhiều HCV ở các giải Đông Nam Á, châu Á, thế giới, SEA Games và các giải quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, năm 2025 là một dấu mốc đáng nhớ khi Diệu Ly vinh dự 3 lần được Chủ tịch nước tặng Huân chương Lao động hạng Nhì vì những thành tích xuất sắc trong màu áo thể thao quân đội và đội tuyển quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Phía sau những thành tích ấy là một tuổi trẻ gần như gắn trọn với thảm đấu. Những buổi tập kéo dài, các chuyến tập huấn và thi đấu liên tục khiến thời gian dành cho gia đình, bạn bè của Diệu Ly bị thu hẹp."
+    },
+    {
+     "t": "p",
+     "text": "“Tuổi trẻ của tôi gắn liền với thảm đấu và những chuyến tập huấn, thi đấu dài ngày, xa xôi. Đôi khi là nỗi cô đơn, áp lực và cả những giới hạn mình buộc phải vượt qua”, cô từng tâm sự."
+    }
+   ]
+  },
+  {
+   "id": "c39867e771df",
+   "order": 3,
+   "slug": "dau-an-nu-vo-si-karate-21-tuoi-lan-dau-du-asiad-da-gianh-hcd",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Dấu ấn nữ võ sĩ karate 21 tuổi, lần đầu dự ASIAD đã giành HCĐ",
+   "sapo": "Lần đầu tham dự ASIAD, võ sĩ sinh năm 2005 Nguyễn Thị Diệu Ly mang về cho đoàn thể thao VN tấm HCĐ ở môn karate.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/dau-an-nu-vo-si-karate-21-tuoi-lan-dau-du-asiad-da-gianh-hcd-185260921223947504.htm",
+   "published": "2026-09-21T20:45:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 616,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/c39867e771df-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-22/c39867e771df-0.jpg",
+     "caption": "Võ sĩ Nguyễn Thị Diệu Ly ( trái ) đoạt HCĐ hạng cân 68 kg nữ môn karate tại ASIAD 20",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Chiến thắng sít sao"
+    },
+    {
+     "t": "p",
+     "text": "Hạng cân 68 kg nữ mà Nguyễn Thị Diệu Ly góp mặt tranh tài hôm qua (21.9) có sự tham gia của các đối thủ mạnh Trung Quốc và chủ nhà Nhật Bản. Ngay trận ra quân, cô phải chạm trán Li Qiaoqiao (Trung Quốc). Sau chiến thắng trước Diệu Ly, võ sĩ Trung Quốc thẳng tiến đến trận chung kết và đoạt HCV. Trong khi đó nữ võ sĩ VN tranh HCĐ với võ sĩ chủ nhà Kama Tsubasa."
+    },
+    {
+     "t": "p",
+     "text": "Nhập cuộc đầy chủ động và quyết tâm, Diệu Ly tạo ưu thế dẫn điểm trước đối thủ nhưng Kama Tsubasa cũng cho thấy tài năng và bản lĩnh với những pha ra đòn chuẩn xác. Trận đấu kết thúc với điểm số 4-4 và trọng tài tuyên chiến thắng cùng tấm HCĐ thuộc về Diệu Ly nhờ luật Senshu (người ghi điểm trước)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng sít sao ở trận tranh HCĐ giúp nữ võ sĩ 21 tuổi của VN có được danh hiệu đầu tiên ở đấu trường ASIAD. Đây cũng là tấm HCĐ thứ 3 của đoàn thể thao VN tại ASIAD 20."
+    },
+    {
+     "t": "h",
+     "text": "Khẳng định tài năng"
+    },
+    {
+     "t": "p",
+     "text": "Xuất thân từ chiếc nôi karate đơn vị Quân đội, ngay từ nhỏ Diệu Ly đã được chị gái là đương kim á quân ASIAD Nguyễn Thị Ngoan cùng các HLV tận tình chỉ bảo. Môi trường thể thao Quân đội giúp cô có được kỷ luật, ý chí, tác phong chuyên nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Chăm chỉ tập luyện cùng nhiều tố chất phù hợp với karate, Diệu Ly tiến bộ nhanh chóng, thể hiện được khả năng qua thành tích thi đấu xuất sắc ở các giải trẻ khu vực, châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Được trao cơ hội tranh tài ở SEA Games 33 diễn ra năm ngoái, Diệu Ly tỏa sáng với 1 HCV đồng đội cùng 1 HCB cá nhân. Tại giải karate vô địch châu Á 2026, Diệu Ly tỏa sáng, lên ngôi vô địch sau chiến thắng trước Kama Tsubasa, bại tướng của cô ở trận tranh HCĐ ASIAD lần này."
+    },
+    {
+     "t": "h",
+     "text": "3 tuyển thủ TDDC vào chung kết"
+    },
+    {
+     "t": "p",
+     "text": "Ở ngày thi đấu hôm qua, đội tuyển thể dục dụng cụ (TDDC) VN thi đấu khá thành công, có 3 tuyển thủ vượt qua vòng loại, giành quyền vào vòng chung kết là Đặng Ngọc Xuân Thiện (ngựa vòng), Nguyễn Văn Khánh Phong (vòng treo) và Trịnh Hải Khang (nhảy chống). Đội tuyển TDDC VN cũng vào chung kết nội dung đồng đội nam."
+    },
+    {
+     "t": "p",
+     "text": "Ở môn bơi, Phạm Thanh Bảo vượt kỷ lục SEA Games ở nội dung 100 m ếch với thành tích 1 phút 00 giây 85 (kỷ lục cũ 1 phút 00 giây 97) nhưng không thể vào chung kết. Đội tiếp sức 4 x 200 m tự do với Trần Hưng Nguyên, Nguyễn Viết Tường, Nguyễn Huy Hoàng, Trần Văn Nguyễn Quốc xếp hạng tư chung cuộc. Đội tuyển bóng chuyền nữ gây thất vọng khi thua Indonesia 0-3 và phải tranh hạng 7 với Kazakhstan."
+    },
+    {
+     "t": "p",
+     "text": "Thể hình tốt, linh hoạt, nhanh nhẹn, thi đấu bản lĩnh, lì lợm nhưng ban huấn luyện cũng chỉ ra những điểm mà Diệu Ly cần phải chỉnh sửa để hoàn thiện như sự kết hợp tay chân cũng như di chuyển. Cô cũng cho biết mình cần rèn luyện thêm tâm lý thi đấu. Vì thế mỗi cơ hội tranh tài ở các giải quốc tế là cơ hội để cô tích lũy, hoàn thiện."
+    },
+    {
+     "t": "p",
+     "text": "Với tài năng dần được khẳng định của Diệu Ly, ban huấn luyện đội tuyển karate VN đặt niềm tin vào Diệu Ly cho mục tiêu gặt hái thành công ở đấu trường quốc tế sắp tới."
+    }
+   ]
+  },
+  {
+   "id": "b57e91fb8e50",
+   "order": 4,
+   "slug": "asiad-2026-boi-viet-nam-va-dau-moc-dang-nho-o-noi-dung-tiep",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "ASIAD 2026: Bơi Việt Nam và dấu mốc đáng nhớ ở nội dung tiếp sức",
+   "sapo": "Lần đầu tiên lọt vào nhóm 4 đội mạnh nhất nội dung 4x200m tự do nam, đội tuyển Bơi Việt Nam tạo dấu ấn đáng nhớ tại ASIAD 2026.",
+   "author": "Thanh Phương",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/asiad-2026-boi-viet-nam-va-dau-moc-dang-nho-o-noi-dung-tiep-suc-post1137531.vnp",
+   "published": "2026-09-21T13:25:50+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 629,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/b57e91fb8e50-lead.jpg",
+     "caption": "",
+     "w": 820,
+     "h": 547
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Không giành huy chương, nhưng đội tuyển Bơi Việt Nam vẫn tạo dấu ấn đáng nhớ tại ASIAD 2026 khi lần đầu tiên lọt vào nhóm 4 đội mạnh nhất nội dung 4x200m tự do nam."
+    },
+    {
+     "t": "p",
+     "text": "Bộ tứ Trần Hưng Nguyên, Nguyễn Viết Tường, Nguyễn Huy Hoàng và Trần Văn Nguyễn Quốc về đích thứ tư trong chung kết với thành tích 7 phút 18 giây 09, chỉ xếp sau Trung Quốc, Nhật Bản và Hàn Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích này đánh dấu bước tiến rõ rệt của Bơi Việt Nam ở nội dung tiếp sức tại đấu trường châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Trước ASIAD 2026, đội 4x200m tự do nam Việt Nam mới hai lần vào chung kết, đều về thứ 6: đạt 7 phút 32 giây 02 tại ASIAD 2018 và 7 phút 24 giây 92 tại ASIAD 2022 tổ chức ở Hàng Châu (Trung Quốc) năm 2023."
+    },
+    {
+     "t": "p",
+     "text": "Tại ASIAD năm nay, các \"kình ngư\" Việt Nam gây ấn tượng ngay từ vòng loại khi hoàn thành phần thi với thời gian 7 phút 21 giây 62, đứng thứ tư và giành quyền vào chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Đến cuộc đua tranh huy chương chiều 21/9, đội tiếp tục cải thiện thành tích, rút thêm hơn 3 giây để cán đích sau 7 phút 18 giây 09. Khoảng cách 11,33 giây với đội giành huy chương Đồng Hàn Quốc cho thấy Việt Nam vẫn còn cách nhóm dẫn đầu châu lục một khoảng đáng kể."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, vị trí thứ tư là kết quả cao nhất của Bơi Việt Nam tại ASIAD ở nội dung này, đồng thời cho thấy sự tiến bộ đáng ghi nhận của một tập thể đã duy trì thành tích ổn định ở khu vực Đông Nam Á."
+    },
+    {
+     "t": "p",
+     "text": "Ở ba kỳ SEA Games gần nhất, Việt Nam đều giành huy chương Vàng 4x200m tự do nam. Tại SEA Games 33 năm 2025, chính bộ tứ Hưng Nguyên, Viết Tường, Huy Hoàng và Nguyễn Quốc đã mang về tấm huy chương Vàng với thành tích 7 phút 18 giây 67."
+    },
+    {
+     "t": "p",
+     "text": "Việc tiếp tục cạnh tranh ở nhóm đầu tại ASIAD cho thấy các vận động viên Việt Nam đang từng bước chuyển hóa ưu thế ở khu vực thành thành tích tại đấu trường châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong ngày 21/9, vận động viên Võ Thị Mỹ Tiên góp mặt ở chung kết 200m hỗn hợp cá nhân nữ và cán đích thứ 9 với thành tích 2 phút 17 giây 50."
+    },
+    {
+     "t": "p",
+     "text": "Ở môn Thể dục dụng cụ, Việt Nam cũng có 3 vận động viên giành quyền vào chung kết các nội dung đơn môn, gồm Đặng Ngọc Xuân Thiện ở Ngựa vòng, Nguyễn Văn Khánh Phong ở Vòng treo và Trịnh Hải Khang ở Nhảy chống."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Karate tiếp tục mang về huy chương cho đoàn Thể thao Việt Nam. Ở trận tranh huy chương Đồng Kumite nữ hạng dưới 68kg, vận động viên Nguyễn Thị Diệu Ly hòa võ sỹ chủ nhà Nhật Bản Tsubasa Kama với tỷ số 4-4."
+    },
+    {
+     "t": "p",
+     "text": "Do là người ghi điểm trước, Diệu Ly được xử thắng theo luật Senshu, qua đó giành huy chương Đồng. Đây là tấm huy chương thứ ba của đoàn Thể thao Việt Nam tại ASIAD 2026, sau huy chương Đồng của Nguyễn Hoàng Minh Tân và Trịnh Gia Nghi ở nội dung Teqball đôi nam nữ, cùng huy chương Đồng của Bùi Ngọc Nhi ở nội dung Kata cá nhân nữ./."
+    },
+    {
+     "t": "h",
+     "text": "ASIAD 2026: Việt Nam kỳ vọng dấu ấn từ bơi, bắn súng và wushu"
+    },
+    {
+     "t": "p",
+     "text": "Bước vào ngày thi đấu thứ hai tại ASIAD 2026, các vận động viên Việt Nam tranh tài ở nhiều bộ môn, trong đó bơi, bắn súng và wushu là những môn được kỳ vọng tạo thêm dấu ấn."
+    }
+   ]
+  },
+  {
+   "id": "f2745e0896b4",
+   "order": 5,
+   "slug": "haaland-can-bang-ky-luc-cua-kane-o-ngoai-hang-anh",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Haaland cân bằng kỷ lục của Kane ở Ngoại hạng Anh",
+   "sapo": "Anh Bàn thắng trong trận Man City thắng Sunderland 5-3 giúp Erling Haaland thành cầu thủ thứ hai trong lịch sử Ngoại hạng Anh ghi bàn vào lưới mọi đối thủ từng chạm trán ít nhất hai lần.",
+   "author": "Xuân Bình",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/haaland-can-bang-ky-luc-cua-kane-o-ngoai-hang-anh-5122981.html",
+   "published": "2026-09-21T09:26:40+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 705,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/f2745e0896b4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-22/f2745e0896b4-0.jpg",
+     "caption": "Erling Haaland ăn mừng sau khi ghi bàn thứ năm cho Man City trong trận gặp Sunderland tại Ngoại hạng Anh ở Etihad, Manchester, Anh, ngày 20/9/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-09-22/f2745e0896b4-1.jpg",
+     "caption": "Những đội Ngoại hạng Anh bị Haaland chọc thủng lưới, tính đến hết ngày 20/9/2026. Đồ họa: Xuân Bình (AI hỗ trợ)",
+     "w": 1020,
+     "h": 1530
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Anh Bàn thắng trong trận Man City thắng Sunderland 5-3 giúp Erling Haaland thành cầu thủ thứ hai trong lịch sử Ngoại hạng Anh ghi bàn vào lưới mọi đối thủ từng chạm trán ít nhất hai lần."
+    },
+    {
+     "t": "p",
+     "text": "Trước trận đấu, Sunderland là đội duy nhất Haaland từng gặp tại Ngoại hạng Anh nhưng chưa ghi bàn. Tiền đạo Na Uy đã chơi hai trận gặp đối thủ này mùa trước nhưng không lập công, dù sút ba lần trong 159 phút."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó thay đổi ở phút 81 trận đấu hôm 20/9. Haaland băng vào phía cột xa rồi trượt người đưa bóng vào lưới, nâng tỷ số lên 5-3 cho Man City. Bàn thắng ban đầu không được công nhận vì lỗi việt vị, nhưng VAR xác định Haaland không việt vị và trọng tài công nhận pha lập công."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây là bàn thắng thứ 117 của Haaland tại Ngoại hạng Anh và là bàn thứ năm của anh từ đầu mùa 2026-2027. Thành tích này giúp tiền đạo Man City tiếp tục dẫn đầu cuộc đua Vua phá lưới, hơn Alexander Isak một bàn."
+    },
+    {
+     "t": "p",
+     "text": "Haaland đã ghi bàn vào lưới cả 25 đội anh từng đối đầu tại Ngoại hạng Anh kể từ khi ra mắt giải đấu vào tháng 8/2022. Đây là thành tích đặc biệt bởi Haaland mới trải qua hơn bốn mùa giải ở Anh nhưng đã hoàn tất danh sách."
+    },
+    {
+     "t": "p",
+     "text": "Harry Kane là cầu thủ duy nhất trước Haaland từng chơi từ hai trận trở lên và ghi bàn trước mọi đối thủ mà anh gặp tại Ngoại hạng Anh. Kane từng ghi bàn vào lưới 32 đội khác nhau trong thời gian khoác áo Tottenham."
+    },
+    {
+     "t": "p",
+     "text": "Haaland hiện có thành tích 25/25, nhưng con số này vẫn có thể tăng lên 26/26 trước Giáng sinh. Man City chưa từng gặp Hull City khi Haaland thi đấu tại Ngoại hạng Anh. Hai đội dự kiến gặp nhau ngày 19/12, và nếu được sử dụng, Haaland sẽ cần ghi bàn để duy trì thành tích hoàn hảo trước các đối thủ từng chạm trán."
+    },
+    {
+     "t": "p",
+     "text": "Bộ sưu tập của Haaland được hình thành với hiệu suất khác nhau. West Ham là đội anh ghi nhiều bàn nhất, với 11 bàn sau tám trận. Crystal Palace và Wolverhampton đứng tiếp theo với 10 bàn mỗi đội, trong khi Man Utd là nạn nhân của chín bàn."
+    },
+    {
+     "t": "p",
+     "text": "Haaland cũng ghi tám bàn vào lưới Fulham, bảy bàn trước Everton và Brighton, sáu bàn trước Arsenal. Anh có năm bàn trước Burnley, Brentford và Nottingham Forest. Những đội còn lại trong danh sách gồm Ipswich Town, Southampton, Chelsea, Tottenham, Bournemouth, Leicester City, Liverpool, Leeds United, Sheffield United, Luton Town, Coventry City, Sunderland, Aston Villa và Newcastle."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sunderland là trường hợp đặc biệt nhất. Sau hai trận không ghi bàn, Haaland cuối cùng cũng chọc thủng lưới đối thủ. Trước đó, anh cũng bỏ lỡ vài cơ hội, trong đó có cú đệm bóng trước cầu môn trống nhưng chệch cột."
+    },
+    {
+     "t": "p",
+     "text": "Enzo Fernandez, Rayan Cherki và Antoine Semenyo với hai bàn, đưa Man City vượt lên, trước khi Haaland ghi bàn thứ năm cho đội chủ nhà. Tiền đạo Brian Brobbey lập hat-trick, nhưng không thể giúp đội khách tránh thất bại 3-5 ."
+    },
+    {
+     "t": "p",
+     "text": "Hat-trick của Brobbey cũng giúp anh trở thành cầu thủ đầu tiên ghi ba bàn trong một trận Ngoại hạng Anh nhưng vẫn nhận thất bại kể từ Roque Santa Cruz của Blackburn trong trận gặp Wigan tháng 12/2007. Brobbey cũng là cầu thủ Sunderland đầu tiên lập hat-trick tại giải kể từ Jermain Defoe cách đây một thập kỷ."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Haaland tiếp tục xây dựng những cột mốc cá nhân sau khi gia nhập Man City. Tuy nhiên, thành tích ghi bàn trước mọi đối thủ từng gặp vẫn còn cách khá xa kỷ lục về số đội khác nhau mà một cầu thủ ghi bàn tại Ngoại hạng Anh."
+    },
+    {
+     "t": "p",
+     "text": "Frank Lampard hiện giữ kỷ lục với 39 đội khác nhau trong sự nghiệp. Andrew Cole đứng sau với 38 đội, còn Jermain Defoe và Alan Shearer cùng có 37. Haaland còn nhiều thời gian để cải thiện con số 25."
+    },
+    {
+     "t": "p",
+     "text": "Xuân Bình (theo ESPN , Opta )"
+    }
+   ]
+  },
+  {
+   "id": "c0037111581b",
+   "order": 6,
    "slug": "vao-noi-che-tao-robot-chua-chay-hien-dai-cua-viet-nam-xuat-k",
    "section": "kham-pha-khoa-hoc",
    "section_name": "Khám phá khoa học",
@@ -421,8 +851,600 @@
    ]
   },
   {
+   "id": "a81e9c8bd026",
+   "order": 7,
+   "slug": "tour-bay-6-ngay-vao-vu-tru-duoc-san-don-chay-ve",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tour bay 6 ngày vào vũ trụ được săn đón \"cháy vé\"",
+   "sapo": "(Dân trí) - Du khách sẽ được huấn luyện trong nhiều ngày trước khi bay tới rìa không gian, trải nghiệm trạng thái không trọng lượng và nhìn Trái Đất từ bên",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/tour-bay-6-ngay-vao-vu-tru-duoc-san-don-chay-ve-20260921063902867.htm",
+   "published": "2026-09-21T00:32:49+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 750,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/a81e9c8bd026-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-22/a81e9c8bd026-0.jpg",
+     "caption": "Lộ trình của sản phẩm du lịch kéo dài 6 ngày bao gồm 4 ngày huấn luyện mô phỏng nghiêm ngặt tại New Mexico và chuyến bay kéo dài 90 phút vào ngày thứ năm (Ảnh: Handout).",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-22/a81e9c8bd026-1.jpg",
+     "caption": "Richard Branson (trái), nhà sáng lập Virgin Galactic, trong chuyến bay cận quỹ đạo trên tàu vũ trụ của công ty vào năm 2021 (Ảnh: Handout).",
+     "w": 1024,
+     "h": 569
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Du khách sẽ được huấn luyện trong nhiều ngày trước khi bay tới rìa không gian, trải nghiệm trạng thái không trọng lượng và nhìn Trái Đất từ bên ngoài khí quyển."
+    },
+    {
+     "t": "p",
+     "text": "Tour 6 ngày, điểm đến là không gian cận quỹ đạo"
+    },
+    {
+     "t": "p",
+     "text": "Những chuyến nghỉ dưỡng trên du thuyền, đảo tư nhân hay khách sạn 5 sao dường như chưa phải giới hạn cuối cùng của du lịch xa xỉ."
+    },
+    {
+     "t": "p",
+     "text": "Nền tảng du lịch trực tuyến Ctrip, thuộc Trip.com Group, gần đây đã đưa lên hệ thống một sản phẩm đặc biệt dành cho thị trường Trung Quốc: chuyến du lịch không gian với giá khởi điểm 5,1 triệu nhân dân tệ, tương đương gần 19 tỷ đồng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo South China Morning Post , đây là sản phẩm đắt nhất mà nền tảng này từng chào bán. Chuyến đi kéo dài 6 ngày, trong đó điểm nhấn là hành trình cận quỹ đạo kéo dài khoảng 90 phút do công ty Virgin Galactic của Mỹ vận hành."
+    },
+    {
+     "t": "p",
+     "text": "Du khách không thể chỉ bỏ tiền mua vé rồi lập tức bước lên tàu."
+    },
+    {
+     "t": "p",
+     "text": "Bốn ngày đầu tiên được dành cho quá trình chuẩn bị và huấn luyện tại Mỹ. Đến ngày thứ 5, hành khách mới bắt đầu chuyến bay từ Spaceport America ở New Mexico."
+    },
+    {
+     "t": "p",
+     "text": "Khác tên lửa truyền thống cất cánh thẳng đứng, hệ thống của Virgin Galactic sử dụng một máy bay mẹ đưa tàu vũ trụ lên độ cao lớn. Tàu sau đó tách ra, kích hoạt động cơ rocket để tiếp tục tăng độ cao."
+    },
+    {
+     "t": "p",
+     "text": "Trong hành trình, hành khách có vài phút trải nghiệm trạng thái không trọng lượng. Cabin được trang bị 17 cửa sổ, cho phép họ quan sát đường cong của Trái Đất trên nền không gian tối đen."
+    },
+    {
+     "t": "p",
+     "text": "Mức giá hơn 5 triệu nhân dân tệ chưa phải toàn bộ số tiền khách hàng phải chuẩn bị."
+    },
+    {
+     "t": "p",
+     "text": "Theo Ctrip, giá gói bao gồm chương trình bay và các dịch vụ liên quan như huấn luyện trước chuyến bay, di chuyển và lưu trú trong thời gian huấn luyện. Vé máy bay quốc tế đến Mỹ, thị thực và bảo hiểm cá nhân không nằm trong mức giá trên."
+    },
+    {
+     "t": "p",
+     "text": "Vé siêu đắt đỏ vẫn \"cháy hàng\""
+    },
+    {
+     "t": "p",
+     "text": "Mức giá để đi vào vũ trụ nghe khó tin với phần đông du khách, nhưng nhu cầu đối với những chuyến bay như vậy đang khiến chính Virgin Galactic bất ngờ."
+    },
+    {
+     "t": "p",
+     "text": "Hồi tháng 4, công ty mở một đợt đặt chỗ giới hạn gồm 50 suất."
+    },
+    {
+     "t": "p",
+     "text": "Đến tháng 8, Virgin Galactic thông báo số người đăng ký đã vượt lượng suất cung cấp và đợt bán phải đóng sớm hơn dự kiến. Các đơn đặt chỗ mới bổ sung hơn 50 triệu USD vào doanh thu chuyến bay dự kiến trong tương lai của hãng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Virgin Galactic hiện có khoảng 675 khách hàng đã đặt chỗ từ trước. Công ty dự kiến đưa thế hệ tàu Delta vào hoạt động thương mại từ tháng 2/2027, muộn hơn kế hoạch trước đó do quá trình hoàn thiện hệ thống kéo dài."
+    },
+    {
+     "t": "p",
+     "text": "Hai tàu Delta đầu tiên được kỳ vọng giúp hãng tăng mạnh tần suất hoạt động. Mục tiêu dài hơn là đạt khoảng 125 chuyến thương mại mỗi năm."
+    },
+    {
+     "t": "p",
+     "text": "Virgin Galactic cho biết sau khi đợt vé này bán hết, những đợt tiếp theo dự kiến sẽ được mở ở mức giá cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "Trung Quốc cũng muốn tự đưa khách lên không gian"
+    },
+    {
+     "t": "p",
+     "text": "Trong lúc những khách hàng giàu có tại Trung Quốc phải sang Mỹ để thực hiện chuyến đi, các doanh nghiệp hàng không vũ trụ của nước này cũng đang phát triển dịch vụ riêng."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 10/2024, startup Deep Blue Aerospace công bố kế hoạch đưa khách du lịch lên không gian cận quỹ đạo từ năm 2027."
+    },
+    {
+     "t": "p",
+     "text": "Giá niêm yết được công bố khi đó là 1,5 triệu nhân dân tệ, khoảng 5,8 tỷ đồng mỗi người, chưa bằng 1/3 gói Virgin Galactic hiện được bán qua Ctrip. Hai suất đầu tiên đã được bán trong một buổi livestream trên nền tảng thương mại điện tử."
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch được công bố, chuyến bay của Deep Blue Aerospace kéo dài khoảng 12 phút. Tàu sẽ đạt độ cao khoảng 100-150km và mang đến ít nhất 5 phút không trọng lượng."
+    },
+    {
+     "t": "p",
+     "text": "Một doanh nghiệp khác là CAS Space cũng từng công bố mục tiêu triển khai du lịch không gian có người lái vào khoảng năm 2028."
+    }
+   ]
+  },
+  {
+   "id": "8d35af7a6174",
+   "order": 8,
+   "slug": "nhung-ranh-khong-lo-he-lo-hang-dong-sau-toi-150-met-ben-duoi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Những rãnh khổng lồ hé lộ hang động sâu tới 150 mét bên dưới đồng bằng Nullarbor ở Australia",
+   "sapo": "Đôi khi các đặc điểm địa chất rất dễ nhận ra: đứt gãy có thể để lại những vết nứt khổng lồ trên mặt đất, những tảng đá to trên cánh đồng là bằng chứng rõ ràng cho thấy sông băng đã để chúng lại khi tan chảy, và các lớp trầm tích nhiều màu sắc rõ nét trong một vách đá cho thấy rõ lịch sử lắng đọng của một khu vực. Nhưng đôi khi các đặc điểm của Trái Đất lại vô cùng, vô cùng tinh vi - tinh vi đến mức mắt thường có thể không nhìn thấy được. Các nhà khoa học gần đây đã tìm thấy trường hợp như vậy tại đồng bằng Nullarbor, một sa mạc rộng lớn không có cây cối ở Australia.",
+   "author": "Starre Vartan",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/giant-trenches-reveal-caves-up-to-150-meters-deep-beneath-australias-nullarbor-plain",
+   "published": "2026-09-21T13:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1144,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Giant Trenches Reveal Caves Up to 150 Meters Deep Beneath Australia's Nullarbor Plain",
+   "images": [
+    {
+     "src": "img/2026-09-22/8d35af7a6174-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-22/8d35af7a6174-0.jpg",
+     "caption": "Bên ngoài một hang động ở đồng bằng Nullarbor. (Matej Lipar)",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-22/8d35af7a6174-1.jpg",
+     "caption": "Bảng phía trên cho thấy mô hình độ cao số (DEM) của khu vực cùng vị trí các đặc điểm và địa điểm chính, trong khi các bảng A-E cho thấy hình ảnh DEM phóng to của các rãnh Abrakurrie, Wombat, Koonalda, Yangoonabie và Yalata. (Lipar và cộng sự, Communications Earth & Environment, 2026.)",
+     "w": 1280,
+     "h": 1334
+    },
+    {
+     "src": "img/2026-09-22/8d35af7a6174-2.jpg",
+     "caption": "Một miệng hang cho thấy còn nhiều điều đang diễn ra bên dưới bề mặt vốn bằng phẳng và không có gì nổi bật của đồng bằng Nullarbor. (Matej Lipar)",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-22/8d35af7a6174-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 628
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đôi khi các đặc điểm địa chất rất dễ nhận ra: đứt gãy có thể để lại những vết nứt khổng lồ trên mặt đất, những tảng đá to trên cánh đồng là bằng chứng rõ ràng cho thấy sông băng đã để chúng lại khi tan chảy, và các lớp trầm tích nhiều màu sắc rõ nét trong một vách đá cho thấy rõ lịch sử lắng đọng của một khu vực."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng đôi khi các đặc điểm của Trái Đất lại vô cùng, vô cùng tinh vi - tinh vi đến mức mắt thường có thể không nhìn thấy được."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học gần đây đã tìm thấy trường hợp như vậy tại đồng bằng Nullarbor, một sa mạc rộng lớn không có cây cối ở Australia. Đây là một nền đá vôi khổng lồ và bằng phẳng, trải rộng hơn 200.000 km2 và đã chịu tác động của phong hóa suốt hơn 14 triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Khu vực này hầu như không trải qua biến dạng kiến tạo, không có băng hà, và rất ít trầm tích được bồi đắp, nhờ đó lưu giữ được một hồ sơ ổn định đáng kinh ngạc về quá khứ địa chất của nó."
+    },
+    {
+     "t": "p",
+     "text": "Trên bề mặt, đồng bằng Nullarbor có vô số rãnh dài và nông, mà thoạt nhìn trông giống như những gì nước có thể đã khoét vào lòng đất."
+    },
+    {
+     "t": "p",
+     "text": "Những rãnh này có thể kéo dài hàng ki lô mét nhưng thường chỉ rộng từ 100 đến 500 mét và sâu chưa tới 9 mét. Độ chênh lệch địa hình của chúng nhỏ đến mức khó lòng nhận ra."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhìn từ trên bề mặt, những đặc điểm này có thể trông rất giống các thung lũng nông hoặc kênh thoát nước, nhưng bằng chứng của chúng tôi cho thấy chúng có nguồn gốc rất khác,\" nhà địa lý học Matej Lipar của Đại học Curtin, tác giả chính của nghiên cứu mới về hiện tượng này, cho biết."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu đó phát hiện rằng những chỗ trũng tưởng chừng vô hại này thực ra có thể là dấu vết bề mặt để lại từ một thứ gì đó nằm sâu hơn nhiều."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách kết hợp việc lập bản đồ, khảo sát địa vật lý, dữ liệu hang động và phân tích trầm tích, chúng tôi phát hiện những rãnh này có liên hệ với các hệ thống hang động sâu bên dưới đồng bằng Nullarbor,\" Lipar cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Một số hang động ở Nullarbor khá nông, nhưng những hang sâu có thể kéo dài từ 50 đến 150 mét dưới bề mặt, với các đường hầm dài hàng trăm mét và rộng hàng chục mét. Chúng được hình thành từ rất lâu trước đây, khi nước ngầm chảy qua đá vôi, hòa tan đá và tạo thành các đường dẫn ngầm dưới lòng đất."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, khi mực nước ngầm hạ xuống, các hang động này cạn nước. Không còn được nước ngầm nâng đỡ, trần hang bắt đầu sụp. Khi những hệ thống hang động khổng lồ này sụp đổ từ bên dưới, mặt đất phía trên cũng dịch chuyển theo, để lại dấu vết trên bề mặt Đồng Bằng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tìm ra điều này bằng cách khảo sát năm rãnh đào, trong đó có rãnh Koonalda dài khoảng 22 km và rãnh Yangoonabie dài khoảng 28 km."
+    },
+    {
+     "t": "p",
+     "text": "Bằng phương pháp chụp cắt lớp điện trở suất (electrical resistivity tomography), các nhà nghiên cứu phát hiện những vùng có điện trở suất thấp trải rộng bên dưới các rãnh đào, kéo dài vượt ra ngoài độ sâu khoảng 30 đến 70 mét mà cuộc khảo sát tiếp cận được."
+    },
+    {
+     "t": "p",
+     "text": "Những vùng này phù hợp với đặc điểm của lớp trầm tích và đá bị nứt vỡ nằm bên dưới bề mặt."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các phép đo địa chấn thụ động (passive seismic) cung cấp thêm bằng chứng về lớp đá kém kết dính hoặc nứt vỡ nhiều hơn nằm dọc theo trục các rãnh đào."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó là một phát hiện đặc biệt hữu ích trong công cuộc điều tra địa chất: hang Clay Dam, nơi một hố sụt dạng doline (một loại hố sụp) nằm trong rãnh Koonalda mở ra như một khung cửa sổ thực sự để nhìn vào những gì đang diễn ra dưới lòng đất."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 20 mét vách sụp lộ thiên cho thấy các lớp đá và trầm tích bị võng xuống, khớp với cấu trúc được suy ra từ các phép đo địa vật lý."
+    },
+    {
+     "t": "p",
+     "text": "Dọc theo các vách đá ven biển gần đó, các nhà nghiên cứu cũng tìm thấy những vùng rộng hơn 100 mét chứa các lớp đá bị võng, các vòm sụp và hang động."
+    },
+    {
+     "t": "p",
+     "text": "Vì sao chúng ta lại quan tâm đến việc biết hang động nằm ở đâu?"
+    },
+    {
+     "t": "p",
+     "text": "Hang động hoạt động như những không gian bảo tồn tự nhiên, nơi các di tích khảo cổ và mọi loại vật chất hữu cơ được che chở khỏi ánh nắng, nhiệt độ khắc nghiệt và các kiểu phong hóa khác."
+    },
+    {
+     "t": "p",
+     "text": "Theo cách đó, các hang động \"rất quan trọng để phục dựng lại khí hậu, môi trường và lịch sử sự sống trên Trái Đất trong quá khứ,\" các tác giả nghiên cứu cho biết."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Vì những chỗ lõm có hình dạng tương tự cũng xuất hiện trên các hành tinh đá khác, các nhà nghiên cứu cho rằng vùng Nullarbor có thể trở thành một mô hình tham chiếu hữu ích để nhận diện hang động trên các hành tinh khác, đặc biệt là sao Hỏa, nơi có nhiều đặc điểm địa chất giống Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "\"Những hang động tiềm năng trên các hành tinh khác có thể là môi trường được bảo vệ nằm dưới bề mặt, có liên quan đến việc tìm kiếm bằng chứng về sự sống ngoài Trái Đất, hoặc có thể trở thành căn cứ cho các phi hành gia trong tương lai,\" nhà địa chất học Milo Barham của Đại học Curtin cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Bài học từ Nullarbor là một lời nhắc nhở kinh điển rằng đừng đánh giá một cuốn sách qua bìa của nó: một vùng đất không cần trông có vẻ hùng vĩ thì mới có thể ẩn giấu điều gì đó khổng lồ bên dưới."
+    },
+    {
+     "t": "p",
+     "text": "Và nếu nguyên tắc đó cũng đúng ở những nơi khác, một số đường nét và chỗ lõm trông có vẻ bình thường trên sao Hỏa có thể đáng được xem xét kỹ hơn lần nữa."
+    },
+    {
+     "t": "p",
+     "text": "Đọc toàn bộ nghiên cứu trên tạp chí Communications Earth & Environment."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được Rebecca Dyer kiểm chứng thông tin và biên tập. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "31eba45902f5",
+   "order": 9,
+   "slug": "kho-bau-gi-set-o-ao-hoa-ra-la-kho-thanh-sat-thoi-do-sat-lon",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "\"Kho báu gỉ sét\" ở Áo hóa ra là kho thanh sắt thời đồ sắt lớn nhất châu Âu",
+   "sapo": "Năm 2019, các công nhân tại một nhà máy khai thác sỏi ở Deinham, gần sông Danube của Áo, đã phát hiện một lượng lớn thanh sắt lẫn trong lớp sỏi dưới nước.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/rusty-treasure-in-austria-revealed-as-europes-largest-cache-of-iron-age-iron-bars",
+   "published": "2026-09-20T23:01:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 960,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "'Rusty Treasure' in Austria Revealed as Europe's Largest Cache of Iron Age Iron Bars",
+   "images": [
+    {
+     "src": "img/2026-09-22/31eba45902f5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-22/31eba45902f5-0.jpg",
+     "caption": "Nhà máy khai thác sỏi nơi phát hiện ra kho báu này. (Heinz Gruber/Bundesdenkmalamt)",
+     "w": 600,
+     "h": 398
+    },
+    {
+     "src": "img/2026-09-22/31eba45902f5-1.jpg",
+     "caption": "Một số thanh sắt được tìm thấy. (Peter Trebsche)",
+     "w": 600,
+     "h": 400
+    },
+    {
+     "src": "img/2026-09-22/31eba45902f5-2.jpg",
+     "caption": "Số sắt này có thể đến từ nhiều vùng khác nhau dọc sông Danube. (Trebsche và Berranger, Antiquity, 2026)",
+     "w": 600,
+     "h": 358
+    },
+    {
+     "src": "img/2026-09-22/31eba45902f5-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 628
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Năm 2019, các công nhân tại một nhà máy khai thác sỏi ở Deinham, gần sông Danube của Áo, đã phát hiện một lượng lớn thanh sắt lẫn trong lớp sỏi dưới nước."
+    },
+    {
+     "t": "p",
+     "text": "Có tới hàng trăm thanh sắt như vậy, mỗi thanh dài trung bình gần 30 xăng-ti-mét, được rèn theo cùng một hình dạng: hai đầu nhọn, giống như hình thoi kéo dài."
+    },
+    {
+     "t": "p",
+     "text": "Trong một nghiên cứu công bố trên tạp chí Antiquity, hai nhà khảo cổ học Peter Trebsche từ Đại học Innsbruck (Áo) và Marion Berranger từ Viện Nghiên cứu Vật liệu Khảo cổ (Pháp) đã công bố kết quả sau khi phân tích kỹ lưỡng \"kho báu gỉ sét\" này."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu xác nhận đây là những \"bán thành phẩm\" (semi-products) - được rèn thành hình dạng nhất định để dễ vận chuyển, sẵn sàng để chế tác lại sau này. Và phát hiện này là chưa từng có, là kho thanh sắt thời tiền sử được tìm thấy cùng lúc với số lượng lớn nhất từ trước đến nay ở châu Âu."
+    },
+    {
+     "t": "p",
+     "text": "Tổng cộng có 540 thanh sắt hoặc mảnh thanh sắt được thu hồi, nặng khoảng một tấn sắt - đủ để làm 500 thanh kiếm hoặc 8.000 chiếc đinh."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho biết giá trị của kho báu này hẳn là rất lớn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Ngay cả khi tính đến lượng vật liệu hao hụt trong quá trình chế tác, số sắt tìm thấy ở Deinham vẫn đủ để trang bị vũ khí cho cả một đội quân chiến binh đông đảo,\" ông Trebsche cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả xác định niên đại bằng carbon phóng xạ cho thấy những thanh sắt này có tuổi đời ít nhất 2.200 năm, một số có thể có niên đại từ thế kỷ thứ 4 trước Công nguyên."
+    },
+    {
+     "t": "p",
+     "text": "Dù vẫn còn nhiều câu hỏi chưa có lời giải - như số sắt này đến từ đâu, được chuyển đi đâu, và cuối cùng được dùng để làm gì - đây vẫn là một phát hiện hiếm có và thú vị, giúp hé lộ hoạt động buôn bán và chế tác thời bấy giờ."
+    },
+    {
+     "t": "p",
+     "text": "\"Thật đáng kinh ngạc khi một lượng sắt lớn như vậy được vận chuyển cùng một lúc và có sẵn trong một giao dịch trao đổi duy nhất vào cuối thời đồ sắt,\" ông Trebsche nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Phát hiện này cho thấy khả năng sản xuất sắt đã tăng lên rất nhiều trong thế kỷ 3 và thế kỷ 2 trước Công nguyên tại khu vực sông Danube.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Một điều bí ẩn khác là làm sao số sắt này lại nằm dưới đáy sông, nhưng lời giải thích khả dĩ nhất là do một vụ đắm tàu. Tuy nhiên, không còn dấu vết gì của con tàu, nên chưa thể chắc chắn điều này."
+    },
+    {
+     "t": "p",
+     "text": "Vào thời đó, một số cộng đồng cũng có tục lệ đặt sắt xuống nước như một phần của nghi lễ hay lễ nghi, nhưng có vẻ đây không phải là trường hợp đó. Số sắt này trông giống như được làm ra để vận chuyển, và cũng có rất ít bằng chứng khác về những tập tục tương tự trong khu vực này ở các nền văn hóa châu Âu thời đồ sắt cùng thời (được gọi là văn hóa La Tène)."
+    },
+    {
+     "t": "p",
+     "text": "\"Không thể loại trừ khả năng đây là một hoạt động cúng tế, nhưng tập hợp các bán thành phẩm đồng nhất tại Deinham lại khác biệt đáng kể so với sự đa dạng thường thấy trong các đồ vật cúng tế bị ném xuống sông,\" các nhà nghiên cứu viết trong bài báo công bố."
+    },
+    {
+     "t": "p",
+     "text": "\"Hơn nữa, những phát hiện dưới sông từ cuối thời đồ sắt nhìn chung rất hiếm gặp trong nền văn hóa La Tène phía Đông, vì vậy tập hợp hiện vật ở Deinham không phù hợp với khuôn mẫu nghi lễ đã được biết đến trong khu vực.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho rằng cần phải có những con thuyền chuyên dụng hoặc được cải tiến để chở được khối lượng và trọng lượng hàng hóa lớn như vậy, và có thể số sắt này đã được đem đổi lấy nô lệ, gia súc, hoặc tiền xu bằng bạc hay vàng."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu còn xác định được một số khu vực luyện sắt ở thượng nguồn có thể là nguồn gốc của 540 thanh sắt này, trong đó nơi gần nhất cách đó khoảng 220 km (137 dặm) dọc theo sông Danube."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta sẽ biết thêm nhiều điều khi việc phân tích kim loại được hoàn tất, giúp xác định nơi khai thác quặng sắt, cũng như liệu các thanh sắt này có đến từ cùng một nơi hay từ nhiều nơi khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng ngay lúc này, chúng ta đã biết được quy mô của phát hiện này lớn đến mức nào, và nó quý giá ra sao."
+    },
+    {
+     "t": "p",
+     "text": "\"Quả là một phép màu nho nhỏ khi phát hiện số lượng thanh sắt thời tiền sử lớn nhất từng được tìm thấy ở châu Âu lại không rơi vào tay những người thu mua phế liệu, mà được báo cáo cho cơ quan bảo tồn di tích của Áo,\" Trebsche cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi thực lòng biết ơn những người tìm thấy kho báu này vì họ đã quyết định hiến tặng bộ sưu tập phi thường này cho một bảo tàng nhà nước.\""
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này đã được công bố trên tạp chí Antiquity."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được Rachel Garner kiểm chứng thông tin và Fiona MacDonald biên tập. Dù luôn cố gắng làm việc cẩn thận, chúng tôi cũng có thể mắc sai sót. Nếu bạn phát hiện lỗi nào, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "f46802d17a52",
+   "order": 10,
+   "slug": "bo-nao-nguoi-co-the-lon-nhu-ngay-nay-phan-lon-la-nho-vi-ngot",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Bộ não người có thể lớn như ngày nay phần lớn là nhờ vị ngọt",
+   "sapo": "Thịt cũng rất quan trọng. Nhưng trong suốt quá trình tiến hóa của loài người, trái cây có thể đã nuôi dưỡng phần lớn sự phát triển bộ não ở các họ hàng linh trưởng và tổ tiên xa xưa của chúng ta.",
+   "author": "Jake Buehler",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/sugar-evolution-human-brain",
+   "published": "2026-09-18T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1197,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "The human brain may owe a lot of its size to our love of sweets",
+   "images": [
+    {
+     "src": "img/2026-09-22/f46802d17a52-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sự thèm ngọt của chúng ta có thể đã tạo tiền đề để bộ não người trở nên to lớn và mạnh mẽ. Đó là phát hiện của một nghiên cứu mới."
+    },
+    {
+     "t": "p",
+     "text": "Bộ não của tổ tiên đi thẳng đứng của chúng ta, khoảng 4 triệu năm trước, chỉ nặng chừng 300 gram. Con số này gần bằng một quả táo cỡ vừa. Ngày nay, bộ não người trung bình nặng 1.500 gram. Con số này gần bằng 1,5 lít nước. Phần lớn sự phát triển này của bộ não diễn ra trước khi con người thời cổ làm chủ được lửa và việc nấu ăn. Đó là mốc đánh dấu thời điểm họ có thể bắt đầu thường xuyên ăn các loại tinh bột giàu năng lượng."
+    },
+    {
+     "t": "p",
+     "text": "Carbohydrate (chất bột đường) gồm hai nhóm chính. Đường thường là những phân tử tương đối đơn giản. Tinh bột thường lớn hơn và phức tạp hơn. Một phân tích mới về các dữ liệu đã có từ tổ tiên loài người, cũng như từ tinh tinh, cho thấy phần lớn năng lượng của họ có lẽ đến từ các loại carb có vị ngọt, chẳng hạn như đường trong trái cây và mật ong."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu hiện kết luận rằng đường đơn có thể đã đóng một vai trò bị bỏ quên — nhưng rất quan trọng — trong quá trình tiến hóa của loài người. Họ giải thích lý do trong số ra ngày 6 tháng 8 của tạp chí Science."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến nay, phần lớn các nghiên cứu về việc chế độ ăn ảnh hưởng thế nào đến tiến hóa loài người đều tập trung vào thịt. Khoảng 2,5 triệu năm trước, tổ tiên đi thẳng đứng thời sơ khai của chúng ta bắt đầu ăn nhiều thịt hơn — ban đầu là thịt sống, sau đó dần dần là thịt nấu chín. Thịt giàu chất đạm và chất béo. Và điều đó dường như đã đóng vai trò lớn trong việc cung cấp năng lượng cho bộ não ngày càng phát triển của tổ tiên chúng ta. Nhưng Jennie Brand-Miller cho rằng câu chuyện còn nhiều hơn thế. Là một nhà khoa học dinh dưỡng tại Đại học Sydney, Úc, bà tự hỏi đường có thể đã ảnh hưởng thế nào đến sự tiến hóa bộ não của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu năm 2017 đã cho thấy các loài linh trưởng ăn trái cây có bộ não lớn hơn những loài ăn lá. Việc ăn trái cây làm tăng yêu cầu đối với nhiều quá trình tư duy khác nhau, các nhà nghiên cứu khác đã đề xuất điều này từ hai thập kỷ trước đó. Liệu điều này có thể đã khởi động quá trình tiến hóa của những bộ não lớn ở con người?"
+    },
+    {
+     "t": "p",
+     "text": "Brand-Miller giải thích: \"Bạn cần nhớ khi nào các loài trái cây chín khác nhau bắt đầu chín, rồi bạn cần nhớ nó ở đâu trong khu rừng.\" Và bà nói thêm: \"Trí nhớ của bạn có liên quan đến một bộ não lớn hơn.\""
+    },
+    {
+     "t": "p",
+     "text": "Brand-Miller lưu ý rằng các loài linh trưởng hóa thạch và sau này là các loài người cổ, chẳng hạn như Homo erectus, có dấu hiệu sâu răng. Điều này cho thấy một chế độ ăn chứa các thức ăn mềm, có vị ngọt. (Homo erectus là loài đầu tiên trong số các họ hàng cổ xưa của chúng ta mạo hiểm ra khỏi châu Phi; đó là 2 triệu năm trước)."
+    },
+    {
+     "t": "p",
+     "text": "\"Tất cả những điều này cứ tiếp tục thêm những mảnh ghép vào bức tranh tuyệt đẹp này, câu đố này cho thấy đường có trong trái cây hẳn phải rất quan trọng [đối với quá trình tiến hóa của loài người],\" bà nói."
+    },
+    {
+     "t": "p",
+     "text": "Hãy gửi câu hỏi của em tại đây, biết đâu chúng tôi sẽ trả lời trong một số báo sắp tới của Science News Explores."
+    },
+    {
+     "t": "h",
+     "text": "Vậy còn thịt thì sao?"
+    },
+    {
+     "t": "p",
+     "text": "Brand-Miller là thành viên của một nhóm nghiên cứu đã tính toán nhu cầu dinh dưỡng của tinh tinh, con người và ba loài tổ tiên loài người thời cổ. Để làm điều này, các nhà nghiên cứu đã kết hợp dữ liệu từ hóa thạch, răng, quá trình trao đổi chất (metabolism) của các loài và sinh học của các quá trình trong cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Họ phát hiện tổ tiên xa xưa nhất giống tinh tinh của chúng ta, sống cách đây khoảng 4 triệu năm, chủ yếu ăn thực vật. Trái cây có lẽ cung cấp hơn hai phần ba năng lượng từ thức ăn cho họ. Dữ liệu cũng cho thấy trái cây đóng vai trò lớn khi bộ não của người vượn cổ (hominid) phát triển trong hàng triệu năm tiếp theo."
+    },
+    {
+     "t": "p",
+     "text": "Những kỹ năng kiếm ăn khéo léo hẳn đã giúp nuôi dưỡng bộ não ngốn nhiều năng lượng của họ. Những kỹ năng đó bao gồm săn bắt, đập vỡ hạt, nghiền hạt giống hoặc lấy tủy xương. Về sau, khi việc nấu ăn trở nên phổ biến, con người có thể chuyển sang ăn tinh bột (như ngũ cốc, đậu và củ). Nhưng nhu cầu liên tục về thức ăn có đường dường như vẫn là yếu tố then chốt trong quá trình tiến hóa của chúng ta. Và nhu cầu đó không biến mất sau khi con người chuyển sang ăn nhiều thực phẩm giàu đạm và chất béo, như thịt."
+    },
+    {
+     "t": "p",
+     "text": "Thịt và đường? \"Tôi coi đó là hai câu chuyện song song, chứ không phải cái này thay thế cái kia,\" Brand-Miller nói. \"Thức ăn từ động vật rõ ràng rất quan trọng. Chúng rất giàu dưỡng chất.\""
+    },
+    {
+     "t": "p",
+     "text": "Julie Lee-Thorp đồng ý rằng việc trước đây quá chú trọng vào chuyện ăn thịt có thể đã bỏ sót một số xu hướng ăn uống từng giúp bộ não con người phát triển. Bà là nhà khảo cổ học tại Đại học Oxford ở Anh. Bà không tham gia vào nghiên cứu mới này."
+    },
+    {
+     "t": "p",
+     "text": "Bà nói thêm rằng việc tập trung vào vai trò của thịt có thể phản ánh một thiên kiến của thời hiện đại. \"Ngày nay thịt là món ăn có địa vị cao,\" Lee-Thorp nhận xét. \"Và điều đó có lẽ đã ảnh hưởng đến cách chúng ta nghĩ về quá khứ.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Brian Wood phần lớn không đồng tình với điều đó. Ông cho rằng việc nghiên cứu quá trình tiến hóa của loài người không hề bị ám ảnh bởi chuyện ăn thịt. Wood là nhà nhân chủng học sinh học (biological anthropologist), làm việc tại Đại học California, Los Angeles. Ông cho rằng nhiều loại thức ăn khác nhau đã nuôi dưỡng quá trình tiến hóa của chúng ta. Và những thức ăn đó có được là nhờ \"khả năng ngày càng tăng trong việc bắt và thu hoạch những nguồn thức ăn chất lượng cao, khó kiếm được\" của tổ tiên chúng ta. Điều này đương nhiên bao gồm cả săn bắt. Nhưng ông nói thêm, việc kiếm tìm trái cây, mật ong, hạt và các bộ phận dưới lòng đất của cây cũng là một phần trong đó."
+    }
+   ]
+  },
+  {
    "id": "97107329a62d",
-   "order": 3,
+   "order": 11,
    "slug": "nam-dieu-khien-the-gioi-cua-khung-long-khac-voi-the-gioi-cua",
    "section": "the-gioi-dong-vat",
    "section_name": "Thế giới động vật",
@@ -652,8 +1674,179 @@
    ]
   },
   {
+   "id": "a404c9c25d60",
+   "order": 12,
+   "slug": "mot-so-loai-ca-o-vung-ngu-dai-ho-co-the-song-hon-400-nam-mot",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Một số loài cá ở vùng Ngũ Đại Hồ có thể sống hơn 400 năm, một nghiên cứu cho biết, sống lâu hơn khoảng 15 thế hệ con người",
+   "sapo": "Cá tầm hồ có thể là một trong những loài động vật có xương sống sống lâu nhất, chỉ đứng sau cá mập Greenland, theo một nghiên cứu gần đây. Tuy nhiên, các nhà khoa học cho rằng cần có thêm nghiên cứu để làm rõ tuổi thọ của loài này",
+   "author": "Sahas Mehra",
+   "source_name": "Smithsonian",
+   "source_url": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
+   "published": "2026-09-16T13:43:20+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 2053,
+   "translated": true,
+   "translated_from": "Smithsonian",
+   "title_original": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
+   "images": [
+    {
+     "src": "img/2026-09-22/a404c9c25d60-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 768
+    },
+    {
+     "src": "img/2026-09-22/a404c9c25d60-0.jpg",
+     "caption": "Cá tầm hồ - loài cá to lớn và sống lâu ở vùng Ngũ Đại Hồ - có thể sống thọ hơn nhiều so với những gì các nhà khoa học từng nghĩ, theo một nghiên cứu gần đây. Trong ảnh, một con cá tầm hồ con được bắt trong đợt khảo sát thủy sản tại hệ thống sông St. Clair-Detroit. James Boase / USFWS via Flickr",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/2026-09-22/a404c9c25d60-1.jpg",
+     "caption": "Hai nhà sinh vật học thủy sản Mark Luehring và Josh Schloesser chụp ảnh cùng một con cá tầm hồ trưởng thành nặng 34 kg tại sông Bad ở miền bắc bang Wisconsin. USFWS",
+     "w": 1072,
+     "h": 802
+    },
+    {
+     "src": "img/2026-09-22/a404c9c25d60-2.jpg",
+     "caption": "Các nhà nghiên cứu đo chiều dài một con cá tầm hồ, dữ liệu quan trọng giúp hiểu được tốc độ tăng trưởng hằng năm và tuổi thọ của loài cá này. Michigan Department of Natural Resources",
+     "w": 1072,
+     "h": 804
+    },
+    {
+     "src": "img/2026-09-22/a404c9c25d60-3.jpg",
+     "caption": "Các nhà nghiên cứu dùng vợt lưới cán dài để bắt một con cá tầm hồ. Con cá được thả về sau khi phân tích xong. Michigan Department of Natural Resources",
+     "w": 1072,
+     "h": 804
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sahas Mehra"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Vào đầu thế kỷ 17, một phiên bản cải tiến của chiếc kính viễn vọng đầu tiên đã phát hiện ra một số mặt trăng của sao Mộc (Jupiter), hành tinh cách chúng ta xa tới 54 phút ánh sáng. Khi đó, cưỡi ngựa là cách di chuyển trên đất liền nhanh nhất, và bệnh đậu mùa hoành hành khắp nơi. Bây giờ, 400 năm sau, chúng ta đã quan sát được một thiên hà cách xa tới 13,5 tỷ năm ánh sáng. Đoàn tàu chở khách nhanh nhất thế giới từng đạt tốc độ 604 km/giờ. Con người đã xóa sổ hoàn toàn bệnh đậu mùa."
+    },
+    {
+     "t": "p",
+     "text": "Và có thể một số loài cá ở vùng Ngũ Đại Hồ đã sống suốt khoảng thời gian đó."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu công bố năm nay trên tạp chí Journal of Fish Biology cho thấy cá tầm hồ (Acipenser fulvescens) có tuổi thọ đáng kinh ngạc. Nghiên cứu kết luận rằng cá tầm hồ đực có thể sống tới 435 năm, thậm chí có thể hơn, gần gấp ba lần tuổi của con cá tầm hồ già nhất từng được ghi nhận trước đây. Dù vậy, các tác giả vẫn nhấn mạnh cần nghiên cứu thêm để khẳng định chắc chắn kết quả này."
+    },
+    {
+     "t": "p",
+     "text": "\"Vì nghiên cứu này, tất cả các loài cá tầm giờ đây cần được đánh giá lại tuổi thọ,\" nhà ngư loại học Prosanta Chakrabarty từ Đại học bang Louisiana, người không tham gia nghiên cứu, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Cá tầm hồ là loài cá sụn, có tổ tiên từng sống cùng thời với khủng long cách đây 200 triệu năm. Ngày nay, chúng là loài cá lớn nhất ở vùng Ngũ Đại Hồ, thường dài từ 1,2 đến 1,8 mét và nặng từ 14 đến 36 kg. Theo các nghiên cứu trước đây, tuổi thọ trung bình của chúng là từ 50 đến 100 năm. Một con cá tầm 154 tuổi bắt được ở biên giới giữa bang Minnesota và Canada vào năm 1953 từng được xem là con cá tầm hồ già nhất từng được ghi nhận."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng việc xác định chính xác tuổi thọ của các loài cá hoang dã không hề đơn giản. Mỗi vòng vân sẫm màu trên vảy cá, hoặc trên gai vây ngực của những loài cá không có vảy như cá tầm, tượng trưng cho một năm tuổi của con vật. Việc đếm những vòng vân này, gọi là vòng tăng trưởng (annuli), có thể giúp ước tính tuổi của những con cá lớn nhanh và còn khá trẻ, theo Edward Baker, đồng tác giả nghiên cứu và là nhà nghiên cứu thủy sản tại Sở Tài nguyên Thiên nhiên bang Michigan. Tuy nhiên, ở những con cá tầm sống lâu và lớn chậm, các vòng vân này dần dần hình thành sát nhau đến mức không thể phân biệt được nữa, hoặc thậm chí không hình thành nữa."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong nghiên cứu này, Baker và các đồng nghiệp đã sử dụng một kỹ thuật xác định tuổi khác. Họ phân tích dữ liệu về hàng nghìn con cá tầm hồ mà họ đã thu thập được, phối hợp cùng các cơ quan tài nguyên thiên nhiên và các trường đại học, trong khoảng thời gian từ năm 1980 đến năm 2024. Họ theo dõi các quần thể cá tầm tại năm vùng nước quanh khu vực thượng nguồn Ngũ Đại Hồ: hồ Black, sông Sturgeon, sông Menominee, sông St. Clair và hồ Winnebago."
+    },
+    {
+     "t": "p",
+     "text": "Trong suốt 44 năm đó, họ bắt cá tầm, xác định giới tính, đo chiều dài và cấy thẻ đánh dấu ngay dưới da con cá, sau đó thả nó trở lại xuống nước. Nếu sau này bắt lại được con cá đã từng được đánh dấu, họ sẽ đo lại và thả nó ra một lần nữa, từ đó tạo nên một bản ghi về sự thay đổi kích thước của con cá theo thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Baker giải thích rằng các bác sĩ thú y cũng dùng loại thẻ phát tín hiệu (transponder) tương tự để nhận diện chó mèo. Những thẻ này chứa một dãy số gồm 15 chữ số riêng biệt cho từng con cá và có tỷ lệ lưu giữ gần như tuyệt đối 100%, nhờ đó các nhà khoa học có thể nhận diện chính xác những con cá tầm mà họ từng bắt gặp, kể cả khi đã 42 năm trôi qua kể từ lần bắt được gần nhất."
+    },
+    {
+     "t": "p",
+     "text": "Với dữ liệu này, gọi là dữ liệu bắt - đánh dấu - bắt lại (capture-mark-recapture), Baker và các đồng nghiệp đã tính tốc độ tăng trưởng trung bình hàng năm của quần thể cá tầm hồ ở mỗi con sông. Để làm được điều đó, họ đo sự chênh lệch chiều dài của một con cá tầm giữa lần bắt lại gần nhất và lần bắt đầu tiên, rồi chia con số đó cho số năm giữa hai lần bắt."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tốc độ tăng trưởng của cá tầm khác nhau, vì cá cái thường lớn nhanh hơn cá đực, và lượng thức ăn sẵn có cũng ảnh hưởng đến sự phát triển của cá. Ví dụ, cá tầm ở sông Black mỗi năm chỉ lớn thêm chưa tới 40% so với cá tầm ở sông St. Clair. Khi tính tuổi, nhóm nghiên cứu đã tính đến sự khác biệt về tốc độ tăng trưởng giữa cá đực và cá cái, giữa các quần thể, đồng thời xét đến việc tốc độ tăng trưởng hàng năm của cá giảm dần khi chúng già đi."
+    },
+    {
+     "t": "p",
+     "text": "Họ xây dựng một phương trình để ước tính tuổi của một con cá tầm đực dài 1,6 mét và một con cá tầm cái dài 1,8 mét — đây là chiều dài tối đa gần đúng của cá tầm hồ trong các quần thể được nghiên cứu — nhằm dự đoán tuổi thọ của loài cá này."
+    },
+    {
+     "t": "p",
+     "text": "Họ phát hiện cá tầm đực có kích thước đó có độ tuổi trung vị dao động từ 87 đến 215 năm, còn ở cá cái là từ 90 đến 248 năm. Tuy nhiên, một số con cá lớn hơn nữa trong bộ dữ liệu có độ tuổi trung vị dự đoán lên tới 435 năm đối với cá đực và 292 năm đối với cá cái. \"Các ước tính tuổi cho những con cá lớn nhất mà chúng tôi bắt được từ mỗi quần thể không nhất thiết là tuổi tối đa mà loài cá này có thể đạt được\", Baker nói. Ông cho biết có thể còn tồn tại những con cá đực và cá cái lớn hơn, già hơn, và cả hai giới có thể đạt tới độ tuổi tối đa tương đương nhau."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu cho thấy cá tầm hồ có thể sống gần bằng tuổi thọ của cá mập Greenland sống ở biển — loài động vật có xương sống sống lâu nhất — và gấp đôi tuổi thọ của cá rougheye rockfish, loài vốn nổi tiếng vì sống rất lâu. Theo phát hiện mới, cá tầm hồ có thể là loài cá nước ngọt sống lâu nhất, mặc dù Baker lưu ý rằng các loài cá tầm khác cũng có thể có tuổi thọ tương tự."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu cho rằng việc trải qua trạng thái ngủ đông (torpor) vào mùa đông có thể giúp kéo dài tuổi thọ của cá tầm. Trong trạng thái này, động vật giảm các hoạt động sinh lý như trao đổi chất, nhịp tim, nhịp thở và thân nhiệt để tiết kiệm năng lượng, từ đó giúp kéo dài tuổi thọ."
+    },
+    {
+     "t": "p",
+     "text": "Chakrabarty cho biết phương pháp dùng để xác định tuổi cá tầm hồ đã được áp dụng từ lâu, nhưng ông gọi nó là \"hơi cổ điển hơn so với phương pháp định tuổi bằng carbon phóng xạ (radiocarbon dating)\", vốn là phương pháp các nhà khoa học dùng để xác định tuổi thọ của cá mập Greenland cách đây một thập kỷ. Trong khi đó, các vòng tăng trưởng hàng năm được dùng trong nghiên cứu này, ông nói thêm, \"giống như việc đo chiều cao của con bạn theo thời gian trên tường và dự đoán chúng sẽ cao bao nhiêu khi ngừng lớn\"."
+    },
+    {
+     "t": "p",
+     "text": "Các tác giả lưu ý trong bài báo rằng dữ liệu bắt - đánh dấu - bắt lại, giống như dữ liệu dùng trong nghiên cứu này, từng dự đoán cá mập Greenland có thể là một trong những loài cá sống lâu nhất, trước khi phương pháp định tuổi bằng carbon phóng xạ xác nhận điều đó. \"Chúng tôi muốn thử dùng phương pháp định tuổi bằng carbon phóng xạ để kiểm chứng khoảng tuổi mà mình tính được, và đã liên hệ với các tác giả của nghiên cứu về cá mập Greenland\", Baker nói, cho biết họ vẫn đang chờ phản hồi."
+    },
+    {
+     "t": "p",
+     "text": "Chakrabarty tự hỏi tuổi tối đa có thể có của cá tầm hồ là bao nhiêu, đặc biệt là với những cá thể già, khổng lồ từng sống cách đây khoảng 80 năm trước khi áp lực đánh bắt khiến chúng không thể phát triển hết cỡ. Tuy nhiên, ông vẫn thận trọng với các phát hiện này và nói rằng ông chỉ cân nhắc xếp loài cá tầm này vào nhóm động vật có xương sống sống lâu nhất sau khi có thêm các kiểm chứng khác."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây chỉ nên là bước khởi đầu cho nhiều nghiên cứu và kiểm chứng hơn nữa về ước tính tuổi thọ của các loài như cá tầm hồ\", nhà sinh thái học phục hồi Stephanie Ogren, phó chủ tịch phụ trách khoa học và giáo dục tại Bảo tàng Công cộng Grand Rapids, người không tham gia nghiên cứu, cho biết. Bà nói rằng cần có kinh phí cho việc nghiên cứu các quần thể đang bị đe dọa này để có thể quản lý chúng."
+    },
+    {
+     "t": "p",
+     "text": "Bạn có biết? Loài cá tầm Syr Darya \"đã mất tích\""
+    },
+    {
+     "t": "p",
+     "text": "Trên khắp thế giới, cá tầm được coi là nhóm loài nguy cấp nhất hành tinh. Cá tầm Syr Darya ở Kazakhstan được tổ chức phi lợi nhuận Re:wild xếp vào loài \"đã mất tích\", vì đã hơn 60 năm không ai nhìn thấy chúng và có thể chúng đã tuyệt chủng. Còn cá tầm Alabama thì người ta lo rằng nó đã tuyệt chủng ngoài tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này giúp dự đoán khả năng tăng trưởng và sống sót của cá tầm, từ đó có thể cải thiện các nỗ lực bảo tồn loài cá dễ bị tổn thương này. Vào cuối thế kỷ 19, có tới 15 triệu con cá tầm hồ sinh sống ở vùng Ngũ Đại Hồ (Great Lakes). Nhưng đến nay, số lượng của chúng đã giảm xuống còn chưa đến 1% con số ước tính đó. Bà Baker cho biết \"việc đánh bắt không kiểm soát chính là nguyên nhân khiến số lượng cá tầm hồ suy giảm vào đầu những năm 1900.\""
+    },
+    {
+     "t": "p",
+     "text": "Cá tầm hồ là một trong những loài cá nước ngọt mất nhiều thời gian nhất để đạt độ trưởng thành sinh dục. Cá cái thường chỉ đẻ trứng sau khi đạt từ 20 đến 25 tuổi, và có thể chỉ sinh sản một lần trong khoảng 4 đến 9 năm. Vì vậy, số lượng của chúng có thể suy giảm nhanh chóng nhưng lại mất rất lâu để phục hồi. Nghiên cứu mới cho thấy tốc độ thay thế thế hệ của loài đang bị đe dọa này chậm hơn so với dự đoán, bởi một số cá tầm vẫn còn ẩn mình trong các vùng nước này có thể đã sống sót qua những cuộc tàn sát hàng loạt và nạn đánh bắt tận diệt từ hàng thế kỷ trước."
+    },
+    {
+     "t": "p",
+     "text": "Các chuyên gia cho rằng điều này đòi hỏi phải duy trì các giới hạn đánh bắt nghiêm ngặt đối với cá tầm hồ, đồng thời điều chỉnh các kế hoạch bảo tồn sao cho phù hợp với tốc độ phục hồi chậm của chúng. \"Chúng ta cần bảo vệ loài này khỏi việc bị đánh bắt,\" bà Baker nói, hoặc ít nhất là \"phải rất hạn chế lượng đánh bắt được phép, để tạo cơ hội cho quần thể cá phục hồi.\""
+    }
+   ]
+  },
+  {
    "id": "7258634dd790",
-   "order": 4,
+   "order": 13,
    "slug": "co-gai-tung-lam-cong-nhan-hat-lan-va-diep-vao-chung-ket-chuo",
    "section": "sang-tao-kien-truc",
    "section_name": "Sáng tạo & Kiến trúc",
@@ -823,8 +2016,237 @@
    ]
   },
   {
+   "id": "bd8949ae8045",
+   "order": 14,
+   "slug": "ngam-nhung-buc-tranh-nhu-dang-tho-cua-co-hoa-si-le-ba-dang",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Ngắm những bức tranh như đang 'thở' của cố họa sĩ Lê Bá Đảng",
+   "sapo": "Những bức tranh in trên hai lớp giấy với kỹ thuật đặc biệt, tạo hiệu ứng thị giác khiến bề mặt tranh như chuyển động và ‘thở’ của cố họa sĩ Lê Bá Đảng.",
+   "author": "HOÀI PHƯƠNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ngam-nhung-buc-tranh-nhu-dang-tho-cua-co-hoa-si-le-ba-dang-10026091915354896.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 676,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-22/bd8949ae8045-0.jpg",
+     "caption": "Nhà sưu tập Trần Thắng (phải) giới thiệu 60 tranh của cố họa sĩ Lê Bá Đảng - Ảnh: VĂN TRUNG",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-1.jpg",
+     "caption": "Ông Ngô Kim Khôi ngắm tranh in hai lớp của Lê Bá Đảng - Ảnh: VĂN TRUNG",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-2.jpg",
+     "caption": "Đạo diễn Phan Gia Nhật Linh xem tranh của cố họa sĩ Lê Bá Đảng tại triển lãm - Ảnh: VĂN TRUNG",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-3.jpg",
+     "caption": "Không gian triển lãm Thiên nhiên cầu nguyện không lời - Ảnh: VĂN TRUNG",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-8.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 860
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1722
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-10.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1841
+    },
+    {
+     "src": "img/2026-09-22/bd8949ae8045-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1875
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Sáng 19-9, nhà sưu tập Trần Thắng khai mạc triển lãm tranh với chủ đề Thiên nhiên cầu nguyện không lời, tại TAA Gallery (TP.HCM)."
+    },
+    {
+     "t": "p",
+     "text": "Triển lãm trưng bày 60 tranh của cố họa sĩ Lê Bá Đảng, gồm 17 tranh Thiên nhiên cầu nguyện không lời và 43 tranh vẽ về hoa, thiên nhiên."
+    },
+    {
+     "t": "h",
+     "text": "Kỹ thuật in hai lớp gần như thất truyền"
+    },
+    {
+     "t": "p",
+     "text": "Nhà sưu tập Trần Thắng nói với Tuổi Trẻ rằng một trong những điểm đáng chú ý tại triển lãm là 11 tranh được cố họa sĩ Lê Bá Đảng thực hiện theo kỹ thuật in hai lớp. Theo ông Thắng, Việt Nam gần như chưa có bảo tàng nào sở hữu dòng tranh này."
+    },
+    {
+     "t": "p",
+     "text": "Nhà phê bình mỹ thuật Ngô Kim Khôi cho biết đây là một trong những kỹ thuật in xưa, hiện nay gần như thất truyền."
+    },
+    {
+     "t": "p",
+     "text": "Tranh được in trên hai lớp giấy. Lớp phía trước là giấy washi Nhật rất mỏng, bên dưới là giấy vẽ dày. Màu sắc và đường nét hiện diện trên cả hai lớp, tạo cảm giác có chiều sâu."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, lớp washi chỉ được dán hờ nên bề mặt tranh có chuyển động nhẹ, khiến tranh như được \"bay\" lên và phập phồng theo nhịp thở."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ông Ngô Kim Khôi cho biết chính khoảng cách rất nhỏ giữa hai lớp giấy tạo nên chiều sâu và hiệu ứng ánh sáng đặc biệt. Lớp giấy bên ngoài vừa che vừa phản chiếu hình ảnh phía trong, tạo cảm giác không gian trên một bề mặt hai chiều."
+    },
+    {
+     "t": "p",
+     "text": "\"Khoảng cách giữa hai lớp rất mỏng, mỏng hơn cả lụa, nhẹ như tơ\", ông chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Ngô Kim Khôi, chất liệu này không chỉ là nền để họa sĩ thể hiện ý tưởng mà còn trực tiếp tham gia vào việc tạo hình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đạo diễn Phan Gia Nhật Linh nhận xét tranh hai lớp rất kỳ công, không đơn giản như bề ngoài vốn có trong tranh Lê Bá Đảng."
+    },
+    {
+     "t": "p",
+     "text": "Đạo diễn nhấn mạnh người xem cần đến thưởng lãm trực tiếp để cảm nhận đầy đủ chất liệu và chiều sâu của dòng tranh này. Theo ông, nếu chỉ nhìn qua ảnh chụp, rất khó cảm nhận được hiệu ứng thị giác mà hai lớp giấy tạo ra."
+    },
+    {
+     "t": "h",
+     "text": "Hoa sen, triết lý Lão Tử trong tranh Lê Bá Đảng"
+    },
+    {
+     "t": "p",
+     "text": "Trong tranh Lê Bá Đảng, hoa hiếm khi được thể hiện theo lối tả thực. Cố họa sĩ không tập trung mô tả cánh, nhụy hay màu sắc theo quy luật mà biến hoa thành dấu vết của một trạng thái tinh thần. Hoa sen xuất hiện nhiều trong tranh của ông."
+    },
+    {
+     "t": "p",
+     "text": "Ngắm những bức tranh hoa của Lê Bá Đảng, người xem như được trở về với ký ức tuổi thơ, quê hương và đời sống tinh thần của một người Việt sống xa quê."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Cách đưa chữ vào tranh cũng là một nét đáng chú ý của cố họa sĩ Lê Bá Đảng. Theo ông Ngô Kim Khôi, tranh Lê Bá Đảng lấy cảm hứng từ triết lý Lão Tử. Những dòng chữ trong tranh không mang tính trang trí mà giống một sự bộc phát từ tư duy và cảm xúc của người sáng tác."
+    },
+    {
+     "t": "p",
+     "text": "Về màu sắc, tác giả dùng màu tương phản mạnh, nội dung giàu tính triết lý nhưng vẫn có khả năng tiếp cận người xem."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, nhóm tranh hoa có gam màu xanh dịu hơn, tạo cảm giác nhẹ nhàng và gần gũi. Hoa sen được Lê Bá Đảng sử dụng nhiều, bên cạnh các loài hoa và hình ảnh thiên nhiên khác."
+    },
+    {
+     "t": "p",
+     "text": "Nhà sưu tập Trần Thắng tiết lộ trong triển lãm sắp tới, ông dự định giới thiệu dòng tranh không gian của Lê Bá Đảng, được tạo bằng kỹ thuật đúc giấy nổi, tạo hiệu ứng không gian ba chiều."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Triển lãm diễn ra tại TAA Gallery đến hết ngày 28-9 - Ảnh: VĂN TRUNG"
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Một số tranh của cố họa sĩ Lê Bá Đảng tại triển lãm"
+    }
+   ]
+  },
+  {
    "id": "e47c8e095bfd",
-   "order": 5,
+   "order": 15,
    "slug": "xuc-dong-canh-nguoi-dan-khieng-xe-giup-giao-vien-vuot-suoi-d",
    "section": "guong-sang",
    "section_name": "Gương sáng & Tài năng trẻ",
@@ -1016,803 +2438,8 @@
    ]
   },
   {
-   "id": "a404c9c25d60",
-   "order": 6,
-   "slug": "mot-so-loai-ca-o-vung-ngu-dai-ho-co-the-song-hon-400-nam-mot",
-   "section": "the-gioi-dong-vat",
-   "section_name": "Thế giới động vật",
-   "emoji": "🦈",
-   "title": "Một số loài cá ở vùng Ngũ Đại Hồ có thể sống hơn 400 năm, một nghiên cứu cho biết, sống lâu hơn khoảng 15 thế hệ con người",
-   "sapo": "Cá tầm hồ có thể là một trong những loài động vật có xương sống sống lâu nhất, chỉ đứng sau cá mập Greenland, theo một nghiên cứu gần đây. Tuy nhiên, các nhà khoa học cho rằng cần có thêm nghiên cứu để làm rõ tuổi thọ của loài này",
-   "author": "Sahas Mehra",
-   "source_name": "Smithsonian",
-   "source_url": "https://www.smithsonianmag.com/science-nature/some-fish-in-the-great-lakes-might-be-more-than-400-years-old-a-study-suggests-outliving-around-15-generations-of-humans-180989500/",
-   "published": "2026-09-16T13:43:20+07:00",
-   "lang": "vi-dich",
-   "score": 8,
-   "words": 2053,
-   "translated": true,
-   "translated_from": "Smithsonian",
-   "title_original": "Some Fish in the Great Lakes Might Be More Than 400 Years Old, a Study Suggests, Outliving Around 15 Generations of Humans",
-   "images": [
-    {
-     "src": "img/2026-09-22/a404c9c25d60-lead.jpg",
-     "caption": "",
-     "w": 1024,
-     "h": 768
-    },
-    {
-     "src": "img/2026-09-22/a404c9c25d60-0.jpg",
-     "caption": "Cá tầm hồ - loài cá to lớn và sống lâu ở vùng Ngũ Đại Hồ - có thể sống thọ hơn nhiều so với những gì các nhà khoa học từng nghĩ, theo một nghiên cứu gần đây. Trong ảnh, một con cá tầm hồ con được bắt trong đợt khảo sát thủy sản tại hệ thống sông St. Clair-Detroit. James Boase / USFWS via Flickr",
-     "w": 1000,
-     "h": 750
-    },
-    {
-     "src": "img/2026-09-22/a404c9c25d60-1.jpg",
-     "caption": "Hai nhà sinh vật học thủy sản Mark Luehring và Josh Schloesser chụp ảnh cùng một con cá tầm hồ trưởng thành nặng 34 kg tại sông Bad ở miền bắc bang Wisconsin. USFWS",
-     "w": 1072,
-     "h": 802
-    },
-    {
-     "src": "img/2026-09-22/a404c9c25d60-2.jpg",
-     "caption": "Các nhà nghiên cứu đo chiều dài một con cá tầm hồ, dữ liệu quan trọng giúp hiểu được tốc độ tăng trưởng hằng năm và tuổi thọ của loài cá này. Michigan Department of Natural Resources",
-     "w": 1072,
-     "h": 804
-    },
-    {
-     "src": "img/2026-09-22/a404c9c25d60-3.jpg",
-     "caption": "Các nhà nghiên cứu dùng vợt lưới cán dài để bắt một con cá tầm hồ. Con cá được thả về sau khi phân tích xong. Michigan Department of Natural Resources",
-     "w": 1072,
-     "h": 804
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Sahas Mehra"
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Vào đầu thế kỷ 17, một phiên bản cải tiến của chiếc kính viễn vọng đầu tiên đã phát hiện ra một số mặt trăng của sao Mộc (Jupiter), hành tinh cách chúng ta xa tới 54 phút ánh sáng. Khi đó, cưỡi ngựa là cách di chuyển trên đất liền nhanh nhất, và bệnh đậu mùa hoành hành khắp nơi. Bây giờ, 400 năm sau, chúng ta đã quan sát được một thiên hà cách xa tới 13,5 tỷ năm ánh sáng. Đoàn tàu chở khách nhanh nhất thế giới từng đạt tốc độ 604 km/giờ. Con người đã xóa sổ hoàn toàn bệnh đậu mùa."
-    },
-    {
-     "t": "p",
-     "text": "Và có thể một số loài cá ở vùng Ngũ Đại Hồ đã sống suốt khoảng thời gian đó."
-    },
-    {
-     "t": "p",
-     "text": "Một nghiên cứu công bố năm nay trên tạp chí Journal of Fish Biology cho thấy cá tầm hồ (Acipenser fulvescens) có tuổi thọ đáng kinh ngạc. Nghiên cứu kết luận rằng cá tầm hồ đực có thể sống tới 435 năm, thậm chí có thể hơn, gần gấp ba lần tuổi của con cá tầm hồ già nhất từng được ghi nhận trước đây. Dù vậy, các tác giả vẫn nhấn mạnh cần nghiên cứu thêm để khẳng định chắc chắn kết quả này."
-    },
-    {
-     "t": "p",
-     "text": "\"Vì nghiên cứu này, tất cả các loài cá tầm giờ đây cần được đánh giá lại tuổi thọ,\" nhà ngư loại học Prosanta Chakrabarty từ Đại học bang Louisiana, người không tham gia nghiên cứu, cho biết."
-    },
-    {
-     "t": "p",
-     "text": "Cá tầm hồ là loài cá sụn, có tổ tiên từng sống cùng thời với khủng long cách đây 200 triệu năm. Ngày nay, chúng là loài cá lớn nhất ở vùng Ngũ Đại Hồ, thường dài từ 1,2 đến 1,8 mét và nặng từ 14 đến 36 kg. Theo các nghiên cứu trước đây, tuổi thọ trung bình của chúng là từ 50 đến 100 năm. Một con cá tầm 154 tuổi bắt được ở biên giới giữa bang Minnesota và Canada vào năm 1953 từng được xem là con cá tầm hồ già nhất từng được ghi nhận."
-    },
-    {
-     "t": "p",
-     "text": "Nhưng việc xác định chính xác tuổi thọ của các loài cá hoang dã không hề đơn giản. Mỗi vòng vân sẫm màu trên vảy cá, hoặc trên gai vây ngực của những loài cá không có vảy như cá tầm, tượng trưng cho một năm tuổi của con vật. Việc đếm những vòng vân này, gọi là vòng tăng trưởng (annuli), có thể giúp ước tính tuổi của những con cá lớn nhanh và còn khá trẻ, theo Edward Baker, đồng tác giả nghiên cứu và là nhà nghiên cứu thủy sản tại Sở Tài nguyên Thiên nhiên bang Michigan. Tuy nhiên, ở những con cá tầm sống lâu và lớn chậm, các vòng vân này dần dần hình thành sát nhau đến mức không thể phân biệt được nữa, hoặc thậm chí không hình thành nữa."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Trong nghiên cứu này, Baker và các đồng nghiệp đã sử dụng một kỹ thuật xác định tuổi khác. Họ phân tích dữ liệu về hàng nghìn con cá tầm hồ mà họ đã thu thập được, phối hợp cùng các cơ quan tài nguyên thiên nhiên và các trường đại học, trong khoảng thời gian từ năm 1980 đến năm 2024. Họ theo dõi các quần thể cá tầm tại năm vùng nước quanh khu vực thượng nguồn Ngũ Đại Hồ: hồ Black, sông Sturgeon, sông Menominee, sông St. Clair và hồ Winnebago."
-    },
-    {
-     "t": "p",
-     "text": "Trong suốt 44 năm đó, họ bắt cá tầm, xác định giới tính, đo chiều dài và cấy thẻ đánh dấu ngay dưới da con cá, sau đó thả nó trở lại xuống nước. Nếu sau này bắt lại được con cá đã từng được đánh dấu, họ sẽ đo lại và thả nó ra một lần nữa, từ đó tạo nên một bản ghi về sự thay đổi kích thước của con cá theo thời gian."
-    },
-    {
-     "t": "p",
-     "text": "Baker giải thích rằng các bác sĩ thú y cũng dùng loại thẻ phát tín hiệu (transponder) tương tự để nhận diện chó mèo. Những thẻ này chứa một dãy số gồm 15 chữ số riêng biệt cho từng con cá và có tỷ lệ lưu giữ gần như tuyệt đối 100%, nhờ đó các nhà khoa học có thể nhận diện chính xác những con cá tầm mà họ từng bắt gặp, kể cả khi đã 42 năm trôi qua kể từ lần bắt được gần nhất."
-    },
-    {
-     "t": "p",
-     "text": "Với dữ liệu này, gọi là dữ liệu bắt - đánh dấu - bắt lại (capture-mark-recapture), Baker và các đồng nghiệp đã tính tốc độ tăng trưởng trung bình hàng năm của quần thể cá tầm hồ ở mỗi con sông. Để làm được điều đó, họ đo sự chênh lệch chiều dài của một con cá tầm giữa lần bắt lại gần nhất và lần bắt đầu tiên, rồi chia con số đó cho số năm giữa hai lần bắt."
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "p",
-     "text": "Tốc độ tăng trưởng của cá tầm khác nhau, vì cá cái thường lớn nhanh hơn cá đực, và lượng thức ăn sẵn có cũng ảnh hưởng đến sự phát triển của cá. Ví dụ, cá tầm ở sông Black mỗi năm chỉ lớn thêm chưa tới 40% so với cá tầm ở sông St. Clair. Khi tính tuổi, nhóm nghiên cứu đã tính đến sự khác biệt về tốc độ tăng trưởng giữa cá đực và cá cái, giữa các quần thể, đồng thời xét đến việc tốc độ tăng trưởng hàng năm của cá giảm dần khi chúng già đi."
-    },
-    {
-     "t": "p",
-     "text": "Họ xây dựng một phương trình để ước tính tuổi của một con cá tầm đực dài 1,6 mét và một con cá tầm cái dài 1,8 mét — đây là chiều dài tối đa gần đúng của cá tầm hồ trong các quần thể được nghiên cứu — nhằm dự đoán tuổi thọ của loài cá này."
-    },
-    {
-     "t": "p",
-     "text": "Họ phát hiện cá tầm đực có kích thước đó có độ tuổi trung vị dao động từ 87 đến 215 năm, còn ở cá cái là từ 90 đến 248 năm. Tuy nhiên, một số con cá lớn hơn nữa trong bộ dữ liệu có độ tuổi trung vị dự đoán lên tới 435 năm đối với cá đực và 292 năm đối với cá cái. \"Các ước tính tuổi cho những con cá lớn nhất mà chúng tôi bắt được từ mỗi quần thể không nhất thiết là tuổi tối đa mà loài cá này có thể đạt được\", Baker nói. Ông cho biết có thể còn tồn tại những con cá đực và cá cái lớn hơn, già hơn, và cả hai giới có thể đạt tới độ tuổi tối đa tương đương nhau."
-    },
-    {
-     "t": "p",
-     "text": "Nghiên cứu cho thấy cá tầm hồ có thể sống gần bằng tuổi thọ của cá mập Greenland sống ở biển — loài động vật có xương sống sống lâu nhất — và gấp đôi tuổi thọ của cá rougheye rockfish, loài vốn nổi tiếng vì sống rất lâu. Theo phát hiện mới, cá tầm hồ có thể là loài cá nước ngọt sống lâu nhất, mặc dù Baker lưu ý rằng các loài cá tầm khác cũng có thể có tuổi thọ tương tự."
-    },
-    {
-     "t": "img",
-     "i": 4
-    },
-    {
-     "t": "p",
-     "text": "Nhóm nghiên cứu cho rằng việc trải qua trạng thái ngủ đông (torpor) vào mùa đông có thể giúp kéo dài tuổi thọ của cá tầm. Trong trạng thái này, động vật giảm các hoạt động sinh lý như trao đổi chất, nhịp tim, nhịp thở và thân nhiệt để tiết kiệm năng lượng, từ đó giúp kéo dài tuổi thọ."
-    },
-    {
-     "t": "p",
-     "text": "Chakrabarty cho biết phương pháp dùng để xác định tuổi cá tầm hồ đã được áp dụng từ lâu, nhưng ông gọi nó là \"hơi cổ điển hơn so với phương pháp định tuổi bằng carbon phóng xạ (radiocarbon dating)\", vốn là phương pháp các nhà khoa học dùng để xác định tuổi thọ của cá mập Greenland cách đây một thập kỷ. Trong khi đó, các vòng tăng trưởng hàng năm được dùng trong nghiên cứu này, ông nói thêm, \"giống như việc đo chiều cao của con bạn theo thời gian trên tường và dự đoán chúng sẽ cao bao nhiêu khi ngừng lớn\"."
-    },
-    {
-     "t": "p",
-     "text": "Các tác giả lưu ý trong bài báo rằng dữ liệu bắt - đánh dấu - bắt lại, giống như dữ liệu dùng trong nghiên cứu này, từng dự đoán cá mập Greenland có thể là một trong những loài cá sống lâu nhất, trước khi phương pháp định tuổi bằng carbon phóng xạ xác nhận điều đó. \"Chúng tôi muốn thử dùng phương pháp định tuổi bằng carbon phóng xạ để kiểm chứng khoảng tuổi mà mình tính được, và đã liên hệ với các tác giả của nghiên cứu về cá mập Greenland\", Baker nói, cho biết họ vẫn đang chờ phản hồi."
-    },
-    {
-     "t": "p",
-     "text": "Chakrabarty tự hỏi tuổi tối đa có thể có của cá tầm hồ là bao nhiêu, đặc biệt là với những cá thể già, khổng lồ từng sống cách đây khoảng 80 năm trước khi áp lực đánh bắt khiến chúng không thể phát triển hết cỡ. Tuy nhiên, ông vẫn thận trọng với các phát hiện này và nói rằng ông chỉ cân nhắc xếp loài cá tầm này vào nhóm động vật có xương sống sống lâu nhất sau khi có thêm các kiểm chứng khác."
-    },
-    {
-     "t": "p",
-     "text": "\"Đây chỉ nên là bước khởi đầu cho nhiều nghiên cứu và kiểm chứng hơn nữa về ước tính tuổi thọ của các loài như cá tầm hồ\", nhà sinh thái học phục hồi Stephanie Ogren, phó chủ tịch phụ trách khoa học và giáo dục tại Bảo tàng Công cộng Grand Rapids, người không tham gia nghiên cứu, cho biết. Bà nói rằng cần có kinh phí cho việc nghiên cứu các quần thể đang bị đe dọa này để có thể quản lý chúng."
-    },
-    {
-     "t": "p",
-     "text": "Bạn có biết? Loài cá tầm Syr Darya \"đã mất tích\""
-    },
-    {
-     "t": "p",
-     "text": "Trên khắp thế giới, cá tầm được coi là nhóm loài nguy cấp nhất hành tinh. Cá tầm Syr Darya ở Kazakhstan được tổ chức phi lợi nhuận Re:wild xếp vào loài \"đã mất tích\", vì đã hơn 60 năm không ai nhìn thấy chúng và có thể chúng đã tuyệt chủng. Còn cá tầm Alabama thì người ta lo rằng nó đã tuyệt chủng ngoài tự nhiên."
-    },
-    {
-     "t": "p",
-     "text": "Nghiên cứu này giúp dự đoán khả năng tăng trưởng và sống sót của cá tầm, từ đó có thể cải thiện các nỗ lực bảo tồn loài cá dễ bị tổn thương này. Vào cuối thế kỷ 19, có tới 15 triệu con cá tầm hồ sinh sống ở vùng Ngũ Đại Hồ (Great Lakes). Nhưng đến nay, số lượng của chúng đã giảm xuống còn chưa đến 1% con số ước tính đó. Bà Baker cho biết \"việc đánh bắt không kiểm soát chính là nguyên nhân khiến số lượng cá tầm hồ suy giảm vào đầu những năm 1900.\""
-    },
-    {
-     "t": "p",
-     "text": "Cá tầm hồ là một trong những loài cá nước ngọt mất nhiều thời gian nhất để đạt độ trưởng thành sinh dục. Cá cái thường chỉ đẻ trứng sau khi đạt từ 20 đến 25 tuổi, và có thể chỉ sinh sản một lần trong khoảng 4 đến 9 năm. Vì vậy, số lượng của chúng có thể suy giảm nhanh chóng nhưng lại mất rất lâu để phục hồi. Nghiên cứu mới cho thấy tốc độ thay thế thế hệ của loài đang bị đe dọa này chậm hơn so với dự đoán, bởi một số cá tầm vẫn còn ẩn mình trong các vùng nước này có thể đã sống sót qua những cuộc tàn sát hàng loạt và nạn đánh bắt tận diệt từ hàng thế kỷ trước."
-    },
-    {
-     "t": "p",
-     "text": "Các chuyên gia cho rằng điều này đòi hỏi phải duy trì các giới hạn đánh bắt nghiêm ngặt đối với cá tầm hồ, đồng thời điều chỉnh các kế hoạch bảo tồn sao cho phù hợp với tốc độ phục hồi chậm của chúng. \"Chúng ta cần bảo vệ loài này khỏi việc bị đánh bắt,\" bà Baker nói, hoặc ít nhất là \"phải rất hạn chế lượng đánh bắt được phép, để tạo cơ hội cho quần thể cá phục hồi.\""
-    }
-   ]
-  },
-  {
-   "id": "8d35af7a6174",
-   "order": 7,
-   "slug": "nhung-ranh-khong-lo-he-lo-hang-dong-sau-toi-150-met-ben-duoi",
-   "section": "kham-pha-khoa-hoc",
-   "section_name": "Khám phá khoa học",
-   "emoji": "🔬",
-   "title": "Những rãnh khổng lồ hé lộ hang động sâu tới 150 mét bên dưới đồng bằng Nullarbor ở Australia",
-   "sapo": "Đôi khi các đặc điểm địa chất rất dễ nhận ra: đứt gãy có thể để lại những vết nứt khổng lồ trên mặt đất, những tảng đá to trên cánh đồng là bằng chứng rõ ràng cho thấy sông băng đã để chúng lại khi tan chảy, và các lớp trầm tích nhiều màu sắc rõ nét trong một vách đá cho thấy rõ lịch sử lắng đọng của một khu vực. Nhưng đôi khi các đặc điểm của Trái Đất lại vô cùng, vô cùng tinh vi - tinh vi đến mức mắt thường có thể không nhìn thấy được. Các nhà khoa học gần đây đã tìm thấy trường hợp như vậy tại đồng bằng Nullarbor, một sa mạc rộng lớn không có cây cối ở Australia.",
-   "author": "Starre Vartan",
-   "source_name": "ScienceAlert",
-   "source_url": "https://www.sciencealert.com/giant-trenches-reveal-caves-up-to-150-meters-deep-beneath-australias-nullarbor-plain",
-   "published": "2026-09-21T13:00:00+07:00",
-   "lang": "vi-dich",
-   "score": 7,
-   "words": 1144,
-   "translated": true,
-   "translated_from": "ScienceAlert",
-   "title_original": "Giant Trenches Reveal Caves Up to 150 Meters Deep Beneath Australia's Nullarbor Plain",
-   "images": [
-    {
-     "src": "img/2026-09-22/8d35af7a6174-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 675
-    },
-    {
-     "src": "img/2026-09-22/8d35af7a6174-0.jpg",
-     "caption": "Bên ngoài một hang động ở đồng bằng Nullarbor. (Matej Lipar)",
-     "w": 1280,
-     "h": 720
-    },
-    {
-     "src": "img/2026-09-22/8d35af7a6174-1.jpg",
-     "caption": "Bảng phía trên cho thấy mô hình độ cao số (DEM) của khu vực cùng vị trí các đặc điểm và địa điểm chính, trong khi các bảng A-E cho thấy hình ảnh DEM phóng to của các rãnh Abrakurrie, Wombat, Koonalda, Yangoonabie và Yalata. (Lipar và cộng sự, Communications Earth & Environment, 2026.)",
-     "w": 1280,
-     "h": 1334
-    },
-    {
-     "src": "img/2026-09-22/8d35af7a6174-2.jpg",
-     "caption": "Một miệng hang cho thấy còn nhiều điều đang diễn ra bên dưới bề mặt vốn bằng phẳng và không có gì nổi bật của đồng bằng Nullarbor. (Matej Lipar)",
-     "w": 1280,
-     "h": 720
-    },
-    {
-     "src": "img/2026-09-22/8d35af7a6174-3.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 628
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Đôi khi các đặc điểm địa chất rất dễ nhận ra: đứt gãy có thể để lại những vết nứt khổng lồ trên mặt đất, những tảng đá to trên cánh đồng là bằng chứng rõ ràng cho thấy sông băng đã để chúng lại khi tan chảy, và các lớp trầm tích nhiều màu sắc rõ nét trong một vách đá cho thấy rõ lịch sử lắng đọng của một khu vực."
-    },
-    {
-     "t": "p",
-     "text": "Nhưng đôi khi các đặc điểm của Trái Đất lại vô cùng, vô cùng tinh vi - tinh vi đến mức mắt thường có thể không nhìn thấy được."
-    },
-    {
-     "t": "p",
-     "text": "Các nhà khoa học gần đây đã tìm thấy trường hợp như vậy tại đồng bằng Nullarbor, một sa mạc rộng lớn không có cây cối ở Australia. Đây là một nền đá vôi khổng lồ và bằng phẳng, trải rộng hơn 200.000 km2 và đã chịu tác động của phong hóa suốt hơn 14 triệu năm."
-    },
-    {
-     "t": "p",
-     "text": "Khu vực này hầu như không trải qua biến dạng kiến tạo, không có băng hà, và rất ít trầm tích được bồi đắp, nhờ đó lưu giữ được một hồ sơ ổn định đáng kinh ngạc về quá khứ địa chất của nó."
-    },
-    {
-     "t": "p",
-     "text": "Trên bề mặt, đồng bằng Nullarbor có vô số rãnh dài và nông, mà thoạt nhìn trông giống như những gì nước có thể đã khoét vào lòng đất."
-    },
-    {
-     "t": "p",
-     "text": "Những rãnh này có thể kéo dài hàng ki lô mét nhưng thường chỉ rộng từ 100 đến 500 mét và sâu chưa tới 9 mét. Độ chênh lệch địa hình của chúng nhỏ đến mức khó lòng nhận ra."
-    },
-    {
-     "t": "p",
-     "text": "\"Nhìn từ trên bề mặt, những đặc điểm này có thể trông rất giống các thung lũng nông hoặc kênh thoát nước, nhưng bằng chứng của chúng tôi cho thấy chúng có nguồn gốc rất khác,\" nhà địa lý học Matej Lipar của Đại học Curtin, tác giả chính của nghiên cứu mới về hiện tượng này, cho biết."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Nghiên cứu đó phát hiện rằng những chỗ trũng tưởng chừng vô hại này thực ra có thể là dấu vết bề mặt để lại từ một thứ gì đó nằm sâu hơn nhiều."
-    },
-    {
-     "t": "p",
-     "text": "\"Bằng cách kết hợp việc lập bản đồ, khảo sát địa vật lý, dữ liệu hang động và phân tích trầm tích, chúng tôi phát hiện những rãnh này có liên hệ với các hệ thống hang động sâu bên dưới đồng bằng Nullarbor,\" Lipar cho biết."
-    },
-    {
-     "t": "p",
-     "text": "Một số hang động ở Nullarbor khá nông, nhưng những hang sâu có thể kéo dài từ 50 đến 150 mét dưới bề mặt, với các đường hầm dài hàng trăm mét và rộng hàng chục mét. Chúng được hình thành từ rất lâu trước đây, khi nước ngầm chảy qua đá vôi, hòa tan đá và tạo thành các đường dẫn ngầm dưới lòng đất."
-    },
-    {
-     "t": "p",
-     "text": "Sau đó, khi mực nước ngầm hạ xuống, các hang động này cạn nước. Không còn được nước ngầm nâng đỡ, trần hang bắt đầu sụp. Khi những hệ thống hang động khổng lồ này sụp đổ từ bên dưới, mặt đất phía trên cũng dịch chuyển theo, để lại dấu vết trên bề mặt Đồng Bằng."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu tìm ra điều này bằng cách khảo sát năm rãnh đào, trong đó có rãnh Koonalda dài khoảng 22 km và rãnh Yangoonabie dài khoảng 28 km."
-    },
-    {
-     "t": "p",
-     "text": "Bằng phương pháp chụp cắt lớp điện trở suất (electrical resistivity tomography), các nhà nghiên cứu phát hiện những vùng có điện trở suất thấp trải rộng bên dưới các rãnh đào, kéo dài vượt ra ngoài độ sâu khoảng 30 đến 70 mét mà cuộc khảo sát tiếp cận được."
-    },
-    {
-     "t": "p",
-     "text": "Những vùng này phù hợp với đặc điểm của lớp trầm tích và đá bị nứt vỡ nằm bên dưới bề mặt."
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "p",
-     "text": "Các phép đo địa chấn thụ động (passive seismic) cung cấp thêm bằng chứng về lớp đá kém kết dính hoặc nứt vỡ nhiều hơn nằm dọc theo trục các rãnh đào."
-    },
-    {
-     "t": "p",
-     "text": "Sau đó là một phát hiện đặc biệt hữu ích trong công cuộc điều tra địa chất: hang Clay Dam, nơi một hố sụt dạng doline (một loại hố sụp) nằm trong rãnh Koonalda mở ra như một khung cửa sổ thực sự để nhìn vào những gì đang diễn ra dưới lòng đất."
-    },
-    {
-     "t": "p",
-     "text": "Khoảng 20 mét vách sụp lộ thiên cho thấy các lớp đá và trầm tích bị võng xuống, khớp với cấu trúc được suy ra từ các phép đo địa vật lý."
-    },
-    {
-     "t": "p",
-     "text": "Dọc theo các vách đá ven biển gần đó, các nhà nghiên cứu cũng tìm thấy những vùng rộng hơn 100 mét chứa các lớp đá bị võng, các vòm sụp và hang động."
-    },
-    {
-     "t": "p",
-     "text": "Vì sao chúng ta lại quan tâm đến việc biết hang động nằm ở đâu?"
-    },
-    {
-     "t": "p",
-     "text": "Hang động hoạt động như những không gian bảo tồn tự nhiên, nơi các di tích khảo cổ và mọi loại vật chất hữu cơ được che chở khỏi ánh nắng, nhiệt độ khắc nghiệt và các kiểu phong hóa khác."
-    },
-    {
-     "t": "p",
-     "text": "Theo cách đó, các hang động \"rất quan trọng để phục dựng lại khí hậu, môi trường và lịch sử sự sống trên Trái Đất trong quá khứ,\" các tác giả nghiên cứu cho biết."
-    },
-    {
-     "t": "img",
-     "i": 4
-    },
-    {
-     "t": "p",
-     "text": "Vì những chỗ lõm có hình dạng tương tự cũng xuất hiện trên các hành tinh đá khác, các nhà nghiên cứu cho rằng vùng Nullarbor có thể trở thành một mô hình tham chiếu hữu ích để nhận diện hang động trên các hành tinh khác, đặc biệt là sao Hỏa, nơi có nhiều đặc điểm địa chất giống Trái Đất."
-    },
-    {
-     "t": "p",
-     "text": "\"Những hang động tiềm năng trên các hành tinh khác có thể là môi trường được bảo vệ nằm dưới bề mặt, có liên quan đến việc tìm kiếm bằng chứng về sự sống ngoài Trái Đất, hoặc có thể trở thành căn cứ cho các phi hành gia trong tương lai,\" nhà địa chất học Milo Barham của Đại học Curtin cho biết."
-    },
-    {
-     "t": "p",
-     "text": "Bài học từ Nullarbor là một lời nhắc nhở kinh điển rằng đừng đánh giá một cuốn sách qua bìa của nó: một vùng đất không cần trông có vẻ hùng vĩ thì mới có thể ẩn giấu điều gì đó khổng lồ bên dưới."
-    },
-    {
-     "t": "p",
-     "text": "Và nếu nguyên tắc đó cũng đúng ở những nơi khác, một số đường nét và chỗ lõm trông có vẻ bình thường trên sao Hỏa có thể đáng được xem xét kỹ hơn lần nữa."
-    },
-    {
-     "t": "p",
-     "text": "Đọc toàn bộ nghiên cứu trên tạp chí Communications Earth & Environment."
-    },
-    {
-     "t": "p",
-     "text": "Bài viết này được Rebecca Dyer kiểm chứng thông tin và biên tập. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
-    }
-   ]
-  },
-  {
-   "id": "31eba45902f5",
-   "order": 8,
-   "slug": "kho-bau-gi-set-o-ao-hoa-ra-la-kho-thanh-sat-thoi-do-sat-lon",
-   "section": "kham-pha-khoa-hoc",
-   "section_name": "Khám phá khoa học",
-   "emoji": "🔬",
-   "title": "\"Kho báu gỉ sét\" ở Áo hóa ra là kho thanh sắt thời đồ sắt lớn nhất châu Âu",
-   "sapo": "Năm 2019, các công nhân tại một nhà máy khai thác sỏi ở Deinham, gần sông Danube của Áo, đã phát hiện một lượng lớn thanh sắt lẫn trong lớp sỏi dưới nước.",
-   "author": "David Nield",
-   "source_name": "ScienceAlert",
-   "source_url": "https://www.sciencealert.com/rusty-treasure-in-austria-revealed-as-europes-largest-cache-of-iron-age-iron-bars",
-   "published": "2026-09-20T23:01:00+07:00",
-   "lang": "vi-dich",
-   "score": 7,
-   "words": 960,
-   "translated": true,
-   "translated_from": "ScienceAlert",
-   "title_original": "'Rusty Treasure' in Austria Revealed as Europe's Largest Cache of Iron Age Iron Bars",
-   "images": [
-    {
-     "src": "img/2026-09-22/31eba45902f5-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 675
-    },
-    {
-     "src": "img/2026-09-22/31eba45902f5-0.jpg",
-     "caption": "Nhà máy khai thác sỏi nơi phát hiện ra kho báu này. (Heinz Gruber/Bundesdenkmalamt)",
-     "w": 600,
-     "h": 398
-    },
-    {
-     "src": "img/2026-09-22/31eba45902f5-1.jpg",
-     "caption": "Một số thanh sắt được tìm thấy. (Peter Trebsche)",
-     "w": 600,
-     "h": 400
-    },
-    {
-     "src": "img/2026-09-22/31eba45902f5-2.jpg",
-     "caption": "Số sắt này có thể đến từ nhiều vùng khác nhau dọc sông Danube. (Trebsche và Berranger, Antiquity, 2026)",
-     "w": 600,
-     "h": 358
-    },
-    {
-     "src": "img/2026-09-22/31eba45902f5-3.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 628
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Năm 2019, các công nhân tại một nhà máy khai thác sỏi ở Deinham, gần sông Danube của Áo, đã phát hiện một lượng lớn thanh sắt lẫn trong lớp sỏi dưới nước."
-    },
-    {
-     "t": "p",
-     "text": "Có tới hàng trăm thanh sắt như vậy, mỗi thanh dài trung bình gần 30 xăng-ti-mét, được rèn theo cùng một hình dạng: hai đầu nhọn, giống như hình thoi kéo dài."
-    },
-    {
-     "t": "p",
-     "text": "Trong một nghiên cứu công bố trên tạp chí Antiquity, hai nhà khảo cổ học Peter Trebsche từ Đại học Innsbruck (Áo) và Marion Berranger từ Viện Nghiên cứu Vật liệu Khảo cổ (Pháp) đã công bố kết quả sau khi phân tích kỹ lưỡng \"kho báu gỉ sét\" này."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu xác nhận đây là những \"bán thành phẩm\" (semi-products) - được rèn thành hình dạng nhất định để dễ vận chuyển, sẵn sàng để chế tác lại sau này. Và phát hiện này là chưa từng có, là kho thanh sắt thời tiền sử được tìm thấy cùng lúc với số lượng lớn nhất từ trước đến nay ở châu Âu."
-    },
-    {
-     "t": "p",
-     "text": "Tổng cộng có 540 thanh sắt hoặc mảnh thanh sắt được thu hồi, nặng khoảng một tấn sắt - đủ để làm 500 thanh kiếm hoặc 8.000 chiếc đinh."
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu cho biết giá trị của kho báu này hẳn là rất lớn."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "\"Ngay cả khi tính đến lượng vật liệu hao hụt trong quá trình chế tác, số sắt tìm thấy ở Deinham vẫn đủ để trang bị vũ khí cho cả một đội quân chiến binh đông đảo,\" ông Trebsche cho biết."
-    },
-    {
-     "t": "p",
-     "text": "Kết quả xác định niên đại bằng carbon phóng xạ cho thấy những thanh sắt này có tuổi đời ít nhất 2.200 năm, một số có thể có niên đại từ thế kỷ thứ 4 trước Công nguyên."
-    },
-    {
-     "t": "p",
-     "text": "Dù vẫn còn nhiều câu hỏi chưa có lời giải - như số sắt này đến từ đâu, được chuyển đi đâu, và cuối cùng được dùng để làm gì - đây vẫn là một phát hiện hiếm có và thú vị, giúp hé lộ hoạt động buôn bán và chế tác thời bấy giờ."
-    },
-    {
-     "t": "p",
-     "text": "\"Thật đáng kinh ngạc khi một lượng sắt lớn như vậy được vận chuyển cùng một lúc và có sẵn trong một giao dịch trao đổi duy nhất vào cuối thời đồ sắt,\" ông Trebsche nói."
-    },
-    {
-     "t": "p",
-     "text": "\"Phát hiện này cho thấy khả năng sản xuất sắt đã tăng lên rất nhiều trong thế kỷ 3 và thế kỷ 2 trước Công nguyên tại khu vực sông Danube.\""
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "p",
-     "text": "Một điều bí ẩn khác là làm sao số sắt này lại nằm dưới đáy sông, nhưng lời giải thích khả dĩ nhất là do một vụ đắm tàu. Tuy nhiên, không còn dấu vết gì của con tàu, nên chưa thể chắc chắn điều này."
-    },
-    {
-     "t": "p",
-     "text": "Vào thời đó, một số cộng đồng cũng có tục lệ đặt sắt xuống nước như một phần của nghi lễ hay lễ nghi, nhưng có vẻ đây không phải là trường hợp đó. Số sắt này trông giống như được làm ra để vận chuyển, và cũng có rất ít bằng chứng khác về những tập tục tương tự trong khu vực này ở các nền văn hóa châu Âu thời đồ sắt cùng thời (được gọi là văn hóa La Tène)."
-    },
-    {
-     "t": "p",
-     "text": "\"Không thể loại trừ khả năng đây là một hoạt động cúng tế, nhưng tập hợp các bán thành phẩm đồng nhất tại Deinham lại khác biệt đáng kể so với sự đa dạng thường thấy trong các đồ vật cúng tế bị ném xuống sông,\" các nhà nghiên cứu viết trong bài báo công bố."
-    },
-    {
-     "t": "p",
-     "text": "\"Hơn nữa, những phát hiện dưới sông từ cuối thời đồ sắt nhìn chung rất hiếm gặp trong nền văn hóa La Tène phía Đông, vì vậy tập hợp hiện vật ở Deinham không phù hợp với khuôn mẫu nghi lễ đã được biết đến trong khu vực.\""
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu cho rằng cần phải có những con thuyền chuyên dụng hoặc được cải tiến để chở được khối lượng và trọng lượng hàng hóa lớn như vậy, và có thể số sắt này đã được đem đổi lấy nô lệ, gia súc, hoặc tiền xu bằng bạc hay vàng."
-    },
-    {
-     "t": "img",
-     "i": 4
-    },
-    {
-     "t": "p",
-     "text": "Nghiên cứu còn xác định được một số khu vực luyện sắt ở thượng nguồn có thể là nguồn gốc của 540 thanh sắt này, trong đó nơi gần nhất cách đó khoảng 220 km (137 dặm) dọc theo sông Danube."
-    },
-    {
-     "t": "p",
-     "text": "Chúng ta sẽ biết thêm nhiều điều khi việc phân tích kim loại được hoàn tất, giúp xác định nơi khai thác quặng sắt, cũng như liệu các thanh sắt này có đến từ cùng một nơi hay từ nhiều nơi khác nhau."
-    },
-    {
-     "t": "p",
-     "text": "Nhưng ngay lúc này, chúng ta đã biết được quy mô của phát hiện này lớn đến mức nào, và nó quý giá ra sao."
-    },
-    {
-     "t": "p",
-     "text": "\"Quả là một phép màu nho nhỏ khi phát hiện số lượng thanh sắt thời tiền sử lớn nhất từng được tìm thấy ở châu Âu lại không rơi vào tay những người thu mua phế liệu, mà được báo cáo cho cơ quan bảo tồn di tích của Áo,\" Trebsche cho biết."
-    },
-    {
-     "t": "p",
-     "text": "\"Tôi thực lòng biết ơn những người tìm thấy kho báu này vì họ đã quyết định hiến tặng bộ sưu tập phi thường này cho một bảo tàng nhà nước.\""
-    },
-    {
-     "t": "p",
-     "text": "Nghiên cứu này đã được công bố trên tạp chí Antiquity."
-    },
-    {
-     "t": "p",
-     "text": "Bài viết này đã được Rachel Garner kiểm chứng thông tin và Fiona MacDonald biên tập. Dù luôn cố gắng làm việc cẩn thận, chúng tôi cũng có thể mắc sai sót. Nếu bạn phát hiện lỗi nào, xin hãy cho chúng tôi biết."
-    }
-   ]
-  },
-  {
-   "id": "d2baf01d9160",
-   "order": 9,
-   "slug": "nguyen-thi-dieu-ly-tu-co-be-hay-om-den-chien-binh-thep-gianh",
-   "section": "the-thao-dep",
-   "section_name": "Thể thao đẹp",
-   "emoji": "⚽",
-   "title": "Nguyễn Thị Diệu Ly: Từ cô bé hay ốm đến 'chiến binh thép' giành HCĐ karate ASIAD",
-   "sapo": "Chiều 21.9, Nguyễn Thị Diệu Ly khép lại một trận đấu nghẹt thở tại ASIAD 20 bằng tấm HCĐ ở nội dung kumite của môn karate. Đằng sau chiến tích ấy là hành trình 9 năm cô gái sinh năm 2005 không ngừng vượt qua những giới hạn của chính mình.",
-   "author": "thanhnien.vn",
-   "source_name": "Thanh Niên",
-   "source_url": "https://thanhnien.vn/nguyen-thi-dieu-ly-tu-co-be-hay-om-den-chien-binh-thep-gianh-hcd-karate-asiad-185260921153424025.htm",
-   "published": "2026-09-21T08:50:00+07:00",
-   "lang": "vi",
-   "score": 8,
-   "words": 673,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/d2baf01d9160-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 630
-    },
-    {
-     "src": "img/2026-09-22/d2baf01d9160-0.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 878
-    },
-    {
-     "src": "img/2026-09-22/d2baf01d9160-1.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 846
-    },
-    {
-     "src": "img/2026-09-22/d2baf01d9160-2.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/d2baf01d9160-3.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "h",
-     "text": "Trận tranh HCĐ nghẹt thở"
-    },
-    {
-     "t": "p",
-     "text": "Trong trận tranh HCĐ với võ sĩ chủ nhà Nhật Bản Kama Tsubasa, Nguyễn Thị Diệu Ly nhập cuộc đầy tự tin. Nữ võ sĩ Việt Nam sớm tạo lợi thế bằng đòn Ippon, vươn lên dẫn trước 3-0."
-    },
-    {
-     "t": "p",
-     "text": "Nhưng lợi thế ấy nhanh chóng bị san lấp. Kama Tsubasa kiên trì tấn công và lần lượt đưa trận đấu về thế cân bằng 3-3, trước khi vượt lên dẫn 4-3. Khi thời gian thi đấu không còn nhiều, Diệu Ly buộc phải đẩy cao tốc độ và tìm kiếm cơ hội cuối cùng."
-    },
-    {
-     "t": "p",
-     "text": "Nỗ lực của võ sĩ Việt Nam được đền đáp khi cô ghi thêm điểm, đưa tỷ số về 4-4. Do Diệu Ly là người ghi điểm trước, cô được xử thắng theo luật ưu tiên điểm ghi trước, qua đó giành HCĐ ASIAD 20."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Nguyễn Thị Diệu Ly (đỏ) thi đấu xuất sắc và đầy quyết tâm ở trận tranh HCĐ. Cô ăn mừng sau khi giành chiến thắng"
-    },
-    {
-     "t": "p",
-     "text": "Tấm huy chương đến sau một trận đấu mà Diệu Ly phải liên tục chống chọi với sức ép từ võ sĩ chủ nhà. Nhưng bản lĩnh từng được tôi luyện qua rất nhiều giải đấu quốc tế đã giúp cô đứng vững ở thời khắc quyết định."
-    },
-    {
-     "t": "p",
-     "text": "Đây là tấm HCĐ thứ 3 của đoàn thể thao Việt Nam ở ASIAD 20. Đồng đội của Ly ở đội tuyển karate là Bùi Ngọc Nhi cũng đã giành HCĐ nội dung kata (biểu diễn) vào ngày 20.9. Tấm HCĐ đầu tiên của Việt Nam tại ASIAD 20 do công của bộ đôi Minh Tân - Gia Nghi môn teqball."
-    },
-    {
-     "t": "h",
-     "text": "Từ cô bé hay ốm đến nhà vô địch"
-    },
-    {
-     "t": "p",
-     "text": "Hành trình đến bục huy chương ASIAD của Diệu Ly bắt đầu từ năm 2017, khi cô mới 12 tuổi. Khi ấy, Ly theo chị gái đến Trung tâm Thể dục thể thao Quân đội tập thử karate. Cô bé có thể lực không tốt, khá gầy và thường xuyên ốm. Chính người chị ruột Nguyễn Thị Ngoan - một võ sĩ karate giàu thành tích của thể thao quân đội - đã truyền cảm hứng để Ly gắn bó với môn võ này."
-    },
-    {
-     "t": "p",
-     "text": "Bước ngoặt lớn đến vào năm 2022. Trước giải vô địch trẻ thế giới tại Thổ Nhĩ Kỳ, Diệu Ly từng gặp chấn thương trật khớp háng và phải ép 7 kg để thi đấu đúng hạng cân. Đây cũng là giải quốc tế đầu tiên cô tham dự sau nhiều năm tập luyện ở đội tuyển trẻ."
-    },
-    {
-     "t": "p",
-     "text": "Áp lực rất lớn, nhưng Diệu Ly đã vượt qua tất cả để giành HCV thế giới. Khoảnh khắc nữ võ sĩ cùng HLV Phạm Hồng Hà ôm nhau sau trận chung kết trở thành một trong những ký ức đáng nhớ nhất trong sự nghiệp của cô."
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "img",
-     "i": 4
-    },
-    {
-     "t": "p",
-     "text": "Nguyễn Thị Diệu Ly mang về tấm HCĐ thứ 3 cho đoàn thể thao Việt Nam ở ASIAD 20"
-    },
-    {
-     "t": "p",
-     "text": "Từ một cô bé có thể lực yếu, Diệu Ly từng bước trở thành gương mặt nổi bật của karate Việt Nam. Cô giành nhiều HCV ở các giải Đông Nam Á, châu Á, thế giới, SEA Games và các giải quốc gia."
-    },
-    {
-     "t": "p",
-     "text": "Đặc biệt, năm 2025 là một dấu mốc đáng nhớ khi Diệu Ly vinh dự 3 lần được Chủ tịch nước tặng Huân chương Lao động hạng Nhì vì những thành tích xuất sắc trong màu áo thể thao quân đội và đội tuyển quốc gia."
-    },
-    {
-     "t": "p",
-     "text": "Phía sau những thành tích ấy là một tuổi trẻ gần như gắn trọn với thảm đấu. Những buổi tập kéo dài, các chuyến tập huấn và thi đấu liên tục khiến thời gian dành cho gia đình, bạn bè của Diệu Ly bị thu hẹp."
-    },
-    {
-     "t": "p",
-     "text": "“Tuổi trẻ của tôi gắn liền với thảm đấu và những chuyến tập huấn, thi đấu dài ngày, xa xôi. Đôi khi là nỗi cô đơn, áp lực và cả những giới hạn mình buộc phải vượt qua”, cô từng tâm sự."
-    }
-   ]
-  },
-  {
-   "id": "a81e9c8bd026",
-   "order": 10,
-   "slug": "tour-bay-6-ngay-vao-vu-tru-duoc-san-don-chay-ve",
-   "section": "kham-pha-khoa-hoc",
-   "section_name": "Khám phá khoa học",
-   "emoji": "🔬",
-   "title": "Tour bay 6 ngày vào vũ trụ được săn đón \"cháy vé\"",
-   "sapo": "(Dân trí) - Du khách sẽ được huấn luyện trong nhiều ngày trước khi bay tới rìa không gian, trải nghiệm trạng thái không trọng lượng và nhìn Trái Đất từ bên",
-   "author": "Dân trí",
-   "source_name": "Dân Trí",
-   "source_url": "https://dantri.com.vn/khoa-hoc/tour-bay-6-ngay-vao-vu-tru-duoc-san-don-chay-ve-20260921063902867.htm",
-   "published": "2026-09-21T00:32:49+07:00",
-   "lang": "vi",
-   "score": 8,
-   "words": 750,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/a81e9c8bd026-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 630
-    },
-    {
-     "src": "img/2026-09-22/a81e9c8bd026-0.jpg",
-     "caption": "Lộ trình của sản phẩm du lịch kéo dài 6 ngày bao gồm 4 ngày huấn luyện mô phỏng nghiêm ngặt tại New Mexico và chuyến bay kéo dài 90 phút vào ngày thứ năm (Ảnh: Handout).",
-     "w": 1200,
-     "h": 800
-    },
-    {
-     "src": "img/2026-09-22/a81e9c8bd026-1.jpg",
-     "caption": "Richard Branson (trái), nhà sáng lập Virgin Galactic, trong chuyến bay cận quỹ đạo trên tàu vũ trụ của công ty vào năm 2021 (Ảnh: Handout).",
-     "w": 1024,
-     "h": 569
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "h",
-     "text": "(Dân trí) - Du khách sẽ được huấn luyện trong nhiều ngày trước khi bay tới rìa không gian, trải nghiệm trạng thái không trọng lượng và nhìn Trái Đất từ bên ngoài khí quyển."
-    },
-    {
-     "t": "p",
-     "text": "Tour 6 ngày, điểm đến là không gian cận quỹ đạo"
-    },
-    {
-     "t": "p",
-     "text": "Những chuyến nghỉ dưỡng trên du thuyền, đảo tư nhân hay khách sạn 5 sao dường như chưa phải giới hạn cuối cùng của du lịch xa xỉ."
-    },
-    {
-     "t": "p",
-     "text": "Nền tảng du lịch trực tuyến Ctrip, thuộc Trip.com Group, gần đây đã đưa lên hệ thống một sản phẩm đặc biệt dành cho thị trường Trung Quốc: chuyến du lịch không gian với giá khởi điểm 5,1 triệu nhân dân tệ, tương đương gần 19 tỷ đồng."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Theo South China Morning Post , đây là sản phẩm đắt nhất mà nền tảng này từng chào bán. Chuyến đi kéo dài 6 ngày, trong đó điểm nhấn là hành trình cận quỹ đạo kéo dài khoảng 90 phút do công ty Virgin Galactic của Mỹ vận hành."
-    },
-    {
-     "t": "p",
-     "text": "Du khách không thể chỉ bỏ tiền mua vé rồi lập tức bước lên tàu."
-    },
-    {
-     "t": "p",
-     "text": "Bốn ngày đầu tiên được dành cho quá trình chuẩn bị và huấn luyện tại Mỹ. Đến ngày thứ 5, hành khách mới bắt đầu chuyến bay từ Spaceport America ở New Mexico."
-    },
-    {
-     "t": "p",
-     "text": "Khác tên lửa truyền thống cất cánh thẳng đứng, hệ thống của Virgin Galactic sử dụng một máy bay mẹ đưa tàu vũ trụ lên độ cao lớn. Tàu sau đó tách ra, kích hoạt động cơ rocket để tiếp tục tăng độ cao."
-    },
-    {
-     "t": "p",
-     "text": "Trong hành trình, hành khách có vài phút trải nghiệm trạng thái không trọng lượng. Cabin được trang bị 17 cửa sổ, cho phép họ quan sát đường cong của Trái Đất trên nền không gian tối đen."
-    },
-    {
-     "t": "p",
-     "text": "Mức giá hơn 5 triệu nhân dân tệ chưa phải toàn bộ số tiền khách hàng phải chuẩn bị."
-    },
-    {
-     "t": "p",
-     "text": "Theo Ctrip, giá gói bao gồm chương trình bay và các dịch vụ liên quan như huấn luyện trước chuyến bay, di chuyển và lưu trú trong thời gian huấn luyện. Vé máy bay quốc tế đến Mỹ, thị thực và bảo hiểm cá nhân không nằm trong mức giá trên."
-    },
-    {
-     "t": "p",
-     "text": "Vé siêu đắt đỏ vẫn \"cháy hàng\""
-    },
-    {
-     "t": "p",
-     "text": "Mức giá để đi vào vũ trụ nghe khó tin với phần đông du khách, nhưng nhu cầu đối với những chuyến bay như vậy đang khiến chính Virgin Galactic bất ngờ."
-    },
-    {
-     "t": "p",
-     "text": "Hồi tháng 4, công ty mở một đợt đặt chỗ giới hạn gồm 50 suất."
-    },
-    {
-     "t": "p",
-     "text": "Đến tháng 8, Virgin Galactic thông báo số người đăng ký đã vượt lượng suất cung cấp và đợt bán phải đóng sớm hơn dự kiến. Các đơn đặt chỗ mới bổ sung hơn 50 triệu USD vào doanh thu chuyến bay dự kiến trong tương lai của hãng."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Virgin Galactic hiện có khoảng 675 khách hàng đã đặt chỗ từ trước. Công ty dự kiến đưa thế hệ tàu Delta vào hoạt động thương mại từ tháng 2/2027, muộn hơn kế hoạch trước đó do quá trình hoàn thiện hệ thống kéo dài."
-    },
-    {
-     "t": "p",
-     "text": "Hai tàu Delta đầu tiên được kỳ vọng giúp hãng tăng mạnh tần suất hoạt động. Mục tiêu dài hơn là đạt khoảng 125 chuyến thương mại mỗi năm."
-    },
-    {
-     "t": "p",
-     "text": "Virgin Galactic cho biết sau khi đợt vé này bán hết, những đợt tiếp theo dự kiến sẽ được mở ở mức giá cao hơn."
-    },
-    {
-     "t": "p",
-     "text": "Trung Quốc cũng muốn tự đưa khách lên không gian"
-    },
-    {
-     "t": "p",
-     "text": "Trong lúc những khách hàng giàu có tại Trung Quốc phải sang Mỹ để thực hiện chuyến đi, các doanh nghiệp hàng không vũ trụ của nước này cũng đang phát triển dịch vụ riêng."
-    },
-    {
-     "t": "p",
-     "text": "Tháng 10/2024, startup Deep Blue Aerospace công bố kế hoạch đưa khách du lịch lên không gian cận quỹ đạo từ năm 2027."
-    },
-    {
-     "t": "p",
-     "text": "Giá niêm yết được công bố khi đó là 1,5 triệu nhân dân tệ, khoảng 5,8 tỷ đồng mỗi người, chưa bằng 1/3 gói Virgin Galactic hiện được bán qua Ctrip. Hai suất đầu tiên đã được bán trong một buổi livestream trên nền tảng thương mại điện tử."
-    },
-    {
-     "t": "p",
-     "text": "Theo kế hoạch được công bố, chuyến bay của Deep Blue Aerospace kéo dài khoảng 12 phút. Tàu sẽ đạt độ cao khoảng 100-150km và mang đến ít nhất 5 phút không trọng lượng."
-    },
-    {
-     "t": "p",
-     "text": "Một doanh nghiệp khác là CAS Space cũng từng công bố mục tiêu triển khai du lịch không gian có người lái vào khoảng năm 2028."
-    }
-   ]
-  },
-  {
    "id": "bda3f08ed08f",
-   "order": 11,
+   "order": 16,
    "slug": "xin-me-rang-nuoi-con-hoc-nu-sinh-mo-coi-lam-xuong-nhang-tu-l",
    "section": "guong-sang",
    "section_name": "Gương sáng & Tài năng trẻ",
@@ -2156,192 +2783,8 @@
    ]
   },
   {
-   "id": "c39867e771df",
-   "order": 12,
-   "slug": "dau-an-nu-vo-si-karate-21-tuoi-lan-dau-du-asiad-da-gianh-hcd",
-   "section": "the-thao-dep",
-   "section_name": "Thể thao đẹp",
-   "emoji": "⚽",
-   "title": "Dấu ấn nữ võ sĩ karate 21 tuổi, lần đầu dự ASIAD đã giành HCĐ",
-   "sapo": "Lần đầu tham dự ASIAD, võ sĩ sinh năm 2005 Nguyễn Thị Diệu Ly mang về cho đoàn thể thao VN tấm HCĐ ở môn karate.",
-   "author": "thanhnien.vn",
-   "source_name": "Thanh Niên",
-   "source_url": "https://thanhnien.vn/dau-an-nu-vo-si-karate-21-tuoi-lan-dau-du-asiad-da-gianh-hcd-185260921223947504.htm",
-   "published": "2026-09-21T20:45:00+07:00",
-   "lang": "vi",
-   "score": 7,
-   "words": 616,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/c39867e771df-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 630
-    },
-    {
-     "src": "img/2026-09-22/c39867e771df-0.jpg",
-     "caption": "Võ sĩ Nguyễn Thị Diệu Ly ( trái ) đoạt HCĐ hạng cân 68 kg nữ môn karate tại ASIAD 20",
-     "w": 1280,
-     "h": 960
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "h",
-     "text": "Chiến thắng sít sao"
-    },
-    {
-     "t": "p",
-     "text": "Hạng cân 68 kg nữ mà Nguyễn Thị Diệu Ly góp mặt tranh tài hôm qua (21.9) có sự tham gia của các đối thủ mạnh Trung Quốc và chủ nhà Nhật Bản. Ngay trận ra quân, cô phải chạm trán Li Qiaoqiao (Trung Quốc). Sau chiến thắng trước Diệu Ly, võ sĩ Trung Quốc thẳng tiến đến trận chung kết và đoạt HCV. Trong khi đó nữ võ sĩ VN tranh HCĐ với võ sĩ chủ nhà Kama Tsubasa."
-    },
-    {
-     "t": "p",
-     "text": "Nhập cuộc đầy chủ động và quyết tâm, Diệu Ly tạo ưu thế dẫn điểm trước đối thủ nhưng Kama Tsubasa cũng cho thấy tài năng và bản lĩnh với những pha ra đòn chuẩn xác. Trận đấu kết thúc với điểm số 4-4 và trọng tài tuyên chiến thắng cùng tấm HCĐ thuộc về Diệu Ly nhờ luật Senshu (người ghi điểm trước)."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Chiến thắng sít sao ở trận tranh HCĐ giúp nữ võ sĩ 21 tuổi của VN có được danh hiệu đầu tiên ở đấu trường ASIAD. Đây cũng là tấm HCĐ thứ 3 của đoàn thể thao VN tại ASIAD 20."
-    },
-    {
-     "t": "h",
-     "text": "Khẳng định tài năng"
-    },
-    {
-     "t": "p",
-     "text": "Xuất thân từ chiếc nôi karate đơn vị Quân đội, ngay từ nhỏ Diệu Ly đã được chị gái là đương kim á quân ASIAD Nguyễn Thị Ngoan cùng các HLV tận tình chỉ bảo. Môi trường thể thao Quân đội giúp cô có được kỷ luật, ý chí, tác phong chuyên nghiệp."
-    },
-    {
-     "t": "p",
-     "text": "Chăm chỉ tập luyện cùng nhiều tố chất phù hợp với karate, Diệu Ly tiến bộ nhanh chóng, thể hiện được khả năng qua thành tích thi đấu xuất sắc ở các giải trẻ khu vực, châu lục."
-    },
-    {
-     "t": "p",
-     "text": "Được trao cơ hội tranh tài ở SEA Games 33 diễn ra năm ngoái, Diệu Ly tỏa sáng với 1 HCV đồng đội cùng 1 HCB cá nhân. Tại giải karate vô địch châu Á 2026, Diệu Ly tỏa sáng, lên ngôi vô địch sau chiến thắng trước Kama Tsubasa, bại tướng của cô ở trận tranh HCĐ ASIAD lần này."
-    },
-    {
-     "t": "h",
-     "text": "3 tuyển thủ TDDC vào chung kết"
-    },
-    {
-     "t": "p",
-     "text": "Ở ngày thi đấu hôm qua, đội tuyển thể dục dụng cụ (TDDC) VN thi đấu khá thành công, có 3 tuyển thủ vượt qua vòng loại, giành quyền vào vòng chung kết là Đặng Ngọc Xuân Thiện (ngựa vòng), Nguyễn Văn Khánh Phong (vòng treo) và Trịnh Hải Khang (nhảy chống). Đội tuyển TDDC VN cũng vào chung kết nội dung đồng đội nam."
-    },
-    {
-     "t": "p",
-     "text": "Ở môn bơi, Phạm Thanh Bảo vượt kỷ lục SEA Games ở nội dung 100 m ếch với thành tích 1 phút 00 giây 85 (kỷ lục cũ 1 phút 00 giây 97) nhưng không thể vào chung kết. Đội tiếp sức 4 x 200 m tự do với Trần Hưng Nguyên, Nguyễn Viết Tường, Nguyễn Huy Hoàng, Trần Văn Nguyễn Quốc xếp hạng tư chung cuộc. Đội tuyển bóng chuyền nữ gây thất vọng khi thua Indonesia 0-3 và phải tranh hạng 7 với Kazakhstan."
-    },
-    {
-     "t": "p",
-     "text": "Thể hình tốt, linh hoạt, nhanh nhẹn, thi đấu bản lĩnh, lì lợm nhưng ban huấn luyện cũng chỉ ra những điểm mà Diệu Ly cần phải chỉnh sửa để hoàn thiện như sự kết hợp tay chân cũng như di chuyển. Cô cũng cho biết mình cần rèn luyện thêm tâm lý thi đấu. Vì thế mỗi cơ hội tranh tài ở các giải quốc tế là cơ hội để cô tích lũy, hoàn thiện."
-    },
-    {
-     "t": "p",
-     "text": "Với tài năng dần được khẳng định của Diệu Ly, ban huấn luyện đội tuyển karate VN đặt niềm tin vào Diệu Ly cho mục tiêu gặt hái thành công ở đấu trường quốc tế sắp tới."
-    }
-   ]
-  },
-  {
-   "id": "b57e91fb8e50",
-   "order": 13,
-   "slug": "asiad-2026-boi-viet-nam-va-dau-moc-dang-nho-o-noi-dung-tiep",
-   "section": "the-thao-dep",
-   "section_name": "Thể thao đẹp",
-   "emoji": "⚽",
-   "title": "ASIAD 2026: Bơi Việt Nam và dấu mốc đáng nhớ ở nội dung tiếp sức",
-   "sapo": "Lần đầu tiên lọt vào nhóm 4 đội mạnh nhất nội dung 4x200m tự do nam, đội tuyển Bơi Việt Nam tạo dấu ấn đáng nhớ tại ASIAD 2026.",
-   "author": "Thanh Phương",
-   "source_name": "VietnamPlus",
-   "source_url": "https://www.vietnamplus.vn/asiad-2026-boi-viet-nam-va-dau-moc-dang-nho-o-noi-dung-tiep-suc-post1137531.vnp",
-   "published": "2026-09-21T13:25:50+07:00",
-   "lang": "vi",
-   "score": 7,
-   "words": 629,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/b57e91fb8e50-lead.jpg",
-     "caption": "",
-     "w": 820,
-     "h": 547
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Không giành huy chương, nhưng đội tuyển Bơi Việt Nam vẫn tạo dấu ấn đáng nhớ tại ASIAD 2026 khi lần đầu tiên lọt vào nhóm 4 đội mạnh nhất nội dung 4x200m tự do nam."
-    },
-    {
-     "t": "p",
-     "text": "Bộ tứ Trần Hưng Nguyên, Nguyễn Viết Tường, Nguyễn Huy Hoàng và Trần Văn Nguyễn Quốc về đích thứ tư trong chung kết với thành tích 7 phút 18 giây 09, chỉ xếp sau Trung Quốc, Nhật Bản và Hàn Quốc."
-    },
-    {
-     "t": "p",
-     "text": "Thành tích này đánh dấu bước tiến rõ rệt của Bơi Việt Nam ở nội dung tiếp sức tại đấu trường châu lục."
-    },
-    {
-     "t": "p",
-     "text": "Trước ASIAD 2026, đội 4x200m tự do nam Việt Nam mới hai lần vào chung kết, đều về thứ 6: đạt 7 phút 32 giây 02 tại ASIAD 2018 và 7 phút 24 giây 92 tại ASIAD 2022 tổ chức ở Hàng Châu (Trung Quốc) năm 2023."
-    },
-    {
-     "t": "p",
-     "text": "Tại ASIAD năm nay, các \"kình ngư\" Việt Nam gây ấn tượng ngay từ vòng loại khi hoàn thành phần thi với thời gian 7 phút 21 giây 62, đứng thứ tư và giành quyền vào chung kết."
-    },
-    {
-     "t": "p",
-     "text": "Đến cuộc đua tranh huy chương chiều 21/9, đội tiếp tục cải thiện thành tích, rút thêm hơn 3 giây để cán đích sau 7 phút 18 giây 09. Khoảng cách 11,33 giây với đội giành huy chương Đồng Hàn Quốc cho thấy Việt Nam vẫn còn cách nhóm dẫn đầu châu lục một khoảng đáng kể."
-    },
-    {
-     "t": "p",
-     "text": "Tuy nhiên, vị trí thứ tư là kết quả cao nhất của Bơi Việt Nam tại ASIAD ở nội dung này, đồng thời cho thấy sự tiến bộ đáng ghi nhận của một tập thể đã duy trì thành tích ổn định ở khu vực Đông Nam Á."
-    },
-    {
-     "t": "p",
-     "text": "Ở ba kỳ SEA Games gần nhất, Việt Nam đều giành huy chương Vàng 4x200m tự do nam. Tại SEA Games 33 năm 2025, chính bộ tứ Hưng Nguyên, Viết Tường, Huy Hoàng và Nguyễn Quốc đã mang về tấm huy chương Vàng với thành tích 7 phút 18 giây 67."
-    },
-    {
-     "t": "p",
-     "text": "Việc tiếp tục cạnh tranh ở nhóm đầu tại ASIAD cho thấy các vận động viên Việt Nam đang từng bước chuyển hóa ưu thế ở khu vực thành thành tích tại đấu trường châu lục."
-    },
-    {
-     "t": "p",
-     "text": "Cũng trong ngày 21/9, vận động viên Võ Thị Mỹ Tiên góp mặt ở chung kết 200m hỗn hợp cá nhân nữ và cán đích thứ 9 với thành tích 2 phút 17 giây 50."
-    },
-    {
-     "t": "p",
-     "text": "Ở môn Thể dục dụng cụ, Việt Nam cũng có 3 vận động viên giành quyền vào chung kết các nội dung đơn môn, gồm Đặng Ngọc Xuân Thiện ở Ngựa vòng, Nguyễn Văn Khánh Phong ở Vòng treo và Trịnh Hải Khang ở Nhảy chống."
-    },
-    {
-     "t": "p",
-     "text": "Trong khi đó, Karate tiếp tục mang về huy chương cho đoàn Thể thao Việt Nam. Ở trận tranh huy chương Đồng Kumite nữ hạng dưới 68kg, vận động viên Nguyễn Thị Diệu Ly hòa võ sỹ chủ nhà Nhật Bản Tsubasa Kama với tỷ số 4-4."
-    },
-    {
-     "t": "p",
-     "text": "Do là người ghi điểm trước, Diệu Ly được xử thắng theo luật Senshu, qua đó giành huy chương Đồng. Đây là tấm huy chương thứ ba của đoàn Thể thao Việt Nam tại ASIAD 2026, sau huy chương Đồng của Nguyễn Hoàng Minh Tân và Trịnh Gia Nghi ở nội dung Teqball đôi nam nữ, cùng huy chương Đồng của Bùi Ngọc Nhi ở nội dung Kata cá nhân nữ./."
-    },
-    {
-     "t": "h",
-     "text": "ASIAD 2026: Việt Nam kỳ vọng dấu ấn từ bơi, bắn súng và wushu"
-    },
-    {
-     "t": "p",
-     "text": "Bước vào ngày thi đấu thứ hai tại ASIAD 2026, các vận động viên Việt Nam tranh tài ở nhiều bộ môn, trong đó bơi, bắn súng và wushu là những môn được kỳ vọng tạo thêm dấu ấn."
-    }
-   ]
-  },
-  {
    "id": "6f7188c6f579",
-   "order": 14,
+   "order": 17,
    "slug": "chu-nha-cho-muon-ao-mua-nhom-hoc-sinh-gay-chu-y-vi-hanh-dong",
    "section": "guong-sang",
    "section_name": "Gương sáng & Tài năng trẻ",
@@ -2412,7 +2855,7 @@
   },
   {
    "id": "059a6c923878",
-   "order": 15,
+   "order": 18,
    "slug": "68-ngay-lai-xe-tu-ha-noi-den-paris",
    "section": "cuoi-tuan-di-dau",
    "section_name": "Cuối tuần đi đâu",
@@ -2585,7 +3028,7 @@
   },
   {
    "id": "bc6a0726781f",
-   "order": 16,
+   "order": 19,
    "slug": "ngon-nui-thieng-o-tay-tang-ly-do-nghin-nam-nay-chua-ai-leo-d",
    "section": "cuoi-tuan-di-dau",
    "section_name": "Cuối tuần đi đâu",
@@ -2729,449 +3172,6 @@
     {
      "t": "p",
      "text": "Năm 2001, một đoàn leo núi Tây Ban Nha từng lên kế hoạch chinh phục Kailash nhưng kế hoạch cuối cùng không được thực hiện."
-    }
-   ]
-  },
-  {
-   "id": "bd8949ae8045",
-   "order": 17,
-   "slug": "ngam-nhung-buc-tranh-nhu-dang-tho-cua-co-hoa-si-le-ba-dang",
-   "section": "sang-tao-kien-truc",
-   "section_name": "Sáng tạo & Kiến trúc",
-   "emoji": "🎨",
-   "title": "Ngắm những bức tranh như đang 'thở' của cố họa sĩ Lê Bá Đảng",
-   "sapo": "Những bức tranh in trên hai lớp giấy với kỹ thuật đặc biệt, tạo hiệu ứng thị giác khiến bề mặt tranh như chuyển động và ‘thở’ của cố họa sĩ Lê Bá Đảng.",
-   "author": "HOÀI PHƯƠNG",
-   "source_name": "Tuổi Trẻ",
-   "source_url": "https://tuoitre.vn/ngam-nhung-buc-tranh-nhu-dang-tho-cua-co-hoa-si-le-ba-dang-10026091915354896.htm",
-   "published": null,
-   "lang": "vi",
-   "score": 7,
-   "words": 676,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/bd8949ae8045-0.jpg",
-     "caption": "Nhà sưu tập Trần Thắng (phải) giới thiệu 60 tranh của cố họa sĩ Lê Bá Đảng - Ảnh: VĂN TRUNG",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-1.jpg",
-     "caption": "Ông Ngô Kim Khôi ngắm tranh in hai lớp của Lê Bá Đảng - Ảnh: VĂN TRUNG",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-2.jpg",
-     "caption": "Đạo diễn Phan Gia Nhật Linh xem tranh của cố họa sĩ Lê Bá Đảng tại triển lãm - Ảnh: VĂN TRUNG",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-3.jpg",
-     "caption": "Không gian triển lãm Thiên nhiên cầu nguyện không lời - Ảnh: VĂN TRUNG",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-4.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-5.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-6.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-7.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 853
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-8.jpg",
-     "caption": "",
-     "w": 600,
-     "h": 860
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-9.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 1722
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-10.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 1841
-    },
-    {
-     "src": "img/2026-09-22/bd8949ae8045-11.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 1875
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "img",
-     "i": 0
-    },
-    {
-     "t": "p",
-     "text": "Sáng 19-9, nhà sưu tập Trần Thắng khai mạc triển lãm tranh với chủ đề Thiên nhiên cầu nguyện không lời, tại TAA Gallery (TP.HCM)."
-    },
-    {
-     "t": "p",
-     "text": "Triển lãm trưng bày 60 tranh của cố họa sĩ Lê Bá Đảng, gồm 17 tranh Thiên nhiên cầu nguyện không lời và 43 tranh vẽ về hoa, thiên nhiên."
-    },
-    {
-     "t": "h",
-     "text": "Kỹ thuật in hai lớp gần như thất truyền"
-    },
-    {
-     "t": "p",
-     "text": "Nhà sưu tập Trần Thắng nói với Tuổi Trẻ rằng một trong những điểm đáng chú ý tại triển lãm là 11 tranh được cố họa sĩ Lê Bá Đảng thực hiện theo kỹ thuật in hai lớp. Theo ông Thắng, Việt Nam gần như chưa có bảo tàng nào sở hữu dòng tranh này."
-    },
-    {
-     "t": "p",
-     "text": "Nhà phê bình mỹ thuật Ngô Kim Khôi cho biết đây là một trong những kỹ thuật in xưa, hiện nay gần như thất truyền."
-    },
-    {
-     "t": "p",
-     "text": "Tranh được in trên hai lớp giấy. Lớp phía trước là giấy washi Nhật rất mỏng, bên dưới là giấy vẽ dày. Màu sắc và đường nét hiện diện trên cả hai lớp, tạo cảm giác có chiều sâu."
-    },
-    {
-     "t": "p",
-     "text": "Đáng chú ý, lớp washi chỉ được dán hờ nên bề mặt tranh có chuyển động nhẹ, khiến tranh như được \"bay\" lên và phập phồng theo nhịp thở."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Ông Ngô Kim Khôi cho biết chính khoảng cách rất nhỏ giữa hai lớp giấy tạo nên chiều sâu và hiệu ứng ánh sáng đặc biệt. Lớp giấy bên ngoài vừa che vừa phản chiếu hình ảnh phía trong, tạo cảm giác không gian trên một bề mặt hai chiều."
-    },
-    {
-     "t": "p",
-     "text": "\"Khoảng cách giữa hai lớp rất mỏng, mỏng hơn cả lụa, nhẹ như tơ\", ông chia sẻ."
-    },
-    {
-     "t": "p",
-     "text": "Theo ông Ngô Kim Khôi, chất liệu này không chỉ là nền để họa sĩ thể hiện ý tưởng mà còn trực tiếp tham gia vào việc tạo hình."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Đạo diễn Phan Gia Nhật Linh nhận xét tranh hai lớp rất kỳ công, không đơn giản như bề ngoài vốn có trong tranh Lê Bá Đảng."
-    },
-    {
-     "t": "p",
-     "text": "Đạo diễn nhấn mạnh người xem cần đến thưởng lãm trực tiếp để cảm nhận đầy đủ chất liệu và chiều sâu của dòng tranh này. Theo ông, nếu chỉ nhìn qua ảnh chụp, rất khó cảm nhận được hiệu ứng thị giác mà hai lớp giấy tạo ra."
-    },
-    {
-     "t": "h",
-     "text": "Hoa sen, triết lý Lão Tử trong tranh Lê Bá Đảng"
-    },
-    {
-     "t": "p",
-     "text": "Trong tranh Lê Bá Đảng, hoa hiếm khi được thể hiện theo lối tả thực. Cố họa sĩ không tập trung mô tả cánh, nhụy hay màu sắc theo quy luật mà biến hoa thành dấu vết của một trạng thái tinh thần. Hoa sen xuất hiện nhiều trong tranh của ông."
-    },
-    {
-     "t": "p",
-     "text": "Ngắm những bức tranh hoa của Lê Bá Đảng, người xem như được trở về với ký ức tuổi thơ, quê hương và đời sống tinh thần của một người Việt sống xa quê."
-    },
-    {
-     "t": "img",
-     "i": 3
-    },
-    {
-     "t": "p",
-     "text": "Cách đưa chữ vào tranh cũng là một nét đáng chú ý của cố họa sĩ Lê Bá Đảng. Theo ông Ngô Kim Khôi, tranh Lê Bá Đảng lấy cảm hứng từ triết lý Lão Tử. Những dòng chữ trong tranh không mang tính trang trí mà giống một sự bộc phát từ tư duy và cảm xúc của người sáng tác."
-    },
-    {
-     "t": "p",
-     "text": "Về màu sắc, tác giả dùng màu tương phản mạnh, nội dung giàu tính triết lý nhưng vẫn có khả năng tiếp cận người xem."
-    },
-    {
-     "t": "p",
-     "text": "Trong khi đó, nhóm tranh hoa có gam màu xanh dịu hơn, tạo cảm giác nhẹ nhàng và gần gũi. Hoa sen được Lê Bá Đảng sử dụng nhiều, bên cạnh các loài hoa và hình ảnh thiên nhiên khác."
-    },
-    {
-     "t": "p",
-     "text": "Nhà sưu tập Trần Thắng tiết lộ trong triển lãm sắp tới, ông dự định giới thiệu dòng tranh không gian của Lê Bá Đảng, được tạo bằng kỹ thuật đúc giấy nổi, tạo hiệu ứng không gian ba chiều."
-    },
-    {
-     "t": "img",
-     "i": 4
-    },
-    {
-     "t": "img",
-     "i": 5
-    },
-    {
-     "t": "img",
-     "i": 6
-    },
-    {
-     "t": "img",
-     "i": 7
-    },
-    {
-     "t": "p",
-     "text": "Triển lãm diễn ra tại TAA Gallery đến hết ngày 28-9 - Ảnh: VĂN TRUNG"
-    },
-    {
-     "t": "img",
-     "i": 8
-    },
-    {
-     "t": "img",
-     "i": 9
-    },
-    {
-     "t": "img",
-     "i": 10
-    },
-    {
-     "t": "img",
-     "i": 11
-    },
-    {
-     "t": "p",
-     "text": "Một số tranh của cố họa sĩ Lê Bá Đảng tại triển lãm"
-    }
-   ]
-  },
-  {
-   "id": "f2745e0896b4",
-   "order": 18,
-   "slug": "haaland-can-bang-ky-luc-cua-kane-o-ngoai-hang-anh",
-   "section": "the-thao-dep",
-   "section_name": "Thể thao đẹp",
-   "emoji": "⚽",
-   "title": "Haaland cân bằng kỷ lục của Kane ở Ngoại hạng Anh",
-   "sapo": "Anh Bàn thắng trong trận Man City thắng Sunderland 5-3 giúp Erling Haaland thành cầu thủ thứ hai trong lịch sử Ngoại hạng Anh ghi bàn vào lưới mọi đối thủ từng chạm trán ít nhất hai lần.",
-   "author": "Xuân Bình",
-   "source_name": "VnExpress",
-   "source_url": "https://vnexpress.net/haaland-can-bang-ky-luc-cua-kane-o-ngoai-hang-anh-5122981.html",
-   "published": "2026-09-21T09:26:40+07:00",
-   "lang": "vi",
-   "score": 7,
-   "words": 705,
-   "translated": false,
-   "translated_from": "",
-   "title_original": "",
-   "images": [
-    {
-     "src": "img/2026-09-22/f2745e0896b4-lead.jpg",
-     "caption": "",
-     "w": 1200,
-     "h": 675
-    },
-    {
-     "src": "img/2026-09-22/f2745e0896b4-0.jpg",
-     "caption": "Erling Haaland ăn mừng sau khi ghi bàn thứ năm cho Man City trong trận gặp Sunderland tại Ngoại hạng Anh ở Etihad, Manchester, Anh, ngày 20/9/2026. Ảnh: AP",
-     "w": 1020,
-     "h": 680
-    },
-    {
-     "src": "img/2026-09-22/f2745e0896b4-1.jpg",
-     "caption": "Những đội Ngoại hạng Anh bị Haaland chọc thủng lưới, tính đến hết ngày 20/9/2026. Đồ họa: Xuân Bình (AI hỗ trợ)",
-     "w": 1020,
-     "h": 1530
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Anh Bàn thắng trong trận Man City thắng Sunderland 5-3 giúp Erling Haaland thành cầu thủ thứ hai trong lịch sử Ngoại hạng Anh ghi bàn vào lưới mọi đối thủ từng chạm trán ít nhất hai lần."
-    },
-    {
-     "t": "p",
-     "text": "Trước trận đấu, Sunderland là đội duy nhất Haaland từng gặp tại Ngoại hạng Anh nhưng chưa ghi bàn. Tiền đạo Na Uy đã chơi hai trận gặp đối thủ này mùa trước nhưng không lập công, dù sút ba lần trong 159 phút."
-    },
-    {
-     "t": "p",
-     "text": "Điều đó thay đổi ở phút 81 trận đấu hôm 20/9. Haaland băng vào phía cột xa rồi trượt người đưa bóng vào lưới, nâng tỷ số lên 5-3 cho Man City. Bàn thắng ban đầu không được công nhận vì lỗi việt vị, nhưng VAR xác định Haaland không việt vị và trọng tài công nhận pha lập công."
-    },
-    {
-     "t": "img",
-     "i": 1
-    },
-    {
-     "t": "p",
-     "text": "Đây là bàn thắng thứ 117 của Haaland tại Ngoại hạng Anh và là bàn thứ năm của anh từ đầu mùa 2026-2027. Thành tích này giúp tiền đạo Man City tiếp tục dẫn đầu cuộc đua Vua phá lưới, hơn Alexander Isak một bàn."
-    },
-    {
-     "t": "p",
-     "text": "Haaland đã ghi bàn vào lưới cả 25 đội anh từng đối đầu tại Ngoại hạng Anh kể từ khi ra mắt giải đấu vào tháng 8/2022. Đây là thành tích đặc biệt bởi Haaland mới trải qua hơn bốn mùa giải ở Anh nhưng đã hoàn tất danh sách."
-    },
-    {
-     "t": "p",
-     "text": "Harry Kane là cầu thủ duy nhất trước Haaland từng chơi từ hai trận trở lên và ghi bàn trước mọi đối thủ mà anh gặp tại Ngoại hạng Anh. Kane từng ghi bàn vào lưới 32 đội khác nhau trong thời gian khoác áo Tottenham."
-    },
-    {
-     "t": "p",
-     "text": "Haaland hiện có thành tích 25/25, nhưng con số này vẫn có thể tăng lên 26/26 trước Giáng sinh. Man City chưa từng gặp Hull City khi Haaland thi đấu tại Ngoại hạng Anh. Hai đội dự kiến gặp nhau ngày 19/12, và nếu được sử dụng, Haaland sẽ cần ghi bàn để duy trì thành tích hoàn hảo trước các đối thủ từng chạm trán."
-    },
-    {
-     "t": "p",
-     "text": "Bộ sưu tập của Haaland được hình thành với hiệu suất khác nhau. West Ham là đội anh ghi nhiều bàn nhất, với 11 bàn sau tám trận. Crystal Palace và Wolverhampton đứng tiếp theo với 10 bàn mỗi đội, trong khi Man Utd là nạn nhân của chín bàn."
-    },
-    {
-     "t": "p",
-     "text": "Haaland cũng ghi tám bàn vào lưới Fulham, bảy bàn trước Everton và Brighton, sáu bàn trước Arsenal. Anh có năm bàn trước Burnley, Brentford và Nottingham Forest. Những đội còn lại trong danh sách gồm Ipswich Town, Southampton, Chelsea, Tottenham, Bournemouth, Leicester City, Liverpool, Leeds United, Sheffield United, Luton Town, Coventry City, Sunderland, Aston Villa và Newcastle."
-    },
-    {
-     "t": "img",
-     "i": 2
-    },
-    {
-     "t": "p",
-     "text": "Sunderland là trường hợp đặc biệt nhất. Sau hai trận không ghi bàn, Haaland cuối cùng cũng chọc thủng lưới đối thủ. Trước đó, anh cũng bỏ lỡ vài cơ hội, trong đó có cú đệm bóng trước cầu môn trống nhưng chệch cột."
-    },
-    {
-     "t": "p",
-     "text": "Enzo Fernandez, Rayan Cherki và Antoine Semenyo với hai bàn, đưa Man City vượt lên, trước khi Haaland ghi bàn thứ năm cho đội chủ nhà. Tiền đạo Brian Brobbey lập hat-trick, nhưng không thể giúp đội khách tránh thất bại 3-5 ."
-    },
-    {
-     "t": "p",
-     "text": "Hat-trick của Brobbey cũng giúp anh trở thành cầu thủ đầu tiên ghi ba bàn trong một trận Ngoại hạng Anh nhưng vẫn nhận thất bại kể từ Roque Santa Cruz của Blackburn trong trận gặp Wigan tháng 12/2007. Brobbey cũng là cầu thủ Sunderland đầu tiên lập hat-trick tại giải kể từ Jermain Defoe cách đây một thập kỷ."
-    },
-    {
-     "t": "p",
-     "text": "Trong khi đó, Haaland tiếp tục xây dựng những cột mốc cá nhân sau khi gia nhập Man City. Tuy nhiên, thành tích ghi bàn trước mọi đối thủ từng gặp vẫn còn cách khá xa kỷ lục về số đội khác nhau mà một cầu thủ ghi bàn tại Ngoại hạng Anh."
-    },
-    {
-     "t": "p",
-     "text": "Frank Lampard hiện giữ kỷ lục với 39 đội khác nhau trong sự nghiệp. Andrew Cole đứng sau với 38 đội, còn Jermain Defoe và Alan Shearer cùng có 37. Haaland còn nhiều thời gian để cải thiện con số 25."
-    },
-    {
-     "t": "p",
-     "text": "Xuân Bình (theo ESPN , Opta )"
-    }
-   ]
-  },
-  {
-   "id": "f46802d17a52",
-   "order": 19,
-   "slug": "bo-nao-nguoi-co-the-lon-nhu-ngay-nay-phan-lon-la-nho-vi-ngot",
-   "section": "kham-pha-khoa-hoc",
-   "section_name": "Khám phá khoa học",
-   "emoji": "🔬",
-   "title": "Bộ não người có thể lớn như ngày nay phần lớn là nhờ vị ngọt",
-   "sapo": "Thịt cũng rất quan trọng. Nhưng trong suốt quá trình tiến hóa của loài người, trái cây có thể đã nuôi dưỡng phần lớn sự phát triển bộ não ở các họ hàng linh trưởng và tổ tiên xa xưa của chúng ta.",
-   "author": "Jake Buehler",
-   "source_name": "Science News Explores",
-   "source_url": "https://www.snexplores.org/article/sugar-evolution-human-brain",
-   "published": "2026-09-18T10:30:00+07:00",
-   "lang": "vi-dich",
-   "score": 7,
-   "words": 1197,
-   "translated": true,
-   "translated_from": "Science News Explores",
-   "title_original": "The human brain may owe a lot of its size to our love of sweets",
-   "images": [
-    {
-     "src": "img/2026-09-22/f46802d17a52-lead.jpg",
-     "caption": "",
-     "w": 1280,
-     "h": 720
-    }
-   ],
-   "lead": 0,
-   "blocks": [
-    {
-     "t": "p",
-     "text": "Sự thèm ngọt của chúng ta có thể đã tạo tiền đề để bộ não người trở nên to lớn và mạnh mẽ. Đó là phát hiện của một nghiên cứu mới."
-    },
-    {
-     "t": "p",
-     "text": "Bộ não của tổ tiên đi thẳng đứng của chúng ta, khoảng 4 triệu năm trước, chỉ nặng chừng 300 gram. Con số này gần bằng một quả táo cỡ vừa. Ngày nay, bộ não người trung bình nặng 1.500 gram. Con số này gần bằng 1,5 lít nước. Phần lớn sự phát triển này của bộ não diễn ra trước khi con người thời cổ làm chủ được lửa và việc nấu ăn. Đó là mốc đánh dấu thời điểm họ có thể bắt đầu thường xuyên ăn các loại tinh bột giàu năng lượng."
-    },
-    {
-     "t": "p",
-     "text": "Carbohydrate (chất bột đường) gồm hai nhóm chính. Đường thường là những phân tử tương đối đơn giản. Tinh bột thường lớn hơn và phức tạp hơn. Một phân tích mới về các dữ liệu đã có từ tổ tiên loài người, cũng như từ tinh tinh, cho thấy phần lớn năng lượng của họ có lẽ đến từ các loại carb có vị ngọt, chẳng hạn như đường trong trái cây và mật ong."
-    },
-    {
-     "t": "p",
-     "text": "Các nhà nghiên cứu hiện kết luận rằng đường đơn có thể đã đóng một vai trò bị bỏ quên — nhưng rất quan trọng — trong quá trình tiến hóa của loài người. Họ giải thích lý do trong số ra ngày 6 tháng 8 của tạp chí Science."
-    },
-    {
-     "t": "p",
-     "text": "Cho đến nay, phần lớn các nghiên cứu về việc chế độ ăn ảnh hưởng thế nào đến tiến hóa loài người đều tập trung vào thịt. Khoảng 2,5 triệu năm trước, tổ tiên đi thẳng đứng thời sơ khai của chúng ta bắt đầu ăn nhiều thịt hơn — ban đầu là thịt sống, sau đó dần dần là thịt nấu chín. Thịt giàu chất đạm và chất béo. Và điều đó dường như đã đóng vai trò lớn trong việc cung cấp năng lượng cho bộ não ngày càng phát triển của tổ tiên chúng ta. Nhưng Jennie Brand-Miller cho rằng câu chuyện còn nhiều hơn thế. Là một nhà khoa học dinh dưỡng tại Đại học Sydney, Úc, bà tự hỏi đường có thể đã ảnh hưởng thế nào đến sự tiến hóa bộ não của chúng ta."
-    },
-    {
-     "t": "p",
-     "text": "Một nghiên cứu năm 2017 đã cho thấy các loài linh trưởng ăn trái cây có bộ não lớn hơn những loài ăn lá. Việc ăn trái cây làm tăng yêu cầu đối với nhiều quá trình tư duy khác nhau, các nhà nghiên cứu khác đã đề xuất điều này từ hai thập kỷ trước đó. Liệu điều này có thể đã khởi động quá trình tiến hóa của những bộ não lớn ở con người?"
-    },
-    {
-     "t": "p",
-     "text": "Brand-Miller giải thích: \"Bạn cần nhớ khi nào các loài trái cây chín khác nhau bắt đầu chín, rồi bạn cần nhớ nó ở đâu trong khu rừng.\" Và bà nói thêm: \"Trí nhớ của bạn có liên quan đến một bộ não lớn hơn.\""
-    },
-    {
-     "t": "p",
-     "text": "Brand-Miller lưu ý rằng các loài linh trưởng hóa thạch và sau này là các loài người cổ, chẳng hạn như Homo erectus, có dấu hiệu sâu răng. Điều này cho thấy một chế độ ăn chứa các thức ăn mềm, có vị ngọt. (Homo erectus là loài đầu tiên trong số các họ hàng cổ xưa của chúng ta mạo hiểm ra khỏi châu Phi; đó là 2 triệu năm trước)."
-    },
-    {
-     "t": "p",
-     "text": "\"Tất cả những điều này cứ tiếp tục thêm những mảnh ghép vào bức tranh tuyệt đẹp này, câu đố này cho thấy đường có trong trái cây hẳn phải rất quan trọng [đối với quá trình tiến hóa của loài người],\" bà nói."
-    },
-    {
-     "t": "p",
-     "text": "Hãy gửi câu hỏi của em tại đây, biết đâu chúng tôi sẽ trả lời trong một số báo sắp tới của Science News Explores."
-    },
-    {
-     "t": "h",
-     "text": "Vậy còn thịt thì sao?"
-    },
-    {
-     "t": "p",
-     "text": "Brand-Miller là thành viên của một nhóm nghiên cứu đã tính toán nhu cầu dinh dưỡng của tinh tinh, con người và ba loài tổ tiên loài người thời cổ. Để làm điều này, các nhà nghiên cứu đã kết hợp dữ liệu từ hóa thạch, răng, quá trình trao đổi chất (metabolism) của các loài và sinh học của các quá trình trong cơ thể."
-    },
-    {
-     "t": "p",
-     "text": "Họ phát hiện tổ tiên xa xưa nhất giống tinh tinh của chúng ta, sống cách đây khoảng 4 triệu năm, chủ yếu ăn thực vật. Trái cây có lẽ cung cấp hơn hai phần ba năng lượng từ thức ăn cho họ. Dữ liệu cũng cho thấy trái cây đóng vai trò lớn khi bộ não của người vượn cổ (hominid) phát triển trong hàng triệu năm tiếp theo."
-    },
-    {
-     "t": "p",
-     "text": "Những kỹ năng kiếm ăn khéo léo hẳn đã giúp nuôi dưỡng bộ não ngốn nhiều năng lượng của họ. Những kỹ năng đó bao gồm săn bắt, đập vỡ hạt, nghiền hạt giống hoặc lấy tủy xương. Về sau, khi việc nấu ăn trở nên phổ biến, con người có thể chuyển sang ăn tinh bột (như ngũ cốc, đậu và củ). Nhưng nhu cầu liên tục về thức ăn có đường dường như vẫn là yếu tố then chốt trong quá trình tiến hóa của chúng ta. Và nhu cầu đó không biến mất sau khi con người chuyển sang ăn nhiều thực phẩm giàu đạm và chất béo, như thịt."
-    },
-    {
-     "t": "p",
-     "text": "Thịt và đường? \"Tôi coi đó là hai câu chuyện song song, chứ không phải cái này thay thế cái kia,\" Brand-Miller nói. \"Thức ăn từ động vật rõ ràng rất quan trọng. Chúng rất giàu dưỡng chất.\""
-    },
-    {
-     "t": "p",
-     "text": "Julie Lee-Thorp đồng ý rằng việc trước đây quá chú trọng vào chuyện ăn thịt có thể đã bỏ sót một số xu hướng ăn uống từng giúp bộ não con người phát triển. Bà là nhà khảo cổ học tại Đại học Oxford ở Anh. Bà không tham gia vào nghiên cứu mới này."
-    },
-    {
-     "t": "p",
-     "text": "Bà nói thêm rằng việc tập trung vào vai trò của thịt có thể phản ánh một thiên kiến của thời hiện đại. \"Ngày nay thịt là món ăn có địa vị cao,\" Lee-Thorp nhận xét. \"Và điều đó có lẽ đã ảnh hưởng đến cách chúng ta nghĩ về quá khứ.\""
-    },
-    {
-     "t": "p",
-     "text": "Nhưng Brian Wood phần lớn không đồng tình với điều đó. Ông cho rằng việc nghiên cứu quá trình tiến hóa của loài người không hề bị ám ảnh bởi chuyện ăn thịt. Wood là nhà nhân chủng học sinh học (biological anthropologist), làm việc tại Đại học California, Los Angeles. Ông cho rằng nhiều loại thức ăn khác nhau đã nuôi dưỡng quá trình tiến hóa của chúng ta. Và những thức ăn đó có được là nhờ \"khả năng ngày càng tăng trong việc bắt và thu hoạch những nguồn thức ăn chất lượng cao, khó kiếm được\" của tổ tiên chúng ta. Điều này đương nhiên bao gồm cả săn bắt. Nhưng ông nói thêm, việc kiếm tìm trái cây, mật ong, hạt và các bộ phận dưới lòng đất của cây cũng là một phần trong đó."
     }
    ]
   },

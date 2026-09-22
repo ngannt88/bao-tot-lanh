@@ -70,7 +70,7 @@
        edge: một file cả bài kèm mốc theo câu → làm sáng đúng CÂU đang đọc          */
   const player = {
     el: null, meta: null, cache: null, article: null, part: 0, cues: [], cur: -1,
-    base: "", triedWhole: false,
+    base: "", triedWhole: false, played: false,
     setBtn(on) {
       const b = document.getElementById("play");
       if (b) b.innerHTML = on ? "⏸ Dừng đọc" : "🔊 Nghe đọc bài này";
@@ -96,6 +96,9 @@
     async loadMeta(a) {
       const m = await fetchJson(`data/audio/${state.issue.date}/${a.id}.json`);
       this.cache = { id: a.id, meta: m };
+      // Chỉ 10 bài đầu có giọng. Biết trước bài này không có thì tắt nút luôn, đừng để
+      // con bấm rồi nghe giọng máy — giọng đó đã bị bác bỏ.
+      if (!m && state.issue?.articles?.[state.idx]?.id === a.id) this.noAudio();
       if (!m || this.article?.id !== a.id) return;
       this.meta = m; this.cues = m.cues || [];
       if (m.parts?.length) this.markWhole((m.parts[this.part] || m.parts[0]).p);
@@ -107,7 +110,11 @@
     playFile(f) {
       const el = this.ensureEl();
       el.src = this.base + f;
-      el.play().then(() => this.setBtn(true)).catch(() => this.onError());
+      el.play().then(() => { this.played = true; this.setBtn(true); }).catch(() => this.onError());
+    },
+    noAudio() {
+      const b = document.getElementById("play");
+      if (b) { b.disabled = true; b.textContent = "Bài này chưa có giọng đọc"; }
     },
     toggle(a) {
       if (!a) return;
@@ -117,12 +124,11 @@
         else { el.pause(); this.setBtn(false); }
         return;
       }
-      if (window.speechSynthesis?.speaking) { this.stop(); return; }
       this.article = a;
       this.base = `data/audio/${state.issue.date}/`;
       this.meta = this.cache?.id === a.id ? this.cache.meta : null;
       this.cues = this.meta?.cues || [];
-      this.part = 0; this.cur = -1; this.triedWhole = false;
+      this.part = 0; this.cur = -1; this.triedWhole = false; this.played = false;
       // Mô tả chưa kịp về thì đoán tên tệp theo quy ước rồi phát luôn; đoán sai đã có onError lo.
       this.playFile(this.meta ? this.fileAt(0) : `${a.id}-0.mp3`);
       if (this.meta?.parts?.length) this.markWhole(this.meta.parts[0].p);
@@ -151,7 +157,9 @@
         this.playFile(`${this.article.id}.mp3`);
         return;
       }
-      this.fallback(this.article);
+      // Đã đọc được rồi mà đoạn cuối hỏng thì chỉ dừng, đừng báo là không có giọng
+      if (!this.played) this.noAudio();
+      this.stop();
     },
     onTime() {
       if (this.cues.length) this.tickCues(this.el.currentTime);
@@ -192,19 +200,10 @@
         if (el.querySelector(".sent")) el.textContent = el.dataset.text || el.textContent;
       });
     },
-    fallback(a) {   // chưa có file giọng đọc → dùng giọng có sẵn của máy
-      if (!("speechSynthesis" in window)) { const b = document.getElementById("play"); if (b) { b.textContent = "Máy này chưa đọc được"; b.disabled = true; } return; }
-      const u = new SpeechSynthesisUtterance([a.title, a.sapo, ...(a.blocks || []).filter(b => b.text).map(b => b.text)].join(". "));
-      const v = speechSynthesis.getVoices().find(v => /^vi/i.test(v.lang)); if (v) u.voice = v;
-      u.lang = "vi-VN"; u.rate = 0.92;
-      u.onend = u.onerror = () => this.setBtn(false);
-      speechSynthesis.cancel(); speechSynthesis.speak(u); this.setBtn(true);
-    },
     stop() {
       // GIỮ lại this.el: một khi đã được cú chạm mở khóa thì dùng lại được mãi trên iPad
       if (this.el) { this.el.pause(); this.el.removeAttribute("src"); this.el.load(); }
-      if (window.speechSynthesis) speechSynthesis.cancel();
-      this.article = null; this.meta = null; this.cues = []; this.cur = -1; this.part = 0;
+      this.article = null; this.played = false; this.meta = null; this.cues = []; this.cur = -1; this.part = 0;
       this.clearMarks(); this.setBtn(false);
     },
   };
