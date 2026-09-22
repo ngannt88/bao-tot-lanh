@@ -414,6 +414,20 @@ audio:
   max_articles: 10              # chỉ tạo giọng cho mấy bài đầu (mỗi bài ~1,6 MB)
 
 # ---------------------------------------------------------------------
+#  DỌN DẸP — giữ lại mấy ngày gần nhất, tự xóa phần cũ.
+#  Vì sao quan trọng: mỗi ngày tải về ~80 MB ảnh ứng viên và đăng ~27 MB ảnh lên
+#  web. Không dọn thì ổ đĩa đầy dần và trang web vượt hạn mức 1 GB của GitHub
+#  Pages sau khoảng một tháng — cả tờ báo sẽ ngừng hoạt động.
+#  Muốn con xem lại được nhiều số cũ hơn thì tăng keep_issue_days, nhưng mỗi
+#  ngày thêm khoảng 27 MB trên web.
+# ---------------------------------------------------------------------
+storage:
+  keep_issue_days: 10       # số báo cũ (kèm ảnh) còn xem lại được ở mục Số cũ
+  keep_candidate_days: 2    # ảnh ứng viên trên máy — chỉ cần trong lúc duyệt
+  keep_raw_days: 7          # tin thô và danh sách ứng viên (tệp nhẹ, để soát lại)
+  keep_log_days: 30         # log chạy hằng ngày
+
+# ---------------------------------------------------------------------
 #  DỊCH — bài từ nguồn tiếng Anh được dịch SÁT sang tiếng Việt, không viết lại.
 #  Giữ nguyên số đoạn, ảnh và chú thích. Mỗi bài ghi rõ "Dịch từ <nguồn>".
 # ---------------------------------------------------------------------
@@ -557,8 +571,9 @@ sources:
   - {id: kienthuc-khoa-hoc,    name: Kiến Thức,  lang: vi, section: kham-pha-khoa-hoc,  url: "https://kienthuc.net.vn/rss/khoa-hoc-cong-nghe-8.rss", enabled: false}  # nhiều tít giật gân, tắt mặc định
   # ---- Du lịch & trải nghiệm (cho mục "Cuối tuần đi đâu") ----
   - {id: thanhnien-du-lich,    name: Thanh Niên, lang: vi, section: cuoi-tuan-di-dau,   url: "https://thanhnien.vn/rss/du-lich.rss"}
-  - {id: znews-du-lich,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/du-lich.rss", max_age_h: 96}
-  - {id: znews-am-thuc,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/am-thuc.rss", max_age_h: 96}
+  # Znews đổi tên miền nhưng bài vẫn nằm ở zingnews.vn → phải cho phép, nếu không bị coi là bài ngoài nguồn
+  - {id: znews-du-lich,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/du-lich.rss", max_age_h: 96, allow_hosts: ["zingnews.vn"]}
+  - {id: znews-am-thuc,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/am-thuc.rss", max_age_h: 96, allow_hosts: ["zingnews.vn"]}
 
   # ---- Thiếu niên Tiền phong & Nhi đồng (báo viết cho trẻ em, không có RSS → lấy từ trang chuyên mục) ----
   - {id: thieunien-guong-mat,  name: Thiếu niên Tiền phong, lang: vi, section: guong-sang,        type: html, url: "https://thieunien.vn/hoc-duong/guong-mat",    link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}

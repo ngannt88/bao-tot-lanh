@@ -55,13 +55,42 @@ def _norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+# Bảng bitrate và tần số của mp3 Layer III, để đo thời lượng không cần thư viện ngoài.
+_BR_V1 = (0, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 320, 0)
+_BR_V2 = (0, 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 144, 160, 0)
+_SR = {3: (44100, 48000, 32000), 2: (22050, 24000, 16000), 0: (11025, 12000, 8000)}
+
+
 def _mp3_seconds(data: bytes) -> float:
-    """Ước thời lượng mp3 bằng cách đếm khung. Đủ chính xác để nối đoạn và làm sáng chữ."""
-    try:
-        from mutagen.mp3 import MP3
-        return MP3(io.BytesIO(data)).info.length
-    except Exception:
-        return max(1.0, len(data) / 4000)      # gTTS ~32 kbps → 4000 byte mỗi giây
+    """Đo thời lượng mp3 bằng cách đi qua từng khung.
+
+    Đã trả giá: trước đây ước theo kích thước tệp (32 kbps). gTTS thực ra trả mp3
+    nặng hơn nhiều, nên thời lượng bị tính dài gấp hơn ba lần và vạch tiến độ trong
+    app gần như không nhích (hết bài mới tới 29%). Đếm khung thì chính xác.
+    """
+    i, n, total = 0, len(data), 0.0
+    if data[:3] == b"ID3" and n > 10:            # bỏ qua thẻ ID3v2 ở đầu tệp
+        i = 10 + ((data[6] & 0x7F) << 21 | (data[7] & 0x7F) << 14
+                  | (data[8] & 0x7F) << 7 | (data[9] & 0x7F))
+    while i < n - 3:
+        if data[i] != 0xFF or (data[i + 1] & 0xE0) != 0xE0:
+            i += 1
+            continue
+        ver = (data[i + 1] >> 3) & 3             # 3 = MPEG1, 2 = MPEG2, 0 = MPEG2.5
+        layer = (data[i + 1] >> 1) & 3           # 1 = Layer III
+        br_i, sr_i = (data[i + 2] >> 4) & 0xF, (data[i + 2] >> 2) & 3
+        if ver == 1 or layer != 1 or sr_i == 3 or br_i in (0, 15):
+            i += 1
+            continue
+        br = (_BR_V1 if ver == 3 else _BR_V2)[br_i] * 1000
+        sr, spf = _SR[ver][sr_i], (1152 if ver == 3 else 576)
+        length = spf // 8 * br // sr + ((data[i + 2] >> 1) & 1)
+        if length < 24:
+            i += 1
+            continue
+        total += spf / sr
+        i += length
+    return total if total > 0 else max(1.0, n / 13600)   # tệp lạ: ước theo byte
 
 
 # --------------------------------------------------------------------------- gTTS
@@ -175,6 +204,25 @@ async def _run_edge(articles: list[dict], out_dir: Path, voice: str, rate: str) 
 
 
 # --------------------------------------------------------------------------- chung
+def _prune_orphans(out_dir: Path, keep_ids: set[str]) -> int:
+    """Xóa tệp giọng của những bài KHÔNG còn trong số báo.
+
+    Vì sao cần: cha mẹ duyệt lại, đổi bài, hay chạy lại pipeline thì bài cũ rời số
+    báo nhưng mp3 vẫn nằm trong thư mục và vẫn bị đẩy lên web. Đã có ngày dư 14 tệp
+    không ai nghe, nặng hơn 30 MB.
+    """
+    if not out_dir.exists():
+        return 0
+    n = 0
+    for f in out_dir.iterdir():
+        if f.is_file() and f.stem.split("-")[0] not in keep_ids:
+            f.unlink(missing_ok=True)
+            n += 1
+    if n:
+        log.info("Xóa %d tệp giọng của bài không còn trong số báo", n)
+    return n
+
+
 def cleanup(keep_days: int = KEEP_DAYS) -> int:
     if not AUDIO.exists():
         return 0
@@ -197,9 +245,15 @@ def build(day: str | None = None, cfg: dict | None = None) -> dict:
         return {"error": f"chưa có số báo {day}"}
     out_dir = AUDIO / day
     limit = int(tc.get("max_articles", 10))
+    keep_days = int(tc.get("keep_days", KEEP_DAYS))
+    # Giữ giọng của MỌI bài còn trong số báo, không chỉ 10 bài đầu: max_articles giới hạn
+    # việc TẠO thêm, không phải lý do xóa tệp đang dùng tốt.
+    orphans = _prune_orphans(out_dir, {a["id"] for a in issue["articles"]})
     todo = [a for a in issue["articles"][:limit] if not (out_dir / f"{a['id']}.json").exists()]
     if not todo:
-        return {"day": day, "made": 0, "note": "đã có đủ"}
+        # vẫn phải dọn: trước đây thoát sớm ở đây nên ngày cũ không bao giờ bị xóa
+        return {"day": day, "made": 0, "note": "đã có đủ", "orphans": orphans,
+                "removed_days": cleanup(keep_days)}
 
     engine = tc.get("engine", "gtts")
     t0 = time.time()
@@ -214,12 +268,13 @@ def build(day: str | None = None, cfg: dict | None = None) -> dict:
     else:
         res = asyncio.run(_run_edge(todo, out_dir, tc.get("voice", VOICE), tc.get("rate", RATE)))
 
-    removed = cleanup(int(tc.get("keep_days", KEEP_DAYS)))
+    removed = cleanup(keep_days)
     mb = sum(r["kb"] for r in res) / 1024
     log.info("Giọng đọc %s (%s): %d/%d bài, %.1f MB, %.0fs (xóa %d ngày cũ)",
              day, engine, len(res), len(todo), mb, time.time() - t0, removed)
     return {"day": day, "engine": engine, "made": len(res), "failed": len(todo) - len(res),
-            "mb": round(mb, 1), "secs": round(time.time() - t0), "removed_days": removed}
+            "mb": round(mb, 1), "secs": round(time.time() - t0), "removed_days": removed,
+            "orphans": orphans}
 
 
 if __name__ == "__main__":

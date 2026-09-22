@@ -140,18 +140,35 @@ def _download_image(url: str, dest: Path) -> tuple[int, int] | None:
         return None
 
 
+BODY_ENOUGH = 800     # ~150 chữ: đủ dài thì tin khung riêng của báo, không cần readability
+
+
 def _body_container(soup: BeautifulSoup, html: bytes, rules: dict) -> Tag | None:
-    for s in rules.get("body", []):
-        el = soup.select_one(s)
-        if el and len(el.find_all("p")) >= 3:
-            return el
+    """Chọn khung có nhiều chữ nhất trong các khung khớp; khung quá mỏng thì so với readability.
+
+    Trước đây lấy khung khớp ĐẦU TIÊN có từ 3 đoạn trở lên. Với IEEE Spectrum khung đó
+    chỉ là phần dẫn nhập: bài ra 68 chữ, bị loại vì dưới ngưỡng, coi như mất hẳn một
+    nguồn công nghệ mà vẫn báo "nguồn ổn".
+    """
+    best, best_len = None, 0
+    for sel in rules.get("body", []):
+        for el in soup.select(sel):
+            if len(el.find_all("p")) < 3:
+                continue
+            n = len(el.get_text(" ", strip=True))
+            if n > best_len:
+                best, best_len = el, n
+    if best is not None and best_len >= BODY_ENOUGH:
+        return best
     try:
         from readability import Document
-        doc = Document(html)
-        return BeautifulSoup(doc.summary(html_partial=True), "lxml")
+        alt = BeautifulSoup(Document(html).summary(html_partial=True), "lxml")
+        # phải DÀI HƠN HẲN mới đổi, tránh thay khung đúng bằng một mớ menu
+        if len(alt.get_text(" ", strip=True)) > max(best_len * 1.5, 200):
+            return alt
     except Exception as e:
         log.warning("readability lỗi: %s", e)
-        return None
+    return best
 
 
 def extract_article(a: dict, img_dir: Path, min_words: int | None = None) -> dict:

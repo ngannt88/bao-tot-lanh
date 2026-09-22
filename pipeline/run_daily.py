@@ -81,6 +81,10 @@ def main():
     payload = save(day, cfg, ok, has_scores, blocked, rejected_score, bad)
     if not args.no_mark:
         mark_seen(raw)
+    # Ảnh ứng viên rất nặng (~80 MB mỗi ngày). Dọn ngay sau khi lưu, nếu không ổ đĩa
+    # sẽ đầy dần mà không ai để ý.
+    from housekeeping import run as tidy
+    tidy(cfg)
 
     print(f"\nỨNG VIÊN NGÀY {day}: {len(ok)} bài" + ("" if has_scores else "  (chưa có điểm AI)"))
     for a in ok:

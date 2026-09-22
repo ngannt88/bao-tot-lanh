@@ -63,9 +63,8 @@ def build_issue(day: str, ids: list[str], cfg: dict) -> dict:
     }
     write_json(ISSUES / f"{day}.json", issue)
     write_json(SITE_DATA / "latest.json", issue)
-    index = read_json(SITE_DATA / "index.json", {"issues": []})
-    index["issues"] = sorted({*index["issues"], day}, reverse=True)[:90]
-    write_json(SITE_DATA / "index.json", index)
+    from housekeeping import reindex
+    reindex()            # index.json = đúng những số báo còn trên đĩa, không kê ngày đã xóa
     log.info("Đã ghi số báo %s: %d bài", day, len(items))
     return issue
 
@@ -129,8 +128,14 @@ def publish(day: str, ids: list[str], cfg: dict, push: bool = True, audio: bool 
         except Exception as e:                      # giọng đọc hỏng thì vẫn ra báo, chỉ là không có nút nghe
             log.warning("Giọng đọc lỗi: %s", str(e)[:120])
             audio_info = {"error": str(e)[:120]}
+    # Dọn ngày cũ TRƯỚC khi đẩy, để cây thư mục lên web đã gọn. Không dọn thì mỗi
+    # ngày trang web phình thêm ~27 MB ảnh và vượt hạn mức 1 GB của GitHub Pages
+    # sau khoảng một tháng.
+    from housekeeping import run as tidy
+    tidied = tidy(cfg)
     ok, msg = (True, "không đẩy") if not push else git_push(day)
-    return {"ok": ok, "message": msg, "count": len(issue["articles"]), "date": day, "audio": audio_info}
+    return {"ok": ok, "message": msg, "count": len(issue["articles"]), "date": day,
+            "audio": audio_info, "don_dep": tidied}
 
 
 def auto_pick(day: str, cfg: dict) -> list[str]:

@@ -11,6 +11,33 @@ MAX_AGE_H = 36          # chỉ lấy bài trong 1,5 ngày
 MAX_PER_FEED = 30
 
 
+# Hậu tố cấp hai của tên miền quốc gia: "dantri.com.vn" phải giữ 3 nhãn, "ieee.org" giữ 2.
+_SLD = {"com", "net", "org", "edu", "gov", "co", "ac"}
+
+
+def _domain(host: str) -> str:
+    parts = (host or "").lower().lstrip(".").split(".")
+    if len(parts) > 2 and len(parts[-1]) == 2 and parts[-2] in _SLD:
+        return ".".join(parts[-3:])
+    return ".".join(parts[-2:])
+
+
+def _same_site(link: str, feed_url: str, allow: list[str]) -> bool:
+    """Bài trong RSS phải thuộc đúng tên miền của nguồn.
+
+    Vì sao bắt buộc: cả hệ thống dựa trên whitelist nguồn, nhưng RSS của một số báo có
+    chèn bài tài trợ trỏ sang tên miền khác. Đã gặp thật: feed IEEE Spectrum trả bài
+    quảng cáo ở content.knowledgehub.wiley.com và bài đó tách nội dung "thành công",
+    tức là suýt lên báo cho con đọc như một bài công nghệ bình thường.
+    """
+    from urllib.parse import urlparse
+    host = urlparse(link).netloc.lower()
+    if not host:
+        return False
+    d = _domain(host)
+    return d == _domain(urlparse(feed_url).netloc) or d in {_domain(h) for h in allow}
+
+
 def _fetch(src: dict) -> list[dict]:
     try:
         r = http_get(src["url"], HEADERS, 20)
@@ -19,12 +46,15 @@ def _fetch(src: dict) -> list[dict]:
         log.warning("Feed lỗi %s: %s", src["id"], str(e)[:100])
         return []
     fp = feedparser.parse(r.content)
-    out = []
+    out, off_site = [], []
     now = time.time()
     for e in fp.entries[:MAX_PER_FEED]:
         link = (e.get("link") or "").strip()
         title = strip_html(e.get("title"))
         if not link or not title:
+            continue
+        if not _same_site(link, src["url"], src.get("allow_hosts") or []):
+            off_site.append(link)
             continue
         ts = e.get("published_parsed") or e.get("updated_parsed")
         age_h = (now - time.mktime(ts)) / 3600 if ts else None
@@ -51,7 +81,10 @@ def _fetch(src: dict) -> list[dict]:
             "hint_section": src.get("section"),
             "image_src": img,
         })
-    log.info("Feed %-28s %3d bài", src["id"], len(out))
+    log.info("Feed %-28s %3d bài%s", src["id"], len(out),
+             f" (bỏ {len(off_site)} bài ngoài tên miền)" if off_site else "")
+    if off_site:
+        log.debug("Ngoài tên miền (%s): %s", src["id"], ", ".join(off_site[:3]))
     return out
 
 

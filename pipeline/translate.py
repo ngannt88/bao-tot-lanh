@@ -17,7 +17,7 @@ log = setup_logging()
 PARALLEL = 3          # số bài dịch cùng lúc
 CHUNK_PARAS = 10      # số đoạn mỗi lần gọi
 CHUNK_CHARS = 4000    # hoặc cắt lô khi đủ ngần này ký tự
-MAX_CHARS = 12000     # bài dài hơn thì bỏ phần đuôi
+MAX_CHARS = 18000     # dài hơn nữa thì BỎ bài, không đăng bản cụt đuôi
 TEXT_KINDS = ("p", "h", "q", "li")
 MARK = re.compile(r"^@@([A-Z]+\d*)@@\s*$", re.M)
 
@@ -77,6 +77,21 @@ def _ask_block(pairs: list[tuple[str, str]], cfg: dict, model: str) -> dict[str,
     return got
 
 
+# Tên riêng tiếng Việt KHÁC hẳn tên tiếng Anh nên không tìm lại được trong tiêu đề gốc
+# ("Japan" → "Nhật Bản"). Không giữ danh sách này thì tiêu đề dịch ra "ở nhật bản", trông
+# như viết sai chính tả. Chỉ so theo CỤM, không so từng từ, để "anh", "mặt", "sao", "nam"
+# đứng một mình vẫn được hạ xuống bình thường.
+_PROPER = tuple(x.split() for x in (
+    "việt nam", "nhật bản", "hàn quốc", "triều tiên", "trung quốc", "hoa kỳ", "ấn độ",
+    "thái lan", "hà nội", "sài gòn", "đà nẵng", "hạ long", "trường sa", "hoàng sa",
+    "trái đất", "mặt trời", "mặt trăng", "dải ngân hà", "hệ mặt trời",
+    "sao hỏa", "sao kim", "sao mộc", "sao thổ", "sao thủy", "bắc cực", "nam cực",
+    "thái bình dương", "đại tây dương", "ấn độ dương", "bắc băng dương", "biển đông",
+    "châu á", "châu âu", "châu phi", "châu mỹ", "châu đại dương", "đông nam á",
+    "bắc mỹ", "nam mỹ", "ngũ đại hồ", "tây ban nha", "bồ đào nha", "ả rập",
+))
+
+
 def _fix_title_case(vi: str, en: str) -> str:
     """Model hay bắt chước Title Case của tiêu đề tiếng Anh ("Những Con Số Kỳ Diệu").
     Tiếng Việt chỉ viết hoa chữ đầu và tên riêng, nên hạ xuống, giữ lại từ nào vốn
@@ -88,10 +103,19 @@ def _fix_title_case(vi: str, en: str) -> str:
     if upper / max(1, len(words) - 1) < 0.5:          # không phải Title Case → để yên
         return vi
     keep = {w.strip(".,:;!?'\"") for w in en.split() if w[:1].isupper()}
+    bares = [w.strip(".,:;!?'\"") for w in words]
+    low = [b.lower() for b in bares]
+    proper = [False] * len(words)
+    for ph in _PROPER:                       # đánh dấu các cụm tên riêng tiếng Việt
+        for i in range(len(low) - len(ph) + 1):
+            if low[i:i + len(ph)] == ph:
+                for k in range(i, i + len(ph)):
+                    proper[k] = True
     out = [words[0]]
-    for w in words[1:]:
-        bare = w.strip(".,:;!?'\"")
-        out.append(w if (bare in keep or bare.isupper()) else w[:1].lower() + w[1:])
+    for i, w in enumerate(words[1:], 1):
+        # len > 1: "Ở" một chữ cũng thỏa isupper(), nếu không chặn thì "ở NASA" thành "Ở NASA"
+        keep_it = proper[i] or bares[i] in keep or (bares[i].isupper() and len(bares[i]) > 1)
+        out.append(w if keep_it else w[:1].lower() + w[1:])
     return " ".join(out)
 
 
@@ -110,11 +134,13 @@ def translate_article(a: dict, cfg: dict) -> dict | None:
     """Trả bản đã dịch, hoặc None nếu thất bại (bài bị bỏ, không đăng bản tiếng Anh)."""
     model = cfg.get("translate", {}).get("model", "sonnet")
     idx = [i for i, b in enumerate(a.get("blocks", [])) if b.get("t") in TEXT_KINDS]
-    paras, total = [], 0
-    for i in idx:
-        t = a["blocks"][i].get("text", "")
-        total += len(t)
-        paras.append(t if total <= MAX_CHARS else "")
+    paras = [a["blocks"][i].get("text", "") for i in idx]
+    total = sum(len(t) for t in paras)
+    if total > MAX_CHARS:
+        # Trước đây phần đuôi bị thay bằng chuỗi rỗng rồi lọc bỏ: bài vẫn lên báo
+        # nhưng mất đoạn kết và không ai biết. Bỏ hẳn bài thì trung thực hơn.
+        log.warning("Bỏ bài quá dài để dịch (%d ký tự): %s", total, a["title"][:50])
+        return None
     captions = [im.get("caption", "") for im in a.get("images", [])]
 
     parts = _chunks(paras)
@@ -129,7 +155,12 @@ def translate_article(a: dict, cfg: dict) -> dict | None:
             for j, cap in enumerate(captions):
                 if cap:
                     pairs.append((f"C{j}", cap))
-        pairs += [(f"P{start + j}", t) for j, t in enumerate(chunk)]
+        # Chỉ gửi đoạn có chữ. Gửi kèm khối rỗng thì model hay lược luôn dòng đánh dấu
+        # của khối đó, thiếu dấu là cả lô bị coi như hỏng và mất cả bài.
+        pairs += [(f"P{start + j}", t) for j, t in enumerate(chunk) if t.strip()]
+        if not pairs:
+            vi_paras.extend("" for _ in chunk)
+            continue
         got = _ask_block(pairs, cfg, model)
         if got is None:
             log.error("Dịch hỏng ở lô %d/%d: %s", k + 1, len(parts), a["title"][:55])
