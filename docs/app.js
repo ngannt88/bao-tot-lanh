@@ -36,7 +36,22 @@
       return null;
     }
   }
-  const loadIssue = date => fetchJson(date ? `data/issues/${date}.json` : "data/latest.json");
+  const loadIssue = async date => arrange(await fetchJson(date ? `data/issues/${date}.json` : "data/latest.json"));
+
+  /* Xếp lại bài: bài nổi bật giữ nguyên ở đầu, phần còn lại gom theo chuyên mục đúng
+     thứ tự trong số báo. Xếp ngay lúc tải để thứ tự hiển thị TRÙNG thứ tự trong mảng,
+     nhờ vậy nút "Đọc xong, bài tiếp" đi hết một mục rồi mới sang mục khác, không nhảy
+     lung tung. Tiến độ đọc lưu theo mã bài nên xếp lại không mất dấu. */
+  function arrange(iss) {
+    if (!iss?.articles?.length) return iss;
+    const order = (iss.sections || []).map(s => s.id);
+    const rank = a => { const i = order.indexOf(a.section); return i < 0 ? 999 : i; };
+    const [first, ...rest] = iss.articles;
+    rest.sort((x, y) => rank(x) - rank(y) || (y.score || 0) - (x.score || 0));
+    iss.articles = [first, ...rest];
+    iss.articles.forEach((a, i) => { a.order = i + 1; });
+    return iss;
+  }
   const isRead = (a, date = state.issue.date) => !!state.read[date]?.[a.id];
   const markRead = a => { (state.read[state.issue.date] ||= {})[a.id] = true; LS.set("read", state.read); };
   const isLiked = (a, date = state.issue?.date) => !!state.likes[date]?.[a.id];
@@ -54,42 +69,93 @@
        gtts: mỗi đoạn một file, phát nối tiếp → làm sáng cả ĐOẠN đang đọc
        edge: một file cả bài kèm mốc theo câu → làm sáng đúng CÂU đang đọc          */
   const player = {
-    el: null, meta: null, part: 0, cues: [], cur: -1, article: null, base: "",
+    el: null, meta: null, cache: null, article: null, part: 0, cues: [], cur: -1,
+    base: "", triedWhole: false,
     setBtn(on) {
       const b = document.getElementById("play");
       if (b) b.innerHTML = on ? "⏸ Dừng đọc" : "🔊 Nghe đọc bài này";
       document.getElementById("bar")?.classList.toggle("on", on);
     },
-    async open(a) {
-      const btn = document.getElementById("play");
-      if (btn) btn.innerHTML = "⏳ Đang tải giọng đọc…";
+    /* MỘT trình phát dùng lại cho cả bài, tạo ngay trong cú chạm đầu tiên.
+       Safari trên iPhone/iPad chỉ cho phát tiếng đúng lúc ngón tay chạm nút: tạo
+       trình phát mới ở mỗi đoạn, hay chờ tải xong mô tả rồi mới phát, đều bị chặn. */
+    ensureEl() {
+      if (!this.el) {
+        const au = new Audio();
+        au.preload = "auto";
+        au.addEventListener("ended", () => this.onEnded());
+        au.addEventListener("error", () => this.onError());
+        au.addEventListener("timeupdate", () => this.onTime());
+        this.el = au;
+      }
+      return this.el;
+    },
+    prepare(a) {            // tải trước mô tả giọng đọc khi mở bài, để cú chạm không phải chờ
+      if (a && this.cache?.id !== a.id) this.loadMeta(a);
+    },
+    async loadMeta(a) {
+      const m = await fetchJson(`data/audio/${state.issue.date}/${a.id}.json`);
+      this.cache = { id: a.id, meta: m };
+      if (!m || this.article?.id !== a.id) return;
+      this.meta = m; this.cues = m.cues || [];
+      if (m.parts?.length) this.markWhole((m.parts[this.part] || m.parts[0]).p);
+    },
+    fileAt(i) {
+      const parts = this.meta?.parts;
+      return parts ? parts[i].f : `${this.article.id}.mp3`;
+    },
+    playFile(f) {
+      const el = this.ensureEl();
+      el.src = this.base + f;
+      el.play().then(() => this.setBtn(true)).catch(() => this.onError());
+    },
+    toggle(a) {
+      if (!a) return;
+      const el = this.ensureEl();          // phải tạo NGAY tại đây, đang trong cú chạm
+      if (this.article?.id === a.id && el.getAttribute("src")) {
+        if (el.paused) { el.play().catch(() => {}); this.setBtn(true); }
+        else { el.pause(); this.setBtn(false); }
+        return;
+      }
+      if (window.speechSynthesis?.speaking) { this.stop(); return; }
+      this.article = a;
       this.base = `data/audio/${state.issue.date}/`;
-      const meta = await fetchJson(this.base + a.id + ".json");
-      if (!meta) { this.fallback(a); return; }
-      this.meta = meta; this.article = a; this.part = 0; this.cur = -1;
-      this.cues = meta.cues || [];
-      if (meta.engine === "gtts" && meta.parts?.length) this.playPart(0);
-      else this.playWhole(a);
+      this.meta = this.cache?.id === a.id ? this.cache.meta : null;
+      this.cues = this.meta?.cues || [];
+      this.part = 0; this.cur = -1; this.triedWhole = false;
+      // Mô tả chưa kịp về thì đoán tên tệp theo quy ước rồi phát luôn; đoán sai đã có onError lo.
+      this.playFile(this.meta ? this.fileAt(0) : `${a.id}-0.mp3`);
+      if (this.meta?.parts?.length) this.markWhole(this.meta.parts[0].p);
+      if (!this.meta) this.loadMeta(a);
     },
-    playWhole(a) {
-      const au = new Audio(this.base + a.id + ".mp3");
-      this.el = au;
-      au.addEventListener("timeupdate", () => this.tickCues(au.currentTime));
-      au.addEventListener("ended", () => this.stop());
-      au.addEventListener("error", () => { this.el = null; this.fallback(a); });
-      au.play().then(() => this.setBtn(true)).catch(() => { this.el = null; this.fallback(a); });
+    onEnded() {
+      const parts = this.meta?.parts;
+      if (parts && this.part + 1 < parts.length) {
+        this.part++;
+        this.markWhole(parts[this.part].p);
+        this.playFile(parts[this.part].f);
+        return;
+      }
+      this.stop();
     },
-    playPart(i) {
-      const parts = this.meta.parts;
-      if (i >= parts.length) { this.stop(); return; }
-      this.part = i;
-      const au = new Audio(this.base + parts[i].f);
-      this.el = au;
-      au.addEventListener("ended", () => this.playPart(i + 1));
-      au.addEventListener("error", () => this.playPart(i + 1));   // hỏng một đoạn thì đọc tiếp đoạn sau
-      au.addEventListener("timeupdate", () => this.progress());
-      this.markWhole(parts[i].p);
-      au.play().then(() => this.setBtn(true)).catch(() => { this.el = null; this.fallback(this.article); });
+    onError() {
+      if (!this.article) return;
+      const parts = this.meta?.parts;
+      if (parts && this.part + 1 < parts.length) {   // hỏng một đoạn thì đọc tiếp đoạn sau
+        this.part++;
+        this.playFile(parts[this.part].f);
+        return;
+      }
+      if (!this.triedWhole && !parts) {              // đoán nhầm kiểu tệp → thử tệp cả bài
+        this.triedWhole = true;
+        this.playFile(`${this.article.id}.mp3`);
+        return;
+      }
+      this.fallback(this.article);
+    },
+    onTime() {
+      if (this.cues.length) this.tickCues(this.el.currentTime);
+      else this.progress();
     },
     progress() {
       const p = document.getElementById("prog"); if (!p || !this.meta) return;
@@ -126,11 +192,6 @@
         if (el.querySelector(".sent")) el.textContent = el.dataset.text || el.textContent;
       });
     },
-    toggle(a) {
-      if (this.el) { if (this.el.paused) { this.el.play(); this.setBtn(true); } else { this.el.pause(); this.setBtn(false); } return; }
-      if (window.speechSynthesis?.speaking) { this.stop(); return; }
-      this.open(a);
-    },
     fallback(a) {   // chưa có file giọng đọc → dùng giọng có sẵn của máy
       if (!("speechSynthesis" in window)) { const b = document.getElementById("play"); if (b) { b.textContent = "Máy này chưa đọc được"; b.disabled = true; } return; }
       const u = new SpeechSynthesisUtterance([a.title, a.sapo, ...(a.blocks || []).filter(b => b.text).map(b => b.text)].join(". "));
@@ -140,9 +201,10 @@
       speechSynthesis.cancel(); speechSynthesis.speak(u); this.setBtn(true);
     },
     stop() {
-      if (this.el) { this.el.pause(); this.el.removeAttribute("src"); this.el.load(); this.el = null; }
+      // GIỮ lại this.el: một khi đã được cú chạm mở khóa thì dùng lại được mãi trên iPad
+      if (this.el) { this.el.pause(); this.el.removeAttribute("src"); this.el.load(); }
       if (window.speechSynthesis) speechSynthesis.cancel();
-      this.meta = null; this.cues = []; this.cur = -1; this.part = 0;
+      this.article = null; this.meta = null; this.cues = []; this.cur = -1; this.part = 0;
       this.clearMarks(); this.setBtn(false);
     },
   };
@@ -151,9 +213,9 @@
   function shell(inner, opts = {}) {
     return `
       <header class="top">
-        <div class="brand"><img src="icons/icon.svg" alt=""><div>${esc(state.issue?.paper || "LEVEL UP")}<small>${state.issue ? fmtDate(state.issue.date) : ""}</small></div></div>
+        <button class="brand" data-go="cover" title="Về trang chủ"><img src="icons/icon.svg" alt=""><div>${esc(state.issue?.paper || "LEVEL UP")}<small>${state.issue ? fmtDate(state.issue.date) : ""}</small></div></button>
         <div class="right">
-          ${opts.back ? `<button class="btn small" data-go="cover">← Trang bìa</button>` : ""}
+          ${opts.back ? `<button class="btn small" data-go="cover">← Trang chủ</button>` : ""}
           <button class="btn small ghost" id="font" title="Cỡ chữ">Aa</button>
           <button class="btn small ghost" id="dark" title="Sáng / tối">${state.dark ? "☀️" : "🌙"}</button>
           <button class="btn small ghost" data-go="history" title="Các số trước">🗓️</button>
@@ -173,8 +235,25 @@
   function viewCover() {
     const iss = state.issue, n = iss.articles.length, rc = readCount();
     const [first, ...rest] = iss.articles;
-    const resume = state.last && state.last.date === iss.date && rc > 0 && rc < n
-      ? `<button class="btn primary" data-open="${state.last.idx}" style="margin-top:12px">▶ Đọc tiếp bài ${state.last.idx + 1}</button>` : "";
+    // Bài đang đọc dở: tìm theo MÃ bài, vì thứ tự có thể đổi khi xếp lại theo chuyên mục
+    let lastIdx = -1;
+    if (state.last && state.last.date === iss.date) {
+      lastIdx = state.last.id ? iss.articles.findIndex(a => a.id === state.last.id) : (state.last.idx ?? -1);
+    }
+    const resume = lastIdx >= 0 && rc > 0 && rc < n
+      ? `<button class="btn primary" data-open="${lastIdx}" style="margin-top:12px">▶ Đọc tiếp bài ${lastIdx + 1}</button>` : "";
+    // Gom các bài còn lại thành từng khối theo chuyên mục (mảng đã xếp sẵn nên chỉ cần cắt khúc)
+    const groups = [];
+    rest.forEach((a, k) => {
+      const last = groups[groups.length - 1];
+      if (last && last.id === a.section) last.items.push({ a, idx: k + 1 });
+      else groups.push({ id: a.section || "khac", name: a.section_name || "Khác", emoji: a.emoji || "📰", items: [{ a, idx: k + 1 }] });
+    });
+    const card = (a, idx) => `<button class="card ${isRead(a) ? "read" : ""}" data-open="${idx}">
+        ${a.images?.length ? `<img class="thumb" src="${imgUrl(a.images[a.lead ?? 0])}" alt="" loading="lazy">` : `<div class="thumb placeholder">${a.emoji}</div>`}
+        <div><div class="sec">${esc(a.source_name)}</div><h3>${esc(a.title)}</h3><p>${esc(a.sapo)}</p></div>
+        <div class="tick">${isLiked(a) ? "👍" : isRead(a) ? "✓" : ""}</div>
+      </button>`;
     const hero = first ? `
       <button class="hero-card ${isRead(first) ? "read" : ""}" data-open="0">
         ${first.images?.length ? `<img class="hero-img" src="${imgUrl(first.images[first.lead ?? 0])}" alt="">` : `<div class="hero-img placeholder">${first.emoji}</div>`}
@@ -191,13 +270,11 @@
         ${resume}
       </section>
       ${hero}
-      <div class="list">
-        ${rest.map((a, k) => `<button class="card ${isRead(a) ? "read" : ""}" data-open="${k + 1}">
-            ${a.images?.length ? `<img class="thumb" src="${imgUrl(a.images[a.lead ?? 0])}" alt="" loading="lazy">` : `<div class="thumb placeholder">${a.emoji}</div>`}
-            <div><div class="sec">${esc(a.section_name)} · ${esc(a.source_name)}</div><h3>${esc(a.title)}</h3><p>${esc(a.sapo)}</p></div>
-            <div class="tick">${isLiked(a) ? "👍" : isRead(a) ? "✓" : ""}</div>
-          </button>`).join("")}
-      </div>
+      ${groups.length > 1 ? `<nav class="chips" aria-label="Chuyên mục">${groups.map(g =>
+        `<button class="chip" data-jump="${g.id}">${g.emoji} ${esc(g.name)} <b>${g.items.length}</b></button>`).join("")}</nav>` : ""}
+      ${groups.map(g => `
+        <h2 class="sec-head" id="sec-${g.id}">${g.emoji} ${esc(g.name)}<span>${g.items.length} bài</span></h2>
+        <div class="list">${g.items.map(x => card(x.a, x.idx)).join("")}</div>`).join("")}
       <p class="muted" style="text-align:center;margin-top:26px">${rc === n ? "Muốn đọc thêm? Bấm 🗓️ để xem các số trước." : `Đọc hết ${n} bài là xong. Hẹn mai nhé!`}</p>`);
   }
 
@@ -230,7 +307,7 @@
           <span class="muted">Bấm để bố mẹ biết con thích đọc gì.</span>
         </div>
         <div class="nav">
-          <button class="btn" data-go="cover">☰ Trang bìa</button>
+          <button class="btn" data-go="cover">☰ Trang chủ</button>
           <button class="btn primary" id="next">${state.idx + 1 < iss.articles.length ? "Đọc xong, bài tiếp →" : "Đọc xong 🎉"}</button>
         </div>
       </article>
@@ -242,7 +319,7 @@
     const liked = Object.keys(state.likes[state.issue.date] || {}).length;
     return shell(`<section class="done"><div class="big">🌟</div><h1>Bạn đọc hết ${state.issue.articles.length} bài!</h1>
       <p>${liked ? `Bạn đã thích ${liked} bài hôm nay.` : ""} Hẹn gặp lại ngày mai với số báo mới nhé.</p>
-      <div class="row" style="justify-content:center"><button class="btn" data-go="cover">Về trang bìa</button><button class="btn primary" data-go="history">🗓️ Các số trước</button></div></section>`);
+      <div class="row" style="justify-content:center"><button class="btn" data-go="cover">Về trang chủ</button><button class="btn primary" data-go="history">🗓️ Các số trước</button></div></section>`);
   }
 
   function viewHistory() {
@@ -334,6 +411,8 @@
     else if (state.view === "article") html = viewArticle();
     else if (state.view === "done") html = viewDone();
     else html = viewCover();
+    // Đổi bài mà giọng cũ vẫn đọc thì chữ sáng sai chỗ → dừng hẳn trước khi vẽ lại
+    if (player.article && (state.view !== "article" || state.issue?.articles?.[state.idx]?.id !== player.article.id)) player.stop();
     $app.innerHTML = html; window.scrollTo({ top: 0 }); bind();
   }
 
@@ -345,7 +424,9 @@
       state.view = v; render();
     }));
     $app.querySelectorAll("[data-open]").forEach(b => b.addEventListener("click", () => {
-      state.idx = +b.dataset.open; state.view = "article"; state.last = { date: state.issue.date, idx: state.idx }; LS.set("last", state.last); render();
+      state.idx = +b.dataset.open; state.view = "article";
+      state.last = { date: state.issue.date, idx: state.idx, id: state.issue.articles[state.idx]?.id };
+      LS.set("last", state.last); render();
     }));
     $app.querySelectorAll("[data-date]").forEach(b => b.addEventListener("click", async () => {
       const j = state.history?.find(x => x.date === b.dataset.date && x.articles) || await loadIssue(b.dataset.date);
@@ -356,7 +437,12 @@
     document.getElementById("font")?.addEventListener("click", () => { state.font = (state.font + 1) % FONT_STEPS.length; LS.set("font", state.font); applyPrefs(); });
     document.getElementById("dark")?.addEventListener("click", () => { state.dark = !state.dark; LS.set("dark", state.dark); render(); });
 
+    $app.querySelectorAll("[data-jump]").forEach(b => b.addEventListener("click", () => {
+      document.getElementById("sec-" + b.dataset.jump)?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }));
+
     const a = state.issue?.articles?.[state.idx];
+    if (state.view === "article" && a) player.prepare(a);   // tải trước để cú chạm phát được ngay
     document.getElementById("play")?.addEventListener("click", () => player.toggle(a));
     document.getElementById("like")?.addEventListener("click", e => {
       const on = toggleLike(a);
@@ -377,7 +463,7 @@
       const next = state.issue.articles.findIndex((x, i) => i > state.idx && !isRead(x));
       const any = state.issue.articles.findIndex(x => !isRead(x));
       if (next >= 0) { state.idx = next; state.view = "article"; } else if (any >= 0) { state.idx = any; state.view = "article"; } else state.view = "done";
-      if (state.view === "article") { state.last = { date: state.issue.date, idx: state.idx }; LS.set("last", state.last); }
+      if (state.view === "article") { state.last = { date: state.issue.date, idx: state.idx, id: state.issue.articles[state.idx]?.id }; LS.set("last", state.last); }
       render();
     });
 

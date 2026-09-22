@@ -179,11 +179,19 @@ async def _build_edge_one(article: dict, out_dir: Path, voice: str, rate: str) -
     text = "\n".join(_norm(t) for _, t in pieces if t.strip())
     if len(text) < 40:
         return None
-    try:
-        audio, cues = await _edge_synth(text, voice, rate)
-    except Exception as e:
-        log.warning("edge-tts lỗi (%s): %s", str(e)[:60], article["title"][:40])
-        return None
+    # Máy chủ giọng Microsoft thỉnh thoảng từ chối một lần rồi lại nhận (NoAudioReceived).
+    # Không thử lại thì bài đó mất giọng hẳn, mà đây lại là bộ giọng DỰ PHÒNG — hỏng nốt
+    # là cả số báo không có tiếng. gTTS đã thử 3 lần, chỗ này trước đây không lần nào.
+    audio, cues = b"", []
+    for k in range(3):
+        try:
+            audio, cues = await _edge_synth(text, voice, rate)
+            if audio:
+                break
+        except Exception as e:
+            if k == 2:
+                log.warning("edge-tts lỗi (%s): %s", str(e)[:60], article["title"][:40])
+        await asyncio.sleep(1.5 * (k + 1))
     if not audio:
         return None
     out_dir.mkdir(parents=True, exist_ok=True)

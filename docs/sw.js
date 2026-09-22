@@ -3,7 +3,7 @@
    Lưu ý đã trả giá: việc ghi vào cache PHẢI nằm trong event.waitUntil(), nếu không trình duyệt
    có quyền hủy tác vụ ngay khi fetch event kết thúc và cache sẽ rỗng — mất chế độ đọc offline.
 */
-const SHELL = "btl-shell-v1";
+const SHELL = "btl-shell-v2";
 const DATA = "btl-data-v2";
 const SHELL_FILES = ["./", "index.html", "app.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png"];
 const MAX_DATA_ENTRIES = 400;          // đủ cho vài số báo kèm ảnh, không để phình vô hạn
