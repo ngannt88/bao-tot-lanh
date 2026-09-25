@@ -1,0 +1,3120 @@
+{
+ "date": "2026-09-23",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-09-23T07:30:03+07:00",
+ "sections": [
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  }
+ ],
+ "articles": [
+  {
+   "id": "cdbdeab40926",
+   "order": 1,
+   "slug": "dong-doi-nu-kata-viet-nam-tai-lap-ky-tich-hcv-asiad",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Đồng đội nữ kata Việt Nam tái lập kỳ tích HCV ASIAD",
+   "sapo": "Hôm qua 22.9, Nguyễn Ngọc Trâm, Bùi Ngọc Nhi và Hoàng Thị Thu Uyên đã thắng thuyết phục Iran 5-0 trong trận chung kết, đăng quang ở nội dung kata đồng đội nữ môn karate, và mang tấm HCV đầu tiên về cho đoàn thể thao VN tại ASIAD 20.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/dong-doi-nu-kata-viet-nam-tai-lap-ky-tich-hcv-asiad-18526092222474411.htm",
+   "published": "2026-09-22T17:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1155,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/cdbdeab40926-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/cdbdeab40926-0.jpg",
+     "caption": "Bộ 3 Ngọc Trâm, Ngọc Nhi và Thu Uyên giành HCV kata đồng đội, chiếc HCV đầu tiên của đoàn thể thao VN tại ASIAD 20",
+     "w": 1276,
+     "h": 956
+    },
+    {
+     "src": "img/2026-09-23/cdbdeab40926-1.jpg",
+     "caption": "Xúc động vì thắng trận",
+     "w": 1280,
+     "h": 856
+    },
+    {
+     "src": "img/2026-09-23/cdbdeab40926-2.jpg",
+     "caption": "Trưởng đoàn Nguyễn Hồng Minh trao thưởng nóng",
+     "w": 1280,
+     "h": 782
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Bộ 3 hoàn hảo"
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Ngọc Trâm (24 tuổi), Bùi Ngọc Nhi (19 tuổi) và Hoàng Thị Thu Uyên (20 tuổi) là 3 cái tên, 3 sự trải nghiệm, nhưng cùng chung một nhịp thở trên thảm đấu. Tại ASIAD 20 ở Aichi-Nagoya, họ đang viết tiếp câu chuyện của kata nữ VN bằng sự chính xác, bình tĩnh và một niềm tin không dễ lay chuyển."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Kata là loại hình thể thao đặc biệt. Không có những cú đấm trực diện, không có cuộc rượt đuổi điểm số trong từng giây. Trên thảm đấu, các võ sĩ phải chiến đấu với chính mình: từng thế tấn, từng đường tay, từng nhịp chuyển động đều phải đạt tới độ chính xác gần như tuyệt đối."
+    },
+    {
+     "t": "p",
+     "text": "Khi 3 cô gái cùng nhau biểu diễn, thử thách ấy còn nhân lên gấp bội. Chỉ cần một động tác lệch nhịp, một khoảng dừng không đồng nhất, một ánh mắt thiếu tập trung, cả bài quyền có thể mất đi sự thuyết phục. Nhưng cả 3 chị em đã không làm thất vọng sự chờ đợi này. Từ trận thắng Nepal ở tứ kết đến Đài Loan ở bán kết đều cùng tỷ số 5-0 và cuối cùng là quật ngã Iran cũng với tỷ số tương tự, tất cả diễn ra vô cùng thuyết phục."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bước ra thảm đấu ở ASIAD 20 bằng phong cách trẻ trung, giàu năng lượng và gây ấn tượng không chỉ kỹ thuật mà còn là độ biểu cảm tuyệt vời, bộ 3 hoàn hảo này cho mọi người chứng kiến sức mạnh tập thể khi đã tìm thấy tiếng nói chung. Đặc biệt ở trận chung kết ngoài biểu diễn động tác còn có phần biểu diễn đối kháng, cả 3 đã thể hiện cực nhạy với nhiều động tác như làm hoa mắt người xem."
+    },
+    {
+     "t": "p",
+     "text": "HLV Đỗ Thị Thu Hà cho biết để có bài quyền đẹp thì 3 cơ thể cần chuyển động thống nhất. Ngọc Trâm mang đến sự từng trải. Ngọc Nhi có sức trẻ và khát vọng. Thu Uyên góp vào đó sự ổn định và khả năng hòa nhập. 3 cá tính khác nhau nhưng họ hòa quyện nhịp nhàng trên thảm đấu."
+    },
+    {
+     "t": "h",
+     "text": "Niềm tin từ một thế hệ mới"
+    },
+    {
+     "t": "p",
+     "text": "Trong đội hình năm nay, Ngọc Trâm mang theo một thứ mà 2 đồng đội trẻ hơn không thể có: ký ức về một lần đứng trên đỉnh ASIAD. 3 năm trước tại Hàng Châu (Trung Quốc), Ngọc Trâm cùng Nguyễn Thị Phương và Lưu Thị Thu Uyên đã giành HCV kata đồng đội nữ. Năm nay, cô trở lại nhưng bên cạnh là 2 gương mặt mới. Đó vừa là lợi thế vừa là áp lực, khi cô cùng 2 đồng đội xây dựng một \"phiên bản mới\" của đội kata nữ VN nhưng vẫn phải giữ được tinh thần của nhà vô địch."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Ngọc Trâm đã làm được bằng kinh nghiệm của mình. Chính sự nỗ lực và đầy khát khao đó của người chị cả đã thúc giục sức trẻ và sự trưởng thành qua từng trận đấu cho 2 đàn em. Trong đó, Bùi Ngọc Nhi, mới 19 tuổi, tài năng trẻ xuất sắc của Hà Nội, vừa có một hành trình đáng nhớ ở nội dung cá nhân kata tại ASIAD 20. Sau khi thua Ono Maho của Nhật Bản ở vòng đầu, cô không buông xuôi mà đã lần lượt vượt qua các đối thủ khác để giành HCĐ cá nhân. Ngọc Nhi cho thấy quyết tâm không từ bỏ và ý chí mạnh mẽ để hợp cùng Ngọc Trâm mang đến hơi thở đúng nhịp cho đội kata nữ VN."
+    },
+    {
+     "t": "p",
+     "text": "Tinh thần đó cũng đã khích lệ Thu Uyên cùng tạo nên sự hoàn hảo. Cô gái từng giành HCB giải vô địch trẻ châu Á 2025 không đứng đó để \"đi cùng\" 2 người còn lại. Cô là một mắt xích không thể thiếu trong cấu trúc của bài kata. Nhất là khi trong một đội hình 3 người, không ai có thể nổi bật theo cách riêng của mình. Khán giả trên sân hầu như chỉ nhìn thấy sự chuyển động rất nhịp nhàng của 3 cô gái với một tinh thần rực lửa."
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh 3 cô gái đứng cạnh nhau, cùng nhìn về một hướng, cùng tung ra một đòn đánh, đã mang về cảm xúc quá lớn và chinh phục mọi người, xứng đáng với chiếc HCV được mong đợi. Họ đã tạo nên niềm tin cho karate VN."
+    },
+    {
+     "t": "p",
+     "text": "Bộ trưởng Lâm Thị Phương Thanh chỉ đạo thưởng nóng"
+    },
+    {
+     "t": "p",
+     "text": "Với tấm HCV \"mở hàng\" cho đoàn thể thao VN tại ASIAD 20, bộ 3 võ sĩ Nguyễn Ngọc Trâm, Bùi Ngọc Nhi, Hoàng Thị Thu Uyên được thưởng tổng cộng hơn 1 tỉ đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bộ trưởng Bộ VH-TT-DL Lâm Thị Phương Thanh ngợi khen thành tích giành HCV đầu tiên cho đoàn thể thao VN tại ASIAD 20 của đội tuyển karate, đồng thời chỉ đạo thưởng nóng cho các VĐV để khích lệ tinh thần. Thực hiện ý kiến chỉ đạo của bộ trưởng, lãnh đạo đoàn thể thao VN đã thưởng nóng 200 triệu đồng cho 3 cô gái vàng. Bên cạnh đó, Ngọc Trâm, Ngọc Nhi, Thu Uyên còn được thưởng 840 triệu đồng (mỗi VĐV 280 triệu đồng) theo quy định nhà nước."
+    },
+    {
+     "t": "p",
+     "text": "Võ sĩ Nguyễn Ngọc Trâm được Hiệp hội Thể thao công an nhân dân thưởng 50 triệu đồng, Tập đoàn T&T thưởng 100 triệu đồng. Trước đó, với tấm HCĐ cá nhân, võ sĩ Bùi Ngọc Nhi được thưởng 110 triệu đồng theo quy định nhà nước."
+    },
+    {
+     "t": "p",
+     "text": "Hoàng Lê"
+    },
+    {
+     "t": "p",
+     "text": "Tiếc cho bắn súng VN"
+    },
+    {
+     "t": "p",
+     "text": "Tiếc nuối lớn nhất ở ngày tranh tài hôm qua là việc Phí Thanh Thảo/Nguyễn Tâm Quang mất cơ hội vào chung kết nội dung đôi nam nữ súng trường hơi (môn bắn súng). 2 xạ thủ VN xếp hạng 4 vòng loại, đủ điểm vào chung kết nhưng sau khi kiểm tra, BTC không công nhận thành tích của đôi VN vì trang phục không đạt chuẩn theo quy định, từ đó đôn 2 VĐV của chủ nhà Nhật Bản (hạng 5) lên thay."
+    },
+    {
+     "t": "p",
+     "text": "Môn wushu thi đấu thành công khi có 4 võ sĩ giành quyền vào bán kết, nên có ít nhất 4 HCĐ ở nội dung tán thủ là Nguyễn Thị Thu Thủy (60 kg nữ), Đinh Văn Tâm (56 kg nam), Hứa Văn Đoàn (60 kg nam), Nguyễn Khắc Kiên (65 kg nam)."
+    },
+    {
+     "t": "p",
+     "text": "Ở môn quyền anh, Nguyễn Thị Tâm (hạng cân 51 kg nữ), Võ Thị Kim Ánh (hạng cân 54 kg nữ) cùng giành chiến thắng trận ra quân."
+    },
+    {
+     "t": "p",
+     "text": "Đội tuyển bóng chuyền nữ VN xếp hạng 7 chung cuộc sau thắng lợi 3-0 trước Kazakhstan."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Thật thi đấu không thành công ở môn xe đạp khi về đích hạng 27."
+    },
+    {
+     "t": "p",
+     "text": "Hoàng Lê"
+    }
+   ]
+  },
+  {
+   "id": "ac871fa28a15",
+   "order": 2,
+   "slug": "ba-nu-vo-si-karate-mo-hang-hcv-asiad-cho-the-thao-viet-nam-l",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ba nữ võ sĩ Karate 'mở hàng' HCV Asiad cho thể thao Việt Nam là ai?",
+   "sapo": "Bùi Ngọc Nhi, Hoàng Thị Thu Uyên và Nguyễn Ngọc Trâm với bài biểu diễn vô cùng ấn tượng ở nội dung kata đồng đội nữ (karate), giành tấm HCV đầu tiên cho đoàn thể thao Việt Nam (TTVN) tại Asiad 2026.",
+   "author": "Đại Nam",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/ba-nu-vo-si-karate-mo-hang-hcv-asiad-cho-the-thao-viet-nam-la-ai-2557699.html",
+   "published": "2026-09-22T08:43:17+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 768,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/ac871fa28a15-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-0.jpg",
+     "caption": "Ba nữ võ sĩ Việt Nam rất tự tin. Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-1.jpg",
+     "caption": "Bài biểu diễn tuyệt vời. Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 825
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-2.jpg",
+     "caption": "Các cô gái vỡ òa cảm xúc. Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 896
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-3.jpg",
+     "caption": "Karate 'mở hàng' HCV Asiad cho thể thao Việt Nam. Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 822
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-4.jpg",
+     "caption": "Khoảnh khắc Quốc ca Việt Nam vang lên tại đấu trường Asiad 20. Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-5.jpg",
+     "caption": "Trực tiếp Asiad 2026 hôm nay 22/9: Việt Nam giành HCV đầu tiên",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-6.jpg",
+     "caption": "Trang phục thiếu... 0,1 mm độ cứng, VĐV Việt Nam mất suất tranh huy chương Asiad",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-23/ac871fa28a15-7.jpg",
+     "caption": "Tuyển bóng chuyền nữ Việt Nam chia tay Asiad với hạng 7",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vỡ òa cảm xúc"
+    },
+    {
+     "t": "p",
+     "text": "Sau 2 ngày thi đấu chỉ giành 3 HCĐ, đoàn TTVN chính thức có HCV đầu tiên tại Asiad 2026 . Ba nữ võ sĩ Bùi Ngọc Nhi, Hoàng Thị Thu Uyên và Nguyễn Ngọc Trâm với bài biểu diễn vô cùng đẹp mắt đã chinh phục tuyệt đối các trọng tài đến từ Nhật, Đài Loan (Trung Quốc), Kuwait, UAE và Bangladesh."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Bùi Ngọc Nhi, Hoàng Thị Thu Uyên và Nguyễn Ngọc Trâm thắng thuyết phục ở bán kết trước khi bước vào chung kết cùng Iran. Cả nhà thi đấu như nín thở khi 3 nữ võ sĩ Việt Nam bước ra sân và thực hiện những động tác biểu diễn thuần thục, không có một sai lầm nào."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khi trận đấu kéo dài 5 phút kết thúc, cùng điểm số hiện lên trên bảng điện tử, ba nữ võ sĩ Việt Nam cùng Ban huấn luyện tuyển Karate Việt Nam, các phóng viên báo chí, CĐV... vỡ òa hạnh phúc. Việc giành được HCV Asiad thực sự là một cuộc vượt ngưỡng ngoạn mục của các VĐV Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Như vậy, Karate là môn mang về HCV đầu tiên cho đoàn TTVN tại Asiad. Đây cũng là tấm HCV nằm trong dự tính của TTVN bởi nội dung biểu diễn đồng đội nữ vốn là thế mạnh, từng giành HCV ở kỳ Asiad trước."
+    },
+    {
+     "t": "p",
+     "text": "Dù được đặt chỉ tiêu giành HCV nhưng rõ ràng nếu không có sự tập trung trong từng giây, từng phút, Bùi Ngọc Nhi, Hoàng Thị Thu Uyên và Nguyễn Ngọc Trâm đã không thể giành chiến thắng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bộ ba nữ võ sĩ Việt Nam chinh phục tấm HCV Asiad danh giá, và quan trọng hơn là \"mở hàng\" cho đoàn TTVN, giúp các VĐV ở chính môn karate và các môn thể thao khác có thêm nhiều động lực, sự tự tin, quyết hoàn thành chỉ tiêu trên 4 HCV tại Đại hội."
+    },
+    {
+     "t": "p",
+     "text": "10 điểm cho các nhà vô địch Asiad"
+    },
+    {
+     "t": "p",
+     "text": "Màn trình diễn thuyết phục giúp đội tuyển Karate Việt Nam nhận được điểm số cao từ 5 trọng tài: 8,8 - 8,2 - 8,8 - 8,3 và 8,6. Với chiến thắng tuyệt đối 5-0 trước Iran, Nguyễn Ngọc Trâm, Bùi Ngọc Nhi và Hoàng Thị Thu Uyên chính thức bước lên bục cao nhất. Đáng chú ý, các cô gái Việt Nam trải qua một hành trình hoàn hảo khi không để mất bất kỳ phiếu thắng nào trong cả ba trận đấu tại Asiad 2026."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, tại tứ kết, với vị thế đương kim vô địch Asiad, bộ ba Việt Nam lựa chọn bài quyền Papuren. Sự đồng đều về động tác, nhịp độ và kỹ thuật giúp đội nhận các điểm số cao, qua đó thắng Nepal 5-0. Tại bán kết, Việt Nam gặp Đài Loan (Trung Quốc), cũng giành chiến thắng thuyết phục 5-0."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đây là đội hình có sự kết hợp giữa kinh nghiệm và sức trẻ. Nếu Nguyễn Ngọc Trâm là người duy nhất còn lại từ đội hình từng giành HCV tại Asiad 19, thì Bùi Ngọc Nhi và Hoàng Thị Thu Uyên là những gương mặt trẻ có sự tiến bộ vượt bậc."
+    },
+    {
+     "t": "p",
+     "text": "Trong 3 nữ võ sĩ, Nguyễn Ngọc Trâm là gương mặt quen thuộc trong làng võ Việt Nam, chính là đầu tàu khi không chỉ lớn tuổi nhất, mà còn có nhiều kinh nghiệm, bản lĩnh. Trong khi đó, Ngọc Nhi sinh năm 2007 và trưởng thành từ karate Hà Nội, sớm được đánh giá là một trong những tài năng triển vọng của kata Việt Nam. Trước khi tham dự Asiad, cô cùng Nguyễn Ngọc Trâm và Nguyễn Thị Phương xuất sắc giành HCV châu Á 2025."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Hoàng Thị Thu Uyên là mảnh ghép quan trọng đội tuyển karate nội dung kata đồng đội nữ. Dù chưa có nhiều kinh nghiệm thi đấu quốc tế, nhưng cô phối hợp vô cùng nhịp nhàng, thần thái để ghi điểm với các trọng tài."
+    },
+    {
+     "t": "p",
+     "text": "Ngay sau khi Bùi Ngọc Nhi, Hoàng Thị Thu Uyên và Nguyễn Ngọc Trâm giành HCV Asiad, đoàn TTVN kịp thời thưởng nóng. Đại tá Nguyễn Thị Thuý Thanh - Phó Cục trưởng Cục XO3 Bộ Công an - Phó Chủ tịch Hiệp hội Thể thao Công an nhân dân đã trao thưởng 50 triệu đồng của Hiệp hội thể thao Công an nhân dân. Tập đoàn T&T cũng trao thưởng 100 triệu đồng cho VĐV Nguyễn Ngọc Trâm. Ngoài ra, các VĐV còn được thưởng từ nhiều Mạnh thường quân khác cùng quy định của Nhà nước."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    }
+   ]
+  },
+  {
+   "id": "9b4a6d6c6a96",
+   "order": 3,
+   "slug": "kinh-ngu-13-tuoi-trung-quoc-pha-ky-luc-asiad",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Kình ngư 13 tuổi Trung Quốc phá kỷ lục ASIAD",
+   "sapo": "Nhật Bản Yu Zidi gây ấn tượng mạnh ngay lần đầu dự ASIAD khi giành HC vàng 200m bướm ở tuổi 13, qua đó tiếp tục khẳng định triển vọng của thần đồng bơi Trung Quốc.",
+   "author": "Hồng Duy",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/kinh-ngu-13-tuoi-trung-quoc-pha-ky-luc-asiad-5123104.html",
+   "published": "2026-09-22T00:21:20+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1121,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/9b4a6d6c6a96-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-23/9b4a6d6c6a96-0.jpg",
+     "caption": "Yu Zidi thi đấu chung kết nội dung 200m bơi bướm nữ ASIAD 2026 tại Trung tâm thể thao dưới nước Tokyo, Nhật Bản ngày 20/9/2206. Ảnh: Reuters",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-09-23/9b4a6d6c6a96-1.jpg",
+     "caption": "Yu Zidi ăn mừng trên bục nhận huy chương sau khi về nhất chung kết nội dung 200m bướm nữ. Ảnh: Reuters",
+     "w": 1020,
+     "h": 647
+    },
+    {
+     "src": "img/2026-09-23/9b4a6d6c6a96-2.jpg",
+     "caption": "Yu Zidi thi đấu tại giải VĐTG tại Singapore năm 2025. Ảnh: AFP",
+     "w": 1020,
+     "h": 695
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhật Bản Yu Zidi gây ấn tượng mạnh ngay lần đầu dự ASIAD khi giành HC vàng 200m bướm ở tuổi 13, qua đó tiếp tục khẳng định triển vọng của thần đồng bơi Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Yu dẫn đầu từ đầu đến cuối nội dung 200 m bướm nữ tại Trung tâm Thể thao dưới nước Tokyo hôm 20/9, cán đích với thành tích 2 phút 5 giây 8. Thành tích này phá kỷ lục ASIAD do đồng hương Zhang Yufei thiết lập tại Hàng Châu ba năm trước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ở vòng loại buổi sáng, Yu nhanh hơn người xếp thứ hai Chiho Mizuguchi của Nhật Bản tới 3 giây. Đến chung kết buổi tối, cô cũng nhanh hơn 3 giây so với người về nhì, đồng đội Chang Mohan, với thành tích 2 phút 8 giây 44."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỉ ở mức bình thường thôi\", Yu cười và nói sau khi nhận huy chương ASIAD 2026 . \"Tôi hy vọng có thể bơi nhanh hơn nữa. Tôi đã cải thiện thành tích 0,9 giây ở đây và tin rằng lần tới mình sẽ thể hiện tốt hơn\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo Yu, kỹ thuật của cô \"vẫn còn thiếu một chút\". Kình ngư này cũng thừa nhận bản thân còn một số điểm cần cải thiện: \"Tôi cần hạ đầu xuống sớm hơn, vươn tay ra xa hơn và hoàn thiện động tác chân\"."
+    },
+    {
+     "t": "p",
+     "text": "Sự nghiệp của Yu thăng tiến rất nhanh. Cô sinh ngày 16/10/2012 tại Bảo Định, tỉnh Hà Bắc. Một chuyến đi công viên nước để tránh nóng cùng cha vào mùa hè 2018, khi Yu mới 6 tuổi, vô tình mở ra cánh cửa đến với bơi lội."
+    },
+    {
+     "t": "p",
+     "text": "\"Mùa hè năm đó thực sự rất nóng nên tôi đi công viên nước với bố\", Yu nhớ lại. \"Kỳ nghỉ hè rất dài, tôi thường xuyên đến các bể bơi và đó là lúc một HLV phát hiện ra tôi\"."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng \"cảm nhận nước đặc biệt tốt\" của Yu đã thu hút sự chú ý của một HLV bơi. Ông đề nghị cô gia nhập đội tuyển. Trong khi nhiều bạn đồng trang lứa vẫn sợ nước, Yu đã có thể tự nổi trên mặt nước, đồng thời sở hữu các động tác đặc biệt mềm mại."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Dưới sự hướng dẫn của HLV đầu tiên Li Chao, Yu tiến bộ nhanh chóng sau khi được đào tạo bài bản. Năm 10 tuổi 5 tháng, cô đã vào top 10 Trung Quốc ở nội dung 400m cá nhân hỗn hợp. Chỉ sau 4 năm tập luyện có hệ thống, Yu đạt chuẩn VĐV cấp một quốc gia khi 12 tuổi, rồi được chọn vào đội tuyển đào tạo tuyến hai của đội bơi tỉnh Hà Bắc."
+    },
+    {
+     "t": "p",
+     "text": "Tại đội tuyển, Yu thường được đồng đội Li Bingjie, HC Olympic, hướng dẫn. Cuối tuần qua, Li cũng dễ dàng giành HC vàng và bảo vệ thành công danh hiệu 1.500 m tự do với thành tích 15 phút 53 giây 52."
+    },
+    {
+     "t": "p",
+     "text": "Yu và Li Bingjie khá thân thiết, khi Yu xem đàn chị 24 tuổi là thần tượng và thường gọi là \"chị\". Được tập luyện cùng Li tại đội tuyển Hà Bắc giúp Yu có thêm động lực và cơ hội học hỏi. Mỗi khi gặp khó khăn trong tập luyện, Yu thường được Li tận tình hướng dẫn, chia sẻ kinh nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Loạt thành tích ở cấp trẻ lẫn cấp độ chuyên nghiệp trong năm 2024 cho thấy tiềm năng của Yu, nhưng con đường tiến bộ không hoàn toàn bằng phẳng. Cô từng nghĩ đến chuyện từ bỏ bơi lội trước giải VĐQG tháng 4/2024."
+    },
+    {
+     "t": "p",
+     "text": "\"Áp lực kép từ tập luyện và học tập khiến tôi kiệt sức\", Yu bày tỏ. \"May mắn là với sự động viên của HLV, đồng đội, bạn bè và bố mẹ, tôi nhận ra bơi lội đã trở thành một phần không thể thiếu trong cuộc sống và tôi đơn giản là không thể sống thiếu nó. Tôi thường tự động viên bản thân rằng chỉ cần tập luyện chăm chỉ, tôi sẽ đạt kết quả tốt\"."
+    },
+    {
+     "t": "p",
+     "text": "Yu đã đúng, và 12 tháng tiếp theo trở thành bước ngoặt trong sự nghiệp. Tại giải VĐQG tháng 5/2025, khi mới 12 tuổi, cô nhanh nhất trong nhóm tuổi - tính cả nam lẫn nữ - ở nội dung 200m hỗn hợp cá nhân. Sau đó, tại giải vô địch thế giới ở Singapore, cô góp phần giúp Trung Quốc vào chung kết tiếp sức 4x200m tự do nữ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Dù không thi đấu ở chung kết, nơi Trung Quốc giành HC đồng, Yu vẫn có huy chương đồng lịch sử và trở thành VĐV trẻ nhất từng giành huy chương tại giải vô địch thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi về đích ngoài top ba ở ba nội dung khác tại Singapore - 200m bướm, 200m và 400m cá nhân hỗn hợp, Yu tiếp tục giành ba HC vàng tại Đại hội Thể thao toàn quốc tháng 11, ngay lần đầu tham dự. Trong đó, cô phá kỷ lục châu Á tồn tại 13 năm ở nội dung 200 m hỗn hợp cá nhân với thành tích 2 phút 7 giây 41."
+    },
+    {
+     "t": "p",
+     "text": "Kỷ lục trước đó thuộc về kình ngư Trung Quốc Ye Shiwen, người lập thành tích tại Olympic London 2012 ngày 31/7. Khi Ye phá kỷ lục, Yu thậm chí còn chưa chào đời và phải 78 ngày sau mới được sinh ra."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, kỷ lục châu Á của Yu sau đó đã bị đồng hương Yiting Yu phá vào tháng 6. Kình ngư tỉnh Chiết Giang cải thiện thành tích 0,59 giây. Kỷ lục châu Á hiện tại ở nội dung 200m bướm nữ là 2 phút 1 giây 81, thuộc về Liu Zige, kình ngư Trung Quốc đã giải nghệ, lập tại Tế Nam năm 2009."
+    },
+    {
+     "t": "p",
+     "text": "Yu đã rút ngắn 0,63 giây so với thành tích tốt nhất của bản thân ở nội dung này. Tuy nhiên, khoảng cách vài giây so với kỷ lục châu Á vẫn là thử thách lớn đối với cô ở thời điểm hiện tại."
+    },
+    {
+     "t": "p",
+     "text": "Yu sẽ sang tuổi 14 vào tháng sau, và đang hướng tới kỷ lục của Liu. Nếu có thể phá mốc 2 phút 1 giây 81 tồn tại suốt 17 năm, mục tiêu tiếp theo có thể là kỷ lục thế giới hiện thuộc về kình ngư Canada Summer McIntosh, người thiết lập thành tích vào tháng 7. Thông số này nhanh hơn kỷ lục châu Á của Liu 0,16 giây."
+    },
+    {
+     "t": "p",
+     "text": "Khi các nội dung bơi lội Olympic Los Angeles 2028 khởi tranh tại sân SoFi ở California ngày 16/7/2028, Yu vẫn còn ba tháng nữa mới tròn 16 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Hồng Duy (theo SCMP )"
+    }
+   ]
+  },
+  {
+   "id": "62a7f34ac0ef",
+   "order": 4,
+   "slug": "trung-si-ngoc-tram-vua-xinh-vua-gioi-ban-tieng-anh-nhu-gio-s",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Trung sĩ Ngọc Trâm vừa xinh vừa giỏi: 'Bắn' tiếng Anh như gió sau khi bảo vệ thành công HCV ASIAD",
+   "sapo": "Chiều 22.9, sau khi cùng cùng Bùi Ngọc Nhi và Hoàng Thị Thu Uyên bảo vệ thành công tấm HCV kata đồng đội nữ tại ASIAD 20, nữ võ sĩ Nguyễn Ngọc Trâm đã có những chia sẻ đầy xúc động về hành trình chuẩn bị và tình yêu Tổ quốc gửi gắm trong tấm huy chương.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/thieu-uy-ngoc-tram-vua-xinh-vua-gioi-ban-tieng-anh-nhu-gio-sau-khi-bao-veh-thanh-cong-hcv-asiad-18526092214463615.htm",
+   "published": "2026-09-22T07:50:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 901,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/62a7f34ac0ef-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/62a7f34ac0ef-0.jpg",
+     "caption": "HCV thuộc về Việt Nam",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-23/62a7f34ac0ef-1.jpg",
+     "caption": "Các cô gái châu Á trên bục nhận huy chương",
+     "w": 1280,
+     "h": 817
+    },
+    {
+     "src": "img/2026-09-23/62a7f34ac0ef-2.jpg",
+     "caption": "Mắt Ngọc Trâm đỏ hoe trong phần phỏng vấn",
+     "w": 1280,
+     "h": 876
+    },
+    {
+     "src": "img/2026-09-23/62a7f34ac0ef-3.jpg",
+     "caption": "Thể thao Việt Nam có HCV đầu tiên ở ASIAD 20. Sau khi HLV Nguyễn Hoàng Ngân nghỉ làm đội tuyển, bộ môn karate Cục TDTT Việt Nam đã điều HLV trưởng đội kata nữ Việt Nam Đỗ Thu Hà (áo đen) lên thay và HLV xinh đẹp này đã thành công cùng học trò",
+     "w": 1276,
+     "h": 956
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Niềm tự hào của Ngọc Trâm"
+    },
+    {
+     "t": "p",
+     "text": "Ngọc Trâm cho biết: \"Chúng tôi đã chuẩn bị cho giải đấu này ở Osaka, ở đó từ ngày 15.8, tập luyện chăm chỉ trong vòng 1 tháng. Chúng tôi hiểu rằng ASIAD là giải đấu quan trọng với từng cá nhân và cả tập thể. Chúng tôi cần nỗ lực để giành huy chương ở giải quan trọng này\"."
+    },
+    {
+     "t": "p",
+     "text": "Karate Việt Nam trên bục nhận HCV ASIAD 20"
+    },
+    {
+     "t": "p",
+     "text": "Nói về ý nghĩa của tấm HCV vừa giành được, nữ võ sĩ không giấu được cảm xúc: \"Nếu không phải là người Việt Nam, có lẽ tôi không thể giành HCV. Đây là tấm huy chương có ý nghĩa quan trọng đối với tôi. Tôi yêu Tổ quốc tôi rất nhiều\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về cơ duyên đến với nội dung kata, Ngọc Trâm kể lại một câu chuyện khá thú vị: \"Cũng khá là buồn cười. Trong một buổi tuyển chọn có khoảng 3-4 VĐV, HLV thấy rằng tôi không có chiều cao quá tốt và bảo rằng tôi hãy theo kata (biểu diễn) đi. Và thế là tôi chọn con đường này. Nếu tôi cao hơn, tôi có thể đã chọn kumite (đối kháng)\"."
+    },
+    {
+     "t": "p",
+     "text": "Về tâm lý trước khi bước vào bài thi quyết định, Ngọc Trâm thừa nhận: \"Gia đình sẽ rất tự hào về tôi. Tôi hy vọng là vậy. Trước bài thi, tôi rất lo lắng. Đây là lần thứ 2 tôi vào chung kết ở ASIAD nhưng tôi tự nhủ rằng mình phải tập trung. Tôi đã chuẩn bị rất kỹ càng, rất chăm chỉ\". Khi trả lời câu hỏi cuối này, cô nàng rưng rưng nước mắt."
+    },
+    {
+     "t": "h",
+     "text": "HCV đầu tiên của đoàn thể thao Việt Nam ở ASIAD 20"
+    },
+    {
+     "t": "p",
+     "text": "Tấm HCV chiều 22.9 tại Nhà thi đấu Toyohashi Gymnasium càng thêm ý nghĩa khi giúp kata đồng đội nữ Việt Nam bảo vệ thành công ngôi vô địch ASIAD. Ba năm trước, tại ASIAD 19 ở Hàng Châu (Trung Quốc), Nguyễn Ngọc Trâm cùng Nguyễn Thị Phương và Lưu Thị Thu Uyên đã lên ngôi ở nội dung này. Đến ASIAD 20, Ngọc Trâm tiếp tục là trụ cột trong đội hình mới, sát cánh cùng Bùi Ngọc Nhi và Hoàng Thị Thu Uyên. Đây cũng là kỳ đại hội đáng nhớ với Bùi Ngọc Nhi, khi trước khi góp công vào tấm HCV đồng đội, cô đã giành HCĐ kata cá nhân nữ vào ngày 20.9."
+    },
+    {
+     "t": "p",
+     "text": "Quan trọng hơn, chiến thắng của 3 cô gái karate đã giải cơn khát vàng, mang về tấm HCV đầu tiên cho đoàn thể thao Việt Nam tại ASIAD 20, tạo cú hích tinh thần quan trọng cho các VĐV Việt Nam trên hành trình hướng tới mục tiêu giành từ 4 HCV trở lên tại đại hội."
+    },
+    {
+     "t": "p",
+     "text": "Ngay sau khi lên ngôi, cả 3 võ sĩ đã nhận được tiền thưởng nóng. Đại tá Nguyễn Thị Thúy Thanh, Phó cục trưởng Cục XO3 Bộ Công an kiêm Phó chủ tịch Hiệp hội Thể thao Công an nhân dân, đã trao thưởng 50 triệu đồng của hiệp hội cho trung sĩ Nguyễn Ngọc Trâm. Tập đoàn T&T cũng trao thưởng 100 triệu đồng cho riêng Nguyễn Ngọc Trâm."
+    },
+    {
+     "t": "p",
+     "text": "Màn trả lời phỏng vấn bằng tiếng Anh cực xúc động của Ngọc Trâm"
+    },
+    {
+     "t": "h",
+     "text": "Hành trình ấn tượng"
+    },
+    {
+     "t": "p",
+     "text": "Bước vào chung kết, đội tuyển Việt Nam gồm Nguyễn Ngọc Trâm, Bùi Ngọc Nhi và Hoàng Thị Thu Uyên đối đầu bộ ba võ sĩ Iran: Sadeghi Dastak Fatemeh, Hosseini Zeynabalsadat và Amini Soumeh Kabodin Depideh. Đây là đối thủ đáng gờm khi duy trì phong độ ổn định xuyên suốt giải, trước đó lần lượt thắng tuyệt đối Thái Lan ở tứ kết và Philippines ở bán kết, đều với tỷ số 5-0."
+    },
+    {
+     "t": "p",
+     "text": "Trong trận tranh HCV, các võ sĩ Iran lựa chọn bài quyền Papuren, nhập cuộc quyết tâm và hoàn thành bài biểu diễn với độ đồng đều cao. Đáp lại, Nguyễn Ngọc Trâm cùng 2 đồng đội chọn bài Tomari Bassai, thể hiện những động tác mạnh mẽ, dứt khoát nhưng vẫn giữ được sự uyển chuyển, đồng bộ. Phần bunkai - biểu diễn ứng dụng các kỹ thuật của bài kata trong tình huống đối kháng - được thực hiện đầy sức mạnh, liên tục nhận những tràng pháo tay từ khán đài. Màn trình diễn thuyết phục giúp đội tuyển Việt Nam nhận điểm số cao từ cả 5 trọng tài: 8,8 - 8,2 - 8,8 - 8,3 - 8,6, qua đó thắng tuyệt đối 5-0 trước Iran để bước lên bục cao nhất."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, Nguyễn Ngọc Trâm, Bùi Ngọc Nhi và Hoàng Thị Thu Uyên đã trải qua một hành trình hoàn hảo khi không để mất bất kỳ phiếu thắng nào trong cả 3 trận đấu. Tại tứ kết, với vị thế đương kim vô địch ASIAD, bộ ba Việt Nam chọn bài Papuren, nhận các điểm số 8,5 - 7,8 - 8,4 - 7,7 - 7,9 để thắng Nepal 5-0. Bước vào bán kết gặp Đài Loan, Ngọc Trâm cùng đồng đội chuyển sang bài Tomari Bassai và tiếp tục gây ấn tượng, được 5 trọng tài lần lượt chấm 8,0 - 8,1 - 8,1 - 8,5 - 8,5 điểm, qua đó thắng 5-0 để giành vé vào chung kết gặp Iran. Và lịch sử đã thuộc về các cô gái Đông Nam Á!"
+    }
+   ]
+  },
+  {
+   "id": "4d517830cd48",
+   "order": 5,
+   "slug": "amip-o-suoi-nuoc-nong-nui-lua-song-sot-o-63-c-lap-ky-luc-moi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Amip ở suối nước nóng núi lửa sống sót ở 63°C, lập kỷ lục mới về chịu nhiệt cho sinh vật phức tạp",
+   "sapo": "Các sinh vật phức tạp thường khá kén chọn khi nói đến nhiệt độ.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/volcanic-springs-amoeba-survives-63-c-setting-a-new-heat-record-for-complex-life",
+   "published": "2026-09-22T15:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 862,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Volcanic Springs Amoeba Survives 63 °C, Setting a New Heat Record For Complex Life",
+   "images": [
+    {
+     "src": "img/2026-09-23/4d517830cd48-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/4d517830cd48-0.jpg",
+     "caption": "Sơ đồ tóm tắt nghiên cứu. (Rappaport và cộng sự, Cell, 2026)",
+     "w": 1280,
+     "h": 1283
+    },
+    {
+     "src": "img/2026-09-23/4d517830cd48-1.jpg",
+     "caption": "Ảnh chụp bằng kính hiển vi điện tử quét của loài I. cascadensis ở D) dạng amip và E) dạng giun. (Rappaport và cộng sự, Cell, 2026)",
+     "w": 1170,
+     "h": 1305
+    },
+    {
+     "src": "img/2026-09-23/4d517830cd48-2.jpg",
+     "caption": "Tế bào Incendiamoeba đang phân bào ở nhiệt độ 63ºC. ADN được tô màu xanh, tubulin màu hồng, và màng tế bào màu xám. (Felix Mikus)",
+     "w": 609,
+     "h": 753
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các sinh vật phức tạp thường khá kén chọn khi nói đến nhiệt độ."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một loài amip mới được phát hiện, sống trong một suối nước nóng địa nhiệt (geothermal spring) nóng tới 63°C ở Vườn quốc gia núi lửa Lassen, bang California, vừa phá vỡ giới hạn nhiệt độ cao nhất từng ghi nhận ở sinh vật nhân thực (eukaryote)."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học đặt tên cho nó là Incendiamoeba cascadensis, nghĩa là \"amip lửa của dãy Cascade\"."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một trong số nhiều sinh vật được thu thập từ các dòng suối địa nhiệt của vườn quốc gia này."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khác với một số \"hàng xóm\" của mình, loài amip này vẫn giữ được sức sống mạnh mẽ ngay cả ở mức nhiệt từng là kỷ lục sinh trưởng của amip trước đây (57°C) trong phòng thí nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, nhà sinh học Angela Oliverio của Đại học Syracuse cùng các đồng nghiệp đã tiếp tục tăng dần nhiệt độ thử nghiệm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khả năng tạo ra và duy trì tất cả các loại protein cấu thành nên một cơ thể sống thường bị chi phối chặt chẽ bởi nhiệt độ. Nếu quá lạnh, các \"cỗ máy\" của sự sống sẽ chậm lại rồi ngừng hẳn. Còn nếu quá nóng, các nguyên liệu cấu thành sự sống sẽ bị phân hủy."
+    },
+    {
+     "t": "p",
+     "text": "Ngưỡng chịu nhiệt đó khác nhau tùy từng loài sinh vật, nhưng có những loài giỏi chịu đựng điều kiện khắc nghiệt hơn hẳn."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến nay, các nhà khoa học vẫn nghĩ rằng mức nhiệt cao nhất mà bất kỳ sinh vật nhân thực nào có thể chịu được là 60°C. Sinh vật nhân thực là những sinh vật phức tạp có các bào quan (organelle) riêng biệt bên trong tế bào. Đây là một nhóm sinh học bao gồm giới động vật, thực vật, nấm và nguyên sinh vật (protist)."
+    },
+    {
+     "t": "p",
+     "text": "Còn những sinh vật đơn giản hơn, cổ xưa hơn — gọi là sinh vật nhân sơ (prokaryote) — thuộc về giới vi khuẩn và giới cổ khuẩn (archaea). Loài cổ khuẩn Methanopyrus kandleri, một vi sinh vật đơn giản sống quanh các miệng phun thủy nhiệt (hydrothermal vent) dưới đáy đại dương sâu thẳm, hiện giữ kỷ lục là sinh vật chịu nhiệt cao nhất từng được ghi nhận, có thể sống ở mức 122°C."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng trong số các sinh vật nhân thực (eukaryote), loài I. cascadensis \"đã vượt qua giới hạn mà chúng ta từng nghĩ là có thể, điều này thực sự rất thú vị\", Oliverio nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Có thể còn có nhiều sinh vật nhân thực khác có khả năng sống sót ở nhiệt độ còn cao hơn nữa mà chúng ta chưa biết đến.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ở nhiệt độ 63°C, loài amip này vẫn có thể thực hiện quá trình phân bào nguyên nhiễm (mitosis), tức là quá trình tế bào tự nhân đôi theo kiểu vô tính."
+    },
+    {
+     "t": "p",
+     "text": "Vượt qua mức nhiệt độ đó, loài amip không thể tiếp tục phát triển nữa, nhưng các nhà khoa học nhận thấy nó còn có thêm vài chiêu sinh tồn khác trong \"tay áo\" mềm dẻo của mình."
+    },
+    {
+     "t": "p",
+     "text": "Bộ máy tế bào mà loài amip dùng để bảo vệ protein, sửa chữa ADN, và vận chuyển vật chất qua màng tế bào hoạt động cuống cuồng khi nhiệt độ tăng lên."
+    },
+    {
+     "t": "p",
+     "text": "Một số vi khuẩn (bacteria) và vi khuẩn cổ (archaea) ưa nhiệt tăng cường bảo vệ protein của mình bằng các axit amin mang điện tích dương. Chiến lược tương tự cũng được ghi nhận ở I. cascadensis, có thể giúp nó chống chọi với nhiệt độ khắc nghiệt theo cách tương tự."
+    },
+    {
+     "t": "p",
+     "text": "\"Dù những sinh vật này rất khác nhau, nhưng lại có sự hội tụ trong cách các đặc tính của protein được chọn lọc để duy trì ổn định ở nhiệt độ cao\", tác giả chính của nghiên cứu, Beryl Rappaport, nhà sinh vật học tại phòng thí nghiệm của Oliverio ở Đại học Syracuse, cho biết."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trên mức 64°C, loài amip chuyển sang dạng giống như bào nang (cyst), thu gọn cơ thể đơn bào của nó thành hình tròn. Loài amip được biết là dùng chiến lược này để chuyển sang trạng thái ngủ đông khi điều kiện sống trở nên quá khắc nghiệt."
+    },
+    {
+     "t": "p",
+     "text": "Cơ thể dạng bào nang của nó cũng xuất hiện những cấu trúc giống như lông, di chuyển rất nhanh, mà các nhà khoa học cho rằng có thể liên quan đến việc cảm nhận nhiệt độ."
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả sau khi bị phơi trong nhiệt độ 70°C, một khi được đưa trở về mức 60°C, loài amip vẫn có thể tiếp tục phát triển bình thường. Nhưng có vẻ như ngay cả I. cascadensis cũng có giới hạn của nó: sau khi bị \"nướng\" ở nhiệt độ 80°C, nó không thể phục hồi được nữa."
+    },
+    {
+     "t": "p",
+     "text": "Trong một thế giới mà mọi thứ sẽ chỉ ngày càng nóng hơn trong những thập kỷ tới, thật đáng mừng khi biết rằng một số sinh vật trên Trái Đất đã sẵn sàng để thích nghi với điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này đã được công bố trên tạp chí Cell."
+    }
+   ]
+  },
+  {
+   "id": "3521fe69b99a",
+   "order": 6,
+   "slug": "lan-dau-tien-cac-nha-thien-van-hoc-phat-hien-tin-hieu-radio",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Lần đầu tiên các nhà thiên văn học phát hiện tín hiệu radio phát ra trực tiếp từ một ngoại hành tinh",
+   "sapo": "Hiện vẫn chưa có bằng chứng nào cho thấy có sự sống khác ngoài Trái Đất, nhưng các nhà khoa học vẫn không ngừng quan sát và lắng nghe những dấu hiệu cho thấy chúng ta không đơn độc trong Vũ Trụ.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/astronomers-detect-radio-signals-coming-directly-from-an-exoplanet-for-the-first-time",
+   "published": "2026-09-22T02:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 972,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Astronomers Detect Radio Signals Coming Directly From an Exoplanet For The First Time",
+   "images": [
+    {
+     "src": "img/2026-09-23/3521fe69b99a-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/3521fe69b99a-0.jpg",
+     "caption": "Hành tinh b là một trong ba hành tinh đã biết quay quanh sao Beta Pictoris (hành tinh thứ ba không xuất hiện trong sơ đồ này). (Ceballos et al., arXiv, 2026)",
+     "w": 600,
+     "h": 581
+    },
+    {
+     "src": "img/2026-09-23/3521fe69b99a-1.jpg",
+     "caption": "Những đợt sóng radio ngắn, lặp đi lặp lại đã được phát hiện từ hành tinh b. (Ceballos et al., arXiv, 2026)",
+     "w": 600,
+     "h": 403
+    },
+    {
+     "src": "img/2026-09-23/3521fe69b99a-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 628
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hiện vẫn chưa có bằng chứng nào cho thấy có sự sống khác ngoài Trái Đất, nhưng các nhà khoa học vẫn không ngừng quan sát và lắng nghe những dấu hiệu cho thấy chúng ta không đơn độc trong Vũ Trụ."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một nhóm nghiên cứu từ Trung tâm Vật lý thiên văn Harvard & Smithsonian và Đại học Oregon vừa công bố một bước tiến quan trọng: tín hiệu radio phát ra trực tiếp từ một ngoại hành tinh (exoplanet - hành tinh nằm ngoài Hệ Mặt Trời)."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, những tín hiệu radio phát hiện được trong các hệ hành tinh không thể xác định rõ ràng là đến từ hành tinh hay từ ngôi sao mà nó quay quanh."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, đây không phải là người ngoài hành tinh đang cố liên lạc với chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Đó là tín hiệu phát ra từ cực quang của ngoại hành tinh này, được tạo ra khi các hạt mang điện tương tác với bầu khí quyển và từ trường của hành tinh, giải phóng năng lượng. Trái Đất cũng có cực quang, chính là hiện tượng ánh sáng cực quang bắc và nam mà chúng ta thấy được."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Mặc dù các đợt phát sóng radio từ cực quang đã được quan sát thấy ở các hành tinh trong Hệ Mặt Trời và ở một số sao lùn siêu lạnh (ultracool dwarf), nhưng trước đây chưa từng có tín hiệu radio nào được xác định rõ ràng là đến từ một hành tinh ngoài Hệ Mặt Trời thay vì từ ngôi sao chủ của nó,\" các nhà nghiên cứu viết trong bài báo khoa học của mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi phát hiện những đợt sóng ngắn, lặp lại nhanh và phân cực tròn rất mạnh, cùng với bức xạ liên tục, ở tần số từ 0,85 đến 3,5 GHz.\""
+    },
+    {
+     "t": "p",
+     "text": "Đó là dải tần số mà các nhà nghiên cứu đã thu được bằng hệ thống kính viễn vọng radio MeerKAT ở Nam Phi, qua bốn lần quan sát riêng biệt trong năm 2025 và 2026."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đối tượng được hệ thống kính viễn vọng này tập trung quan sát là ngôi sao Beta Pictoris, cách chúng ta khoảng 63,4 năm ánh sáng, với ba hành tinh đã biết quay quanh nó là Beta Pictoris b, Beta Pictoris c và Beta Pictoris d."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả quan sát cho thấy những đợt sóng radio ngắn, lặp đi lặp lại, với sóng radio bị phân cực tròn rất mạnh. Đây chính là dấu hiệu đặc trưng của tín hiệu phát ra từ hiện tượng cực quang."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách dùng lõi các thiên hà siêu sáng gọi là chuẩn tinh (quasar) làm điểm mốc trên bản đồ bầu trời, các nhà nghiên cứu đã có thể xác định với độ chắc chắn cao rằng chính hành tinh b, chứ không phải ngôi sao Beta Pictoris, là nguồn phát ra các tín hiệu này."
+    },
+    {
+     "t": "p",
+     "text": "Beta Pictoris là một ngôi sao \"loại sớm\" (early-type), nghĩa là nó nóng hơn, lớn hơn và có cấu trúc khác so với những ngôi sao như Mặt Trời của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "\"Không có cơ chế vật lý nào được biết đến có thể gây ra sự phát xạ sóng radio ở các ngôi sao loại sớm có thể giải thích được sự phát xạ quan sát được này\", các nhà nghiên cứu viết."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tiếp tục chứng minh việc tách riêng một tín hiệu radio như thế này hữu ích đến mức nào. Các đặc điểm của tín hiệu này cho thấy nó liên quan đến hiện tượng Bất ổn định Maser Cyclotron Electron (Electron Cyclotron Maser Instability - ECMI), chính là quá trình tạo ra cực quang trên Trái Đất và Sao Mộc."
+    },
+    {
+     "t": "p",
+     "text": "Hơn nữa, ECMI còn cung cấp manh mối về từ trường của một hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "Có vẻ như Beta Pictoris b có một từ trường đặc biệt mạnh, điều này phù hợp với các mô hình trước đây về hành tinh này và cơ chế dynamo của nó (các quá trình bên trong tạo ra từ trường)."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là phép đo trực tiếp đầu tiên về cường độ từ trường của một ngoại hành tinh, và phù hợp với các dự đoán theo tỷ lệ dynamo dành cho một hành tinh khí khổng lồ trẻ và có khối lượng lớn\", các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tính toán rằng hành tinh b có một từ trường rất mạnh, mạnh gấp hàng nghìn lần từ trường Trái Đất, với sự phát xạ radio cực quang có thể được tạo ra nhờ tốc độ quay nhanh của nó (hành tinh này chỉ mất 8 đến 9 giờ để quay hết một vòng)."
+    },
+    {
+     "t": "p",
+     "text": "Beta Pictoris b được phát hiện lần đầu tiên vào năm 2008 và có kích thước khổng lồ - khối lượng của nó lớn gấp khoảng 10 lần Sao Mộc."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, nó còn có thêm một điểm đặc biệt nữa: đây là ngoại hành tinh đầu tiên mà chúng ta phát hiện được tín hiệu radio rõ ràng."
+    },
+    {
+     "t": "p",
+     "text": "Hiện các nhà nghiên cứu đang hướng sự chú ý đến những hành tinh khác. Cụ thể là bảy hành tinh ngoài hệ Mặt Trời (exoplanet) khổng lồ khác đã được biết đến, nằm trong năm hệ sao gần đó, có thể sớm được phân tích theo cách tương tự như đã làm với Beta Pictoris b."
+    },
+    {
+     "t": "p",
+     "text": "\"Độ nhạy của thiết bị được cải thiện khoảng 5 đến 7 lần, điều được kỳ vọng từ các đài quan sát vô tuyến thế hệ mới, sẽ giúp chúng nằm trong tầm phát hiện được,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này chưa được công bố trên một tạp chí khoa học có bình duyệt, nhưng đã được đăng tải trực tuyến trên arXiv."
+    }
+   ]
+  },
+  {
+   "id": "4a34e8e7a382",
+   "order": 7,
+   "slug": "nghien-cuu-do-nasa-tai-tro-phat-hien-su-song-phuc-tap-bat-ch",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Nghiên cứu do NASA tài trợ phát hiện sự sống phức tạp bất chấp nhiệt độ kỷ lục",
+   "sapo": "",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+   "published": "2026-09-22T17:33:10+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1650,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+   "images": [
+    {
+     "src": "img/2026-09-23/4a34e8e7a382-lead.jpg",
+     "caption": "",
+     "w": 1130,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-09-23/4a34e8e7a382-0.jpg",
+     "caption": "Hình ảnh cho thấy góc nhìn qua vai một nhà khoa học mặc áo dài tay màu xanh và đội mũ rộng vành màu nâu để tránh nắng gắt. Người này còn mặc áo phản quang. Họ đang đưa một chiếc que lấy mẫu về phía một dòng suối nước nóng nhỏ, xung quanh mọc đầy cỏ cao. Nước có lớp nhớt màu nâu/xanh lá bám quanh mép suối.",
+     "w": 1280,
+     "h": 956
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các nhà khoa học được NASA hỗ trợ đã phát hiện ra một sinh vật sống được ở nhiệt độ cực cao mà trước đây người ta nghĩ là điều không thể đối với sự sống phức tạp. Nhiệt độ cao có thể phá hủy các bộ phận cần thiết của tế bào, và đây là một vấn đề lớn đối với những tế bào có cấu trúc phức tạp như nhân tế bào bao bọc thông tin di truyền vốn rất mong manh."
+    },
+    {
+     "t": "p",
+     "text": "Trong dòng nước nóng ở Vườn quốc gia núi lửa Lassen, bang California, một nhóm nhà khoa học đã quan sát thấy một loài amip có thể sinh sản bằng cách phân chia ở nhiệt độ đáng kinh ngạc là 63 độ C (145 độ F), lập kỷ lục về giới hạn nhiệt độ cao nhất mà mọi sinh vật nhân thực (eukaryote) từng biết đến có thể chịu được. Loài này có tên Incendiamoeba cascadensis, còn được gọi là \"amip lửa\", ngừng sinh sản khi nhiệt độ vượt quá 63 độ C, nhưng vẫn hoạt động, di chuyển tìm thức ăn ở nhiệt độ lên tới 64 độ C (147 độ F). Giới hạn trước đó là 60 độ C (140 độ F) đối với sinh vật nhân thực, do một vài loài nấm và tảo đỏ nắm giữ. Kết quả nghiên cứu được công bố hôm thứ Ba trên tạp chí Cell."
+    },
+    {
+     "t": "p",
+     "text": "Từ lâu, các nhà sinh học vũ trụ (astrobiologist) đã nghiên cứu giới hạn sinh tồn của sự sống trên Trái Đất để tìm hiểu xem sinh vật có thể sống như thế nào trên những hành tinh khác như Sao Hỏa, nơi điều kiện khắc nghiệt hơn nhiều so với hành tinh của chúng ta. Những sinh vật có thể tồn tại ở ranh giới của khả năng sinh sống, trong điều kiện nhiệt độ, độ pH, bức xạ và các yếu tố môi trường cực đoan khác, được gọi là sinh vật ưa cực (extremophile). Nghiên cứu chúng giúp các nhà khoa học hiểu được giới hạn khả năng của sự sống mà chúng ta biết. Sinh vật ưa cực còn tạo ra những loại protein đặc biệt, có thể mang lại ứng dụng đầy hứa hẹn trong công nghệ sinh học, từ ứng dụng công nghiệp cho đến y học."
+    },
+    {
+     "t": "p",
+     "text": "Các nghiên cứu trước đây về sinh vật ưa cực chủ yếu tập trung vào vi khuẩn (bacteria) và vi khuẩn cổ (archaea) đơn bào. Nghiên cứu mới này cho thấy tế bào phức tạp hơn của sinh vật nhân thực có thể bền bỉ hơn những gì người ta từng nghĩ, và thậm chí có thể giúp các nhà khoa học hiểu được những nơi nào trong vũ trụ có thể tồn tại sự sống phức tạp."
+    },
+    {
+     "t": "h",
+     "text": "Sự sống phức tạp trên Trái Đất"
+    },
+    {
+     "t": "p",
+     "text": "Sự sống trên Trái Đất được chia thành hai nhóm lớn: sinh vật nhân sơ (prokaryote) và sinh vật nhân thực (eukaryote). Sinh vật nhân sơ là những sinh vật đơn bào không có nhân hay các bào quan (organelle) được bao bọc bởi màng bên trong tế bào. Điều này có nghĩa là chúng có ít \"bộ máy\" tế bào hơn để có thể bị hư hại bởi các điều kiện khắc nghiệt như nóng bỏng, lạnh giá, tính axit ăn mòn hay bức xạ gây hại."
+    },
+    {
+     "t": "p",
+     "text": "Những sinh vật sống trong môi trường cực nóng được gọi là sinh vật ưa nhiệt (thermophile). Để được coi là sinh vật \"ưa nhiệt\" thực sự, sinh vật đó phải có khả năng sinh sản, di chuyển, ăn uống và sống sót ở nhiệt độ trên 45 độ C (113 độ F)."
+    },
+    {
+     "t": "p",
+     "text": "Sinh vật nhân sơ bao gồm vi khuẩn và vi khuẩn cổ, trong đó vi khuẩn cổ đặc biệt giỏi chịu đựng các điều kiện khắc nghiệt. Vì có cấu trúc tương đối đơn giản, các nhà khoa học cũng cho rằng sinh vật nhân sơ chính là những dạng sống đầu tiên xuất hiện trên Trái Đất, cách đây hàng tỷ năm, khi môi trường của hành tinh chúng ta khắc nghiệt hơn nhiều so với hiện nay."
+    },
+    {
+     "t": "p",
+     "text": "Sinh vật nhân thực là những sinh vật phức tạp hơn, được cho là xuất hiện muộn hơn trong lịch sử sự sống trên Trái Đất. Những sinh vật này có một nhân tế bào riêng biệt bên trong tế bào, chứa thông tin di truyền mong manh. Sinh vật nhân thực còn có các bào quan được bao bọc bởi màng, như ty thể (mitochondria) và lưới nội chất (endoplasmic reticulum). Các bào quan này giống như những \"cỗ máy\" nhỏ trong tế bào, mỗi cái đảm nhận một chức năng riêng. Sinh vật nhân thực bao gồm rất nhiều dạng sống, từ tảo đơn bào cho đến các sinh vật đa bào như thực vật và con người."
+    },
+    {
+     "t": "h",
+     "text": "Sự phức tạp trong môi trường nóng cực độ"
+    },
+    {
+     "t": "p",
+     "text": "Nhiệt độ cao khiến protein và các phân tử sinh học khác mà tế bào sống cần để hoạt động bị phá vỡ. Nhiệt cũng có thể làm màng tế bào tan rã, từ đó phá hủy tế bào. Trước đây, người ta cho rằng màng của các bào quan (organelle) ở sinh vật nhân thực (eukaryote) không thể giữ ổn định ở nhiệt độ trên 62 độ C. Việc phát hiện ra I. cascadensis đã chứng minh giả định đó là sai."
+    },
+    {
+     "t": "p",
+     "text": "\"Một phần lý do các nghiên cứu về sinh vật nhân thực còn hạn chế có thể là do những giả định về độ ổn định của màng tế bào,\" Beryl Rappaport, nghiên cứu sinh tại Đại học Syracuse và là tác giả chính của nghiên cứu, cho biết. \"Chúng tôi hy vọng việc phát hiện ra I. cascadensis sẽ khuyến khích những người khác tiếp tục tìm kiếm các sinh vật nhân thực chịu nhiệt cao.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã giải trình tự bộ gen (genome) của I. cascadensis, nghiên cứu sự biểu hiện của các gen ở nhiều mức nhiệt độ khác nhau. Họ tìm thấy nhiều gen giúp loài amip này ổn định ADN và bảo vệ nó khỏi bị phá vỡ. Một số gen khác giúp sinh vật cảm nhận môi trường bên ngoài. Ở nhiệt độ cao, sự biểu hiện của một số gen cũng tăng lên, trong đó có những gen liên quan đến việc duy trì hình dạng gấp cuộn của protein."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đã khám phá ra nhiều chiến lược có thể giúp I. cascadensis sống sót ở nhiệt độ cao, và một số chiến lược trong đó có thể được các sinh vật ưa nhiệt (thermophile) khác trong toàn bộ sự sống sử dụng,\" Rappaport nói. \"Ví dụ, một số protein trong I. cascadensis mang điện tích dương cao trên bề mặt, giúp chúng giữ được sự ổn định. Những điện tích protein này tương tự như điện tích tìm thấy ở vi khuẩn và vi sinh vật cổ (archaea) ưa nhiệt.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu cũng so sánh thông tin di truyền từ các nghiên cứu khác trên khắp thế giới. Trong kho dữ liệu khổng lồ này, họ tìm thấy những đoạn ADN tương tự từ các mẫu vật lấy ở khu vực địa nhiệt tại New Zealand và Vườn quốc gia Yellowstone. Điều này có nghĩa là có thể còn nhiều loài amip ưa nhiệt khác họ hàng với I. cascadensis đang sống ở khắp nơi trên toàn cầu, chỉ chờ được phát hiện."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Tìm kiếm sự sống ngoài Trái Đất"
+    },
+    {
+     "t": "p",
+     "text": "Trái Đất là hành tinh duy nhất mà chúng ta biết có sự sống. Để sự sống như chúng ta biết có thể tồn tại trên các hành tinh khác trong hệ Mặt Trời hoặc xa hơn, các sinh vật có thể phải thích nghi với những điều kiện môi trường rất khác so với những gì ta thấy ở quê nhà."
+    },
+    {
+     "t": "p",
+     "text": "\"Nghiên cứu các sinh vật cực đoan (extremophile) giúp chúng ta hiểu rõ hơn về giới hạn sinh hóa và sinh lý của sự sống như chúng ta biết trên Trái Đất,\" Alison Olcott, nhà khoa học chương trình Sinh học ngoài Trái Đất (Exobiology) tại Trụ sở NASA ở Washington, cho biết. \"Thông tin này, đến lượt nó, giúp định hướng cho việc NASA tìm kiếm sự sống, khi mở rộng phạm vi các điều kiện mà chúng ta nghĩ rằng sự sống có thể tồn tại ở nơi khác.\""
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, nghiên cứu này giúp chúng ta hiểu rõ hơn về nơi và cách mà sự sống có tế bào phức tạp có thể tồn tại, trên Trái Đất và cả ở những nơi khác."
+    },
+    {
+     "t": "p",
+     "text": "Olcott cho biết: “Việc tìm thấy các sinh vật nhân thực (eukaryotes) sống sót trong môi trường nhiệt độ cao không chỉ mở rộng hiểu biết của chúng ta về những nơi có thể tồn tại sự sống, mà còn cho thấy sự sống đó có thể phức tạp đến mức nào.”"
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các nhà nghiên cứu cũng chỉ ra rằng sự sống sót còn phụ thuộc vào rất nhiều yếu tố nằm trong một hệ sinh thái rộng lớn hơn."
+    },
+    {
+     "t": "p",
+     "text": "Rappaport nói: “Việc một sinh vật phức tạp như I. cascadensis có thể sống sót trên một hành tinh khác chắc chắn là điều có thể xảy ra, nhưng Trái Đất hiện là hành tinh duy nhất mà chúng ta biết có đầy đủ mọi điều kiện để loài I. cascadensis sống khỏe mạnh. Vấn đề không chỉ nằm ở nhiệt độ. Một môi trường còn cần có độ axit, mức oxy, áp suất, nước và thức ăn phù hợp. I. cascadensis không thể tự mình tồn tại một mình. Nó cần những sinh vật khác để được hỗ trợ nữa.”"
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về ngành sinh học vũ trụ (astrobiology) tại NASA, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/astrobiology"
+    }
+   ]
+  },
+  {
+   "id": "0c1c0768bc71",
+   "order": 8,
+   "slug": "barbara-mazzolai-muon-xay-dung-mot-linh-vuc-moi-cua-nganh-ro",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Barbara Mazzolai muốn xây dựng một lĩnh vực mới của ngành robot học",
+   "sapo": "Robot học bền vững không chỉ dừng lại ở việc lấy cảm hứng từ sinh học, mà còn hướng tới những thiết kế giảm thiểu tác động lên môi trường, tạo ra tương lai cùng tồn tại hài hòa giữa con người và thiên nhiên.",
+   "author": "Edd Gent",
+   "source_name": "IEEE Spectrum",
+   "source_url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+   "published": "2026-09-22T14:00:04+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1906,
+   "translated": true,
+   "translated_from": "IEEE Spectrum",
+   "title_original": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+   "images": [
+    {
+     "src": "img/2026-09-23/0c1c0768bc71-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 600
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong suốt sự nghiệp của mình, nhà khoa học robot Barbara Mazzolai luôn tìm đến thiên nhiên để lấy cảm hứng. Giờ đây, bà muốn chắc chắn rằng công nghệ mình tạo ra cũng sẽ đóng góp trở lại cho môi trường."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi bắt đầu sự nghiệp với vai trò một nhà sinh học, một cơ hội tình cờ đã đưa Mazzolai chuyển hướng sang ngành kỹ thuật và trở thành một trong những người tiên phong của robot học lấy cảm hứng từ sinh học (bioinspired robotics). Dựa trên kiến thức về khả năng giải quyết nhiều vấn đề đa dạng của sinh học, bà đã chế tạo ra các robot mô phỏng theo bạch tuộc, rễ cây, và thậm chí cả hạt giống. \"Tôi luôn bị cuốn hút bởi các sinh vật sống, [và] bởi sự đa dạng phi thường của những giải pháp trong tự nhiên, được chọn lọc qua quá trình tiến hóa,\" bà nói."
+    },
+    {
+     "t": "h",
+     "text": "Barbara Mazzolai"
+    },
+    {
+     "t": "p",
+     "text": "Nơi công tác:"
+    },
+    {
+     "t": "p",
+     "text": "Viện Công nghệ Ý (Italian Institute of Technology)"
+    },
+    {
+     "t": "p",
+     "text": "Chức vụ:"
+    },
+    {
+     "t": "p",
+     "text": "Phó giám đốc phụ trách robot học; giám đốc Phòng thí nghiệm Robot mềm lấy cảm hứng sinh học (Bioinspired Soft Robotics Laboratory)"
+    },
+    {
+     "t": "p",
+     "text": "Học vấn:"
+    },
+    {
+     "t": "p",
+     "text": "Thạc sĩ sinh học, Đại học Pisa; thạc sĩ quản lý và kiểm toán sinh thái, Trường Scuola Superiore Sant'Anna; tiến sĩ kỹ thuật vi hệ thống, Đại học Rome Tor Vergata"
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Mazzolai, hiện là phó giám đốc phụ trách robot học tại Viện Công nghệ Ý, ở thành phố Genoa, cũng tin rằng ngành kỹ thuật cần nhìn nhận lại tác động của chính mình lên thế giới tự nhiên. Đó là lý do vì sao bà đang thúc đẩy một lĩnh vực nghiên cứu mới mà bà gọi là \"robot học bền vững\" (sustainability robotics)."
+    },
+    {
+     "t": "p",
+     "text": "Trong một bản tuyên ngôn công bố trên tạp chí Nature Machine Intelligence vào tháng 7, bà và các cộng sự đã phác thảo tầm nhìn về một cách tiếp cận mới trong thiết kế robot, nhằm cải thiện mối quan hệ giữa tự nhiên, con người và công nghệ."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng ta cần giảm bớt dấu chân của công nghệ lên môi trường,\" bà nói. \"Đây thực sự là việc suy nghĩ theo một cách khác để mở ra những khả năng mới cho robot học và cho xã hội.\" Trong lối tư duy mới này, Mazzolai xem tính bền vững là một thành phần cốt lõi của thiết kế."
+    },
+    {
+     "t": "h",
+     "text": "Đứa con của tự nhiên"
+    },
+    {
+     "t": "p",
+     "text": "Mazzolai kể rằng niềm say mê thế giới tự nhiên của bà bắt nguồn từ thời thơ ấu lớn lên ở vùng bờ biển Tuscany của Ý, gần thành phố cảng Livorno. Cha bà là một thanh tra y tế công cộng kiêm nhà nấm học chuyên nghiệp, và cả gia đình dành nhiều thời gian khám phá rừng và tìm hiểu về nấm cùng thực vật địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi cân nhắc theo đuổi nghệ thuật, niềm đam mê lớn khác của mình, cuối cùng Mazzolai quyết định ghi danh vào Đại học Pisa năm 1987 để học ngành sinh học. Bà đặc biệt yêu thích sinh học biển, nhưng ngay trước khi tốt nghiệp thạc sĩ năm 1995, bà đã có được vị trí nghiên cứu tại Viện Vật lý sinh học thuộc Hội đồng Nghiên cứu Quốc gia Ý, nghiên cứu về chu trình của các kim loại nặng như thủy ngân trong cả các thành phần sống và không sống của môi trường."
+    },
+    {
+     "t": "p",
+     "text": "Công việc này bao gồm việc thu thập và phân tích mẫu từ nước, đất, rau củ, và thậm chí cả con người để hiểu tác động của các kim loại này đến sức khỏe và môi trường. Bà vừa làm công việc này vừa học ngành quản lý môi trường tại trường Scuola Superiore Sant'Anna ở Pisa, tốt nghiệp thạc sĩ năm 1998."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, trong thời gian đó, bà biết được rằng trường đại học đang tuyển các nhà sinh học để giúp thiết kế các thiết bị mới phục vụ giám sát môi trường. Bà nộp đơn và được nhận vào làm năm 1999, bắt đầu công việc trợ lý nghiên cứu dưới sự hướng dẫn của nhà robot học sinh học nổi tiếng Paolo Dario, ban đầu phát triển cảm biến rồi sau đó là robot dùng để giám sát không khí, nước và đất."
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả trước khi tham gia chương trình tiến sĩ, Mazzolai đã được thăng chức trợ lý giáo sư vào năm 2004 và không lâu sau đó có bước đột phá đầu tiên trong lĩnh vực robot phỏng sinh học. Hợp tác cùng các đồng nghiệp tại Sant'Anna, bà đã giúp thiết kế một robot mềm lấy cảm hứng từ loài bạch tuộc. \"Chúng tôi đề xuất nó như một mô hình mẫu để khởi xướng ý tưởng về robot mềm (soft robotics): chứng minh rằng robot có thể mềm mại nhưng đồng thời vẫn tác động lực mạnh lên môi trường xung quanh, giống như con vật thật vậy,\" bà nói."
+    },
+    {
+     "t": "h",
+     "text": "Trở lại giảng đường"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2007, Mazzolai ghi danh học tiến sĩ ngành kỹ thuật vi hệ thống tại Đại học Tor Vergata ở Roma, vừa học vừa duy trì công việc tại Sant'Anna. Khi đó bà đã dựa nhiều vào các kỹ thuật vi chế tạo (microfabrication) để phát triển cảm biến cho robot của mình, và bà rất muốn thúc đẩy mảng này của lĩnh vực tiến xa hơn."
+    },
+    {
+     "t": "p",
+     "text": "Bà cho biết, dù robot thường được trang bị các cảm biến để cảm nhận, chẳng hạn như cảm biến xúc giác hay cảm biến cảm nhận bản thân (proprioceptive sensors), những hệ thống này thường chỉ tập trung vào việc hiểu vị trí của robot trong môi trường xung quanh. \"Nhưng rất ít robot tích hợp cảm biến vật lý hay hóa học để thực sự hiểu môi trường mà chúng di chuyển trong đó,\" bà nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi luôn bị mê hoặc bởi các sinh vật sống, bởi sự đa dạng phi thường của những giải pháp mà thiên nhiên tạo ra.\""
+    },
+    {
+     "t": "p",
+     "text": "Năm 2009, Mazzolai được bổ nhiệm làm trưởng nhóm tại Trung tâm Vi Cơ Sinh học (Center for Micro-BioRobotics) thuộc Viện Công nghệ Ý, nơi bà tiếp tục công việc của mình trong lĩnh vực robot phỏng sinh học (bioinspired robotics) mới nổi. Hai năm sau, bà hoàn thành bằng tiến sĩ và được thăng chức giám đốc trung tâm."
+    },
+    {
+     "t": "h",
+     "text": "Gieo những hạt giống"
+    },
+    {
+     "t": "p",
+     "text": "Mazzolai cho biết khoảng thời gian này bà bắt đầu quan tâm đến việc dùng thực vật làm hình mẫu cho những loại robot mới, mở rộng nguồn cảm hứng sinh học ra ngoài phạm vi động vật. Đặc biệt, bà bị cuốn hút bởi khả năng của rễ cây trong việc khám phá môi trường dưới lòng đất một cách hiệu quả, và bà hình dung những cỗ máy có sự khéo léo tương tự có thể được ứng dụng trong cả mô hình hóa môi trường lẫn nông nghiệp chính xác."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi nhiều robot phỏng sinh học mô phỏng động vật, thực vật cũng là nguồn cảm hứng của Mazzolai. Con robot giống như tua cuốn này có thể quấn quanh các cấu trúc khác như một loài dây leo. Viện Công nghệ Ý"
+    },
+    {
+     "t": "p",
+     "text": "Khi bà lần đầu đề xuất ý tưởng này, các đồng nghiệp có phần hoài nghi về những robot dựa trên các sinh vật có vẻ tĩnh tại. Nhưng trên thực tế, bà nói, thực vật chuyển động không ngừng thông qua một quá trình gọi là tăng trưởng vô hạn (indeterminate growth). \"Chúng thực sự lớn lên suốt cả cuộc đời,\" bà nói. \"Chúng thích nghi hình thái, hành vi của mình với môi trường bên ngoài; chúng tự sửa chữa, cảm nhận, giao tiếp.\""
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, việc cố gắng mô phỏng một hệ thống vận hành theo những nguyên lý khác biệt hoàn toàn so với robot thông thường đòi hỏi phải suy nghĩ rất nghiêm túc. Mazzolai cho biết làm việc trong lĩnh vực robot phỏng sinh học đôi khi đòi hỏi bạn phải có \"hai bộ óc riêng biệt\"—một của nhà sinh học và một của kỹ sư."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình này thường đòi hỏi nghiên cứu sâu về sinh vật mục tiêu để tìm hiểu những nguyên lý nền tảng chi phối cách nó hoạt động, trước khi cố gắng chế tạo một robot có khả năng mô phỏng chúng. \"Đây không phải là bản sao của các sinh vật tự nhiên,\" Mazzolai nói, bởi một sinh vật sống vừa khó có thể sao chép được, vừa có những mục tiêu khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Trong trường hợp của rễ cây, điều khiến chúng khám phá đất hiệu quả đến vậy là chúng giảm ma sát bằng cách chỉ phát triển ở phần đầu rất mảnh của cấu trúc, trong khi phần gốc dày hơn của rễ vẫn giữ nguyên vị trí. Điều này giúp giảm đáng kể lượng năng lượng cần thiết để xuyên qua đất so với một chiếc máy khoan thông thường, vốn phải đẩy toàn bộ cấu trúc từ phía trên."
+    },
+    {
+     "t": "p",
+     "text": "Để hiện thực hóa nguyên tắc này trong một robot, nhóm của cô đã phát triển một chiếc máy in 3D thu nhỏ đặt ở đầu robot. Máy in này đẩy sợi nhựa nhiệt dẻo qua một đầu phun nung nóng để tạo ra phần thân giống rắn phía sau nó. Nhờ đó, robot có thể chui qua đất một cách hiệu quả. Phần đầu robot cũng chứa các cảm biến giúp nó tránh chướng ngại vật và phát hiện chất dinh dưỡng hay nước ở gần."
+    },
+    {
+     "t": "h",
+     "text": "Làm cho robot học trở nên bền vững"
+    },
+    {
+     "t": "p",
+     "text": "Sau nhiều năm học hỏi từ thiên nhiên trong sự nghiệp của mình, giờ đây Mazzolai muốn đền đáp lại. Cô cho biết nhiều công nghệ hiện đại, kể cả nhựa và pin xe hơi, đã được phát triển mà ít ai nghĩ đến chuyện chúng sẽ ảnh hưởng thế nào đến môi trường khi hết vòng đời sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Cô muốn đảm bảo rằng ngành robot học sẽ không đi theo con đường đó. Đây chính là nguồn cảm hứng cho điều mà cô và các cộng sự gọi là \"robot học bền vững\" (sustainability robotics). Cách tiếp cận này có ba trụ cột chính: đảm bảo robot gây tác động tối thiểu đến môi trường; robot đến được với mọi người trên khắp thế giới, không phân biệt hoàn cảnh kinh tế xã hội; và robot mang tính \"cộng sinh\", mang lại lợi ích cho cả con người lẫn thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể hơn, Mazzolai muốn đưa khái niệm vòng đời vào việc thiết kế robot, để khi hết thời gian sử dụng, những cỗ máy này có thể được tái sử dụng, tái chế, hoặc thậm chí phân hủy sinh học."
+    },
+    {
+     "t": "p",
+     "text": "Nghe có vẻ tham vọng, nhưng cô tin rằng mọi yếu tố cần thiết để biến điều đó thành hiện thực đều đã sẵn sàng. Và cô chắc chắn đây là tầm nhìn sẽ truyền cảm hứng cho các nhà chế tạo robot trong tương lai. \"Có những người trẻ thực sự muốn làm việc trong lĩnh vực này, vì đây là tương lai, là tương lai của chính họ,\" cô nói. Trước nguy cơ môi trường ngày càng bị tổn hại, \"họ muốn tạo ra thứ gì đó có thể giúp ích.\""
+    }
+   ]
+  },
+  {
+   "id": "1605fa59cc9a",
+   "order": 9,
+   "slug": "phat-hien-luong-lon-xuong-voi-ma-mut-thoi-bang-ha-duoi-cong",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Phát hiện lượng lớn xương voi ma mút thời băng hà dưới công trường xây dựng ở Séc",
+   "sapo": "Voi ma mút lông xoăn – họ hàng của voi hiện đại, to lớn như voi và được bao phủ bởi lớp lông dày – từng sinh sống trên những đồng cỏ băng giá của châu Âu và châu Á thời băng hà.",
+   "author": "Esra Öz",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/huge-haul-of-ice-age-mammoth-bones-unearthed-beneath-czech-construction-site",
+   "published": "2026-09-22T11:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1381,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Huge Haul of Ice Age Mammoth Bones Unearthed Beneath Czech Construction Site",
+   "images": [
+    {
+     "src": "img/2026-09-23/1605fa59cc9a-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/1605fa59cc9a-0.jpg",
+     "caption": "Xương voi ma mút lộ ra tại một trong những khu vực có mật độ hóa thạch dày đặc nhất ở địa điểm Bukov. (Dominik Chlachula)",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-09-23/1605fa59cc9a-1.jpg",
+     "caption": "Một mảnh mũi nhọn bằng đá được tìm thấy tại địa điểm khảo cổ Bukov. (Dominik Chlachula)",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-09-23/1605fa59cc9a-2.jpg",
+     "caption": "Địa điểm Bukov trong quá trình khai quật năm 2025. (Dominik Chlachula)",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-23/1605fa59cc9a-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 628
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Voi ma mút lông xoăn – họ hàng của voi hiện đại, to lớn như voi và được bao phủ bởi lớp lông dày – từng sinh sống trên những đồng cỏ băng giá của châu Âu và châu Á thời băng hà."
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 11 năm 2024, các nhà khảo cổ đang giám sát một công trường xây dựng ở Séc đã phát hiện thứ gì đó nhô lên từ lòng đất: xương voi ma mút."
+    },
+    {
+     "t": "p",
+     "text": "Khi lớp đất được dọn sạch, phát hiện này dần hé lộ một khung cảnh từ thời băng hà. Hàng nghìn di cốt động vật nằm lẫn với những mũi đá vỡ, dấu vết của lửa và đất son đỏ (ochre)."
+    },
+    {
+     "t": "p",
+     "text": "Ít nhất 20 con voi ma mút đã kết thúc cuộc đời tại cùng một nơi."
+    },
+    {
+     "t": "p",
+     "text": "Lớp trầm tích này có thể lưu giữ bằng chứng về những cuộc săn voi ma mút diễn ra nhiều lần, cách đây khoảng 27.000 năm."
+    },
+    {
+     "t": "p",
+     "text": "Số xương này lộ ra trong quá trình xây dựng một Cung Tư pháp ở Bukov, một khu vực thuộc thành phố Ústí nad Labem, miền bắc vùng Bohemia."
+    },
+    {
+     "t": "p",
+     "text": "Trên diện tích khoảng 1.000 mét vuông, các nhà khảo cổ đã ghi nhận hơn 3.500 di cốt động vật. Mười chín chiếc hàm dưới và một chiếc răng riêng lẻ cho thấy có ít nhất 20 con voi ma mút lông xoăn."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra còn có tê giác lông xoăn, một con ngựa, một con tuần lộc và một con thỏ rừng."
+    },
+    {
+     "t": "p",
+     "text": "Trong số các di cốt tìm được, gần như đầy đủ mọi phần của bộ xương voi ma mút đều xuất hiện, tuy nhiên ngà và phần hộp sọ lại khá hiếm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu lưu ý rằng việc săn những loài động vật lớn thường đòi hỏi sự phối hợp theo nhóm, dù địa điểm Bukov chưa cho thấy rõ các cuộc săn đã được tổ chức như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Ba dấu vết đốt lửa rõ ràng nằm bên dưới lớp xương; có thể còn một dấu vết thứ tư — một chỗ tập trung xương cháy — nằm ở phía bắc khu vực tích tụ dày đặc nhất."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khảo cổ đã tìm thấy những viên đá có khả năng được mang tới địa điểm này, cùng một mặt dây chuyền làm từ ngà voi ma mút. Những vệt son đỏ (red ochre) xuất hiện ngay bên dưới các khúc xương lớn."
+    },
+    {
+     "t": "p",
+     "text": "Son đỏ là một loại sắc tố giàu chất sắt được người tiền sử sử dụng. Nghiên cứu này không giải thích công dụng của nó."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã thu được các công cụ thuộc thời kỳ Gravettian muộn, bao gồm các mảnh dao nhỏ có sống dao (backed bladelets), dụng cụ cắt, một con dao kiểu Kostenki, và có thể là các mảnh vỡ của đầu mũi tên hoặc giáo."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một phân tích sơ bộ về dấu vết sử dụng đã xem xét tám công cụ được chọn vì có dấu vết mòn rõ rệt. Ít nhất một công cụ có liên quan đến việc xẻ thịt; những công cụ khác mang dấu vết phù hợp với việc xử lý da thú và cắt các vật liệu mềm. Một số xương sườn voi ma mút có vết cắt."
+    },
+    {
+     "t": "p",
+     "text": "Hai công cụ bằng đá cho thấy các kiểu vỡ được đánh giá là phù hợp với va chạm mạnh, ủng hộ khả năng chúng từng được dùng làm đầu mũi tên hoặc giáo."
+    },
+    {
+     "t": "p",
+     "text": "Tổng hợp lại, các bằng chứng cho thấy con người đã xẻ thịt những xác voi ma mút còn tươi tại đây, chứ không chỉ đơn thuần thu nhặt xương cũ."
+    },
+    {
+     "t": "p",
+     "text": "Herčíková cho biết các vết cắt và vết xẻ thịt trên phần xương thân voi ma mút cho thấy \"thịt voi ma mút đã được khai thác để làm thức ăn\", chứ không phải chỉ là xương được nhặt về từ môi trường xung quanh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bốn kết quả xác định niên đại bằng phương pháp carbon phóng xạ ban đầu, lấy từ than củi tại hai dấu vết đốt lửa, cho thấy niên đại dao động từ khoảng 28.800 đến 25.600 năm trước. Sự khác biệt giữa các mẫu khiến việc xác định niên đại trở nên phức tạp, nhưng các mốc thời gian cùng phong cách chế tác công cụ đá cho thấy địa điểm này thuộc thời kỳ Gravettian muộn."
+    },
+    {
+     "t": "p",
+     "text": "Các bãi tích tụ xương voi ma mút thời Gravettian đã được biết đến ở Moravia, Hạ Áo (Lower Austria) và miền nam Ba Lan. Chưa có địa điểm nào tương tự được ghi nhận ở Bohemia, và các bãi tích tụ thuộc giai đoạn muộn hơn này cũng rất hiếm ở những nơi khác."
+    },
+    {
+     "t": "p",
+     "text": "\"Những phát hiện tại Bukov, Ústí nad Labem ở miền bắc Bohemia là một trường hợp ngoại lệ đặc biệt cả về vị trí địa lý lẫn thời gian,\" Herčíková cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Hầu hết các con voi ma mút đã trưởng thành về mặt sinh sản nhưng vẫn đang phát triển. Trong số 20 con vật, ước tính có 13 con vào khoảng 13 đến 27 tuổi, dựa trên quá trình phát triển của voi châu Phi."
+    },
+    {
+     "t": "p",
+     "text": "\"Phần lớn số cá thể chết là voi trưởng thành hoặc gần trưởng thành, những con này khó có khả năng chết vì nguyên nhân tự nhiên,\" Herčíková giải thích."
+    },
+    {
+     "t": "p",
+     "text": "Một số có thể là những con đực trẻ sống đơn độc, mới rời khỏi đàn của gia đình, tuy nhiên các nhà nghiên cứu chỉ đưa ra đây như một khả năng."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Bài báo cũng ghi nhận sự hiện diện của những cá thể dưới 5 tuổi. Tuy nhiên, cơ cấu độ tuổi tổng thể không khớp gọn gàng với một đàn mẫu hệ duy nhất, và chỉ có một vài cá thể có thể được ghép cặp là mẹ và con."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, đống xương này có thể là kết quả của nhiều cuộc săn bắt khác nhau, chứ không phải từ một sự kiện thảm khốc duy nhất. Một số bộ phận cơ thể vẫn còn liên kết với nhau, trong khi hướng sắp xếp ngẫu nhiên của các khúc xương cho thấy phần hài cốt hầu như không bị dịch chuyển nhiều sau khi được chôn vùi."
+    },
+    {
+     "t": "p",
+     "text": "Không thể loại trừ khả năng con người đã nhặt xác những con voi ma mút chết tự nhiên, và các nhà nghiên cứu cũng chưa biết đống hóa thạch này hình thành nhanh đến mức nào."
+    },
+    {
+     "t": "p",
+     "text": "Các phân tích ADN và giới tính của voi ma mút có thể cho biết liệu những con vật này có quan hệ họ hàng với nhau hay không, giới tính nào chiếm ưu thế, và liệu những người thợ săn có chọn lọc những nhóm cụ thể hay không. Một nghiên cứu di truyền gần đây phát hiện rằng voi ma mút tại các địa điểm khác có liên quan đến con người chủ yếu là con cái, chiếm khoảng 70%."
+    },
+    {
+     "t": "p",
+     "text": "Herčíková cho biết nhóm nghiên cứu muốn tìm hiểu về tỷ lệ giới tính trong tập hợp hóa thạch này cũng như những mối quan hệ huyết thống có thể có."
+    },
+    {
+     "t": "p",
+     "text": "Các khuôn mẫu về bộ phận cơ thể có thể cho thấy xác voi đã bị khai thác như thế nào. Việc phân tích độ mòn răng, đồng vị, ADN trong trầm tích, cùng với các phương pháp xác định niên đại khác có thể hé lộ chế độ ăn và môi trường sống của voi ma mút, cũng như liệu đống hóa thạch này hình thành trong một lần cư trú ngắn hay qua nhiều lần ghé thăm."
+    },
+    {
+     "t": "p",
+     "text": "Những mẩu xương này có thể tiết lộ liệu người xưa có nhiều lần săn voi ma mút tại Bukov hay không, họ đã xử lý xác voi như thế nào, và nếu đúng vậy, vì sao họ luôn quay lại đúng nơi đó."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này đã được công bố trên tạp chí Journal of Archaeological Science: Reports."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được Peter Dockrill kiểm chứng thông tin và biên tập. Chúng tôi luôn tự hào về quy trình làm việc của mình, nhưng chúng tôi cũng chỉ là con người. Nếu bạn phát hiện sai sót, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "d612c477db18",
+   "order": 10,
+   "slug": "du-khach-hoi-chuyen-hu-gao-cuu-doi-va-nhieu-hien-vat-quy",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Du khách hỏi chuyện hũ gạo cứu đói và nhiều hiện vật quý",
+   "sapo": "Không còn chỉ ngắm nhìn hiện vật và đọc thông tin, nhờ ứng dụng AI, du khách có thể hỏi chuyện 10 hiện vật cách mạng quý tại Bảo tàng Phụ nữ Việt Nam về lịch sử thú vị, cảm động xung quanh những hiện vật này.",
+   "author": "THIÊN ĐIỂU",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/du-khach-hoi-chuyen-hu-gao-cuu-doi-va-nhieu-hien-vat-quy-100260921211839233.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 680,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/d612c477db18-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/d612c477db18-0.jpg",
+     "caption": "Đèn chai của sư thầy Đàm Duyên chùa Nam Ngạn, Thanh Hóa sử dụng trong hai lần đi dân công gánh bộ phục vụ chiến dịch Điện Biên Phủ năm 1954 là 1 trong 10 hiện vật có thể trò chuyện với du khách",
+     "w": 1018,
+     "h": 1217
+    },
+    {
+     "src": "img/2026-09-23/d612c477db18-1.jpg",
+     "caption": "Trải nghiệm quan sát trực tiếp quy trình in 3D các hiện vật từ bảo tàng để du khách được mang di sản về nhà - Ảnh: THIÊN ĐIỂU",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 21-9, Bảo tàng Phụ nữ Việt Nam mở buổi trải nghiệm đặc biệt cho các du khách trẻ tuổi: trò chuyện cùng các hiện vật quý gắn liền với cuộc kháng chiến chống Pháp và chống Mỹ, và chơi các trò chơi trải nghiệm liên quan tới các hiện vật này."
+    },
+    {
+     "t": "h",
+     "text": "Hỏi chuyện những hiện vật cảm động"
+    },
+    {
+     "t": "p",
+     "text": "Các bạn trẻ tỏ ra rất thích thú khi được trò chuyện với hiện vật 3D trên thiết bị di động thay vì ngắm nhìn hiện vật và đọc thông tin về hiện vật đó như cách xem bảo tàng truyền thống."
+    },
+    {
+     "t": "p",
+     "text": "Một mã QR được cung cấp. Du khách quét mã, vào đường link với 10 hiện vật tiêu biểu, lựa chọn từng hiện vật để trò chuyện."
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể hỏi chuyện các hiện vật những câu hỏi liên quan hiện vật. Những người thiết kế bộ kit trải nghiệm này đã huấn luyện AI để chúng có thể trò chuyện với con người, kể cho du khách về chính chúng."
+    },
+    {
+     "t": "p",
+     "text": "Hiện mới có 10 hiện vật tiêu biểu được xây dựng dữ liệu để trò chuyện với du khách bằng công cụ AI. Và những con AI này vẫn đang tiếp tục được huấn luyện cho thông minh hơn để trò chuyện hấp dẫn hơn."
+    },
+    {
+     "t": "p",
+     "text": "Trải nghiệm tại buổi workshop cho thấy hiện một số câu hỏi vẫn còn \"làm khó\" hiện vật trả lời."
+    },
+    {
+     "t": "p",
+     "text": "Trải nghiệm hỏi chuyện hũ gạo tiết kiệm của bà Trương Thị Quế, kiều bào Thái Lan, có câu hỏi chưa trả lời được, hiện vật cũng biết từ chối khéo - Video: THIÊN ĐIỂU"
+    },
+    {
+     "t": "h",
+     "text": "Từ hũ gạo cứu đói đến đèn chai và sợi xích của nhà sư giúp nước"
+    },
+    {
+     "t": "p",
+     "text": "10 hiện vật được giới thiệu lần này có câu chuyện rất thú vị. Đó là chiếc đèn chai của sư thầy Đàm Duyên (chùa Nam Ngạn, Thanh Hóa) dùng trong hai lần đi dân công gánh hàng phục vụ chiến dịch Điện Biên Phủ năm 1954."
+    },
+    {
+     "t": "p",
+     "text": "Hũ gạo tiết kiệm của bà Trương Thị Quế, kiều bào Thái Lan, dùng đựng gạo tiết kiệm để gửi về nước ủng hộ kháng chiến chống Pháp từ năm 1951-1952."
+    },
+    {
+     "t": "p",
+     "text": "Khăn rằn của bà Lê Thị Anh (Tiền Giang) dùng làm ám hiệu trong cuộc đấu tranh ở ngã 3 Chim Chim, xã Đông Hòa, huyện Châu Thành, tỉnh Tiền Giang tháng 4-1960; xích sắt của ni sư Huỳnh Liên trong đấu tranh chính trị ở đô thị Sài Gòn năm 1974."
+    },
+    {
+     "t": "p",
+     "text": "Bức tranh thêu chùa Một Cột bà Võ Thị Thắng thêu trong thời gian bị giam cầm ở nhà tù Côn Đảo năm 1970; chiếc mũ che mặt của nữ chiến sĩ tình báo."
+    },
+    {
+     "t": "p",
+     "text": "Nồi đồng bà Nguyễn Thị Cớ dùng để nấu cơm nuôi giấu cán bộ cách mạng trong những năm kháng chiến chống Mỹ từ 1962-1975 tại Phú Yên."
+    },
+    {
+     "t": "p",
+     "text": "Áo yếm của bà Hồ Thị Đoàn, người dân tộc Cor, dùng để vận chuyển tài liệu giữa các cơ sở cách mạng tại Trà Sơn, Trà Lâm, núi Gió và Xà Lạn, tỉnh Quảng Ngãi từ năm 1957-1962…"
+    },
+    {
+     "t": "p",
+     "text": "Chiếc nhẫn chung thủy của bà Nguyễn Thị Minh được Hội Liên hiệp phụ nữ tỉnh Tuyên Quang tặng năm 1970 vì những thành tích trong phong trào Ba đảm đang. Bộ dụng cụ sửa xe của bà Bùi Thị Vân - nguyên nữ chiến sĩ đội nữ lái xe đường Trường Sơn Nguyễn Thị Hạnh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ngoài trò chuyện với các hiện vật, du khách được trải nghiệm ghép tranh theo bức tranh chùa Một Cột bà Nguyễn Thị Thắng thêu trong thời gian bị giam cầm tại nhà tù Côn Đảo năm 1970. Hay trổ tài ghi nhớ cùng trò chơi với bộ thẻ flashcard về 10 hiện vật, trải nghiệm máy in 3D tạo cho mình các phiên bản hiện vật để mang về."
+    },
+    {
+     "t": "p",
+     "text": "Sản phẩm trải nghiệm mới này dự kiến tiếp tục được Bảo tàng Phụ nữ Việt Nam giới thiệu tại Lễ hội Thiết kế Sáng tạo Hà Nội 2026 vào tháng 11 tới đây."
+    }
+   ]
+  },
+  {
+   "id": "54441b302520",
+   "order": 11,
+   "slug": "kiet-tac-cua-to-hoai-thanh-hinh-tu-tro-choi-de",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Kiệt tác của Tô Hoài thành hình từ trò chọi dế",
+   "sapo": "Châm ngôn viết của Tô Hoài, được Bùi Hiển - người bạn văn của ông - cảm nhận là \"đi đến tận nơi, nhìn tận mắt, nghe tận tai, suy nghĩ và cảm thụ (nghệ thuật kể truyện của Tô Hoài chủ yếu thiên về thị giác)\", trong hồi ký Bạn bè một thuở (NXB Hội Nhà văn, 2014).",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/kiet-tac-cua-to-hoai-thanh-hinh-tu-tro-choi-de-185260922212417335.htm",
+   "published": "2026-09-22T22:58:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1041,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/54441b302520-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/54441b302520-0.jpg",
+     "caption": "Chân dung Tô Hoài in trong Nhà văn hiện đại , quyển IV, tập Hạ năm 1945",
+     "w": 438,
+     "h": 660
+    },
+    {
+     "src": "img/2026-09-23/54441b302520-1.jpg",
+     "caption": "Tác phẩm Dế mèn phiêu lưu ký được gộp lại từ Con dế mèn và Dế mèn phiêu lưu ký đăng trên báo Truyền bá",
+     "w": 1024,
+     "h": 541
+    },
+    {
+     "src": "img/2026-09-23/54441b302520-2.jpg",
+     "caption": "Dế mèn phiêu lưu ký của Tô Hoài, phiên bản tiếng Pháp xuất bản năm 1985",
+     "w": 1024,
+     "h": 1353
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Chơi chọi dế, viết Dế mèn phiêu lưu ký"
+    },
+    {
+     "t": "p",
+     "text": "Bản thân nhà văn Tô Hoài chia sẻ trong Sổ tay viết văn : \"Muốn viết được, thứ nhất phải do mình có trải, có biết thật sự và sâu sắc do đấy cảm hứng và lòng hăm hở mới chắc chắn được. Cuộc sống tư tưởng và thực tế của mình nhiều hay ít sẽ là cơ sở cho cảm hứng và sáng tạo\". Trong các sáng tác của Tô Hoài, ông được tiếng là nhà văn tả chân, trong đó \"những truyện nhi đồng của ông có cái đặc sắc là rất linh động và dí dỏm\", lời nhận xét của Vũ Ngọc Phan có thể lấy Dế mèn phiêu lưu ký mà dẫn."
+    },
+    {
+     "t": "p",
+     "text": "Tô Hoài cho hay từ năm 1954 và những lần tái bản sau, ông in gộp các truyện Con dế mèn và Dế mèn phiêu lưu ký thành Dế mèn phiêu lưu ký , tác phẩm quen thuộc với tuổi thơ của nhiều thế hệ thiếu niên VN cho đến nay. Là đại diện tiêu biểu của dòng văn học thiếu nhi VN hiện đại, nguồn gốc ra đời của tác phẩm được tác giả tâm sự: năm 1940, ông viết truyện cho thiếu niên, đó là Con dế mèn và Dế mèn phiêu lưu ký . Hai tác phẩm này được đăng lần đầu tiên trên báo Truyền bá . Con dế mèn in trên số 3 (ngày 10.10.1941, gồm 2 chương đầu của truyện Dế mèn phiêu lưu ký sau này) do Nguyệt Hồ minh họa bìa 1; Dế mèn phiêu lưu ký ( Truyền bá số 16, ngày 22.1.1942; và số 17, ngày 29.1.1942) dài gấp đôi Con dế mèn ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khi viết tác phẩm, Tô Hoài mới tuổi 20. Lúc đó ông nghĩ \"còn ít tuổi (cũng chỉ ở tuổi mới bỏ chơi dế) thích viết thì tôi viết. Hồi ấy, có phần tôi cho là có khiếu viết văn nên tôi viết được truyện ấy\". Tuy nhiên sau này khi đã có nhiều tác phẩm, Tô Hoài chiêm nghiệm: \"Nhưng bây giờ tôi biết chẳng phải chỉ thích trong tưởng tượng mà tôi có thể viết được. Những chàng Dế mèn, đại vương Ếch cốm và thầy đồ Cóc có trở thành bầu bạn thân thiết của các bạn đọc là do một hoàn cảnh thực tế thời niên thiếu tôi đã được sống. Trước cổng làng quê tôi có một bãi sông, trên bãi ấy đã sinh hoạt một thế giới rất nhiều cây cỏ và các giống vật cho chúng tôi ra đùa chơi với. Những con giống trong Dế mèn phiêu lưu ký mà tôi có nói được sự hoạt động, tính nết và phong tục của chúng, là do tôi có nghịch, có bè bạn quen biết chúng nhiều. Thực tế ấy, thơ mộng ấy khơi nguồn cho tôi viết. Chứ không phải tại khiếu viết văn\", Sổ tay viết văn thuật lại. Nhà văn còn nhớ trong Tự truyện , khi khởi đầu với truyện Con dế mèn , \"có lẽ gợi ý khởi đầu là vì thuở nhỏ tôi giỏi chơi đúc dế ở bờ sông Tô Lịch\"."
+    },
+    {
+     "t": "p",
+     "text": "Vốn ngay từ nhỏ đã là cậu bé mê đọc sách, nhiều tác phẩm văn chương nước ngoài đã qua tay cậu bé Nguyễn Sen (tên thật của Tô Hoài). Thế nên theo Tự truyện , khi viết Dế mèn phiêu lưu ký , Tô Hoài còn tự cảm thấy tác phẩm của mình có những nét phảng phất giống với Guylive du ký, Đông Kisốt, Têlêmạc phiêu lưu ký mà trước đây được đọc những bản dịch của Nguyễn Văn Vĩnh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Từ hộ đê đến Nước lên"
+    },
+    {
+     "t": "p",
+     "text": "Truyện ngắn Nước lên được Tô Hoài viết và đăng trên báo Hà Nội tân văn của Vũ Ngọc Phan. Nguồn cơn cho sự ra đời của Nước lên , như Sổ tay viết văn thông tin, chính là từ thực cảnh mà tác giả trải nghiệm từ nhiều năm trước. Năm ấy, miền Bắc bị nạn lụt lớn, thanh niên trai tráng trong làng của Tô Hoài phải đi hộ đê. \"Chúng tôi cơm nắm cơm đùm kéo bộ suốt đêm đến sáng mới tới điếm canh đê hàng tổng. Tôi nhớ làm sao buổi sáng hãi hùng ấy, cái cảnh đoàn người chạy nước từ dưới bãi lên lấm như vùi\". Cái cảnh mà nhà văn xem là \"hình ảnh đau thương ấy\" ám ảnh ông mãi, để rồi thai nghén, rải ra trên chữ mà thành Nước lên ."
+    },
+    {
+     "t": "p",
+     "text": "Nước lên in đậm trong đời viết Tô Hoài, bởi đây là truyện ngắn đầu tiên đưa ông đến với nghề văn và được tòa soạn trả nhuận bút. Theo Tự truyện của Tô Hoài, một kỷ niệm không thể quên nữa của tác phẩm này là suýt chút nữa, Nước lên đã nằm trong nhóm bài bị bỏ chứ không được lên báo. \"Về sau, chị Hằng Phương [vợ Vũ Ngọc Phan] kể cho biết truyện tôi viết vào giấy lèm nhèm, chữ tôi lại gẫy nét, khó xem. Chị tình cờ lấy trong đám truyện loại lên đọc và thấy đáng chú ý\"… \"Bởi vậy, đồng tiền báo Hà Nội tân văn \"mở hàng\" cho tôi vào nghề và những quyển tiểu thuyết Đỏ và đen của Stăngđan, tiểu thuyết của Panai Istrati mà anh Vũ Ngọc Phan khuyên tôi đọc, đó là cái duyên quyến tôi với nghề văn\"."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Khi được NXB Mới đưa tiền, đặt hàng mua truyện dài, dù chưa viết truyện dài bao giờ, nhưng Tô Hoài vẫn mạnh dạn nhận và viết tác phẩm Quê người bởi nhà văn thấy dễ, khi mà đề tài, nội dung đã sẵn trong đầu, \"đấy là những chuyện làng xóm tôi chắp nhặt viết lại mà thôi\", Tự truyện ghi. Quê người in năm 1942 là tập truyện dài đầu tiên của nhà văn, và bởi vì chất liệu từ thực tế nên với tập truyện dài này, Tô Hoài được Nhà văn hiện đại khen là \"một nhà tiểu thuyết có con mắt quan sát sâu sắc\" những sinh hoạt của người dân nghề dệt lĩnh vùng Bưởi. ( còn tiếp )"
+    }
+   ]
+  },
+  {
+   "id": "fd34017cd3e7",
+   "order": 12,
+   "slug": "goi-nhac-trung-thu-xua-qua-tranh-khac-go-dau-su-tu-giay-boi",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Gợi nhắc trung thu xưa qua tranh khắc gỗ, đầu sư tử giấy bồi...",
+   "sapo": "Những chiếc đầu sư tử giấy bồi, tranh khắc gỗ… từng làm nên ký ức trung thu nay được nhìn lại bằng ngôn ngữ nghệ thuật đương đại, mở ra cách tiếp cận mới với những giá trị văn hóa tưởng chừng đã xa.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/goi-nhac-trung-thu-xua-qua-tranh-khac-go-dau-su-tu-giay-boi-185260922032627465.htm",
+   "published": "2026-09-22T02:30:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1464,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-0.jpg",
+     "caption": "Dù có thể bị thay thế bởi những sản phẩm hiện đại, đồ chơi dân gian, tranh khắc gỗ, đầu sư tử giấy bồi... vẫn là những hình ảnh gợi nhớ về Tết Trung thu",
+     "w": 1280,
+     "h": 648
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-1.jpg",
+     "caption": "Xã hội phát triển nên vì thế những món đồ gắn bó với Tết trung thu qua nhiều thế hệ đã đứng trước nguy cơ... chìm vào quên lãng",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-2.jpg",
+     "caption": "Bà Đặng Thị Cẩm Thơ - đồng sáng lập dự án EMGallery",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-5.jpg",
+     "caption": "Không chỉ là phục dựng mà còn tạo ra những trải nghiệm mới đối với văn hóa truyền thống",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1014
+    },
+    {
+     "src": "img/2026-09-23/fd34017cd3e7-7.jpg",
+     "caption": "Những trải nghiệm mới sẽ góp phần đưa những văn hóa \"sống\" cùng với thời đại mà không bị quên lãng",
+     "w": 1280,
+     "h": 854
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Có những mùa trung thu được nhớ bằng tiếng trống lân vang lên trong con hẻm, chiếc đèn ông sao trên tay trẻ nhỏ hay đầu sư tử giấy bồi rực rỡ sắc màu. Đó cũng có thể là những bức tranh khắc gỗ với đường nét mộc mạc, những món đồ chơi dân gian gắn với một thời thơ ấu. Khi đời sống ngày càng hiện đại, những hình ảnh ấy dần trở nên xa lạ với một bộ phận người trẻ. Dẫu vậy, ký ức về một mùa trăng mang đậm dấu ấn văn hóa Việt vẫn đang được tìm cách lưu giữ và đưa trở lại đời sống bằng những cách tiếp cận mới."
+    },
+    {
+     "t": "p",
+     "text": "Trung thu từng được trẻ nhỏ mong đợi không chỉ bởi bánh trái hay quà tặng, mà còn bởi những món đồ chơi thủ công xuất hiện trong đời sống mỗi dịp rằm tháng tám. Từ đèn ông sao, tò he, mặt nạ giấy bồi đến đầu lân, đầu sư tử..., mỗi sản phẩm được tạo nên từ bàn tay người thợ không chỉ đáp ứng nhu cầu vui chơi mà còn chứa đựng kỹ thuật thủ công, quan niệm thẩm mỹ và dấu ấn văn hóa của từng thời kỳ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sự phát triển của thị trường đồ chơi, các sản phẩm công nghiệp cùng những hình thức giải trí mới khiến không gian dành cho đồ chơi dân gian ngày càng thu hẹp. Trẻ em có thêm nhiều lựa chọn, trong khi những món đồ từng quen thuộc với thế hệ trước không còn dễ dàng xuất hiện trong đời sống thường nhật."
+    },
+    {
+     "t": "h",
+     "text": "Đưa trung thu xưa đến gần người trẻ"
+    },
+    {
+     "t": "p",
+     "text": "Điều đó không có nghĩa những chất liệu cũ mất đi sức sống. Vấn đề nằm ở cách chúng được giới thiệu và đặt vào đời sống đương đại. Bên cạnh việc bảo tồn nguyên bản, nghệ sĩ, nghệ nhân và những người làm văn hóa đang tìm cách đưa các yếu tố dân gian vào những không gian, hình thức biểu đạt mới, tạo thêm cơ hội để công chúng tiếp cận."
+    },
+    {
+     "t": "p",
+     "text": "Triển lãm Của trăng và ta - Of Moon and Us thuộc dự án EMGallery là một trong những cách tiếp cận như vậy. Lấy cảm hứng từ văn hóa truyền thống, triển lãm đặt những hình ảnh quen thuộc của mùa trăng trong mối tương tác với nghệ thuật sắp đặt, âm thanh, ánh sáng và sự tham gia của công chúng."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo bà Đặng Thị Cẩm Thơ, đồng sáng lập dự án EMGallery, dự án hướng đến sự giao hòa giữa truyền thống và hiện đại, Đông và Tây, qua đó tạo ra những trải nghiệm nghệ thuật để công chúng, đặc biệt là người trẻ, có thêm điểm chạm với các chất liệu văn hóa dân gian."
+    },
+    {
+     "t": "p",
+     "text": "Trong không gian triển lãm được biến tấu từ ba gian nhà, gợi nhớ kiến trúc truyền thống của người Việt, những hình ảnh và chất liệu dân gian được đặt trong một cách thể hiện mới. Qua đó, công chúng có cơ hội tiếp cận trực tiếp với một số loại hình nghệ thuật dân gian thay vì chỉ quan sát chúng như những hiện vật đã thuộc về quá khứ."
+    },
+    {
+     "t": "p",
+     "text": "Nổi bật là tác phẩm sắp đặt và ứng tác Thùng thình thùng , lấy đầu sư tử dân gian Bắc bộ làm chất liệu chính. Những chiếc đầu sư tử vốn được tạo tác từ khung mây tre, giấy bồi, vải và họa tiết dân gian được phát triển thêm bằng đất nung, sơn ta, giấy bồi. Các đặc trưng tạo hình được giữ lại nhưng đặt trong một tổng thể nghệ thuật mới."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trong không gian triển lãm thuộc dự án EMGallery (tại TP.HCM) được biến tấu 3 gian, gợi nhớ về kiến trúc cổ mang tính biểu tượng truyền thống lâu đời của người Việt, công chúng sẽ hiếm hoi được tiếp xúc và hiểu về di sản nguyên bản và độc đáo của nghệ thuật dân gian Việt Nam (Folk Art)"
+    },
+    {
+     "t": "p",
+     "text": "Không dừng ở tạo hình, tác phẩm còn kết hợp đàn tranh, tỳ bà, sáo, trống bỏi, trống ếch, trống hội với guitar điện tử và hợp xướng hò khoan. Âm thanh dân gian hòa cùng âm nhạc đương đại, tạo nên một không gian để người xem không chỉ quan sát mà còn lắng nghe và tương tác."
+    },
+    {
+     "t": "p",
+     "text": "Theo bà Cẩm Thơ, qua những trải nghiệm tại EMGallery, các chất liệu dân gian khi được đặt trong ngôn ngữ nghệ thuật đương đại có thể tạo thêm sự kết nối với công chúng trẻ."
+    },
+    {
+     "t": "h",
+     "text": "Từ phục dựng đến tái tạo giá trị truyền thống"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Thực tế này cho thấy khoảng cách giữa người trẻ và văn hóa truyền thống đôi khi không chỉ nằm ở mức độ quan tâm, mà còn ở cách những giá trị ấy được giới thiệu. Một món đồ chơi dân gian nếu chỉ được đặt trong tủ kính có thể trở thành hiện vật xa lạ. Nhưng khi người xem được nghe câu chuyện phía sau, quan sát quá trình tạo tác, trực tiếp chạm vào chất liệu và tham gia trải nghiệm, những hình ảnh tưởng như thuộc về quá khứ có thể trở nên gần gũi hơn."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh trưng bày, Của trăng và ta còn tổ chức Art Talk với chủ đề “Mỹ thuật dân gian - Đường tới tính hiện đại” và workshop “Chạm tay vào truyền thống”. Công chúng được tìm hiểu một số công đoạn thủ công như khuấy bột hồ, bồi giấy điệp, sử dụng giấy dó để tạo các lớp vật liệu trang trí cho đầu sư tử."
+    },
+    {
+     "t": "p",
+     "text": "\"Một di sản không chỉ cần được nhìn lại hay cất giữ trong bảo tàng mà còn cần được \"cất tiếng\" và \"tái sinh\". Với nghệ sĩ, việc sáng tạo từ những hình ảnh, chất liệu truyền thống rồi đặt chúng cạnh thực hành đương đại có thể tạo nên những cách biểu đạt mới\"."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Những hoạt động này đưa nghệ thuật dân gian ra khỏi phạm vi quan sát đơn thuần. Người xem trực tiếp tham gia vào quá trình trải nghiệm, từ đó hiểu thêm về chất liệu, kỹ thuật và công sức phía sau một sản phẩm tưởng chừng quen thuộc."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Việc đưa những hình ảnh xưa vào nghệ thuật đương đại cũng đặt ra câu hỏi về ranh giới giữa phục dựng và sáng tạo. Nếu phục dựng hướng đến việc tái tạo một hình thức đã có, nghệ thuật đương đại có thể bắt đầu từ chất liệu cũ để tìm một cách biểu đạt mới. Những yếu tố truyền thống vẫn được nhận diện nhưng được tái cấu trúc trong một bối cảnh khác."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, giá trị của các sản phẩm truyền thống không chỉ nằm ở khả năng gợi nhớ. Phía sau mỗi món đồ còn là câu chuyện về nghề, bàn tay người làm và những kỹ thuật thủ công có nguy cơ mai một nếu không được tiếp nối. Một chiếc đầu sư tử giấy bồi để có được hình dáng, màu sắc và thần thái riêng phải trải qua nhiều công đoạn, đòi hỏi sự kiên nhẫn cùng kinh nghiệm của người thợ."
+    },
+    {
+     "t": "p",
+     "text": "Bởi vậy, việc đưa những chất liệu này vào các dự án nghệ thuật cũng là một cách mở rộng đời sống của chúng. Thay vì chỉ xuất hiện trong ký ức hoặc không gian trưng bày, những hình ảnh quen thuộc của mùa trăng có thể trở thành chất liệu cho các trải nghiệm văn hóa, để người trẻ không chỉ nghe kể về một Trung thu đã qua mà còn có cơ hội nhìn, chạm và tìm hiểu."
+    },
+    {
+     "t": "p",
+     "text": "Ở góc độ ấy, gợi nhắc trung thu xưa không nhất thiết đồng nghĩa với hoài niệm. Quan trọng hơn là nhìn lại những gì từng hiện diện trong đời sống để tìm cách tiếp nối trong hiện tại. Bởi nếu chỉ dừng ở việc phục dựng nguyên bản, văn hóa dân gian có thể trở thành một hình ảnh đẹp nhưng xa cách với đời sống đương đại."
+    },
+    {
+     "t": "p",
+     "text": "Từ tranh khắc gỗ, đầu sư tử giấy bồi đến những món đồ chơi dân gian, các hình ảnh quen thuộc của mùa trăng đang có thêm cơ hội bước ra khỏi không gian hoài niệm để trở thành chất liệu cho những trải nghiệm văn hóa mới. Điều đáng giữ lại không phải một mùa trung thu bất biến, mà là khả năng để những hình ảnh, kỹ thuật và câu chuyện làm nên mùa trăng của nhiều thế hệ tiếp tục được nhìn thấy, được thực hành và được kể lại bằng ngôn ngữ của hôm nay."
+    }
+   ]
+  },
+  {
+   "id": "b87df5c57261",
+   "order": 13,
+   "slug": "nhom-thanh-nien-brazil-dung-day-rut-va-polycarbonate-che-tao",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nhóm thanh niên Brazil dùng dây rút và polycarbonate chế tạo robot vô địch thế giới",
+   "sapo": "Một nhóm bạn người Brazil đang chứng minh để tạo ra những robot ở tầm quốc tế, bạn không cần ngân sách khổng lồ hay thiết bị đắt tiền; ý tưởng, sự tỉ mỉ và khả năng thích nghi đôi khi quan trọng hơn.",
+   "author": "Viết Thành",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/nhom-thanh-nien-brazil-dung-day-rut-va-polycarbonate-che-tao-robot-vo-dich-the-gioi-post1137683.vnp",
+   "published": "2026-09-22T22:15:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 177,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/b87df5c57261-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một nhóm bạn người Brazil đang chứng minh để tạo ra những robot ở tầm quốc tế, bạn không cần ngân sách khổng lồ hay thiết bị đắt tiền; ý tưởng, sự tỉ mỉ và khả năng thích nghi đôi khi quan trọng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Những cảnh quay từ cuộc thi robotics ở Belo Horizonte cho thấy các thành viên miệt mài lập trình, lắp ráp và tinh chỉnh robot của mình trước khi cho chúng “ra trận”."
+    },
+    {
+     "t": "p",
+     "text": "Từng chiếc vít, tưởng như đơn giản được thay bằng những giải pháp sáng tạo; thay vì chạy theo phụ kiện kim loại đắt đỏ, họ tìm cách sử dụng các vật liệu rẻ hơn nhưng vẫn đảm bảo độ chính xác và độ bền cần thiết để robot có thể thực hiện các nhiệm vụ phức tạp. Đó là một quá trình học hỏi liên tục: thử, hỏng, sửa và thử lại và chính quá trình ấy rèn luyện khả năng tư duy phản biện, khéo léo về tay nghề và tinh thần đồng đội nơi các bạn trẻ./."
+    }
+   ]
+  },
+  {
+   "id": "66344eb9cb40",
+   "order": 14,
+   "slug": "tung-bo-hoc-muu-sinh-nu-sinh-do-dai-hoc-top-dau-nganh-it",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từng bỏ học mưu sinh, nữ sinh đỗ đại học top đầu ngành IT",
+   "sapo": "Từng bỏ học lớp 12 đi làm nhân viên đóng gói, bán tạp hóa vì khó khăn, Phương Thảo quay lại học hệ giáo dục thường xuyên, rồi đỗ Đại học Khoa học Tự nhiên TP HCM.",
+   "author": "Nguyễn Quyên",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tung-bo-hoc-muu-sinh-nu-sinh-do-dai-hoc-top-dau-nganh-it-5123088.html",
+   "published": "2026-09-21T23:50:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 707,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/66344eb9cb40-lead.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 540
+    },
+    {
+     "src": "img/2026-09-23/66344eb9cb40-0.jpg",
+     "caption": "Ca Thị Phương Thảo với các giấy khen học viên giỏi cấp thành phố. Ảnh: Nhân vật cung cấp",
+     "w": 959,
+     "h": 1006
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từng bỏ học lớp 12 đi làm nhân viên đóng gói, bán tạp hóa vì khó khăn, Phương Thảo quay lại học hệ giáo dục thường xuyên, rồi đỗ Đại học Khoa học Tự nhiên TP HCM."
+    },
+    {
+     "t": "p",
+     "text": "Giữa tuần qua, Ca Thị Phương Thảo, cựu học viên Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên (GDNN-GDTX) Tân Phú, phấn khởi đến lễ khai giảng ở trường Đại học Khoa học Tự nhiên, Đại học Quốc gia TP HCM."
+    },
+    {
+     "t": "p",
+     "text": "Em trúng tuyển ngành Công nghệ thông tin với 891/1200 điểm thi đánh giá năng lực. Trong hơn 133.500 thí sinh dự kỳ thi này năm nay, điểm trung bình và trung vị đều là 682."
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau niềm vui ấy là hành trình nhiều nỗ lực, bởi Thảo từng phải xin nghỉ học hơn một năm vì gia cảnh khó khăn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm 2021, Thảo đỗ trường THPT Mạc Đĩnh Chi, đạt học lực giỏi lớp 10, 11. Nhưng đến học kỳ 1 lớp 12, biến cố ập đến khi căn bệnh thần kinh của bố em trở nặng, dù được điều trị nhưng không thuyên giảm. Gánh nặng gia đình dồn lên đôi vai người mẹ với quầy tạp hóa nhỏ, trong khi vừa sinh thêm em bé. Vì thế, Thảo xin nghỉ học."
+    },
+    {
+     "t": "p",
+     "text": "\"Một quyết định không hề dễ dàng. Nếu em học tiếp, đỗ đại học, gia đình cũng không có tiền để đóng học phí\", nữ sinh nói, cho biết tiếc nuối vì để đỗ THPT Mạc Đĩnh Chi - ngôi trường top đầu của thành phố, em đã phải nỗ lực trong suốt 4 năm cấp 2."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhưng em không có lựa chọn nào khác. Em phải đi làm, có tiền trang trải rồi mới tính đến việc học tiếp\"."
+    },
+    {
+     "t": "p",
+     "text": "Nghỉ học, Thảo làm nhân viên đóng gói tại một cửa hàng túi xách, từ 13h đến 17h hàng ngày, với thù lao 2-3 triệu đồng mỗi tháng. Buổi sáng, em phụ mẹ bán tạp hóa và trông em. Dù vậy, Thảo chưa từng quên việc học. Cứ buổi tối, em lại ngồi vào bàn, ôn lại kiến thức."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 9/2025, Thảo quyết định đăng ký học lại lớp 12 tại trung tâm GDNN-GDTX Tân Phú để nuôi giấc mơ vào đại học. Vì chỉ học buổi sáng nên em vẫn có thể đi làm thêm vào buổi chiều."
+    },
+    {
+     "t": "p",
+     "text": "Ngừng đến trường hơn một năm, nhưng do có nền tảng khá tốt nên Thảo không quá chật vật khi quay trở lại, thậm chí được chọn vào đội tuyển thi học viên giỏi môn Toán cấp thành phố. Không có tiền đi học thêm, Thảo dành tiền mua máy in cũ để tự in tài liệu và tham gia một số khóa học trực tuyến, kết hợp tự học qua các bài giảng trên youtube."
+    },
+    {
+     "t": "p",
+     "text": "\"Từ trước đến giờ em đều tự mày mò, tìm hiểu. Chỗ nào chưa rõ, em xem lại nhiều lần\", Thảo kể."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ nỗ lực ấy, nữ sinh đạt giải nhất môn Toán trong kỳ thi học viên giỏi cấp thành phố, đạt điểm số ấn tượng trong kỳ thi đánh giá năng lực để bước chân vào ngành Công nghệ thông tin."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Trần Ngọc Hiền, giáo viên bồi dưỡng, nhận xét Thảo có năng lực nổi trội về toán học ứng dụng và nghị lực vượt qua nghịch cảnh. Trung tâm có nhiều học viên với hoàn cảnh đặc biệt nhưng Thảo gây ấn tượng vì vạch sẵn kế hoạch và tìm mọi cách để đạt được."
+    },
+    {
+     "t": "p",
+     "text": "\"Đội tuyển thường học chủ nhật và kéo dài cả ngày nhưng em chưa bao giờ vắng mặt\", thầy Hiền kể."
+    },
+    {
+     "t": "p",
+     "text": "Học phí 4 năm ngành Công nghệ thông tin khoảng 200 triệu đồng. Nữ sinh chủ động tìm nguồn hỗ trợ, và được một quỹ cho vay khoản này với lãi suất 0%. Bù lại, em phải cam kết đạt điểm tổng kết trên 7.0 ở mỗi học kỳ."
+    },
+    {
+     "t": "p",
+     "text": "\"Em đặt mục tiêu tốt nghiệp loại giỏi, trên 8.0 và IELTS đạt 7.5\", Thảo chắc chắn."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại chặng đường đã qua, Thảo cho rằng bản thân đã đạt mục tiêu đề ra. \"Em đã lùi lại để đi nhanh hơn\", nữ sinh nói."
+    }
+   ]
+  },
+  {
+   "id": "8bac985c36d8",
+   "order": 15,
+   "slug": "chi-em-sinh-doi-ban-ve-so-khong-du-tien-vao-dai-hoc-hang-xom",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chị em sinh đôi bán vé số không đủ tiền vào đại học, hàng xóm thương quá cho mượn 10 triệu",
+   "sapo": "Hai chị em sinh đôi Võ Huỳnh Lan Vy và Võ Huỳnh Khánh Vy làm bánh mì, bán vé số để vào đại học. Câu chuyện về tình thương và nỗ lực học tập đầy cảm động.",
+   "author": "MẬU TRƯỜNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chi-em-sinh-doi-ban-ve-so-khong-du-tien-vao-dai-hoc-hang-xom-thuong-qua-cho-muon-10-trieu-100260922092507988.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1455,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/8bac985c36d8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-0.jpg",
+     "caption": "Lò bánh mì là nguồn thu nhập chính của cả gia đình nhiều năm qua - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-1.jpg",
+     "caption": "Khánh Vy và Lan Vy sắp xếp những món quê nhà mà cha đã chuẩn bị trước ngày nhập học - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-2.jpg",
+     "caption": "Những tờ giấy khen của hai chị em sinh đôi Khánh Vy và Lan Vy là minh chứng rõ nhất cho tinh thần hiếu học, vươn lên của mình - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-3.jpg",
+     "caption": "Lan Vy ngồi bên bà Hai, một người hàng xóm tốt bụng đã chở đi nhập học trong những ngày cha mẹ phải ở bệnh viện điều trị - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-4.jpg",
+     "caption": "Góc học tập nơi hai chị em đã đồng hành suốt 12 năm học và thay nhau đứng nhất, nhì lớp - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-5.jpg",
+     "caption": "Khánh Vy và Lan Vy bên lò bánh mì của gia đình, phụ cha làm ra những chiếc bánh đều, đẹp để bán kiếm tiền học - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-6.jpg",
+     "caption": "Ngoài giờ học, hai chị em Lan Vy và Khánh Vy còn bán vé số để kiếm thêm vài chục ngàn đồng, ngày nào bán đắt thì kiếm được 100.000 đồng để đóng tiền học - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-23/8bac985c36d8-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Những động tác thuần thục đến mức nếu không biết trước, ít ai nghĩ đó là đôi tay của hai cô tân sinh viên vừa rời ghế phổ thông. Làm xong mẻ bánh, hai chị em mỗi người khiêng một bên chiếc bàn bán vé số ra trước nhà, những xấp vé được sắp ngay ngắn, số đẹp để ra ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Những đồng lời từ hai công việc này sẽ là những khoản tiền vét được cuối cùng trước khi hai chị em nhập học. Khánh Vy và Lan Vy sẽ lần lượt rời nhà. Một vào Đại học Đồng Tháp; một vào Trường đại học Khoa học tự nhiên (Đại học Quốc gia TP.HCM)."
+    },
+    {
+     "t": "h",
+     "text": "Cả gia đình kiếm tiền, nhưng 'phải học, chứ không phải… lo lấy chồng'"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong hành trang của hai cô gái quê có sách vở, quần áo, vài món đồ dùng cá nhân và mấy quả trứng gà, vài gói mì tôm mà cha chuẩn bị cho con mang theo."
+    },
+    {
+     "t": "p",
+     "text": "20 năm qua, lò bánh mì và chiếc bàn vé số đã nuôi lớn ba cô con gái của vợ chồng ông Võ Văn Thủy (56 tuổi) và bà Huỳnh Ngọc Nga (53 tuổi). Con gái lớn, Võ Huỳnh Yến Vy, hiện là sinh viên năm 4 ngành dược của Trường đại học Y Dược TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Vừa quệt mồ hôi trên quầng trán nhăn nheo, ông Thủy kể: \"Ngày trước, tôi từng làm bảo vệ trường học nhưng rồi không đủ sống. Tôi ra ngoài chạy xe lam, sau đó các con đi học và cần nhiều tiền hơn, tôi lại đi cắt lúa mướn, bốc vác, làm lơ xe đường dài để kiếm thêm. Công việc nào có tiền tôi đều làm\"."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng rồi một biến cố ập đến, ông phải nhập viện rồi trải qua một cuộc đại phẫu để giữ được mạng sống. Kể từ đó, ông ở nhà làm bánh mì cho các con bán."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi ngày gia đình làm khoảng 200 ổ bánh mì, kiếm được chừng 200.000 đồng. Đi học về, Lan Vy và Khánh Vy bán vé số, mỗi ngày kiếm thêm khoảng 100.000 đồng."
+    },
+    {
+     "t": "p",
+     "text": "Từng đồng tiền nhỏ góp lại nuôi ba cô con gái lớn lên trong những năm tháng thiếu thốn."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng ông luôn nghiêm khắc với các con một điều: Dù có đói nghèo đến đâu cũng phải lấy chuyện học làm đầu."
+    },
+    {
+     "t": "p",
+     "text": "Bà Nguyễn Mỹ Phương, người hàng xóm sát vách nói nhiều gia đình trong xóm có con gái thường nghĩ đơn giản rằng lớn lên rồi lấy chồng, \"riêng gia đình anh Thủy lại khác, dù gia đình thiếu trước hụt sau nhưng các con đều phải lo học\", bà Phương kể."
+    },
+    {
+     "t": "p",
+     "text": "Lan Vy và Khánh Vy học chung lớp, chung trường từ tiểu học đến hết THPT, thay nhau đứng nhất, nhì lớp, học sinh xuất sắc suốt 3 năm tại Trường THPT Đốc Binh Kiều (Cai Lậy). Năm lớp 9, Khánh Vy đoạt giải khuyến khích môn hóa cấp thị xã Cai Lậy, tỉnh Tiền Giang cũ."
+    },
+    {
+     "t": "p",
+     "text": "Cô Trần Phi Yến, giáo viên chủ nhiệm của Khánh Vy và Lan Vy, nhận xét: \"Hai trò học tôi luôn thuộc tốp đầu của lớp, là hai đứa trẻ sống nhiệt tình\". Khi địa phương triển khai định danh mức 2 cho người dân, Lan Vy và Khánh Vy còn tham gia hướng dẫn người dân trong phường thực hiện."
+    },
+    {
+     "t": "h",
+     "text": "Xin ké WiFi hàng xóm, học sinh giỏi của thị xã, đậu đại học tốp đầu"
+    },
+    {
+     "t": "p",
+     "text": "Nhà không có tiền lắp WiFi, từ những ngày dịch COVID-19 cho đến tận bây giờ, hai chị em vẫn học ké từ tín hiệu của nhà hàng xóm. Sau giờ làm bánh mì hoặc trong lúc ngồi bán vé số, hai chị em lại mở điện thoại tìm thêm những bài tập nâng cao trên mạng để tự học."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian học được nhặt nhạnh từ những khoảng trống rất nhỏ trong một ngày."
+    },
+    {
+     "t": "h",
+     "text": "Người mẹ đi vay tiền rồi gặp nạn, câu chuyện tình làng nghĩa xóm tuyệt vời"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chị gái Yến Vy còn khoảng hai năm học phía trước, mỗi năm học phí ngành dược hơn 60 triệu đồng. Lan Vy và Khánh Vy lại cùng vào đại học. Lan Vy đậu Trường Đại học Đồng Tháp và Khánh Vy đậu Trường đại học Khoa học tự nhiên, Đại học Quốc gia TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Gia đình đã vay gần như tất cả những nơi có thể vay: ngân hàng chính sách, người thân quen, rồi cả những khoản vay nóng. Vậy mà tiền vẫn thiếu trước hụt sau."
+    },
+    {
+     "t": "p",
+     "text": "Người mẹ chạy xe đi vay tiền đóng học phí cho con thì bị tông xe, chân bị nhiễm trùng, hoại tử lại phải vay thêm tiền để cố giữ lại chân."
+    },
+    {
+     "t": "p",
+     "text": "Khánh Vy buồn rầu nghĩ đến chuyện nghỉ học. Một cô bé đã học giỏi suốt những năm tháng phổ thông, từng đoạt giải hóa, giờ nghĩ rằng mình phải dừng lại. Câu chuyện đau lòng khiến dì Phương hàng xóm không ngủ được, bèn lấy 10 triệu đồng đưa cho Khánh Vy, nói con đóng đỡ rồi đi tìm học bổng trên báo Tuổi Trẻ ."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng tình xóm làng còn thêm một câu chuyện khác. Một người hàng xóm khác - bà Hai, 82 tuổi - thấy Lan Vy loay hoay có thể lỡ mất việc nhập học, bà thuê một chiếc xe 7 chỗ chở cô bé sang Trường đại học Đồng Tháp cho kịp làm thủ tục nhập học, rồi nhờ con gái đang ở gần trường lo giúp chỗ ăn, chốn ở cho Lan Vy."
+    },
+    {
+     "t": "p",
+     "text": "Hai người hàng xóm, hai cách giúp. Vì họ đã từng nhìn thấy những buổi sáng hai chị em nhào bột làm bánh mì, từng thấy hai đứa khiêng chiếc bàn ra đường bán vé số, từng thấy hai chị em sinh đôi ngồi học ké WiFi. Và họ biết đằng sau những điểm số đẹp ấy là những ngày tháng các em đã tự mình cố gắng như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Lan Vy chưa chính thức đi học đã nhờ người quen xin một công việc liên quan đến sổ sách, ghi chép trong trường để kiếm thêm thu nhập. Còn Khánh Vy sau khi xin được chỗ ở trong ký túc xá cũng bắt đầu tìm việc làm thêm. Cũng qua dì Phương, Khánh Vy được giới thiệu một công việc tại quán cà phê gần trường."
+    },
+    {
+     "t": "p",
+     "text": "Phía trước là giảng đường, ký túc xá, những công việc làm thêm và một cuộc sống mới mà hai chị em sinh đôi sẽ phải tự mình bước vào. Nhưng lần này, Lan Vy và Khánh Vy không đi một mình. Khó khăn vẫn còn đó, nhưng tình thương của cha mẹ và các cô bà chú bác trong xóm nhỏ cũng là một niềm an ủi."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "h",
+     "text": "Tiếp sức đến trường trân trọng mời bạn đọc tài trợ cho chương trình:"
+    },
+    {
+     "t": "p",
+     "text": "Học bổng bằng tiền mặt hoặc hỗ trợ miễn, giảm học phí cho tân sinh viên."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị học tập như: máy tính xách tay, ba lô, sách vở, dụng cụ học tập, gói dữ liệu Internet và các phương tiện phục vụ học tập."
+    },
+    {
+     "t": "p",
+     "text": "Phương tiện đi lại như xe đạp, xe gắn máy hoặc các hình thức hỗ trợ phù hợp khác."
+    },
+    {
+     "t": "p",
+     "text": "Các khóa học ngoại ngữ, kỹ năng mềm, kỹ năng nghề nghiệp, chương trình đào tạo và phát triển năng lực cho tân sinh viên."
+    },
+    {
+     "t": "p",
+     "text": "Kết nối cơ hội thực tập, việc làm bán thời gian, chỗ ở miễn phí hoặc các chính sách hỗ trợ khác."
+    },
+    {
+     "t": "p",
+     "text": "Đồng hành trên nền tảng số thông qua việc quyên góp trực tuyến thông qua mã QR, tài khoản ngân hàng hoặc nền tảng thanh toán số."
+    },
+    {
+     "t": "p",
+     "text": "Mời các cựu sinh viên từng nhận học bổng \"Tiếp sức đến trường\" trở lại đồng hành bằng nhiều hình thức như hỗ trợ học bổng, chia sẻ kinh nghiệm hoặc giới thiệu cơ hội thực tập, việc làm cho tân sinh viên…"
+    },
+    {
+     "t": "p",
+     "text": "Liên hệ điện thoại: 0918.033.133."
+    },
+    {
+     "t": "p",
+     "text": "Tài khoản nhận đóng góp:"
+    },
+    {
+     "t": "p",
+     "text": "- Báo điện tử Tuổi Trẻ - Số tài khoản: 1604555888999"
+    },
+    {
+     "t": "p",
+     "text": "Ngân hàng Agribank - Chi nhánh Phú Nhuận, TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Nội dung: Ủng hộ “Tiếp sức đến trường” cho tân sinh viên hoặc ghi cụ thể tỉnh/thành mà bạn đọc muốn hỗ trợ."
+    },
+    {
+     "t": "p",
+     "text": "- Bạn đọc, doanh nghiệp ở nước ngoài có thể chuyển khoản về báo điện tử Tuổi Trẻ :"
+    },
+    {
+     "t": "p",
+     "text": "Tài khoản USD 007.137.0195.845 Ngân hàng Ngoại thương TP.HCM;"
+    },
+    {
+     "t": "p",
+     "text": "Tài khoản EUR 007.114.0373.054 Ngân hàng Ngoại thương TP.HCM"
+    },
+    {
+     "t": "p",
+     "text": "với Swift code BFTVVNVX007."
+    },
+    {
+     "t": "p",
+     "text": "Nội dung: Ủng hộ “Tiếp sức đến trường” cho tân sinh viên hoặc ghi cụ thể tỉnh/thành mà bạn đọc muốn hỗ trợ."
+    },
+    {
+     "t": "img",
+     "i": 8
+    }
+   ]
+  },
+  {
+   "id": "fb69f25caeff",
+   "order": 16,
+   "slug": "nam-sinh-dat-hat-trick-giai-quoc-gia-9-0-ielts-chon-hoc-su-p",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nam sinh đạt 'hat-trick' giải quốc gia, 9.0 IELTS chọn học Sư phạm",
+   "sapo": "Ba lần giành giải nhất, nhì thi học sinh giỏi quốc gia Tiếng Anh cùng điểm 9.0 IELTS giúp Nguyễn Tuấn Phong đỗ thẳng vào trường Đại học Sư phạm TP HCM.",
+   "author": "Lệ Nguyễn",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nam-sinh-dat-hat-trick-giai-quoc-gia-9-0-ielts-chon-hoc-su-pham-5120084.html",
+   "published": "2026-09-22T22:50:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 546,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/fb69f25caeff-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-23/fb69f25caeff-0.jpg",
+     "caption": "Tuấn Phong, cựu học sinh trường THPT chuyên Trần Đại Nghĩa, TP HCM. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 674
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ba lần giành giải nhất, nhì thi học sinh giỏi quốc gia Tiếng Anh cùng điểm 9.0 IELTS giúp Nguyễn Tuấn Phong đỗ thẳng vào trường Đại học Sư phạm TP HCM."
+    },
+    {
+     "t": "p",
+     "text": "Phong, cựu học sinh chuyên Anh trường THPT chuyên Trần Đại Nghĩa, TP HCM, nhập học ngành Sư phạm tiếng Anh, cách đây vài tuần. Nam sinh cho hay nhen nhóm ý định theo đuổi nghề giáo từ đầu năm lớp 10, khi được chọn vào đội tuyển thi cấp quốc gia và giành giải nhì."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích tốt là động lực, nhưng cũng khiến em gặp áp lực không nhỏ. Nam sinh nhiều lần hoài nghi, tự hỏi \"liệu có tiến bộ thêm không\" hay \"có duy trì được thành tích không\". Nhờ sự động viên, truyền cảm hứng từ các thầy cô bồi dưỡng đội tuyển, Phong lấy lại tự tin và tiếp tục giành giải nhất quốc gia trong hai năm liên tiếp."
+    },
+    {
+     "t": "p",
+     "text": "\"Em cũng muốn trở thành giáo viên thân thiện, vững chuyên môn và truyền cảm hứng như những thầy cô mà em được học\", Phong nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Phong thi IELTS vào năm lớp 11 để thêm lợi thế khi xét tuyển đại học. Thi ngay sau kỳ thi học sinh giỏi quốc gia nên em không ôn luyện nhiều, chỉ đặt mục tiêu đạt 8.0. Vì thế, Phong bất ngờ khi nhận kết quả tuyệt đối."
+    },
+    {
+     "t": "p",
+     "text": "\"Em không tin vào mắt mình, tưởng tờ kết quả 9.0 là phiếu mẫu, đọc kỹ mới xác nhận đúng là thông tin của mình\", Phong nói."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh cho hay được tiếp xúc với Tiếng Anh từ 4 tuổi và duy trì học thêm ở các trung tâm đến cuối cấp 2. Ban đầu, em ham học Tiếng Anh để xem những video truyền hình thực tế, phim ảnh, hoạt hình của nước ngoài, sau chuyển dần sang nội dung khoa học, kiến thức liên quan đến chương trình. Tiếng Anh như \"cánh cửa\" đưa em đến thế giới đa dạng, rộng mở hơn."
+    },
+    {
+     "t": "p",
+     "text": "Phong cho rằng ứng dụng là yếu tố tiên quyết để giỏi ngôn ngữ. Em thường xuyên luyện nói Tiếng Anh với bạn bè trong lớp hoặc người bản ngữ khi có cơ hội. Theo nam sinh, học ngoại ngữ đòi hỏi sự kiên trì, mỗi tiến bộ nhỏ đều đáng ghi nhận."
+    },
+    {
+     "t": "p",
+     "text": "\"Đừng áp lực và đặt mục tiêu quá nhiều, dục tốc thì bất đạt, càng căng thẳng lại càng khó tiếp thu\", Phong chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều năm bồi dưỡng cho Phong, cô Trần Kim Duyên, Tổ trưởng Ngoại ngữ, trường THPT chuyên Trần Đại Nghĩa, đánh giá nam sinh giỏi toàn diện. Em có tư duy sáng tạo, khả năng tự học và tinh thần ham học hỏi từ thầy cô và bạn bè, không tự cao, chủ quan."
+    },
+    {
+     "t": "p",
+     "text": "\"Phong rất bản lĩnh, tự lập và sẵn sàng hỗ trợ các bạn xung quanh, giúp thầy cô tổ chức các hoạt động ngoại khóa\", cô Duyên nói."
+    },
+    {
+     "t": "p",
+     "text": "Từ nền tảng thời phổ thông, Phong kỳ vọng trải nghiệm nhiều hoạt động trong 4 năm đại học, bên cạnh việc nỗ lực đạt kết quả học tập tốt. Về lâu dài, nam sinh mong trở thành giáo viên dạy Tiếng Anh ở bậc THPT."
+    }
+   ]
+  },
+  {
+   "id": "6af5ad5c3589",
+   "order": 17,
+   "slug": "robot-hinh-nguoi-hoc-cach-dung-day-sau-nhung-lan-mac-loi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Robot hình người học cách đứng dậy sau những lần mắc lỗi",
+   "sapo": "Các robot hình người bắt đầu học thông qua quá trình thử nghiệm và sửa sai tại “Trường mẫu giáo robot” mới ở Bắc Kinh, Trung Quốc.",
+   "author": "Hồng Hải",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/robot-hinh-nguoi-hoc-cach-dung-day-sau-nhung-lan-mac-loi-post1137643.vnp",
+   "published": "2026-09-22T15:15:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 203,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/6af5ad5c3589-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các robot hình người bắt đầu học thông qua quá trình thử nghiệm và sửa sai tại “Trường mẫu giáo robot” mới ở Bắc Kinh. Cơ sở này mở cửa ngày 1/9 tại quận Shijingshan, được xây dựng như một môi trường thử nghiệm để các robot học hỏi từ những trải nghiệm trong thế giới thực."
+    },
+    {
+     "t": "p",
+     "text": "Các robot hình người di chuyển quanh đường chạy trong nhà, thực hiện những bài tập và khám phá môi trường xung quanh. Một robot bốn chân cũng được ghi lại khi bò trên sàn."
+    },
+    {
+     "t": "p",
+     "text": "Dự án hướng tới việc đưa quá trình đào tạo robot vượt ra ngoài việc đơn thuần sao chép thao tác của con người. Robot sẽ được tương tác với các vật thể vật lý, mắc lỗi và điều chỉnh hành vi dựa trên phản hồi từ môi trường."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà phát triển cho biết công nghệ cảm biến xúc giác đóng vai trò trung tâm, giúp robot thu thập thông tin vật lý trong quá trình tương tác với môi trường."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu cũng được kỳ vọng mở rộng sang các ứng dụng công nghiệp như kiểm tra dây chuyền sản xuất, lắp ráp chính xác và logistics linh hoạt./."
+    }
+   ]
+  },
+  {
+   "id": "b106c60a922a",
+   "order": 18,
+   "slug": "da-ba-ca-voi-ky-vi-dan-ca-voi-75-trieu-nam-tuoi-giua-dai-nga",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Đá Ba Cá Voi: Kỳ vĩ 'đàn cá voi' 75 triệu năm tuổi giữa đại ngàn Thái Lan",
+   "sapo": "Giữa màu xanh ngút ngàn của núi rừng Bueng Kan, Đông Bắc Thái Lan, Đá Ba Cá Voi - ba khối đá tự nhiên khổng lồ nằm nối tiếp nhau - nhìn từ xa chẳng khác gì một gia đình cá voi đang bơi giữa đại ngàn.",
+   "author": "NGỌC ĐÔNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/da-ba-ca-voi-ky-vi-dan-ca-voi-75-trieu-nam-tuoi-giua-dai-ngan-thai-lan-100260922165009172.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 584,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/b106c60a922a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-0.jpg",
+     "caption": "Đá Ba Cá Voi, quần thể đá tự nhiên có hình thù hệt như những con cá voi giữa vườn quốc gia Phu Sing, tỉnh Beung Kan, Đông Bắc Thái Lan - Ảnh: Tổng cục Du lịch Thái Lan",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-3.jpg",
+     "caption": "Du khách đứng trên mỏm đá có thể phóng tầm mắt ngắm nhìn đại ngàn Thái Lan - Ảnh: NGỌC ĐÔNG",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-6.jpg",
+     "caption": "Ban quản lý khu du lịch chụp ảnh bằng flycam cho du khách - Ảnh: NGỌC ĐÔNG",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/b106c60a922a-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hin Sam Wan, hay quần thể Đá Ba Cá Voi (Three Whales Rocks) trong công viên rừng Phu Sing, là một điểm đến nổi tiếng của tỉnh Bueng Kan những năm gần đây, thu hút ngày càng nhiều du khách Việt Nam và quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Hin Sam Wan gồm ba khối đá khổng lồ nằm liền nhau, có niên đại khoảng 75 triệu năm, hình thành từ những biến đổi địa chất qua thời gian dài."
+    },
+    {
+     "t": "p",
+     "text": "Hai khối lớn được ví như cá voi cha và mẹ, trong khi khối nhỏ hơn nằm bên cạnh được xem là cá voi con."
+    },
+    {
+     "t": "p",
+     "text": "Từ một góc nhìn thích hợp, cả ba trông giống những con cá voi một cách kỳ lạ, từ phần lưng nhô lên cho đến phần đầu và miệng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Qua hàng triệu năm biến đổi địa chất, ba khối đá mang hình dáng giống những con cá voi đến lạ kỳ - Ảnh: Tổng cục Du lịch Thái Lan"
+    },
+    {
+     "t": "p",
+     "text": "Để đến được đây, du khách phải ngồi xe bán tải của khu du lịch, men theo con đường ngoằn ngoèo, xuyên qua những cánh rừng xanh rậm của công viên rừng Phu Sing."
+    },
+    {
+     "t": "p",
+     "text": "Chuyến đi vì thế không chỉ đơn thuần là hành trình đến một điểm tham quan, mà đã trở thành một phần của trải nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Sau đoạn đường rừng, ba khối đá dần hiện ra giữa những tán cây."
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể đi bộ trên bề mặt hai khối đá lớn, hay phần lưng của \"cá voi cha\" và \"cá voi mẹ\", để phóng tầm mắt xuống những cánh rừng trải dài bên dưới."
+    },
+    {
+     "t": "p",
+     "text": "Ban quản lý đặt các vạch giới hạn trên mặt đá và khuyến cáo du khách chỉ di chuyển trong khu vực được phép, bởi phía ngoài là những vách đá rất cao."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Một trong những cách ấn tượng nhất để ngắm nhìn Đá Ba Cá Voi là từ trên cao."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Đá Ba Cá Voi, quần thể đá tự nhiên có hình thù hệt như những con cá voi giữa vườn quốc gia Phu Sing, tỉnh Beung Kan, Đông Bắc Thái Lan - Ảnh: Tổng cục Du lịch Thái Lan"
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, du khách không được tự ý bay flycam tại khu vực này. Ban quản lý có dịch vụ bay flycam để ghi lại hình ảnh và video chuyến tham quan."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Từ trên cao, hình dáng ba khối đá càng hiện rõ, giống ba con cá voi khổng lồ đang nằm giữa một biển cây xanh."
+    },
+    {
+     "t": "p",
+     "text": "Sự nổi tiếng của Hin Sam Wan đến từ những hình ảnh như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2019, một video quay bằng flycam cho thấy toàn cảnh quần thể đá giữa núi rừng đã thu hút sự chú ý của cộng đồng mạng, góp phần đưa địa danh này đến gần hơn với du khách."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Trên lưng 'đàn cá voi' khổng lồ - Ảnh: Tổng cục Du lịch Thái Lan"
+    },
+    {
+     "t": "p",
+     "text": "Theo Tổng cục Du lịch Thái Lan, địa hình Phu Sing là núi đá sa thạch trải dài theo hướng bắc - nam qua địa bàn các huyện Si Wilai và Mueang Bueng Kan, được bao phủ bởi những cánh rừng xanh tốt."
+    },
+    {
+     "t": "p",
+     "text": "Núi đá sa thạch ở đây hình thành qua nhiều dạng biến đổi địa chất của vỏ Trái đất, tạo nên nhiều cảnh quan tự nhiên đa dạng như các khối đá, vách đá, hang động, cụm đá với nhiều hình thù khác nhau và những bậc đá tự nhiên trải rộng khắp khu vực Phu Sing."
+    }
+   ]
+  },
+  {
+   "id": "f250847e5c19",
+   "order": 19,
+   "slug": "chang-trai-mong-o-dong-van-co-sieu-nang-luc-bien-nguoi-la-th",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Chàng trai Mông ở Đồng Văn có ‘siêu năng lực’, biến người lạ thành người quen",
+   "sapo": "Không phân biệt tôn giáo, dân tộc, quốc tịch… khi đã đến phố cổ Đồng Văn tất cả đều hòa chung bầu không khí sôi động, đậm bản sắc văn hóa vùng cao, từ lạ thành quen cùng ‘cơ trưởng’ Sùng Mạnh Hùng.",
+   "author": "NGUYỄN HIỀN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chang-trai-mong-o-dong-van-co-sieu-nang-luc-bien-nguoi-la-thanh-nguoi-quen-100260922192938686.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 898,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/f250847e5c19-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-23/f250847e5c19-0.jpg",
+     "caption": "Nhiều du khách biết đến Đồng Văn qua những điệu nhảy viral của chàng trai Mông Sùng Mạnh Hùng - Ảnh: FBNV",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-23/f250847e5c19-1.jpg",
+     "caption": "Không khí tràn đầy năng lượng tại phố cổ Đồng Văn - Ảnh: FBNV",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-23/f250847e5c19-2.jpg",
+     "caption": "Nhiều người gọi Hùng là đại sứ du lịch Đồng Văn - Ảnh: NAM TRẦN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-23/f250847e5c19-3.jpg",
+     "caption": "Phát triển du lịch chính là giúp địa phương bảo tồn văn hóa - Ảnh: NAM TRẦN",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Người trẻ là cầu nối đưa văn hóa đến với thế giới qua nền tảng số - Video: NAM TRẦN - NGUYỄN HIỀN"
+    },
+    {
+     "t": "p",
+     "text": "Sùng Mạnh Hùng hay Hùng Hà Giang là cái tên quá quen thuộc đối với những ai yêu mến phố cổ Đồng Văn (Tuyên Quang)."
+    },
+    {
+     "t": "p",
+     "text": "Cách đây 3 năm, những video đầu tiên của Hùng ghi lại các điệu nhảy, điệu múa truyền thống của người Mông lên xu hướng, từ đó du khách đến Đồng Văn cũng đông hơn, háo hức để gặp chàng trai Mông, khám phá văn hóa trên cao nguyên đá."
+    },
+    {
+     "t": "h",
+     "text": "Đến Đồng Văn để gặp Sùng Mạnh Hùng"
+    },
+    {
+     "t": "p",
+     "text": "Chẳng cần hẹn trước, đúng 20h, du khách dù đang ăn uống hay cà phê cũng bớt thời gian tập trung tại sân sinh hoạt cộng đồng phố cổ Đồng Văn để hòa mình vào từng bài hát, điệu nhảy cùng Sùng Mạnh Hùng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Và đó cũng là nơi những điệu nhảy, tiếng sáo của người Mông ở Đồng Văn \"bay\" ra thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ lại thời điểm ba năm trước, chàng trai Mông kể phố cổ Đồng Văn khi đó chưa có các hoạt động cộng đồng, du khách đến chỉ để đi bộ, ngắm phố."
+    },
+    {
+     "t": "p",
+     "text": "Là một người yêu phong trào, Hùng nảy ra ý tưởng xây dựng một hoạt động cộng đồng để có thể kết nối mọi người lại với nhau, thể hiện tinh thần đoàn kết, yêu Tổ quốc tại mảnh đất biên giới quê hương mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi vùng đất đều có nét đặc trưng riêng. Ở Đồng Văn có rất nhiều dân tộc thiểu số, mỗi dân tộc lại có những nét đẹp văn hóa khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Chính vì vậy mình muốn du khách đến đây không chỉ được chiêm ngưỡng các danh lam thắng cảnh, di tích cấp quốc gia mà còn được hòa mình vào không gian văn hóa các dân tộc thiểu số\", anh bộc bạch."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ đó, chàng trai sinh năm 1992 này vừa trình diễn các điệu nhảy truyền thống của người Mông, vừa biến tấu sao cho phù hợp với tất cả du khách, để ai cũng có thể tham gia hoạt động này."
+    },
+    {
+     "t": "p",
+     "text": "\"May mắn khi mình xây dựng kênh, các nền tảng số đã điều hướng các video của mình đến nhiều quốc gia, nhiều du khách quốc tế đã gọi điện trực tiếp cho mình nói rằng muốn đến Đồng Văn để đi chơi, khám phá."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều bạn du khách quốc tế nói rằng \"wow tôi không nghĩ rằng tại một mảnh đất rất xa ở Việt Nam lại có hoạt động vui như này, các bạn cũng chia sẻ trong các phỏng vấn nhỏ trên trang cá nhân của Hùng rằng những ai chưa đến Hà Giang thì hãy đến nơi đây một lần trong đời, vì nơi này rất tuyệt vời\", Mạnh Hùng tự hào."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo anh, hoạt động văn hóa cộng đồng này có thể diễn ra ở bất cứ đâu vì ở người Việt Nam có một lòng yêu nước nồng nàn, chỉ cần các ca khúc cách mạng, ca khúc ngợi ca Tổ quốc vang lên là tất cả lại hòa chung một nhịp."
+    },
+    {
+     "t": "p",
+     "text": "Và quả thật, sau ba năm Đồng Văn đã đổi thay, du khách đến đông hơn, lưu trú nhiều hơn, thay vì chỉ đi lướt qua."
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi với Tuổi Trẻ , ông Phạm Đức Nam - Chủ tịch UBND xã Đồng Văn - chia sẻ Sùng Mạnh Hùng là một bạn trẻ có sức lan tỏa văn hóa rất lớn đến du khách, đặc biệt đối với các du khách quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến thời điểm hiện tại đã có du khách từ 124 quốc gia đến với Đồng Văn. Mỗi du khách lại là những người tiếp tục lan tỏa, quảng bá cho du lịch Đồng Văn đến với nhiều du khách quốc tế hơn nữa qua các trang cá nhân của chính họ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Lan tỏa, truyền cảm hứng"
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, đội hoạt náo viên tại phố cổ Đồng Văn của Hùng đã có 10 thành viên, đa phần đều là các bạn con em dân tộc thiểu số, tiêu chí đầu tiên là người địa phương, tiêu chí thứ 2 là hỗ trợ cho các bạn hộ nghèo."
+    },
+    {
+     "t": "p",
+     "text": "\"Hoạt động này giúp các bạn có thêm chi phí để trang trải cho việc học và giúp các bạn tự tin hơn trong cuộc sống. Mỗi đội sẽ đào tạo trong 3 năm, khi các bạn học cấp 3 xong mình định hướng cho các bạn đi học đại học."
+    },
+    {
+     "t": "p",
+     "text": "Mình luôn động viên các bạn phải học thật giỏi, đó mới là cách phát triển lâu dài và thoát nghèo bền vững\", Hùng tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, các bạn trẻ không thể có thêm kinh tế từ chính văn hóa của mình, nhiều bạn trẻ cũng phải lựa chọn thoát ly khỏi Đồng Văn, tìm đến các công ty làm việc để vun đắp cho gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Khi du khách đến nhiều hơn, nhu cầu khám phá văn hóa bản địa tăng cũng giúp bà con nhận thức rõ hơn về việc bảo tồn các nét đẹp văn hóa của mình."
+    },
+    {
+     "t": "p",
+     "text": "Từ các em nhỏ mầm non cũng đã có suy nghĩ làm sao để giữ gìn nét văn hóa của mình từ tiếng khèn, tiếng sáo để giới thiệu quảng bá đến du khách."
+    }
+   ]
+  },
+  {
+   "id": "2ee069aa0d33",
+   "order": 20,
+   "slug": "5-lang-gom-viet-co-the-trai-nghiem-van-hoa-thu-cong",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "5 làng gốm Việt có thể trải nghiệm văn hóa thủ công",
+   "sapo": "Tạp chí du lịch Mỹ gợi ý các làng gốm Bát Tràng, Thanh Hà là điểm đến để du khách tìm hiểu lịch sử, văn hóa, xem nghệ nhân chế tác và tự tay tạo hình sản phẩm theo kỹ thuật truyền thống.",
+   "author": "Tuấn Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/5-lang-gom-viet-co-the-trai-nghiem-van-hoa-thu-cong-5123089.html",
+   "published": "2026-09-22T17:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1559,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-3.jpg",
+     "caption": "",
+     "w": 959,
+     "h": 624
+    },
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-23/2ee069aa0d33-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "5 làng gốm Việt có thể trải nghiệm văn hóa thủ công"
+    },
+    {
+     "t": "p",
+     "text": "Tạp chí du lịch Mỹ gợi ý các làng gốm Bát Tràng, Thanh Hà là điểm đến để du khách tìm hiểu lịch sử, văn hóa, xem nghệ nhân chế tác và tự tay tạo hình sản phẩm theo kỹ thuật truyền thống."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Gốm Việt có lịch sử hàng nghìn năm, nhiều làng nghề vẫn gìn giữ kỹ thuật và phong cách riêng. Một số nơi như làng gốm Thanh Hà (Hội An) còn duy trì các nghi lễ truyền thống, trong đó có Lễ giỗ Tổ nghề gốm được tổ chức hằng năm."
+    },
+    {
+     "t": "p",
+     "text": "Theo tạp chí du lịch Mỹ Travel Leisure, chuyên giới thiệu điểm đến, khách sạn, ẩm thực, trải nghiệm và xu hướng du lịch, bên cạnh sản xuất và kinh doanh đồ thủ công, nhiều làng gốm Việt Nam đang phát triển du lịch, tạo sinh kế cho người dân và giúp du khách tìm hiểu lịch sử, văn hóa địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Dưới đây là 5 làng gốm tiêu biểu được tạp chí giới thiệu, nơi du khách có thể xem nghệ nhân chế tác, tìm hiểu kỹ thuật truyền thống và tự tay tạo hình sản phẩm. Ảnh: Đức Thắng"
+    },
+    {
+     "t": "p",
+     "text": "Gốm Việt có lịch sử hàng nghìn năm, nhiều làng nghề vẫn gìn giữ kỹ thuật và phong cách riêng. Một số nơi như làng gốm Thanh Hà (Hội An) còn duy trì các nghi lễ truyền thống, trong đó có Lễ giỗ Tổ nghề gốm được tổ chức hằng năm."
+    },
+    {
+     "t": "p",
+     "text": "Theo tạp chí du lịch Mỹ Travel Leisure, chuyên giới thiệu điểm đến, khách sạn, ẩm thực, trải nghiệm và xu hướng du lịch, bên cạnh sản xuất và kinh doanh đồ thủ công, nhiều làng gốm Việt Nam đang phát triển du lịch, tạo sinh kế cho người dân và giúp du khách tìm hiểu lịch sử, văn hóa địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Dưới đây là 5 làng gốm tiêu biểu được tạp chí giới thiệu, nơi du khách có thể xem nghệ nhân chế tác, tìm hiểu kỹ thuật truyền thống và tự tay tạo hình sản phẩm. Ảnh: Đức Thắng"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bát Tràng, Hà Nội"
+    },
+    {
+     "t": "p",
+     "text": "Có lịch sử hơn 700 năm, Bát Tràng là một trong những làng gốm lâu đời và nổi tiếng của Việt Nam với các dòng men đặc trưng như men nâu, men ngọc, men rạn và hoa văn xanh."
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể đến Bảo tàng Gốm Bát Tràng để tìm hiểu lịch sử làng nghề, xem nghệ nhân chế tác và tham gia các lớp trải nghiệm làm gốm."
+    },
+    {
+     "t": "p",
+     "text": "Từ trung tâm Hà Nội, du khách mất khoảng 45-60 phút đi ôtô tới Bát Tràng. Ảnh: Hoàng Giang"
+    },
+    {
+     "t": "p",
+     "text": "Bát Tràng, Hà Nội"
+    },
+    {
+     "t": "p",
+     "text": "Có lịch sử hơn 700 năm, Bát Tràng là một trong những làng gốm lâu đời và nổi tiếng của Việt Nam với các dòng men đặc trưng như men nâu, men ngọc, men rạn và hoa văn xanh."
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể đến Bảo tàng Gốm Bát Tràng để tìm hiểu lịch sử làng nghề, xem nghệ nhân chế tác và tham gia các lớp trải nghiệm làm gốm."
+    },
+    {
+     "t": "p",
+     "text": "Từ trung tâm Hà Nội, du khách mất khoảng 45-60 phút đi ôtô tới Bát Tràng. Ảnh: Hoàng Giang"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chu Đậu, Hải Phòng"
+    },
+    {
+     "t": "p",
+     "text": "Từng là trung tâm gốm nổi tiếng ở miền Bắc, Chu Đậu thất truyền trong thời gian dài trước khi được phát hiện lại vào thế kỷ 20. Năm 1980, một nhà ngoại giao Nhật Bản tìm thấy chiếc bình Chu Đậu thế kỷ 15 tại Thổ Nhĩ Kỳ, mở đầu quá trình nghiên cứu và khai quật nguồn gốc dòng gốm này."
+    },
+    {
+     "t": "p",
+     "text": "Gốm Chu Đậu nổi bật với men trắng, xanh lam, men ngọc cùng các họa tiết hoa, chim, cá và phong cảnh. Du khách có thể tham quan làng gốm, xem nghệ nhân chế tác, tìm hiểu các lò gốm cổ được phục dựng và mua sản phẩm thủ công."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách Hà Nội khoảng 1,5 tiếng đi ôtô, phù hợp kết hợp tham quan trong ngày. Ảnh: Giang Huy"
+    },
+    {
+     "t": "p",
+     "text": "Chu Đậu, Hải Phòng"
+    },
+    {
+     "t": "p",
+     "text": "Từng là trung tâm gốm nổi tiếng ở miền Bắc, Chu Đậu thất truyền trong thời gian dài trước khi được phát hiện lại vào thế kỷ 20. Năm 1980, một nhà ngoại giao Nhật Bản tìm thấy chiếc bình Chu Đậu thế kỷ 15 tại Thổ Nhĩ Kỳ, mở đầu quá trình nghiên cứu và khai quật nguồn gốc dòng gốm này."
+    },
+    {
+     "t": "p",
+     "text": "Gốm Chu Đậu nổi bật với men trắng, xanh lam, men ngọc cùng các họa tiết hoa, chim, cá và phong cảnh. Du khách có thể tham quan làng gốm, xem nghệ nhân chế tác, tìm hiểu các lò gốm cổ được phục dựng và mua sản phẩm thủ công."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách Hà Nội khoảng 1,5 tiếng đi ôtô, phù hợp kết hợp tham quan trong ngày. Ảnh: Giang Huy"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Phù Lãng, Bắc Ninh"
+    },
+    {
+     "t": "p",
+     "text": "Có lịch sử từ thế kỷ 13,Phù Lãng nổi tiếng với gốm đất đỏ, sau khi nung tạo màu nâu trầm. Làng sản xuất nhiều loại đồ gia dụng, chum vại, tượng đất và bình hoa."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt là men da lươn, tạo bề mặt loang tự nhiên do nhiệt độ thay đổi trong quá trình nung củi. Gốm Phù Lãng được công nhận là Di sản văn hóa phi vật thể quốc gia năm 2016."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách Hà Nội khoảng 1,5 tiếng đi ôtô, phù hợp kết hợp tham quan các đình, chùa và di tích ở Bắc Ninh. Ảnh: Phạm Trắc Vũ"
+    },
+    {
+     "t": "p",
+     "text": "Phù Lãng, Bắc Ninh"
+    },
+    {
+     "t": "p",
+     "text": "Có lịch sử từ thế kỷ 13,Phù Lãng nổi tiếng với gốm đất đỏ, sau khi nung tạo màu nâu trầm. Làng sản xuất nhiều loại đồ gia dụng, chum vại, tượng đất và bình hoa."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt là men da lươn, tạo bề mặt loang tự nhiên do nhiệt độ thay đổi trong quá trình nung củi. Gốm Phù Lãng được công nhận là Di sản văn hóa phi vật thể quốc gia năm 2016."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách Hà Nội khoảng 1,5 tiếng đi ôtô, phù hợp kết hợp tham quan các đình, chùa và di tích ở Bắc Ninh. Ảnh: Phạm Trắc Vũ"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Thanh Hà, Đà Nẵng"
+    },
+    {
+     "t": "p",
+     "text": "Làng gốm Thanh Hà phát triển cùng thương cảng Hội An từ khoảng thế kỷ XVI-XVII, từng cung cấp gạch ngói cho khu phố cổ. Gốm chủ yếu có màu đỏ, nâu, làm từ đất sét vàng và thường không tráng men."
+    },
+    {
+     "t": "p",
+     "text": "Kỹ thuật truyền thống đòi hỏi hai người cùng thao tác: một người dùng chân quay bàn xoay, người còn lại tạo hình sản phẩm. Gạch đất nung và ngói âm dương Thanh Hà góp phần tạo nên những mái nhà phủ rêu của Hội An."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách phố cổ khoảng 10 phút đi ôtô, du khách có thể kết hợp tham quan bằng xe đạp hoặc đi bộ. Ảnh: Giang Huy"
+    },
+    {
+     "t": "p",
+     "text": "Thanh Hà, Đà Nẵng"
+    },
+    {
+     "t": "p",
+     "text": "Làng gốm Thanh Hà phát triển cùng thương cảng Hội An từ khoảng thế kỷ XVI-XVII, từng cung cấp gạch ngói cho khu phố cổ. Gốm chủ yếu có màu đỏ, nâu, làm từ đất sét vàng và thường không tráng men."
+    },
+    {
+     "t": "p",
+     "text": "Kỹ thuật truyền thống đòi hỏi hai người cùng thao tác: một người dùng chân quay bàn xoay, người còn lại tạo hình sản phẩm. Gạch đất nung và ngói âm dương Thanh Hà góp phần tạo nên những mái nhà phủ rêu của Hội An."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách phố cổ khoảng 10 phút đi ôtô, du khách có thể kết hợp tham quan bằng xe đạp hoặc đi bộ. Ảnh: Giang Huy"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Bàu Trúc, Khánh Hòa"
+    },
+    {
+     "t": "p",
+     "text": "Gốm Bàu Trúc được tạo hình thủ công, không sử dụng bàn xoay, được cộng đồng Chăm gìn giữ qua nhiều thế hệ, chủ yếu do phụ nữ thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Nghệ nhân di chuyển quanh khối đất để tạo hình, sau đó trang trí bằng hoa văn Chăm. Sản phẩm không tráng men, được nung ngoài trời bằng củi và rơm, tạo nên màu sắc, bề mặt khác nhau trên từng món đồ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, nghệ thuật làm gốm của người Chăm được UNESCO ghi danh vào Danh sách Di sản văn hóa phi vật thể cần được bảo vệ khẩn cấp."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách sân bay quốc tế Cam Ranh khoảng 1,5 tiếng đi ôtô, có thể kết hợp với các điểm nghỉ dưỡng và trải nghiệm văn hóa Chăm trong khu vực. Ảnh: Anh Duy"
+    },
+    {
+     "t": "p",
+     "text": "Bàu Trúc, Khánh Hòa"
+    },
+    {
+     "t": "p",
+     "text": "Gốm Bàu Trúc được tạo hình thủ công, không sử dụng bàn xoay, được cộng đồng Chăm gìn giữ qua nhiều thế hệ, chủ yếu do phụ nữ thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Nghệ nhân di chuyển quanh khối đất để tạo hình, sau đó trang trí bằng hoa văn Chăm. Sản phẩm không tráng men, được nung ngoài trời bằng củi và rơm, tạo nên màu sắc, bề mặt khác nhau trên từng món đồ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, nghệ thuật làm gốm của người Chăm được UNESCO ghi danh vào Danh sách Di sản văn hóa phi vật thể cần được bảo vệ khẩn cấp."
+    },
+    {
+     "t": "p",
+     "text": "Làng cách sân bay quốc tế Cam Ranh khoảng 1,5 tiếng đi ôtô, có thể kết hợp với các điểm nghỉ dưỡng và trải nghiệm văn hóa Chăm trong khu vực. Ảnh: Anh Duy"
+    },
+    {
+     "t": "p",
+     "text": "Tuấn Anh (Theo Travel Leisure )"
+    }
+   ]
+  }
+ ]
+}
