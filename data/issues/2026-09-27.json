@@ -1,0 +1,3260 @@
+{
+ "date": "2026-09-27",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-09-27T09:12:22+07:00",
+ "sections": [
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  }
+ ],
+ "articles": [
+  {
+   "id": "8f97cfcad2fe",
+   "order": 1,
+   "slug": "loai-chim-dep-chi-co-tai-viet-nam-doi-mat-nguy-co-tuyet-chun",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Loài chim đẹp chỉ có tại Việt Nam, đối mặt nguy cơ tuyệt chủng",
+   "sapo": "(Dân trí) - Tại vùng Tây Nguyên của Việt Nam có phân bố một loài chim với bộ lông nhiều màu sắc, cùng giọng hót hay. Tuy nhiên, số lượng loài chim này đã bị",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/loai-chim-dep-chi-co-tai-viet-nam-doi-mat-nguy-co-tuyet-chung-20260926012912666.htm",
+   "published": "2026-09-26T00:38:05+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 822,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/8f97cfcad2fe-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/8f97cfcad2fe-0.jpg",
+     "caption": "Chim khướu Ngọc Linh có bộ lông đẹp với đôi cánh màu vàng đặc trưng (Ảnh: Egorbirder).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/8f97cfcad2fe-1.jpg",
+     "caption": "Phần lông ngực khướu Ngọc Linh sắp xếp như vảy cá (Ảnh: Ben Lucking).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/8f97cfcad2fe-2.jpg",
+     "caption": "Khướu Ngọc Linh sống thành từng cặp hoặc một nhóm nhỏ (Ảnh: Toby Trung).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/8f97cfcad2fe-3.jpg",
+     "caption": "Bộ lông đẹp khiến khướu Ngọc Linh bị săn bắt để làm cảnh (Ảnh: Sriram Reddy).",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Tại vùng Tây Nguyên của Việt Nam có phân bố một loài chim với bộ lông nhiều màu sắc, cùng giọng hót hay. Tuy nhiên, số lượng loài chim này đã bị giảm đến mức nguy cấp và đối mặt nguy cơ tuyệt chủng."
+    },
+    {
+     "t": "p",
+     "text": "Loài chim đặc hữu tại Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Loài chim được đề cập ở trên là khướu Ngọc Linh, còn có tên gọi khướu cánh vàng, tên khoa học Trochalopteron ngoclinhense. Đây là loài chim có kích thước trung bình thuộc họ chim Kim oanh ( Leiothrichidae) , với chiều dài cơ thể khoảng 27cm (kể cả đuôi)."
+    },
+    {
+     "t": "p",
+     "text": "Khướu Ngọc Linh chỉ được tìm thấy bên trong những khu rừng nhiệt đới ở độ cao từ 1.480 đến 2.200 mét thuộc khu bảo tồn thiên nhiên Ngọc Linh (tỉnh Quảng Ngãi) và đây chính là nguồn gốc cho tên gọi của loài chim này."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khướu Ngọc Linh có bộ lông màu xám đậm, đỉnh đầu màu nâu hạt dẻ, ngực có phần lông đen như vảy cá. Đặc biệt, chim có cánh và đuôi màu vàng, nên còn được gọi là khướu cánh vàng. Kích thước, màu sắc giữa chim trống và chim mái không có sự khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Dù khướu Ngọc Linh được các nhà khoa học tìm thấy vào năm 1996 và mô tả từ năm 1999, loài chim này rất quý hiếm, nhút nhát và sống trong những khu vực khó tiếp cận nên đến nay các nhà khoa học vẫn chưa thể nghiên cứu đầy đủ về môi trường sống, thức ăn, mùa sinh sản…"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một số nghiên cứu cho thấy khướu Ngọc Linh thường sống theo cặp hoặc nhóm nhỏ, ăn các loài côn trùng, động vật không xương sống nhỏ, quả mọng, trái cây… Chúng đôi khi đi kiếm ăn cùng với những loài chim khác."
+    },
+    {
+     "t": "p",
+     "text": "Hình thức sinh sản cũng như cách làm tổ, thời gian sinh sản, số trứng mỗi lứa… vẫn chưa được làm sáng tỏ do thiếu các nghiên cứu khoa học đầy đủ."
+    },
+    {
+     "t": "p",
+     "text": "Loài chim quý hiếm nằm trong Sách Đỏ Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Theo Sách Đỏ Việt Nam, khướu Ngọc Linh là loài chim định cư, chỉ được ghi nhận ở một vài địa điểm thuộc tỉnh Kon Tum (cũ, nay là Quảng Ngãi). Diện tích phân bố của loài chim này ước tính chưa đến 5.000 km2, bị phân mảnh, sinh cảnh sống bị thu hẹp và suy thoái do ảnh hưởng bởi các hoạt động canh tác nông nghiệp, khai thác lâm sản, đôi khi bị bắt làm sinh vật cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu năm 2023 cho thấy khướu Ngọc Linh chỉ còn dao động từ 1.000 đến 2.499 cá thể trưởng thành, tương đương với khoảng 1.500 đến 4.000 cá thể."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sách Đỏ Việt Nam năm 2007 từng xếp khướu Ngọc Linh vào nhóm động vật “Sắp nguy cấp”, nhưng đến năm 2023 đã xếp loài chim này vào nhóm “Nguy cấp”, là cấp độ bị đe dọa cao nhất, có nguy cơ tuyệt chủng trong tự nhiên rất cao nếu các yếu tố đe dọa tiếp tục diễn ra. Điều này cho thấy quần thể khướu Ngọc Linh vẫn đang tiếp tục bị suy giảm mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN) cũng đánh giá quần thể khướu Ngọc Linh đang bị sụt giảm do tình trạng suy thoái sinh cảnh và hoạt động săn bắt của con người, do đó IUCN cũng xếp loài chim này vào nhóm động vật “Nguy cấp”."
+    },
+    {
+     "t": "p",
+     "text": "Loài chim được pháp luật Việt Nam bảo vệ nghiêm ngặt"
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh việc được đưa vào Sách Đỏ, khướu Ngọc Linh còn được pháp luật Việt Nam bảo vệ nghiêm ngặt."
+    },
+    {
+     "t": "p",
+     "text": "Theo Thông tư số 85/2025/TT-BNNMT của Bộ Nông nghiệp và Môi trường, có hiệu lực từ ngày 1/1/2026, chim khướu Ngọc Linh được xếp vào nhóm IB, là nhóm các loài động vật hoang dã nguy cấp, quý hiếm, có nguy cơ tuyệt chủng rất cao và cần được ưu tiên bảo vệ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Pháp luật Việt Nam nghiêm cấm hoàn toàn các hành vi săn bắt, nuôi nhốt, tàng trữ, vận chuyển, tiêu thụ hoặc buôn bán các loài động vật thuộc nhóm IB, ngoại trừ các trường hợp được cấp phép đặc biệt cho mục đích bảo tồn, nghiên cứu khoa học hoặc các hoạt động phi thương mại."
+    },
+    {
+     "t": "p",
+     "text": "Các hành vi săn bắt, buôn bán, vận chuyển hoặc tiêu thụ động vật thuộc nhóm IB đều bị nghiêm cấm và người vi phạm có thể bị xử phạt từ 500 triệu lên đến hàng tỷ đồng và bị xử phạt tù từ 1 đến 15 năm, tùy thuộc vào mức độ vi phạm."
+    },
+    {
+     "t": "p",
+     "text": "Do vậy, hành vi săn bắt, vận chuyển, giết hại hoặc tiêu thụ loài chim khướu Ngọc Linh là trái pháp luật và bị nghiêm cấm, người dân cần phải nắm rõ để tránh vướng vào vòng lao lý."
+    }
+   ]
+  },
+  {
+   "id": "af99605a47a5",
+   "order": 2,
+   "slug": "ham-bi-mat-trong-truong-thcs-trung-vuong-ha-noi",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Hầm bí mật trong Trường THCS Trưng Vương Hà Nội",
+   "sapo": "Trường THCS Trưng Vương vẫn còn huy hiệu Hà Nội thời Pháp - \"song long chầu bảo kiếm\". Trong trường từng có căn hầm trú ẩn thời chiến với hai lối ra vào.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ham-bi-mat-trong-truong-thcs-trung-vuong-ha-noi-185260926194133595.htm",
+   "published": "2026-09-27T00:45:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 393,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/af99605a47a5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-0.jpg",
+     "caption": "Trường THCS Trưng Vương có tuổi đời hơn 100 năm",
+     "w": 1280,
+     "h": 819
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-1.jpg",
+     "caption": "Trường Trưng Vương là nơi hiếm hoi còn giữ Huy hiệu TP.Hà Nội thời Pháp thuộc - song long chầu bảo kiếm",
+     "w": 1280,
+     "h": 821
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-2.jpg",
+     "caption": "Trường THCS Trưng Vương vẫn còn nhiều nét kiến trúc cũ",
+     "w": 680,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-3.jpg",
+     "caption": "Trưng Vương khung cửa mùa thu",
+     "w": 1280,
+     "h": 898
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-4.jpg",
+     "caption": "Trường THCS Trưng Vương nhìn từ trên cao",
+     "w": 960,
+     "h": 690
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-5.jpg",
+     "caption": "Huy hiệu TP.Hà Nội thời Pháp kết hợp văn hóa Á - Âu",
+     "w": 1280,
+     "h": 1793
+    },
+    {
+     "src": "img/2026-09-27/af99605a47a5-6.jpg",
+     "caption": "Trong khuôn viên trường THCS Trưng Vương từng có một căn hầm trú ẩn khoảng 40 m², hai lối ra vào",
+     "w": 698,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trường THCS Trưng Vương vẫn còn huy hiệu Hà Nội thời Pháp - \"song long chầu bảo kiếm\". Trong trường từng có căn hầm trú ẩn thời chiến với hai lối ra vào."
+    },
+    {
+     "t": "p",
+     "text": "Theo báo Quân đội nhân dân , trong khuôn viên trường từng có một căn hầm khoảng 40 m², hai lối ra vào. Hầm được xây trong những năm đầu kháng chiến chống Pháp để cán bộ trú ẩn hoặc rút đi khi tình hình báo động. Thời chống Mỹ, hầm là nơi giáo viên, học sinh trú ẩn hoặc cứu chữa thương, bệnh binh của Bệnh viện Hữu nghị Việt Nam - Cuba . Những lối xuống hầm về sau đã bị lấp."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trên trán tường phần mái Trường THCS Trưng Vương có phù điêu huy hiệu TP.Hà Nội thời Pháp thuộc với hình ảnh hai con rồng uốn mình hướng vào một thanh kiếm. Có tài liệu cho rằng, rồng và kiếm là sự kết hợp hai biểu tượng uy quyền trong văn hóa Á Đông và châu Âu. Giả thuyết khác lại liên hệ thanh kiếm với tích trả gươm ở hồ Hoàn Kiếm. Huy hiệu Hà Nội thời Pháp từng xuất hiện trên nhiều công trình đô thị, nhưng nay rất hiếm khi thấy. Trường Trưng Vương là nơi hiếm hoi còn giữ được dấu tích này."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trường lấy mốc thành lập năm 1917, khi Pháp mở Trường Nữ học An Nam , nhận nữ sinh từ 8 tuổi. Ngoài Quốc ngữ, tiếng Pháp, toán, địa lý, vệ sinh, luân lý, chương trình còn có may, thêu, nấu ăn và quản lý gia đình. Qua nhiều lần đổi tên, trường giữ tên Trưng Vương từ năm 1948 đến nay. Nửa đầu thế kỷ 20, trường chỉ đào tạo nữ sinh, sau năm 1958 mới nhận nam sinh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hai khối nhà A và D vẫn còn nhiều nét kiến trúc cũ. Nhiều chi tiết thường được nhìn như vẻ đẹp \"Pháp cổ\" lại giúp công trình thích ứng với khí hậu Hà Nội: hành lang rộng tới 2,5 m là vùng đệm, trần cao thông thoáng, cửa lá sách chặn mưa nhưng gió vẫn lưu thông. Đây là một kiểu điều hòa không khí tự nhiên trước thời máy lạnh. Cổng trường vẫn giữ hình ảnh cũ. Cầu thang gỗ ngày xưa vẫn còn được sử dụng."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "f2302818e5b9",
+   "order": 3,
+   "slug": "mua-lac-da-xuong-nui-o-thuy-si",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Mùa lạc đà xuống núi ở Thụy Sĩ",
+   "sapo": "Thụy Sĩ Trước mùa đông lạnh, hàng trăm con lạc đà được lùa xuống núi, khiến nhiều du khách đổ đến để xem cuộc hành quân của chúng.",
+   "author": "Hoài Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/mua-lac-da-xuong-nui-o-thuy-si-5124572.html",
+   "published": "2026-09-26T17:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 737,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/f2302818e5b9-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1801
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1801
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-09-27/f2302818e5b9-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Mùa lạc đà xuống núi ở Thụy Sĩ"
+    },
+    {
+     "t": "p",
+     "text": "Thụy Sĩ Trước mùa đông lạnh, hàng trăm con lạc đà được lùa xuống núi, khiến nhiều du khách đổ đến để xem cuộc hành quân của chúng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mỗi độ thu về, theo truyền thống lễ hội Alpabzug (lễ hội lùa gia súc xuống núi), nông dân ở Thụy Sĩ lại di chuyển đàn gia súc của mình từ các đồng cỏ trên núi cao trở về chuồng trại dưới thung lũng."
+    },
+    {
+     "t": "p",
+     "text": "Những đàn gia súc đã trải qua tháng hè oi ả trên đồng cỏ cao nguyên mát mẻ sẽ rời đi trước khi cái lạnh mùa đông tràn về. Cả hai lễ lùa gia súc (Alpaufzug vào hè và Alpabzug vào thu) đều thu hút sự quan tâm lớn từ du khách. Ảnh: AFP"
+    },
+    {
+     "t": "p",
+     "text": "Mỗi độ thu về, theo truyền thống lễ hội Alpabzug (lễ hội lùa gia súc xuống núi), nông dân ở Thụy Sĩ lại di chuyển đàn gia súc của mình từ các đồng cỏ trên núi cao trở về chuồng trại dưới thung lũng."
+    },
+    {
+     "t": "p",
+     "text": "Những đàn gia súc đã trải qua tháng hè oi ả trên đồng cỏ cao nguyên mát mẻ sẽ rời đi trước khi cái lạnh mùa đông tràn về. Cả hai lễ lùa gia súc (Alpaufzug vào hè và Alpabzug vào thu) đều thu hút sự quan tâm lớn từ du khách. Ảnh: AFP"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các \"nhân vật chính\" được quan tâm trong lễ lùa gia súc là Alpaca và Llama, hai loài lạc đà có nguồn gốc từ dãy Andes ở Nam Mỹ, sống ở độ cao 3.500 - 5.000 m. Khí hậu mát mẻ, không khí loãng và địa hình dốc đá trên dãy Alps của Thụy Sĩ cho chúng môi trường phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Vào hè, thung lũng bên dưới quá nóng với bộ lông dày của chúng nên người nông dân thường đưa chúng lên điểm cao mát mẻ hơn. Ngoài ra, các đồng cỏ trên núi cung cấp nguồn thức ăn dồi dào cho đàn gia súc. Ảnh: AFP"
+    },
+    {
+     "t": "p",
+     "text": "Các \"nhân vật chính\" được quan tâm trong lễ lùa gia súc là Alpaca và Llama, hai loài lạc đà có nguồn gốc từ dãy Andes ở Nam Mỹ, sống ở độ cao 3.500 - 5.000 m. Khí hậu mát mẻ, không khí loãng và địa hình dốc đá trên dãy Alps của Thụy Sĩ cho chúng môi trường phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Vào hè, thung lũng bên dưới quá nóng với bộ lông dày của chúng nên người nông dân thường đưa chúng lên điểm cao mát mẻ hơn. Ngoài ra, các đồng cỏ trên núi cung cấp nguồn thức ăn dồi dào cho đàn gia súc. Ảnh: AFP"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Một phụ nữ Thụy Sĩ trong trang phục Tracht - đồ truyền thống của người dân vùng dãy Alps. Bộ đồ gồm váy, áo ngực ôm sát, tạp dề, thường được dùng trong các lễ hội lớn. Ảnh: Claudia Schildknecht"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Hai con lạc đà Alpaca (trái) và Llama (phải) đứng giữa khung cảnh núi rừng của Thụy Sĩ. Chúng có thể phân biệt bằng chiều cao (Llama cao lớn hơn); tai (Alpaca tai thẳng, Llama tai góc như lưỡi liềm), mặt (Alpaca mặt xù hơn hẳn). Ảnh: Claudia Schildknecht"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Arnold Luginbühl (ảnh), sống tại vùng Aeschi bei Spiez, tiên phong đưa mô hình nuôi Llama và Alpaca vào Thụy Sĩ từ năm 1994. Hiện ông có hơn 300 con lạc đà các loại, tạo ra thu nhập lớn từ kinh doanh lông vũ, thịt. Ảnh: Claudia Schildknecht"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Từ xa, du khách đã có thể nghe thấy tiếng chuông vang từ cổ đàn lạc đà. Chúng như một binh đoàn với những chiếc đầu xù, lông đủ màu trắng, đen, nâu. Ảnh: Ubiquitous"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Dưới sự dẫn dắt của những người chăn gia súc trong trang phục truyền thống, chúng cùng nhau chạy ào xuống. Đội hình đàn lạc đà lúc nghiêng sang trái, khi vẹo sang phải. Chúng di chuyển với tốc độ nhanh, không thong thả như những đàn bò. Ảnh: AFP"
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ở dưới chân thung lũng, xe tải chờ sẵn để đưa hơn 70 con lạc đà của hai nông dân này về trang trại trú đông tại làng Aeschi, gần Spiez, thuộc vùng Bernese Oberland. Ảnh: AFP"
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Một chú lạc đà Alpaca nhìn qua cửa sổ xe tải sau khi được đưa xuống thung lũng lúc bình minh. Ảnh: AFP"
+    },
+    {
+     "t": "p",
+     "text": "Hoài Anh (Theo Telegraph, Ubiquitous, Tagesanzeiger )"
+    }
+   ]
+  },
+  {
+   "id": "2f06783b31d2",
+   "order": 4,
+   "slug": "modric-lap-ky-luc-ghi-ban-o-tuoi-41",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Modric lập kỷ lục ghi bàn ở tuổi 41",
+   "sapo": "Czech Luka Modric trở thành cầu thủ lớn tuổi nhất ghi bàn cho đội tuyển Croatia, với cú sút xa đẹp mắt trong trận thắng CH Czech 2-1 ở lượt đầu bảng A3 Nations League 2026-2027.",
+   "author": "Nhật Tảo",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/modric-lap-ky-luc-ghi-ban-o-tuoi-41-5125252.html",
+   "published": "2026-09-27T01:22:42+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 620,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/2f06783b31d2-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-09-27/2f06783b31d2-0.jpg",
+     "caption": "Luka Modric khống chế bóng trước tiền đạo Adam Karabec trong trận Croatia thắng chủ nhà CH Czech 2-1 ở bảng A Nations League trên sân Fortuna, Prague ngày 26/9. Ảnh: AP",
+     "w": 1020,
+     "h": 678
+    },
+    {
+     "src": "img/2026-09-27/2f06783b31d2-1.jpg",
+     "caption": "Luka Modric chia vui với HLV Slaven Bilic sau khi ghi bàn mở tỷ số trận Croatia thắng chủ nhà CH Czech 2-1 ở bảng A3 Nations League trên sân Fortuna, Prague ngày 26/9/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 678
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Czech Luka Modric trở thành cầu thủ lớn tuổi nhất ghi bàn cho đội tuyển Croatia, với cú sút xa đẹp mắt trong trận thắng CH Czech 2-1 ở lượt đầu bảng A3 Nations League 2026-2027."
+    },
+    {
+     "t": "p",
+     "text": "Trước chuyến làm khách tại Prague tối 26/9, khả năng ra sân của Modric từng bị đặt dấu hỏi. Tiền vệ thuộc biên chế AC Milan bị sốt, phải nghỉ tập và không thể dự họp báo cùng HLV Slaven Bilic như kế hoạch. Ban huấn luyện Croatia thậm chí phải chờ đến sát giờ thi đấu mới đánh giá tình trạng thể lực của đội trưởng 41 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Modric vẫn đá chính và nhanh chóng chứng minh giá trị. Phút 47, khi tỷ số còn là 0-0, tiền vệ Croatia nhận bóng ở rìa vòng cấm, khống chế gọn rồi sút chân phải hiểm hóc về góc xa, hạ thủ môn Lukas Hornicek. Pha làm bàn đẹp mắt này giúp Croatia mở ra thắng lợi trong ngày HLV Bilic trở lại dẫn dắt đội tuyển sau 14 năm."
+    },
+    {
+     "t": "p",
+     "text": "Đây là bàn thứ 30 của Modric sau 203 trận khoác áo Croatia. Ở tuổi 41 và 17 ngày, anh trở thành cầu thủ lớn tuổi nhất ghi bàn trong lịch sử đội tuyển, tiếp tục nối dài bộ sưu tập kỷ lục ở giai đoạn cuối sự nghiệp."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hai năm trước, tại Euro 2024, Modric cũng đi vào lịch sử khi ghi bàn vào lưới Italy ở tuổi 38 và 289 ngày, trở thành cầu thủ lớn tuổi nhất lập công tại một vòng chung kết Euro."
+    },
+    {
+     "t": "p",
+     "text": "Bàn vào lưới CH Czech còn mang ý nghĩa đặc biệt vì đó là pha lập công đầu tiên của Croatia kể từ khi Bilic trở lại ghế HLV trưởng. Sau World Cup 2026, Modric từng tính đến chuyện chia tay đội tuyển. Nhưng sự trở lại của Bilic đã góp phần thay đổi quyết định ấy. Theo Gazzetta dello Sport , HLV 58 tuổi chủ động liên hệ, đề nghị người học trò cũ tiếp tục cống hiến cho Croatia."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Bilic khẳng định ông không phải mất công thuyết phục. Trong buổi công bố danh sách tập trung hồi đầu tháng 9, ông cho biết Modric vẫn còn nguyên vẹn tình yêu với màu áo quốc gia và đôi bên đều mong muốn tiếp tục hợp tác."
+    },
+    {
+     "t": "p",
+     "text": "Modric và Bilic có liên hệ thân tình bắt đầu từ hai thập kỷ trước. Bilic dẫn dắt Croatia nhiệm kỳ đầu giai đoạn 2006-2012, và Modric là gương mặt tiêu biểu thuộc lứa U21 được ông tin dùng nhiều nhất ngay sau khi nhậm chức."
+    },
+    {
+     "t": "p",
+     "text": "Hai thập kỷ sau, họ tái hợp trong những vai trò quen thuộc: Bilic trên ghế chỉ đạo, Modric điều tiết tuyến giữa. Và chính tiền vệ kỳ cựu là người ghi bàn đầu tiên, đánh dấu nhiệm kỳ thứ hai của ông thầy với ĐTQG."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trên sân Fortuna, Prague hôm qua, Croatia gặp nhiều khó khăn trước hàng thủ CH Czech trong hiệp một. Petar Sucic và Josip Matanovic lần lượt có cơ hội nhưng không thể tận dụng. Sau khi để Modric chọc thủng lưới, đội chủ nhà chỉ mất 7 phút để gỡ hòa 1-1 nhờ công Adam Karabec. Croatia tiếp tục đẩy cao đội hình tìm bàn quyết định. Cuối trận, Ivan Perisic kiến tạo để cầu thủ vào thay người Marco Pasalic đánh đầu ấn định chiến thắng 2-1."
+    },
+    {
+     "t": "p",
+     "text": "Modric rời sân trước khi Croatia ghi bàn thứ hai và nhận những tràng pháo tay từ khán giả tại Prague. Chiến thắng giúp Croatia giành ba điểm đầu tiên tại bảng A3, trước chuyến làm khách trên sân Tây Ban Nha ngày 29/9."
+    }
+   ]
+  },
+  {
+   "id": "0cadd3b1068d",
+   "order": 5,
+   "slug": "asiad-20-va-hanh-trinh-dang-nho-cua-bong-da-nu-viet-nam",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "ASIAD 20 và hành trình đáng nhớ của bóng đá nữ Việt Nam",
+   "sapo": "Đội tuyển nữ Việt Nam đã khép lại hành trình ASIAD 20 ở vòng tứ kết, nhưng những gì thể hiện tại Nhật Bản cho thấy một tập thể đang sẵn sàng cho bước chuyển quan trọng khi vừa duy trì vị thế, vừa từng bước trao cơ hội cho thế hệ kế cận.",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/asiad-20-va-hanh-trinh-dang-nho-cua-bong-da-nu-viet-nam-1758313.html",
+   "published": "2026-09-26T09:34:14+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 904,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/0cadd3b1068d-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-09-27/0cadd3b1068d-0.jpg",
+     "caption": "Thủ thành Kim Thanh và các đồng đội ở đội tuyển bóng đá nữ Việt Nam có trận đấu đáng nhớ trước tuyển nữ Trung Quốc. Ảnh: VFF",
+     "w": 870,
+     "h": 577
+    },
+    {
+     "src": "img/2026-09-27/0cadd3b1068d-1.jpg",
+     "caption": "Các cô gái Việt Nam có màn trình diễn quả cảm trước tuyển nữ Trung Quốc. Ảnh: VFF",
+     "w": 870,
+     "h": 593
+    },
+    {
+     "src": "img/2026-09-27/0cadd3b1068d-2.jpg",
+     "caption": "Đội tuyển nữ Việt Nam về đến Hà Nội vào trưa 26-9. Ảnh: VFF",
+     "w": 1280,
+     "h": 881
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ sự chật vật tại vòng loại đến trận đấu đáng nhớ ở tứ kết"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trưa 26-9, đội tuyển nữ Việt Nam và đội tuyển U23 nam đã trở về Hà Nội, khép lại hành trình tại ASIAD 20. Tại sân bay, đại diện Cục Thể dục thể thao Việt Nam có mặt đón các thành viên của Đoàn Thể thao Việt Nam nói chung và hai đội tuyển bóng đá nam, nữ nói riêng. Với đội tuyển nữ, hành trình tại ASIAD 20 có thể chưa trọn vẹn về thành tích, song lại mang đến nhiều tín hiệu đáng chú ý cho chặng đường phía trước."
+    },
+    {
+     "t": "p",
+     "text": "Từ vòng bảng đến tứ kết, đội tuyển nữ Việt Nam đã trải qua một hành trình không dễ dàng. Sau những trận đấu chưa đạt phong độ tốt nhất ở vòng bảng với hai trận thua đậm trước Hàn Quốc và Nhật Bản, đội đã vượt qua vòng đấu này với trận hòa 0-0 trước Thái Lan. Qua đó, đội giành quyền vào tứ kết nhờ hơn về chỉ số phụ trước Thái Lan."
+    },
+    {
+     "t": "p",
+     "text": "Thực tế, cánh cửa đi tiếp được mở ra với đội tuyển nữ Việt Nam trong thế khó. Nhưng cũng chính từ đó, đội tuyển nữ Việt Nam có cơ hội đối đầu với một trong những đội bóng hàng đầu châu lục là Trung Quốc."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Và trước Trung Quốc, hình ảnh của đội tuyển nữ Việt Nam đã khác. Trong trận tứ kết vào chiều 25-9, dù thiếu 3 cầu thủ vì chấn thương, các học trò của HLV Hoàng Văn Phúc vẫn triển khai được lối chơi phòng ngự chủ động, chuyển đổi trạng thái nhanh và đặc biệt là không bị cuốn vào sức ép của đối thủ. Điều đó khiến trận đấu phải bước vào hiệp phụ. Đây là điều chưa từng xảy ra trong những lần đối đầu chính thức trước đây theo thống kê được dẫn lại từ các nguồn khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Cuối cùng, sức ép liên tục của đội chủ nhà cũng giúp Trung Quốc có bàn thắng ở hiệp phụ thứ hai. Thất bại 0-1 đồng nghĩa với việc đội tuyển nữ Việt Nam dừng bước ở tứ kết. Nhưng 120 phút ấy vẫn là một trong những màn trình diễn đáng nhớ của đội tại ASIAD 20."
+    },
+    {
+     "t": "p",
+     "text": "HLV Hoàng Văn Phúc hài lòng với cách các cầu thủ thực hiện đấu pháp, đặc biệt là sự tự tin trước đối thủ có chuyên môn và nền tảng thể lực tốt. Sau trận đấu, Chủ tịch VFF Trần Quốc Tuấn động viên, biểu dương tinh thần thi đấu của toàn đội và cho rằng các cầu thủ có quyền tự hào về hành trình tại ASIAD 20, đặc biệt là 120 phút kiên cường trước Trung Quốc. Không ngẫu nhiên khi VFF quyết định thưởng động viên đội tuyển nữ 300 triệu đồng vì trận đấu quả cảm này."
+    },
+    {
+     "t": "p",
+     "text": "Cơ hội cho thế hệ mới ở đội tuyển Việt Nam"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng chú ý nhất sau hành trình ASIAD 20 có lẽ không chỉ nằm ở việc đội tuyển nữ Việt Nam dừng bước ở vòng tứ kết sau trận đấu thuyết phục nhất về chuyên môn từ đầu giải, mà là những gì đội bóng thu được cho quá trình xây dựng lực lượng kế cận."
+    },
+    {
+     "t": "p",
+     "text": "HLV Hoàng Văn Phúc đánh giá đây là trải nghiệm quý đối với các cầu thủ trẻ khi họ được thi đấu với những nền bóng đá mạnh của châu Á. Quan trọng hơn, khi được trao cơ hội vào sân, nhiều cầu thủ trẻ đã thể hiện sự tự tin - tín hiệu đáng mừng trong quá trình xây dựng lực lượng mới."
+    },
+    {
+     "t": "p",
+     "text": "Đấy là vấn đề có ý nghĩa đặc biệt quan trọng với bóng đá nữ Việt Nam trong giai đoạn này. Đội tuyển đã có một thế hệ tạo dựng vị thế trong nhiều năm, với những cầu thủ giàu kinh nghiệm và từng chinh chiến ở nhiều giải đấu lớn với cột mốc là lọt vào vòng chung kết Giải vô địch bóng đá nữ thế giới 2023. Nhưng không đội bóng nào có thể duy trì sức mạnh nếu thiếu quá trình chuyển giao. Việc những cầu thủ trẻ được đưa vào môi trường thi đấu đỉnh cao, được đối đầu với các đối thủ có thể hình, thể lực và trình độ chuyên môn cao hơn, chính là cách nhanh nhất để tích lũy kinh nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Tất nhiên, chuyển giao lực lượng không đồng nghĩa với việc phải vội vàng thay thế những cầu thủ giàu kinh nghiệm. Ngược lại, điều cần thiết là tạo ra sự kế thừa hài hòa giữa kinh nghiệm và sức trẻ. Kim Thanh, Hải Yến và những cầu thủ giàu kinh nghiệm nghiệm vẫn có thể đóng vai trò điểm tựa, trong khi thế hệ mới cần được trao thêm cơ hội để trưởng thành qua những trận đấu lớn."
+    },
+    {
+     "t": "p",
+     "text": "Phía trước bóng đá nữ Việt Nam vẫn là một chặng đường dài. Khi khoảng cách với những nền bóng đá hàng đầu châu lục còn hiện hữu, việc xây dựng lực lượng kế cận càng cần được tiến hành kiên trì và có lộ trình. Ít nhất, hành trình tại ASIAD 20 cũng phần nào giúp Ban huấn luyện yên tâm hơn về quá trình xây dựng đội tuyển trong thời gian tới."
+    }
+   ]
+  },
+  {
+   "id": "c72551a6219f",
+   "order": 6,
+   "slug": "kinh-ngu-dau-tien-gianh-7-hc-vang-trong-mot-ky-asiad",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Kình ngư đầu tiên giành 7 HC vàng trong một kỳ ASIAD",
+   "sapo": "Nhật Bản Zhang Zhanshuo lập kỷ lục ở môn bơi ASIAD khi giành 7 HC vàng tại kỳ đại hội 2026.",
+   "author": "Hiếu Lương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/kinh-ngu-dau-tien-gianh-7-hc-vang-trong-mot-ky-asiad-5125073.html",
+   "published": "2026-09-26T07:21:02+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 668,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/c72551a6219f-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-09-27/c72551a6219f-0.jpg",
+     "caption": "Kình ngư Trung Quốc Zhang Zhansuo đếm HC vàng sau khi về nhất ở bơi 400m tự do nam ASIAD 2026, tại Cung thể thao dưới nước Tokyo, Nhật Bản ngày 25/9/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 678
+    },
+    {
+     "src": "img/2026-09-27/c72551a6219f-1.jpg",
+     "caption": "VĐV giành 7 HC vàng trong một kỳ ASIAD. Đồ họa: Hiếu Lương (AI hỗ trợ)",
+     "w": 1020,
+     "h": 931
+    },
+    {
+     "src": "img/2026-09-27/c72551a6219f-2.jpg",
+     "caption": "Bảng tổng sắp huy chương môn bơi ASIAD 2026. Đồ họa: Hiếu Lương (AI hỗ trợ)",
+     "w": 1020,
+     "h": 1224
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhật Bản Zhang Zhanshuo lập kỷ lục ở môn bơi ASIAD khi giành 7 HC vàng tại kỳ đại hội 2026."
+    },
+    {
+     "t": "p",
+     "text": "Tại Cung thể thao dưới nước Tokyo ngày 25/9, Zhang Zhanshuo (Trương Triển Thạc) cán đích đầu tiên và phá kỷ lục bơi 400m tự do nam, với 3 phút 41 giây 28. Sau khi nổi lên mặt nước, Zhang giơ cả hai tay lên và đếm chậm từ một đến bảy. Địa điểm thi đấu tràn ngập tiếng reo hò, nhưng anh không bị cuốn theo."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi tự thấy mình bình tĩnh hơn nhiều so với tưởng tượng\", Zhang nói. \"Tất nhiên, tôi hạnh phúc khi giành được 7 HC vàng, nhưng tôi muốn biến nó thành động lực lớn hơn nữa trong tương lai\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây mới là lần đầu tiên kình ngư người Trung Quốc này dự ASIAD, và anh lập tức được ví von là \"Vua của các nội dung tự do\". Zhang về nhất ở 7 nội dung, gồm 200m, 400m, 800m, 1.500m, tiếp sức 4x100m và 4x200m, cùng 4x100m hỗn hợp nam, phá ba kỷ lục châu Á và hai kỷ lục Á vận hội."
+    },
+    {
+     "t": "p",
+     "text": "Những kết quả này còn giúp Zhang trở thành VĐV thứ hai giành 7 HC vàng tại một kỳ ASIAD, sau kỳ tích của xạ thủ Triều Tiên Go Gil-san năm 1982 . Tuy nhiên, anh là VĐV bơi đầu tiên giành 7 HC vàng tại một kỳ đại hội. Kỷ lục trước đó là 6 HC vàng thuộc về các nữ kình ngư Zhang Yufei (Trung Quốc) và Rikako Ikee (Nhật Bản). Zhang nhất 50m tự do, 50m, 100m, 200m bướm, tiếp sức 4x100m tự do nữ và 4x100m hỗn hợp nam nữ năm 2023. Rikako thắng 50m, 100m tự do, 50m, 100m bướm, tiếp sức 4x100m tự do và 4x100m hỗn hợp nữ năm 2018."
+    },
+    {
+     "t": "p",
+     "text": "Những thành công vang dội vừa đạt được tại ASIAD 2026 không làm Zhang thay đổi cách nhìn nhận về tinh thần của thể thao. Khi được hỏi điều gì làm bản thân phấn khích nhất trong suốt ASIAD, VĐV 19 tuổi nhớ về khoảnh khắc chạm vào thành bể, ngoi lên mặt nước và nhìn lên màn hình lớn, rồi thấy bên cạnh thời gian của anh nhấp nháy thể hiện phá kỷ lục."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Zhang nhấn mạnh ASIAD không phải mục tiêu lớn nhất. \"Tôi cần bình tĩnh lại, đối mặt với khoảng cách giữa mình với những người giỏi nhất thế giới\", anh cho hay. \"Tôi sẽ dốc hết sức để theo đuổi kỷ lục thế giới. Tôi phải cải thiện nhiều điều. Sau ASIAD, tôi sẽ tổng kết lại những điểm yếu cả về kỹ thuật và thể chất\"."
+    },
+    {
+     "t": "p",
+     "text": "Khi được đề nghị tự chấm điểm màn trình diễn tại ASIAD này, Zhang tự chấm 85 trên thang 100. Anh tự nhận kỹ thuật quay đầu của bản thân vẫn kém một số VĐV hàng đầu thế giới, và đây sẽ là trọng tâm tập luyện thời gian tới. Bên cạnh đó, Zhang tiếp tục tập trung phát triển các nội dung bơi tự do trung bình và dài."
+    },
+    {
+     "t": "p",
+     "text": "Môn bơi ASIAD 2026 cũng đã khép lại vào ngày 25/9, sau 6 ngày tranh tài. Trung Quốc lập kỷ lục giành 30 HC vàng, trong 54 bộ huy chương, nhiều hơn hai chiếc so với kỳ trước. Bên cạnh Zhang Zhanshuo, đồng đội 13 tuổi Yu Zidi được nhắc đến nhiều nhất khi về nhất ở 200m bướm, 200m và 400m hỗn hợp cá nhân nữ."
+    },
+    {
+     "t": "p",
+     "text": "Chủ nhà Nhật Bản giành 7 HC vàng, nhiều hơn hai so với kỳ trước. Trong khi đó, kỷ lục thế giới duy nhất bị phá, thuộc về Shin Ohashi, ở nội dung 200m ếch nam, với 2 phút 4 giây 83."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ 8 trong 37 quốc gia tham dự môn bơi giành được huy chương. Đông Nam Á có Singapore giành 3 HC bạc, đều thuộc về Gan Ching Hwee ở 400m, 800m và 1.500m tự do nữ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    }
+   ]
+  },
+  {
+   "id": "1ac84cac51f7",
+   "order": 7,
+   "slug": "haaland-ghi-ban-nhieu-hon-so-tran-cho-na-uy",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Haaland ghi bàn nhiều hơn số trận cho Na Uy",
+   "sapo": "Tiền đạo Erling Haaland ghi 64 bàn qua 56 trận ở đội tuyển Na Uy, đạt hiệu suất 1,14 bàn mỗi trận.",
+   "author": "Hồng Duy",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/haaland-ghi-ban-nhieu-hon-so-tran-cho-na-uy-5124977.html",
+   "published": "2026-09-26T03:32:08+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 541,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/1ac84cac51f7-lead.jpg",
+     "caption": "",
+     "w": 752,
+     "h": 423
+    },
+    {
+     "src": "img/2026-09-27/1ac84cac51f7-0.jpg",
+     "caption": "Haaland mừng bàn trong trận Na Uy thắng Đan Mạch 3-2 ở lượt mở màn bảng A4 UEFA Nations League, trên sân Ullevaal tại Oslo, Na Uy tối 24/9/2026. Ảnh: Reuters",
+     "w": 1020,
+     "h": 574
+    },
+    {
+     "src": "img/2026-09-27/1ac84cac51f7-1.jpg",
+     "caption": "Những cầu thủ ghi bàn hàng đầu lịch sử tuyển Na Uy. Đồ họa: Hồng Duy (AI hỗ trợ)",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tiền đạo Erling Haaland ghi 64 bàn qua 56 trận ở đội tuyển Na Uy, đạt hiệu suất 1,14 bàn mỗi trận."
+    },
+    {
+     "t": "p",
+     "text": "\"Chuyên môn của tôi là ghi bàn. Đơn giản là tôi rất giỏi việc đó và cũng khá may mắn\", Haaland từng nói sau khi lập cú đúp vào lưới Senegal tại World Cup 2026."
+    },
+    {
+     "t": "p",
+     "text": "Những con số cho thấy tiền đạo 26 tuổi không hề quá lời. Hôm 24/9, Haaland lập cú đúp giúp Na Uy thắng Đan Mạch 3-2 ở lượt mở màn bảng A4 Nations League, qua đó chạm mốc 64 bàn chỉ sau 56 trận cho ĐTQG."
+    },
+    {
+     "t": "p",
+     "text": "\"Thật điên rồ\", tiền vệ Sander Berge nói về đồng đội. \"Sau nhiều năm chứng kiến cậu ấy ghi bàn hết lần này đến lần khác, bạn hiểu rằng Haaland thuộc nhóm hay nhất. Những thống kê của cậu ấy thật khó tin\"."
+    },
+    {
+     "t": "p",
+     "text": "Kristoffer Ajer thậm chí gọi Haaland là cầu thủ hay nhất thế giới."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cú đúp trước Đan Mạch cũng giúp Haaland nối dài một kỷ lục khác. Anh là cầu thủ đầu tiên cán mốc 20 bàn tại Nations League và hiện dẫn đầu lịch sử giải với 21 bàn. Nations League cũng chính là sân chơi chứng kiến Haaland mở tài khoản bàn thắng cho Na Uy."
+    },
+    {
+     "t": "p",
+     "text": "Haaland ra mắt đội tuyển ngày 5/9/2019, chơi 66 phút trong trận gặp Malta nhưng không ghi bàn. Gần một năm sau, ngày 4/9/2020, tiền đạo này mới có bàn đầu tiên, vào lưới Áo. Ngay trận tiếp theo, gặp Bắc Ireland, anh lập cú đúp."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó, Haaland nhanh chóng vượt qua những tiền đạo nổi tiếng của bóng đá Na Uy. Với 64 bàn, anh bỏ xa người đứng thứ hai trong danh sách ghi bàn cho đội tuyển là Jorgen Juve, người có 33 bàn qua 45 trận. Alexander Sorloth hiện có 26 bàn, còn những tên tuổi như John Carew và Ole Gunnar Solskjaer lần lượt ghi 24 và 23 bàn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Phong độ gần đây của Haaland còn ấn tượng hơn. Tiền đạo sinh năm 2000 ghi 9 bàn trong 7 trận gần nhất cho Na Uy, trong đó có 7 bàn tại World Cup và cú đúp trước Đan Mạch."
+    },
+    {
+     "t": "p",
+     "text": "HLV Stale Solbakken cho rằng khả năng săn bàn của học trò không đơn thuần đến từ thể chất hay tập luyện. \"Cậu ấy có những phẩm chất thể chất tuyệt vời và đang tham gia xây dựng lối chơi tốt hơn bao giờ hết\", ông nói. \"Nhưng Haaland sở hữu một thứ không thể tập luyện. Không thể giải thích hay học được. Cậu ấy sinh ra đã có bản năng ấy\"."
+    },
+    {
+     "t": "p",
+     "text": "HLV Đan Mạch Brian Riemer nhìn vấn đề từ góc độ của đối thủ. \"Có những lúc Haaland gần như biến mất khỏi trận đấu và bạn chẳng nhận ra\", ông nói. \"Nhưng chỉ cần trao cho cậu ấy một cơ hội nhỏ nhất, bạn sẽ bị thủng lưới\"."
+    },
+    {
+     "t": "p",
+     "text": "Đó cũng là điều khiến Haaland trở nên nguy hiểm. Anh có thể không xuất hiện thường xuyên trong các pha phối hợp, nhưng chỉ cần một khoảng trống hoặc một khoảnh khắc sơ suất của hàng thủ đối phương để định đoạt trận đấu."
+    },
+    {
+     "t": "p",
+     "text": "Hồng Duy (theo Marca )"
+    }
+   ]
+  },
+  {
+   "id": "82f5347a1cd0",
+   "order": 8,
+   "slug": "thang-ap-dao-cac-doi-thu-lon-tuoi-de-vo-dich-chau-be-11-tuoi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Thắng áp đảo các đối thủ lớn tuổi để vô địch, cháu bé 11 tuổi đi vào lịch sử Á vận hội",
+   "sapo": "Ở tuổi 11, Yuki Kurihara (Nhật Bản) giành chiến thắng ở chung kết nội dung Puyo Puyo Champions môn eSports (thể thao điện tử), qua đó trở thành VĐV nhỏ tuổi nhất lịch sử giành HCV Asiad.",
+   "author": "ANH HÀO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/thang-ap-dao-cac-doi-thu-lon-tuoi-de-vo-dich-chau-be-11-tuoi-di-vao-lich-su-a-van-hoi-100260926135309334.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 376,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/82f5347a1cd0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/82f5347a1cd0-0.jpg",
+     "caption": "Yuki Kurihara (11 tuổi) là VĐV giành HCV nhỏ tuổi nhất lịch sử các kỳ Asiad - Ảnh: BOZEMAN DAILY",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 26-9, game thủ Yuki Kurihara (11 tuổi) đánh bại Kang Dong Shin (Hàn Quốc) trong trận chung kết Puyo Puyo Champions tại Asiad 20. Chiến thắng giúp game thủ Nhật Bản trở thành VĐV nhỏ tuổi nhất lịch sử giành huy chương vàng ở Đại hội thể thao châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Kurihara là thành viên nhỏ tuổi nhất của đoàn thể thao Nhật Bản tại Asiad năm nay. Dù mới 11 tuổi, game thủ thuộc Tokyo Verdy đã thể hiện bản lĩnh đáng chú ý khi lần lượt vượt qua nhiều đối thủ lớn tuổi hơn để tiến đến trận tranh HCV."
+    },
+    {
+     "t": "p",
+     "text": "Ở vòng bảng vào ngày 24-9, Kurihara toàn thắng 4 trận và đứng đầu bảng A. Đến tứ kết, anh đánh bại tuyển thủ Singapore 5-0, trước khi tiếp tục vượt qua đại diện Thái Lan với tỉ số 10-1 ở bán kết."
+    },
+    {
+     "t": "p",
+     "text": "Đối thủ của Kurihara trong trận chung kết là Kang Dong Shin, người mà anh từng đánh bại ở vòng bảng. Bị dẫn trước sau ván đầu tiên, game thủ Nhật Bản nhanh chóng lấy lại thế trận bằng một chuỗi 15 liên hoàn để cân bằng tỉ số 1-1."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó Kurihara liên tục tạo ra những chuỗi liên hoàn lớn kết hợp với các pha tấn công nhanh để gia tăng cách biệt. Dù từng bị đối thủ xóa toàn bộ các khối trên bàn ở ván 6, anh vẫn bình tĩnh lật ngược tình thế và dẫn 5-1."
+    },
+    {
+     "t": "p",
+     "text": "Kurihara sau đó duy trì sự ổn định để khép lại trận chung kết với chiến thắng 10-2. Thành tích này giúp anh vượt qua kỷ lục VĐV nhỏ tuổi nhất từng giành huy chương Asiad, vốn thuộc về Nimas (Indonesia) - người giành HCĐ trượt ván tại Asiad 2018 khi 12 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Puyo Puyo là game đối kháng dạng giải đố , trong đó người chơi sắp xếp những khối cùng màu để tạo thành chuỗi và xóa chúng khỏi màn hình. Khả năng tạo các chuỗi liên hoàn càng lớn, người chơi càng có cơ hội gây sức ép và ghi điểm trước đối thủ."
+    },
+    {
+     "t": "p",
+     "text": "Tại Asiad 20, Puyo Puyo Champions là một trong những nội dung eSports được đưa vào chương trình thi đấu tranh huy chương."
+    }
+   ]
+  },
+  {
+   "id": "ad386a88048d",
+   "order": 9,
+   "slug": "lan-dau-tien-mot-may-tinh-luong-tu-da-hoat-dong-ngoai-khong",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Lần đầu tiên, một máy tính lượng tử đã hoạt động ngoài không gian",
+   "sapo": "Không gian đang gặp một vấn đề lớn về dữ liệu.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/for-the-first-time-a-quantum-computer-has-operated-in-space",
+   "published": "2026-09-27T00:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 2018,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "For The First Time, a Quantum Computer Has Operated in Space",
+   "images": [
+    {
+     "src": "img/2026-09-27/ad386a88048d-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-27/ad386a88048d-0.jpg",
+     "caption": "Sơ đồ minh họa nền tảng máy tính lượng tử của nhóm nghiên cứu. (Steiner et al., arXiv, 2026)",
+     "w": 599,
+     "h": 295
+    },
+    {
+     "src": "img/2026-09-27/ad386a88048d-1.jpg",
+     "caption": "Thiết bị máy tính lượng tử có thể hoạt động trong không gian. (Steiner et al., arXiv, 2026)",
+     "w": 599,
+     "h": 414
+    },
+    {
+     "src": "img/2026-09-27/ad386a88048d-2.jpg",
+     "caption": "Sự sụt giảm rõ rệt trong số lượng photon được phát hiện khi tinh thể đạt khoảng 32,5°C cho thấy hiện tượng giao thoa lượng tử đã diễn ra trên vệ tinh. (Steiner et al., arXiv, 2026)",
+     "w": 599,
+     "h": 289
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Không gian đang gặp một vấn đề lớn về dữ liệu."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều vệ tinh bay quanh Trái Đất dành gần như toàn bộ thời gian để thu thập dữ liệu thô, nhưng việc gửi dữ liệu đó về mặt đất lại bị cản trở bởi băng thông đường truyền và số lần vệ tinh có thể liên lạc với các trạm thu tín hiệu."
+    },
+    {
+     "t": "p",
+     "text": "Một giải pháp khả thi cho vấn đề này là xử lý dữ liệu thô ngay trên vệ tinh."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một nhóm các nhà vật lý do Philip Walther thuộc Đại học Vienna dẫn đầu đã chứng minh một cách làm đầy táo bạo để thực hiện điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Lần đầu tiên, một bộ xử lý lượng tử (quantum processor) đã hoạt động ngoài không gian."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng để đạt được điều đó không hề dễ dàng."
+    },
+    {
+     "t": "p",
+     "text": "Máy tính lượng tử giống như những bông hoa mỏng manh."
+    },
+    {
+     "t": "p",
+     "text": "Các trạng thái lượng tử mà chúng dựa vào cực kỳ nhạy cảm với môi trường xung quanh. Nhiệt độ, rung động, nhiễu điện từ và các tác động khác có thể làm xáo trộn những trạng thái đó, gây ra lỗi hoặc phá hủy hành vi lượng tử mà máy tính cần để hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Việc này rất khó thực hiện đúng, ngay cả trong điều kiện phòng thí nghiệm hoàn hảo nhất. Có thể bạn cũng đoán được, không gian là một môi trường khắc nghiệt hơn nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Bộ xử lý do Walther và các đồng nghiệp phát triển sử dụng các hạt ánh sáng - photon - để mang thông tin lượng tử."
+    },
+    {
+     "t": "p",
+     "text": "Trái tim của nó là một nguồn tạo ra các hạt photon thành từng cặp và đưa chúng vào một mạng lưới đường quang có thể lập trình được, khắc trên một con chip thủy tinh nhỏ xíu."
+    },
+    {
+     "t": "p",
+     "text": "Để bộ xử lý có thể tận dụng hành vi lượng tử của các photon này, chúng cần phải giống hệt nhau, không thể phân biệt được. Chỉ cần khác biệt nhỏ về các đặc tính như thời điểm đến, sự phân cực hay bước sóng cũng có thể khiến chúng bị phân biệt, làm hỏng hiện tượng giao thoa (interference) mà phép tính dựa vào."
+    },
+    {
+     "t": "p",
+     "text": "Và tất cả những điều này cần phải thực hiện được trên một vệ tinh đang bay vòng quanh Trái Đất với tốc độ 28.000 km/giờ, dưới ánh nắng Mặt Trời gay gắt không được lọc bớt - sau khi đã sống sót qua áp lực cơ học rất lớn của lúc phóng tên lửa."
+    },
+    {
+     "t": "p",
+     "text": "Cách duy nhất để giải quyết những vấn đề này là làm từng bước một - và việc phóng tên lửa là thử thách đầu tiên."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Phóng tên lửa là một cách vận chuyển rất khắc nghiệt đối với một thiết bị quang học tinh vi - nó bị buộc chặt vào một ống vật liệu gia cố khổng lồ, nặng nề, rồi được tăng tốc lên vận tốc quỹ đạo xuyên qua bầu khí quyển Trái Đất. Hệ thống treo chắc chắn nhất mà các nhà khoa học có thể chế tạo cũng không thể ngăn nó rung lắc dữ dội."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, giải pháp tốt nhất là gia cố chính bản thân thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã gắn những bộ phận tinh vi nhất lên các tấm đế titan chắc chắn, và gia cố các sợi quang mỏng manh dẫn vào và ra khỏi con chip quang tử thủy tinh bằng keo epoxy. Về cơ bản, bất cứ thứ gì có thể bị lung lay nhưng tuyệt đối không được lung lay đều được dán chặt cố định."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, họ rung lắc nó dữ dội hết mức có thể."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi phóng, các nguyên mẫu đã được đưa vào các bài kiểm tra rung động và sốc được thiết kế để mô phỏng lại sự khắc nghiệt của một chuyến bay bằng tên lửa. Ở một tần số cộng hưởng nhất định, yêu cầu về khả năng chịu sốc lên tới khoảng 1.500 lần trọng lực Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả đã thành công. Thiết bị quang học không hề bị suy giảm hiệu năng có thể đo lường được."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 23 tháng 6 năm 2025, chiếc máy tính này được phóng lên quỹ đạo thấp của Trái Đất, ở độ cao khoảng 510 km, bằng tên lửa Falcon 9 – và hóa ra vụ phóng tên lửa chỉ là vấn đề nhỏ nhất mà nó phải đối mặt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Mọi chuyện bắt đầu trục trặc gần như ngay lập tức."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị được phóng lên với sáu diode thác đơn photon silicon (SPAD), có nhiệm vụ phát hiện các photon phát ra từ mạch quang tử – một phần rất quan trọng của thí nghiệm. Nhưng cuối cùng chỉ có ba diode còn dùng được."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó… Mặt Trời \"ra tay\"."
+    },
+    {
+     "t": "p",
+     "text": "Các đầu dò photon còn lại nhạy đến mức ánh sáng Mặt Trời tạo ra một tín hiệu nền rất mạnh và dao động dữ dội, át hẳn những phép đo tinh vi mà các nhà nghiên cứu đang cố thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "May mắn là vệ tinh không ở trong vùng có ánh nắng suốt cả quỹ đạo. Cứ khoảng 92 phút một lần, nó lại đi vào vùng bóng tối của Trái Đất, nơi nhiễu nền giảm mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó cho nhóm nghiên cứu một khoảng thời gian khoảng 30 phút mỗi vòng quỹ đạo để thực hiện những phép đo nhạy nhất của họ."
+    },
+    {
+     "t": "p",
+     "text": "Đến đây thì mọi việc vẫn ổn. Nhưng dù bóng tối của Trái Đất giải quyết được vấn đề ánh nắng, nó lại không giúp được gì nhiều trước môi trường bức xạ ở quỹ đạo thấp – nơi tập trung dày đặc các hạt proton và electron năng lượng cao bị giữ lại trong vành đai Van Allen."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cũng đã lường trước điều này, họ bọc thiết bị trong một lớp vỏ nhôm hàng không vũ trụ dày một xăng-ti-mét để bảo vệ."
+    },
+    {
+     "t": "p",
+     "text": "Lớp vỏ này hoạt động khá tốt trước electron – nhưng proton thì khó chặn hơn nhiều nếu không muốn tăng thêm khối lượng đáng kể."
+    },
+    {
+     "t": "p",
+     "text": "Đúng như dự đoán, các máy dò photon còn sống sót bắt đầu xuống cấp. Sau 52 ngày trên quỹ đạo, tỉ lệ \"đếm sai trong tối\" (dark count) của chúng – tức những lần phát hiện giả ngay cả khi không có photon nào bay tới – đã tăng lên rõ rệt."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã tìm cách bù đắp bằng cách điều chỉnh điện áp cấp cho máy dò, nhờ đó lấy lại được một phần tín hiệu đã mất."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng sau đó lại đến chuyện của cái laser."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã dùng một loại laser thương mại được chỉnh sửa để chịu được các thử thách khắc nghiệt về cơ học và nhiệt độ trong không gian. Vỏ của nó thậm chí còn được làm từ hợp kim Kovar mạ vàng, một loại hợp kim được chọn một phần vì nó gần như không giãn nở khi nhiệt độ thay đổi."
+    },
+    {
+     "t": "p",
+     "text": "Đáng tiếc, sâu bên trong lại có một loại keo dán không \"chịu được không gian\" cho lắm."
+    },
+    {
+     "t": "p",
+     "text": "Trong môi trường chân không, lớp keo này bắt đầu thoát khí, giải phóng ra các phân tử bám tích tụ trên các bộ phận quang học gần đó thành một lớp màng giàu carbon. Trong quá trình thử nghiệm, sự nhiễm bẩn này đã khiến công suất đầu ra của laser tụt từ khoảng 20 mili-oát xuống chỉ còn 4 mili-oát chỉ trong vòng một tuần."
+    },
+    {
+     "t": "p",
+     "text": "Và đến khi các nhà khoa học phát hiện ra vấn đề thì mô hình bay đã được lắp ráp xong vào tên lửa Falcon 9 rồi. Ôi thôi."
+    },
+    {
+     "t": "p",
+     "text": "Lúc này không còn cơ hội nào để thay lớp keo hay làm sạch các bộ phận quang học bị nhiễm bẩn nữa. Và đúng như thử nghiệm đã dự báo, công suất của laser tiếp tục suy giảm trong quá trình hoạt động ngoài không gian, càng làm trầm trọng thêm tình trạng tín hiệu vốn đã yếu đi do các máy dò bị bức xạ tàn phá."
+    },
+    {
+     "t": "p",
+     "text": "Vậy mà, dù gặp phải hàng loạt trở ngại lớn như thế, họ vẫn xoay xở được để cho cái thiết bị \"trớ trêu\" này hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Để thực hiện các phép toán lượng tử (quantum operations), các photon di chuyển qua mạch của thiết bị cần phải giống hệt nhau, không thể phân biệt được. Nếu hai photon như vậy được đưa vào từ hai phía đối diện của cùng một điểm nối quang học vào đúng cùng một thời điểm, một điều rất đặc trưng của lượng tử sẽ xảy ra."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì mỗi photon đi theo đường riêng qua điểm giao nhau, hai photon lại giao thoa với nhau nên chúng có xu hướng đi ra cùng lúc."
+    },
+    {
+     "t": "p",
+     "text": "Điều này tạo ra hiện tượng mà các nhà vật lý gọi là \"hố Hong-Ou-Mandel\" (Hong-Ou-Mandel dip): khi hai photon càng giống nhau, số lần các máy dò bắt được chúng đi ra riêng rẽ sẽ đột ngột giảm mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Và đó chính xác là điều các nhà nghiên cứu đã quan sát được trong không gian."
+    },
+    {
+     "t": "p",
+     "text": "Để kiểm chứng, các nhà nghiên cứu từ từ thay đổi nhiệt độ của tinh thể tạo ra cặp photon. Việc này làm thay đổi bước sóng của các photon, giúp nhóm nghiên cứu điều chỉnh cho đến khi phổ của chúng trùng khớp và trở nên không thể phân biệt được."
+    },
+    {
+     "t": "p",
+     "text": "Qua các thử nghiệm trên Trái Đất, họ biết rằng điểm lý tưởng này sẽ rơi vào khoảng 32,5 độ C."
+    },
+    {
+     "t": "p",
+     "text": "Quả đúng như vậy, ở gần đúng mức nhiệt độ đó, tỷ lệ trùng khớp giảm mạnh, tạo ra một hố Hong-Ou-Mandel rõ rệt."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Độ rõ nét của hiện tượng này - về cơ bản là thước đo mức độ giao thoa mạnh yếu của các photon - đạt 0,908, cao hơn giới hạn cổ điển là 0,5. Tuy nhiên, do phép đo còn có sai số khá lớn nên kết quả chỉ vượt ngưỡng này ở mức 2,14 độ lệch chuẩn."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các nhà nghiên cứu cũng đã lặp lại được hiện tượng này một cách độc lập vào hai ngày khác nhau. Và khi họ cố tình chỉnh lại bộ xử lý sang một trạng thái không thể tạo ra hiệu ứng này, hố Hong-Ou-Mandel liền biến mất."
+    },
+    {
+     "t": "p",
+     "text": "Dù còn gặp một số trục trặc kỹ thuật, thiết bị của nhóm nghiên cứu vẫn tạo ra và điều khiển được hiện tượng giao thoa phi cổ điển - nền tảng mà máy tính lượng tử quang tử (photonic quantum computing) dựa vào."
+    },
+    {
+     "t": "p",
+     "text": "Vậy nó đã xử lý được dữ liệu vệ tinh chưa? Chưa hề. Nhưng bộ xử lý này đại diện cho một phép thử quan trọng, giúp các nhà nghiên cứu hoàn thiện thiết kế và chế tạo những thiết bị bền vững hơn để hoạt động trong môi trường quỹ đạo."
+    },
+    {
+     "t": "p",
+     "text": "\"Những kết quả được công bố ở đây là bước đầu tiên trên con đường mà chúng tôi đang theo đuổi, nhằm cho phép phân loại và nén dữ liệu ngay trên phần cứng quang tử (photonic hardware), chỉ gửi kết quả suy luận cuối cùng xuống mặt đất,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Tiến bộ này sẽ giúp các bộ xử lý bay trên quỹ đạo trở thành đối tác tự nhiên của các liên kết lượng tử (quantum links) đã được thiết lập giữa vệ tinh và mặt đất: các nút và các kênh kết hợp với nhau tạo thành một kiến trúc phân tán với phạm vi phủ sóng toàn cầu và khả năng truy cập độ trễ thấp, trong đó tính toán lượng tử (quantum computation) không còn bị giới hạn trong môi trường phòng thí nghiệm được kiểm soát mà được triển khai ở quy mô lớn trên toàn mạng lưới.\""
+    },
+    {
+     "t": "p",
+     "text": "Bài báo, chưa qua bình duyệt, hiện có trên máy chủ bản thảo arXiv."
+    }
+   ]
+  },
+  {
+   "id": "b163499b7471",
+   "order": 10,
+   "slug": "ngoi-sao-bang-phan-chieu-va-dai-ngan-ha",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Ngôi sao băng phản chiếu và dải Ngân Hà",
+   "sapo": "APOD Science APOD APOD: ngày 26 tháng 9 năm 2026 –… Kho ảnh APOD hôm nay Gửi bài Chỉ mục Tìm kiếm Lịch RSS Giáo dục Giới thiệu Thảo luận APOD Bức ảnh thiên văn trong ngày Khám phá vũ trụ! Mỗi ngày, một bức ảnh hoặc hình chụp khác nhau về vũ trụ kỳ thú của chúng ta sẽ được giới thiệu, kèm theo một đoạn giải thích ngắn do một nhà thiên văn học chuyên nghiệp viết. Ngôi sao băng phản chiếu và dải Ngân Hà […]",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+   "published": "2026-09-26T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 344,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Mirrored Meteor and Milky Way",
+   "images": [
+    {
+     "src": "img/2026-09-27/b163499b7471-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/b163499b7471-0.jpg",
+     "caption": "Một tấm gương kính viễn vọng lớn, ghép từ nhiều mảnh, hiện lên trên nền trời đêm cùng với dải Ngân Hà và một ngôi sao băng sáng rực.",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "APOD"
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh thiên văn trong ngày"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá vũ trụ! Mỗi ngày, một bức ảnh hoặc hình chụp khác nhau về vũ trụ kỳ thú của chúng ta sẽ được giới thiệu, kèm theo một đoạn giải thích ngắn do một nhà thiên văn học chuyên nghiệp viết."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải thích: Vào ngày 15 tháng 8, một ngôi sao băng thuộc mưa sao băng Perseid đã vụt qua bầu trời đêm phía trên Đài quan sát Roque de los Muchachos ở đảo La Palma, quần đảo Canary, Tây Ban Nha. Vệt sáng đầy màu sắc của sao băng được ghi lại ngay bên cạnh trung tâm dải Ngân Hà, nơi những đám mây bụi liên sao tối và ánh sáng của các vì sao rực rỡ vươn lên phía trên đường chân trời. Ở tiền cảnh của khung cảnh bầu trời hấp dẫn này là tấm gương đường kính 23 mét của kính viễn vọng nguyên mẫu Large-Sized Telescope (LST-1). LST-1 là kính viễn vọng đầu tiên được xây dựng tại địa điểm ở bán cầu bắc của Đài quan sát mảng kính viễn vọng Cherenkov (Cherenkov Telescope Array Observatory) đầy sáng tạo. Với 198 mảnh gương hình lục giác và một camera lớn, hiệu suất cao, chia thành nhiều điểm ảnh, LST-1 được thiết kế để phát hiện những chớp sáng ánh sáng khả kiến cực ngắn trong khí quyển. Những chớp sáng này chỉ kéo dài khoảng một phần tỷ giây, được kích hoạt bởi các tia gamma năng lượng cao đến từ những nguồn vũ trụ như các thiên hà hoạt động ở xa và các vụ nổ tia gamma. Tất nhiên, vào đêm hôm đó, một số mảnh gương riêng lẻ của LST-1 cũng đã phản chiếu chớp sáng trong khí quyển của ngôi sao băng Perseid rực rỡ này. Địa chỉ email nhận bài gửi ảnh của APOD đã thay đổi. Vui lòng xem: Gửi bài cho APOD. Trang chính của APOD trên NASA đang chuyển địa chỉ: từ apod.nasa.gov sang science.nasa.gov/apod Ảnh của ngày mai: trước và sau"
+    }
+   ]
+  },
+  {
+   "id": "2a0a0ac23fed",
+   "order": 11,
+   "slug": "cac-nha-thien-van-tim-tin-hieu-nguoi-ngoai-hanh-tinh-o-33-he",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Các nhà thiên văn tìm tín hiệu người ngoài hành tinh ở 33 hệ hành tinh. Một tín hiệu đã thu hút sự chú ý của họ",
+   "sapo": "Vũ trụ bao la dường như là một nơi lạnh lẽo và cô đơn.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/astronomers-searched-33-planetary-systems-for-alien-signals-one-caught-their-attention",
+   "published": "2026-09-26T01:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1742,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Astronomers Searched 33 Planetary Systems For Alien Signals. One Caught Their Attention.",
+   "images": [
+    {
+     "src": "img/2026-09-27/2a0a0ac23fed-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-27/2a0a0ac23fed-0.jpg",
+     "caption": "Hình ảnh minh họa của một họa sĩ về siêu Trái Đất K2-155d, nơi có thể có sự sống. (Martin Vargic/Halcyon Maps/Wikimedia Commons, CC BY 3.0)",
+     "w": 600,
+     "h": 396
+    },
+    {
+     "src": "img/2026-09-27/2a0a0ac23fed-1.jpg",
+     "caption": "Tín hiệu nghi vấn xuất hiện là một đường hẹp trôi dạt trong chùm tia hướng về phía K2-155, nhưng không xuất hiện ở 18 chùm tia còn lại. (Li và cộng sự, Tạp chí Thiên văn học (The Astronomical Journal), 2026)",
+     "w": 600,
+     "h": 470
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vũ trụ bao la dường như là một nơi lạnh lẽo và cô đơn."
+    },
+    {
+     "t": "p",
+     "text": "Dù đã dò xét bầu trời rất kỹ, chúng ta vẫn chưa tìm ra bằng chứng rõ ràng nào về sự sống ngoài hành tinh bên ngoài Trái Đất – chưa nói đến việc tìm ra sự sống ngoài Hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Và đó là còn chưa nhắc tới công nghệ – những dấu hiệu cho thấy một nền văn minh thông minh đã phát triển cách thức tác động lên môi trường xung quanh, mà chúng ta có thể phát hiện được từ khoảng cách xa giữa các vì sao."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó không có nghĩa là họ không tồn tại. Có thể chỉ vì chúng ta chưa tìm kiếm đủ kỹ mà thôi."
+    },
+    {
+     "t": "p",
+     "text": "Và giờ đây, các nhà thiên văn học ở Trung Quốc đã sử dụng kính viễn vọng vô tuyến một đĩa lớn nhất thế giới để quét sâu 33 hệ hành tinh, những nơi được cho là có triển vọng để tìm kiếm dấu hiệu công nghệ (technosignature)."
+    },
+    {
+     "t": "p",
+     "text": "Hầu hết các hệ đều cho ra đúng kết quả mà bạn có thể đoán trước – không có gì cả."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng có một hệ thú vị hơn một chút."
+    },
+    {
+     "t": "p",
+     "text": "Từ hướng của K2-155, một ngôi sao lùn đỏ cách chúng ta khoảng 238 năm ánh sáng, có một tín hiệu vô tuyến dải hẹp đã vượt qua được những nỗ lực ban đầu của các nhà nghiên cứu nhằm loại bỏ nhiễu – đây là loại tín hiệu vô tuyến mà nếu không có công nghệ thì rất khó tạo ra."
+    },
+    {
+     "t": "p",
+     "text": "\"Các quá trình vật lý thiên văn tự nhiên hiếm khi tạo ra những đặc điểm quang phổ cực kỳ hẹp, trong khi các thiết bị phát sóng do con người chế tạo thì thường làm được điều đó,\" nhóm các nhà thiên văn học, trong đó có tác giả chính Zi-Qi Li từ Đại học Sư phạm Bắc Kinh, viết trong một bài báo đăng trên Tạp chí Thiên văn học (The Astronomical Journal)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Câu hỏi liệu chúng ta có đơn độc trong Vũ trụ hay không không phải là điều mới mẻ – nhưng câu hỏi liệu chúng ta có thể tìm ra ai đó khác ngoài kia hay không thì lại không còn mang tính triết học nữa."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta có công nghệ, và chúng ta biết công nghệ trông như thế nào, ít nhiều là vậy."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta cũng biết các vì sao và những vật thể vũ trụ khác trông ra sao, và có hiểu biết khá tốt về các loại tín hiệu mà những quá trình vật lý thiên văn tự nhiên có thể tạo ra. Chúng rất đa dạng, nhưng sóng radio phát ra từ các nguồn vũ trụ tự nhiên thường trải rộng trên một khoảng tần số lớn."
+    },
+    {
+     "t": "p",
+     "text": "Tín hiệu radio băng hẹp (narrowband) lại gần hơn với đầu công nghệ của quang phổ – tức là một tín hiệu tập trung vào một băng tần rất hẹp. Sóng radio từ công nghệ của chính chúng ta thường bị giới hạn rất chặt. Vì vậy đó là một manh mối khả dĩ."
+    },
+    {
+     "t": "p",
+     "text": "Một dấu hiệu khác mà các nhà thiên văn học có thể tìm kiếm là liệu tín hiệu đó có di chuyển hay không."
+    },
+    {
+     "t": "p",
+     "text": "Đó là vì một tín hiệu được phát đi từ mặt của một hành tinh xa xôi không nhất thiết sẽ giữ nguyên đúng một tần số."
+    },
+    {
+     "t": "p",
+     "text": "Chuyển động tương đối của một hành tinh khi nó tự quay quanh trục và quay quanh sao chủ của nó có thể làm thay đổi tần số của tín hiệu radio thông qua hiệu ứng Doppler (Doppler effect), tạo ra một sự trôi dạt đặc trưng theo thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy nếu các nhà thiên văn học nhìn thấy một tín hiệu radio vừa cực kỳ hẹp vừa trôi dạt về tần số, thì nó đáng được xem xét kỹ hơn nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Đáng buồn là chúng ta có một thói xấu là tự làm khó chính mình. Trái Đất đang tràn ngập những tín hiệu radio do chính con người tạo ra."
+    },
+    {
+     "t": "p",
+     "text": "Vệ tinh, máy bay, hệ thống truyền thông, công nghệ định vị, và cả lò vi sóng cũng có thể tạo ra nhiễu tần số radio, gọi là RFI (radio-frequency interference), làm ảnh hưởng đến các quan sát thiên văn."
+    },
+    {
+     "t": "p",
+     "text": "Và một số trong đó có thể trông giống một cách hấp dẫn – và cũng thật đáng bực – như chính những tín hiệu mà các nhà nghiên cứu SETI đang cố gắng tìm kiếm."
+    },
+    {
+     "t": "p",
+     "text": "Đây chính là vấn đề mà các nhà nghiên cứu muốn giải quyết."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng dữ liệu quan sát từ Kính thiên văn vô tuyến khẩu độ 500 mét của Trung Quốc (FAST), họ đã phát triển một cách mới để lọc qua kho dữ liệu vô tuyến khổng lồ được tạo ra trong quá trình tìm kiếm trí thông minh ngoài Trái Đất (SETI), nhằm tìm ra những tín hiệu dải hẹp, có tần số trôi dạt, đồng thời loại bỏ nhiễu."
+    },
+    {
+     "t": "p",
+     "text": "Bản thân những dữ liệu quan sát này không phải là mới. FAST đã quan sát 33 hệ hành tinh ngoài hệ Mặt Trời (exoplanet) mục tiêu vào năm 2021, trong khuôn khổ các chiến dịch SETI trước đó."
+    },
+    {
+     "t": "p",
+     "text": "Điều mà Li và các cộng sự thực hiện là rà soát lại những dữ liệu đó bằng một quy trình tìm kiếm mới, được thiết kế để chọn lọc ra các tín hiệu đáng chú ý – và quan trọng hơn cả, là giúp loại bỏ những tín hiệu giả mạo xuất phát từ Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "FAST có một mẹo rất khéo léo để làm điều này. Máy thu băng tần L của nó quan sát bầu trời qua 19 chùm tia riêng biệt cùng một lúc. Điều đó có nghĩa là chùm tia trung tâm có thể được hướng vào mục tiêu, trong khi 18 chùm tia còn lại đồng thời theo dõi những vùng trời lân cận."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nếu một tín hiệu xuất hiện ở nhiều vị trí trên bầu trời – tức là ở nhiều chùm tia khác nhau – thì nhiều khả năng nó có nguồn gốc từ Trái Đất. Nhưng nếu tín hiệu đó chỉ xuất hiện ở chùm tia hướng vào mục tiêu, nó sẽ được xem xét kỹ hơn ở vòng tiếp theo."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã phát triển một thuật toán học máy (machine learning) sử dụng một kỹ thuật toán học gọi là phân tích wavelet để tách những mẫu tín hiệu yếu ớt ra khỏi dữ liệu vô tuyến đầy nhiễu."
+    },
+    {
+     "t": "p",
+     "text": "Thuật toán này được huấn luyện để nhận ra những dấu vết đặc trưng do các tín hiệu dải hẹp trôi dạt tần số tạo ra, trước khi các bước kiểm tra bổ sung lọc bỏ những nhiễu có khả năng đến từ Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Quy trình này ban đầu tìm ra 139.127 tín hiệu được phát hiện. Qua nhiều vòng lọc và kiểm tra nhiễu liên tiếp, con số khổng lồ đó được rút gọn chỉ còn lại hai tín hiệu mà các nhà nghiên cứu cho là đặc biệt đáng chú ý."
+    },
+    {
+     "t": "p",
+     "text": "Một tín hiệu, được phát hiện theo hướng một ngôi sao có tên Kepler-438, thực ra đã từng được xác định trong một phân tích trước đó và cuối cùng bị loại bỏ vì được coi là nhiễu đến từ Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Điều còn lại là một tín hiệu mới – và nó đến từ một hệ hành tinh đặc biệt hấp dẫn."
+    },
+    {
+     "t": "p",
+     "text": "K2-155 là một ngôi sao lùn đỏ có ba ngoại hành tinh siêu Trái Đất đã được biết đến – và hành tinh ngoài cùng trong số đó, một thế giới có bán kính gấp 1,6 lần Trái Đất, nằm gần vùng có thể sinh sống được của ngôi sao, nơi nước lỏng có thể tồn tại trên bề mặt mà không bị đóng băng hay bốc hơi hết."
+    },
+    {
+     "t": "p",
+     "text": "Sâu trong dữ liệu của kính FAST về K2-155, có một tín hiệu được đặt tên là NBS 260108."
+    },
+    {
+     "t": "p",
+     "text": "Ở tần số 1148,4167 megahertz, tín hiệu này rất hẹp. Nó có sự trôi dạt (drifting). Và nó chỉ xuất hiện ở chùm tín hiệu hướng về phía K2-155. Nó đáp ứng đủ cả ba tiêu chí và có thể được xếp vào loại \"ứng viên dấu hiệu công nghệ\" (candidate technosignature)."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng tiếc thay, đó không phải là một ứng viên mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Tín hiệu này chỉ xuất hiện rõ ở một kênh phân cực, và những tín hiệu tương tự ở các tần số gần đó cũng xuất hiện trong các lần quan sát ba ngôi sao khác – đây là những manh mối cho thấy khả năng nhiễu đến từ Trái Đất hoặc từ chính thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các nhà nghiên cứu không thể xác định chính xác điều gì đã tạo ra nó."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, NBS 260108 vẫn chưa được phân loại, và khả năng nó có nguồn gốc từ Trái Đất hoặc từ thiết bị được cho là cao hơn so với khả năng đến từ ngoài Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng dù kết quả cuối cùng lại chỉ là do chính chúng ta gây ra, các nhà khoa học vẫn sẽ học được điều gì đó từ trải nghiệm này – đó là sự cải tiến trong quy trình tìm kiếm sự sống ngoài Trái Đất (SETI), giúp các cuộc tìm kiếm trong tương lai trở nên đáng tin cậy hơn."
+    },
+    {
+     "t": "p",
+     "text": "Và này, chúng ta mới chỉ bắt đầu công việc này trong một thời gian ngắn thôi. Con người đã biết nấu ăn từ khoảng 300.000 năm trước – nhưng chỉ mới khoảng một thế kỷ gần đây, chúng ta mới có khả năng quan sát bầu trời để tìm dấu hiệu của công nghệ người ngoài hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "Nếu ở đâu đó ngoài kia, người ngoài hành tinh E.T. đang gọi, chắc chắn cuối cùng chúng ta cũng sẽ tìm ra đúng thiết bị thu để bắt được tín hiệu đó."
+    },
+    {
+     "t": "p",
+     "text": "Những phát hiện này đã được công bố trên tạp chí The Astronomical Journal."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được kiểm chứng bởi Rebecca Dyer và biên tập bởi Rebecca Dyer. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "66008709e59a",
+   "order": 12,
+   "slug": "ky-la-nhung-tang-da-hinh-ban-tay-mat-su-tu-giua-dao-cu-lao-x",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Kỳ lạ những tảng đá hình bàn tay, mặt sư tử giữa đảo Cù Lao Xanh",
+   "sapo": "(Dân trí) - Bãi đá ở Cù Lao Xanh (Gia Lai) được ví như “thảo nguyên đá”, với nhiều khối đá mang hình thù độc đáo như bàn tay khổng lồ, đầu sư tử, hải cẩu",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/ky-la-nhung-tang-da-hinh-ban-tay-mat-su-tu-giua-dao-cu-lao-xanh-20260925094642168.htm",
+   "published": "2026-09-26T06:36:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 637,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/66008709e59a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/66008709e59a-0.jpg",
+     "caption": "Khối đá hình bàn tay trên đảo Cù Lao Xanh (Ảnh: Thành Long).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/66008709e59a-1.jpg",
+     "caption": "Khối đá nhìn nghiêng rất giống khuôn mặt của một người khổng lồ nhìn ra biển lớn (Ảnh: Thành Long).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/66008709e59a-2.jpg",
+     "caption": "Khối đá nhìn nghiêng rất giống mặt sư tử (Ảnh: Thành Long).",
+     "w": 1100,
+     "h": 733
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Bãi đá ở Cù Lao Xanh (Gia Lai) được ví như “thảo nguyên đá”, với nhiều khối đá mang hình thù độc đáo như bàn tay khổng lồ, đầu sư tử, hải cẩu tạo nên sức hút riêng cho xã đảo."
+    },
+    {
+     "t": "p",
+     "text": "Cù Lao Xanh là tên gọi quen thuộc của xã Nhơn Châu, xã đảo duy nhất của tỉnh Gia Lai. Từ trung tâm đô thị Quy Nhơn, du khách di chuyển khoảng 24km bằng ca nô để đến đảo."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có biển xanh, Nhơn Châu còn sở hữu những dải đá lớn trải dài dọc bờ biển phía Đông đảo. Qua thời gian, tác động của tự nhiên đã tạo nên các khối đá với nhiều kích thước, hình dáng khác nhau."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Người dân địa phương gọi khu vực này là “bãi đá thảo nguyên”, bởi những dải đá trải rộng giữa cây cỏ, hướng ra biển, tạo cảm giác như một vùng thảo nguyên nằm giữa biển trời."
+    },
+    {
+     "t": "p",
+     "text": "Điểm gây chú ý tại đây là những khối đá có hình thù đặc biệt. Nổi bật trong số đó là một tảng đá lớn giống bàn tay khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có bàn tay khổng lồ, nhiều khối đá mang hình dáng lạ mắt. Tùy theo góc quan sát, du khách có thể liên tưởng đến nhiều hình thù khác nhau như đầu sư tử, hải cẩu, mai rùa, cánh buồm, mặt người…"
+    },
+    {
+     "t": "p",
+     "text": "Có những phiến đá nằm chênh vênh, xếp chồng lên nhau, trong khi một số vách đá dựng đứng hướng ra biển, tạo nên cảnh quan vừa mạnh mẽ, vừa kỳ thú. Bởi vậy, du khách khi đến Cù Lao Xanh thường dừng chân tại khu vực này để ngắm cảnh, chụp ảnh kỷ niệm bên những khối đá có hình dáng lạ mắt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Lần đầu tiên ra Cù Lao Xanh, chị Nguyễn Hoàng Dung (32 tuổi, trú tại phường Quy Nhơn), bất ngờ trước cảnh quan thiên nhiên nơi đây."
+    },
+    {
+     "t": "p",
+     "text": "“Điều tôi thích ở Cù Lao Xanh là sự kết hợp giữa đá, biển, trời và cây cỏ. Đứng trên những mỏm đá cao nhìn xuống, cảm giác rất thoáng đãng, vừa có nét hùng vĩ nhưng cũng rất thơ mộng”, chị Dung chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo nữ du khách, càng đi và quan sát chị càng nhận ra mỗi khu vực đá lại mang một hình dáng khác nhau. Những khối đá tự nhiên cũng tạo thêm nhiều góc khám phá thú vị cho người đến đảo."
+    },
+    {
+     "t": "p",
+     "text": "Du khách đến Nhơn Châu, ngoài ẩm thực ngon, rẻ với nhiều loại hải sản tươi sống, còn có vẻ đẹp của thảo nguyên đá và sự bình yên trên đảo."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có những bãi đá mang hình thù kỳ thú, Cù Lao Xanh còn có Giếng Tiên, một thắng cảnh gắn với nhiều câu chuyện dân gian của người dân xã đảo Nhơn Châu."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo truyền thuyết được người dân lưu truyền, xưa kia đây là nơi những “nàng tiên” thường xuống vui chơi, ngắm cảnh và soi bóng bên mặt nước. Từ đó, người dân gọi nơi này là Giếng Tiên."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ gắn với câu chuyện dân gian, nguồn nước tại đây từng có vai trò trong đời sống của cư dân trên đảo xưa kia. Với người dân Nhơn Châu, giếng được xem như một món quà mà thiên nhiên ban tặng giữa biển khơi."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, Giếng Tiên là một trong những điểm đến được du khách tìm đến khi khám phá Cù Lao Xanh."
+    },
+    {
+     "t": "p",
+     "text": "Ông Dương Hiệp Hưng, Chủ tịch UBND xã Nhơn Châu, cho biết cùng với biển xanh, những dãy núi thấp và cảnh quan tự nhiên, bãi đá với những khối đá mang hình thù kỳ lạ đã tạo thêm điểm nhấn cho du khách khi khám phá Cù Lao Xanh."
+    }
+   ]
+  },
+  {
+   "id": "f6e0868c6f18",
+   "order": 13,
+   "slug": "sung-sot-voi-cay-cau-uon-nhu-dai-lua-lo-lung-giua-nui-da-tru",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc",
+   "sapo": "(Dân trí) - Với thiết kế gồm 3 nhịp cầu uốn lượn, một phần mặt cầu bằng kính trong suốt, cầu Như Ý ở tỉnh Chiết Giang (Trung Quốc) là điểm đến thu hút du",
+   "author": "Ái Vy",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/sung-sot-voi-cay-cau-uon-nhu-dai-lua-lo-lung-giua-nui-da-trung-quoc-20260926163018877.htm",
+   "published": "2026-09-26T23:07:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 429,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-0.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 1",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-1.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 2",
+     "w": 792,
+     "h": 445
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-2.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 3",
+     "w": 792,
+     "h": 528
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-3.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 4",
+     "w": 792,
+     "h": 528
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-4.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 5",
+     "w": 792,
+     "h": 519
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-5.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 6",
+     "w": 792,
+     "h": 528
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-6.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 7",
+     "w": 792,
+     "h": 445
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-7.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 8",
+     "w": 792,
+     "h": 445
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-8.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 9",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-9.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 10",
+     "w": 792,
+     "h": 528
+    },
+    {
+     "src": "img/2026-09-27/f6e0868c6f18-10.jpg",
+     "caption": "Sửng sốt với cây cầu “uốn như dải lụa”, lơ lửng giữa núi đá Trung Quốc - 11",
+     "w": 1200,
+     "h": 799
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cầu Như Ý (Ruyi Bridge) nằm trong khu thắng cảnh Thần Tiên Cư (Shenxianju), huyện Tiên Cư, thành phố Đài Châu, tỉnh Chiết Giang, miền Đông Trung Quốc. Đây là khu thắng cảnh cấp quốc gia của Trung Quốc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tên gọi của cây cầu bắt nguồn từ hình dáng công trình, gợi liên tưởng đến gậy Như Ý, vật phẩm truyền thống của Trung Quốc, thường tượng trưng cho những điều tốt lành, may mắn và “vạn sự như ý”."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhìn từ trên cao, các đường cong của cầu tạo thành hình dáng mềm mại, uốn lượn giữa những vách núi của Thần Tiên Cư."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo China Daily , cầu Như Ý dài khoảng 100m và nằm ở độ cao khoảng 140m so với thung lũng bên dưới. Công trình gồm 3 phần cầu có hình dạng uốn lượn, trong đó một số đoạn sử dụng mặt kính trong suốt."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Thông tin từ đơn vị thiết kế cho biết công trình chủ yếu sử dụng kết cấu thép, kết hợp các vật liệu như đá, thép dạng lưới, kính và gỗ. Cầu dài 100m, cao hơn 140m, tổng diện tích khu vực tham quan của cầu khoảng 722m²."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Cầu Như Ý được thiết kế bởi He Yunchang (Hà Vân Xương), chuyên gia về kết cấu thép, người từng tham gia thiết kế Sân vận động Quốc gia Bắc Kinh, còn được biết đến với tên gọi “Tổ Chim”."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Cầu Như Ý mở cửa đón khách vào cuối tháng 9/2020. Sau khi xuất hiện, hình ảnh và video về công trình nhanh chóng được chia sẻ rộng rãi trên mạng xã hội Trung Quốc."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Sức hút của cây cầu đến từ sự kết hợp giữa thiết kế khác thường và cảnh quan tự nhiên xung quanh."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Đứng trên cầu, du khách có thể quan sát những vách núi, thung lũng và dãy núi bao quanh khu thắng cảnh Thần Tiên Cư."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Những đường cong của công trình tạo cảm giác như một dải lụa vắt giữa núi rừng. Trong khi đó, các đoạn mặt kính trong suốt mang đến góc nhìn xuống khu vực thung lũng phía dưới."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Khu Thần Tiên Cư nằm trên địa bàn các thị trấn Bạch Tháp, Đạm Trúc và Điền Thị của huyện Tiên Cư. Khu vực nổi bật với các đỉnh núi, vách đá, thác nước, hang động và biển mây."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Ngoài cầu Như Ý, thắng cảnh có hệ thống cầu, đường đi bộ và đài quan sát được xây dựng giữa địa hình núi đá, giúp kết nối các khu vực tham quan."
+    }
+   ]
+  },
+  {
+   "id": "90a3f6f3bbfd",
+   "order": 14,
+   "slug": "choang-ngop-man-xiec-nhao-lon-du-day-giua-khong-gian-3d-mapp",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Choáng ngợp màn xiếc nhào lộn, đu dây giữa không gian 3D Mapping",
+   "sapo": "Vở diễn \"Sơn Thần Thủy Quái\" tại Rạp Xiếc Trung ương (Hà Nội) nhận sự chú ý lớn nhờ kỹ thuật xiếc công phu kết hợp cùng màn trình chiếu 3D Mapping mãn nhãn.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/choang-ngop-man-xiec-nhao-lon-du-day-giua-khong-gian-3d-mapping-post1685502.html",
+   "published": "2026-09-26T02:22:08+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 792,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-10.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/90a3f6f3bbfd-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vở diễn \"Sơn Thần Thủy Quái\" tại Rạp Xiếc Trung ương (Hà Nội) nhận sự chú ý lớn nhờ kỹ thuật xiếc công phu kết hợp cùng màn trình chiếu 3D Mapping mãn nhãn."
+    },
+    {
+     "t": "h",
+     "text": "'ĐẠI TIỆC' 3D MAPPING TẠI RẠP XIẾC TRUNG ƯƠNG"
+    },
+    {
+     "t": "p",
+     "text": "Ngày 25/9, Liên đoàn Xiếc Việt Nam ra mắt chương trình nghệ thuật \"Sơn Thần Thủy Quái\", nằm trong kế hoạch tác phẩm đặt hàng hàng năm 2026 của đơn vị. Câu chuyện dân gian được thể hiện bằng ngôn ngữ sân khấu mới, khi nghệ thuật xiếc kết hợp cùng công nghệ 3D Mapping, sân khấu nước, ánh sáng và các hiệu ứng hiện đại trong không gian thị giác rộng. Với 3D Mapping, bối cảnh sân khấu thay đổi liên tục theo mạch truyện, từ bầu trời, núi rừng, cây cối, muông thú trong thế giới Sơn Tinh đến đại dương huyền ảo của Thủy Tinh. Công nghệ 3D Mapping Panorama 360 độ tạo hiệu ứng hình ảnh không chỉ hiện diện phía sau sân khấu mà còn mở rộng ra toàn bộ không gian trình diễn. Nhờ đó, khán giả không chỉ xem câu chuyện mà còn có cảm giác như bước vào thế giới của các nhân vật."
+    },
+    {
+     "t": "h",
+     "text": "NGƯỜI NGHỆ SĨ LÀM TRUNG TÂM"
+    },
+    {
+     "t": "p",
+     "text": "Vở diễn do NSND Tống Toàn Thắng dàn dựng, trong đó các tiết mục không tách rời mà liên kết thành một mạch kịch thống nhất. Nội dung mở đầu từ vùng đất thanh bình thời các Vua Hùng, dẫn tới cuộc gặp gỡ và tranh tài giữa Sơn Tinh - Thủy Tinh, sau đó mở ra hai thế giới đối lập của núi rừng và đại dương. Câu chuyện dần lên cao trào với cuộc đại chiến giữa Đất và Nước, trước khi khép lại bằng thông điệp nhân văn về tình yêu, sự đoàn kết và sức mạnh con người. Dù được đầu tư mạnh về công nghệ, tác phẩm vẫn lấy nghệ thuật xiếc và người nghệ sĩ làm trung tâm. Các kỹ thuật đu dây, nhào lộn, thăng bằng, xiếc thú, ảo thuật và biểu diễn trên không đều được sử dụng để phục vụ diễn biến câu chuyện. Âm nhạc trong vở diễn được xây dựng như một mạch xuyên suốt, kết nối các không gian khác nhau trên các chất liệu hiện đại như Symphonic Pop, World Music, EDM Cinematic hòa quyện cùng âm hưởng nhạc cụ dân tộc Việt Nam. Đến đoạn cao trào của cuộc đại chiến, âm nhạc được đẩy mạnh cùng hiệu ứng sấm, mưa bão, gió sân khấu nước và laser, góp phần đưa vở diễn lên cao trào."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "h",
+     "text": "TRẢI NGHIỆM XEM XIẾC MỚI LẠ"
+    },
+    {
+     "t": "p",
+     "text": "“Vở diễn ứng dụng mapping 3D đang được chú ý trên mạng xã hội nên dịp Trung Thu này, tôi muốn đưa con gái đi xem. Dù tiếc vì không đặt được chỗ ngồi đối diện sân khấu, tôi vẫn thấy buổi diễn rất thú vị khi phần trình diễn được triển khai quanh sân khấu, kết hợp cùng công nghệ”, Nguyễn Bảo Ngọc (30 tuổi, phường Đống Đa) chia sẻ. \"Ở Việt Nam một thời gian dài, nhưng đây là lần đầu tôi xem một chương trình xiếc kết hợp mapping 3D. Phần trình diễn bắt mắt, đặc biệt giúp tôi hiểu thêm về cổ tích và văn hóa Việt Nam qua sự kết hợp của nhiều loại hình nghệ thuật\", ông Salem Alexis (45 tuổi, đến từ Pháp) nói. Với thời lượng khoảng 75 phút, chương trình hướng tới đối tượng khán giả gia đình và thiếu nhi, nhưng vẫn giữ quy mô của một vở xiếc sân khấu lớn. Ê-kíp thực hiện không chỉ đơn thuần đưa một truyền thuyết quen thuộc lên sân khấu, mà hướng tới cách kể chuyện mới, giúp khán giả hôm nay tiếp cận câu chuyện theo hướng trực quan, hiện đại và giàu trải nghiệm hơn."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác giả sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    }
+   ]
+  },
+  {
+   "id": "a7c89a7e2a34",
+   "order": 15,
+   "slug": "10-cong-trinh-ky-thuat-vi-dai-phai-den-mot-lan-trong-doi",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "10 công trình kỹ thuật vĩ đại phải đến một lần trong đời",
+   "sapo": "Những công trình như kênh đào Panama, đường hầm eo biển Manche chứng minh cho khả năng chinh phục những giới hạn thiên nhiên của con người.",
+   "author": "Hoài Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/10-cong-trinh-ky-thuat-vi-dai-phai-den-mot-lan-trong-doi-5124167.html",
+   "published": "2026-09-26T01:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 2439,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 591
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1491
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1200
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 674
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 707
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-09-27/a7c89a7e2a34-9.jpg",
+     "caption": "",
+     "w": 959,
+     "h": 599
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "10 công trình kỹ thuật vĩ đại phải đến một lần trong đời"
+    },
+    {
+     "t": "p",
+     "text": "Những công trình như kênh đào Panama, đường hầm eo biển Manche chứng minh cho khả năng chinh phục những giới hạn thiên nhiên của con người."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Việc Trung Quốc xây dựng trạm thủy điện Mặc Thoát - dự án quy mô lớn nhất thế giới - tiếp tục vấp phải nhiều tranh cãi. Dù vậy, lịch sử ngành kỹ thuật cho thấy những công trình khổng lồ như đập Itaipu (Brazil) hay hệ thống đường sắt cao tốc, cầu vượt biển toàn cầu thường đóng vai trò định hình lại hạ tầng giao thông, năng lượng nhân loại. Dưới đây là 10 công trình kỹ thuật phải đến một lần trong đời theo lựa chọn từ Telegraph - tờ báo 171 năm tuổi ở Anh."
+    },
+    {
+     "t": "p",
+     "text": "Kênh đào Panama, Panama"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá Kênh đào Panama thú vị hơn nhiều người tưởng. Du khách sẽ hiểu thêm về những thất bại trong quá trình kiến tạo kỳ quan này, các căn bệnh nhiệt đới thợ xây mắc phải và quy mô khổng lồ của dự án từng khiến các kỹ sư phải phá núi, nối liền nhiều hồ nước."
+    },
+    {
+     "t": "p",
+     "text": "Công trình này là huyết mạch nối Đại Tây Dương và Thái Bình Dương, giúp các tàu thuyền tránh được hành trình vòng qua cực Nam nguy hiểm, tốn nhiều thời gian. Nhờ hệ thống âu tàu nâng hạ nước thông minh, kênh đào cho phép các tàu container khổng lồ vận chuyển hàng hóa nhanh chóng giữa châu Mỹ, châu Á và châu Âu, trở thành động lực của thương mại hàng hải quốc tế. Ảnh: Visit Panama"
+    },
+    {
+     "t": "p",
+     "text": "Việc Trung Quốc xây dựng trạm thủy điện Mặc Thoát - dự án quy mô lớn nhất thế giới - tiếp tục vấp phải nhiều tranh cãi. Dù vậy, lịch sử ngành kỹ thuật cho thấy những công trình khổng lồ như đập Itaipu (Brazil) hay hệ thống đường sắt cao tốc, cầu vượt biển toàn cầu thường đóng vai trò định hình lại hạ tầng giao thông, năng lượng nhân loại. Dưới đây là 10 công trình kỹ thuật phải đến một lần trong đời theo lựa chọn từ Telegraph - tờ báo 171 năm tuổi ở Anh."
+    },
+    {
+     "t": "p",
+     "text": "Kênh đào Panama, Panama"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá Kênh đào Panama thú vị hơn nhiều người tưởng. Du khách sẽ hiểu thêm về những thất bại trong quá trình kiến tạo kỳ quan này, các căn bệnh nhiệt đới thợ xây mắc phải và quy mô khổng lồ của dự án từng khiến các kỹ sư phải phá núi, nối liền nhiều hồ nước."
+    },
+    {
+     "t": "p",
+     "text": "Công trình này là huyết mạch nối Đại Tây Dương và Thái Bình Dương, giúp các tàu thuyền tránh được hành trình vòng qua cực Nam nguy hiểm, tốn nhiều thời gian. Nhờ hệ thống âu tàu nâng hạ nước thông minh, kênh đào cho phép các tàu container khổng lồ vận chuyển hàng hóa nhanh chóng giữa châu Mỹ, châu Á và châu Âu, trở thành động lực của thương mại hàng hải quốc tế. Ảnh: Visit Panama"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đường hầm Eo biển Manche, Anh - Pháp"
+    },
+    {
+     "t": "p",
+     "text": "Đây là tuyến liên kết đường sắt ngầm dưới biển dài nhất thế giới (38 km), nối liền trực tiếp Vương quốc Anh và lục địa châu Âu. Thay vì phụ thuộc vào phà biển hay máy bay, hệ thống tàu cao tốc Eurostar và tàu chở phương tiện Le Shuttle qua đường hầm cho phép hành khách di chuyển xuyên biên giới chỉ trong hơn 2,5 tiếng - nhanh hơn ba lần so với trước kia. Ảnh: Guardian"
+    },
+    {
+     "t": "p",
+     "text": "Đường hầm Eo biển Manche, Anh - Pháp"
+    },
+    {
+     "t": "p",
+     "text": "Đây là tuyến liên kết đường sắt ngầm dưới biển dài nhất thế giới (38 km), nối liền trực tiếp Vương quốc Anh và lục địa châu Âu. Thay vì phụ thuộc vào phà biển hay máy bay, hệ thống tàu cao tốc Eurostar và tàu chở phương tiện Le Shuttle qua đường hầm cho phép hành khách di chuyển xuyên biên giới chỉ trong hơn 2,5 tiếng - nhanh hơn ba lần so với trước kia. Ảnh: Guardian"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Cầu Akashi-Kaikyo, Nhật Bản"
+    },
+    {
+     "t": "p",
+     "text": "Tham vọng kết nối các quần đảo chính của Nhật Bản với nhau là ý tưởng táo bạo, đòi hỏi hệ thống đường hầm và cầu vượt qua những vùng biển sâu, địa hình phức tạp hay vô số đợt động đất thường trực. Người dân Nhật Bản đã vỡ òa khi cầu Akashi-Kaikyo khánh thành vào năm 1998, bắc qua eo biển giữa Honshu và đảo Awaji, nối liền Shikoku với Kobe và phần còn lại của vùng đô thị Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Công trình hoàn thành sau một thập kỷ, ảnh hưởng lớn đến nền kinh tế nước này. Trước khi có các hệ thống siêu cầu và đường hầm, việc di chuyển giữa các hòn đảo này chủ yếu phụ thuộc vào phà biển, mất thời gian và nguy hiểm, đặc biệt khi biển động, bão hoặc có động đất. Ảnh: Okaya"
+    },
+    {
+     "t": "p",
+     "text": "Cầu Akashi-Kaikyo, Nhật Bản"
+    },
+    {
+     "t": "p",
+     "text": "Tham vọng kết nối các quần đảo chính của Nhật Bản với nhau là ý tưởng táo bạo, đòi hỏi hệ thống đường hầm và cầu vượt qua những vùng biển sâu, địa hình phức tạp hay vô số đợt động đất thường trực. Người dân Nhật Bản đã vỡ òa khi cầu Akashi-Kaikyo khánh thành vào năm 1998, bắc qua eo biển giữa Honshu và đảo Awaji, nối liền Shikoku với Kobe và phần còn lại của vùng đô thị Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Công trình hoàn thành sau một thập kỷ, ảnh hưởng lớn đến nền kinh tế nước này. Trước khi có các hệ thống siêu cầu và đường hầm, việc di chuyển giữa các hòn đảo này chủ yếu phụ thuộc vào phà biển, mất thời gian và nguy hiểm, đặc biệt khi biển động, bão hoặc có động đất. Ảnh: Okaya"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cầu cạn Millau, Pháp"
+    },
+    {
+     "t": "p",
+     "text": "Cầu cạn Millau giữ kỷ lục là cây cầu cao nhất thế giới tính từ đáy thung lũng lên đến đỉnh trụ tháp (343 m) - cao hơn Tháp Eiffel (330 m); trong khi mặt đường xe chạy nằm ở độ cao 270 m so với sông Tarn bên dưới."
+    },
+    {
+     "t": "p",
+     "text": "Công trình khai trương năm 2004 như một phần của tuyến cao tốc A75, do kiến trúc sư Norman Foster và kỹ sư Michel Virlogeux thiết kế. Do kiểu khí hậu đặc thù của hẻm núi, khu vực này thường xuyên có gió mạnh. Trên tuyến cao tốc có các trạm dừng chân để du khách đỗ xe ngắm phần đỉnh cầu ẩn hiện trong mây. Ảnh: Arquitecturaviva"
+    },
+    {
+     "t": "p",
+     "text": "Cầu cạn Millau, Pháp"
+    },
+    {
+     "t": "p",
+     "text": "Cầu cạn Millau giữ kỷ lục là cây cầu cao nhất thế giới tính từ đáy thung lũng lên đến đỉnh trụ tháp (343 m) - cao hơn Tháp Eiffel (330 m); trong khi mặt đường xe chạy nằm ở độ cao 270 m so với sông Tarn bên dưới."
+    },
+    {
+     "t": "p",
+     "text": "Công trình khai trương năm 2004 như một phần của tuyến cao tốc A75, do kiến trúc sư Norman Foster và kỹ sư Michel Virlogeux thiết kế. Do kiểu khí hậu đặc thù của hẻm núi, khu vực này thường xuyên có gió mạnh. Trên tuyến cao tốc có các trạm dừng chân để du khách đỗ xe ngắm phần đỉnh cầu ẩn hiện trong mây. Ảnh: Arquitecturaviva"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đường sắt cao tốc Bắc Kinh - Thượng Hải, Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường sắt cao tốc nối Thượng Hải với Bắc Kinh có chiều dài hơn 1.280 km, là tuyến đường sắt cao tốc dài nhất thế giới được thi công liền mạch khi khánh thành vào năm 2011."
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường này cho phép tàu chạy qua Đồng bằng sông Dương Tử Hành dễ dàng trong hành trình kéo dài khoảng 4 tiếng. Ngoài ra, Thượng Hải còn sở hữu tuyến tàu đệm từ (Maglev) sử dụng lực từ trường để đưa khách từ sân bay Phố Đông vào trung tâm thành phố trong vài phút. Ảnh: Stuff"
+    },
+    {
+     "t": "p",
+     "text": "Đường sắt cao tốc Bắc Kinh - Thượng Hải, Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường sắt cao tốc nối Thượng Hải với Bắc Kinh có chiều dài hơn 1.280 km, là tuyến đường sắt cao tốc dài nhất thế giới được thi công liền mạch khi khánh thành vào năm 2011."
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường này cho phép tàu chạy qua Đồng bằng sông Dương Tử Hành dễ dàng trong hành trình kéo dài khoảng 4 tiếng. Ngoài ra, Thượng Hải còn sở hữu tuyến tàu đệm từ (Maglev) sử dụng lực từ trường để đưa khách từ sân bay Phố Đông vào trung tâm thành phố trong vài phút. Ảnh: Stuff"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Đập Hoover, Mỹ"
+    },
+    {
+     "t": "p",
+     "text": "Không lớn như đập Tam Hiệp của Trung Quốc nhưng kiến trúc Art Deco của đập Hoover khiến công trình đem đến trải nghiệm thị giác khác biệt. Công trình này kết hợp cùng hồ Mead ở phía sau tạo nguồn nước và điện năng, giúp miền nam California và Las Vegas phát triển thành các siêu đô thị lớn, cung cấp việc làm trong thời kỳ Đại suy thoái."
+    },
+    {
+     "t": "p",
+     "text": "Nằm cách Las Vegas khoảng 30 phút lái xe, đập có một cây cầu tránh mới giúp du khách dễ dàng đỗ xe và đi bộ đến góc ngắm cảnh chụp ảnh. Du khách cũng có thể ghé qua trung tâm đón tiếp và tham gia các tour tham quan bên trong công trình. Ảnh: Britannica"
+    },
+    {
+     "t": "p",
+     "text": "Đập Hoover, Mỹ"
+    },
+    {
+     "t": "p",
+     "text": "Không lớn như đập Tam Hiệp của Trung Quốc nhưng kiến trúc Art Deco của đập Hoover khiến công trình đem đến trải nghiệm thị giác khác biệt. Công trình này kết hợp cùng hồ Mead ở phía sau tạo nguồn nước và điện năng, giúp miền nam California và Las Vegas phát triển thành các siêu đô thị lớn, cung cấp việc làm trong thời kỳ Đại suy thoái."
+    },
+    {
+     "t": "p",
+     "text": "Nằm cách Las Vegas khoảng 30 phút lái xe, đập có một cây cầu tránh mới giúp du khách dễ dàng đỗ xe và đi bộ đến góc ngắm cảnh chụp ảnh. Du khách cũng có thể ghé qua trung tâm đón tiếp và tham gia các tour tham quan bên trong công trình. Ảnh: Britannica"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống đường cao tốc Autobahn, Đức"
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống Autobahn của Đức là mạng lưới đường cao tốc nổi tiếng. Nhiều đoạn trên cao tốc này không giới hạn tốc độ và không thu phí sử dụng đối với xe con. Nút giao Frankfurter Kreuz là một trong những giao lộ bận rộn và lâu đời nhất châu Âu, trong khi đoạn đường A115 qua Grunewald ở Berlin từng là trường đua AVUS. Ảnh: Drivar"
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống đường cao tốc Autobahn, Đức"
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống Autobahn của Đức là mạng lưới đường cao tốc nổi tiếng. Nhiều đoạn trên cao tốc này không giới hạn tốc độ và không thu phí sử dụng đối với xe con. Nút giao Frankfurter Kreuz là một trong những giao lộ bận rộn và lâu đời nhất châu Âu, trong khi đoạn đường A115 qua Grunewald ở Berlin từng là trường đua AVUS. Ảnh: Drivar"
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Cầu dẫn nước Águas Livres, Bồ Đào Nha"
+    },
+    {
+     "t": "p",
+     "text": "Cầu được xây dựng từ thế kỷ 18 để dẫn nước sạch từ các ngọn núi xung quanh về cung cấp cho thành phố Lisbon. UNESCO cũng thêm cầu dẫn nước Águas Livres vào Danh sách Di sản thế giới dự kiến từ năm 2017."
+    },
+    {
+     "t": "p",
+     "text": "Các nhịp dẫn nước của cầu vắt ngang thung lũng Alcântara với chiều cao 65 m. Du khách có thể đi bộ qua một số đoạn trên cầu và tham quan điểm kết thúc tại hồ chứa nước Mãe d'Água das Amoreiras trong khu Amoreiras - nơi thường tổ chức các sự kiện nghệ thuật trình chiếu ánh sáng. Ảnh: Locationscout"
+    },
+    {
+     "t": "p",
+     "text": "Cầu dẫn nước Águas Livres, Bồ Đào Nha"
+    },
+    {
+     "t": "p",
+     "text": "Cầu được xây dựng từ thế kỷ 18 để dẫn nước sạch từ các ngọn núi xung quanh về cung cấp cho thành phố Lisbon. UNESCO cũng thêm cầu dẫn nước Águas Livres vào Danh sách Di sản thế giới dự kiến từ năm 2017."
+    },
+    {
+     "t": "p",
+     "text": "Các nhịp dẫn nước của cầu vắt ngang thung lũng Alcântara với chiều cao 65 m. Du khách có thể đi bộ qua một số đoạn trên cầu và tham quan điểm kết thúc tại hồ chứa nước Mãe d'Água das Amoreiras trong khu Amoreiras - nơi thường tổ chức các sự kiện nghệ thuật trình chiếu ánh sáng. Ảnh: Locationscout"
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Khu ven biển Barcelona, Tây Ban Nha"
+    },
+    {
+     "t": "p",
+     "text": "Khu vực ven biển Barcelona là tổ hợp các giải pháp quy hoạch và kỹ thuật đô thị. Các bãi biển tại đây được tạo thành bằng cách bồi đắp hàng đoàn xe tải cát; kết hợp xây dựng hệ thống đê chắn sóng để cố định bờ biển. Ảnh: Lastminute"
+    },
+    {
+     "t": "p",
+     "text": "Khu ven biển Barcelona, Tây Ban Nha"
+    },
+    {
+     "t": "p",
+     "text": "Khu vực ven biển Barcelona là tổ hợp các giải pháp quy hoạch và kỹ thuật đô thị. Các bãi biển tại đây được tạo thành bằng cách bồi đắp hàng đoàn xe tải cát; kết hợp xây dựng hệ thống đê chắn sóng để cố định bờ biển. Ảnh: Lastminute"
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống đê điều, cống chắn và đập nước, Hà Lan"
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống thủy lợi và chống ngập lụt của Hà Lan là minh chứng rõ nét cho năng lực trị thủy nổi tiếng thế giới. Quần thể Delta Works phía nam gồm các con đập và cống khổng lồ giúp bảo vệ đất nước trước bão lũ, cho phép người dân đạp xe khám phá dọc theo tuyến đê."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía bắc, đê biển Afsluitdijk, dài hơn 32 km, đóng vai trò chặn biển để chuyển đổi vùng nước mặn thành hồ nước ngọt nhân tạo IJmeer, tạo ra diện tích lớn đất lấn biển phục vụ sự phát triển của quốc gia. Ảnh: Lastminute"
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống đê điều, cống chắn và đập nước, Hà Lan"
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống thủy lợi và chống ngập lụt của Hà Lan là minh chứng rõ nét cho năng lực trị thủy nổi tiếng thế giới. Quần thể Delta Works phía nam gồm các con đập và cống khổng lồ giúp bảo vệ đất nước trước bão lũ, cho phép người dân đạp xe khám phá dọc theo tuyến đê."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía bắc, đê biển Afsluitdijk, dài hơn 32 km, đóng vai trò chặn biển để chuyển đổi vùng nước mặn thành hồ nước ngọt nhân tạo IJmeer, tạo ra diện tích lớn đất lấn biển phục vụ sự phát triển của quốc gia. Ảnh: Lastminute"
+    },
+    {
+     "t": "p",
+     "text": "Hoài Anh (Theo Telegraph )"
+    }
+   ]
+  },
+  {
+   "id": "3d4edee8205e",
+   "order": 16,
+   "slug": "cau-treo-dai-nhat-chau-a-nam-o-quoc-gia-nao",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Cầu treo dài nhất châu Á nằm ở quốc gia nào?",
+   "sapo": "Dài gần 4km, cây cầu này từng giữ kỷ lục cầu treo dài nhất thế giới và bắc qua một eo biển nổi tiếng ở châu Á. Bạn biết công trình này nằm ở đâu?",
+   "author": "Hoàng Linh",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/cau-treo-dai-nhat-chau-a-nam-o-quoc-gia-nao-2559125.html",
+   "published": "2026-09-26T22:10:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 518,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/3d4edee8205e-lead.jpg",
+     "caption": "",
+     "w": 678,
+     "h": 355
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Cầu treo dài nhất châu Á nằm ở quốc gia nào?"
+    },
+    {
+     "t": "li",
+     "text": "Trung Quốc 0% Nhật Bản 0% Hàn Quốc 0% Singapore 0% Chính xác Cầu Akashi Kaikyo nằm tại tỉnh Hyogo, nối thành phố Kobe với đảo Awaji. Với tổng chiều dài 3.911m, đây là cây cầu treo dài nhất châu Á. Cầu bắc qua eo biển Akashi, là một phần của tuyến đường cao tốc Kobe-Awaji-Naruto và kết nối tiếp tới đảo Shikoku. Khi khánh thành năm 1998, Akashi Kaikyo từng giữ kỷ lục cầu treo dài nhất thế giới. Hiện kỷ lục này thuộc về cầu một cây cầu khác. 2. Cầu Akashi Kaikyo được thông xe vào năm nào? 1988 0% 1993 0% 1998 0% 2003 0% Chính xác Theo Japan Travel , cầu Akashi Kaikyo được đưa vào sử dụng năm 1998, sau quá trình xây dựng kéo dài khoảng một thập kỷ. Công trình được xây dựng để thay thế tuyến phà từng nối Kobe với đảo Awaji. Việc đi phà thường bị ảnh hưởng bởi những cơn bão xảy ra tại eo biển Akashi, khiến nhu cầu xây dựng một tuyến giao thông ổn định hơn trở nên cấp thiết. 3. Cầu Akashi Kaikyo còn được biết đến với biệt danh nào? Cầu Mặt Trời 0% Cầu Rồng 0% Cầu Trân Châu 0% Cầu Kim Cương 0% Chính xác Cầu Akashi Kaikyo được đặt biệt danh là Cầu Trân Châu (Pearl Bridge) nhờ vẻ ngoài nổi bật. Công trình cũng được chiếu sáng bằng khoảng 1.600 bóng đèn, tạo nên hệ thống ánh sáng có thể quan sát từ nhiều khu vực quanh vịnh. 4. Cầu Akashi Kaikyo được thiết kế để chống chịu những điều kiện tự nhiên nào? Động đất, gió lớn và sóng thần 0% Núi lửa phun trào, tuyết lở và lũ quét 0% Bão tuyết, sương giá và hạn hán 0% Cát bay, lốc xoáy và sạt lở đất 0% Chính xác Cầu Akashi Kaikyo được xây dựng tại khu vực có nguy cơ động đất và thường chịu ảnh hưởng của gió mạnh. Công trình được thiết kế với các giải pháp kỹ thuật nhằm tăng khả năng chống chịu trước động đất, gió lớn và sóng thần. Đây cũng là một trong những công trình tiêu biểu cho những tiến bộ trong kỹ thuật xây dựng cầu của Nhật Bản. 5. Cầu treo dài nhất thế giới hiện nay nằm ở quốc gia nào? Thổ Nhĩ Kỳ 0% Pháp 0% Nhật Bản 0% Mỹ 0% Chính xác Cầu 1915 Çanakkale, khánh thành ngày 18/3/2022 tại tây bắc Thổ Nhĩ Kỳ, hiện là cầu treo có nhịp chính dài nhất thế giới. Cầu nối Gelibolu ở phần lãnh thổ châu Âu với Lapseki ở phần lãnh thổ châu Á, bắc qua eo biển Dardanelles. Công trình có nhịp chính dài 2.023m, hơn 32m so với cầu Akashi Kaikyo của Nhật Bản - cây cầu giữ kỷ lục trước đó. Cầu được khởi công năm 2017, góp phần rút ngắn thời gian di chuyển qua eo biển Dardanelles tới 93%. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "3570453c6bfc",
+   "order": 17,
+   "slug": "tung-dang-do-giac-mo-hoc-hanh-sinh-vien-u60-duoc-doanh-nghie",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từng dang dở giấc mơ học hành, sinh viên U60 được doanh nghiệp ngỏ lời tuyển dụng",
+   "sapo": "Ở tuổi 51, khi nhiều người đã quen với cuộc sống ổn định, anh Trương Chí Hiền (quê Cà Mau) lại chọn bắt đầu một hành trình mà anh từng phải dang dở hơn 30 năm trước là trở thành sinh viên chính quy.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tung-dang-do-giac-mo-hoc-hanh-sinh-vien-u60-duoc-doanh-nghiep-ngo-loi-tuyen-dung-185260925215254772.htm",
+   "published": "2026-09-26T22:45:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1283,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/3570453c6bfc-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/3570453c6bfc-0.jpg",
+     "caption": "Yêu thích chế tạo máy, đặc biệt là những chi tiết công nghệ CNC, anh Hiền chọn ngành công nghệ kỹ thuật cơ khí",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-27/3570453c6bfc-1.jpg",
+     "caption": "Anh Hiền chăm chú theo dõi từng bước hướng dẫn của giảng viên",
+     "w": 1280,
+     "h": 826
+    },
+    {
+     "src": "img/2026-09-27/3570453c6bfc-2.jpg",
+     "caption": "Chính sự ủng hộ của gia đình là một trong những điều giúp anh Hiền có thêm động lực để tiếp tục",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-27/3570453c6bfc-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-27/3570453c6bfc-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 846
+    },
+    {
+     "src": "img/2026-09-27/3570453c6bfc-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 950
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Gặp anh Trương Chí Hiền vào một ngày gần cuối tháng 9.2026, điều gây ấn tượng không phải là mái tóc đã bạc nhiều, mà là vẻ nhanh nhẹn và nụ cười luôn thường trực trên gương mặt người đàn ông 51 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Chiếc ba lô trên vai, sinh viên năm hai ngành công nghệ kỹ thuật cơ khí bước qua sân Trường CĐ Lý Tự Trọng TP.HCM với dáng vẻ đang háo hức chuẩn bị cho tiết học mới. Ít ai biết rằng, để có được khoảnh khắc ấy, anh đã phải chờ hơn 30 năm."
+    },
+    {
+     "t": "h",
+     "text": "Hơn 30 năm dang dở chuyện học hành"
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra trong một gia đình có 5 anh em ở Cà Mau, cuộc sống chỉ dựa vào nghề nông, điều kiện kinh tế khó khăn khiến việc học của anh Hiền phải dừng lại từ năm lớp 7. Khi bạn bè cùng trang lứa tiếp tục đến trường, anh bước vào đời rồi bắt đầu những năm tháng bươn chải kiếm sống bằng nhiều công việc khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Hơn chục năm lên TP.HCM sống và làm việc, anh về quê lập gia đình vào năm 2007, có hai người con, cuộc sống của anh tiếp tục xoay quanh công việc, gia đình và chuyện mưu sinh. Nhưng ở đâu đó trong anh, khát khao được học chưa bao giờ dừng lại."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm 2019, anh tìm hiểu về ngành học và dự định lên TP.HCM đi học. Thế nhưng dịch Covid-19 kéo dài khiến kế hoạch bị đình lại. Sau đó, những lo toan gia đình tiếp tục khiến giấc mơ ấy phải chờ thêm vài năm."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm 2025, khi công việc buôn bán tạp hóa của gia đình dần ổn định, hai người con đã vào THPT, anh Hiền một lần nữa nói với vợ con về mong muốn trở lại trường và được gia đình ủng hộ tuyệt đối. Với niềm yêu thích chế tạo máy, đặc biệt là những chi tiết công nghệ CNC, anh chọn ngành công nghệ kỹ thuật cơ khí tại Trường CĐ Lý Tự Trọng TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Một mình lên TP.HCM, không người thân quen, anh đăng ký ở ký túc xá của trường. “Ban đầu cũng lo chứ. Mình lớn tuổi rồi, lên đây không quen ai, không biết ở đâu. Nhưng rồi cứ nghĩ mình thích học, mình muốn học nên tìm hiểu và chọn trường này”, anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Từng dang dở giấc mơ học hành, người đàn ông trở lại giảng đường ở tuổi 51"
+    },
+    {
+     "t": "h",
+     "text": "Giữa lớp học của tuổi đôi mươi"
+    },
+    {
+     "t": "p",
+     "text": "Trở lại giảng đường sau hơn 30 năm là trải nghiệm không dễ dàng. Anh Hiền kể, những ngày đầu học lý thuyết, anh thấy nhiều nội dung vượt quá khả năng của mình, có lúc chật vật để theo kịp bài giảng. Gần 2 năm qua, thay vì bỏ cuộc, anh tìm cách học nhiều hơn."
+    },
+    {
+     "t": "p",
+     "text": "Trong các giờ thực hành tại Khoa Cơ khí, anh luôn chăm chú theo dõi từng bước hướng dẫn của giảng viên. Nếu không trùng lịch, anh còn chủ động xin học thực hành chung với lớp khác để có thêm thời gian làm quen với máy móc, thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Thạc sĩ Nguyễn Khắc Huy, giảng viên Khoa Cơ khí, nhận xét anh Hiền là người rất kiên trì. Có những lúc chưa hoàn thành được bài trên lớp, anh vẫn về ký túc xá mày mò cho đến khi làm được. “Anh Hiền đúng như cái tên của anh, anh rất hiền. Đặc biệt, anh Hiền rất nỗ lực trong học tập. Tôi đánh giá rất cao tinh thần trách nhiệm của anh”, thạc sĩ Huy nói."
+    },
+    {
+     "t": "p",
+     "text": "Thạc sĩ Huy cho biết không chỉ học tập chăm chỉ, anh Hiền còn tích cực tham gia các hoạt động của khoa, tư vấn tuyển sinh và các phong trào của trường."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điều đặc biệt hơn, giữa tập thể hơn 50 sinh viên phần lớn chỉ bằng tuổi con mình, anh Hiền được thầy cô và các bạn tin tưởng bầu làm lớp trưởng. Quản lý một lớp học mà phần lớn thành viên trẻ hơn mình hàng chục tuổi không phải chuyện dễ dàng. “Lúc đầu cũng khó. Nhưng sau một thời gian thì mình thích nghi được. Các bạn rất hòa đồng, dễ thương và hỗ trợ mình nhiều trong việc học”, anh Hiền cười."
+    },
+    {
+     "t": "p",
+     "text": "Bạn Phạm Minh Trường kể rằng ban đầu mình thậm chí không nghĩ anh Hiền lớn tuổi. “Mình cứ nghĩ chú là một sinh viên có phong cách độc đáo, nhuộm tóc bạc bạc thôi”, Trường cười và nói rằng, sau một thời gian học cùng, Trường nhận ra sự khác biệt lớn nhất ở người bạn đặc biệt này không nằm ở tuổi tác, mà ở tinh thần học tập."
+    },
+    {
+     "t": "p",
+     "text": "“Mình rất nể chú vì tinh thần ham học hỏi. Chú rất tích cực học tập, hỏi bài để hiểu sâu hơn kiến thức”, Trường chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trên hành trình học tập ở tuổi đã ngoài 50, sức khỏe là trở ngại lớn nhất đối với anh Hiền. Có thời điểm vì áp lực trong kỳ thi kết thúc môn, anh quá căng thẳng và phải nhập viện. “Vừa qua tôi bị áp lực khi làm bài thi kết thúc môn, vì quá căng thẳng nên bị bệnh phải nằm viện một tháng. Nhưng giờ thì không sao, vẫn học tiếp được. Mình đam mê thì mình học được hết. Quyết tâm là sẽ học được”, anh cười nói."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Xa vợ con để viết tiếp ước mơ, doanh nghiệp ngỏ lời tuyển dụng"
+    },
+    {
+     "t": "p",
+     "text": "Sinh viên 51 tuổi ấy còn là một người chồng, người cha đang tạm xa gia đình để theo đuổi việc học. Anh Hiền kể, trong năm học, vì lịch học dày, anh ít có điều kiện về Cà Mau. Chủ yếu những dịp nghỉ lễ anh mới tranh thủ trở về nhà. “Rất nhớ vợ, nhớ con. Lúc đó chỉ biết gọi điện thoại về hỏi thăm, để nhìn thấy vợ con. Năm nay, con gái lớn đã cuối cấp THPT, dự định năm sau sẽ lên TP.HCM học”, anh kể."
+    },
+    {
+     "t": "p",
+     "text": "Chính sự ủng hộ của gia đình là một trong những điều giúp anh có thêm động lực để tiếp tục. Và nỗ lực ấy cũng được ghi nhận khi anh là một trong 22 sinh viên Khoa Cơ khí được nhận học bổng doanh nghiệp vào đầu năm học này."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Sau giờ học, anh Hiền thường đến thư viên để nghiên cứu tài liệu, tự học tiếng Anh, bài vở được anh ghi chép cẩn thận, chi tiết"
+    },
+    {
+     "t": "p",
+     "text": "Tại buổi trao học bổng vào sáng 25.9.2026, ông Lê Mai Hữu Lâm, Tổng giám đốc Công ty CP Sản xuất thiết bị điện công nghiệp Cát Vạn Lợi (CVL), gặp gỡ, bắt chặt tay anh Hiền và bày tỏ sự ngưỡng mộ trước quyết tâm của anh."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Lâm, câu chuyện của anh là một minh chứng cho tinh thần học tập suốt đời. “Học tập là suốt đời, nếu không học thì mãi mãi chúng ta sẽ bị bỏ lại phía sau. Học để phát triển bản thân, góp phần phát triển đất nước”, ông Lâm chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ông cũng cho biết nếu anh Hiền đồng ý, doanh nghiệp sẵn sàng tiếp nhận anh vào làm việc ngay từ thời điểm này."
+    },
+    {
+     "t": "p",
+     "text": "Với anh Hiền, học tập ở tuổi 51 có lẽ không phải là câu chuyện bằng cấp mà đó là một hành trình từng dang dở, được tiếp tục bằng khát vọng học tập, bằng ý chí vượt qua những giới hạn của tuổi tác và bằng sự quyết tâm không bỏ cuộc."
+    }
+   ]
+  },
+  {
+   "id": "981aa6075f6d",
+   "order": 18,
+   "slug": "me-don-than-lam-ray-nuoi-con-tot-nghiep-thu-khoa-bach-khoa-h",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Mẹ đơn thân làm rẫy, nuôi con tốt nghiệp thủ khoa Bách khoa Hà Nội",
+   "sapo": "Gia đình chỉ có hai mẹ con, ngày Hải đỗ đại học, bà Sáu quyết định một mình vào Gia Lai làm thuê. Dù vất vả, bà vẫn động viên con không được bỏ học. Không phụ kỳ vọng của mẹ, 4 năm sau, Hải trở thành một trong 8 thủ khoa của Đại học Bách khoa Hà Nội.",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/me-don-than-lam-ray-nuoi-con-tot-nghiep-thu-khoa-bach-khoa-ha-noi-2559097.html",
+   "published": "2026-09-26T05:54:30+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1095,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/981aa6075f6d-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-09-27/981aa6075f6d-0.jpg",
+     "caption": "Lê Cảnh Hải đại diện cho các tân cử nhân, kỹ sư phát biểu trong lễ tốt nghiệp.",
+     "w": 1280,
+     "h": 954
+    },
+    {
+     "src": "img/2026-09-27/981aa6075f6d-1.jpg",
+     "caption": "Hải cùng mẹ (bên trái) và PGS.TS Nguyễn Thị Thu Thủy, giảng viên hướng dẫn của Hải.",
+     "w": 1280,
+     "h": 1021
+    },
+    {
+     "src": "img/2026-09-27/981aa6075f6d-2.jpg",
+     "caption": "Hải tốt nghiệp thủ khoa tại Đại học Bách khoa Hà Nội.",
+     "w": 1280,
+     "h": 1027
+    },
+    {
+     "src": "img/2026-09-27/981aa6075f6d-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 26/9, trong lễ tốt nghiệp của Đại học Bách khoa Hà Nội, Lê Cảnh Hải, một trong 8 thủ khoa đầu ra năm nay, đại diện cho gần 3.500 tân cử nhân, kỹ sư đứng lên phát biểu."
+    },
+    {
+     "t": "p",
+     "text": "Từ một cậu sinh viên năm nhất còn rụt rè, tự ti về bản thân, sau 4 năm, Hải đã tốt nghiệp ngành Toán - Tin với CPA 3.89/4.0, có 6/7 học kỳ nhận học bổng khuyến khích học tập và hai lần tham gia chương trình trao đổi ở nước ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khi đứng trên bục phát biểu, điều Hải nhắc đến không phải là thành tích của bản thân mà chính là người mẹ đã một mình nuôi em khôn lớn."
+    },
+    {
+     "t": "p",
+     "text": "“Con cảm ơn mẹ vì những năm tháng qua đã hy sinh, lo lắng và luôn tin rằng con có thể làm được. Những gì con đạt được ngày hôm nay được xây đắp nên từ tình yêu và sự hy sinh của mẹ. Danh hiệu thủ khoa chính là món quà con muốn dành tặng sau những tháng ngày mẹ vất vả vì con”, Hải xúc động chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía dưới, bà Lê Thị Sáu (sinh năm 1969), mẹ của Hải cũng không giấu được giọt nước mắt hạnh phúc. Nghe tin con trai trở thành thủ khoa, bà đã bắt xe khách từ Gia Lai ra Hà Nội để kịp dự lễ tốt nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Mẹ làm đủ việc để con được đi học"
+    },
+    {
+     "t": "p",
+     "text": "Gia đình của Hải chỉ có hai mẹ con. Bố em không còn liên lạc sau nhiều năm, vì thế bà Sáu quanh năm làm lụng để lo cho con trai ăn học."
+    },
+    {
+     "t": "p",
+     "text": "Ở quê Nam Đàn (Nghệ An), gia đình Hải có khoảng 1,5 sào ruộng. Ngoài những ngày đi làm nông, bà Sáu còn làm đủ việc, ai thuê gì sẽ làm nấy. Hải nhớ mãi, có những ngày mẹ đi đào riềng, công việc vất vả nhưng cả ngày cũng chỉ được khoảng 50.000 đồng. Lớn lên trong hoàn cảnh ấy, Hải tự nhủ mình phải nỗ lực học hành."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Gia đình không có điều kiện đi học thêm, em chủ yếu tự học. Năm lớp 12, Hải giành giải Nhì học sinh giỏi cấp tỉnh môn Sinh học và sau đó trúng tuyển vào Đại học Bách khoa Hà Nội với 26,8 điểm."
+    },
+    {
+     "t": "p",
+     "text": "Ngày Hải đỗ đại học, bà Sáu vừa mừng vừa lo. Học phí và chi phí sinh hoạt ở Hà Nội là khoản tiền không nhỏ. Nhưng người mẹ chưa bao giờ nghĩ đến chuyện để con nghỉ học."
+    },
+    {
+     "t": "p",
+     "text": "“Đời mẹ đã vất vả rồi, mẹ không thể để con tiếp tục vất vả nữa. Vì thế, con nhất định phải đi học”, bà Sáu nói với Hải."
+    },
+    {
+     "t": "p",
+     "text": "Để có tiền lo cho con, bà Sáu quyết định một mình vào Gia Lai làm rẫy, nuôi tằm cùng họ hàng. Bà cũng dự định vay vốn Ngân hàng Chính sách Xã hội để tạm trang trải học phí. Thấu hiểu hoàn cảnh, ngay từ học kỳ đầu tiên, Hải đã tìm công việc làm thêm."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Giai đoạn đầu, Hải làm công việc dán tem xe khoảng 5 giờ/ngày. Tuy nhiên, công việc này khiến Hải không có nhiều thời gian cho việc học. Nam sinh thường phải tranh thủ học những lúc cửa hàng không có khách."
+    },
+    {
+     "t": "p",
+     "text": "May mắn, đến kỳ II năm Nhất, Hải được Ban Công tác sinh viên giới thiệu học bổng “Chắp cánh Bách khoa” dành cho sinh viên có hoàn cảnh đặc biệt khó khăn. Việc giành học bổng này đã giúp Hải không còn lo lắng về vấn đề học phí."
+    },
+    {
+     "t": "p",
+     "text": "Từ chương trình, Hải còn được giới thiệu cơ hội trở thành trợ giảng tại một câu lạc bộ Toán. Công việc phù hợp hơn giúp em có thêm thời gian học tập, đồng thời những buổi đứng lớp trở thành cơ hội để Hải rèn khả năng giao tiếp."
+    },
+    {
+     "t": "p",
+     "text": "“Từ một người luôn rụt rè, tự ti, chỉ biết cố gắng hết mình chứ không biết bản thân sẽ đi được bao xa, những sự hỗ trợ ấy giúp em cảm nhận được rằng vẫn có người tin tưởng vào mình ngay cả khi chính mình còn chưa thực sự tin vào bản thân”, Hải nói."
+    },
+    {
+     "t": "p",
+     "text": "Từ cậu sinh viên tự ti đến thủ khoa Bách khoa"
+    },
+    {
+     "t": "p",
+     "text": "Cũng từ ấy, thay vì mặc cảm, Hải bắt đầu thay đổi, tìm cách học phù hợp với bản thân. Nam sinh chủ động đọc sách trước khi lên lớp để dễ tiếp thu bài giảng, hỏi bạn bè những vấn đề chưa hiểu và duy trì một nhóm bạn cùng học để trao đổi kiến thức. Dần dần, Hải bắt kịp việc học và đạt được những học bổng khuyến khích đầu tiên."
+    },
+    {
+     "t": "p",
+     "text": "Mùa hè năm thứ ba, Hải có cơ hội đi trao đổi tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST) trong vòng hai tuần. Tại đây, em được tham gia những lớp học nâng cao về toán như phương trình đạo hàm riêng, giải tích ngẫu nhiên, toán kinh tế, đồng thời được các giảng viên chia sẻ về một số hướng nghiên cứu."
+    },
+    {
+     "t": "p",
+     "text": "Đầu năm thứ tư, Hải tiếp tục có chuyến đi giao lưu tới Vũ Hán và Trùng Khánh (Trung Quốc). Hai chuyến đi đã mở ra cho Hải rất nhiều trải nghiệm mới."
+    },
+    {
+     "t": "p",
+     "text": "“Trước đó, em chưa từng tham vọng đi học nước ngoài vì hoàn cảnh không cho phép. Tuy nhiên, sau những chuyến đi ấy và được thầy cô trong khoa tư vấn, em bắt đầu nhen nhóm ý định du học”, Hải chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Từ một cậu sinh viên từng lo mình không theo kịp các bạn trong lớp, Hải kết thúc 4 năm đại học với CPA 3.89/4.0 và trở thành một trong 8 thủ khoa đầu ra của Bách khoa Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Hiện Hải đang làm trợ lý nghiên cứu tại VinUni, đồng thời chuẩn bị hồ sơ xin học bổng du học bậc thạc sĩ."
+    },
+    {
+     "t": "p",
+     "text": "Với Hải, hành trình phía trước mới chỉ bắt đầu. Nhưng cột mốc thủ khoa lần này - như lời em nói trong lễ tốt nghiệp – chính là một món quà dành cho người mẹ đã dành nửa đời vất vả để lo cho con."
+    },
+    {
+     "t": "p",
+     "text": "“Em cũng hy vọng từ đây, mình có thể bắt đầu lo được cho mẹ. Mẹ sẽ không còn phải vất vả, đi làm xa nhà và lo lắng về tương lai nữa”, Hải chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "bd0ed296d040",
+   "order": 19,
+   "slug": "moi-nhap-hoc-da-lam-boc-xep-chang-trai-mong-mo-coi-cha-me-tr",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Mới nhập học đã làm bốc xếp, chàng trai Mông mồ côi cha mẹ trong ba lô có đúng 1 triệu đồng",
+   "sapo": "Không cha, không mẹ, Sùng A Sa, 18 tuổi, từ xã Mù Cang Chải, tỉnh Lào Cai về Hà Nội, bước vào cánh cửa Học viện Nông nghiệp Việt Nam nhưng trong hành trang chỉ có đúng 1 triệu đồng trợ cấp. Bạn phải lập tức đi làm bốc xếp tủ lạnh, tivi...",
+   "author": "DƯƠNG LIỄU",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/moi-nhap-hoc-da-lam-boc-xep-chang-trai-mong-mo-coi-cha-me-trong-ba-lo-co-dung-1-trieu-dong-100260924234311894.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1246,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/bd0ed296d040-0.jpg",
+     "caption": "Sùng A Sa, tân sinh viên Học viện Nông nghiệp Việt Nam - Ảnh: C. TUỆ",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-1.jpg",
+     "caption": "Đỗ vào Học viện Nông nghiệp Việt Nam, Sa lại ấp ủ ước mơ giành học bổng du học - Ảnh: C. TUỆ",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 807
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 840
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 835
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 834
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 848
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 793
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-10.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-27/bd0ed296d040-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Lớn lên dưới mái ấm Trung tâm Công tác xã hội và Bảo trợ xã hội số 1 tỉnh Lào Cai, ngày nhận tin trúng tuyển ngành chăn nuôi, Học viện Nông nghiệp Việt Nam, Sa cùng mẹ nuôi vui mừng."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng niềm vui ấy cũng nhanh chóng thay bằng nỗi lo, bởi chặng đường phía trước của Sa còn là cơm áo, gạo tiền cho 4 năm học ở thủ đô."
+    },
+    {
+     "t": "h",
+     "text": "Không còn ai nuôi nấng, lớn lên trong mái ấm"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2015, khi mới 7 tuổi, mẹ Sa mất, rồi cha cũng tiếp nối qua đời đều vì bệnh nặng. \"Tôi chưa hiểu cha mẹ đi là đi luôn\", Sa nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó chị gái sang Trung Quốc lấy chồng, còn anh trai nghỉ học nên không ai đủ điều kiện chăm sóc, Sa được đưa vào Trung tâm Công tác xã hội và Bảo trợ xã hội số 1 tỉnh Lào Cai."
+    },
+    {
+     "t": "p",
+     "text": "Gắn bó với Sa từ những ngày đầu, cô Linh Thị Thu Nguyệt - viên chức phòng quản lý chăm sóc của trung tâm - cho biết Sa về trung tâm khi mới 7 tuổi. Từ cậu bé côi cút, nhút nhát, Sa mới từng bước hòa nhập."
+    },
+    {
+     "t": "p",
+     "text": "\"Hành trình của Sa thực sự khá vất vả bởi con mồ côi cha mẹ, còn anh chị thì chưa đủ sức để nuôi dưỡng em. Đó là cậu bé hiền lành\", cô Nguyệt kể."
+    },
+    {
+     "t": "p",
+     "text": "\"Con biết yêu thương các em, biết chia sẻ và cũng giúp các mẹ, các cô ở đây rất nhiều. Đặc biệt là ham học\", cô kể."
+    },
+    {
+     "t": "p",
+     "text": "Có những lần bạn bè trêu Sa \"không bố, không mẹ\", Sa cảm thấy chạnh lòng, thấy mình có chút thiệt thòi. Những lúc như vậy, Sa tự động viên mình phải ráng vượt qua."
+    },
+    {
+     "t": "h",
+     "text": "'Thấy sốc' khi đậu vào Học viện Nông nghiệp"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sa nghĩ mình làm gì cũng chăm chỉ rồi sẽ đi qua tất cả bất hạnh, khó khăn, cũng như giúp đỡ mọi người ở trung tâm hay cả học hành, thật chăm chỉ, đều đặn. Những ngày ôn thi tốt nghiệp THPT, buổi sáng Sa học từ 7h đến 11h, buổi chiều từ 14h đến 17h, buổi tối tiếp tục học từ 19h đến 23h. Kết quả, Sa đậu vào Học viện Nông nghiệp Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Khi mẹ Nguyệt báo tin, Sa nói mình \"sốc\" vì \"tôi không nghĩ mình sẽ đỗ\"."
+    },
+    {
+     "t": "p",
+     "text": "\"Con còn biết tin sau tôi. Tôi sốt ruột lắm, nên ngay khi trường thông báo kết quả, tôi tra ngay rồi nhắn tin cho Sa đã đỗ. Hai mẹ con vui lắm, nhưng niềm vui ấy nhanh chóng nhường chỗ cho nỗi lo. Tôi lo một mình Sa xuống thủ đô sẽ không biết xoay xở thế nào, khi chặng đường phía trước còn là bài toán cơm áo, gạo tiền suốt bốn năm học\", chị Nguyệt nói."
+    },
+    {
+     "t": "h",
+     "text": "Mỗi ngày chỉ dám tiêu 50.000 đồng, đi bốc xếp tủ lạnh ngay lập tức"
+    },
+    {
+     "t": "p",
+     "text": "Với Sa, rời trung tâm đồng nghĩa với việc bước vào một cuộc sống hoàn toàn khác. \"Tôi buồn vì phải xa ngôi nhà này, xa các mẹ, các bạn, các em. Tôi cũng biết mình không có bố mẹ lo lắng cho, nên phải tự thân vận động để trang trải cuộc sống\", Sa bộc bạch."
+    },
+    {
+     "t": "p",
+     "text": "Ngày xuống thủ đô, Sa được trung tâm đăng ký ở ký túc xá, cùng hành trang hơn 1 triệu đồng tiền trợ cấp. Với số tiền ít ỏi này, Sa lên thời khóa biểu chi tiêu."
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi ngày, tôi chi khoảng 50.000 đồng. Bữa sáng khoảng 10.000 đồng, bữa trưa 25.000 đồng và buổi tối khoảng 15.000 đồng\", Sa kể."
+    },
+    {
+     "t": "p",
+     "text": "Nghe thấy vậy, cô Nguyệt lo lắng: \"Ăn vậy rồi có đói không con, có đủ sức học không?\"."
+    },
+    {
+     "t": "p",
+     "text": "Sa nhỏ giọng: \"Cũng đủ ạ!\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sa cùng “mẹ nuôi” sắp xếp quần áo, sách vở cho hành trang xuống trường - Ảnh: C. TUỆ"
+    },
+    {
+     "t": "p",
+     "text": "Để có thêm tiền trang trải cuộc sống, sau khi xuống trường, Sa đi tìm việc làm thêm. Công việc đầu tiên của chàng trai người Mông ở thủ đô là bốc xếp tivi, tủ lạnh, máy giặt, loa đài,… hỏng."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi đi làm từ 16h đến 22h. Công việc vất vả nhưng tôi có thêm tiền để trang trải. Trước mắt, nếu lịch học trống mà họ gọi thì tôi sẽ đi làm tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Về lâu dài, khi có thời khóa biểu học tập cố định, tôi sẽ tìm một công việc nhẹ nhàng hơn tại quán bánh mì hoặc cửa hàng để dành sức cho việc học tập\" - Sa chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Cô Nguyệt nói các em rời trung tâm đi học đại học thường gặp nhiều khó khăn vì khoản hỗ trợ hằng tháng không phải lúc nào cũng đủ cho toàn bộ chi phí ở thành phố."
+    },
+    {
+     "t": "h",
+     "text": "'Học bổng Tiếp sức đến trường 15 triệu đồng là một khoản lớn với tôi'"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Các hoạt động thường ngày của Sa tại trung tâm - Ảnh: C. TUỆ"
+    },
+    {
+     "t": "p",
+     "text": "Sa cho biết cô giáo chủ nhiệm cấp 3 hướng dẫn đăng ký học bổng Tiếp sức đến trường của Báo Tuổi Trẻ . \"15 triệu đồng nếu được tặng sẽ là món quà lớn dành cho tôi\"."
+    },
+    {
+     "t": "p",
+     "text": "\"Mẹ nuôi ở trung tâm dặn tôi phải tìm hiểu kỹ, coi chừng người trên mạng lừa đảo\", Sa nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Phía trước của Sa là bốn năm đại học, với những khoản chi phí phải tự tính toán và cả những bỡ ngỡ của một chàng trai lần đầu sống xa nhà."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng trong hành trang của chàng trai này có cả niềm tin sẽ thành công trên con đường mình đã chọn."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Bà Lê Thị Hồng Nhung - Phó giám đốc Trung tâm Công tác xã hội và Bảo trợ xã hội số 1 tỉnh Lào Cai - chia sẻ, động viên Sa cố gắng trên chặng đường phía trước. - Ảnh: C. TUỆ"
+    },
+    {
+     "t": "h",
+     "text": "Chỉ 1 triệu đồng trợ cấp, các con rất khó ở đại học"
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với Tuổi Trẻ , bà Lê Thị Hồng Nhung, Phó giám đốc Trung tâm Công tác xã hội và Bảo trợ xã hội số 1 tỉnh Lào Cai, nói Sa là một trong những đứa trẻ khiến cán bộ trung tâm rất vui khi chứng kiến em trưởng thành."
+    },
+    {
+     "t": "p",
+     "text": "Theo bà Nhung, trung tâm hiện có 14 trẻ đang theo học đại học tại nhiều trường trên cả nước. Các em thường được hỗ trợ hơn 1 triệu đồng/tháng cho tiền ăn và sinh hoạt. Số tiền ít ỏi cũng khiến nhiều em gặp khó khăn trong sinh hoạt hằng ngày."
+    },
+    {
+     "t": "p",
+     "text": "\"Các con đã được vào trường đại học thì làm sao để các con có điều kiện học tập tốt hơn. Chúng tôi mong muốn kết nối các nguồn lực, cộng đồng, doanh nghiệp, nhà hảo tâm để đóng góp thêm cho các con\", bà rơm rớm nước mắt nói."
+    },
+    {
+     "t": "p",
+     "text": "Trung tâm từng có những học sinh nhận học bổng Tiếp sức đến trường của Báo Tuổi Trẻ . Bà Nhung nhắc đến Lù Thị Dua, học tại Phân hiệu Đại học Thái Nguyên tại Lào Cai, từng nhận học bổng và có kết quả học tập tốt."
+    },
+    {
+     "t": "p",
+     "text": "\"Những suất học bổng như vậy không chỉ giúp các em có thêm tiền trang trải mà còn tạo động lực để các em tin rằng hành trình học tập của mình luôn có người đồng hành\", bà nói."
+    }
+   ]
+  },
+  {
+   "id": "2fcf9b680f49",
+   "order": 20,
+   "slug": "chuyen-xe-om-bua-com-cho-tro-mien-phi-suot-30-nam-tiep-suc-t",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chuyến xe ôm, bữa cơm, chỗ trọ… miễn phí suốt 30 năm tiếp sức thí sinh",
+   "sapo": "Năm 2026 đánh dấu 30 năm Chương trình Hỗ trợ thí sinh thi đại học, cao đẳng và 25 năm Chương trình \"Tiếp sức mùa thi\" - một hành trình bắt đầu từ sự sẻ chia và được tiếp nối bằng tình người.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/chuyen-xe-om-bua-com-cho-tro-mien-phi-suot-30-nam-tiep-suc-thi-sinh-185260926202555066.htm",
+   "published": "2026-09-27T00:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1441,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-27/2fcf9b680f49-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-27/2fcf9b680f49-0.jpg",
+     "caption": "Nhiều tổ chức, cá nhân đã nhận được tri ân và nhận bằng khen của T.Ư Hội Sinh viên Việt Nam vì có thành tích xuất sắc trong Chương trình Tiếp sức mùa thi",
+     "w": 1280,
+     "h": 764
+    },
+    {
+     "src": "img/2026-09-27/2fcf9b680f49-1.jpg",
+     "caption": "Các thế hệ \"Tiếp sức mùa thi\" hội ngộ trong lễ kỷ niệm",
+     "w": 1280,
+     "h": 717
+    },
+    {
+     "src": "img/2026-09-27/2fcf9b680f49-2.jpg",
+     "caption": "Cô Đỗ Thị Thu bồi hồi nhớ về hơn 14 năm đồng hành cùng thí sinh với những suất trọ miễn phí",
+     "w": 1280,
+     "h": 813
+    },
+    {
+     "src": "img/2026-09-27/2fcf9b680f49-3.jpg",
+     "caption": "Chú Thạch Ngọc Khanh là một trong những cô chú trong đội xe ôm miễn phí ở Bến xe miền Đông",
+     "w": 1280,
+     "h": 809
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chiều 26.9, Ban Giám đốc Nhà văn hóa Sinh viên TP.HCM phối hợp với Ban Thư ký Hội Sinh viên TP.HCM tổ chức lễ kỷ niệm lần thứ 30 Chương trình Hỗ trợ thí sinh thi đại học, cao đẳng và 25 năm Chương trình \" Tiếp sức mùa thi \"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tham dự chương trình có anh Lâm Tùng, Ủy viên Ban Thường vụ T.Ư Đoàn, Phó chủ tịch thường trực T.Ư Hội Sinh viên Việt Nam; anh Ngô Minh Hải, Thành ủy viên, Phó chủ tịch Ủy ban MTTQ Việt Nam TP.HCM, Bí thư Thành đoàn TP.HCM…"
+    },
+    {
+     "t": "h",
+     "text": "Ý nghĩa vô giá từ những nhà trọ, cuốc xe ôm miễn phí…"
+    },
+    {
+     "t": "p",
+     "text": "Anh Quách Hải Đạt, Giám đốc Nhà văn hóa Sinh viên TP.HCM, cho biết 30 năm trước, từ một câu hỏi rất giản dị: Làm sao để một thí sinh từ quê lên thành phố, trong những ngày dự thi đại học, cao đẳng, không phải bơ vơ giữa một nơi xa lạ? Và thế là những hoạt động đầu tiên nhằm hỗ trợ thí sinh đã bắt đầu."
+    },
+    {
+     "t": "p",
+     "text": "\"Một tấm bản đồ. Một địa chỉ nhà trọ. Một chuyến xe. Một bữa cơm. Một lời chỉ đường. Những điều tưởng như rất nhỏ, nhưng với một người trẻ lần đầu đặt chân tới thành phố, giữa những ngày thi đầy hồi hộp và lo lắng, đôi khi chính những điều nhỏ bé ấy lại mang đến một điều vô cùng quý giá: sự yên tâm; và để các em biết rằng mình không đơn độc\", anh Đạt bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ những việc làm giản dị như thế, một hành trình dần được hình thành. Và rồi, từ năm 2001, cái tên \"Tiếp sức mùa thi\" đã trở thành một phần thân quen trong ký ức của biết bao thế hệ học sinh, sinh viên."
+    },
+    {
+     "t": "p",
+     "text": "Cũng thời điểm ấy, nhiều gia đình đã mở cửa để đón những người xa lạ. Nhớ về mùa thi đầu tiên đón các thí sinh đến nhà mình nghỉ, cô Đỗ Thị Thu (ngụ Q.6 cũ; người đã có hơn 14 năm cho thí sinh ở trọ miễn phí từ những ngày đầu tiên của chương trình) không giấu được sự xúc động. Cô Thu cho biết trước khi chương trình này tổ chức thì nhiều em đi thi không có chỗ ở, có khi phải ở trong công viên. Chính vì thế, khi nghe có chương trình hỗ trợ thí sinh, cô Thu đăng ký hỗ trợ chỗ ở miễn phí cho các em."
+    },
+    {
+     "t": "p",
+     "text": "Đã mấy chục năm trôi qua, cô Thu vẫn nhớ như in những ngày đầu. Cô kể: \"Nhà tôi không lớn, chỉ là nhà cấp 4 thôi, nhưng được cái gần trường. Do đó, nhiều phụ huynh và thí sinh, nhất là những em ở vùng sâu, vùng xa, gia đình khó khăn, được các sinh viên tình nguyện dẫn đến nhà tôi để ở miễn phí trong các ngày thi. Nhà tôi những năm đó đón rất đông thí sinh, có khi gần 100 em cùng lúc. Tôi cũng đi gõ cửa các nhà gần bên để xin thêm cho các em ở nhờ. Khi công an phường biết gia đình tôi hỗ trợ thí sinh trong chương trình cũng xuống tiếp trợ để đảm bảo an ninh, an toàn cho các em\"."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong những mùa tiếp sức đầu tiên, bên cạnh những chiếc áo tình nguyện còn có nhiều người không nằm trong bất kỳ đội hình sinh viên nào, đó là những cô chú chạy xe ôm ở bến xe. Chú Thạch Ngọc Khanh là một trong những cô chú trong đội xe ôm miễn phí ở Bến xe miền Đông ngày đó. Chú Khanh bộc bạch: \"Ngày đó không giống như bây giờ, khó khăn lắm. Khi thấy các cháu đến bến xe, chúng tôi cùng với đội hình sinh viên tình nguyện lập tức hỗ trợ. Tôi vẫn còn nhớ hình ảnh 2 cha con từ quê vào thành phố đi thi, khi lên xe tôi chở, người cha ngồi sau nói rằng \"tôi khổ lắm, chú lấy tiền xe rẻ rẻ nhé\". Nhưng ngày đó tôi chở miễn phí, cả thí sinh đi thi hay người nhà của thí sinh\"."
+    },
+    {
+     "t": "h",
+     "text": "Khi thí sinh cần, luôn có những người sẵn lòng bước tới"
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong năm 2001 ấy, có một chàng trai từ Hải Dương lần đầu vào TP.HCM dự thi đại học. Và giống như rất nhiều thí sinh ngày ấy, anh đã được tiếp sức. Một năm sau, bạn trẻ ấy - khi đó đã là sinh viên - quay trở lại, nhưng lần này anh đã đổi vai, không còn là người đi tìm sự giúp đỡ mà là người tham gia đi tiếp sức. Chàng trai ấy là anh Nguyễn Trọng Hoàng, hiện là Giám đốc điều hành Công ty TNHH bao bì Phúc Thịnh."
+    },
+    {
+     "t": "p",
+     "text": "Anh Hoàng đã có 6 năm tham gia trực tiếp tại các bến xe và Ga Sài Gòn; 11 năm là thành viên ban tổ chức, phó ban tổ chức và thường trực của Chương trình Tiếp sức mùa thi tại TP.HCM; 8 năm là đơn vị đồng hành cùng chương trình."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình có một mong ước là đã được nhận, mình sẽ trả ơn và sẽ trao cho thế hệ tiếp theo. Và cũng nhờ Chương trình Tiếp sức mùa thi mới có mình của ngày hôm nay. Và sau 25 năm đồng hành cùng chương trình, mình có một gia tài khổng lồ, đó là đại gia đình tiếp sức mùa thi. Với mình, khi nào vẫn còn chương trình thì mình sẽ vẫn tiếp tục đồng hành\", anh Hoàng khẳng định."
+    },
+    {
+     "t": "p",
+     "text": "Anh Quách Hải Đạt cho biết nhìn lại quãng thời gian ấy, điều đáng nhớ nhất với anh là được chứng kiến chương trình từng bước thay đổi cùng nhịp sống mới của thành phố, cùng các kỳ thi tuyển sinh đại học và cùng chính những người trẻ đang cần sự đồng hành."
+    },
+    {
+     "t": "p",
+     "text": "Phát biểu tại chương trình, anh Nguyễn Đăng Khoa, Phó bí thư Thành đoàn, Chủ tịch Hội Sinh viên TP.HCM, cho biết câu chuyện \"Tiếp sức mùa thi\" được nối dài bằng những tấm lòng san sẻ yêu thương, bao dung và nghĩa tình của người dân thành phố. Theo anh Khoa, đối với một chương trình hay một phong trào của thanh niên thì con số 30 năm chắc hẳn là dấu mốc lớn, đáng tự hào về bước trưởng thành và dấu ấn xã hội của hoạt động ấy. Còn đối với Tiếp sức mùa thi, 30 năm là một hành trình không ngừng nghỉ để kết nối các thế hệ sinh viên, để san sẻ yêu thương và để chắp cánh cho khát vọng tri thức."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian tới, anh Khoa cho rằng cần đẩy mạnh chuyển đổi số trong \"Tiếp sức mùa thi\"; từng bước xây dựng dữ liệu phục vụ điều phối lực lượng, quản lý nguồn lực và theo dõi các trường hợp cần hỗ trợ; phát triển cẩm nang số, bản đồ hỗ trợ, kênh tư vấn và công cụ hỏi - đáp chính xác, dễ tiếp cận…"
+    },
+    {
+     "t": "p",
+     "text": "Bà Trần Phương Nga, CEO Tập đoàn Thiên Long, cho biết suốt 25 năm Chương trình Tiếp sức mùa thi đã thay đổi cùng nhu cầu của các thế hệ thí sinh. Từ hỗ trợ đi lại, chỗ trọ những ngày đầu, chương trình ngày nay mở rộng sang tư vấn tâm lý, sức khỏe, dinh dưỡng, ôn tập và học bổng. Cách tiếp sức có thể thay đổi, nhưng tinh thần thì vẫn vậy: giảm bớt một phần áp lực và trao cho các em sự an tâm để bước vào kỳ thi với điều kiện tốt nhất."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều tôi trân trọng nhất là Tiếp sức mùa thi chưa bao giờ chỉ thuộc về một tổ chức hay doanh nghiệp. Chương trình được tạo nên từ sự chung tay của rất nhiều người: các tổ chức Đoàn - Hội, nhà trường, chuyên gia, doanh nghiệp, các gia đình và đặc biệt là hàng vạn tình nguyện viên qua nhiều thế hệ. Với Thiên Long, 45 năm phát triển và 25 năm đồng hành cùng chương trình cũng là một hành trình lớn lên cùng nhiều thế hệ học sinh, sinh viên Việt Nam. Có lẽ điều ý nghĩa nhất là nhiều thí sinh từng được tiếp sức năm nào, sau này lại trở thành người tiếp sức cho thế hệ tiếp theo. Chính sự tiếp nối ấy làm nên giá trị bền vững của chương trình\", bà Nga chia sẻ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2560 @@
+{
+ "date": "2026-09-26",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-09-26T05:53:11+07:00",
+ "sections": [
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  }
+ ],
+ "articles": [
+  {
+   "id": "28ce216c58db",
+   "order": 1,
+   "slug": "google-sap-giai-duoc-bai-toan-dua-trung-tam-du-lieu-ai-len-k",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Google sắp giải được bài toán đưa trung tâm dữ liệu AI lên không gian",
+   "sapo": "Google sắp phóng vệ tinh mang chip AI lên quỹ đạo thấp của Trái đất để nghiên cứu cơ hội xây dựng hạ tầng điện toán AI quy mô lớn trong không gian.",
+   "author": "THANH HIỆP",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/google-sap-giai-duoc-bai-toan-dua-trung-tam-du-lieu-ai-len-khong-gian-100260925100548536.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 484,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/28ce216c58db-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/28ce216c58db-0.jpg",
+     "caption": "Vệ tinh nguyên mẫu mang chip AI của Google dự kiến được đưa lên quỹ đạo thấp của Trái đất để thử nghiệm khả năng hoạt động trong không gian - Ảnh minh họa: Magnific",
+     "w": 1280,
+     "h": 717
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo Hãng tin Reuters ngày 24-9, Google thông báo vệ tinh nguyên mẫu của hãng sẽ được phóng vào tuần tới, trong sứ mệnh thử nghiệm đầu tiên trên quỹ đạo của dự án \"Suncatcher\"."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một dự án nghiên cứu nhằm tìm hiểu liệu không gian có thể trở thành nơi đặt hạ tầng điện toán trí tuệ nhân tạo (AI) quy mô lớn hay không."
+    },
+    {
+     "t": "p",
+     "text": "Sứ mệnh này dự kiến được thực hiện trong chuyến phóng Transporter-18 sắp tới của SpaceX, với sự phối hợp của công ty vệ tinh Planet Labs."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi được phóng, vệ tinh nguyên mẫu mang theo các bộ xử lý Tensor (TPU) của Google sẽ được đưa vào quỹ đạo thấp của Trái đất (LEO)."
+    },
+    {
+     "t": "p",
+     "text": "Google sẽ đánh giá khả năng hoạt động ổn định của các chip AI trong môi trường không gian, từ khả năng chịu lực trong quá trình phóng đến tác động của bức xạ và nhiệt độ khắc nghiệt."
+    },
+    {
+     "t": "p",
+     "text": "Bức xạ trong không gian có thể làm gián đoạn hoặc ảnh hưởng đến các thiết bị điện tử, thậm chí gây ra những lỗi dữ liệu được gọi là \"bit flip\" (một bit dữ kiệu bị thay đổi từ 0 thành 1 hoặc ngược lại ngoài ý muốn)."
+    },
+    {
+     "t": "p",
+     "text": "Google cho biết hãng đã thử nghiệm các chip TPU khi chạy các tác vụ AI tại một cơ sở của Đại học California. Tuy nhiên, hãng vẫn cần đưa chip lên quỹ đạo để kiểm tra khả năng hoạt động trong môi trường không gian thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Một nội dung khác của sứ mệnh là đánh giá thiết kế làm mát các chip AI tiêu thụ nhiều điện năng trong môi trường chân không của không gian."
+    },
+    {
+     "t": "p",
+     "text": "Do không thể sử dụng phương pháp làm mát bằng luồng không khí thông thường, Google sẽ kết hợp các ống dẫn nhiệt với bộ tản nhiệt để làm mát các chip."
+    },
+    {
+     "t": "p",
+     "text": "Google chia sẻ thêm sứ mệnh Suncatcher đầu tiên chủ yếu nhằm thu thập dữ liệu trên quỹ đạo và tìm ra những vấn đề có thể xảy ra, chứ chưa nhằm chứng minh một trung tâm dữ liệu có thể hoạt động trong không gian."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ Google, các công ty như SpaceX và Starcloud cũng đang theo đuổi kế hoạch triển khai các trung tâm dữ liệu trên quỹ đạo thấp của Trái đất."
+    },
+    {
+     "t": "p",
+     "text": "Các kế hoạch này đặt mục tiêu tận dụng ánh sáng Mặt trời gần như liên tục trong không gian để cung cấp điện cho các hệ thống AI, đồng thời giảm phụ thuộc vào nguồn điện trên Trái đất."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các chuyên gia nhận định ý tưởng trên vẫn còn cần nhiều năm nữa mới có thể khả thi về mặt thương mại, do chi phí phóng cao, những hạn chế về kỹ thuật và tình trạng tắc nghẽn trong sản xuất vệ tinh."
+    }
+   ]
+  },
+  {
+   "id": "76de8a753d84",
+   "order": 2,
+   "slug": "phat-hien-noi-khoi-nguon-cua-thanh-paris",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Phát hiện nơi khởi nguồn của thành Paris?",
+   "sapo": "Thị trấn cổ Lutèce của người Gaulois, nơi thành Paris được xây dựng, từng được tướng La Mã Julius Caesar nhắc đến, nhưng chưa có bằng chứng xác thực nào cho thấy nơi này thực sự tồn tại cho đến mới đây.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/phat-hien-noi-khoi-nguon-cua-thanh-paris-185260925093645168.htm",
+   "published": "2026-09-25T03:24:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 469,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/76de8a753d84-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/76de8a753d84-0.jpg",
+     "caption": "Phần còn lại của một bức tường được cho thuộc về thị trấn cổ Lutèce",
+     "w": 1090,
+     "h": 727
+    },
+    {
+     "src": "img/2026-09-26/76de8a753d84-1.jpg",
+     "caption": "Di tích khảo cổ được phát hiện gần Nhà thờ Đức Bà Paris",
+     "w": 1089,
+     "h": 724
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khảo cổ học đã khai quật được một bức tường cổ bị cháy gần Nhà thờ Đức Bà Paris ở Pháp, trong một phát hiện mang tính đột phá có thể mở đường cho việc tìm thấy thị trấn cổ Lutèce ."
+    },
+    {
+     "t": "p",
+     "text": "Tương truyền một bộ tộc Gaulois có tên Parisii đã đốt cháy chính thành trì của mình là Lutèce vào năm 52 trước Công nguyên nhằm ngăn nơi này rơi vào tay quân đội La Mã. Và tướng Julius Caesar sinh thời từng nhắc đến thị trấn đó."
+    },
+    {
+     "t": "p",
+     "text": "Bên trên tàn tích của Lutèce, người đời sau đã xây dựng nên thành Paris."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng ta có lẽ đang đứng trước một trong những vết tích quan trọng nhất từng được phát hiện trong việc tìm hiểu Lutèce của người Gaulois\", Bộ trưởng Văn hóa Pháp Catherine Pégard nhận định trong bài viết đăng trên website của bộ."
+    },
+    {
+     "t": "p",
+     "text": "Bộ Văn hóa Pháp gọi đây là \"đột phá khảo cổ lớn\"."
+    },
+    {
+     "t": "h",
+     "text": "Dấu tích công trình từ thời Gaulois"
+    },
+    {
+     "t": "p",
+     "text": "Bức tường cổ bị cháy được tìm thấy tại sân trong của bệnh viện Hôtel-Dieu trong quá trình cải tạo và tái cấu trúc công trình ở gần Nhà thờ Đức Bà Paris."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu ban đầu chỉ hy vọng có thể tìm được dấu vết của đời sống sinh hoạt của người xưa, đường sá, hoặc nơi ở của người thời Trung Cổ."
+    },
+    {
+     "t": "p",
+     "text": "Thay vào đó, họ phát hiện phần bị đốt cháy của một bức tường dài 20 m làm bằng đá và gỗ, giống như các công trình phòng thủ của người Gaulois."
+    },
+    {
+     "t": "p",
+     "text": "Các cuộc khai quật tiếp theo giúp tìm ra phần còn lại của một công trình bằng gỗ nằm phía trước bức tường, đã bị thiêu rụi trong một vụ cháy."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một mũi giáo của người Gaulois cũng được tìm thấy dưới chân tường. Đội ngũ khảo cổ còn phát hiện một phần nền làm từ cát và sỏi dày khoảng 2 m tại khu vực, từ đó giúp củng cố giả thuyết nơi này từng tồn tại của một công trình phòng thủ quy mô lớn từ thời cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "\"Kiến trúc của bức tường, với những khối đá lớn và hệ thống dầm gỗ đan chéo, khiến chúng tôi lập tức nghĩ đến một bức tường theo cách xây dựng truyền thống của người Gaulois\", theo bà Dorothée Chaoui-Derieux, chuyên gia phụ trách di sản và quản lý tại Cơ quan Khảo cổ học khu vực (DRAC) Île-de-France."
+    },
+    {
+     "t": "p",
+     "text": "Các kết quả nghiên cứu ban đầu cho thấy vật liệu gỗ của tường có niên đại từ 200 trước Công nguyên đến 10 trước Công nguyên."
+    },
+    {
+     "t": "p",
+     "text": "Khám phá trên có thể là dấu vết khảo cổ đầu tiên về một khu định cư chính của bộ tộc Gaulois cổ đại."
+    }
+   ]
+  },
+  {
+   "id": "17739149df82",
+   "order": 3,
+   "slug": "tai-hien-doi-song-la-ma-co-dai-tai-pompeii-nhan-ngay-di-san",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Tái hiện đời sống La Mã cổ đại tại Pompeii nhân Ngày Di sản châu Âu",
+   "sapo": "Nhân ngày Di sản châu Âu 2026, Công viên Khảo cổ Pompeii, gần thành phố Naples của Italy, sẽ tổ chức hàng loạt hoạt động tái hiện lịch sử và đời sống La Mã cổ đại trong hai ngày 26 và 27-9.",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/tai-hien-doi-song-la-ma-co-dai-tai-pompeii-nhan-ngay-di-san-chau-au-1758203.html",
+   "published": "2026-09-25T11:03:37+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 488,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/17739149df82-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-09-26/17739149df82-0.jpg",
+     "caption": "Tạo hình các đấu sĩ La Mã cổ đại. Ảnh: Pompeii Archaeological Park",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/17739149df82-1.jpg",
+     "caption": "Tái hiện các nghi lễ văn hoá La Mã cổ đại. Ảnh: Pompeii Archaeological Park",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/17739149df82-2.jpg",
+     "caption": "Du khách trải nghiệm khu vực tập luyện của đấu sĩ La Mã cổ đại. Ảnh: Pompeii Archaeological Park",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/17739149df82-3.jpg",
+     "caption": "Khu vực đấu trường, nơi các võ sĩ La Mã cổ đại chiến đấu. Ảnh: Pompeii Archaeological Park",
+     "w": 975,
+     "h": 731
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Pompeii từng là một đô thị La Mã sầm uất trước khi bị chôn vùi sau vụ phun trào núi lửa Vesuvius năm 79. Lớp tro và đá núi lửa đã bảo tồn nhiều công trình, đường phố, tranh tường và vật dụng sinh hoạt. Các cuộc khai quật bắt đầu từ giữa thế kỷ XVIII và tiếp tục đến nay."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1997, Pompeii cùng các di chỉ Herculaneum và Torre Annunziata, đều nằm quanh vịnh Naples ở miền nam Italy, được UNESCO công nhận là Di sản thế giới."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chương trình năm nay mang chủ đề “Bảo vệ di sản. Làm mới, chống chịu, tái sáng tạo”, với các hoạt động tái hiện, trải nghiệm và biểu diễn tại Pompeii cùng nhiều địa điểm khảo cổ lân cận."
+    },
+    {
+     "t": "p",
+     "text": "Điểm nhấn ngày 26-9 là chương trình “Dies in Arena” (Một ngày nơi đấu trường), đưa du khách tìm hiểu thế giới của các đấu sĩ La Mã. Các hoạt động giới thiệu ý nghĩa văn hóa, chính trị và xã hội của những cuộc giao đấu trong thế kỷ I, cùng quá trình huấn luyện, trang bị, nghi lễ và hệ thống thứ bậc của các đấu sĩ."
+    },
+    {
+     "t": "p",
+     "text": "Tại khu Quadriporticus gần các nhà hát, không gian trường đào tạo đấu sĩ được tái hiện để du khách tìm hiểu các loại đấu sĩ và cách họ chuẩn bị trước khi bước vào đấu trường."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Buổi chiều, một đoàn diễu hành sẽ đi qua các tuyến phố cổ tới Đấu trường Pompeii. Tại đây, bốn cặp đấu sĩ biểu diễn những hình thức giao đấu khác nhau, trong khi khán giả được tham gia đánh giá kết quả các trận đấu theo cách thức mô phỏng thời La Mã cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 27-9, chương trình tiếp tục với Ludi Pompeiani, gồm các màn múa lịch sử, hoạt động của đấu sĩ và lính lê dương, cùng những nghi lễ tái hiện việc giải phóng nô lệ và đám cưới theo phong tục La Mã."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Các địa điểm khảo cổ lân cận cũng tổ chức nhiều hoạt động riêng. Tại Boscoreale, du khách có thể tìm hiểu nghề thủ công, làm đẹp, y dược và tiền tệ thời La Mã thông qua các màn trình diễn và lớp thực hành."
+    },
+    {
+     "t": "p",
+     "text": "Ở Villa San Marco tại Stabia, chương trình “Rectina! The day the sky fell on Pompeii” (Rectina! Ngày bầu trời sụp xuống Pompeii) tái hiện câu chuyện về ngày núi lửa Vesuvius phun trào, qua đó đưa người xem trở lại những giờ phút cuối cùng của các đô thị quanh vịnh Naples."
+    },
+    {
+     "t": "p",
+     "text": "Tại Villa của Poppaea ở Oplontis, các hoạt động ngày 27-9 giới thiệu đời sống thời cổ đại qua sân khấu, âm nhạc, nhà tắm, thể thao, mỹ phẩm và trang sức. Buổi chiều chuyển sang chủ đề hàng hải và hoạt động buôn bán rượu vang, với các mô hình phục dựng tàu La Mã."
+    }
+   ]
+  },
+  {
+   "id": "ccb10fca839b",
+   "order": 4,
+   "slug": "viet-nam-lan-dau-gianh-huy-chuong-canoeing-o-asiad",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Việt Nam lần đầu giành huy chương canoeing ở ASIAD",
+   "sapo": "Nhật Bản Nguyễn Thị Hương và Diệp Thị Hương đứng thứ ba nội dung kayak đôi nữ 500 m, mang về tấm huy chương đầu tiên cho đua thuyền canoeing Việt Nam trong lịch sử tham dự ASIAD.",
+   "author": "Xuân Bình",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/viet-nam-lan-dau-gianh-huy-chuong-canoeing-o-asiad-5124675.html",
+   "published": "2026-09-25T04:52:03+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 648,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/ccb10fca839b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-26/ccb10fca839b-0.jpg",
+     "caption": "Nguyễn Thị Hương (ngoài cùng bên phải) và Diệp Thị Hương (thứ hai từ bên phải) nhận HC đồng canoeing tại hồ Miyoshi, tỉnh Aichi, Nhật Bản sáng 25/9/2026. Ảnh: Quý Lượng",
+     "w": 1020,
+     "h": 765
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhật Bản Nguyễn Thị Hương và Diệp Thị Hương đứng thứ ba nội dung kayak đôi nữ 500 m, mang về tấm huy chương đầu tiên cho đua thuyền canoeing Việt Nam trong lịch sử tham dự ASIAD."
+    },
+    {
+     "t": "p",
+     "text": "Sáng 25/9, Nguyễn Thị Hương và Diệp Thị Hương cán đích thứ ba ở chung kết kayak đôi nữ 500 m môn canoeing tại hồ Miyoshi, với thời gian 1 phút 57 giây 255. Thành tích này giúp hai tay chèo Việt Nam giành HC đồng đầu tiên trong lịch sử của Đoàn Thể thao Việt Nam tại Á vận hội."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cặp Việt Nam về sau Sun Mengya và Ma Yanan của Trung Quốc, hai VĐV giành HC vàng với thành tích 1 phút 54 giây 700. Uzbekistan đoạt HC bạc với thời gian 1 phút 56 giây 419."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng cách giữa Việt Nam và đội giành HC vàng là 2,555 giây. Trong khi đó, hai tay chèo Việt Nam chỉ chậm hơn đội Uzbekistan 0,836 giây."
+    },
+    {
+     "t": "p",
+     "text": "Canoeing là môn thể thao đua thuyền sử dụng mái chèo, trong đó VĐV thi đấu trên đường đua nước phẳng ở các cự ly khác nhau. Tại ASIAD, canoeing gồm các nội dung kayak và canoe, với hình thức thi đấu đơn, đôi hoặc đồng đội. Ở nội dung kayak, VĐV sử dụng mái chèo hai đầu và ngồi trong thuyền."
+    },
+    {
+     "t": "p",
+     "text": "Canoeing và rowing đều là các môn đua thuyền nhưng khác cách chèo. Ở canoeing, VĐV dùng mái chèo một hoặc hai đầu và hướng mặt về phía trước; rowing dùng mái chèo một đầu, VĐV quay lưng về hướng di chuyển."
+    },
+    {
+     "t": "p",
+     "text": "Việt Nam lần đầu dự canoeing ở ASIAD năm 2006 với 9 VĐV tại Doha, Qatar. Kể từ đó, đội còn góp mặt năm 2010, 2018 và 2023, nhưng đều không giành được huy chương nào ở đấu trường này."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Hương, 25 tuổi và Diệp Thị Hương, 23 tuổi, từng giành HC vàng SEA Games 33. Tại ASIAD 2026 , hai VĐV tiếp tục đứng chung thuyền ở nội dung kayak đôi nữ 500 m và giành quyền vào chung kết tranh huy chương."
+    },
+    {
+     "t": "p",
+     "text": "Canoeing Việt Nam có ba nội dung trong buổi sáng 25/9. Bên cạnh phần thi của Nguyễn Thị Hương và Diệp Thị Hương, Huỳnh Cao Minh và Đỗ Minh Thuận về cuối ở chung kết kayak đôi nam 500 m."
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung kayak bốn nữ, Hoàng Thị Hường, Bùi Mai Hạnh, Hoàng Thị Lâm và Đỗ Thị Thanh Thảo cũng không giành được huy chương khi xếp thứ sáu chung cuộc."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích của Nguyễn Thị Hương và Diệp Thị Hương là huy chương duy nhất của canoeing cũng như Đoàn Thể thao Việt Nam sáng 25/9. Tính đến 11h40 sáng nay, giờ Hà Nội, Đoàn đã giành 1 HC vàng, 1 bạc và 16 đồng, đứng thứ 20 trên bảng tổng sắp."
+    },
+    {
+     "t": "p",
+     "text": "Ở môn bơi vòng loại sáng nay, Việt Nam có bốn VĐV giành quyền vào chung kết. Nguyễn Huy Hoàng xếp thứ ba vòng loại 400m tự do nam với 3 phút 50 giây 65. Trần Văn Nguyễn Quốc xếp thứ sáu với 3 phút 51 giây 88. Dương Văn Hoàng Quy đứng thứ chín 200m bướm nam với 2 phút 01 giây 83. Phạm Thanh Bảo xếp thứ tám 50m ếch nam với 27 giây 72. Nguyễn Quang Thuấn và Nguyễn Thúy Hiền không vào chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Buổi chiều và tối 25/9 tiếp tục là thời gian thi đấu dày đặc của Việt Nam. Từ 13h, Trịnh Hải Khang tranh chung kết nhảy chống nam môn thể dục dụng cụ, còn đội bóng đá nữ gặp Trung Quốc ở tứ kết. Các nội dung bơi chung kết diễn ra từ 15h, trong khi điền kinh có nhiều lượt thi đấu từ 18h11. U23 Việt Nam gặp Hàn Quốc ở tứ kết bóng đá nam lúc 17h30."
+    }
+   ]
+  },
+  {
+   "id": "bfa81accf523",
+   "order": 5,
+   "slug": "vdv-thai-lan-tro-thanh-nguoi-chay-nhanh-nhat-chau-a-gianh-hc",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "VĐV Thái Lan trở thành người chạy nhanh nhất châu Á, giành HCV Asiad",
+   "sapo": "Người giành HCV nội dung chạy 100m nam ở Olympic thường được gọi là",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/vdv-thai-lan-tro-thanh-nguoi-chay-nhanh-nhat-chau-a-gianh-hcv-asiad-100260925202652499.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 420,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/bfa81accf523-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/bfa81accf523-0.jpg",
+     "caption": "Chân chạy Thái Lan Puripol Boonson khiến châu Á nể phục - Ảnh: THAIRATH",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/bfa81accf523-1.jpg",
+     "caption": "Boonson ăn mừng khi về đích và giành HCV 100m Asiad - Ảnh: THINKCURVE",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tối 25-9, Puripol Boonson bước vào lượt chạy chung kết nội dung 100m nam ở Asiad 2026. Làng điền kinh Thái Lan dự đoán anh sẽ là người chiến thắng."
+    },
+    {
+     "t": "p",
+     "text": "Đó không hề là sự tự tin thái quá. 3 năm trước tại Hàng Châu (Trung Quốc), Boonson đã về nhì nội dung 100m nam, chỉ chịu thua VĐV chủ nhà Xie Zhenye. Thông số của Boonson khi đó là 10,02 giây, chỉ kém đối thủ 0,05 giây."
+    },
+    {
+     "t": "p",
+     "text": "3 năm sau, Xie Zhenye vẫn tham gia. Nhưng ở tuổi 33, việc chạy dưới 10 giây là gần như không thể với siêu sao Trung Quốc . 100m nam trở thành nội dung điền kinh hiếm hoi mà Trung Quốc không đủ khả năng cạnh tranh top 3."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng vẫn còn đó rất nhiều đối thủ mạnh từ Oman, Hàn Quốc, Malaysia... Nhưng tất cả đều không thể chạy nhanh hơn Boonson trong buổi tối 25-9."
+    },
+    {
+     "t": "p",
+     "text": "Thậm chí không một ai trong số 7 người còn lại của cuộc đua có thể về đích dưới 10 giây. Boonson trái lại, chỉ mất 9,9 giây để cán đích, qua đó đoạt tấm HCV lịch sử cho điền kinh Thái Lan."
+    },
+    {
+     "t": "p",
+     "text": "Sau hơn 50 năm, kể từ chiến công của huyền thoại Anat Ratanapol khi giành HCV tại Asiad 1974, Thái Lan mới lại sở hữu nhà vô địch cự ly 100m, tức người chạy nhanh nhất châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Chiến công của Boonson không chỉ đáng nể ở góc độ tấm HCV, mà còn ở thông số cực kỳ ấn tượng. Lần thứ ba của Asiad năm nay, Boonson chạy 100m dưới 10 giây. Ở vòng loại, thành tích của anh là 9,95, rồi 9,91 ở bán kết, và giờ đây là 9,90 ở chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Hoàn toàn không có gì để nghi ngờ nữa, rằng Boonson đang là một trong những chân chạy xuất sắc nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Để đối chiếu, VĐV về thứ 8 đợt chạy chung kết Olympic Paris 2024 là Oblique Seville đạt thông số 9,91 giây. Như vậy Boonson lúc này thực sự đủ sức lọt vào top 8 thế giới, điều mà chẳng ai dám tin vào nhiều năm trước."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Boonson năm nay mới 20 tuổi, nhận được sự đầu tư vô cùng nghiêm túc của thể thao Thái Lan. Anh hoàn toàn đủ tiềm năng để tiếp tục đẩy mạnh thành tích của mình đến cột mốc 9,80 giây trong vài năm tới, đủ sức để cạnh tranh danh hiệu \"Người chạy nhanh nhất hành tinh\"."
+    }
+   ]
+  },
+  {
+   "id": "ebce58c63848",
+   "order": 6,
+   "slug": "ngoi-sao-thai-lan-hai-lan-pha-ky-luc-chay-100m-nam-tai-asiad",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ngôi sao Thái Lan hai lần phá kỷ lục chạy 100m nam tại Asiad 20",
+   "sapo": "(Dân trí) - Vận động viên (VĐV) đội tuyển điền kinh Thái Lan, Phuripol Boonsorn gây ấn tượng khi giành huy chương vàng (HCV) ở nội dung chạy 100m nam, đồng",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/ngoi-sao-thai-lan-hai-lan-pha-ky-luc-chay-100m-nam-tai-asiad-20-20260925213723814.htm",
+   "published": "2026-09-25T14:43:36+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 503,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/ebce58c63848-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/ebce58c63848-0.jpg",
+     "caption": "VĐV Puripol Boonsorn giành HCV chạy 100m nam và phá kỷ lục Asiad (Ảnh: Sohu).",
+     "w": 1280,
+     "h": 787
+    },
+    {
+     "src": "img/2026-09-26/ebce58c63848-1.jpg",
+     "caption": "Ngôi sao Thái Lan hai lần phá kỷ lục chạy 100m nam tại Asiad 20 - 2",
+     "w": 843,
+     "h": 519
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Vận động viên (VĐV) đội tuyển điền kinh Thái Lan, Phuripol Boonsorn gây ấn tượng khi giành huy chương vàng (HCV) ở nội dung chạy 100m nam, đồng thời phá kỷ lục Asiad với thành tích 9,90 giây."
+    },
+    {
+     "t": "p",
+     "text": "Trước vòng chung kết nội dung chạy 100m nam tại Asiad 20 diễn ra ở Aichi-Nagoya (Nhật Bản) ngày 25/9, VĐV Puripol Boonsorn đã giành vị trí nhất vòng bán kết với thời gian 9,91 giây. Thành tích này của anh đã phá vỡ cả kỷ lục quốc gia Thái Lan và kỷ lục của Asiad (kỷ lục tại Thái Lan là 9,94 giây và kỷ lục ở Asiad là 9,92 giây)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên khi bước vào trận chung kết, Puripol Boonsorn tiếp tục chói sáng khi phá vỡ kỷ lục của chính mình với thành tích 9,90 giây, giành HCV đồng thời lập nên kỷ lục mới tại Đại hội thể thao châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Tấm huy chương bạc (HCB) và huy chương đồng (HCĐ) đều thuộc về các VĐV của Oman, lần lượt là Ali Albalouchi với thành tích 10,04 giây và Malham Al-Balouchi (10,11 giây)."
+    },
+    {
+     "t": "p",
+     "text": "Puripol, sinh năm 2006, được xem là một trong những tài năng trẻ của châu Á ở các cự ly ngắn. Anh nổi lên từ SEA Games 2022 tổ chức ở Việt Nam khi giành hat-trick HCV ở các nội dung 100m, 200m và tiếp sức 4x100m. Năm 2022, Puripol từng lập kỷ lục U18 và U20 châu Á, trở thành VĐV trẻ có thông số tốt thứ ba thế giới, chỉ sau Erriyon Knighton và Usain Bolt thời tuổi teen."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, Puripol tiếp tục duy trì phong độ cao khi đoạt HCB 100m và HCB tiếp sức 4x100m tại giải vô địch châu Á ở Gumi; HCB 100m tại Đại hội Thể thao sinh viên Thế giới. Đến SEA Games 2023, anh trở thành VĐV Đông Nam Á đầu tiên chạy 100m dưới 10 giây, đồng thời lần thứ hai giành hat-trick HCV 100m, 200m và tiếp sức 4x100m nam."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, HCV của Puripol cũng là HCV điền kinh đầu tiên của Thái Lan tại đại hội thể thao châu Á sau 16 năm, kể từ khi đội tiếp sức 4x100m nữ của họ giành HCV năm 2010."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trước chung kết 100m nam, nội dung 100m nữ cũng chứng kiến kỷ lục Asiad mới sau 24 năm. Chân chạy 17 tuổi Chen Yujie của Trung Quốc cán đích đầu tiên với thành tích 11,6 giây. Kỷ lục cũ là 11,15 giây thuộc về Susanthika Jayasinghe của Sri Lanka vào năm 2002."
+    },
+    {
+     "t": "p",
+     "text": "VĐV người Singapore, Pereira dù lập kỷ lục cá nhân tốt nhất mùa giải của cô nhưng chỉ giành HCB ở Asiad 20 với thành tích 11,21 giây. HCĐ thuộc về VĐV Odion của Bahrain với thành tích 11,33 giây."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, đây là lần thứ hai liên tiếp đội tuyển điền kinh Trung Quốc giành HCV nội dung chạy 100m nữ ở đại hội thể thao châu Á."
+    }
+   ]
+  },
+  {
+   "id": "1c77df46dc26",
+   "order": 7,
+   "slug": "tia-chop-thai-lan-lien-tiep-pha-ky-luc-asiad-gianh-hcv-lich",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "'Tia chớp' Thái Lan liên tiếp phá kỷ lục ASIAD, giành HCV lịch sử chạy 100m",
+   "sapo": "Puripol Boonson tiếp tục tạo dấu ấn tại ASIAD 2026 khi phá kỷ lục 100m nam do chính mình thiết lập ở bán kết, giúp Thái Lan lần đầu giành HCV Á vận hội ở cự ly tốc độ này.",
+   "author": "Thiên Bình",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/tia-chop-thai-lan-lien-tiep-pha-ky-luc-asiad-gianh-hcv-lich-su-chay-100m-2557763.html",
+   "published": "2026-09-25T13:49:57+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 421,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/1c77df46dc26-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 669
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-0.jpg",
+     "caption": "Boonson làm nên lịch sử cho điền kinh Thái Lan - Ảnh: Tam Ninh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-1.jpg",
+     "caption": "Kỷ lục mới được Boonson thiết lập (ảnh chụp màn hình)",
+     "w": 1280,
+     "h": 785
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-2.jpg",
+     "caption": "Kết quả chung kết chạy 100m nam ASIAD 2026 (ảnh chụp màn hình)",
+     "w": 764,
+     "h": 615
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-3.jpg",
+     "caption": "VĐV 17 tuổi làm dậy sóng đường đua xanh, phá kỷ lục thế giới tại ASIAD 20",
+     "w": 951,
+     "h": 634
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-4.jpg",
+     "caption": "VĐV 16 tuổi Thái Lan hạ cựu số 1 bóng bàn thế giới người Trung Quốc",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-5.jpg",
+     "caption": "Bóng bàn Nhật Bản gây địa chấn, thắng Trung Quốc giành HCV ASIAD",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-6.jpg",
+     "caption": "Bảng tổng sắp huy chương ASIAD 2026 hôm nay 25/9: Việt Nam có thêm HCĐ",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/1c77df46dc26-7.jpg",
+     "caption": "Kiệt sức giành HCĐ, VĐV Rowing Việt Nam lên cáng cứu thương ở Asiad",
+     "w": 973,
+     "h": 649
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chung kết chạy 100m nam ASIAD 2026 chứng kiến màn trình diễn xuất sắc của chân chạy người Thái Lan Puripol Boonson. Với phong độ ấn tượng, VĐV sinh năm 2006 cán đích đầu tiên với thành tích 9 giây 90, qua đó giành huy chương vàng và tiếp tục phá kỷ lục Á vận hội."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, thành tích ở chung kết của Boonson nhanh hơn đúng 0,01 giây so với kỷ lục 9 giây 91 mà chính anh vừa thiết lập tại vòng bán kết trước đó. Đây là màn trình diễn khẳng định sự tiến bộ vượt bậc của tài năng trẻ đến từ Thái Lan trên đường chạy tốc độ châu Á."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trước khi bước vào chung kết, Boonson đã gây chấn động khi phá kỷ lục ASIAD ở bán kết. Anh cán đích với thời gian 9 giây 91, vượt qua cột mốc 9 giây 92 do huyền thoại Trung Quốc Su Bingtian thiết lập tại ASIAD 2018."
+    },
+    {
+     "t": "p",
+     "text": "Ở vòng đấu này, dù chỉ có phản ứng sau tiếng súng 0,158 giây, đứng thứ ba trong nhóm bán kết, Boonson vẫn thể hiện khả năng bứt tốc ấn tượng để về nhất."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Boonson cũng là VĐV nhanh nhất vòng loại khi đạt 9 giây 95. Thành tích này cho thấy sự ổn định đáng kinh ngạc của chân chạy 20 tuổi, người đang được xem là biểu tượng mới của điền kinh Thái Lan."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Puripol Boonson từng nổi lên tại SEA Games 2021 khi giành cú hat-trick huy chương vàng ở các nội dung 100m, 200m và tiếp sức 4x100m. Sau những bước tiến mạnh mẽ trong những năm qua, anh tiếp tục khẳng định vị thế khi trở thành một trong những VĐV chạy ngắn hàng đầu châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng tại ASIAD 2026 không chỉ mang về tấm HCV lịch sử cho Thái Lan mà còn đánh dấu cột mốc mới trong sự nghiệp của Boonson, khi anh chính thức ghi tên mình vào lịch sử đường chạy 100m nam tại đấu trường châu lục. Tại SEA Games 2025, Boonson đã đi vào lịch sử điền kinh Đông Nam Á khi trở thành VĐV đầu tiên chạy 100m dưới 10 giây."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, ở chung kết chạy 100m nữ, VĐV 17 tuổi người Trung Quốc Chen Yujie là người chiến thắng để giành HCV và phá kỷ lục ASIAD 100m nữ với thành tích 11 giây 06. Kỷ lục cũ là 11 giây 15 đã tồn tại từ ASIAD Busan 2002."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    }
+   ]
+  },
+  {
+   "id": "77e5f5f72155",
+   "order": 8,
+   "slug": "vdv-thai-lan-hai-lan-pha-ky-luc-chay-100m-asiad-trong-47-phu",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "VĐV Thái Lan hai lần phá kỷ lục chạy 100m ASIAD trong 47 phút",
+   "sapo": "Nhật Bản Thần đồng điền kinh Puripol Boonson của Thái Lan giành HC vàng và hai lần phá kỷ lục chạy 100m nam tại ASIAD 2026 tối nay.",
+   "author": "Hiếu Lương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/vdv-thai-lan-hai-lan-pha-ky-luc-chay-100m-asiad-trong-47-phut-5124855.html",
+   "published": "2026-09-25T11:21:37+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 664,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/77e5f5f72155-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-26/77e5f5f72155-0.jpg",
+     "caption": "VĐV người Thái Lan Puripol Boonson thi đấu ở chung kết chạy 100m nam ASIAD 2026, trên sân Paloma Mizuho, Nagoya, Nhật Bản ngày 25/9/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-09-26/77e5f5f72155-1.jpg",
+     "caption": "VĐV người Thái Lan Puripol Boonson thi đấu ở chung kết chạy 100m nam ASIAD 2026, trên sân Paloma Mizuho, Nagoya, Nhật Bản ngày 25/9/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-09-26/77e5f5f72155-2.jpg",
+     "caption": "Kết quả chung kết chạy 100m nam ASIAD 2026. Đồ họa: Hiếu Lương (AI hỗ trợ)",
+     "w": 1020,
+     "h": 1224
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhật Bản Thần đồng điền kinh Puripol Boonson của Thái Lan giành HC vàng và hai lần phá kỷ lục chạy 100m nam tại ASIAD 2026 tối nay."
+    },
+    {
+     "t": "p",
+     "text": "Boonson bước vào bán kết tại sân vận động Paloma Mizuho với tư cách VĐV chạy nhanh nhất vòng loại, đạt 9,95 giây vào ngày 24/9. Đến hôm nay, anh thi đấu bán kết 1, có thời gian phản ứng sau súng hiệu lệnh đứng thứ ba (0,158 giây) nhưng vẫn cán đích đầu tiên với 9,91 giây."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ giành quyền vào chung kết, Boonson phá kỷ lục cá nhân 9,94 giây lập tại SEA Games 2025, và kỷ lục ASIAD 9,92 giây do Su Bingtian (Trung Quốc) lập năm 2018. Thành tích của chân chạy người Thái Lan cũng là nhanh nhất bán kết, khi không có VĐV nào chạy dưới 10 giây."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đến chung kết lúc 20h20, Boonson xuất phát chậm nhất trong 8 VĐV, nhưng bứt tốc rồi cán đích với 9,9 giây, để phá chính kỷ lục ASIAD do anh vừa lập nên trước đó 47 phút."
+    },
+    {
+     "t": "p",
+     "text": "Chân chạy 20 tuổi giúp Thái Lan có HC vàng đầu tiên ở môn điền kinh tại Á vận hội năm nay. Trước đó, Thái Lan giành 3 HC vàng teqball, cùng một HC vàng ở cưỡi ngựa, cầu mây và võ thuật tổng hợp MMA."
+    },
+    {
+     "t": "p",
+     "text": "Boonson cũng trở thành VĐV Thái Lan thứ ba trong lịch sử giành HC vàng chạy 100m nam ASIAD, sau Anat Ratanapol năm 1974 và Suchart Jairsuraparp (1978)."
+    },
+    {
+     "t": "p",
+     "text": "Trước chung kết 100m nam, nội dung 100m nữ cũng chứng kiến kỷ lục ASIAD mới sau 24 năm. Chân chạy 17 tuổi Chen Yujie của Trung Quốc cán đích đầu tiên với 11 giây 6. Kỷ lục cũ là 11 giây 15 thuộc về Susanthika Jayasinghe của Sri Lanka vào năm 2002."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Puripol Boonson, sinh năm 2006, được đánh giá là một trong những chân chạy trẻ tiến bộ nhanh nhất châu Á, sở hữu tiềm năng lớn để trở thành gương mặt hàng đầu ở cự ly ngắn những năm tới."
+    },
+    {
+     "t": "p",
+     "text": "Anh nổi lên từ SEA Games 2021 khi giành hat-trick HC vàng ở các nội dung 100m, 200m và tiếp sức 4x100m. Năm 2022, Puripol liên tục cải thiện thành tích cá nhân. Đặc biệt, việc đạt 20 giây 19 tại Almaty giúp anh lập kỷ lục U18 và U20 châu Á, trở thành VĐV trẻ có thông số tốt thứ ba thế giới, chỉ sau Erriyon Knighton và Usain Bolt thời tuổi teen."
+    },
+    {
+     "t": "p",
+     "text": "Trở lại sau chấn thương năm 2023, Puripol nhanh chóng giành HC vàng tiếp sức 4x100m tại giải vô địch châu Á, đồng thời lập kỷ lục quốc gia và kỷ lục giải (38 giây 55). Tại ASIAD 2022 ở Hàng Châu, anh đoạt HC bạc 100m với 10 giây 02."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2024 đánh dấu bước tiến lớn khi Puripol giành suất dự Olympic Paris ở cự ly 100m, đồng thời trở thành một trong hai VĐV cầm cờ cho đoàn Thái Lan. Tại Thế vận hội năm đó, anh vào bán kết và đạt 10 giây 14. Cuối năm, Puripol làm nên lịch sử khi trở thành VĐV Thái Lan đầu tiên giành huy chương tại giải U20 thế giới: HC bạc 100m (10 giây 22) và HC đồng tiếp sức 4x100m với kỷ lục U20 quốc gia (39 giây 39)."
+    },
+    {
+     "t": "p",
+     "text": "Bước sang năm 2025, Puripol tiếp tục duy trì phong độ cao: đoạt HC bạc 100m và HC bạc tiếp sức 4x100m tại giải vô địch châu Á ở Gumi; HC bạc 100m tại Đại hội Thể thao sinh viên Thế giới; giải vô địch thế giới ở Tokyo và vào tới bán kết với thành tích 10 giây 17. Đến SEA Games 33, anh trở thành VĐV Đông Nam Á đầu tiên chạy 100m dưới 10 giây, đồng thời giành hat-trick HC vàng 100m, 200m và tiếp sức 4x100m nam."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "* Bảng tổng sắp huy chương ASIAD 2026."
+    }
+   ]
+  },
+  {
+   "id": "ba971a96a6a5",
+   "order": 9,
+   "slug": "quach-thi-lan-voi-du-mau-huy-chuong-asiad-hanh-trinh-lich-su",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Quách Thị Lan với đủ màu huy chương ASIAD: Hành trình lịch sử chưa khép lại",
+   "sapo": "Quách Thị Lan đã trở thành VĐV đầu tiên và duy nhất đến thời điểm này đi vào lịch sử thể thao nước nhà khi giành đủ bộ huy chương vàng, bạc, đồng của ASIAD. Một kỳ tích của cô gái quê Thanh Hóa.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/quach-thi-lan-voi-du-mau-huy-chuong-asiad-hanh-trinh-lich-su-chua-khep-lai-18526092509384678.htm",
+   "published": "2026-09-25T02:47:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 921,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-1.jpg",
+     "caption": "Từ trái qua phải: Tạ Ngọc Tưởng, Quách Thị Lan, Nguyễn Thị Ngọc, Lưu Ngọc Phúc",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-2.jpg",
+     "caption": "Trưởng đoàn Nguyễn Hồng Minh trao thưởng cho tổ tiếp sức giành HCĐ ASIAD 20",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-3.jpg",
+     "caption": "Quách Thị Lan trên đường chạy nội dung 4x400m nam nữ",
+     "w": 888,
+     "h": 604
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-4.jpg",
+     "caption": "Cô luôn bám sát VĐV dẫn đầu của Bahrain, tạo động lực cho các đồng đội chạy sau",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-5.jpg",
+     "caption": "Cuộc đua luôn gay cấn khi Quách Thị Lan chiếm vị trí tốp đầu",
+     "w": 1159,
+     "h": 724
+    },
+    {
+     "src": "img/2026-09-26/ba971a96a6a5-6.jpg",
+     "caption": "Quách Thị Lan (sát bìa phải) trao gậy cho Lê Ngọc Phúc trước tất cả đối thủ. Phải đầy kinh nghiệm, cô mới trao hay như vậy",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "12 năm vinh quang"
+    },
+    {
+     "t": "p",
+     "text": "Quách Thị Lan xuất hiện lần đầu tại ASIAD Incheon (Hàn Quốc) năm 2014 và đã sớm gây ấn tượng mạnh với tấm HCB 400m nữ. Khi ấy, cô đã chạy cực hay, chỉ về nhì sau VĐV Bahrain gốc Nigeria Oluwakemi Adekoya. Tấm huy chương đó từng được xem là một trong những dấu ấn đáng chú ý của nữ hoàng đường chạy mới và của điền kinh Việt Nam tại xứ sở kim chi."
+    },
+    {
+     "t": "p",
+     "text": "Bốn năm sau, tại ASIAD 2018 ở Palembang (Indonesia), Quách Thị Lan tiếp tục đứng trên bục huy chương. Ban đầu, cô giành HCB nội dung 400m vượt rào và cùng các đồng đội Nguyễn Thị Oanh, Nguyễn Thị Hằng, Hoàng Thị Ngọc giành HCĐ tiếp sức 4x400m nữ. Sau đó, khi thành tích của người giành HCV Adekoya bị hủy do dùng doping, Quách Thị Lan được trao lại HCV 400m vượt rào. Từ vị trí thứ nhì, cô trở thành nhà vô địch ASIAD."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Quách Thị Lan chia sẻ cảm xúc sau khi giành HCĐ ASIAD 20 cùng đội chạy tiếp sức Việt Nam"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đó là một trong những câu chuyện đặc biệt của thể thao Việt Nam: tấm HCV không đến ngay tại thời điểm cô cán đích đầu tiên trong hồ sơ chính thức, nhưng cuối cùng vẫn thuộc về người đã chạy 55 giây 30 và phá kỷ lục quốc gia khi ấy. Sở hữu những tấm huy chương danh giá trong tay, nhưng với Quách Thị Lan cô chưa bao giờ chịu dừng lại mà vẫn muốn đóng góp nhiều hơn nữa cho điền kinh nước nhà, quan trọng là truyền lửa cho thế hệ sau."
+    },
+    {
+     "t": "p",
+     "text": "Với cô chiến thắng một lần đã khó, duy trì mình ở đẳng cấp châu lục qua nhiều năm còn khó hơn. Cơ thể thay đổi, đối thủ trẻ xuất hiện, tốc độ của đường chạy ngày càng khắc nghiệt. Vậy mà Quách Thị Lan vẫn có mặt ở sân chơi lớn và đã chứng tỏ cho mọi người thấy một khi khát khao cháy bỏng và tận lực cống hiến thì không gì là không thể. Thực tế lịch sử được viết nên bằng chính sự bền bỉ ấy."
+    },
+    {
+     "t": "p",
+     "text": "Tối 24.9 tại Nagoya, Quách Thị Lan được đưa vào đội hình chung kết 4x400m hỗn hợp nam nữ và đã thể hiện kinh nghiệm của một VĐV đã quá quen với những cuộc đua lớn, giúp đội Việt Nam duy trì vị trí cạnh tranh huy chương. Việt Nam giành HCĐ với thành tích 3 phút 14 giây 54, chỉ kém đội giành HCB 0,08 giây và đồng thời thiết lập kỷ lục quốc gia ở nội dung này."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "HCĐ trên đất Nhật Bản có thể không lấp lánh như chiếc HCV năm 2018 hay HCB năm 2014 nhưng với Quách Thị Lan, lại có một ý nghĩa rất khác. Điều này khẳng định sau nhiều năm, cô vẫn có thể đứng trên đường chạy của một kỳ ASIAD và đóng góp trực tiếp vào thành tích của đội tuyển. Ở tuổi 30, Lan không còn là cô gái trẻ từng gây bất ngờ ở Incheon năm 2014 mà giờ đây đã trở thành một trong những gương mặt giàu kinh nghiệm nhất của điền kinh Việt Nam."
+    },
+    {
+     "t": "h",
+     "text": "Hành trình vẫn chưa dừng lại."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch thi đấu của điền kinh Việt Nam tại ASIAD 2026, chung kết tiếp sức 4x400m nữ sẽ diễn ra ngày 29.9. Đây cũng là nội dung được đội tuyển Việt Nam đặt nhiều kỳ vọng, sau khi từng giành HCĐ tại ASIAD 2018 và vừa vô địch giải tiếp sức châu Á 2026. Quách Thị Lan dĩ nhiên vẫn sẽ bước vào một cuộc đua nữa, không chỉ bằng đôi chân mà bằng cả vốn kinh nghiệm tích lũy qua nhiều thế hệ VĐV."
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng nói nhất về Quách Thị Lan không nằm ở việc cô đã có đủ ba màu huy chương ASIAD. Điều đáng quý hơn là mỗi màu huy chương lại gắn với một câu chuyện khác nhau: HCB của tuổi trẻ và khát vọng, HCV của sự chờ đợi và một biến động đặc biệt, còn HCĐ mới nhất và cũng là HCĐ đồng đội thứ 2 của cô là dấu ấn của kinh nghiệm và sự bền bỉ."
+    },
+    {
+     "t": "p",
+     "text": "Từ Incheon 2014 đến Nagoya 2026, hơn một thập kỷ đã trôi qua, đường chạy đã thay đổi, những đối thủ đã thay đổi, các thế hệ đồng đội cũng thay đổi. Chỉ có tinh thần của Quách Thị Lan vẫn vậy: bước lên đường chạy, trao hết những gì mình có và không bỏ cuộc. Chỉ riêng cách cô bám đuổi những đôi chân xé gió của các VĐV Bahrain, Ấn Độ rồi trao gậy rất hay như truyền động lực cho Lê Ngọc Phúc, tự nó đã nói lên tất cả về ý chí và quyết tâm của người chị cả trên đường chạy."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Với Quách Thị Lan, người từng dành cả thanh xuân cho nội dung 400m, có lẽ chiếc huy chương đáng chờ đợi nhất vẫn là ngày 29.9, ngày thi cuối cùng của môn điền kinh tại ASIAD, tranh lúc 19 giờ 5 phút. Nếu cô và các đồng đội tiếp tục biến từng vòng chạy 400m thành một lần vượt qua chính mình, để một lần nữa được đứng trên bục huy chương thì thực sự đó là hành trình vô cùng thán phục dành cho cô gái xuất sắc này."
+    }
+   ]
+  },
+  {
+   "id": "b51f549f0426",
+   "order": 10,
+   "slug": "giong-loai-tatu-mot-robot-mem-moi-co-the-cuon-tron-de-tu-bao",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Giống loài tatu, một robot mềm mới có thể cuộn tròn để tự bảo vệ",
+   "sapo": "Giống loài tatu ba đai (three-banded armadillo), thiết bị này có thể cuộn tròn để che chắn phần bên trong, chẳng hạn như các linh kiện điện tử nhạy cảm và một vật nhỏ được mang theo.",
+   "author": "Stephen Ornes",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/soft-robot-armadillo-rolls-up",
+   "published": "2026-09-25T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1291,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Like an armadillo, a new soft robot rolls up to protect itself",
+   "images": [
+    {
+     "src": "img/2026-09-26/b51f549f0426-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Loài tatu ba đai có một cách tự vệ khá lạ. Khi bị đe dọa, nó sẽ cuộn tròn cơ thể lại. Những tấm giáp dày của loài động vật có vú đáng yêu này tạo thành một quả cầu gần như không thể xuyên thủng, và điều đó có thể cứu mạng nó. Khả năng ấy giờ đây đã truyền cảm hứng để tạo ra lớp vỏ ngoài cho một robot mới - một robot có thể giữ cho những thứ dễ vỡ, như linh kiện điện tử, không bị hư hại."
+    },
+    {
+     "t": "p",
+     "text": "Giống như loài tatu, thiết bị mới này thay đổi hình dạng để tự bảo vệ bằng một lớp vỏ cứng, theo lời Jianyu Zhou, trưởng nhóm nghiên cứu. Ông là kỹ sư cơ khí tại Đại học Bang North Carolina, ở thành phố Raleigh."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị mới của nhóm ông ban đầu có dạng phẳng. Nhưng khi bị chạm vào, nó có thể cuộn lại thành hình bánh xe. Bề mặt ngoài cứng, được in 3D, sẽ bảo vệ những thứ bên trong khỏi bị đâm thủng, vỡ hoặc hư hỏng khi rơi."
+    },
+    {
+     "t": "p",
+     "text": "Thiết kế này có thể bảo vệ các linh kiện được lắp bên trong thiết bị. Nhưng Zhou cho biết thêm, nó còn có \"một khoảng không gian bên trong\". Vì vậy, nó cũng có thể chứa và bảo vệ một vật nhỏ được mang theo."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu tại Đại học Bang North Carolina đã mô tả robot biến hình này và cách nó có thể được sử dụng, trong bài báo đăng trên tạp chí Science Advances ngày 27 tháng 5."
+    },
+    {
+     "t": "h",
+     "text": "Cách cân bằng giữa cứng và mềm"
+    },
+    {
+     "t": "p",
+     "text": "Zhou làm việc trong phòng thí nghiệm của Yong Zhu, người có phần lớn công trình nghiên cứu tập trung vào các thiết bị điện tử linh hoạt - loại thiết bị có phần bên trong dễ vỡ. Những thiết bị như vậy có thể là các máy theo dõi sức khỏe đeo trên người hoặc miếng dán đo huyết áp hay đường huyết."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm của Zhu cũng đã tạo ra những robot mềm, có thể co giãn. Lấy cảm hứng từ sâu bướm, những robot này có thể trườn qua đống đổ nát sau thảm họa thiên nhiên để giúp tìm kiếm người sống sót hoặc đánh giá thiệt hại. Chúng cũng có thể được đưa đi khám phá và nghiên cứu những nơi nguy hiểm, chẳng hạn như đáy đại dương sâu thẳm hay khu vực gần núi lửa đang hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Những chuyến đi như vậy có thể khiến các robot mềm, biến hình gặp nguy cơ bị nghiền nát, cháy hỏng hoặc vỡ vụn. Zhu nói, \"câu hỏi tự nhiên đặt ra\" là \"làm sao để bảo vệ những robot đó\"."
+    },
+    {
+     "t": "p",
+     "text": "Khi ông và Zhou bắt đầu tìm cách bảo vệ mới cho các linh kiện điện tử dễ vỡ vài năm trước, họ đã tìm đến thiên nhiên để học hỏi."
+    },
+    {
+     "t": "p",
+     "text": "Một số loài vật, như rùa, có lớp mai cứng để chống lại kẻ săn mồi hay các mối nguy hiểm khác. Nhưng lớp giáp bảo vệ tê tê và loài thú ba đai (three-banded armadillo) còn có một điểm lợi hại khác: Nó có thể đổi hình dạng, giúp con vật cuộn tròn thành một quả cầu gần như hoàn hảo."
+    },
+    {
+     "t": "p",
+     "text": "Dù có thể biến đổi hình dạng, lớp giáp này vẫn tạo ra một \"vỏ cứng\" bảo vệ, Zhou chỉ ra."
+    },
+    {
+     "t": "h",
+     "text": "Giải phẫu chú robot tatu (robo-armadillo)"
+    },
+    {
+     "t": "p",
+     "text": "Các kỹ sư đã mất hơn một năm để tạo ra chú robot mới này. Thử thách lớn nhất là: họ phải tìm ra một thiết kế có thể cuộn tròn lại và tự khóa chặt vào nhau. Để làm được điều đó, họ áp dụng cách tiếp cận theo từng lớp. Lớp ngoài cùng là một vỏ cứng làm từ các tấm bảo vệ chắc chắn. Những tấm này không chỉ kết nối với nhau mà còn có thể uốn cong."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong lớp vỏ này là các lớp vật liệu mềm dẻo, hoạt động giống như cơ bắp nhân tạo. Một lớp sẽ giãn ra khi được làm nóng. Bên dưới lớp đó là một lớp co lại khi được làm nóng. Lớp trong cùng của thiết bị là một bộ khung xương bên trong, được ghép từ các mảnh gần giống hình tam giác, khóa chặt vào nhau khi thiết bị cuộn tròn lại. Zhou cho biết quá trình này diễn ra giống như gấp một tác phẩm origami."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp theo, nhóm nghiên cứu phải tạo ra một cảm biến (sensor) mà khi bị kích hoạt sẽ khiến lớp vỏ chuyển động. Khi phát hiện một rung động ở gần, dù chỉ nhẹ như một cái chạm tay, cảm biến này sẽ gửi tín hiệu đến một bộ truyền động (actuator). Bộ phận đó sẽ bật một thiết bị sưởi nhỏ xíu để làm nóng lớp vật liệu giống cơ bắp. Lớp vật liệu đó co lại, kéo mọi thứ lại gần nhau để tạo thành một cấu trúc giống hình bánh xe. Toàn bộ quá trình này diễn ra trong khoảng một phút."
+    },
+    {
+     "t": "p",
+     "text": "Nina Attias đã nghiên cứu loài tatu (armadillo) suốt hàng chục năm với vai trò nhà sinh học bảo tồn ở Brazil. Bà làm việc cho Wildlife Conservation Network, có trụ sở tại San Francisco, bang California. \"Tôi rất đam mê loài tatu, tôi yêu chúng,\" bà nói. Bà cảm thấy vui, nhưng không hề ngạc nhiên, khi biết loài vật này đã truyền cảm hứng cho chiếc robot mới. \"Một khi bạn bắt đầu tìm hiểu về chúng,\" bà nói, \"bạn sẽ thấy đây là những sinh vật cực kỳ tuyệt vời.\""
+    },
+    {
+     "t": "p",
+     "text": "Bà cho biết thiết bị mới này bắt chước rất ấn tượng những điểm mạnh của loài tatu. Trong số 20 loài tatu đã biết, chỉ có ba loài có thể cuộn tròn thành quả bóng. Trong đó có loài tatu ba đai, sống ở Nam Mỹ. Bà nói thêm rằng loài này cực kỳ nhạy cảm với rung động. Chúng có thể cảm nhận được lũ mối ngon lành dưới lòng đất. Những con tatu này cũng có thể phát hiện tiếng bước chân của báo đốm (jaguar) đang tới gần, khi con báo xem chúng như một bữa trưa ngon lành."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi cảm nhận được một cái chạm, thiết bị mới cũng cuộn tròn lại tương tự như vậy. Và lớp vật liệu co giãn nằm giữa lớp vỏ và bộ khung xương hoạt động giống như những cơ bắp khỏe mạnh giữ cho lớp giáp của con tatu luôn ở đúng vị trí. Khi một con tatu cuộn tròn lại, \"bạn không thể mở nó ra bằng bất cứ cách nào,\" Attias nói."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị mới đã vượt qua hàng loạt bài kiểm tra khắc nghiệt. Chẳng hạn, các nhà nghiên cứu đã thả nó từ độ cao khoảng một mét xuống một lớp đinh ghim. Những vật dễ vỡ đặt bên trong nó, gồm các quả cầu thủy tinh và quả mâm xôi, vẫn hoàn toàn nguyên vẹn."
+    },
+    {
+     "t": "p",
+     "text": "Điều thú vị ở thiết bị mới này, theo Zhou, là cách nó kết hợp các bộ phận cứng và mềm với nhau. \"Con tatu mang lại sự cân bằng tốt giữa chức năng và khả năng bảo vệ\", ông nói."
+    },
+    {
+     "t": "p",
+     "text": "Zhu cho rằng còn quá sớm để biết mọi người sẽ dùng thiết bị này như thế nào. Nhưng ông cảm thấy phấn khích trước thành công của cách giải quyết một bài toán kỹ thuật bằng lấy cảm hứng từ thiên nhiên. Trong công trình sắp tới, ông nói sẽ tìm hiểu thêm các loài vật khác để có thêm nhiều ý tưởng mới."
+    }
+   ]
+  },
+  {
+   "id": "809e69e7c546",
+   "order": 11,
+   "slug": "da-o-grand-canyon-luu-giu-1-2-ty-nam-lich-su-cua-trai-dat-va",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Đá ở Grand Canyon lưu giữ 1,2 tỷ năm lịch sử của Trái Đất và Mặt Trăng",
+   "sapo": "Khoảng 1,25 tỷ năm trước, những bãi bùn ven một vùng biển nội địa đã trở thành nguồn gốc của các lớp đá phiến Hakatai màu đỏ cam.",
+   "author": "Starre Vartan",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/grand-canyon-rocks-preserve-a-1-2-billion-year-record-of-earth-and-the-moon",
+   "published": "2026-09-25T22:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 868,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Grand Canyon Rocks Preserve a 1.2-Billion-Year Record of Earth And The Moon",
+   "images": [
+    {
+     "src": "img/2026-09-26/809e69e7c546-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-26/809e69e7c546-0.jpg",
+     "caption": "Grand Canyon nhìn từ South Rim, với lớp đá phiến Hakatai (màu cam sáng) hiện rõ ở góc dưới bên phải. Ảnh nhỏ: hình ảnh chụp từ trên cao khu vực trung-đông Grand Canyon, cho thấy vị trí các mặt cắt được nghiên cứu. (Lantink và các đồng nghiệp, Nature Geoscience, 2026)",
+     "w": 1052,
+     "h": 838
+    },
+    {
+     "src": "img/2026-09-26/809e69e7c546-1.jpg",
+     "caption": "Chi tiết từ mỏm đá lộ ra ở Tapeats Creek, cho thấy các bó lớp 0–5 theo khuôn mẫu địa tầng theo chu kỳ (cyclostratigraphy) đặc trưng của đá phiến Hakatai. (Lantink và các đồng nghiệp, Nature Geoscience, 2026)",
+     "w": 988,
+     "h": 784
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khoảng 1,25 tỷ năm trước, những bãi bùn ven một vùng biển nội địa đã trở thành nguồn gốc của các lớp đá phiến Hakatai màu đỏ cam."
+    },
+    {
+     "t": "p",
+     "text": "Vùng đất cận nhiệt đới này trên lục địa cổ Laurentia từng theo thời gian biến thành một cảnh quan bốc hơi nước, giống như các vùng sabkha hay playa (vùng trũng khô cạn) ngày nay."
+    },
+    {
+     "t": "p",
+     "text": "Khi điều kiện khí hậu thay đổi, các lớp trầm tích tích tụ lại theo những khuôn mẫu có tính nhịp điệu."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, người ta có thể nhìn thấy cùng những khuôn mẫu đó ở các mỏm đá cách nhau tới 65 km, và chúng lưu giữ dấu vết của một thời kỳ mà một ngày trên Trái Đất ngắn hơn rất nhiều so với ngày nay."
+    },
+    {
+     "t": "p",
+     "text": "Vào thời đó, một ngày chỉ dài khoảng 19 giờ."
+    },
+    {
+     "t": "p",
+     "text": "Trong một nghiên cứu mới, các nhà khoa học đã tìm ra điều này bằng cách nghiên cứu những khuôn mẫu lặp lại đầy màu sắc của đá phiến Hakatai, hiện đang lộ ra ở khu vực trung-đông Grand Canyon, phản ánh các chu kỳ khí hậu của Trái Đất được tạo ra bởi sự vận động của hành tinh này trong không gian."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chúng có vẻ là những \"dấu vân tay\" địa chất của những thay đổi khí hậu Trái Đất, gây ra bởi các biến đổi nhỏ trong quỹ đạo và sự quay của hành tinh, được gọi là chu kỳ Milanković."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách nghiên cứu các chu kỳ đó, các nhà khoa học đã tái hiện lại một số đặc điểm của hệ Trái Đất - Mặt Trăng thời cổ đại. Nhưng việc này không đơn giản như chỉ chạy ngược các mô hình thiên văn hiện đại về quá khứ vô hạn định."
+    },
+    {
+     "t": "p",
+     "text": "Việc cố gắng tái hiện lại các chu kỳ đó từ hơn một tỷ năm trước là một thách thức lớn. Có rất nhiều yếu tố cần phải tính đến, vì quỹ đạo của Trái Đất có tính hỗn loạn (chaotic) trong những khoảng thời gian rất dài."
+    },
+    {
+     "t": "p",
+     "text": "Theo thời gian, hình dạng quỹ đạo của Trái Đất thay đổi, độ nghiêng của trục quay cũng thay đổi, và hướng của trục đó cũng dịch chuyển - đồng thời việc Mặt Trăng dần dần di chuyển ra xa Trái Đất cũng làm thay đổi thời điểm diễn ra một số chu kỳ này."
+    },
+    {
+     "t": "p",
+     "text": "Tất cả những yếu tố này đều làm thay đổi lượng ánh sáng Mặt Trời chiếu tới Trái Đất và cách nó phân bố, từ đó ảnh hưởng đến loại đá phiến được hình thành."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Khi nghiên cứu đá phiến Hakatai, các nhà khoa học phát hiện những lớp đá giàu carbonat và lớp đá bùn xen kẽ nhau, lặp lại theo nhiều quy mô khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Những kiểu lặp lại này phản ánh các tổ hợp khác nhau giữa các yếu tố quỹ đạo liên quan đến Trái Đất và Mặt Trăng. Khi được giải mã, các kiểu này có thể hé lộ đặc điểm khí hậu vào thời điểm các lớp đá được hình thành."
+    },
+    {
+     "t": "p",
+     "text": "Những kiểu lớp đá tương tự trong đá phiến xuất hiện ở những nơi cách nhau hơn 60 km, cho thấy chúng phản ánh những thay đổi khí hậu trên diện rộng chứ không phải sự khác biệt cục bộ trong quá trình lắng đọng trầm tích."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những tín hiệu dự kiến xuất hiện do sự thay đổi độ nghiêng trục quay của Trái Đất lại có vẻ như bị tách thành hai phần riêng biệt. Các nhà nghiên cứu cho rằng điều này có thể phản ánh sự thay đổi trong cách hệ thống khí hậu phản ứng với các tác động từ quỹ đạo, hoặc sự thay đổi trong chính động lực học quỹ đạo của hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tính đến tín hiệu bất thường này, họ đã tính ra chu kỳ tuế sai (precession, là sự thay đổi hướng của trục quay một vật thể đang xoay) vào khoảng 15.730 năm. Từ đó, họ ước tính khoảng cách của Mặt Trăng là 53,8 lần bán kính Trái Đất, và từ đó suy ra độ dài ngày là 19 giờ."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả này cũng khớp với các mô hình hiện có về cách hệ Trái Đất - Mặt Trăng đã phát triển vào khoảng 1,25 tỷ năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả nghiên cứu cũng không tìm thấy bằng chứng nào cho một giả thuyết trước đây cho rằng đã từng có giai đoạn độ dài ngày của Trái Đất tạm dừng ở mức khoảng 19,5 hoặc 21 giờ trong đại Trung Nguyên Sinh (Mesoproterozoic)."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này cho thấy các lớp trầm tích cổ xưa có thể lưu giữ nhiều điều hơn hẳn chỉ là một bức ảnh chụp nhanh về cảnh quan nơi chúng hình thành (trong trường hợp này là một vùng biển nội địa)."
+    },
+    {
+     "t": "p",
+     "text": "Đá phiến Hakatai còn ghi lại cả nhịp điệu khí hậu và các quy luật vận động của bầu trời đã tạo ra chúng, đến từ một thế giới cận nhiệt đới đã biến mất từ lâu, nơi có ngày ngắn hơn nhiều so với bây giờ."
+    }
+   ]
+  },
+  {
+   "id": "2bb46e3f15ce",
+   "order": 12,
+   "slug": "may-gia-toc-hat-co-the-tao-ra-vat-chat-toi-tu-khoang-khong-t",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Máy gia tốc hạt có thể tạo ra vật chất tối từ khoảng không trống rỗng",
+   "sapo": "Có điều gì đó không ổn về lượng lực hấp dẫn trong Vũ Trụ.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/a-particle-accelerator-could-create-dark-matter-from-empty-space",
+   "published": "2026-09-25T11:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1730,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A Particle Accelerator Could Create Dark Matter From Empty Space",
+   "images": [
+    {
+     "src": "img/2026-09-26/2bb46e3f15ce-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-26/2bb46e3f15ce-0.jpg",
+     "caption": "Sơ đồ về hiệu ứng Casimir. (Emok/Wikimedia Commons, CC BY-SA 3.0)",
+     "w": 599,
+     "h": 614
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Có điều gì đó không ổn về lượng lực hấp dẫn trong Vũ Trụ."
+    },
+    {
+     "t": "p",
+     "text": "Khi cộng hết tất cả vật chất bình thường cùng với lực hấp dẫn mà nó tạo ra, các nhà khoa học phát hiện một sự chênh lệch trong con số cuối cùng."
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải là một sai số nhỏ, không phải kiểu thiếu hụt vặt vãnh, một số lẻ ở đây hay ở kia: mà là lực hấp dẫn nhiều hơn hẳn so với lượng vật chất bình thường có thể tạo ra nó."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta gọi nguồn gốc bí ẩn tạo ra phần lực hấp dẫn dư thừa đó là vật chất tối (dark matter), và các nhà khoa học ước tính lượng vật chất tối trong Vũ Trụ nhiều gấp khoảng năm lần vật chất bình thường."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó có nghĩa là loại vật chất bí ẩn này phải có mặt ở khắp mọi nơi, và đúng là như vậy, theo những gì các nhà vật lý biết được. Nhưng chúng ta vẫn chưa biết nó là gì, chứ đừng nói đến việc làm sao tạo ra nó."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một nghiên cứu lý thuyết mới đã tìm ra một công thức mới mà chúng ta có thể thử."
+    },
+    {
+     "t": "p",
+     "text": "Hai nhà vật lý lý thuyết Stefan Evans và Ralf Schützhold thuộc Trung tâm Helmholtz-Zentrum Dresden-Rossendorf ở Đức đặt câu hỏi: điều gì sẽ xảy ra nếu chúng ta lấy một loạt hạt nhân nguyên tử rồi \"lắc\" chúng thật mạnh?"
+    },
+    {
+     "t": "p",
+     "text": "Tất nhiên đây không phải nghĩa đen – và rõ ràng cách làm phức tạp hơn nhiều so với việc lắc hạt nhân như lắc một cái maraca (nhạc cụ lắc tạo tiếng)."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng hai nhà khoa học đề xuất rằng nếu các hạt nhân được tăng tốc đủ mạnh trong một máy gia tốc hạt (particle accelerator), chúng có thể làm xáo trộn chân không lượng tử (quantum vacuum) theo đúng cách để tạo ra từng cặp hạt axion – loại hạt giả thuyết có thể chính là thành phần tạo nên vật chất tối."
+    },
+    {
+     "t": "p",
+     "text": "\"Các hạt nhân được gia tốc, chẳng hạn như trong va chạm ion nặng siêu ngoại vi (ultraperipheral heavy-ion collisions), có thể tạo ra các cặp axion vướng víu lượng tử (entangled), tương tự như hiệu ứng Casimir động (dynamical Casimir effect), và điều này cũng có thể được xem là dấu hiệu của hiệu ứng Unruh,\" họ giải thích."
+    },
+    {
+     "t": "p",
+     "text": "Vâng, đúng vậy. Nhưng dù sao chúng ta cũng hãy tìm hiểu kỹ hơn một chút."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta sẽ bắt đầu với các hạt axion."
+    },
+    {
+     "t": "p",
+     "text": "Những hạt giả thuyết này đã tồn tại trong các nghiên cứu gần nửa thế kỷ nay, mặc dù vật chất tối không phải là vấn đề mà chúng được đề xuất để giải quyết ban đầu."
+    },
+    {
+     "t": "p",
+     "text": "Vấn đề đó nằm trong ngành sắc động lực học lượng tử (quantum chromodynamics, viết tắt QCD) - lý thuyết mô tả lực mạnh liên kết các hạt quark lại với nhau để tạo thành proton và neutron, rồi các hạt này tập hợp lại trong nguyên tử để tạo thành hạt nhân."
+    },
+    {
+     "t": "p",
+     "text": "QCD cho phép một loại vi phạm đối xứng đặc biệt mà vì lý do các nhà vật lý chưa hiểu rõ, dường như không hề xảy ra trong thực tế. Phần này không thực sự liên quan đến bài nghiên cứu này, nên chúng ta sẽ không đi sâu thêm."
+    },
+    {
+     "t": "p",
+     "text": "Điều liên quan ở đây là hạt axion xuất hiện từ một đề xuất nhằm giải quyết bí ẩn này. Như một phần thưởng bất ngờ, các đặc tính của hạt giả thuyết này cũng khiến nó trở thành một ứng cử viên hấp dẫn cho vật chất tối."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó khiến axion có \"một chân\" ở hai thế giới: QCD và vật chất tối."
+    },
+    {
+     "t": "p",
+     "text": "Chính \"chân\" QCD mới là điều quan trọng ở đây."
+    },
+    {
+     "t": "p",
+     "text": "Một trong nhiều điều kỳ lạ về QCD là ngay cả khoảng không gian có vẻ trống rỗng cũng không thực sự trống rỗng. Chân không lượng tử chứa một nền gọi là \"ngưng tụ quark\" (quark condensate), được tạo thành từ các cặp quark - phản quark."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, bên trong hạt nhân nguyên tử, sự ngưng tụ đó yếu hơn - và điều này rất quan trọng vì độ mạnh của ngưng tụ quark giúp xác định khối lượng hiệu dụng của một hạt axion."
+    },
+    {
+     "t": "p",
+     "text": "Điều này có nghĩa là nếu axion thực sự tồn tại, thì bên trong một hạt nhân nguyên tử, chúng sẽ \"nhẹ\" hơn so với khi ở bên ngoài – khiến hạt nhân trở thành một môi trường khác đối với axion, giống như nước là một môi trường khác so với không khí đối với ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Điều này vẫn tạo ra sự khác biệt ngay cả khi không có axion nào ở gần đó."
+    },
+    {
+     "t": "p",
+     "text": "Cơ học lượng tử (quantum mechanics) không cho phép ngay cả khoảng không hoàn toàn trống rỗng cũng phẳng lặng và tĩnh lặng tuyệt đối. Thay vào đó, các trường bao trùm không gian luôn giữ lại một nền hoạt động lượng tử không thể loại bỏ, gọi là dao động chân không (vacuum fluctuations)."
+    },
+    {
+     "t": "p",
+     "text": "Một hệ quả kỳ lạ của những dao động đó được gọi là hiệu ứng Casimir (Casimir effect). Nếu đặt hai vật thể lại rất gần nhau, chúng có thể làm thay đổi những dao động nào được phép xảy ra trong khoảng không giữa chúng, so với khoảng không bên ngoài."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sự thay đổi năng lượng chân không của trường do đó gây ra có thể tạo nên một lực đo được giữa hai vật thể."
+    },
+    {
+     "t": "p",
+     "text": "Ở dạng được biết đến nhiều nhất, hiệu ứng Casimir liên quan đến trường điện từ và hai tấm dẫn điện đặt rất sát nhau – nhưng về nguyên tắc, cùng một cơ chế vật lý như vậy cũng có thể xảy ra với các trường lượng tử khác."
+    },
+    {
+     "t": "p",
+     "text": "Evans và Schützhold lập luận rằng điều tương tự cũng có thể xảy ra với trường axion. Vì một hạt nhân làm thay đổi khối lượng hiệu dụng của axion, nên nó cũng sẽ làm thay đổi các dao động chân không của trường axion xung quanh nó."
+    },
+    {
+     "t": "p",
+     "text": "Các tính toán của họ cho thấy rằng nếu đặt hai hạt nhân lại gần nhau, những dao động đã bị thay đổi đó sẽ tạo ra một lực hút giống hiệu ứng Casimir giữa chúng."
+    },
+    {
+     "t": "p",
+     "text": "Được rồi, vậy là chúng ta có hai hạt nhân đứng yên, cảm nhận được một chút lực hút."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng hiệu ứng Casimir còn tạo ra điều kỳ lạ hơn nữa khi mọi thứ bắt đầu chuyển động theo đúng cách."
+    },
+    {
+     "t": "p",
+     "text": "Nếu vật gây xáo trộn một trường lượng tử thay đổi đủ nhanh, sự xáo trộn đó có thể bơm năng lượng vào trường, biến những dao động chân không của nó thành các cặp hạt thật. Đó là hiệu ứng Casimir động (dynamical Casimir effect), và nó không chỉ là lý thuyết. Các nhà vật lý đã quan sát thấy nó tạo ra các photon thật."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lúc chiếc \"lục lạc hạt nhân\" của chúng ta xuất hiện trở lại."
+    },
+    {
+     "t": "p",
+     "text": "Một hạt nhân đã làm thay đổi các dao động chân không của trường axion chỉ bằng việc tồn tại. Nhưng nếu bạn gia tốc hạt nhân đó đủ mạnh, vùng trường axion bị biến đổi sẽ di chuyển theo đúng cách để tạo ra phiên bản động của hiệu ứng Casimir."
+    },
+    {
+     "t": "p",
+     "text": "Một phần năng lượng dùng để gia tốc nhanh hạt nhân đó có thể xuất hiện trở lại dưới dạng một cặp axion thật, vướng lượng tử (entangled) với nhau."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ lạ là, có một cách khác để hiểu cùng một quá trình này."
+    },
+    {
+     "t": "p",
+     "text": "Theo hiệu ứng Unruh (Unruh effect), một người quan sát đang trải qua gia tốc không đổi sẽ cảm nhận thứ mà một người quan sát không gia tốc thấy là không gian trống rỗng, như một \"bồn tắm\" ấm chứa đầy hạt. Gia tốc càng mạnh, \"bồn tắm\" đó dường như càng nóng."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, từ góc nhìn của một hạt nhân đang được gia tốc, chân không trống rỗng sẽ có vẻ như chứa một bồn tắm axion ấm áp dễ chịu. Hạt nhân có thể tán xạ một axion lấy từ bồn tắm đó."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, từ góc nhìn không gia tốc của chúng ta, không có bồn tắm axion nào cả, nên thay vào đó chúng ta sẽ thấy một hạt nhân đang lao đi dường như bật ra một cặp axion vướng lượng tử từ chân không."
+    },
+    {
+     "t": "p",
+     "text": "Nghe có vẻ hoàn toàn điên rồ, và hoàn toàn bất khả thi, nhưng các nhà nghiên cứu giải thích rằng có thể chúng ta đã có công nghệ để kiểm chứng ý tưởng này."
+    },
+    {
+     "t": "p",
+     "text": "Evans và Schützhold đề xuất các va chạm ion nặng cực ngoại vi (ultraperipheral heavy-ion collisions) là một bối cảnh khả thi. Đó là những cú \"suýt va\" giữa các hạt nhân nguyên tử di chuyển với vận tốc tương đối tính, trong đó các trường điện từ mạnh của chúng tương tác với nhau mà bản thân các hạt nhân không thực sự va chạm."
+    },
+    {
+     "t": "p",
+     "text": "Trong lần \"chạm mặt\" gần như vậy, các hạt nhân trải qua sự thay đổi đột ngột về chuyển động mà cơ chế được đề xuất đòi hỏi."
+    },
+    {
+     "t": "p",
+     "text": "Cách này có thể sẽ không thành công. Khả năng tạo ra một cặp axion phụ thuộc rất nhiều vào khối lượng của axion, và ngay cả khi tạo được một hạt, việc phát hiện ra nó lại là một thử thách hoàn toàn khác."
+    },
+    {
+     "t": "p",
+     "text": "Chẳng hạn, bạn có thể cần một máy dò vật chất tối bằng xenon lỏng cực nhạy, và axion sẽ phải bay đúng hướng để va vào máy dò đó. Vì vậy, nhiều khả năng việc này sẽ rất khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, vẫn đáng để thử. Suy cho cùng, muốn có \"súp axion\" thì phải chấp nhận đập vỡ vài quả trứng."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này đã được công bố trên tạp chí Physical Review D."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được kiểm chứng thông tin bởi Peter Dockrill và biên tập bởi Peter Dockrill. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu phát hiện sai sót, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "0b49e014d267",
+   "order": 13,
+   "slug": "cum-sao-cau-omega-centauri",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Cụm sao cầu Omega Centauri",
+   "sapo": "APOD Science APOD APOD: 25 tháng 9 năm 2026 –… Ảnh APOD hôm nay Kho lưu trữ Gửi ảnh Chỉ mục Tìm kiếm Lịch RSS Giáo dục Giới thiệu Thảo luận APOD Ảnh Thiên văn Trong Ngày Khám phá vũ trụ! Mỗi ngày một bức ảnh khác nhau về vũ trụ kỳ thú của chúng ta được giới thiệu, kèm theo lời giải thích ngắn gọn do một nhà thiên văn học chuyên nghiệp viết. Cụm sao cầu Omega […]",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+   "published": "2026-09-25T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 301,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Globular Cluster Omega Centauri",
+   "images": [
+    {
+     "src": "img/2026-09-26/0b49e014d267-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 963
+    },
+    {
+     "src": "img/2026-09-26/0b49e014d267-0.jpg",
+     "caption": "Một cụm sao cầu dày đặc.",
+     "w": 1280,
+     "h": 963
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "APOD"
+    },
+    {
+     "t": "p",
+     "text": "Ảnh Thiên văn Trong Ngày"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá vũ trụ! Mỗi ngày một bức ảnh khác nhau về vũ trụ kỳ thú của chúng ta được giới thiệu, kèm theo lời giải thích ngắn gọn do một nhà thiên văn học chuyên nghiệp viết."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải thích: Cụm sao cầu Omega Centauri chứa khoảng 10 triệu ngôi sao già hơn Mặt Trời rất nhiều, gói gọn trong một khối không gian có đường kính khoảng 150 năm ánh sáng. Còn được gọi là NGC 5139, ở khoảng cách 15.000 năm ánh sáng, đây là cụm sao cầu lớn nhất và sáng nhất trong khoảng 200 cụm sao cầu đã biết đang di chuyển trong quầng của thiên hà Milky Way của chúng ta. Trong khi hầu hết các cụm sao đều gồm những ngôi sao có cùng tuổi và thành phần, cụm sao bí ẩn Omega Cen lại cho thấy sự tồn tại của nhiều quần thể sao khác nhau với tuổi và thành phần hóa học đa dạng. Trên thực tế, Omega Cen có thể là lõi còn sót lại của một thiên hà nhỏ đang sáp nhập vào Milky Way. Với sắc vàng nhạt, các ngôi sao khổng lồ đỏ của Omega Centauri rất dễ nhận ra trong bức ảnh chụp qua kính viễn vọng sắc nét này. Một cuộc khảo sát kéo dài suốt hai thập kỷ về cụm sao dày đặc này bằng Kính viễn vọng Không gian Hubble đã hé lộ bằng chứng về một hố đen khổng lồ gần trung tâm của Omega Centauri. Địa chỉ email nhận ảnh gửi về của APOD đã thay đổi. Vui lòng xem: APOD Submissions. Trang chính của APOD trên NASA đang chuyển đổi: từ apod.nasa.gov sang science.nasa.gov/apod Ảnh của ngày mai: những phản chiếu trong một đêm đầy sao"
+    }
+   ]
+  },
+  {
+   "id": "3869f925a429",
+   "order": 14,
+   "slug": "vet-den-mat-troi-rong-gap-40-lan-trai-dat-cho-thay-mat-troi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Vết đen Mặt Trời rộng gấp 40 lần Trái Đất cho thấy Mặt Trời của chúng ta cũng có thể tạo ra siêu bùng nổ",
+   "sapo": "Bùng nổ Mặt Trời (solar flare) là những vụ nổ bức xạ khổng lồ phun ra từ Mặt Trời – đôi khi vài lần một ngày – và ở mức mạnh nhất, chúng có thể giải phóng năng lượng tương đương một tỷ quả bom khinh khí.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/sunspot-40-times-wider-than-earth-shows-our-sun-is-capable-of-superflares",
+   "published": "2026-09-25T01:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 970,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Sunspot 40 Times Wider Than Earth Shows Our Sun Is Capable of Superflares",
+   "images": [
+    {
+     "src": "img/2026-09-26/3869f925a429-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-09-26/3869f925a429-0.jpg",
+     "caption": "Một số ngôi sao giống Mặt Trời tạo ra một siêu bùng nổ khoảng một lần mỗi thế kỷ. (© MPS/Alexey Chizhik)",
+     "w": 600,
+     "h": 375
+    },
+    {
+     "src": "img/2026-09-26/3869f925a429-1.jpg",
+     "caption": "Hình vẽ tay lịch sử mô tả vết đen Mặt Trời năm 1947. (Đài quan sát Mount Wilson)",
+     "w": 600,
+     "h": 350
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bùng nổ Mặt Trời là những vụ nổ bức xạ khổng lồ phun ra từ Mặt Trời – đôi khi vài lần một ngày – và ở mức mạnh nhất, chúng có thể giải phóng năng lượng tương đương một tỷ quả bom khinh khí."
+    },
+    {
+     "t": "p",
+     "text": "Từ trường và bầu khí quyển của hành tinh chúng ta, cùng với hàng chục triệu dặm khoảng không vũ trụ, đã bảo vệ chúng ta khỏi những đợt bùng nổ này và các hiện tượng thời tiết không gian khác."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, những ngôi sao xa xôi giống Mặt Trời từng tạo ra cái gọi là \"siêu bùng nổ\" (superflare), mạnh hơn hàng trăm, thậm chí hàng nghìn lần so với những gì từng được quan sát trong Hệ Mặt Trời của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Liệu những siêu bùng nổ đó có thể xảy ra từ chính Mặt Trời của chúng ta hay không – và liệu chúng đã từng xuất hiện trong suốt lịch sử Trái Đất, vào hàng tỷ năm trước khi con người có thiết bị để đo được chúng?"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đó chính là câu hỏi mà nhóm các nhà nghiên cứu do Viện Nghiên cứu Hệ Mặt Trời Max Planck (MPS) ở Đức dẫn đầu muốn tìm lời giải."
+    },
+    {
+     "t": "p",
+     "text": "Trong một nghiên cứu mới công bố trên tạp chí Philosophical Transactions of the Royal Society A, các nhà nghiên cứu đã phân tích 300 đợt bùng nổ Mặt Trời mạnh nhất được đo từ năm 2010 đến 2016, cùng với lượng năng lượng mà chúng tạo ra."
+    },
+    {
+     "t": "p",
+     "text": "\"Tất nhiên, chúng tôi biết rằng không có siêu bùng nổ nào xảy ra trong giai đoạn quan sát này, nhưng mối liên hệ thống kê mà chúng tôi tìm ra giữa năng lượng giải phóng và kích thước vùng hoạt động cũng sẽ đúng với những sự kiện mạnh hơn,\" nhà vật lý thiên văn Natalie Krivova, thuộc MPS, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách nghiên cứu các vùng hoạt động tương ứng trên Mặt Trời của từng đợt bùng nổ – tức những khu vực nhiễu loạn từ trường mạnh, nơi các vụ nổ hình thành và thường xuất hiện các vết đen Mặt Trời tối màu – các nhà nghiên cứu đã tính được mối liên hệ giữa năng lượng và kích thước vùng hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, họ quay lại xem xét một số vết đen Mặt Trời lớn nhất từng được ghi nhận – những ghi chép có từ rất lâu, khoảng bốn thế kỷ trước. Một vết đen đặc biệt nổi bật: vết đen khổng lồ được quan sát vào năm 1947, che phủ khoảng 0,6% bề mặt đĩa Mặt Trời nhìn thấy được."
+    },
+    {
+     "t": "p",
+     "text": "Một vết đen có kích thước như vậy, với đường kính gấp khoảng 40 lần Trái Đất, về mặt lý thuyết có thể tạo ra một đợt bùng nổ đạt đến ngưỡng thấp nhất trong nhóm \"siêu bùng nổ\" từng quan sát được ở các ngôi sao khác."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Mặt Trời của chúng ta có khả năng tạo ra siêu bùng phát,\" Krivova cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Nó có thể tạo ra những vết đen Mặt Trời khổng lồ, và về nguyên tắc, đây chính là điểm khởi đầu cho những đợt bức xạ dữ dội nhất.\""
+    },
+    {
+     "t": "p",
+     "text": "Điều này khớp với những bằng chứng mà chúng ta có về các sự kiện hạt Mặt Trời cực đoan (extreme solar particle events - ESPE), tức những cơn bão bức xạ vượt xa bất cứ điều gì từng được quan sát trực tiếp trong lịch sử. Chúng ta chưa từng chứng kiến những sự kiện này, nhưng có dấu vết của chúng trong các vòng gỗ của cây."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, chúng ta biết Trái Đất từng bị các ESPE tấn công - và nghiên cứu mới cho thấy rất có thể chính các siêu bùng phát đã gây ra chúng."
+    },
+    {
+     "t": "p",
+     "text": "Krivova cũng là tác giả chính của một nghiên cứu liên quan khác, cũng vừa được công bố trên tạp chí Philosophical Transactions of the Royal Society A, xem xét kỹ hơn mối liên hệ giữa ESPE và siêu bùng phát. Giả thuyết được chấp nhận rộng rãi là siêu bùng phát có thể gây ra ESPE, nhưng chỉ khi điều kiện phù hợp để các hạt năng lượng cao thoát được ra ngoài không gian."
+    },
+    {
+     "t": "p",
+     "text": "Quay lại nghiên cứu đầu tiên, các nhà khoa học cho biết mối liên hệ giữa ESPE và siêu bùng phát là điều mà các nghiên cứu trong tương lai cần tiếp tục làm rõ. Việc mô hình hóa chi tiết hơn, tìm hiểu cách các vết đen Mặt Trời có thể kết hợp với nhau và các điều kiện từ trường giữ cho siêu bùng phát bị giới hạn, sẽ rất quan trọng ở đây."
+    },
+    {
+     "t": "p",
+     "text": "Dù tác động trực tiếp đến sức khỏe con người sẽ khá hạn chế, nhưng các cơn bão Mặt Trời trong tương lai có khả năng gây ra sự gián đoạn lớn đối với công nghệ và cơ sở hạ tầng mà chúng ta phụ thuộc vào trong thời hiện đại. Điều đó có nghĩa là việc hiểu rõ khi nào và bằng cách nào Mặt Trời của chúng ta có thể tăng cường độ lên mức siêu bùng phát là một lĩnh vực nghiên cứu quan trọng."
+    },
+    {
+     "t": "p",
+     "text": "\"Mục tiêu của chúng tôi là đưa ra giới hạn cho mức năng lượng bùng phát tối đa có thể xảy ra từ những nhóm vết đen Mặt Trời cực đoan nhất trong lịch sử,\" các nhà nghiên cứu viết trong bài báo đã công bố."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi nhấn mạnh rằng phân tích này không đề cập đến xác suất hay tần suất dự kiến của những sự kiện như vậy.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nghiên cứu đã được công bố trên tạp chí Philosophical Transactions of the Royal Society A, tại đây và đây."
+    }
+   ]
+  },
+  {
+   "id": "b1c7335d1922",
+   "order": 15,
+   "slug": "uu-tich-va-hanh-trinh-dua-van-hoa-mong-co-vao-truyen-tranh",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Ưu Tích và hành trình đưa văn hóa Mông Cổ vào truyện tranh",
+   "sapo": "Từ những nét vẽ đầu tiên trên giấy A4 đến loạt truyện tranh 'Thảo nguyên dị truyện', họa sĩ người Nội Mông, Ưu Tích dành nhiều năm khám phá những câu chuyện dân gian, tín ngưỡng và đời sống trên thảo nguyên.",
+   "author": "NỮ LÂM",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/uu-tich-va-hanh-trinh-dua-van-hoa-mong-co-vao-truyen-tranh-100260925145320037.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1134,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/b1c7335d1922-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/b1c7335d1922-0.jpg",
+     "caption": "Loạt truyện tranh Thảo nguyên dị truyện (Nhà xuất bản Phụ Nữ) của tác giả Ưu Tích - Ảnh: Tác giả cung cấp",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tác phẩm của anh sau đó được giới thiệu tại Trung Quốc và nước ngoài, trong đó có Pháp, đồng thời nhận một số giải thưởng trong lĩnh vực truyện tranh."
+    },
+    {
+     "t": "h",
+     "text": "Thế giới truyện tranh sinh ra từ thảo nguyên"
+    },
+    {
+     "t": "p",
+     "text": "Ưu Tích, tên thật Ajnai, sinh tại thành phố Hulunbuir, Nội Mông, Trung Quốc. Với anh, việc vẽ bắt đầu từ khá sớm và dần trở thành công việc gắn bó trong nhiều năm."
+    },
+    {
+     "t": "p",
+     "text": "Đến lúc vào đại học, anh có cơ duyên được mời minh họa cho một cuốn sách về văn hóa Mông Cổ. Công việc này giúp anh có cơ hội tiếp xúc sâu hơn với những chất liệu văn hóa vốn gần gũi với nơi mình sinh ra. Ưu Tích dấn thân vào hội họa ."
+    },
+    {
+     "t": "p",
+     "text": "Với bút chì và giấy A4, anh đã hoàn thành tác phẩm truyện tranh đầu tay của mình, rồi scan bản vẽ và đăng lên một diễn đàn trực tuyến. Tác phẩm nhanh chóng nhận được sự chú ý của độc giả. Tuy vậy, quá trình sáng tác của anh trong thời gian đầu không ổn định."
+    },
+    {
+     "t": "p",
+     "text": "Một số loạt truyện lần lượt được thực hiện nhưng không duy trì được lâu, chủ yếu do Ưu Tích gặp khó khăn trong việc phát triển ý tưởng."
+    },
+    {
+     "t": "p",
+     "text": "Gắn liền với giai đoạn anh cũng gặp khó khăn trong cuộc sống và công việc. Thay vì tiếp tục thực hiện những loạt truyện dài, Ưu Tích chuyển sang sáng tác các tác phẩm ngắn, đồng thời tham dự những cuộc thi truyện tranh."
+    },
+    {
+     "t": "p",
+     "text": "Đây là khoảng thời gian anh bắt đầu hình thành ý tưởng cho Thảo nguyên dị truyện , loạt truyện lấy bối cảnh thảo nguyên quê hương anh, xoay quanh những câu chuyện mang màu sắc kỳ bí."
+    },
+    {
+     "t": "p",
+     "text": "Cách tiếp cận này đã cho phép Ưu Tích đưa nhiều chất liệu xuất phát từ truyền thuyết, tín ngưỡng và chuyện dân gian. Không gian thảo nguyên rộng lớn trở thành bối cảnh để các nhân vật đối diện với những hiện tượng khó lý giải, những câu chuyện về con người, thiên nhiên và thế giới bên kia."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2021, truyện ngắn đầu tiên thuộc loạt truyện được Ưu Tích đăng tải trên mạng xã hội. Tác phẩm nhanh chóng thu hút sự chú ý và tạo tiền đề để Thảo nguyên dị truyện tiếp tục được phát triển."
+    },
+    {
+     "t": "p",
+     "text": "Với Ưu Tích, văn hóa Mông Cổ không phải là lớp điểm trang cho câu chuyện. Những phong tục, tín ngưỡng, cảnh quan và đời sống thảo nguyên được đưa vào quá trình xây dựng thế giới truyện. Qua đó, truyện tranh trở thành một phương tiện để tác giả miêu tả văn hóa địa phương theo hình thức gần gũi với độc giả đại chúng hiện nay."
+    },
+    {
+     "t": "p",
+     "text": "Sự kết hợp giữa yếu tố kỳ bí và chất liệu văn hóa cũng tạo nên diện mạo riêng cho Thảo nguyên dị truyện . Những câu chuyện diễn ra giữa không gian rộng lớn của thảo nguyên, nơi ranh giới giữa phàm nhân và thế lực siêu nhiên gần như xóa nhòa."
+    },
+    {
+     "t": "h",
+     "text": "Từ thảo nguyên Nội Mông tới quốc tế"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2021, Thung lũng hoang phế , một truyện được in trong tập 1 của Thảo nguyên dị truyện, được Bảo tàng Truyện tranh Trung Quốc dịch sang tiếng Nhật và giới thiệu trên tài khoản X chính thức của đơn vị này. Việc tác phẩm được giới thiệu bằng ngôn ngữ khác mở ra một kênh tiếp cận đối với độc giả bên ngoài Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm 2022, tác phẩm này lần nữa đạt thành tích đáng chú ý khi được trao giải Kim Hầu trong khuôn khổ Lễ hội Truyện tranh và Hoạt hình quốc tế Trung Quốc lần thứ 18. Đây là một trong những dấu mốc đáng chú ý trong quá trình phát triển của loạt truyện."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm 2025, Ưu Tích tiếp tục được nhắc đến với Bộ xương yêu dấu , một tác phẩm được văn hóa Mông Cổ truyền cảm hứng."
+    },
+    {
+     "t": "p",
+     "text": "Tác phẩm vào đề cử Top 10 tác phẩm truyện tranh , hoạt hình xuất sắc, giúp tác giả nhận giải Top 10 Hoạt hình xuất sắc tại Giải thưởng nghệ thuật thường niên các tác phẩm truyện tranh, hoạt hình nguyên bản Kim Long."
+    },
+    {
+     "t": "p",
+     "text": "Giữa năm 2026, Thảo nguyên dị truyện tiếp tục được trao giải tiểu thuyết đồ họa xuất sắc tại Lễ trao giải Émile Guimet dành cho Văn học châu Á lần thứ 9 ở Pháp. Trước đó, tác phẩm được mua bản quyền dịch và xuất bản tại Pháp với tên Les Légendes des steppes (tạm dịch: Huyền thoại vùng thảo nguyên )."
+    },
+    {
+     "t": "p",
+     "text": "Việc xuất bản tại Pháp đánh dấu thêm một bước trong quá trình đưa những câu chuyện có nguồn gốc từ văn hóa Mông Cổ đến với độc giả quốc tế. Từ một loạt truyện được đăng tải trên mạng xã hội, Thảo nguyên dị truyện dần có thêm những phiên bản ngôn ngữ khác và xuất hiện trong các hoạt động văn hóa, nghệ thuật bên ngoài Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Dù đã có những thành tựu trong lĩnh vực truyện tranh, Ưu Tích vẫn nhìn nhận mình là người đến với nghề theo con đường tự học, những gì đạt được đến từ quá trình làm việc lâu dài cùng niềm yêu thích đối với việc vẽ và kể chuyện."
+    },
+    {
+     "t": "p",
+     "text": "Thảo nguyên dị truyện có một cột truyện mạch lạc, nét vẽ khoáng đạt. Các câu chuyện của Ưu Tích phần nào lột tả đời sống thường nhật của những con người thảo nguyên, cũng như những quan niệm dân gian về thần linh ma quỷ."
+    },
+    {
+     "t": "p",
+     "text": "Nó cho thấy yếu tố \"hương xa\" luôn có sức hấp dẫn quốc tế nhất định, nhất là với những nền văn hóa thuộc các dân tộc ít người, biệt lập và còn chưa được khai thác nhiều trong nền văn hóa đại chúng."
+    },
+    {
+     "t": "p",
+     "text": "Bản thân Ưu Tích cũng cần tích lũy đủ nội lực nếu muốn đi đường dài với truyện tranh, nhất là phát triển các cốt truyện dài hơi và phức tạp hơn, thay vì những lát cắt nhỏ, những tiểu truyện được giải quyết gọn gàng và những nhân vật chưa được đào sâu tâm lý."
+    },
+    {
+     "t": "p",
+     "text": "Thành công của Ưu Tích cũng như Thảo nguyên dị truyện chính là một bài học và động lực đối với các họa sĩ theo đuổi công việc vẽ truyện tranh."
+    },
+    {
+     "t": "p",
+     "text": "Với các họa sĩ truyện tranh ở Việt Nam, việc khai thác các yếu tố văn hóa cũng như không gian bản địa có lẽ là một hướng đi đúng đắn nếu muốn nhận được sự quan tâm nhiều hơn của độc giả và các đơn vị xuất bản quốc tế."
+    }
+   ]
+  },
+  {
+   "id": "44a9254c928e",
+   "order": 16,
+   "slug": "8-thu-vien-dep-bac-nhat-the-gioi",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "8 thư viện đẹp bậc nhất thế giới",
+   "sapo": "Từ những công trình cổ kính hàng trăm năm tuổi đến các thiết kế hiện đại, 8 thư viện đẹp bậc nhất thế giới đều gây ấn tượng bởi giá trị nghệ thuật và kiến trúc độc đáo.",
+   "author": "Tâm Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/8-thu-vien-dep-bac-nhat-the-gioi-5123813.html",
+   "published": "2026-09-25T00:30:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1573,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/44a9254c928e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1921
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 810
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1500
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-6.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 565
+    },
+    {
+     "src": "img/2026-09-26/44a9254c928e-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "8 thư viện đẹp bậc nhất thế giới"
+    },
+    {
+     "t": "p",
+     "text": "Từ những công trình cổ kính hàng trăm năm tuổi đến các thiết kế hiện đại, 8 thư viện đẹp bậc nhất thế giới đều gây ấn tượng bởi giá trị nghệ thuật và kiến trúc độc đáo."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Việc xác định thư viện đẹp nhất không dễ dàng nếu chỉ xét chức năng tiếp cận kho tri thức. Tuy nhiên, một số thư viện nổi tiếng về mặt thẩm mỹ, kiến trúc, hút khách du lịch. Các thư viện dưới đây do Architectural Digest, Travel+Leisure và Tatler Asia, những website hàng đầu thế giới về lĩnh vực Kiến trúc và Du lịch bình chọn."
+    },
+    {
+     "t": "p",
+     "text": "Thư viện Trinity College Dublin, Ireland"
+    },
+    {
+     "t": "p",
+     "text": "Trinity College Dublin xuất hiện trong hầu hết bình chọn thư viện đẹp nhất thế giới. Nơi này gồm nhiều tòa nhà nhưng nổi bật nhất là Old Library do kiến trúc sư Thomas Burgh thiết kế và được xây dựng trong giai đoạn năm 1712-1732."
+    },
+    {
+     "t": "p",
+     "text": "Old Library sở hữu Long Room (ảnh), căn phòng dài khoảng 61 m, trần cao và được trang trí với những bức tượng bán thân bằng đá cẩm thạch của các triết gia, nhà văn nổi tiếng. Các giá sách gỗ sồi lưu giữ khoảng 200.000 cuốn sách cổ cùng nhiều hiện vật, bản thảo lịch sử. Ảnh: Visit Trinity"
+    },
+    {
+     "t": "p",
+     "text": "Việc xác định thư viện đẹp nhất không dễ dàng nếu chỉ xét chức năng tiếp cận kho tri thức. Tuy nhiên, một số thư viện nổi tiếng về mặt thẩm mỹ, kiến trúc, hút khách du lịch. Các thư viện dưới đây do Architectural Digest, Travel+Leisure và Tatler Asia, những website hàng đầu thế giới về lĩnh vực Kiến trúc và Du lịch bình chọn."
+    },
+    {
+     "t": "p",
+     "text": "Thư viện Trinity College Dublin, Ireland"
+    },
+    {
+     "t": "p",
+     "text": "Trinity College Dublin xuất hiện trong hầu hết bình chọn thư viện đẹp nhất thế giới. Nơi này gồm nhiều tòa nhà nhưng nổi bật nhất là Old Library do kiến trúc sư Thomas Burgh thiết kế và được xây dựng trong giai đoạn năm 1712-1732."
+    },
+    {
+     "t": "p",
+     "text": "Old Library sở hữu Long Room (ảnh), căn phòng dài khoảng 61 m, trần cao và được trang trí với những bức tượng bán thân bằng đá cẩm thạch của các triết gia, nhà văn nổi tiếng. Các giá sách gỗ sồi lưu giữ khoảng 200.000 cuốn sách cổ cùng nhiều hiện vật, bản thảo lịch sử. Ảnh: Visit Trinity"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Thư viện thành phố Stuttgart, Đức"
+    },
+    {
+     "t": "p",
+     "text": "Hiện đại, tối giản và thẩm mỹ là những miêu tả rõ nhất về Thư viện Thành phố Stuttgart. Mở cửa năm 2011, công trình như một kim tự tháp ngược, không gian đọc sách được thiết kế mở cùng hệ thống cầu thang kết nối các tầng."
+    },
+    {
+     "t": "p",
+     "text": "Thư viện có hình khối lập phương, nổi bật với tông trắng sáng và một sảnh thông tầng rộng. Nơi này tạo cảm giác giống một bảo tàng nghệ thuật đương đại hơn thư viện truyền thống. Ảnh: Trip"
+    },
+    {
+     "t": "p",
+     "text": "Thư viện thành phố Stuttgart, Đức"
+    },
+    {
+     "t": "p",
+     "text": "Hiện đại, tối giản và thẩm mỹ là những miêu tả rõ nhất về Thư viện Thành phố Stuttgart. Mở cửa năm 2011, công trình như một kim tự tháp ngược, không gian đọc sách được thiết kế mở cùng hệ thống cầu thang kết nối các tầng."
+    },
+    {
+     "t": "p",
+     "text": "Thư viện có hình khối lập phương, nổi bật với tông trắng sáng và một sảnh thông tầng rộng. Nơi này tạo cảm giác giống một bảo tàng nghệ thuật đương đại hơn thư viện truyền thống. Ảnh: Trip"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Strahov Monastery Library (Prague, CH Czech)"
+    },
+    {
+     "t": "p",
+     "text": "Được xây dựng năm 1679 trong một tu viện có từ thế kỷ 12, thư viện Strahov đóng vai trò quan trọng trong lịch sử CH Czech và hiện lưu giữ hàng nghìn bản in được thực hiện trong khoảng từ thế kỷ XVI đến XVIII."
+    },
+    {
+     "t": "p",
+     "text": "Nổi tiếng với những bức bích họa Kinh Thánh, thư viện gồm hai đại sảnh là Sảnh Thần học và Sảnh Triết học, được trang trí lộng lẫy. Không chỉ lưu giữ khoảng 200.000 đầu sách, nơi đây như một phòng trưng bày nghệ thuật. Ảnh: Our Beautiful Prague"
+    },
+    {
+     "t": "p",
+     "text": "Strahov Monastery Library (Prague, CH Czech)"
+    },
+    {
+     "t": "p",
+     "text": "Được xây dựng năm 1679 trong một tu viện có từ thế kỷ 12, thư viện Strahov đóng vai trò quan trọng trong lịch sử CH Czech và hiện lưu giữ hàng nghìn bản in được thực hiện trong khoảng từ thế kỷ XVI đến XVIII."
+    },
+    {
+     "t": "p",
+     "text": "Nổi tiếng với những bức bích họa Kinh Thánh, thư viện gồm hai đại sảnh là Sảnh Thần học và Sảnh Triết học, được trang trí lộng lẫy. Không chỉ lưu giữ khoảng 200.000 đầu sách, nơi đây như một phòng trưng bày nghệ thuật. Ảnh: Our Beautiful Prague"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Wiblingen Monastery Library (Đức)"
+    },
+    {
+     "t": "p",
+     "text": "Thư viện như bước ra từ truyện cổ tích thời Baroque, ẩn mình bên trong một tu viện ở Đức. Những cột đá cẩm thạch xanh và hồng, tượng bằng sứ và mạ vàng hay họa tiết khảm gỗ trên cánh cửa thực ra chỉ là ảo giác. Ngoại trừ sàn và trần, phần lớn căn phòng được làm từ gỗ sơn, sau đó trang trí theo phong cách mô phỏng chân thực đến mức khó nhận ra. Ảnh: Kloster"
+    },
+    {
+     "t": "p",
+     "text": "Wiblingen Monastery Library (Đức)"
+    },
+    {
+     "t": "p",
+     "text": "Thư viện như bước ra từ truyện cổ tích thời Baroque, ẩn mình bên trong một tu viện ở Đức. Những cột đá cẩm thạch xanh và hồng, tượng bằng sứ và mạ vàng hay họa tiết khảm gỗ trên cánh cửa thực ra chỉ là ảo giác. Ngoại trừ sàn và trần, phần lớn căn phòng được làm từ gỗ sơn, sau đó trang trí theo phong cách mô phỏng chân thực đến mức khó nhận ra. Ảnh: Kloster"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Admont Abbey Library (Áo)"
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là một công trình kiến trúc mang phong cách Baroque, nơi lưu giữ bộ sưu tập khoảng 70.000 cuốn sách. Thư viện mở cửa năm 1776, gắn liền với tu viện lâu đời nhất còn tồn tại ở Styria, Áo."
+    },
+    {
+     "t": "p",
+     "text": "Không gian nội thất thoáng đãng với hai gam màu trắng và vàng, được trang trí bằng những bức bích họa của Bartolomeo Altomonte cùng các tác phẩm điêu khắc của Josef Stammel - hai nghệ sĩ tiêu biểu thời kỳ Baroque. Ảnh: eLib"
+    },
+    {
+     "t": "p",
+     "text": "Admont Abbey Library (Áo)"
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là một công trình kiến trúc mang phong cách Baroque, nơi lưu giữ bộ sưu tập khoảng 70.000 cuốn sách. Thư viện mở cửa năm 1776, gắn liền với tu viện lâu đời nhất còn tồn tại ở Styria, Áo."
+    },
+    {
+     "t": "p",
+     "text": "Không gian nội thất thoáng đãng với hai gam màu trắng và vàng, được trang trí bằng những bức bích họa của Bartolomeo Altomonte cùng các tác phẩm điêu khắc của Josef Stammel - hai nghệ sĩ tiêu biểu thời kỳ Baroque. Ảnh: eLib"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "The Starfield Library (Hàn Quốc)"
+    },
+    {
+     "t": "p",
+     "text": "Nhiều du khách nhầm thư viện Starfield với một hiệu sách vì công trình nằm trong một trung tâm thương mại ở Seoul. Không gian thoáng rộng với hai tầng được bao quanh bởi những kệ sách khổng lồ, cùng các tác phẩm nghệ thuật được thay đổi thường xuyên. Thư viện có nhiều khu vực ngồi và hơn 70.000 đầu sách. Ảnh: Trip"
+    },
+    {
+     "t": "p",
+     "text": "The Starfield Library (Hàn Quốc)"
+    },
+    {
+     "t": "p",
+     "text": "Nhiều du khách nhầm thư viện Starfield với một hiệu sách vì công trình nằm trong một trung tâm thương mại ở Seoul. Không gian thoáng rộng với hai tầng được bao quanh bởi những kệ sách khổng lồ, cùng các tác phẩm nghệ thuật được thay đổi thường xuyên. Thư viện có nhiều khu vực ngồi và hơn 70.000 đầu sách. Ảnh: Trip"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Bibliotheca Alexandrina (Ai Cập)"
+    },
+    {
+     "t": "p",
+     "text": "Thư viện Alexandria nằm bên bờ Địa Trung Hải ở thành phố Alexandria. Ngoại thất công trình là những họa tiết chạm khắc, ẩn sau tường đá granite Aswan, chạm khắc các ký tự thuộc 120 hệ chữ viết. Thư viện này còn có trung tâm hội nghị, bảo tàng, phòng trưng bày nghệ thuật, khu triển lãm, cung thiên văn và phòng thí nghiệm phục chế bản thảo. Ảnh: Avia"
+    },
+    {
+     "t": "p",
+     "text": "Bibliotheca Alexandrina (Ai Cập)"
+    },
+    {
+     "t": "p",
+     "text": "Thư viện Alexandria nằm bên bờ Địa Trung Hải ở thành phố Alexandria. Ngoại thất công trình là những họa tiết chạm khắc, ẩn sau tường đá granite Aswan, chạm khắc các ký tự thuộc 120 hệ chữ viết. Thư viện này còn có trung tâm hội nghị, bảo tàng, phòng trưng bày nghệ thuật, khu triển lãm, cung thiên văn và phòng thí nghiệm phục chế bản thảo. Ảnh: Avia"
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Thư viện Biblioteca Vasconcelos (Mexico City, Mexico)"
+    },
+    {
+     "t": "p",
+     "text": "Cách các giá sách tại thư viện Vasconcelos được sắp xếp khiến không gian như thế giới tương lai, nơi mọi thứ được ghép lại bằng những điểm ảnh. Tòa nhà được trang trí bằng các tác phẩm nghệ thuật và điêu khắc của nhiều nghệ sĩ Mexico, do hai kiến trúc sư Alberto Kalach và Juan Palomar thiết kế. Visit Mexico"
+    },
+    {
+     "t": "p",
+     "text": "Thư viện Biblioteca Vasconcelos (Mexico City, Mexico)"
+    },
+    {
+     "t": "p",
+     "text": "Cách các giá sách tại thư viện Vasconcelos được sắp xếp khiến không gian như thế giới tương lai, nơi mọi thứ được ghép lại bằng những điểm ảnh. Tòa nhà được trang trí bằng các tác phẩm nghệ thuật và điêu khắc của nhiều nghệ sĩ Mexico, do hai kiến trúc sư Alberto Kalach và Juan Palomar thiết kế. Visit Mexico"
+    },
+    {
+     "t": "p",
+     "text": "Tâm Anh (theo Architectural Digest, Travel+Leisure, Tatler Asia )"
+    }
+   ]
+  },
+  {
+   "id": "a8a6b4b35808",
+   "order": 17,
+   "slug": "sinh-vien-dai-hoc-duy-tan-dat-giai-quoc-te-voi-thiet-ke-to-a",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Sinh viên Đại học Duy Tân đạt giải quốc tế với Thiết kế ‘Tổ ấm’ cho Làng Nủ",
+   "sapo": "Thiết kế “V-Nest 80” nhằm tái thiết không gian sống và hỗ trợ trẻ em Làng Nủ của sv viên Võ Nguyễn Minh Nhật và Võ Văn Đức (Trường Công nghệ & Kỹ thuật - ĐH Duy Tân) xuất sắc giành giải C-IDEA Design Award 2026, hạng mục Thiết kế Kiến trúc.",
+   "author": "KHÊ MỘC",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/sinh-vien-dai-hoc-duy-tan-dat-giai-quoc-te-voi-thiet-ke-to-am-cho-lang-nu-100260925153143174.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 1151,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/a8a6b4b35808-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/a8a6b4b35808-0.jpg",
+     "caption": "“V-Nest 80” giành giải C-IDEA Design Award 2026ở hạng mục Thiết kế Kiến trúc - Ảnh: NVCC",
+     "w": 1200,
+     "h": 1698
+    },
+    {
+     "src": "img/2026-09-26/a8a6b4b35808-1.jpg",
+     "caption": "KTS. Nguyễn Hoàng Long đồng hành cùng 2 sinh viên Võ Nguyễn Minh Nhật và Võ Văn Đức tham gia nhiều hoạt động về Kiến trúc - Ảnh: NVCC",
+     "w": 1200,
+     "h": 788
+    },
+    {
+     "src": "img/2026-09-26/a8a6b4b35808-2.jpg",
+     "caption": "Sinh viên Võ Văn Đức - Ảnh: NVCC",
+     "w": 1200,
+     "h": 1800
+    },
+    {
+     "src": "img/2026-09-26/a8a6b4b35808-3.jpg",
+     "caption": "Sinh viên Võ Nguyễn Minh Nhật - Ảnh: NVCC",
+     "w": 1200,
+     "h": 1645
+    },
+    {
+     "src": "img/2026-09-26/a8a6b4b35808-4.jpg",
+     "caption": "Sinh viên Đại học Duy Tân đạt giải quốc tế với Thiết kế ‘Tổ ấm’ cho Làng Nủ - Ảnh: NVCC",
+     "w": 1280,
+     "h": 760
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dự án được khởi nguồn từ nỗi trăn trở trước những mất mát nặng nề của người dân Làng Nủ sau cơn bão Yagi. Dưới sự hướng dẫn của KTS."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Hoàng Long (giảng viên Khoa Kiến trúc), nhóm tác giả trẻ đã nỗ lực tìm kiếm một lời giải kiến trúc nhân văn, giúp cộng đồng từng bước ổn định sinh hoạt và chữa lành sau bão lũ."
+    },
+    {
+     "t": "p",
+     "text": "C-IDEA Design Award 2026 là một trong những sân chơi thiết kế quốc tế uy tín với quy mô lớn, quy tụ các tác phẩm đến từ 45 quốc gia và vùng lãnh thổ như: Mỹ, Ba Lan, Ấn Độ, Nhật Bản, Trung Quốc, Thổ Nhĩ Kỳ, Đức, Tây Ban Nha, Hungary,…"
+    },
+    {
+     "t": "p",
+     "text": "Cuộc thi bao gồm nhiều hạng mục thi đấu như: Thời trang, Thiết kế Đồ họa, Nhiếp ảnh, Điêu khắc, Thiết kế Nội thất, Thiết kế Sách,… tạo nên một không gian cởi mở và đa dạng để các ý tưởng sáng tạo được giới thiệu và ghi nhận trên phạm vi quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "41 giám khảo gồm các nhà thiết kế, chuyên gia quốc tế giàu kinh nghiệm và tên tuổi"
+    },
+    {
+     "t": "p",
+     "text": "trực tiếp đánh giá các tác phẩm dự thi, mang đến góc nhìn đa chiều và góp phần nâng cao giá trị chuyên môn và chuyên sâu trong quy trình đánh giá giải thưởng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Bản thiết kế khởi nguồn từ trẻ em Làng Nủ"
+    },
+    {
+     "t": "p",
+     "text": "Chọn trẻ em - đối tượng dễ bị tổn thương làm trung tâm cho giải pháp kiến trúc, \"V-Nest 80\" dần thành hình là một không gian vừa che chở vừa hỗ trợ học tập, chăm sóc sức khỏe và từng bước tái thiết đời sống cộng đồng và trẻ em Làng Nủ."
+    },
+    {
+     "t": "p",
+     "text": "\"Dự án 'V-Nest 80' được nhóm chúng em quy hoạch trên địa thế cao của đồi núi dốc giúp giảm thiểu rủi ro ngập lụt hay lũ quét trong tương lai. Tôn trọng tự nhiên, nhóm hạn chế tối đa việc đào đắp để bảo vệ tính ổn định của mặt bằng địa chất."
+    },
+    {
+     "t": "p",
+     "text": "Bao quanh công trình là những sườn đồi xanh mát, mở ra một không gian gần gũi với thiên nhiên, nơi trẻ em có thể vui chơi, kết nối và tìm lại cảm giác bình yên, qua đó góp phần mang đến liệu pháp chữa lành tâm lý tự nhiên và hiệu quả nhất sau những mất mát.\", SV Võ Văn Đức cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"V-Nest 80\" được đánh giá cao về mặt công năng khi mặt bằng công trình được tính toán chặt chẽ với 3 phân khu chính gắn liền với nhu cầu sinh hoạt và phục hồi gồm: Khu Vệ sinh và cấp nước sạch, Khu vực y tế và khu sinh sống và học tập."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, khu sinh sống và học tập là một không gian \"mở\" hoàn toàn, không có tường bao kín, giúp trẻ em có thể vừa học vừa hòa mình vào không gian của gió núi, đồng thời hệ thống cửa sổ xung quanh có thể nhanh chóng đóng kín khi giông bão bất ngờ"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Kỹ thuật hiện đại trên nền tảng kiến trúc bản địa"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ là một giải pháp kiến trúc giàu tính sáng tạo, dự án \"V-Nest 80\" của các nhà thiết kế trẻ DTU còn đáp ứng các yêu cầu khắt khe về kỹ thuật, thẩm mỹ và tính bền vững. Dự án kế thừa nguyên lý của nhà sàn truyền thống bản địa nhưng được \"nâng cấp\" dưới góc nhìn kỹ thuật hiện đại, cụ thể với:"
+    },
+    {
+     "t": "p",
+     "text": "- Hệ Cột gỗ nâng nền : Công trình nổi lên khỏi mặt đất nhờ hệ cột và dầm gỗ đặt trên móng bê tông vững chắc, cho phép nước lũ chảy tràn qua bên dưới mà không gây hư hại, đồng thời ngăn chặn ẩm thấp và côn trùng."
+    },
+    {
+     "t": "p",
+     "text": "- Hệ Khung gỗ truyền thống : Kỹ thuật mộng và chốt gỗ truyền thống được áp dụng nhằm hạn chế tối đa đinh ốc kim loại, giúp biến công trình thành các module dễ dàng lắp ráp, tháo dỡ, bảo trì hay thay thế trong điều kiện thi công khẩn cấp sau bão."
+    },
+    {
+     "t": "p",
+     "text": "- Thông gió tự nhiên và lớp vỏ thích ứng : Hệ mái dốc lớn giúp thoát nước mưa nhanh chóng, trong khi cấu trúc mái giật cấp tạo các khe thông gió tại đỉnh, tận dụng hiệu quả \"hiệu ứng ống khói\" (stack effect) để đưa khí nóng ra ngoài, tăng cường lưu thông không khí tự nhiên và cải thiện tiện nghi nhiệt bên trong công trình."
+    },
+    {
+     "t": "p",
+     "text": "- Lớp vỏ bao che thích ứng : Mặt Đông và Tây sử dụng lam gỗ đóng mở linh hoạt để cản nắng, đón gió trong khi mặt Bắc và Nam mở rộng với mái hiên vươn dài, tăng tầm nhìn và đón gió mát."
+    },
+    {
+     "t": "p",
+     "text": "\"Là sinh viên Kiến trúc, em luôn mong muốn được vận dụng những kiến thức đã học tại trường cùng các ý tưởng của bản thân để tạo ra những thiết kế mang giá trị thực tiễn, đồng thời thử sức tại các sân chơi quốc tế như C-IDEA Design Award 2026. Đó cũng chính là tinh thần trong đào tạo Kiến trúc ở DTU\", SV Võ Nguyễn Minh Nhật chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đồng hành cùng 2 sinh viên tham gia sân chơi Kiến trúc mang tầm quốc tế này là KTS. Nguyễn Hoàng Long - giảng viên Khoa Kiến trúc, Trường Công nghệ & Kỹ thuật (SET), ĐH Duy Tân . Thầy được biết đến qua nhiều giải thưởng lớn như: Vô địch Cuộc thi Thiết kế Nhà chống Động đất - IDEERS châu Á-Thái Bình Dương 2023 tại Đài Loan, giải Nhất Thiết kế Nhanh B tại Liên hoan Sinh viên Kiến trúc Toàn quốc 2022."
+    },
+    {
+     "t": "p",
+     "text": "\"Dự án 'V-Nest 80' đã được thầy và trò tính toán ở rất nhiều góc độ từ vị trí công trình, tổ chức không gian, kết cấu, vật liệu đến khả năng thích ứng với địa hình, khí hậu,… Tôi đánh giá cao 2 sinh viên Võ Nguyễn Minh Nhật và Võ Văn Đức không chỉ ở việc các em có một ý tưởng hay, nhiều tính nhân văn và trách nhiệm với cộng đồng mà còn ở việc các em kiên trì đi đến tận cùng để biến ý tưởng đó thành một giải pháp kiến trúc có cơ sở."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Việc đưa đồ án ra một cuộc thi quốc tế cũng cho các em một phép thử khác so với môi trường giảng đường Việt Nam. Khi đứng trước những giám khảo đa chiều đến từ nhiều quốc gia, các em phải tự nhìn lại đồ án một cách khách quan hơn, phải giải thích được vì sao mình chọn giải pháp này, để giải quyết vấn đề gì và có thuyết phục hay không\", thầy Hoàng Long chia sẻ."
+    }
+   ]
+  },
+  {
+   "id": "0aa681c945f3",
+   "order": 18,
+   "slug": "giam-doc-so-gd-dt-ninh-binh-noi-ve-nam-sinh-lop-11-cuu-2-em",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Giám đốc Sở GD-ĐT Ninh Bình nói về nam sinh lớp 11 cứu 2 em nhỏ dù không biết bơi",
+   "sapo": "Nguyễn Mạnh Hùng, học sinh lớp 11B1, Trường THPT B Hải Hậu, vừa được nhận bằng khen của Chủ tịch UBND tỉnh Ninh Bình vì đã dũng cảm lao xuống sông, cứu hai em nhỏ gặp nạn.",
+   "author": "Trọng Tùng",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/giam-doc-so-gd-dt-ninh-binh-noi-ve-nam-sinh-lop-11-cuu-2-ban-du-khong-biet-boi-2558962.html",
+   "published": "2026-09-25T11:39:48+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 624,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/0aa681c945f3-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 679
+    },
+    {
+     "src": "img/2026-09-26/0aa681c945f3-0.jpg",
+     "caption": "Giám đốc Sở GD-ĐT Ninh Bình Nguyễn Tiến Dũng trao bằng khen của Chủ tịch UBND tỉnh cho em Nguyễn Mạnh Hùng.",
+     "w": 1280,
+     "h": 856
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 25/9, thừa ủy quyền của Chủ tịch UBND tỉnh Ninh Bình, Giám đốc Sở GD-ĐT Nguyễn Tiến Dũng trao bằng khen cho em Nguyễn Mạnh Hùng, học sinh lớp 11B1, Trường THPT B Hải Hậu, vì đã có hành động dũng cảm cứu hai em nhỏ gặp nạn dưới nước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, khoảng 11h15 phút ngày 24/9, trên đường đi học về, Hùng phát hiện hai em Lê Quang Thái, học sinh lớp 6B2, Trường THCS A Hải Xuân và Lê Anh Thơ, học sinh lớp 1C2, Trường Tiểu học A Hải Xuân, bị ngã xuống sông."
+    },
+    {
+     "t": "p",
+     "text": "Trong tình huống khẩn cấp, khi hai em nhỏ đang chới với giữa dòng nước, Hùng đã nhanh chóng để lại xe và ba lô trên đường, lao xuống nước ứng cứu và lần lượt đưa cả hai em nhỏ vào bờ an toàn. Hành động diễn ra trong thời điểm đặc biệt nguy hiểm, đòi hỏi sự nhanh trí, lòng dũng cảm và tinh thần sẵn sàng giúp đỡ người khác. Việc Hùng không chần chừ trước tình huống nguy cấp đã góp phần bảo vệ an toàn tính mạng cho hai em nhỏ, mang lại niềm vui và sự bình an cho gia đình các em."
+    },
+    {
+     "t": "p",
+     "text": "Ngay sau khi sự việc xảy ra, Trường THPT B Hải Hậu đã báo cáo Sở GD-ĐT Ninh Bình và UBND xã Hải Xuân, đề nghị kịp thời biểu dương, khen thưởng hành động dũng cảm của học sinh. Chiều 24/9, Chủ tịch UBND xã Hải Xuân Mai Xuân Hòa đã ban hành quyết định về việc tặng giấy khen đột xuất cho em Nguyễn Mạnh Hùng."
+    },
+    {
+     "t": "p",
+     "text": "Theo Giám đốc Sở GD-ĐT Ninh Bình Nguyễn Tiến Dũng, hành động của Hùng góp phần lan tỏa tinh thần trách nhiệm, biết yêu thương và sẵn sàng giúp đỡ người khác khi gặp khó khăn. Đây cũng là dịp để các nhà trường tiếp tục quan tâm giáo dục kỹ năng phòng, chống đuối nước, kỹ năng ứng phó tình huống khẩn cấp và ý thức bảo đảm an toàn khi tham gia cứu hộ."
+    },
+    {
+     "t": "p",
+     "text": "Hùng chia sẻ, khi nhìn thấy người khác gặp nguy hiểm, nếu có thể giúp được thì em nghĩ mình nên cố gắng giúp đỡ."
+    },
+    {
+     "t": "p",
+     "text": "“Được tuyên dương và khen thưởng, em cảm thấy rất vinh dự. Đây là niềm vui lớn đối với bản thân em, gia đình và nhà trường, đồng thời cũng là động lực để em tiếp tục cố gắng hơn nữa trong học tập và rèn luyện."
+    },
+    {
+     "t": "p",
+     "text": "Qua sự việc này, em nhận thấy khi cứu người trong tình huống nguy hiểm cần có sự bình tĩnh, kiến thức và kỹ năng để bảo đảm an toàn cho cả người gặp nạn và người cứu. Em mong các bạn học sinh luôn quan tâm, giúp đỡ mọi người xung quanh, đồng thời tích cực học kỹ năng phòng, chống đuối nước và cứu hộ an toàn\", Hùng nói."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, trả lời VietNamNet, Hùng chia sẻ, trên đường đi học về, khi qua đoạn sông Múc, em bất ngờ thấy hai em nhỏ đang chới với dưới dòng nước và kêu cứu. Thời điểm đó, xung quanh không có người, thấy một em đang chìm dần nên Hùng không kịp nghĩ nhiều đã lập tức lao xuống cứu hai em."
+    },
+    {
+     "t": "p",
+     "text": "“Em không biết bơi nhưng lúc đó đường vắng không có ai, thấy các em đang gặp nguy hiểm nên em không nghĩ nhiều, chỉ nghĩ phải xuống cứu người. Em nhỏ chìm trước nên em cứu vào bờ trước. Rất may đoạn sông này chỉ sâu đến cổ em. Khi đưa được cả hai em lên bờ thì mới có người đi qua dừng lại hỗ trợ”, Hùng kể."
+    }
+   ]
+  },
+  {
+   "id": "faf8c7e68edd",
+   "order": 19,
+   "slug": "nam-sinh-lao-xuong-song-cuu-hai-em-nho-du-khong-biet-boi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nam sinh lao xuống sông cứu hai em nhỏ dù không biết bơi",
+   "sapo": "Ninh Bình Thấy hai em nhỏ chới với dưới dòng nước sâu, dù không biết bơi nhưng Nguyễn Mạnh Hùng vẫn lao xuống, đưa lên bờ an toàn.",
+   "author": "Lê Hoàng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nam-sinh-lao-xuong-song-cuu-hai-em-nho-du-khong-biet-boi-5124442.html",
+   "published": "2026-09-25T01:36:08+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 229,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/faf8c7e68edd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-09-26/faf8c7e68edd-0.jpg",
+     "caption": "Nguyễn Mạnh Hùng cứu hai em nhỏ ngày 24/9. Ảnh người dân cung cấp",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ninh Bình Thấy hai em nhỏ chới với dưới dòng nước sâu, dù không biết bơi nhưng Nguyễn Mạnh Hùng vẫn lao xuống, đưa lên bờ an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Sự việc xảy ra vào khoảng 11h15 ngày 24/9, trên đường Hùng đi học về qua khu vực sông Múc, xã Hải Xuân. Phát hiện một em có dấu hiệu chìm dần, Hùng đưa bé này vào bờ trước, rồi quay lại cứu em kia."
+    },
+    {
+     "t": "p",
+     "text": "Hai học sinh được cứu là anh em ruột, học lớp 1 và 6 ở Tiểu học A và THCS Hải Xuân. Các em cho biết đạp xe về nhà sau giờ học thì va chạm với một xe tải, mất lái rồi rơi xuống sông."
+    },
+    {
+     "t": "p",
+     "text": "\"Em không biết bơi nhưng lúc đó đường vắng, không có ai. Thấy các em gặp nguy hiểm nên em chỉ nghĩ phải cứu người...\", Hùng kể, cho biết đoạn sông này nước sâu ngang tới cổ của mình."
+    },
+    {
+     "t": "p",
+     "text": "Chủ tịch UBND xã Hải Xuân chiều qua đã tặng giấy khen đột xuất cho nam sinh lớp 11B1, trường THPT B Hải Hậu, vì hành động dũng cảm."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Văn Tuấn, Hiệu trưởng nhà trường, đánh giá Hùng thể hiện tinh thần trách nhiệm, nhân ái, là hành động đẹp trong tuổi trẻ học đường. Trường sẽ biểu dương, đề xuất ngành giáo dục khen thưởng em."
+    },
+    {
+     "t": "img",
+     "i": 1
+    }
+   ]
+  },
+  {
+   "id": "0a1b0dbba557",
+   "order": 20,
+   "slug": "ky-thu-17-tuoi-viet-nam-gay-sot-voi-man-tra-loi-phong-van-ti",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Kỳ thủ 17 tuổi Việt Nam gây sốt với màn trả lời phỏng vấn tiếng Anh",
+   "sapo": "Không chỉ gây ấn tượng về phong độ thi đấu tại giải Olympiad cờ vua, kỳ thủ 17 tuổi Bành Gia Huy khiến cộng đồng quốc tế trầm trồ trước phong thái tự tin khi trả lời phỏng vấn lưu loát, sắc sảo bằng tiếng Anh.",
+   "author": "TUẤN LONG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ky-thu-17-tuoi-viet-nam-gay-sot-voi-man-tra-loi-phong-van-tieng-anh-10026092518440671.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 614,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-09-26/0a1b0dbba557-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-09-26/0a1b0dbba557-0.jpg",
+     "caption": "Bành Gia Huy trả lời phỏng vấn tiếng Anh trên trang Checkmate Daily - Ảnh: chụp màn hình",
+     "w": 1280,
+     "h": 624
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chiều 25-9, trang Facebook Checkmate Daily đăng tải video phỏng vấn nhanh về Bành Gia Huy, sau khi kỳ thủ 17 tuổi gây nên bất ngờ khi giành chiến thắng trước Đại kiện tướng người Israel - Ido Gorshtein, để đội tuyển Việt Nam cân bằng tỉ số 2-2 tại ván 8 Olympiad cờ vua ."
+    },
+    {
+     "t": "p",
+     "text": "Đầu tiên, khi nhớ lại ván đấu khó khăn, Bành Gia Huy thừa nhận bản thân rơi vào tình cảnh hiểm nghèo ngay từ giai đoạn khai cuộc khi đối thủ chuẩn bị quá kỹ lưỡng."
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng bằng nhãn quan chiến thuật nhạy bén, Gia Huy gài bẫy chuẩn xác trong giai đoạn cờ tàn để giành chiến thắng chung cuộc và giải thích cụ thể qua đoạn phỏng vấn."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thủ 17 tuổi Bành Gia Huy giải thích về ván thắng trước Đại kiện tướng người Israel - Video: Checkmate Daily"
+    },
+    {
+     "t": "p",
+     "text": "\"Thay vì chấp nhận kết quả hòa an toàn ở tàn cuộc, anh ấy (Ido Gorshtein) trong nỗ lực đẩy cờ tìm kiếm chiến thắng vô tình mở ra cơ hội để em tận dụng sai lầm trong khoảng thời gian cuối trận\", Gia Huy chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trước ống kính truyền thông quốc tế, Gia Huy tự tin 'bắn' tiếng Anh đầy lưu loát, bày tỏ cảm xúc:"
+    },
+    {
+     "t": "p",
+     "text": "\"Em cảm thấy rất hồi hộp và căng thẳng. Bởi vì nếu em hòa thì đội nhà sẽ thua, còn nếu em thắng thì toàn đội sẽ có được trận hòa. Cảm giác gánh trên vai trọng trách lớn như vậy khiến em cảm thấy áp lực và em thực sự trút bỏ được gánh nặng khi mang về điểm quyết định để giữ lại trận hòa cho cả đội\", Gia Huy trải lòng."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp đến, kỳ thủ sinh năm 2008 tại giải năm nay được tôi luyện từ chính những bài học cay đắng trong quá khứ."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, đây là lần thứ 2 Bành Gia Huy tham dự 1 trong những giải lớn nhất của bộ môn cờ vua."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ về kỳ Olympiad đầu tiên ở Budapest cách đây hai năm, sự non nớt về kinh nghiệm từng khiến Bành Gia Huy gục ngã ở ván cờ then chốt, khiến đội nhà nhận thất bại đầy tiếc nuối."
+    },
+    {
+     "t": "p",
+     "text": "Không hề suy sụp, kỳ thủ sinh năm 2009 xem đó là bước ngoặt định hình sự nghiệp để không ngừng nỗ lực hoàn thiện bản thân mỗi ngày."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thủ 17 tuổi Bành Gia Huy khiến truyền thông quốc tế ấn tượng sau khi khép lại buổi phỏng vấn - Video: Checkmate Daily"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ gây ấn tượng mạnh bởi tư duy chiến thuật trên bàn cờ và phong thái giao tiếp tiếng Anh chuẩn mực, tài năng trẻ Việt Nam còn khiến phóng viên quốc tế phải thốt lên thán phục trước câu trả lời đầy cảm xúc ở cuối buổi phỏng vấn."
+    },
+    {
+     "t": "p",
+     "text": "Khi được hỏi về điều muốn thế giới biết nhất về đội tuyển cờ vua Việt Nam, Bành Gia Huy vừa chỉ tay vào ngôi sao trên lá cờ Việt Nam, vừa dõng dạc khẳng định:"
+    },
+    {
+     "t": "p",
+     "text": "\"Em muốn thế giới biết rằng đội tuyển Việt Nam chúng em chỉ có một ngôi sao duy nhất - đó là ngôi sao trên lá quốc kỳ. Và chính ngôi sao ấy sẽ luôn là kim chỉ nam, là nguồn động lực to lớn nhất dẫn lối để cả đội chiến đấu hết mình qua từng ván cờ\", Gia Huy tự hào chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Bành Gia Huy cùng các đồng đội hiện đang bước vào ván thi đấu thứ 9 tại Giải Olympiad cờ vua để đối đầu với đội tuyển Iran (tối 25-9)."
+    }
+   ]
+  }
+ ]
+}

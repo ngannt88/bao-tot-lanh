@@ -1,0 +1,2564 @@
+{
+ "date": "2026-10-02",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-02T07:30:06+07:00",
+ "sections": [
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  }
+ ],
+ "articles": [
+  {
+   "id": "1676676a269d",
+   "order": 1,
+   "slug": "giao-su-viet-giai-bai-toan-be-tac-55-nam",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Giáo sư Việt giải bài toán bế tắc 55 năm",
+   "sapo": "GS Phạm Tuấn Huy và cộng sự gây kinh ngạc khi giải quyết nhanh chóng một bài toán đã bế tắc 55 năm, lấy ý tưởng từ bộ môn xiếc tung hứng.",
+   "author": "Khánh Linh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/giao-su-viet-giai-bai-toan-be-tac-55-nam-5127017.html",
+   "published": "2026-10-01T04:22:54+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 811,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/1676676a269d-lead.jpg",
+     "caption": "",
+     "w": 1020,
+     "h": 573
+    },
+    {
+     "src": "img/2026-10-02/1676676a269d-0.jpg",
+     "caption": "Phạm Tuấn Huy. Ảnh: Claymath",
+     "w": 1020,
+     "h": 942
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "GS Phạm Tuấn Huy và cộng sự gây kinh ngạc khi giải quyết nhanh chóng một bài toán đã bế tắc 55 năm, lấy ý tưởng từ bộ môn xiếc tung hứng."
+    },
+    {
+     "t": "p",
+     "text": "Công trình do anh và nhà toán học Lisa Sauermann đăng tải trên nền tảng lưu trữ trực tuyến arXiv hồi tháng 2, với tiêu đề \"On Graham’s rearrangement conjecture\" (tạm dịch: Về giả thuyết sắp xếp lại của Graham). Bản chứng minh là tổng hợp của 4 bài báo, dài 27 trang, chính thức giải quyết câu hỏi mà nhà toán học nổi tiếng Ronald Graham đặt ra vào năm 1971."
+    },
+    {
+     "t": "p",
+     "text": "Nội dung câu hỏi là: với một tập hợp ngẫu nhiên gồm các số nguyên khác nhau, không bao gồm số 0, liệu ta có thể luôn sắp xếp chúng sao cho khi lần lượt cộng hai số đầu tiên, rồi ba số đầu, bốn số đầu..., thì mọi \"tổng riêng phần\" thu được đều khác nhau hay không."
+    },
+    {
+     "t": "p",
+     "text": "Nói theo ngôn ngữ của bộ môn tung hứng, điều này nghĩa là nếu mỗi quả bóng bay trên không trung trong khoảng thời gian khác nhau, liệu ta luôn có thể tìm ra một thứ tự tung bóng sao cho không có hai quả bóng nào rơi xuống cùng một nhịp, khiến màn trình diễn bị phá hỏng."
+    },
+    {
+     "t": "p",
+     "text": "Điều Graham muốn biết là câu trả lời liệu vẫn là \"có\" nếu như các con số tồn tại trong một thế giới hữu hạn, lặp lại sau một số lần đếm nhất định, giống như số in trên mặt đồng hồ. Trong nhiều thập kỷ, không ai có thể chứng minh trực giác của Graham là đúng."
+    },
+    {
+     "t": "p",
+     "text": "Huy và Sauermann có hứng thú với bài toán này từ tháng 9 năm ngoái, sau một hội nghị ở Đức. Cả hai bắt đầu bằng cách xáo trộn ngẫu nhiên tập hợp các con số và đề ra một quy trình để xử lý những dãy số có tổng bằng 0. Họ dùng một phương pháp đòi hỏi kỹ thuật cao gọi là \"chống tập trung\" (anti-concentration), từ đó chứng minh tồn tại cách sắp xếp tập hợp các con số thỏa mãn giả thuyết ban đầu."
+    },
+    {
+     "t": "p",
+     "text": "Phương pháp này phức tạp tới nỗi nhà toán học Noah Kravitz ở Đại học Oxford (Anh), một trong những người từng giải mã một phần giả thuyết này, thừa nhận \"chưa đủ can đảm để thực sự bắt tay vào thử nghiệm\", theo Quanta Magazine ."
+    },
+    {
+     "t": "p",
+     "text": "Để chứng minh, bộ đôi sử dụng phép phân tích Fourier - một lĩnh vực cho phép biểu diễn các hàm số dưới dạng tổng của các sóng đơn giản - nhằm chứng minh rằng nhìn chung, khi cộng các tập hợp số ngẫu nhiên lại với nhau, không có tổng cụ thể nào có xác suất xuất hiện cao vượt trội. Cuối cùng, cả công trình đã chứng minh giả thuyết của Graham cho các tập hợp có kích thước bất kỳ."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà toán học từng nghiên cứu vấn đề này trước đó rất ngạc nhiên khi thấy nó được giải quyết nhanh chóng như vậy."
+    },
+    {
+     "t": "p",
+     "text": "\"Họ có cách tiếp cận hoàn toàn khác biệt\", theo Alp Müyesser, nhà toán học tại Đại học Oxford."
+    },
+    {
+     "t": "p",
+     "text": "Phạm Tuấn Huy sinh năm 1996, hiện làm việc ở Đại học Chicago - trường top 16 thế giới, theo xếp hạng của THE. Trong các nhà toán học người Việt ở Mỹ, Huy có lẽ là trường hợp hiếm hoi trở thành \"Full professor\" - giáo sư biên chế bậc cao nhất, ở tuổi 30."
+    },
+    {
+     "t": "p",
+     "text": "Ở Mỹ có ba bậc giáo sư (từ thấp đến cao: Assistant professor, Associate professor, Full professor). Thông thường, các giảng viên mất 10-20 năm để đi tới bậc cuối. Trong khi đó, theo website của CalTech, Huy mới được bổ nhiệm Assistant professor ở trường vào năm 2025, sau hai năm thỉnh giảng."
+    },
+    {
+     "t": "p",
+     "text": "Những đại học trả lương 'hậu hĩnh' nhất nước Mỹ"
+    },
+    {
+     "t": "p",
+     "text": "Thời ở trường Phổ thông Năng khiếu, Đại học Quốc gia TP HCM, Phạm Tuấn Huy hai lần giành huy chương vàng Olympic Toán quốc tế (IMO) vào năm 2013, 2014. Anh lấy bằng cử nhân Toán học và thạc sĩ Thống kê tại Đại học Stanford; thạc sĩ nghiên cứu cao cấp về Toán tại Đại học Cambridge. Khi đang là nghiên cứu sinh tiến sĩ tại Stanford năm 2023, anh nhận học bổng sau tiến sĩ cho các nhà toán học triển vọng từ Viện Toán học Clay danh giá."
+    },
+    {
+     "t": "p",
+     "text": "Cộng sự của Huy - Lisa Sauermann, cũng là gương mặt nổi bật ở IMO, với 4 huy chương vàng. Cô 34 tuổi, hiện là giáo sư tại Viện Toán ứng dụng, Đại học Bonn (Đức). Hai nhà toán học đã quen biết nhau một thập kỷ, từ thời cùng học ở Stanford."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khánh Linh tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "0073f14ad45c",
+   "order": 2,
+   "slug": "co-gai-lam-hoa-thuy-tinh-ban-voi-gia-1-trieu-dong-bong",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Cô gái làm hoa thủy tinh bán với giá 1 triệu đồng/bông",
+   "sapo": "Từ bỏ công việc thiết kế đồ họa ổn định, Nguyễn Thu Hà (26 tuổi, ngụ Hà Nội) rẽ sang làm hoa thủy tinh thủ công. Có những bông hoa Hà phải mất cả tuần, qua hàng chục lần thử và không ít lần nứt vỡ mới thành hình.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/co-gai-lam-hoa-thuy-tinh-ban-voi-gia-1-trieu-dong-bong-185261001102817445.htm",
+   "published": "2026-10-01T06:45:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 940,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/0073f14ad45c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-0.jpg",
+     "caption": "Ở tuổi 26, Hà bắt đầu bén duyên với công việc làm hoa thủy tinh",
+     "w": 720,
+     "h": 743
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-4.jpg",
+     "caption": "Làm việc với lửa và nhiệt độ cao, Hà luôn phải tập trung trong từng thao tác",
+     "w": 1043,
+     "h": 695
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1936
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    },
+    {
+     "src": "img/2026-10-02/0073f14ad45c-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 2275
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Từ bỏ việc văn phòng, bén duyên với làm hoa thủy tinh"
+    },
+    {
+     "t": "p",
+     "text": "Trước khi gắn bó với hoa thủy tinh, Hà có khoảng 4 năm làm thiết kế đồ họa. Vốn yêu thích sự sáng tạo và các sản phẩm thủ công, cô từng nghĩ sẽ tiếp tục công việc thiết kế lâu dài. Thế nhưng, vào khoảng tháng 7 năm nay, Hà nghỉ công việc văn phòng và có nhiều thời gian hơn để tìm hiểu điều mình thực sự hứng thú."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một lần tình cờ xem video về quá trình làm một bông sen thủy tinh, cô gái 26 tuổi bất ngờ khi thấy thủy tinh có thể được tạo hình thành những bông hoa với nhiều chi tiết, hình dáng khác nhau. Hà bắt đầu tìm hiểu về nghệ thuật lampwork (kỹ thuật dùng ngọn lửa để tạo hình thủy tinh)."
+    },
+    {
+     "t": "p",
+     "text": "“Càng tìm hiểu mình càng thấy thú vị. Sau một thời gian tự học và làm được những bông đầu tiên, mình mới bắt đầu nghĩ đến việc phát triển công việc này nghiêm túc hơn”, Hà chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Một số mẫu hoa thủy tinh do Hà làm"
+    },
+    {
+     "t": "p",
+     "text": "Không qua lớp học chuyên sâu, Hà chủ yếu tự tìm tài liệu, xem video hướng dẫn, tìm hiểu về vật liệu, dụng cụ và quan sát cách những người đi trước xử lý từng công đoạn. Những ngày đầu, cô vừa xem, vừa làm rồi tự rút kinh nghiệm từ những lần thất bại. Có những vấn đề Hà không biết nguyên nhân đến từ kỹ thuật, vật liệu hay dụng cụ nên phải thử nhiều lần mới hiểu được cách xử lý."
+    },
+    {
+     "t": "h",
+     "text": "Một bông hoa có thể mất cả tuần để làm đi làm lại"
+    },
+    {
+     "t": "p",
+     "text": "Để tạo ra một bông hoa thủy tinh, Hà bắt đầu bằng việc nung chảy thanh thủy tinh dưới ngọn lửa, sau đó tạo hình từng cánh, ghép các cánh lại với nhau rồi hoàn thiện phần nhụy, đài và cành. Cuối cùng, hoa được xử lý nhiệt trong lò ủ để giảm ứng suất bên trong và giúp sản phẩm ổn định hơn."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Theo Hà, mỗi công đoạn đều đòi hỏi sự chính xác bởi chỉ một sai sót cũng có thể ảnh hưởng đến toàn bộ sản phẩm. Đặc biệt, khi tạo hình và ghép từng cánh hoa, khả năng chỉnh sửa sau đó khá hạn chế. “Phải hình dung trước dáng tổng thể và kiểm soát từng chi tiết ngay từ đầu”, Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Hà cho biết thời gian hoàn thiện một sản phẩm tùy thuộc vào loại hoa và độ phức tạp. Có mẫu chỉ mất vài tiếng, nhưng cũng có mẫu khiến Hà phải làm đi làm lại trong nhiều ngày."
+    },
+    {
+     "t": "p",
+     "text": "Hoa sen 7 màu là một trong những sản phẩm khiến Hà nhớ nhất. Hà mất khoảng một tuần thử đi thử lại mới tạo được bông hoa mà bản thân ưng ý. Trong quá trình đó, không ít lần sản phẩm bị hỏng, nứt và phải làm lại."
+    },
+    {
+     "t": "p",
+     "text": "Làm nghề mới được khoảng 2 tháng nên Hà thường xuyên gặp những lần thất bại. Có những bông gần hoàn thiện nhưng bị nứt hoặc không đạt được hình dáng mong muốn, cô đành bỏ và bắt đầu lại. “Lúc đầu những chuyện đó khá dễ khiến mình nản, nhưng dần dần mình nhận ra mỗi lần làm hỏng đều cho mình thêm một kinh nghiệm về cách xử lý thủy tinh”, Hà kể."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Những bông hoa thủy tinh do Hà thực hiện có giá từ vài trăm nghìn đến khoảng 1 triệu đồng/bông."
+    },
+    {
+     "t": "p",
+     "text": "Công việc cũng đòi hỏi sự tập trung cao độ khi Hà thường xuyên phải làm việc với thủy tinh nóng và ngọn lửa. Do đó việc bị bỏng là không thể tránh khỏi. \"Về sau mình chú ý hơn đến không gian thông thoáng, các biện pháp bảo hộ và không cố làm khi cơ thể đã quá mệt\", Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Hiện mỗi bông hoa Hà làm có giá từ 500.000 đồng đến 1 triệu đồng. Mức giá được tính dựa trên nhiều yếu tố như nguyên liệu thủy tinh, khí sử dụng, điện, xử lý nhiệt, hao hụt trong quá trình thử nghiệm và thời gian lao động."
+    },
+    {
+     "t": "p",
+     "text": "Với sản phẩm thủ công, theo Hà, công sức và thời gian của người làm chiếm phần đáng kể. Một bông hoa có thể phải làm lại nhiều lần mới đạt yêu cầu, khiến thời gian thực tế bỏ ra lớn hơn nhiều so với những gì người mua nhìn thấy ở thành phẩm. Thời gian tới, Hà muốn tiếp tục nâng cao tay nghề, phát triển thêm nhiều mẫu hoa và xây dựng hoa thủy tinh thành một thương hiệu riêng."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Một số mẫu hoa Hoàng Châu đã đặt mua bên Hà"
+    },
+    {
+     "t": "p",
+     "text": "Đinh Hoàng Châu (23 tuổi, làm thiết kế nội thất, ngụ P.Thủ Đức, TP.HCM) là một trong những khách hàng đặt mua hoa thủy tinh của Hà. Châu biết đến sản phẩm qua những clip trên mạng xã hội. Dù lo ngại việc vận chuyển đường xa có thể làm vỡ hoa, cô vẫn đặt nhiều mẫu như: hoa ly, hoa sen, hoa hướng dương và cả hoa theo yêu cầu, giá từ vài trăm nghìn đến hơn 1 triệu đồng/bông."
+    },
+    {
+     "t": "p",
+     "text": "“Mình chọn hoa thủy tinh vì muốn lưu giữ những kỷ niệm không bao giờ tàn. Hoa của Hà có cái đẹp, cái hồn riêng. Lúc cầm trên tay, mình cảm nhận được sự sống động của từng cánh hoa. Đặt dưới nắng, hoa rất đẹp, lấp lánh và màu sắc rất ưng ý”, Châu chia sẻ."
+    }
+   ]
+  },
+  {
+   "id": "237f19965bbb",
+   "order": 3,
+   "slug": "tu-a-quan-the-gioi-den-chuc-vo-dich-cu-dup-lich-su-cua-hoc-s",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từ Á quân thế giới đến chức vô địch: Cú đúp lịch sử của học sinh Giảng Võ 2 tại World Robot Olympiad",
+   "sapo": "Trần Minh Quân và Lê Trường Vĩ, cùng lớp 9A1 Trường THCS Giảng Võ 2 vừa giành chức vô địch bảng RoboMission Junior tại WRO Open Championship Asia & Pacific 2026, tổ chức tại Ấn Độ. Đây là lần đầu tiên một đội tuyển Việt Nam giành chức vô địch nội dung RoboMission tại một giải đấu chính thức của World Robot Olympiad (WRO).",
+   "author": "P.V",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/tu-a-quan-the-gioi-den-chuc-vo-dich-cu-dup-lich-su-cua-hoc-sinh-giang-vo-2-tai-world-robot-olympiad-post1881168.tpo",
+   "published": "2026-10-01T02:00:27+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 915,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/237f19965bbb-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/237f19965bbb-0.jpg",
+     "caption": "Lá cờ Việt Nam giương cao tại WRO Open Championship Asia & Pacific 2026",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-02/237f19965bbb-1.jpg",
+     "caption": "Lê Trường Vĩ (trái), Trần Minh Quân (phải) cùng cô giáo chủ nhiệm Đặng Thị Thùy Nga, người hướng dẫn đội GV2-HSRL-01.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/237f19965bbb-2.jpg",
+     "caption": "Nhà giáo Phạm Thị Hương Giang, Hiệu trưởng Trường THCS Giảng Võ 2, cùng các giáo viên Tổ Tự nhiên 2 và học sinh các đội tuyển tham dự WRO 2026.",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cùng với thành tích lọt Top 3 của đội GV2-HSRL-B2-02, các tài năng trẻ Giảng Võ 2 đã tạo nên một cột mốc rực rỡ, khẳng định vị thế của Robotics Việt Nam trên bản đồ công nghệ quốc tế."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "WRO Open Championship Asia & Pacific là một trong những giải đấu quốc tế của World Robot Olympiad, quy tụ các đội tuyển Robotics học sinh đến từ nhiều quốc gia trong khu vực và quốc tế. Kỳ thi năm nay có 149 đội tuyển đến từ hơn 20 quốc gia, tranh tài ở nhiều nhóm tuổi và nội dung. Riêng bảng RoboMission Junior có 30 đội tham dự."
+    },
+    {
+     "t": "h",
+     "text": "Chức vô địch lịch sử với màn thể hiện áp đảo"
+    },
+    {
+     "t": "p",
+     "text": "Ngay trong ngày thi đấu đầu tiên, GV2-HSRL-01 do cô giáo Chủ nhiệm Đặng Thị Thùy Nga hướng dẫn, đã ghi dấu ấn khi đạt 240/240 điểm, số điểm tuyệt đối của lượt thi. Hai học sinh Trần Minh Quân và Lê Trường Vĩ tiếp tục duy trì phong độ ổn định trong ngày thi thứ hai, thể hiện khả năng lập trình, xử lý tình huống và điều khiển robot với độ chính xác cao."
+    },
+    {
+     "t": "p",
+     "text": "Chung cuộc, GV2-HSRL-01 đạt 435 điểm, bỏ xa đội đứng thứ hai với 349 điểm và đội đứng thứ ba với 335 điểm."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả này giúp GV2-HSRL-01 giành chức Vô địch bảng RoboMission Junior, đồng thời đánh dấu lần đầu tiên một đội tuyển Việt Nam giành chức Vô địch nội dung RoboMission tại một giải đấu chính thức của WRO."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng năm nay tiếp tục nối dài hành trình của GV2-HSRL-01 trên đấu trường quốc tế. Năm 2024, đội tuyển GV2-HSRL-0, với đội hình gồm Trần Minh Quân, Phạm Như Lâm và Nguyễn Quang Minh (cùng lớp 9A1), từng giành ngôi Á quân thế giới tại Chung kết WRO ở Thổ Nhĩ Kỳ, thành tích cao nhất của Việt Nam tại WRO thời điểm đó,"
+    },
+    {
+     "t": "p",
+     "text": "Hai năm sau, Trần Minh Quân tiếp tục góp mặt trong đội hình GV2-HSRL-01, lần này thi đấu cùng người bạn cùng lớp 9A1 Lê Trường Vĩ. Với đội hình mới, hai học sinh đã đưa GV2-HSRL-01 lên vị trí cao nhất tại WRO Open Championship Asia & Pacific 2026."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình chinh phục từ Á quân thế giới năm 2024 đến chức vô địch năm 2026, hai thành tích lịch sử nối tiếp nhau của Robotics Việt Nam cũng cho thấy sự kế thừa và phát triển liên tục của đội tuyển Robotics Trường THCS Giảng Võ 2. Với Quân, đây là lần trở lại đấu trường quốc tế sau thành tích Á quân thế giới; còn với Vĩ, chức vô địch là dấu ấn nổi bật trong lần thi đấu ở cấp độ này."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Giảng Võ 2: Từ môi trường STEM đến những dấu ấn trên đấu trường Robotics quốc tế"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ giành chức Vô địch, Trường THCS Giảng Võ 2 còn có một đội tuyển khác lọt Top 3 tại bảng RoboMission Junior."
+    },
+    {
+     "t": "p",
+     "text": "Đội GV2-HSRL-B2-02, gồm Tạ Ngọc Gia Bảo (9A3), Đặng Đức Nhật Minh (8A2) và Vũ Đức Lâm (8A7), giành vị trí thứ ba. Như vậy, hai đội tuyển của Trường THCS Giảng Võ 2 cùng góp mặt trong Top 3 của một bảng thi tại WRO Open Championship Asia & Pacific 2026."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, năm 2024, GV2-HSRL-01 giành ngôi Á quân thế giới tại Thổ Nhĩ Kỳ. Năm 2025, 5/10 đội tuyển của trường lọt Top 10 Quốc gia WRO và đạt Top 5 tại Giải WRO châu Á - Thái Bình Dương tổ chức ở Philippines."
+    },
+    {
+     "t": "p",
+     "text": "Việc 3 năm liên tiếp có đội tuyển đứng trên bục nhận giải tại một giải đấu quốc tế là kết quả của quá trình nhà trường kiên trì xây dựng và phát triển giáo dục STEM - Robotics."
+    },
+    {
+     "t": "p",
+     "text": "Ngay từ những ngày đầu thành lập, Trường THCS Giảng Võ 2 xác định giáo dục STEM là một trong những hướng phát triển trọng tâm, chú trọng phát triển tư duy khoa học, năng lực sáng tạo và khả năng làm chủ công nghệ cho học sinh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo Nhà giáo Phạm Thị Hương Giang, Hiệu trưởng Trường THCS Giảng Võ 2, sự quan tâm đầu tư cơ sở vật chất của phường Giảng Võ, cùng tâm huyết của đội ngũ giáo viên và sự đồng hành của phụ huynh đã tạo điều kiện để nhà trường xây dựng môi trường STEM bài bản, giúp học sinh có thêm cơ hội nghiên cứu, thử nghiệm và sáng tạo."
+    },
+    {
+     "t": "p",
+     "text": "“Chuỗi thành tích liên tiếp – từ Á quân WRO thế giới năm 2024, những dấu ấn tại WRO năm 2025, đến chức Vô địch năm 2026 tại Ấn Độ – là minh chứng cho quá trình thầy và trò kiên trì theo đuổi STEM - Robotics. Qua các sân chơi lớn, học sinh không chỉ mang thành tích về cho nhà trường và đất nước mà còn có cơ hội rèn luyện bản lĩnh, khả năng giải quyết vấn đề và năng lực làm chủ công nghệ”, Nhà giáo Phạm Thị Hương Giang chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích tại WRO Open Championship Asia & Pacific 2026 tiếp tục khẳng định hướng đi của Trường THCS Giảng Võ 2 trong việc đưa STEM - Robotics trở thành một phần quan trọng trong quá trình phát triển năng lực của học sinh, đồng thời mở rộng cơ hội để học sinh Việt Nam bước ra các sân chơi công nghệ quốc tế."
+    }
+   ]
+  },
+  {
+   "id": "a459eccb479a",
+   "order": 4,
+   "slug": "chang-trai-18-tuoi-nguoi-co-duoc-vinh-danh-vi-mot-da-nang-th",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chàng trai 18 tuổi người Co được vinh danh Vì một Đà Nẵng - Thành phố tử tế",
+   "sapo": "Nguyễn Hoàng Anh Hạo, chàng trai 18 tuổi, đã sử dụng công nghệ để cống hiến vì cộng đồng. Dự án Da Nang Green của anh hỗ trợ người dân báo cáo sự cố môi trường, giúp xây dựng một Đà Nẵng tử tế hơn.",
+   "author": "THÚY HIỀN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chang-trai-18-tuoi-nguoi-co-duoc-vinh-danh-vi-mot-da-nang-thanh-pho-tu-te-100260930164558433.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 695,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/a459eccb479a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/a459eccb479a-0.jpg",
+     "caption": "Trong trang phục truyền thống của đồng bào Co, Nguyễn Hoàng Anh Hạo tự tin thuyết trình về dự án \"Da Nang Green\" - Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/a459eccb479a-1.jpg",
+     "caption": "Hạo hăng hái tham gia các sân chơi công nghệ - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-02/a459eccb479a-2.jpg",
+     "caption": "Giao diện website \"Da Nang Green\" do Anh Hạo lập - Ảnh: THÚY HIỀN",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-10-02/a459eccb479a-3.jpg",
+     "caption": "Bằng khen của Bộ trưởng Bộ Dân tộc và Tôn giáo tặng Nguyễn Hoàng Anh Hạo vì thành tích xuất sắc, tiêu biểu trong học tập, rèn luyện và công tác năm 2025 - Ảnh: NVCC",
+     "w": 1280,
+     "h": 730
+    },
+    {
+     "src": "img/2026-10-02/a459eccb479a-4.jpg",
+     "caption": "Anh Hạo là gương mặt trẻ tuổi nhất vinh dự được Hội Doanh nhân trẻ thành phố Đà Nẵng trao Giải thưởng “Vì một Đà Nẵng - Thành phố tử tế” năm 2026 ở hạng mục “Công dân văn minh” - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trở về từ lễ vinh danh “Vì một Đà Nẵng - Thành phố tử tế” năm 2026, Nguyễn Hoàng Anh Hạo (dân tộc Co) vẫn giữ nguyên vẻ mộc mạc của người con núi rừng. Chàng tân sinh viên ngành công nghệ thông tin Trường đại học Đông Á là tấm gương sáng về tinh thần vượt khó."
+    },
+    {
+     "t": "h",
+     "text": "Dấu ấn công nghệ vì cộng đồng"
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra và lớn lên ở nóc 7 (thôn Làng Gạch, xã Trà Liên) trong một gia đình thuần nông, Hạo sớm ý thức chỉ có học tập mới giúp bản thân thay đổi số phận và quay về dựng xây quê hương. Hành trình từ một cậu học trò vùng cao đến gương mặt trẻ tiêu biểu được nhận bằng khen của Bộ trưởng Bộ Dân tộc và Tôn giáo năm 2025 là minh chứng cho bản lĩnh ấy."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Xuất phát từ niềm đam mê tin học năm lớp 8, Hạo đã kiên trì theo đuổi con đường học vấn để hiện thực hóa ước mơ bằng tri thức. Đam mê công nghệ không dừng lại ở lý thuyết, Hạo biến tri thức có được thành các giải pháp thực tế giải quyết bài toán cấp thiết của địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Nhận thấy quê nhà thường chịu ảnh hưởng nặng nề bởi thiên tai, lũ quét và sạt lở, Hạo đã lên ý tưởng và phát triển website “Da Nang Green”. Dự án ứng dụng trí tuệ nhân tạo (AI) giúp người dân báo cáo sự cố môi trường, nguy cơ sạt lở theo tọa độ GPS chính xác, gửi trực tiếp về cơ quan chức năng xử lý kịp thời."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Giải pháp thông minh này đã mang về cho Hạo và đồng đội giải khuyến khích tại hội thi “Thử thách sáng tạo AI - Xây dựng cộng đồng” năm 2025 do Thành đoàn Đà Nẵng tổ chức. Cậu học sinh cấp 3 ngày ấy là một trong số rất ít thí sinh THPT xuất sắc lọt vào top đầu bên cạnh các đội thi sinh viên đại học."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về hành trình sáng tạo, Hạo tâm sự: “Em mong muốn áp dụng công nghệ tiên tiến vào địa phương để khắc phục khó khăn, tạo giá trị thực sự cho cộng đồng và mở ra cơ hội phát triển cho các bạn trẻ vùng cao”."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Trái tim tử tế và ước vọng cống hiến cho quê"
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh tài năng công nghệ, Hạo còn lan tỏa mạnh mẽ tinh thần xung kích vì cộng đồng. Sáng lập dự án “ Trao quà yêu thương” từ năm 2025, Hạo cùng các tình nguyện viên thu gom sách vở, quần áo cũ còn lành lặn từ các trường học mang về trao tặng cho em nhỏ khó khăn tại Trà Liên."
+    },
+    {
+     "t": "p",
+     "text": "Hạo cho biết nhóm chủ trương nhận hiện vật thay vì tiền mặt, đồng thời đang lên kế hoạch đổi rác thải nhựa lấy cây xanh để tạo nguồn lực duy trì hoạt động, gây quỹ thiện nguyện bền vững."
+    },
+    {
+     "t": "p",
+     "text": "Đến thăm và biểu dương gia đình thanh niên tiêu biểu, bà Lê Thị Thu Vân - Bí thư Đảng ủy, Chủ tịch HĐND xã Trà Liên - nhấn mạnh tinh thần hiếu học, sự nỗ lực vượt khó và những việc làm ý nghĩa của Hạo không chỉ là niềm tự hào của gia đình mà còn truyền cảm hứng mạnh mẽ đến thế hệ trẻ địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Nữ Bí thư Đảng ủy xã cũng mong muốn gia đình tiếp tục quan tâm, động viên, tạo điều kiện để chàng trai đồng bào Co ấy yên tâm học tập, rèn luyện, phát huy năng lực và nuôi dưỡng khát vọng cống hiến."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Không dừng lại ở những kết quả đã đạt được, Anh Hạo đang ấp ủ kế hoạch mở các lớp học hè miễn phí dạy tin học, AI và kỹ năng an toàn mạng cho trẻ em vùng cao. Với hành trang là tri thức cùng trái tim tử tế, người con của đại ngàn ấy đang từng ngày khẳng định khát vọng vươn lên, dùng tri thức để thắp sáng tương lai quê nhà."
+    }
+   ]
+  },
+  {
+   "id": "230ef09644d7",
+   "order": 5,
+   "slug": "nguoi-me-nuoi-2-con-dang-hoc-tien-si-tro-thanh-tan-sinh-vien",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Người mẹ nuôi 2 con đang học tiến sĩ, trở thành tân sinh viên ở tuổi 48",
+   "sapo": "Dù 48 tuổi, chị Nguyễn Thị Yến khiến nhiều người bất ngờ khi trở thành tân sinh viên với quyết tâm thực hiện ước mơ đã mang trong mình suốt nhiều năm qua.",
+   "author": "Thanh Hùng",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/nguoi-me-co-2-con-dang-dang-hoc-tien-si-tro-thanh-tan-sinh-vien-o-tuoi-48-2560825.html",
+   "published": "2026-10-01T22:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 979,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/230ef09644d7-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-02/230ef09644d7-0.jpg",
+     "caption": "Chị Nguyễn Thị Yến tốt nghiệp THPT năm học 2025-2026 tại Trung tâm Giáo dục nghề nghiệp - giáo dục thường xuyên quận Đống Đa, Hà Nội. Ảnh: NVCC",
+     "w": 1280,
+     "h": 1413
+    },
+    {
+     "src": "img/2026-10-02/230ef09644d7-1.jpg",
+     "caption": "Chị Nguyễn Thị Yến, tân sinh viên ngành Kinh tế của Học viện Hành chính và Quản trị công. Ảnh: NVCC.",
+     "w": 932,
+     "h": 889
+    },
+    {
+     "src": "img/2026-10-02/230ef09644d7-2.jpg",
+     "caption": "Chị Nguyễn Thị Yến cùng các tân sinh viên của Học viện Hành chính và Quản trị công năm 2026. Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/230ef09644d7-3.jpg",
+     "caption": "Ảnh: NVCC",
+     "w": 1280,
+     "h": 1020
+    },
+    {
+     "src": "img/2026-10-02/230ef09644d7-4.jpg",
+     "caption": "Nữ sinh Hải Phòng là thủ khoa với tổng điểm xét tuyển 30/30, chọn ngành Sư phạm",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/230ef09644d7-5.jpg",
+     "caption": "Bộ GD-ĐT đề xuất học thạc sĩ bằng học bổng không được làm việc toàn thời gian",
+     "w": 829,
+     "h": 553
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "2 con học tiến sĩ, mẹ U50 là tân sinh viên"
+    },
+    {
+     "t": "p",
+     "text": "Chị Nguyễn Thị Yến, sinh năm 1978, là một trong số các tân sinh viên ngành Kinh tế của Học viện Hành chính và Quản trị công năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với VietNamNet, chị Yến cho biết vì hoàn cảnh gia đình khó khăn, bố mẹ mất sớm nên chị nghỉ học khi vừa hết lớp 9. Sau khi lập gia đình và có con, vợ chồng chị từ quê Nam Định cũ (nay là Ninh Bình) lên Hà Nội xoay sở nhiều nghề, từ mở quán cơm bình dân đến cắt tóc, gội đầu... để nuôi hai con ăn học."
+    },
+    {
+     "t": "p",
+     "text": "Mong mỏi lớn nhất của chị là các con được học hành đến nơi đến chốn, không phải lỡ dở như mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Không phụ lòng bố mẹ, hai con trai đều có kết quả học tốt, lần lượt giành học bổng du học. Đặc biệt, con trai thứ hai là Đồng Ngọc Hà, sinh năm 2002, từng giành Huy chương Bạc Olympic Sinh học quốc tế năm 2020. Mới đây, Ngọc Hà được 7 đại học danh tiếng của Mỹ cấp học bổng tiến sĩ, trong đó có Harvard, MIT, Princeton. Ngọc Hà hiện theo học chương trình đào tạo tiến sĩ tại ĐH Harvard."
+    },
+    {
+     "t": "p",
+     "text": "Con trai cả của chị Yến (sinh năm 1999) cũng giành học bổng Eiffel của Chính phủ Pháp cho bậc thạc sĩ và hiện là nghiên cứu sinh tiến sĩ tại Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "“Nhiều năm sau khi lập gia đình, tôi vẫn nung nấu ước mơ được trở lại trường lớp để tiếp tục sự học. Đến khi lo cho các con học hành ổn thỏa, tôi quyết tâm thực hiện ước mơ của mình\", chị Yến nói về quyết định đi học lại vài năm trước."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chị cho biết, từ khi các con còn học THPT, chị đã vừa làm việc vừa lặng lẽ tự học lại những kiến thức bậc tiểu học và THCS."
+    },
+    {
+     "t": "p",
+     "text": "“Khi phát hiện mẹ vẫn âm thầm tự học, Ngọc Hà đã dành thời gian giảng lại cho tôi những kiến thức từ cấp 1, cấp 2 trước khi con lên đường du học. Được con dạy kèm, từ chỗ quên gần hết kiến thức, tôi đã bắt kịp và đăng ký học lớp 9, rồi thi vào Trung tâm Giáo dục nghề nghiệp - giáo dục thường xuyên quận Đống Đa ở tuổi 44”, chị Yến kể."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian học tại ngôi trường này, chị Yến từng đạt giải Ba ở kỳ thi học sinh giỏi thành phố môn Lịch sử và được vinh danh Học sinh tiểu biểu của Thủ đô năm học 2025-2026. Trong mùa tuyển sinh vừa qua, chị trúng tuyển Học viện Hành chính và Quản trị công."
+    },
+    {
+     "t": "p",
+     "text": "Con muốn “nuôi\" mẹ học đại học"
+    },
+    {
+     "t": "p",
+     "text": "Người mẹ U50 đã bước sang tuần học thứ hai ở trường đại học. Những ngày đầu vào lớp, chị khiến nhiều sinh viên bất ngờ khi gặp một người bạn học lớn tuổi. Chị Yến hơn các tân sinh viên lứa 2008 đúng 30 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "“Các bạn trẻ đều tầm tuổi con mình, thậm chí ít hơn. Ở giai đoạn học THPT, tôi đã quen với việc trao đổi, giao lưu với các bạn trẻ nên không cảm thấy xa lạ, khoảng cách”, chị Yến chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Thích tham gia các hoạt động tập thể, chị Yến đã xung phong làm lớp phó phụ trách học tập của lớp."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chị Yến cho hay, vì lớn tuổi nên trong quá trình học, chị gặp một số hạn chế về công nghệ, khả năng ghi nhớ so với các bạn trẻ. Tuy nhiên, chị cho rằng chỉ cần có đủ đam mê, nghị lực và tinh thần ham học hỏi, chị sẽ vượt qua những thử thách này."
+    },
+    {
+     "t": "p",
+     "text": "Người mẹ cho hay, để đi học, chị phải phân bổ thời gian khoa học để vẫn duy trì được công việc tự do cũng như cân bằng cuộc sống gia đình. Tân sinh viên U50 khá tự tin với khả năng thích ứng của mình sau khoảng thời gian hoàn thành chương trình từ lớp 9 đến lớp 12."
+    },
+    {
+     "t": "p",
+     "text": "Chị Yến chia sẻ, để động viên mẹ, hai con trai nói sẽ lo toàn bộ chi phí học tập cho chị."
+    },
+    {
+     "t": "p",
+     "text": "“Hai cháu nói rằng 'ngày xưa mẹ lo cho chúng con thì bây giờ để chúng con nuôi mẹ đi học'. Nhưng tôi cũng đang phấn đấu để giành được học bổng của trường”, chị Yến nói."
+    },
+    {
+     "t": "p",
+     "text": "Chị vẫn nhớ như in ngày mình thi tốt nghiệp THPT, cả hai con trai cùng đặt vé máy bay để về nước đưa mẹ đi thi."
+    },
+    {
+     "t": "p",
+     "text": "Người mẹ chia sẻ, ở tuổi 48, chị vào đại học không phải để tìm một tấm bằng “cho đẹp hồ sơ”, mà đơn giản để hoàn thành ước mơ từng gác lại thời trẻ."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi biết với tuổi của mình, khi tốt nghiệp cũng đã quá tuổi để xin việc làm ở các tổ chức, đơn vị. Nhưng tôi mong muốn được bước chân vào giảng đường để biết thêm nhiều kiến thức, hoàn thiện bản thân. Tôi hiểu sâu sắc giá trị của việc được đi học và ý nghĩa rất rộng của sự học, không bó hẹp chỉ để xin việc, kiếm tiền”, chị Yến nói."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chị Yến hy vọng hành trình của mình có thể lan tỏa năng lượng tích cực tới các bạn trẻ đang ngồi trên giảng đường."
+    },
+    {
+     "t": "p",
+     "text": "“Các bạn hãy trân trọng thời gian, cơ hội được học và luôn nhớ rằng không bao giờ là quá muộn để học”, chị Yến chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tân sinh viên U50 đặt mục tiêu tốt nghiệp đại học loại Giỏi và hy vọng được kết nạp, đứng vào hàng ngũ của Đảng trong những năm tháng đại học."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    }
+   ]
+  },
+  {
+   "id": "ea9202510327",
+   "order": 6,
+   "slug": "cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-20-nam-giu-gia-5-0",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: 20 năm giữ giá 5.000 đồng cho những tô bún nghĩa tình",
+   "sapo": "Giữa con hẻm ngập sâu lút đầu gối mỗi mùa triều cường, gánh bún riêu hơn hai thập kỷ của bà Phượng vẫn bền bỉ đỏ lửa với giá 5000 đồng",
+   "author": "LÂM THÚY",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-20-nam-giu-gia-5000-dong-cho-nhung-to-bun-nghia-tinh-100261001154402082.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 294,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/ea9202510327-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "20 năm giữ giá 5.000 đồng cho những tô bún nghĩa tình - Tác giả: LÂM THÚY"
+    },
+    {
+     "t": "p",
+     "text": "Cứ mỗi độ triều cường dâng cao từ cuối tháng 7 đến tháng 11 âm lịch, con hẻm nhỏ cạnh đình Bình Thủy (phường Bình Thủy, TP Cần Thơ) lại ngập nước lênh láng. Khách muốn vào ăn sáng phải lội bì bõm, còn đồ đạc, tủ hàng thì được kê cao, ghế xếp chồng lên nhiều lớp để làm chỗ ngồi tạm."
+    },
+    {
+     "t": "p",
+     "text": "Giữa bốn bề mênh mông nước đục ngầu, quán bún riêu của bà Trần Thị Kim Phượng (53 tuổi) vẫn mở cửa đều đặn như lệ thường. Hơn 20 năm gắn bó với con hẻm này, bà đã quen thuộc với cảnh nước lên xuống mỗi ngày. Thay vì nghỉ bán, bà chọn cách thích nghi, xoay xở mọi cách với những thứ sẵn có để duy trì quán bún mưu sinh."
+    },
+    {
+     "t": "p",
+     "text": "Trải qua hơn hai thập niên, giá bún riêu cũng dịch chuyển theo thời gian từ 10.000 đồng thuở ban đầu nay lên 25.000 đồng/tô. Dẫu vậy, với những người lao động nghèo hay những quen thân như cô Huỳnh Thị Kim Liên (60 tuổi) - người bán vé số dạo ngày nào cũng ghé, bà Phượng luôn linh động bán những tô bún chỉ 5.000, 10.000 hay 15.000 đồng tùy theo hoàn cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Giữa những ngày nước ngập chật vật, hình ảnh thực khách ngồi lội nước ăn tô bún nóng hay tấm lòng sẻ chia dung dị của người chủ quán bỗng làm dịu đi biết bao nhọc nhằn. Đó không chỉ là câu chuyện mưu sinh qua mùa nước nổi, mà còn là tình làng nghĩa xóm bền chặt cứ thế âm thầm chảy mãi giữa lòng Cần Thơ."
+    }
+   ]
+  },
+  {
+   "id": "690acb451e48",
+   "order": 7,
+   "slug": "bo-pho-ve-que-co-lang-man-nhu-nhieu-nguoi-nghi",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Bỏ phố về quê, có lãng mạn như nhiều người nghĩ?",
+   "sapo": "Từ là kỹ sư, kế toán anh chị về quê bắt tay trồng rau, nuôi trùn, nuôi gà. Không lãng mạn như hình ảnh bỏ phố về rừng ta từng nghe.",
+   "author": "BẢO CHI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/bo-pho-ve-que-co-lang-man-nhu-nhieu-nguoi-nghi-100260929180609096.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 6,
+   "words": 388,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/690acb451e48-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/690acb451e48-0.jpg",
+     "caption": "Để gây dựng được \"vườn\" đủ sống khi rời phố, thực tế không lãng mạn như người ta nghĩ - Ảnh: BẢO CHI",
+     "w": 1280,
+     "h": 1280
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hồi ông anh trai quyết định rời phố để về quê , nhà tôi chia làm hai phe:"
+    },
+    {
+     "t": "p",
+     "text": "Phe ủng hộ: Ừ, giờ ba không còn, nhà đơn chiếc, thôi anh về quê làm chỗ dựa và gánh vác gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Phe phản đối: Về quê làm gì để sống? Đang làm kỹ sư lương bổng ổn định, về quê làm ruộng làm vườn nổi không? Rau cỏ bây giờ bán cho ai? Khi nào mới kiếm được tiền nuôi con?"
+    },
+    {
+     "t": "p",
+     "text": "Nhưng biết sao được, có những lựa chọn không xuất phát từ đong đếm thiệt hơn. Cảnh nhà như vậy, trách nhiệm đã chọn vậy, thì phải theo thôi."
+    },
+    {
+     "t": "p",
+     "text": "Về quê với vốn liếng còm cõi lận lưng, ông anh tự làm nhà rau, chuồng gà, tự lắp điện năng lượng mặt trời..."
+    },
+    {
+     "t": "p",
+     "text": "Hai vợ chồng, một kỹ sư điện, một kế toán tài chính chuyển một hơi qua học canh tác rau thủy canh, nuôi trùn ruồi đen, nuôi gà ấp trứng."
+    },
+    {
+     "t": "p",
+     "text": "Không biết bao nhiêu tiền bạc, công sức đã đổ trên mảnh đồi nho nhỏ ba má khai hoang để lại."
+    },
+    {
+     "t": "p",
+     "text": "Có cái thành công, có phần công cốc. Ông anh xài máy hàn nám mặt, lỡ rớt lưỡi cưa máy xắn ngang tưởng mất luôn bàn chân."
+    },
+    {
+     "t": "p",
+     "text": "Có những đợt trồng một loại rau nhiều, không bán hết, những lần giao nhầm đơn cho khách hàng, những lần đóng gói không đúng chuẩn bị hư rau."
+    },
+    {
+     "t": "p",
+     "text": "Sau non 4 năm trời ròng rã, đến nay khu vườn nho nhỏ đã nên hình nên dạng, rau gà ổn định được phần nào."
+    },
+    {
+     "t": "p",
+     "text": "Chừng ấy năm làm vườn cũng chừng ấy năm miệt mài học cách đóng gói, vận chuyển rau, gà đến khách hàng ở các đô thị xa, rồi tập tành bán buôn, marketing in túi vải, logo..."
+    },
+    {
+     "t": "p",
+     "text": "Người anh về vườn năm nào đã xấp xỉ 45. Vất vả có. Mệt mỏi có."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng niềm vui cũng đong đầy. Đó là cảm giác vui vẻ dễ chịu của những người nông dân chăm chỉ nhìn cây đâm chồi trên giá thể bé xíu trong bàn tay, khi đàn gà ồn ào túa lên đồi kiếm mồi, tị nạnh nhau đấu đá quác quác..."
+    },
+    {
+     "t": "p",
+     "text": "Niềm hạnh phúc khi tự tay làm ra thành quả tươi ngon và sống được bằng thành quả đó."
+    }
+   ]
+  },
+  {
+   "id": "ea2a04f649ff",
+   "order": 8,
+   "slug": "son-la-ghi-dau-an-kep-tren-ban-do-du-lich-chau-a",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Sơn La ghi 'dấu ấn kép' trên bản đồ du lịch châu Á",
+   "sapo": "Lần đầu tiên, Tà Xùa được vinh danh là 'Điểm đến du lịch mới nổi châu Á' tại Giải thưởng Du lịch thế giới (World Travel Awards) công bố kết quả năm 2026, trong khi Mộc Châu lần thứ 5 liên tiếp được gọi tên ở 'Điểm đến thiên nhiên hàng đầu khu vực châu Á năm 2026'.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/son-la-ghi-dau-an-kep-tren-ban-do-du-lich-chau-a-18526100120314406.htm",
+   "published": "2026-10-01T22:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 896,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-0.jpg",
+     "caption": "Vẻ đẹp Tà Xùa khi mùa xuân về",
+     "w": 1280,
+     "h": 767
+    },
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-1.jpg",
+     "caption": "Em bé H'Mông bên trạm mâm xôi Xím Vàng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-2.jpg",
+     "caption": "Săn mây ở Tà Xùa",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-3.jpg",
+     "caption": "Mộc Châu mùa xuân, nương đồi bao phủ bởi sắc trắng tinh khôi của hoa mận",
+     "w": 960,
+     "h": 668
+    },
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-4.jpg",
+     "caption": "Những đồi chè xanh mướt làm nên thương hiệu du lịch Mộc Châu",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/ea2a04f649ff-5.jpg",
+     "caption": "Rực rỡ sắc màu văn hóa qua lễ hội đường phố ở Mộc Châu",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hai danh hiệu ở 2 hạng mục khác nhau, dành cho 2 vùng đất mang những sắc thái riêng, nhưng cùng hội tụ ở một điểm: sức hấp dẫn của thiên nhiên, văn hóa và con người Sơn La đang ngày càng được nhận diện trên bản đồ du lịch khu vực."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Từ vẻ đẹp thiên nhiên khác biệt"
+    },
+    {
+     "t": "p",
+     "text": "Theo quy hoạch, Khu du lịch Tà Xùa gồm 12 bản vùng cao thuộc các xã Tà Xùa, Xím Vàng và Bắc Yên, có tổng diện tích khoảng 13.000 ha với khoảng 99% dân số ở các bản này là đồng bào dân tộc Mông."
+    },
+    {
+     "t": "p",
+     "text": "Nằm ở độ cao từ 1.500 - 2.800 m so với mực nước biển, được bao bọc bởi những dãy núi hùng vĩ của Hoàng Liên Sơn, Tà Xùa có một diện mạo khác biệt. Những đỉnh núi cao, thung lũng sâu, những triền ruộng bậc thang nối nhau theo sườn núi, cùng hệ thống thác nước, rừng nguyên sinh và biển mây tạo nên một cảnh quan thiên nhiên vô cùng quyến rũ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, biển mây Tà Xùa từ lâu đã trở thành hình ảnh nhận diện của vùng đất này. Những tầng mây cuộn trôi dưới chân núi, lúc bảng lảng như khói, lúc dâng lên thành biển trắng giữa trùng điệp núi rừng khiến Tà Xùa được biết đến là một trong những điểm săn mây nổi tiếng của Việt Nam và khu vực."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có thế, các địa danh như Sống lưng khủng long, núi U bò, tam giác quỷ, cây cô đơn, mỏm cá heo, rừng chè cổ thụ, thác nước Xím Vàng, rừng nguyên sinh Phu Sa Phìn, đỉnh Sa Mu, ruộng bậc thang, bãi đá cổ Khe Hổ… đang từng bước trở thành những điểm đến được du khách quan tâm."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, sức hấp dẫn của Tà Xùa cũng đang được chuyển hóa thành động lực thu hút đầu tư. Hiện trên địa bàn xã Tà Xùa có 22 dự án được thu hút đầu tư, tập trung vào các lĩnh vực du lịch sinh thái - nghỉ dưỡng, trải nghiệm văn hóa dân tộc H'Mông, điểm dừng chân ngắm cảnh, homestay, du lịch cộng đồng và nông nghiệp sinh thái kết hợp du lịch…"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nếu Tà Xùa tạo dấu ấn bằng vẻ đẹp hoang sơ, kỳ vĩ của núi cao và biển mây, thì Mộc Châu lại chinh phục du khách bằng một không gian thiên nhiên rộng lớn, giàu sức sống và biến đổi theo mùa."
+    },
+    {
+     "t": "p",
+     "text": "Theo quy hoạch điều chỉnh đến năm 2045, Khu du lịch quốc gia Mộc Châu có quy mô khoảng 205.405 ha, bao gồm không gian Mộc Châu và Vân Hồ. Đây là một vùng cảnh quan rộng lớn, trải từ cao nguyên trung tâm đến núi rừng, sông Đà, khu vực biên giới và Khu bảo tồn thiên nhiên Xuân Nha."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng thiên nhiên Mộc Châu không chỉ nằm ở núi non và khí hậu. Đất đai đã tạo nên một diện mạo rất riêng cho cao nguyên."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Hai nhóm đất chính là đất feralit đỏ nâu và đất phù sa cổ, tạo điều kiện phát triển chè, cây ăn quả, đồng cỏ, lúa nước, rau màu."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó hình thành những vùng sản xuất nông nghiệp đặc trưng: đồi chè xanh nối tiếp, đồng cỏ rộng mở, những vườn cây ăn quả theo mùa, vùng rau hoa, trang trại bò sữa và các nông trại kết hợp trải nghiệm du lịch."
+    },
+    {
+     "t": "p",
+     "text": "Ở Mộc Châu, sản xuất nông nghiệp không đứng ngoài du lịch. Chính những mùa hoa, mùa quả, đồi chè, đồng cỏ và trang trại đã trở thành một phần của cảnh quan, tạo nên những trải nghiệm mà du khách khó tìm thấy ở một điểm đến chỉ thuần túy dựa vào tài nguyên tự nhiên."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "h",
+     "text": "Đến giá trị chung của văn hóa cộng đồng"
+    },
+    {
+     "t": "p",
+     "text": "Sở hữu những vẻ đẹp khác nhau, nhưng cả Tà Xùa và Mộc Châu cùng được nâng đỡ bởi một nguồn tài nguyên quan trọng: văn hóa cộng đồng. Trên không gian rộng lớn của Mộc Châu và vùng cao Tà Xùa, nhiều cộng đồng dân tộc cùng sinh sống, trong đó có dân tộc Thái, H'Mông, Mường, Dao, Kinh, Xinh Mun, Khơ Mú, Tày, La Ha..."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi cộng đồng mang theo một sắc màu riêng qua trang phục, tiếng nói, kiến trúc nhà ở, ẩm thực, nghề thủ công, lễ hội, phong tục, âm nhạc và nghệ thuật dân gian. Bởi thế, hành trình đến Sơn La không chỉ là hành trình chiêm ngưỡng cảnh sắc."
+    },
+    {
+     "t": "p",
+     "text": "Đó còn là hành trình gặp gỡ con người, tìm hiểu văn hóa và trải nghiệm một cách sống được bồi đắp qua nhiều thế hệ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Thiên nhiên tạo nên vẻ đẹp ban đầu của điểm đến; văn hóa làm cho vẻ đẹp ấy có chiều sâu; còn con người chính là cầu nối đưa những giá trị ấy đến gần hơn với du khách."
+    },
+    {
+     "t": "p",
+     "text": "Hai danh hiệu quốc tế dành cho Tà Xùa và Mộc Châu trong năm 2026 do đó không chỉ là những dấu mốc đáng tự hào của du lịch Sơn La. Đó còn là sự ghi nhận đối với những giá trị riêng có đang được gìn giữ, phát huy và từng bước chuyển hóa thành sức mạnh mới cho ngành du lịch."
+    }
+   ]
+  },
+  {
+   "id": "a4decffd4a64",
+   "order": 9,
+   "slug": "ta-xua-lan-dau-duoc-vinh-danh-diem-den-moi-noi-hang-dau-chau",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Tà Xùa lần đầu được vinh danh điểm đến mới nổi hàng đầu châu Á",
+   "sapo": "Sơn La Tà Xùa lần đầu được World Travel Awards vinh danh Điểm đến du lịch mới nổi hàng đầu châu Á 2026, vượt qua 6 điểm đến khác trong khu vực.",
+   "author": "Mai Phương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ta-xua-lan-dau-duoc-vinh-danh-diem-den-moi-noi-hang-dau-chau-a-5126915.html",
+   "published": "2026-10-01T02:50:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 472,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/a4decffd4a64-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-02/a4decffd4a64-0.jpg",
+     "caption": "Du khách check in vườn hoa tại Tà Xùa, hôm 27/9. Ảnh: Quang Anh",
+     "w": 1020,
+     "h": 1378
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sơn La Tà Xùa lần đầu được World Travel Awards vinh danh Điểm đến du lịch mới nổi hàng đầu châu Á 2026, vượt qua 6 điểm đến khác trong khu vực."
+    },
+    {
+     "t": "p",
+     "text": "World Travel Awards (WTA) công bố kết quả các hạng mục dành cho khu vực châu Á tại lễ trao giải châu Á, châu Đại Dương và Ấn Độ Dương, tổ chức tại Maldives ngày 27/9."
+    },
+    {
+     "t": "p",
+     "text": "Tà Xùa được trao danh hiệu Asia's Leading Emerging Tourism Destination 2026 (Điểm đến du lịch mới nổi hàng đầu châu Á), lần đầu điểm đến vùng Tây Bắc được đề cử và giành chiến thắng ở hạng mục này."
+    },
+    {
+     "t": "p",
+     "text": "Tại vòng đề cử năm nay, Tà Xùa cạnh tranh với 6 điểm đến gồm Ninh Bình của Việt Nam, Koh Kood (Thái Lan), Melaka (Malaysia), Morioka (Nhật Bản), đảo Sumba (Indonesia) và Đài Bắc (Đài Loan)."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả giúp Việt Nam có điểm đến chiến thắng hạng mục này năm thứ tư liên tiếp, sau Hà Giang năm 2023, Hà Nam năm 2024 và Ninh Bình năm 2025."
+    },
+    {
+     "t": "p",
+     "text": "Tà Xùa cách Hà Nội khoảng 200 km, nằm ở vùng núi cao của Sơn La và được nhiều du khách biết đến với hoạt động săn mây. Mùa mây thường kéo dài từ khoảng tháng 10 đến tháng 4, thu hút khách trekking và nghỉ dưỡng."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài cảnh quan núi và biển mây, điểm đến còn có rừng tự nhiên, những cây chè Shan tuyết cổ thụ và không gian văn hóa của cộng đồng người Mông."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, Tà Xùa đón khoảng 130.000 lượt khách, hơn 3.100 lượt là khách quốc tế, doanh thu du lịch ước đạt 75 tỷ đồng. 6 tháng đầu năm, địa phương đón khoảng 56.000 lượt khách, doanh thu khoảng 54 tỷ đồng. Tà Xùa đặt mục tiêu đón 120.000 lượt khách và đạt doanh thu du lịch khoảng 120 tỷ đồng trong năm nay."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cũng tại lễ trao giải ngày 27/9, Khu du lịch quốc gia Mộc Châu, Sơn La, được WTA vinh danh Asia's Leading Regional Nature Destination 2026 (Điểm đến thiên nhiên cấp vùng hàng đầu châu Á), đánh dấu năm thứ 5 liên tiếp nhận danh hiệu này."
+    },
+    {
+     "t": "p",
+     "text": "World Travel Awards được thành lập năm 1993, tổ chức thường niên nhằm vinh danh các điểm đến, doanh nghiệp và dịch vụ trong ngành du lịch. Năm 2026 là mùa giải thứ 33."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài Tà Xùa và Mộc Châu, một số điểm đến Việt Nam cũng được vinh danh tại lễ trao giải năm nay, trong đó Việt Nam nhận danh hiệu Điểm đến hàng đầu châu Á, Hà Nội được trao giải Điểm đến thành phố cho kỳ nghỉ ngắn hàng đầu châu Á và Phong Nha - Kẻ Bàng nhận giải Vườn quốc gia hàng đầu châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Mai Phương (Theo WTA )"
+    }
+   ]
+  },
+  {
+   "id": "309ed247818b",
+   "order": 10,
+   "slug": "roi-bi-song-5-nam-tren-dao-khong-dien-nuoc-may-o-indonesia",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Rời Bỉ, sống 5 năm trên đảo không điện, nước máy ở Indonesia",
+   "sapo": "Bỏ cuộc sống tiện nghi ở Bỉ, vợ chồng Marjolein đến hòn đảo không điện, nước máy ở Indonesia để sống và nuôi dạy con gái đầu lòng.",
+   "author": "Hoài Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/roi-bi-song-5-nam-tren-dao-khong-dien-nuoc-may-o-indonesia-5127106.html",
+   "published": "2026-10-01T12:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1030,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/309ed247818b-lead.jpg",
+     "caption": "",
+     "w": 1125,
+     "h": 632
+    },
+    {
+     "src": "img/2026-10-02/309ed247818b-0.jpg",
+     "caption": "Marjolein cùng An lướt sóng trên đảo. Ảnh: HBVL",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-02/309ed247818b-1.jpg",
+     "caption": "Marjolein (áo xanh) chụp ảnh cùng một số phụ nữ địa phương. Ảnh: HBVL",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bỏ cuộc sống tiện nghi ở Bỉ, vợ chồng Marjolein đến hòn đảo không điện, nước máy ở Indonesia để sống và nuôi dạy con gái đầu lòng."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 1/2021, Marjolein (người Bỉ) cùng chồng An (người Indonesia) rời Bỉ để đến hòn đảo phía nam đảo Siberut, đảo lớn nhất thuộc quần đảo Mentawai, Indonesia. Đó không phải cuộc dạo chơi. Hành trình 68 giờ với 3 chặng bay, 4 chuyến taxi và 2 lần đi thuyền đưa họ tới căn nhà mới trên hòn đảo biệt lập với đường kính khoảng 5 km."
+    },
+    {
+     "t": "p",
+     "text": "Tại đây, cả hai bắt đầu cuộc sống tự cung tự cấp vì hòn đảo nhỏ không có làng mạc, đường giao thông, điện, nước máy, trong khi sóng điện thoại chập chờn. Trên đảo chỉ có vài căn chòi của nông dân dùng để ở khi thu hoạch dừa và chuối."
+    },
+    {
+     "t": "p",
+     "text": "Marjolein mê lướt sóng và từ lâu cô biết mình sẽ không ở lại Bỉ cả đời. Năm 2017, khi tới \"thiên đường lướt sóng\" Indonesia, cô làm việc trong một khu nghỉ dưỡng và gặp An. Khi tính tới hôn nhân, họ quyết định mua một khu đất trên hòn đảo biệt lập ở Mentawai để xây nhà."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngôi nhà của họ được làm theo kiểu của ngư dân địa phương với một nhà vệ sinh, ba phòng ngủ, một nhà kho và một nhà tắm. Họ dùng nước giếng để tắm, vệ sinh còn nước mưa cho ăn uống. Nước mưa được hứng từ mái nhà, cho vào bể chứa riêng trước khi xử lý qua bộ lọc chuyên dụng. Trong những đợt khô hạn kéo dài do hiện tượng El Nino khiến nguồn nước mưa cạn kiệt, họ chuyển sang đun sôi nước giếng để uống như cách ngư dân vùng Mentawai làm bao đời nay."
+    },
+    {
+     "t": "p",
+     "text": "Về điện, An đã thiết kế hệ thống năng lượng Mặt Trời nhỏ gọn gồm 4 tấm pin kết nối với bộ lưu trữ. Hệ thống này cung cấp đủ điện cho các nhu cầu căn bản như thắp sáng, chạy tủ lạnh, sạc thiết bị điện tử."
+    },
+    {
+     "t": "p",
+     "text": "Trong khoảng hai năm đầu, Internet là điều xa xỉ khi họ phải đi thuyền 1,5 tiếng đến đảo chính để sử dụng dịch vụ. Điều này gây nhiều phiền toái vì công việc chính của họ là sản xuất nội dung video trên mạng xã hội. Từ năm 2024, mọi thứ đã thay đổi khi dịch vụ Starlink giúp việc kết nối Internet thuận tiện hơn nhiều. An và Marjolein có thể giữ kết nối với gia đình, cập nhật tình hình thời tiết và đặt giao hàng ngay tại nhà."
+    },
+    {
+     "t": "p",
+     "text": "Nhu yếu phẩm được vợ chồng Marjolein mua từ đảo chính khoảng hai tuần một lần. Trên đảo họ sống cũng có một tạp hóa nhỏ, chủ yếu bán đồ cho ngư dân, người thu hoạch dừa. Tuy nhiên, tạp hóa này chỉ có một vài đồ cơ bản như mì ăn liền, bánh quy, dầu gội. Chủ hàng dùng dừa làm đơn vị thanh toán chính nên việc nhặt một trái dừa rụng không phải của mình bị xem là cấm kỵ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cuộc sống hiện tại của Marjolein không còn điểm nào giống với cuộc sống trước đây nhưng cô thấy được là chính mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Mọi thứ được giản lược về đúng bản chất nguyên sơ nhất. Ở ngoài kia, chúng ta có quá nhiều thứ để làm cho cuộc sống dễ dàng hơn nhưng điều đó chỉ mang lại thêm căng thẳng\", cô nói."
+    },
+    {
+     "t": "p",
+     "text": "Sau 5 năm trên đảo, cô đã nói thạo tiếng bản địa và thành thục kỹ năng đánh bắt cá như ngư dân địa phương. Thứ duy nhất cô thực sự nhớ là gia đình, bạn bè ở Bỉ, và cảm giác có thể ghé vào một quán cà phê bất kỳ lúc nào trong ngày. Điều may mắn là thu nhập của họ đủ đề duy trì về Bỉ mỗi năm một lần và thỉnh thoảng, người thân ở Bỉ cũng đến thăm."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, người thân của Marjolein thường chật vật thích nghi với lối sống hoang dã trên đảo. Xung quanh ngôi nhà có nhiều động vật hoang dã, từ lợn rừng đến đủ loại rắn. Chính Marjolein cũng từng chạm trán với rắn hổ mang trong phòng tắm. Khi đó, cô sợ đến mức quấn vội khăn tắm để chạy ra bãi biển cầu cứu chồng đang lướt sóng."
+    },
+    {
+     "t": "p",
+     "text": "Vấn đề lớn nhất hai vợ chồng thường nghe là nuôi dạy trẻ. Đa số không nghĩ hòn đảo phù hợp để đứa trẻ phát triển nhưng Marjolein nghĩ khác. Tháng 11/2025, khi mang thai con đầu lòng ở tháng thứ 8, Marjolein rời đảo để về Bỉ dưỡng thai chờ sinh."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng thời gian này giúp cô cảm nhận rõ sự đối lập giữa hai thế giới. Ở Bỉ, cuộc sống tiện nghi giúp mọi vấn đề giải quyết nhanh chóng nhưng lại khiến con người dễ cuốn vào nhịp sống vội vã, bao quanh bởi bốn bức tường. Trên đảo, sự thiếu thốn khiến cô sống chậm, hòa mình trọn vẹn vào thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "\"Cả hai thế giới đều là nhà, không nơi nào hoàn hảo\", cô nói."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi sinh, cả gia đình quay lại đảo tiếp tục hành trình làm cha mẹ ngoài lưới điện. Đến tháng 9/2026, bé Ammy (9 tháng tuổi) lớn lên bình yên giữa thiên nhiên, thỏa sức khám phá cỏ cây, động vật thay vì đồ chơi công nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Việc chăm con biệt lập đòi hỏi sự chuẩn bị khắt khe như luôn giám sát bé do xa cơ sở y tế; chủ động tích trữ nhu yếu phẩm cho mỗi 2 tuần; áp dụng phương pháp tập đi bô từ sớm vì tã lót dễ bị ẩm mốc. Họ cũng thuê một người địa phương đến hỗ trợ vài giờ mỗi tuần. Dù đôi lúc trăn trở về môi trường giao lưu cho con, cặp đôi tin bé vẫn phát triển toàn diện nhờ tình yêu thương gia đình và sự gắn kết với cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Hoài Anh (Theo Our Island Life, HBVL, Yahoo )"
+    }
+   ]
+  },
+  {
+   "id": "9df565082615",
+   "order": 11,
+   "slug": "tuyen-thu-phap-kinh-ngac-vi-ky-thuat-o-tuoi-u60-cua-zidane",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Tuyển thủ Pháp kinh ngạc vì kỹ thuật ở tuổi U60 của Zidane",
+   "sapo": "Pháp Tiền vệ Manu Kone tiết lộ anh bị sốc sau khi chứng kiến HLV Zinedine Zidane thực hiện các động tác kỹ thuật trên sân tập của đội tuyển Pháp.",
+   "author": "Thanh Quý",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tuyen-thu-phap-kinh-ngac-vi-ky-thuat-o-tuoi-u60-cua-zidane-5127090.html",
+   "published": "2026-10-01T07:25:17+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 481,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/9df565082615-lead.jpg",
+     "caption": "",
+     "w": 1146,
+     "h": 644
+    },
+    {
+     "src": "img/2026-10-02/9df565082615-0.jpg",
+     "caption": "Kone trong cuộc họp báo của đội tuyển Pháp tại Trung tâm huấn luyện Clairefontaine, Paris, Pháp ngày 30/9/2026. Ảnh: NST",
+     "w": 1020,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-02/9df565082615-1.jpg",
+     "caption": "Zidane thể hiện kỹ thuật trên sân tập của tuyển Pháp.",
+     "w": 720,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-02/9df565082615-2.jpg",
+     "caption": "Một số pha xử lý điêu luyện của Zidane ở tuyển Pháp.",
+     "w": 480,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pháp Tiền vệ Manu Kone tiết lộ anh bị sốc sau khi chứng kiến HLV Zinedine Zidane thực hiện các động tác kỹ thuật trên sân tập của đội tuyển Pháp."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều khiến tôi kinh ngạc nhất trong tuần đầu tập luyện là nền tảng kỹ thuật của HLV Zidane. Ông ấy dường như không mất đi chút phẩm chất nào so với thời đỉnh cao\", Manu Kone cho biết trong cuộc họp báo của đội tuyển Pháp ngày 30/9. \"Được chứng kiến tận mắt ở ngoài đời thực sự rất tuyệt vời, nhất là khi ông ấy đã bước sang tuổi 54. Khi Zidane giải nghệ, tôi còn rất nhỏ. Việc giữ được kỹ thuật cho đến tận bây giờ cho thấy ông ấy ấn tượng thế nào ở thời đỉnh cao\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khi còn thi đấu, Zidane là cầu thủ kiến tạo giỏi bậc nhất thế giới. Ông từng đưa Pháp leo lên đỉnh cao World Cup 1998, Euro 2000, trước khi cùng Real Madrid giành Champions League 2002. Ông cũng là tác giả hai bàn quyết định trong trận chung kết World Cup 1998, bàn quyết định trong trận chung kết Champions Legue 2002, đồng thời giành Quả Bóng Vàng 1998."
+    },
+    {
+     "t": "p",
+     "text": "Chia tay sân cỏ vào năm 2006, Zidane tiếp tục thành công trên con đường mới. Trên cương vị HLV, ông giúp Real Madrid giành ba Champions League liên tiếp (2016-2018) và hai La Liga (2017, 2021). Với các chiến tích đó, ông trở thành người thay cựu HLV Didier Deschamps sau World Cup 2026."
+    },
+    {
+     "t": "p",
+     "text": "Kone cho biết HLV Zidane tư vấn và giao nhiều trách nhiệm hơn cho anh. Và tiền vệ 25 tuổi đang chơi cho Roma cảm thấy vinh dự khi được một huyền thoại bóng đá thế giới dẫn dắt. \"Ông ấy bảo tôi hãy chơi tự do và giúp tôi tự tin hơn. Ông ấy từng là tiền vệ, nên với tư cách một tiền vệ, việc lắng nghe mọi điều từ ông ấy chỉ tốt cho tôi hơn mà thôi\", Kone nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong hai trận đầu cầm quân của Zidane, Pháp thắng cùng tỷ số 1-0 trên sân Thổ Nhĩ Kỳ và Bỉ. Ngày 2/10, họ sẽ tiếp Italy trong trận đấu gợi lại kỷ niệm không mấy vui của vị HLV 54 tuổi. Trong trận chia tay sự nghiệp cầu thủ, Zidane đã húc đầu vào Marco Materazzi sau khi bị khiêu khích, dẫn đến thất bại của Pháp trước Italy trong loạt luân lưu chung kết World Cup 2006."
+    },
+    {
+     "t": "p",
+     "text": "Pháp đang dẫn đầu bảng 1 Nations League A, với hai trận toàn thắng. Nếu thắng tiếp Italy và Bỉ (lượt về ngày 5/10), thầy trò HLV Zidane sẽ sớm giành một trong hai vé vào tứ kết. Bỉ và Italy đang cùng có ba điểm, trong khi Thổ Nhĩ Kỳ xếp cuối với không điểm."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Thanh Quý (theo ESPN )"
+    }
+   ]
+  },
+  {
+   "id": "a6671dbbb39a",
+   "order": 12,
+   "slug": "ban-thang-tu-chuoi-24-duong-chuyen-trong-70-giay-cua-tay-ban",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Bàn thắng từ chuỗi 24 đường chuyền trong 70 giây của Tây Ban Nha",
+   "sapo": "Bàn mở tỷ số của Tây Ban Nha trước Croatia ở Nations League diễn ra ngay sau tình huống giao bóng bắt đầu trận đấu, với 24 đường chuyền liên tiếp không cho đối thủ chạm bóng lần nào và được kết thúc bởi Lamine Yamal ở giây 70.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ban-thang-tu-chuoi-24-duong-chuyen-trong-70-giay-cua-tay-ban-nha-5126858.html",
+   "published": "2026-10-01T05:09:41+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1203,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-0.jpg",
+     "caption": "Chuỗi 24 đường chuyền liên tiếp dẫn tới bàn mở tỷ số của Lamine Yamal trong trận Tây Ban Nha - Croatia. Ảnh: Marca",
+     "w": 1020,
+     "h": 1535
+    },
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-1.jpg",
+     "caption": "Croatia tổ chức phòng ngự với cấu trúc 4-4-2 trước Tây Ban Nha, nỗ lực đẩy hai mũi nhọn dâng cao pressing nhưng bất thành. Ảnh chụp màn hình",
+     "w": 1020,
+     "h": 574
+    },
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-2.jpg",
+     "caption": "Lamine Yamal giật về nhận bóng ở vòng tròn giữa sân trước khi bị đối thủ húc ngã xuống sân. Ảnh chụp màn hình",
+     "w": 1020,
+     "h": 572
+    },
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-3.jpg",
+     "caption": "Bóng được Tây Ban Nha luân chuyển sang cánh trái, nơi Fabian Ruiz giật về phát động tiến công bằng đường chuyền xuyên tuyến cho Alex Baena. Ảnh chụp màn hình",
+     "w": 1020,
+     "h": 574
+    },
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-4.jpg",
+     "caption": "Marc Cucurella và Alex Baena đập nhả một-hai, đưa bóng tiến sát vùng cấm Croatia. Ảnh chụp màn hình",
+     "w": 1020,
+     "h": 573
+    },
+    {
+     "src": "img/2026-10-02/a6671dbbb39a-5.jpg",
+     "caption": "Đường chuyền kiến tạo của Alex Baena cho Lamine Yamal, với cú nhấc chân bỏ bóng của Fermin Lopez. Ảnh chụp màn hình",
+     "w": 1020,
+     "h": 573
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bàn mở tỷ số của Tây Ban Nha trước Croatia ở Nations League diễn ra ngay sau tình huống giao bóng bắt đầu trận đấu, với 24 đường chuyền liên tiếp không cho đối thủ chạm bóng lần nào và được kết thúc bởi Lamine Yamal ở giây 70."
+    },
+    {
+     "t": "p",
+     "text": "Nếu như tại Wembley ngày 27/9, Tây Ban Nha chỉ mất 105 giây để mở tỷ số, thị uy vị thế nhà ĐKVĐ thế giới, thì trước Croatia ba ngày sau đó sức mạnh ấy thậm chí còn được chứng minh sớm hơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong ngày thầy trò Luis de la Fuente lần đầu được chơi trên sân nhà hậu World Cup 2026, ban tổ chức đã phát cờ Tây Ban Nha cho từng CĐV có mặt tại sân Ramon Sanchez Pizjuan. Những giai điệu của bài hát Que Viva Espana vang lên qua hệ thống loa phóng thanh trong lúc khán giả ổn định chỗ ngồi, còn màn hình lớn thì trình chiếu thước phim lịch sử ghi lại hành trình Bắc Mỹ mùa hè đã qua."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm hai đội bước ra từ đường hầm, một bức tifo khổng lồ được giăng lên với hình ảnh Tây Ban Nha trong vị thế \"những nhà vua của thế giới\", cùng hình ảnh chiếc thuyền gỗ ra khơi theo phong cách của Christopher Columbus năm 1492."
+    },
+    {
+     "t": "p",
+     "text": "Ngay trước giờ bóng lăn, nhà vô địch World Cup 2010 và là huyền thoại của Sevilla, Jesus Navas, mang cup vàng bước ra thảm cỏ, trước khi trao tay thủ quân Rodri trong tiếng pháo tay vang dội từ 40.294 CĐV."
+    },
+    {
+     "t": "p",
+     "text": "Bầu không khí náo nhiệt ấy chưa kịp lắng xuống thì chỉ đúng 70 giây sau tiếng còi khai cuộc trận đấu, SVĐ đã biến thành một \"manicomio\", tức \"nhà thương điên\" – như cách ví von của báo Tây Ban Nha Marca , bởi khoảnh khắc mà sức mạnh tập thể trong lối chơi của \"La Roja\" được thổi bùng qua bàn thắng của Yamal."
+    },
+    {
+     "t": "p",
+     "text": "24 đường chuyền liên tiếp được các cầu thủ áo đỏ thực hiện ngay sau pha giao bóng của Mikel Oyarzabal. Ngoại trừ thủ thành Unai Simon và tiền vệ công Fermin Lopez, tất cả 9 cầu thủ Tây Ban Nha còn lại trong đội hình xuất phát đều tham gia chuỗi phối hợp. Và tất nhiên, đoàn quân của HLV Slaven Bilic trở thành khán giả bất đắc dĩ, chẳng chạm bóng nổi một lần trong toàn bộ quy trình ấy."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 23/9, Thierry Henry từng chia sẻ trong cuộc phỏng vấn với báo AS rằng \" ngôi sao lớn nhất của Tây Ban Nha chính là tập thể \". Và bàn mở tỷ số trước Croatia thâu tóm trọn vẹn nhận xét của cựu danh thủ này."
+    },
+    {
+     "t": "p",
+     "text": "Ra sân với đội hình chưa phải là mạnh nhất, Tây Ban Nha vẫn trung thành với kết cấu 4-3-3 quen thuộc. Tiền vệ trụ Martin Zubimendi luôn nhận được sự hỗ trợ luân chuyển bóng từ Fabian Ruiz - người thường xuyên giật về ở nách trái trung lộ để làm bóng. Bàn thắng của chủ nhà được khởi phát từ chính mô hình ấy."
+    },
+    {
+     "t": "p",
+     "text": "Croatia tổ chức phòng ngự tầm trung ngay sau pha giao bóng của đối thủ, thông qua cấu trúc 4-4-2 với tiền vệ công Petar Sucic dâng lên đứng ngang hàng tiền đạo mũi nhọn Dion Drena Beljo. Đội khách chủ trương phòng ngự theo khu vực, thay vì kèm người một-một."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau cú \"kick-off\" trả về của Oyarzabal, Tây Ban Nha luân chuyển bóng chậm rãi ở phần sân nhà. Lúc bóng được chuyền về cặp trung vệ Dean Huijsen và Pau Cubarsi, hai cầu thủ chơi cao nhất của Croatia chủ động dâng cao áp sát, nhưng bất thành. Đội khách tiếp tục thu quân về giữ cự ly."
+    },
+    {
+     "t": "p",
+     "text": "Suốt 11 đường chuyền đầu tiên, màn chơi chỉ diễn ra giữa bộ tứ vệ và hai tiền vệ Ruiz cùng Zubimendi. Đường chuyền thứ 12, Yamal giật về sâu ở biên phải để nhận bóng. Ngôi sao 19 tuổi đập nhả vài nhịp với Cubarsi và Huijsen trước khi bị húc đổ xuống sân bởi Beljo. Trọng tài không thổi phạt, vẫn cho trận đấu tiếp tục trong lúc những tiếng huýt sáo phản đối vang lên từ khán đài."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Yamal lập tức đứng dậy, quay về vị trí cánh phải quen thuộc. Các đồng đội của anh tiếp tục điềm tĩnh chuyền bóng và tìm kiếm khoảng trống. Và chỉ cần một thời khắc hoán đổi vị trí nhỏ, Tây Ban Nha tìm ra lối tiến công lên phần sân Croatia."
+    },
+    {
+     "t": "p",
+     "text": "Ruiz một lần nữa giật về, vô tình đặt anh vào vị trí của hậu vệ biên trái. Mô hình \"đổi chỗ\" điển hình của \"La Roja\" diễn ra: hậu vệ trái thực sự là Marc Cucurella leo biên để trở thành tiền đạo cánh, còn tiền đạo cánh trái Alex Baena bó vào nách trung lộ, trôi nổi giữa hai tuyến đối thủ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Vị trí của Baena bấy giờ trở thành bài toán hóc búa với kết cấu phòng ngự khu vực của Croatia. Cặp trung vệ của đội tuyển áo caro bị ghim bởi tiền đạo Oyarzabal, hậu vệ phải thì phải để mắt tới Cucurella, trong khi tiền vệ trung tâm lệch phải Josip Misic đang bận giữ \"khu vực\" nơi tuyến giữa."
+    },
+    {
+     "t": "p",
+     "text": "Cũng chính chủ trương phòng ngự khu vực ấy của Croatia khiến tiền vệ cánh phải Marco Pasalic hoàn toàn bị động ngay thời điểm Ruiz có bóng. Anh không gây áp lực, cũng chẳng lùi về bám lấy Cucurella hỗ trợ đồng đội. Đường chuyền xuyên tuyến của ngôi sao PSG dành cho Baena trở thành pha châm ngòi."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Khi Croatia nhận ra cấu trúc phòng ngự phẳng phiu của mình bị đánh thủng thì đã quá muộn. Baena đập nhả một - hai với Cucurella, đưa bóng tiến sát vùng cấm ở trung lộ. Thoạt nhìn, pha đẩy bóng sang ngang của Baena những tưởng dành cho Lopez, nhưng độ nặng của đường chuyền cho thấy ý đồ hướng thẳng đến vị trí của Yamal ở cánh phải."
+    },
+    {
+     "t": "p",
+     "text": "Lopez - người không may dính phải chấn thương lỡ mất suất dự World Cup 2026, kịp nhận ra điều đó trong lúc tấn công vùng 16m50, nhấc chân để bóng trôi đi. Anh không chạm bóng trong cả chuỗi phối hợp, nhưng hành động bỏ bóng ấy mang giá trị riêng."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Sự hiện diện của Lopez hút theo hậu vệ trái của Croatia, dọn đường cho chính Yamal ập vào. Còn trước đó, pha chạy chỗ ra sau hàng thủ đối phương của Oyarzabal mở ra khoảng trống cho chính Lopez tấn công."
+    },
+    {
+     "t": "p",
+     "text": "Phần còn lại, ngôi sao tuổi teen đang khoác áo Barca đón đường kiến tạo từ Baena. Chuỗi 24 đường chuyền liên tiếp được kết thúc một chạm bằng cú đá xoáy về góc xa, hạ gục thủ thành Dominik Livakovic. Yamal ăn mừng ở góc sân, tái hiện cú tựa người vào cột cờ kinh điển của Henry năm xưa."
+    },
+    {
+     "t": "p",
+     "text": "Đến khi Beljo giao bóng lại sau bàn thua ở phút thứ ba, Croatia mới lần đầu chạm bóng."
+    },
+    {
+     "t": "p",
+     "text": "Hoàng Thông"
+    }
+   ]
+  },
+  {
+   "id": "e2a87bb14818",
+   "order": 13,
+   "slug": "nu-than-quan-vot-philippines-canh-cao-cdv",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Nữ thần quần vợt Philippines cảnh cáo CĐV",
+   "sapo": "Nhật Bản Alex Eala, tay vợt nữ số một Đông Nam Á, chấn chỉnh một nam CĐV khi người này ném mũ về phía cô để xin chữ ký, sau trận tứ kết môn quần vợt nữ ASIAD 2026.",
+   "author": "Đức Đồng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nu-than-quan-vot-philippines-canh-cao-cdv-5126422.html",
+   "published": "2026-10-01T09:10:28+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 612,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/e2a87bb14818-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-02/e2a87bb14818-0.jpg",
+     "caption": "Nữ thần quần vợt Philippines cảnh cáo CĐV",
+     "w": 720,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-02/e2a87bb14818-1.jpg",
+     "caption": "Eala thi đấu nội dung đơn nữ môn quần vợt ở ASIAD 2026. Ảnh: POC",
+     "w": 1020,
+     "h": 765
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhật Bản Alex Eala, tay vợt nữ số một Đông Nam Á, chấn chỉnh một nam CĐV khi người này ném mũ về phía cô để xin chữ ký, sau trận tứ kết môn quần vợt nữ ASIAD 2026."
+    },
+    {
+     "t": "p",
+     "text": "Sau trận thắng Joanna Garland (Đài Loan) với tỷ số 7-5, 6-0 ngày 30/9, Eala rời sân Higashiyama Park. Khi đi qua khu vực khán đài, rất nhiều người chờ sẵn để cổ vũ và xin chữ ký. Bất ngờ, một nam CĐV ném chiếc mũ lưỡi trai trắng xuống, nhắm hướng của Eala."
+    },
+    {
+     "t": "p",
+     "text": "Tay vợt người Philippines lập tức dừng lại, đặt túi đựng vợt xuống với vẻ mặt nghiêm trọng. Cô sau đó nhặt mũ lên và nói với chủ nhân chiếc mũ: \"Thưa ngài, đừng ném gì về phía VĐV. Nếu ăn nói tử tế, tôi sẽ ký tặng, chứ đừng ném gì về phía chúng tôi, được chứ?\"."
+    },
+    {
+     "t": "p",
+     "text": "Eala sau đó ký tặng và gửi lại chiếc mũ cho nam CĐV - người cũng lập tức nói lời xin lỗi đến tay vợt 21 tuổi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Eala sinh năm 2005, trong một gia đình có truyền thống thể thao tại Quezon, Philippines. Năm 2018, sau bước ngoặt vô địch giải trẻ danh giá Les Petits As tại Pháp, cô quyết định chuyển sang Tây Ban Nha để gia nhập Học viện Rafa Nadal. Tại đây, cô được nuôi dưỡng tài năng trong suốt 7 năm. Đích thân huyền thoại Rafael Nadal từng nhiều lần lên tiếng khen ngợi, thậm chí chấp bút viết bài tôn vinh cô trong danh sách TIME100 Next 2026 (Những ngôi sao mới nổi ảnh hưởng nhất thế giới), ca ngợi cô là một VĐV tài năng nhưng luôn giữ \"đôi chân trên mặt đất\"."
+    },
+    {
+     "t": "p",
+     "text": "Eala sau đó thăng tiến thần tốc. Cô vươn lên vị trí số 2 thế giới trên bảng xếp hạng trẻ ITF, liên tiếp giành chức vô địch đôi nữ trẻ tại Australia Mở rộng 2020 và Roland Garros 2021, trước khi đi vào lịch sử với tư cách là người Philippines đầu tiên vô địch đơn nữ trẻ một giải Grand Slam tại Mỹ Mở rộng 2022."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bước sang sân chơi chuyên nghiệp, Eala liên tục tạo nên những cú sốc chấn động thế giới. Tại Miami Mở rộng 2025, cô đánh bại tay vợt số 2 thế giới Iga Swiatek và hạ gục nhà vô địch Mỹ Coco Gauff. Tháng 8/2026, cô giành danh hiệu WTA 500 đầu tiên trong sự nghiệp tại Washington. Trong năm 2026, Eala đã chính thức bứt phá vào top 20 thế giới với thứ hạng cao nhất sự nghiệp là số 18 - vị trí mà chưa một tay vợt nữ Đông Nam Á nào chạm đến trong nhiều năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Sự vươn lên của Eala đã thổi bùng làn sóng đam mê quần vợt tại Philippines, quốc gia vốn trước đây chỉ cuồng nhiệt bóng rổ và quyền Anh. Lối đánh của cô còn làm người xem liên tưởng tới huyền thoại châu Á Li Na. Cả hai đều cao khoảng 1,75 m, giao bóng không mạnh nhưng chơi cơ động, dẻo dai, bền bỉ và có khả năng phản công từ cuối sân."
+    },
+    {
+     "t": "p",
+     "text": "Tại ASIAD 2026 đang diễn ra ở Nagoya (Nhật Bản), Eala tiếp tục chứng minh tinh thần cống hiến khi chấp nhận bỏ giải Trung Quốc Mở rộng dù có thể bị WTA phạt nặng vì quy định bắt buộc tham dự, để chọn khoác áo đội tuyển quốc gia. Tuy nhiên, ở trận bán kết với Xiyu Wang (Trung Quốc) chiều nay 1/10, cô bất ngờ thua 6-3, 3-6, 6-2 nên chỉ giành HC đồng."
+    }
+   ]
+  },
+  {
+   "id": "2f714479d8b5",
+   "order": 14,
+   "slug": "robot-hinh-nguoi-tu-nhay-vao-lo-nung-thep",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Robot hình người tự nhảy vào lò nung thép",
+   "sapo": "Đội robot của Figure AI lần lượt nhảy xuống lò hồ quang điện trong một xưởng đúc ở Phần Lan để \"tự hủy\".",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/robot-hinh-nguoi-tu-nhay-vao-lo-nung-thep-5127204.html",
+   "published": "2026-10-01T12:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 647,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/2f714479d8b5-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đội robot của Figure AI lần lượt nhảy xuống lò hồ quang điện trong một xưởng đúc ở Phần Lan để \"tự hủy\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo Interesting Engineering , Figure AI (Mỹ) tiêu hủy đội robot hình người thế hệ cũ Figure 02 bằng cách đưa đến một xưởng đúc ở Imatra, Phần Lan và cho tự nhảy xuống lò hồ quang điện 75 tấn để biến thành kim loại nóng chảy."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Figure 02 từng làm việc ở nhà máy Spartanburg của BMW. Trong 11 tháng triển khai, robot hoạt động hơn 1.250 giờ và lắp ráp hơn 90.000 bộ phận. Figure AI cho biết việc duy trì mẫu Figure 02 không còn mang lại lợi nhuận sau khi họ mở rộng sản xuất thế hệ Figure 03."
+    },
+    {
+     "t": "p",
+     "text": "Theo ABAB News , việc tháo rời từng cỗ máy được đánh giá tiêu tốn thời gian kỹ thuật, trong khi công ty cũng cần phá hủy phần cứng độc quyền mà không để lộ bộ phận tùy chỉnh hoặc tài sản trí tuệ."
+    },
+    {
+     "t": "p",
+     "text": "CEO Brett Adcock ban đầu tìm kiếm giải pháp quyết định số phận của Figure 02 bằng cách tổ chức cuộc khảo sát trên mạng xã hội. Phương án \"kích nổ\" thu hút tới 46,3% lượt bình chọn. Trong khi đó, nam diễn viên kiêm cựu thống đốc bang California Arnold Schwarzenegger đề xuất ý tưởng nung chảy robot."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các cơ sở ở Mỹ và Mexico từ chối nung chảy do lo ngại pin lithium-ion bên trong, nhưng Figure AI đã tìm được một xưởng đúc ở Phần Lan chấp nhận công việc."
+    },
+    {
+     "t": "p",
+     "text": "Đầu tiên, kỹ sư phải dạy Figure 02 cách thực hiện cú nhảy. Họ lắp túi khí lớn tại trụ sở ở San Jose để huấn luyện robot nhảy xuống từ tòa nhà hai tầng. Họ cũng huy động diễn viên đóng thế làm mẫu chuyển động để robot học. Sau đó, đội kỹ sư phát triển mô hình điều khiển trong môi trường mô phỏng, hướng dẫn robot nhảy xuống vị trí chính xác ở xưởng đúc xa lạ. Figure AI chưa từng thử nghiệm robot bên trong xưởng đúc ở Phần Lan trước khi chuyển chúng đến đó."
+    },
+    {
+     "t": "p",
+     "text": "Lò hồ quang điện của xưởng đúc sử dụng ba điện cực graphite lớn để nung chảy phế liệu thép. Figure AI chỉ có 6 chu kỳ nấu chảy trong vòng 24 giờ. Mỗi chu kỳ kéo dài 20 phút trước khi thép nóng chảy nguội đủ để tạo thành lớp vỏ rắn. Môi trường xung quanh lò phát ra bức xạ nhiệt cực cao và trường điện từ mạnh đến mức vô hiệu hóa thiết bị điện tử thông thường. Bất chấp camera và thiết bị điện tử xung quanh đều bị hỏng, các robot vẫn tiếp tục thực hiện chính xác thuật toán chuyển động được huấn luyện từ trước."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi đội robot biến mất trong lò, Figure AI vận chuyển những thanh kim loại thu được về Mỹ và sẽ gia công thành những kỷ vật với số lượng giới hạn để giữ gìn vật liệu từ robot đã ngừng hoạt động ở dạng nhỏ gọn hơn. Phần lớn Figure 02 hiện đã bị phá hủy, chỉ còn một số ít được lưu trữ tại trụ sở công ty."
+    },
+    {
+     "t": "p",
+     "text": "Figure AI giới thiệu robot Figure 03 vào tháng 10/2025. Robot trang bị bộ cảm biến và hệ thống tay được thiết kế lại để phù hợp với Helix, hệ thống thị giác - ngôn ngữ - hành động độc quyền của công ty. Figure 03, xuất hiện vào tháng 11 cùng năm, được điều chỉnh để có thể sử dụng trong gia đình, như vật liệu bên ngoài mềm hơn, sạc không dây, hệ thống âm thanh cải tiến và bộ pin an toàn hơn cho hoạt động xung quanh con người."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "124929a77834",
+   "order": 15,
+   "slug": "starship-lai-gap-su-co-dong-co-nasa-tinh-duong-du-phong-cho",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Starship lại gặp sự cố động cơ, NASA tính đường dự phòng cho Artemis",
+   "sapo": "Sự cố một động cơ trong chuyến bay thử mới nhất của Starship có thể ảnh hưởng tiến độ phát triển tàu đổ bộ Mặt trăng phục vụ chương trình Artemis của NASA.",
+   "author": "TTXVN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/starship-lai-gap-su-co-dong-co-nasa-tinh-duong-du-phong-cho-artemis-100260930214148216.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 621,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/124929a77834-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/124929a77834-0.jpg",
+     "caption": "Starship gặp sự cố ngay sau khi tách tầng đẩy khiến tham vọng trở lại Mặt trăng của NASA thêm thách thức - Ảnh: SpaceX",
+     "w": 914,
+     "h": 489
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến bay thử không người lái lần thứ 14 ngày 28-9 tại bang Texas, một trong ba động cơ Raptor chính của Starship bất ngờ ngừng hoạt động sau khi tàu tách khỏi tầng đẩy."
+    },
+    {
+     "t": "p",
+     "text": "Đội điều khiển vẫn đưa tàu lên quỹ đạo và lần đầu triển khai vệ tinh thương mại. Tuy nhiên, trục trặc hệ thống đẩy khiến chuyến bay kết thúc sớm hơn dự kiến vài giờ."
+    },
+    {
+     "t": "h",
+     "text": "\"Bài toán lớn\" với Artemis?"
+    },
+    {
+     "t": "p",
+     "text": "Việc xác định nguyên nhân sự cố có ý nghĩa quan trọng với chương trình Artemis, bởi SpaceX đang phát triển tàu đổ bộ Mặt trăng dựa trên Starship. Phiên bản này sử dụng cùng hệ thống động cơ để đưa phi hành gia tới và rời bề mặt Mặt trăng."
+    },
+    {
+     "t": "p",
+     "text": "Các động cơ Raptor sử dụng nhiên liệu methane là một trong những bộ phận phức tạp và đắt tiền nhất của Starship. Trục trặc động cơ và hệ thống đẩy từng gây trở ngại cho các chuyến bay trước."
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến bay thứ 12 hồi tháng 5, một động cơ không khởi động theo kế hoạch. SpaceX cũng từng hủy kế hoạch thử khởi động động cơ Raptor trong không gian ở một số chuyến bay. Tuy nhiên, trong chuyến bay thứ 13 hồi tháng 7, toàn bộ động cơ đều hoạt động thành công trong quá trình bay lên."
+    },
+    {
+     "t": "p",
+     "text": "Theo các chuyên gia, mức độ ảnh hưởng đến tiến độ phát triển Starship phụ thuộc vào việc đây là sự cố riêng lẻ hay lỗi thiết kế cần khắc phục trên toàn bộ các tàu."
+    },
+    {
+     "t": "p",
+     "text": "Việc khắc phục sự cố có thể ảnh hưởng đến cả kế hoạch mở rộng mạng lưới vệ tinh Internet Starlink của SpaceX và vai trò của công ty trong chương trình Artemis."
+    },
+    {
+     "t": "p",
+     "text": "Trước mắt, NASA cần tàu đổ bộ cho sứ mệnh Artemis III, dự kiến diễn ra sớm nhất vào mùa hè năm 2027. Sứ mệnh này nhằm thử nghiệm các thao tác tiếp cận và ghép nối trên quỹ đạo thấp quanh Trái đất, chuẩn bị cho chuyến đổ bộ có người lái."
+    },
+    {
+     "t": "h",
+     "text": "NASA không chỉ trông vào Starship"
+    },
+    {
+     "t": "p",
+     "text": "NASA đặt mục tiêu đưa phi hành gia trở lại bề mặt Mặt trăng vào năm 2028, trước kế hoạch đổ bộ có người lái của Trung Quốc vào năm 2030. Tuy nhiên, nhiều ý kiến cho rằng mục tiêu này quá tham vọng."
+    },
+    {
+     "t": "p",
+     "text": "Để thúc đẩy tiến độ, NASA đang để SpaceX cạnh tranh với Blue Origin của tỉ phú Jeff Bezos trong việc cung cấp tàu đổ bộ."
+    },
+    {
+     "t": "p",
+     "text": "SpaceX phát triển phiên bản Starship bằng thép không gỉ, có kích thước lớn hơn nhiều so với các tàu đổ bộ Mặt trăng trước đây. Trong khi đó, Blue Origin phát triển tàu Blue Moon theo hướng thiết kế truyền thống hơn."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu NASA ký hợp đồng với SpaceX để cung cấp tàu đổ bộ có người lái đầu tiên cho chương trình Artemis. Tuy nhiên, hồi tháng 4, Giám đốc NASA Jared Isaacman cho biết cơ quan này sẽ lựa chọn tàu sẵn sàng trước, trong bối cảnh chương trình bay thử Starship liên tục chậm tiến độ."
+    },
+    {
+     "t": "p",
+     "text": "Nếu đáp ứng yêu cầu, cả hai tàu có thể tham gia Artemis III để trình diễn các thao tác trên quỹ đạo bằng hệ thống động cơ hoạt động trong không gian."
+    },
+    {
+     "t": "p",
+     "text": "SpaceX chưa phản hồi về sự cố mới nhất. Người phát ngôn NASA cũng không trả lời trực tiếp các câu hỏi về động cơ và chương trình Artemis, mà dẫn bài đăng của ông Isaacman trên mạng xã hội X, trong đó đánh giá Starship đã có \"một sứ mệnh tuyệt vời\" và đạt \"một dấu mốc quan trọng\"."
+    }
+   ]
+  },
+  {
+   "id": "178dd50ba63f",
+   "order": 16,
+   "slug": "meo-xem-bau-troi-thang-10-nam-2026-tu-nasa",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Mẹo xem bầu trời tháng 10 năm 2026 từ NASA",
+   "sapo": "Hãy ngắm sao Thổ vào thời điểm xung đối, đón mưa sao băng Orionid, và xem Mặt Trăng lướt qua gần cụm sao Pleiades, hay còn gọi là Thất Nữ.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/",
+   "published": "2026-10-01T16:58:10+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 702,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "What’s Up: October 2026 Skywatching Tips from NASA",
+   "images": [
+    {
+     "src": "img/2026-10-02/178dd50ba63f-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/178dd50ba63f-0.jpg",
+     "caption": "Một bức ảnh phơi sáng lâu chụp bầu trời đêm trong vắt với vô số vì sao, nổi bật là dải sáng đầy bụi của dải Ngân Hà trải dài theo chiều dọc ở chính giữa. Những vệt sáng mờ của sao băng có thể nhìn thấy khắp bầu trời. Phía dưới cùng, bóng đen của hàng cây và dãy núi xa viền quanh đường chân trời, với ánh sáng ấm áp hắt nhẹ phía sau tán lá ở góc dưới bên trái.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-02/178dd50ba63f-1.jpg",
+     "caption": "Một bản đồ bầu trời đêm ghi chú \"Ngày 4 tháng 10, nhìn về hướng đông lúc khoảng 9 giờ tối\" phía trên đường chân trời tối. Hành tinh sao Thổ được đánh dấu nổi bật ở giữa, phía trên đường chân trời hướng đông, với ngôi sao sáng Fomalhaut có thể nhìn thấy xa hơn về hướng đông nam.",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-02/178dd50ba63f-2.jpg",
+     "caption": "Một bản đồ bầu trời đêm tối ghi chú \"Ngày 22 tháng 10, nhìn về hướng đông lúc khoảng 2 giờ sáng\" dọc theo đường chân trời phía dưới. Ở giữa, chòm sao Orion (Thợ Săn) được vẽ viền màu tím, với biểu tượng hình tia nổ chỉ vào điểm xuất phát (radiant) của mưa sao băng Orionid. Các thiên thể khác được đánh dấu xung quanh gồm Capella, Aldebaran, Rigel, Procyon, Sirius và sao Hỏa.",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-02/178dd50ba63f-3.jpg",
+     "caption": "Một bản đồ bầu trời đêm ghi chú \"Ngày 27 tháng 10, nhìn về hướng đông lúc khoảng 11 giờ tối\" dọc theo đường chân trời phía dưới. Gần chính giữa, một Mặt Trăng khuyết sáng gần tròn nằm sát ngay cạnh cụm sao Pleiades. Các ngôi sao và hành tinh được đánh dấu xung quanh gồm Capella, Aldebaran, Betelgeuse, Rigel, và sao Thổ ở vị trí cao hơn trên bầu trời.",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-02/178dd50ba63f-4.jpg",
+     "caption": "Một hình ảnh có tiêu đề \"Tháng 10 năm 2026\" trên nền đen, thể hiện bốn pha chính của Mặt Trăng cùng ngày tương ứng trên lịch: Trăng hạ huyền: ngày 3 tháng 10 (nửa trái của Mặt Trăng được chiếu sáng); Trăng non: ngày 10 tháng 10 (gần như là một khối cầu tối hoàn toàn); Trăng thượng huyền: ngày 18 tháng 10 (nửa phải của Mặt Trăng được chiếu sáng); Trăng tròn: ngày 25 tháng 10 (Mặt Trăng được chiếu sáng toàn bộ).",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Một trận mưa sao băng và Mặt Trăng ghé qua gần cụm sao Pleiades"
+    },
+    {
+     "t": "p",
+     "text": "Hãy ngắm sao Thổ vào thời điểm xung đối, đón mưa sao băng Orionid, và xem Mặt Trăng lướt qua gần cụm sao Pleiades, hay còn gọi là Thất Nữ."
+    },
+    {
+     "t": "h",
+     "text": "Những điểm nổi bật khi xem bầu trời"
+    },
+    {
+     "t": "li",
+     "text": "Ngày 4 tháng 10: Sao Thổ đạt vị trí xung đối (opposition), khiến hành tinh có vành đai này có thể nhìn thấy suốt phần lớn đêm"
+    },
+    {
+     "t": "li",
+     "text": "Ngày 6 tháng 10: Một vầng trăng lưỡi liềm mỏng xuất hiện gần sao Mộc sáng rực trước khi mặt trời mọc"
+    },
+    {
+     "t": "li",
+     "text": "Ngày 21–22 tháng 10: Mưa sao băng Orionid đạt đỉnh điểm; ánh trăng có thể gây cản trở, vì vậy hãy quan sát trước bình minh, sau khi Mặt Trăng đã lặn"
+    },
+    {
+     "t": "li",
+     "text": "Ngày 27–28 tháng 10: Mặt Trăng đi ngang qua gần cụm sao Pleiades, hay còn gọi là Thất Nữ"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Bản ghi lời thoại"
+    },
+    {
+     "t": "p",
+     "text": "Sao Thổ trở thành ngôi sao chính, một trận mưa sao băng thắp sáng bầu trời, và Mặt Trăng ghé thăm Thất Nữ. Đó là những điều đáng xem trong tháng 10."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Vào ngày 4 tháng 10, sao Thổ đạt vị trí xung đối, mang đến cho những người yêu thích ngắm sao một trong những cơ hội tốt nhất trong năm để chiêm ngưỡng hành tinh có vành đai này. Vị trí xung đối xảy ra khi Trái Đất đi qua giữa Mặt Trời và sao Thổ. Điều đó khiến sao Thổ nằm đối diện với Mặt Trời trên bầu trời của chúng ta, vì vậy nó mọc lên vào khoảng lúc mặt trời lặn và có thể nhìn thấy suốt phần lớn thời gian ban đêm."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà thiên văn học từ lâu đã biết đến một dòng tia hình lục giác (jet stream) trải dài gần 20.000 dặm (khoảng 32.000 km) bao quanh cực bắc của Sao Thổ. Nhưng chỉ mới tháng trước, các quan sát bằng Kính viễn vọng Không gian Hubble của NASA đã phát hiện một đợt sóng khí quyển hình thập giác bao quanh cực nam của hành tinh này. Hiện tượng ở bán cầu nam này dường như đang mạnh dần lên, mang đến cho các nhà khoa học cơ hội hiếm có để quan sát một hình mẫu khí quyển khổng lồ hình thành."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mưa sao băng Orionid đạt đỉnh vào đêm 21 rạng sáng 22 tháng Mười. Mưa sao băng Orionid được tạo ra bởi những mảnh vụn nhỏ do sao chổi Halley để lại. Chúng dường như tỏa ra từ hướng chòm sao Orion, nhưng các vệt sao băng có thể xuất hiện ở bất kỳ phần nào của bầu trời. Năm nay, ánh trăng khuyết sáng sẽ làm lu mờ một số vệt sao băng mờ hơn. Cơ hội tốt nhất của bạn có thể là vài giờ trước bình minh, sau khi Mặt Trăng đã lặn. Hãy tìm một nơi tối trời, để mắt có thời gian thích nghi rồi ngước nhìn lên."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Vào đêm 27 rạng sáng 28 tháng Mười, hãy chú ý quan sát Mặt Trăng đi ngang qua gần một cụm sao nổi tiếng gọi là Pleiades, còn được biết đến với tên Bảy Chị Em. Nhiều nền văn hóa cổ xưa có những câu chuyện gắn liền với Pleiades, một phần vì cụm sao này có thể nhìn thấy từ hầu hết mọi nơi trên thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Để tự mình tìm thấy chúng, hãy nhìn về hướng đông vào buổi tối khi Mặt Trăng và cụm sao dần lên cao trên bầu trời đêm. Pleiades trông giống như một nhóm sao hơi mờ gồm 6 đến 7 ngôi sao. Chúng có thể nhìn thấy bằng mắt thường, nhưng ống nhòm hay kính thiên văn sẽ cho thấy những chi tiết đẹp mắt hơn nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Dưới đây là các pha của Mặt Trăng trong tháng Mười."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Bạn có thể cập nhật mọi thông tin mới nhất về các sứ mệnh của NASA khám phá hệ Mặt Trời và xa hơn nữa tại NASA Science."
+    },
+    {
+     "t": "p",
+     "text": "Tôi là Raquel Villanueva từ Phòng Thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory) của NASA, và đó là bản tin What's Up tháng này."
+    }
+   ]
+  },
+  {
+   "id": "a9d701a76c8e",
+   "order": 17,
+   "slug": "mot-ho-khong-lo-gan-bang-dien-tich-bo-dao-nha-xuat-hien-giua",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Một hố khổng lồ gần bằng diện tích Bồ Đào Nha xuất hiện giữa biển băng mùa đông ở Nam Cực. Giờ chúng ta đã biết lý do.",
+   "sapo": "Mỗi mùa đông, diện tích Nam Cực tăng gấp đôi khi biển băng đóng kín khắp đại dương xung quanh.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/a-vast-hole-almost-the-size-of-portugal-opened-up-in-antarcticas-winter-sea-ice-now-we-know-why",
+   "published": "2026-10-01T13:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 952,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A Vast Hole Almost The Size of Portugal Opened Up in Antarctica's Winter Sea Ice. Now We Know Why.",
+   "images": [
+    {
+     "src": "img/2026-10-02/a9d701a76c8e-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-02/a9d701a76c8e-0.jpg",
+     "caption": "(a) Hiện tượng polynya được vệ tinh NASA Worldview ghi lại, (b) Địa hình đáy biển của vịnh Breid, (c) Mật độ băng biển hằng ngày cho thấy sự hình thành của vùng biển trống giữa băng (open-ocean polynya). Đường viền màu hồng cánh sen thể hiện ngưỡng mật độ băng biển 30%, còn hình chữ nhật nét đứt màu đen đánh dấu cùng khu vực polynya (16–31°Đ, 65–68°N) được thể hiện ở hình (b) và (c). (Swain và cộng sự, tạp chí Geophysical Research Letters, 2026)",
+     "w": 1280,
+     "h": 638
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mỗi mùa đông, diện tích Nam Cực tăng gấp đôi khi biển băng đóng kín khắp đại dương xung quanh."
+    },
+    {
+     "t": "p",
+     "text": "Thông thường, vịnh Breid ở phía Đông Nam Cực bị bao phủ hoàn toàn bởi một lớp vỏ băng dày từ tháng 7 đến tháng 8."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng vào tháng 8 năm 2024, hình ảnh vệ tinh cho thấy một hố khổng lồ xuất hiện giữa lớp băng, hiện tượng này được gọi chính thức là polynya - một vùng nước biển trống được bao quanh bởi băng biển."
+    },
+    {
+     "t": "p",
+     "text": "Đây là điều mà các nhà khoa học chưa từng thấy vào thời điểm này trong năm."
+    },
+    {
+     "t": "p",
+     "text": "Vào lúc rộng nhất, cái hố này đạt diện tích 89.121 km vuông, chỉ nhỏ hơn một chút so với toàn bộ diện tích đất liền của Bồ Đào Nha."
+    },
+    {
+     "t": "p",
+     "text": "Theo một nhóm nghiên cứu đến từ Ấn Độ, do nhà khoa học Trái Đất Jeebanjyoti Swain dẫn đầu, cái hố này là kết quả của một chuỗi điều kiện thời tiết cực đoan, bao gồm hàng loạt đợt sông khí quyển mạnh và các đợt sóng nhiệt biển."
+    },
+    {
+     "t": "p",
+     "text": "Swain và nhóm của mình đã công bố phát hiện trên tạp chí Geophysical Research Letters."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Một chuỗi các đợt sông khí quyển (atmospheric river) mạnh, thường được gọi là 'những dòng sông trên bầu trời', đã mang một lượng lớn hơi ẩm từ các vĩ độ thấp hơn vào khu vực Nam Cực, đi kèm với một luồng gió thổi liên tục về phía nam đẩy băng biển về phía cực,\" các tác giả viết."
+    },
+    {
+     "t": "p",
+     "text": "Sáu đợt sông khí quyển mang theo không khí ấm và ẩm đã xảy ra từ tháng 7 đến tháng 8 năm 2024. Các nhà khoa học lưu ý rằng những đợt sông khí quyển này nằm trong số những sự kiện vận chuyển hơi ẩm giữa mùa đông mạnh nhất từng được ghi nhận."
+    },
+    {
+     "t": "p",
+     "text": "\"Cùng với nhau, chúng tạo ra bức xạ sóng dài giáng xuống tăng cường, làm không khí ấm lên, gây ra tuyết rơi ấm, và dòng nhiệt dương đi vào đại dương, tất cả cộng lại đã kìm hãm sự phát triển của băng biển,\" các tác giả giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Cùng lúc đó, gió mạnh gây ra hiện tượng hút Ekman (Ekman suction), đưa lớp nước ấm hơn ở dưới sâu lên bề mặt và khiến lớp nước biển trên cùng ấm lên, trong khi các đợt nắng nóng trên biển kéo dài càng làm chậm quá trình đóng băng.\""
+    },
+    {
+     "t": "p",
+     "text": "Hút Ekman là hiện tượng xảy ra khi một lượng lớn nước ở bề mặt bị xô đẩy do ma sát của gió thổi qua mặt biển."
+    },
+    {
+     "t": "p",
+     "text": "Trong trường hợp này, hút Ekman đã đưa lớp nước sâu vòng cực trên (upper circumpolar deep water) lên bề mặt. Lớp nước này ấm hơn và xáo động hơn so với lớp nước bề mặt thường thấy vào thời điểm đó trong năm, khiến băng đóng chậm lại và bị cản trở."
+    },
+    {
+     "t": "p",
+     "text": "Swain và nhóm nghiên cứu dự đoán chúng ta sẽ còn thấy nhiều hố băng (polynya) kiểu này ở Nam Cực trong tương lai, vì biến đổi khí hậu đang làm các dòng sông khí quyển (atmospheric river) mạnh hơn, gây ra những đợt nắng nóng thường xuyên và kéo dài hơn cả trên không và trên biển, đồng thời làm nóng các lớp nước phía trên của Nam Đại Dương."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu viết: \"Tình trạng băng biển ít và việc hình thành các hố băng có thể sẽ trở nên thường xuyên hơn ở những vùng mà trước đây băng biển vẫn luôn ổn định.\""
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, diện tích băng biển vào mùa đông ở Nam Cực đã chạm mức thấp thứ ba trong lịch sử ghi nhận."
+    },
+    {
+     "t": "p",
+     "text": "Cả bốn kỷ lục về mức băng biển mùa đông thấp nhất đều xảy ra trong bốn năm vừa qua, trong đó năm 2023 là mức thấp nhất từng ghi nhận, còn năm 2024 (năm xuất hiện hố băng khổng lồ ở Breid Bay) đứng thứ hai."
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 6 năm nay, một vùng rộng lớn ở biển Bellingshausen (phía tây bán đảo Nam Cực) đã không đóng băng, để trống một khoảng biển rộng gần bằng diện tích nước Pháp, vốn thường được băng biển che phủ."
+    },
+    {
+     "t": "p",
+     "text": "Băng biển hình thành rồi tan suốt cả năm, và vì nó trôi nổi trên mặt nước nên không trực tiếp gây ra thay đổi mực nước biển."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nó tạo ra một lớp đệm bao quanh các thềm băng và sông băng - những thứ có khả năng khiến mực nước biển dâng nhanh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Nếu không có lớp băng biển rộng bao quanh suốt mùa đông, phần lớn hơn của dải băng Nam Cực sẽ bị lộ ra trước nước biển đang ngày càng ấm lên, và đây mới chính là điều các nhà khoa học thực sự lo ngại."
+    },
+    {
+     "t": "p",
+     "text": "Băng biển cũng rất quan trọng đối với hệ sinh thái Nam Cực: các chuỗi thức ăn nuôi sống phần lớn đại dương trên thế giới phụ thuộc vào việc băng quay trở lại đều đặn."
+    },
+    {
+     "t": "p",
+     "text": "Có bằng chứng rõ ràng cho thấy những thay đổi này đối với khí hậu toàn cầu là kết quả của các hoạt động của con người: chủ yếu là việc đốt nhiên liệu hóa thạch. Điều này cũng có nghĩa là chúng ta có thể thay đổi chiều hướng của những xu hướng đáng lo ngại này."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được Fiona MacDonald kiểm tra thông tin và biên tập. Dù luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "6ec737cb5751",
+   "order": 18,
+   "slug": "phat-hien-khung-long-co-long-tuyet-dep-o-trung-quoc-co-the-v",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Phát hiện khủng long có lông tuyệt đẹp ở Trung Quốc có thể viết lại lịch sử tiến hóa của loài biết bay",
+   "sapo": "Một con khủng long ăn thịt (raptor) có lông vừa được phát hiện ở đông bắc Trung Quốc, được bảo quản tuyệt đẹp, có thể đã từng biết bay.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/discovery-of-exquisite-feathered-dinosaur-in-china-could-rewrite-the-evolution-of-flight",
+   "published": "2026-10-01T22:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 802,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Discovery of Exquisite Feathered Dinosaur in China Could Rewrite The Evolution of Flight",
+   "images": [
+    {
+     "src": "img/2026-10-02/6ec737cb5751-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-02/6ec737cb5751-0.jpg",
+     "caption": "Chi tiết mẫu hóa thạch chuẩn của loài Norellraptor barsboldi. (Wang và cộng sự, Nat. Comms., 2026)",
+     "w": 1280,
+     "h": 604
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một con khủng long ăn thịt (raptor) có lông vừa được phát hiện ở đông bắc Trung Quốc, được bảo quản tuyệt đẹp, có thể đã từng biết bay."
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện này cũng phần nào làm đảo lộn con đường tiến hóa mà chúng ta từng nghĩ loài chim đã trải qua để có thể bay lên bầu trời."
+    },
+    {
+     "t": "p",
+     "text": "Loài khủng long mới này được đặt tên là Norellraptor barsboldi, thuộc nhóm microraptor, tức là những con khủng long nhỏ có lông vũ và cánh."
+    },
+    {
+     "t": "p",
+     "text": "Nó cũng là thành viên của nhóm lớn hơn gọi là Paraves, bao gồm nhiều loài khủng long chân thú (theropod), trong đó có cả những loài vẫn còn tồn tại đến ngày nay: chim."
+    },
+    {
+     "t": "p",
+     "text": "Và giống như những họ hàng còn sống của mình, Norellraptor có lẽ cũng đã biết bay."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khi phân tích kỹ hóa thạch chi tiết đáng kinh ngạc này, các nhà khoa học cho rằng con đường tiến hóa dẫn đến khả năng bay có thể phức tạp và rẽ nhánh hơn nhiều so với những gì chúng ta từng nghĩ."
+    },
+    {
+     "t": "p",
+     "text": "Norellraptor được mô tả trong một bài báo khoa học mới của nhà cổ sinh vật học Xuri Wang thuộc Viện Khoa học Địa chất Trung Quốc cùng các cộng sự. Bài báo được công bố trên tạp chí Nature Communications."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cơ thể của con microraptor này dài 57 cm (hơn 22 inch), và dựa vào cấu trúc xương, các nhà nghiên cứu cho rằng nó vẫn chưa phát triển hoàn chỉnh khi chết."
+    },
+    {
+     "t": "p",
+     "text": "Lông của nó không được bảo quản tốt bằng phần xương, nhưng qua những gì quan sát được, chi trước và đuôi của nó dường như được phủ đầy lông vũ dùng để bay, trong khi những phần khác trên cơ thể lại được bao phủ bởi lông thẳng, đơn giản hơn."
+    },
+    {
+     "t": "p",
+     "text": "Một số đặc điểm trong xương của Norellraptor, cùng với việc xem xét kỹ vị trí của nó trong cây phả hệ nhóm Paraves, đã khiến các nhà nghiên cứu đặt lại câu hỏi về những gì chúng ta từng biết về quá trình tiến hóa khả năng bay trong nhóm Paraves."
+    },
+    {
+     "t": "p",
+     "text": "Việc cả microraptor và chim đều tiến hóa khả năng bay không nhất thiết có nghĩa là chúng cùng thừa hưởng đặc điểm này từ một tổ tiên chung."
+    },
+    {
+     "t": "p",
+     "text": "Vị trí hiện tại của Norellraptor trong cây gia hệ Paraves cho thấy khả năng bay có thể đã xuất hiện ít nhất hai lần, một cách độc lập."
+    },
+    {
+     "t": "p",
+     "text": "Các bước mà nó trải qua để bay lên trời có vẻ khá khác với những gì chim đã trải qua."
+    },
+    {
+     "t": "p",
+     "text": "Một bằng chứng khác là sự phát triển của chi trước, hay cánh, của loài khủng long này dường như đã ngừng lại khá sớm trong đời nó, ngược hẳn với những gì ta thấy ở các loài chim biết bay hiện đại."
+    },
+    {
+     "t": "p",
+     "text": "\"Các chuỗi đặc điểm mới liên quan đến khả năng bay được tái hiện ở hai dòng tiến hóa này luôn luôn khác nhau,\" Wang và nhóm nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Kết hợp với các bằng chứng về mô học, có thể cho thấy một mô hình tăng trưởng chi đặc biệt ở nhóm Microraptorinae, những kết quả này loại bỏ khả năng có một khuôn mẫu phát triển chung dẫn đến sự tiến hóa của các loài khủng long biết bay, và ủng hộ giả thuyết có nhiều cơ chế chọn lọc độc lập khác nhau tại nguồn gốc của các nhóm có cánh trong Paraves.\""
+    },
+    {
+     "t": "p",
+     "text": "Nói cách khác, có thể đã từng xảy ra hiện tượng tiến hóa hội tụ (convergent evolution) trong gia đình Paraves."
+    },
+    {
+     "t": "p",
+     "text": "Đó là khi hai nhóm tiến hóa riêng biệt đạt được kết quả tương tự nhau nhưng theo những con đường hoàn toàn khác nhau. Hãy nghĩ đến cá voi và cá: cả hai đều có thể bơi bằng vây, nhưng chúng đạt được cấu trúc cơ thể đó từ những con đường hoàn toàn khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Tuy vậy, các nhà cổ sinh vật học không thể chỉ dựa vào một hóa thạch duy nhất để viết lại lịch sử tiến hóa."
+    },
+    {
+     "t": "p",
+     "text": "Sẽ cần thêm rất nhiều bằng chứng nữa trước khi các nhà khoa học tin chắc rằng chim và microraptor thực sự đã tiến hóa khả năng bay một cách hoàn toàn độc lập với nhau."
+    },
+    {
+     "t": "p",
+     "text": "Các tác giả ghi nhận: \"Microraptorine đã được xem là mô hình để nghiên cứu nguồn gốc và quá trình tiến hóa của khả năng bay ở loài chim.\""
+    },
+    {
+     "t": "p",
+     "text": "\"Tuy nhiên, mối quan hệ tiến hóa giữa bộ máy bay của loài chim và những đặc điểm thích nghi với việc bay trên không được cho là có ở microraptorine vẫn còn gây tranh cãi, xét trên cả góc độ chức năng lẫn phả hệ.\""
+    }
+   ]
+  },
+  {
+   "id": "c87880142974",
+   "order": 19,
+   "slug": "ca-xi-hoi-va-lon-bien-danh-ram-cach-mot-so-loai-vat-dung-khi",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Cá xì hơi và lợn biển \"đánh rắm\" — cách một số loài vật dùng khí gas",
+   "sapo": "Con người thấy rắm thật buồn cười — nhưng với một số loài vật, rắm lại giúp chúng nổi trên mặt nước, giao tiếp và nhiều việc khác nữa.",
+   "author": "Bethany Brookshire",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
+   "published": "2026-10-01T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1373,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Farting fish and tooting manatees — how some animals use gas",
+   "images": [
+    {
+     "src": "img/2026-10-02/c87880142974-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Con người không phải là loài duy nhất biết đánh rắm. Hãy xem trường hợp của Dakota, một chú chó cocker spaniel Anh. Khi về già, Dakota không còn nhịn được hơi trong bụng nữa, theo lời Em Finke, người từng nuôi Dakota. \"Nó sẽ bắt đầu đánh rắm ngay khi đang ngủ trưa, giật mình tỉnh dậy rồi chạy mấy vòng hoảng loạn quanh đảo bếp,\" và cứ thế xì hơi suốt chặng đường."
+    },
+    {
+     "t": "p",
+     "text": "Hơi của Dakota còn tệ hơn nhiều mỗi khi nó ăn da bò khô, món khoái khẩu của nó. \"Đó là thứ hơi thối nhất tôi từng ngửi,\" Topher Hunter, người cũng từng nuôi Dakota, kể lại. Anh ví nó giống như \"một cái xác bị bỏ phơi nắng trên đống phân ủ.\""
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả chú chó già cũng nhận ra điều đó. \"Mỗi lần đánh rắm là nó lại làm cái mặt buồn thiu,\" Hunter nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Con người thường nghĩ rắm là chuyện buồn cười hoặc kinh tởm. Ít ai nghĩ rằng rắm có thể hữu ích hay quan trọng. Đúng là rắm có thể \"truyền tải thông điệp\" — nhất là khi bạn cố tình xì ngay trước mặt ai đó. Nhưng thực chất rắm chỉ là khí gas — một lời \"chào hỏi\" nho nhỏ từ các vi khuẩn sống trong ruột bạn."
+    },
+    {
+     "t": "p",
+     "text": "Một số loài vật đã tìm ra công dụng cho việc xì hơi của mình. Ở người, rắm là khí thoát ra qua hậu môn, cái lỗ mà chúng ta thải phân qua đó. Lợn biển (manatee), một loài thú có vú sống dưới biển, cũng có cấu tạo tương tự. Nhưng với lối sống dưới nước, những cái rắm ấy lại mang đến lợi ích cho chúng."
+    },
+    {
+     "t": "p",
+     "text": "Nick Caruso là một nhà khoa học dữ liệu (data scientist) và là tác giả cuốn sách Does it Fart?: The Definitive Field Guide to Animal Flatulence (Nó có đánh rắm không? Cẩm nang đầy đủ về chuyện xì hơi của động vật). Ông cho biết loài lợn biển Florida (Trichechus manatus) có thể tích trữ khí trong ruột. \"Khí này có thể đến từ không khí nuốt vào hoặc là sản phẩm phụ của quá trình tiêu hóa.\" Khí nhẹ hơn nước. Vì vậy, càng nhiều khí trong ruột thì những con vật này càng dễ nổi hơn, ông giải thích. Đối với lợn biển, có nhiều khí bên trong cơ thể nghĩa là chúng có thể nổi dễ dàng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Cơ hoành của chúng — loại cơ điều khiển việc thở — cực kỳ khỏe. Loài vật này cũng có cơ bụng rất mạnh. Lợn biển có thể dùng những cơ bắp khỏe mạnh đó để nén khí trong ruột, đẩy bớt khí ra ngoài — tức là xì hơi — khi chúng muốn lặn sâu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Lợn biển lấy phần lớn lượng khí này từ cỏ. Chúng chủ yếu ăn cỏ biển khi bơi qua vùng nước nông ở Florida. Loại cây này rất khó tiêu hóa. Lợn biển phải dựa vào một đoạn ruột sau rất lớn để phân giải loại thức ăn này. Chính đoạn ruột đó — cùng với các vi khuẩn sống trong đó — tạo ra rất nhiều khí."
+    },
+    {
+     "t": "h",
+     "text": "Bọt khí từ mông"
+    },
+    {
+     "t": "p",
+     "text": "Không phải loài vật nào cũng có hậu môn, Dani Rabaiotti cho biết. \"Có rất nhiều kiểu lỗ khác làm nhiệm vụ này,\" cô nói. Là nhà động vật học tại Nattergal, một công ty phục hồi thiên nhiên có trụ sở ở Norwich, Anh, cô là đồng tác giả cuốn sách *Does It Fart?*"
+    },
+    {
+     "t": "p",
+     "text": "Chim, cá mập, bò sát, lưỡng cư và một số loài cá có một lỗ gọi là huyệt (cloaca) — một \"cửa ra\" đa năng dùng cho cả việc thải chất thải lẫn sinh sản. Hầu hết động vật có vú tách riêng nước tiểu và phân. Nhưng những loài có huyệt thì lại đẩy cả hai thứ ra cùng một lúc qua một đường duy nhất."
+    },
+    {
+     "t": "p",
+     "text": "Và đôi khi, chúng còn dùng lỗ này để... xì hơi."
+    },
+    {
+     "t": "p",
+     "text": "Cá mập hổ cát (Carcharias taurus) được biết là có xì hơi, David Shiffman cho biết. Ông là nhà sinh học bảo tồn biển và là tác giả cuốn sách *Why Sharks Matter: A Deep Dive with the World's Most Misunderstood Predator*. Theo ông, loài cá mập này xì hơi không phải vì thức ăn, mà là để nổi lên mặt nước."
+    },
+    {
+     "t": "p",
+     "text": "Hầu hết cá xương có bong bóng hơi (swim bladder) giúp chúng nổi. Cá mập và cá đuối không có xương — và cũng không có bong bóng hơi. Nhưng cá mập lại có gan chứa rất nhiều dầu. Dầu nhẹ hơn nước, nên nó giúp chúng lơ lửng trong nước, Shiffman giải thích. Tuy vậy, ngay cả như thế, nhiều loài cá mập \"vẫn phải bơi liên tục,\" ông nói, để khỏi bị chìm xuống."
+    },
+    {
+     "t": "p",
+     "text": "Cá mập hổ cát thì không phải lúc nào cũng bơi, ông cho biết, \"chúng đôi khi lơ lửng trong nước nhiều hơn.\" Con vật sẽ hớp không khí ở bề mặt đại dương rồi dùng nó để giúp mình lơ lửng. \"Không khí đó phải thoát ra bằng cách nào đó, và người ta đã quan sát thấy chúng đẩy không khí ra qua huyệt,\" Shiffman nói."
+    },
+    {
+     "t": "p",
+     "text": "Không phải mọi thứ đi qua huyệt đều sủi bọt ra ngoài. \"Cũng có những loài vật thở bằng... mông,\" Rabaiotti giải thích. Ví dụ, một số loài rùa có thể bơm nước vào huyệt của chúng. Oxy trong nước sẽ đi vào máu chúng qua đường đó. Khi ở dưới nước, rùa cổ trắng Úc (Elseya albagula) lấy tới 48% lượng oxy theo cách này."
+    },
+    {
+     "t": "p",
+     "text": "Tất nhiên, cái gì đi vào thì cũng phải đi ra. \"Không khí bị đẩy ra trông rất giống một cú xì hơi,\" Rabaiotti nói. \"Nhưng về mặt kỹ thuật thì [nó] không hẳn là vậy, vì nó không xuất phát từ hệ tiêu hóa.\""
+    },
+    {
+     "t": "h",
+     "text": "Lời chào của cá trích"
+    },
+    {
+     "t": "p",
+     "text": "Cá trích cũng tạo ra thứ gần giống như tiếng đánh rắm, Brittnie Spriel cho biết. Cô là nhà sinh thái học biển tại Đại học Victoria ở British Columbia, Canada. \"Chúng đang đẩy không khí ra qua ống hậu môn,\" cô nói. Loài cá này nuốt không khí ở mặt nước để làm đầy bong bóng bơi của chúng. Việc này giúp chúng nổi trên mặt nước. Sau đó, chúng ép một phần không khí đó ra ngoài qua đầu kia."
+    },
+    {
+     "t": "p",
+     "text": "Luồng không khí bị ép ra này được gọi là \"tiếng tích nhanh lặp lại\", viết tắt là FRT (tiếc là nó được đọc là \"ép-a-ti\", không phải \"fart\" - tiếng rắm). Tuy nhiên, âm thanh của nó nghe rất giống tiếng đánh rắm."
+    },
+    {
+     "t": "h",
+     "text": "Rắm hay FRT?"
+    },
+    {
+     "t": "p",
+     "text": "Đây là âm thanh của một con cá trích đang đẩy không khí ra khỏi phần đuôi. Âm thanh đó giúp những con cá khác biết rằng nó đang ở gần đó."
+    },
+    {
+     "t": "p",
+     "text": "Hải quân Thụy Điển là những người đầu tiên nghe thấy tiếng \"rắm cá\" này vào những năm 1980. Khi đó họ đang khảo sát một số khu vực ở Bắc Đại Tây Dương bằng thiết bị thủy âm (hydrophone) - dụng cụ dùng để phát hiện âm thanh dưới nước. Lúc đầu, những âm thanh này tưởng như phát ra từ tàu ngầm của Nga. Nhưng các nhà khoa học sớm nhận ra rằng thực ra họ đang nghe thấy tiếng của loài cá trích (Clupea pallasii và Clupea harengus)."
+    },
+    {
+     "t": "p",
+     "text": "Đối với loài cá này, FRT chỉ đơn giản là một cách để tìm bạn bè. \"Cá trích chủ yếu phát ra âm thanh vào ban đêm,\" Spriel nói. Điều này khiến các nhà khoa học đưa ra giả thuyết rằng FRT được tạo ra \"để duy trì sự gắn kết trong hành vi bơi theo đàn vào ban đêm, khi cá trích khó nhìn thấy nhau hơn.\""
+    },
+    {
+     "t": "p",
+     "text": "Spriel và các đồng nghiệp của cô vẫn đang tiếp tục nghiên cứu về FRT. Họ muốn tìm hiểu cá trích di chuyển đến đâu, chúng hành xử như thế nào - và liệu vô số âm thanh mà con người thải ra đại dương có thể khiến tiếng FRT trở nên khó nghe hơn hay không."
+    }
+   ]
+  },
+  {
+   "id": "657791f7e6d3",
+   "order": 20,
+   "slug": "ca-sau-dai-2-m-giua-vung-ngap-lut-thai-lan",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Cá sấu dài 2 m giữa vùng ngập lụt Thái Lan",
+   "sapo": "Cá sấu dài hơn 2 m xuất hiện trên đường ven kênh ở miền Đông Thái Lan giữa lúc nhiều khu vực ngập lụt. Chính quyền liên tục phát cảnh báo người dân không đánh bắt cá trên kênh.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/ca-sau-dai-2-m-giua-vung-ngap-lut-thai-lan-post1686826.html",
+   "published": "2026-10-01T09:40:30+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 881,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-02/657791f7e6d3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-02/657791f7e6d3-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-02/657791f7e6d3-1.jpg",
+     "caption": "Thái Lan,  cá sấu ảnh 1",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-02/657791f7e6d3-2.jpg",
+     "caption": "Thái Lan,  cá sấu ảnh 2",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cá sấu dài hơn 2 m xuất hiện trên đường ven kênh ở miền Đông Thái Lan giữa lúc nhiều khu vực ngập lụt. Chính quyền liên tục phát cảnh báo người dân không đánh bắt cá trên kênh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cá sấu dài 2 m được phát hiện gần khu dân cư ngập lụt tại huyện Sanam Chai Khet, tỉnh Chachoengsao, Thái Lan."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 30/9, người dân Bang Phaniang, làng số 2 thuộc xã Khu Yai Mi, huyện Sanam Chai Khet, tỉnh Chachoengsao, miền Đông Thái Lan , phát hiện một con cá sấu dài hơn 2 m trên đường ven kênh dẫn nước liền báo cho cơ quan chức năng."
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường này là một trong số ít lối đi còn sử dụng được để vào 3 xã Tha Kradan, Khu Yai Mi và Thung Phraya, những khu vực đang bị nước lũ bao quanh . Con cá sấu xuất hiện giữa lúc nhiều khu vực ở Chachoengsao ngập lụt khiến người dân lo ngại về an toàn khi di chuyển hoặc đánh bắt cá trên kênh."
+    },
+    {
+     "t": "p",
+     "text": "Ông Udon Thepwatee, thành viên Hội đồng Hành chính tỉnh Chachoengsao, cho biết con vật có thể gây nguy hiểm cho người dân đi qua tuyến đường này. Ông phối hợp các cơ quan liên quan để kiểm tra, xử lý vụ việc và đề nghị truyền thông cảnh báo người dân, theo Bangkok Post."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ông Udon Thepwatee, thành viên Hội đồng tỉnh Chachoengsao, chụp ảnh bên con cá sấu đã bị khống chế."
+    },
+    {
+     "t": "p",
+     "text": "Sáng 1/10, bà Wilai Sridara, trưởng làng Moo 10, Ban Ang Thong, tiếp tục thông báo về sự xuất hiện của cá sấu. Thời điểm đó, lực lượng chức năng đang theo dõi và tìm cách bắt con vật gần cây cầu thuộc Moo 2, làng Bang Phaniang. Người dân được khuyến cáo tạm thời không xuống kênh đánh bắt cá cho đến khi khu vực được xác định an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Chính quyền cũng yêu cầu người dân không đi vào vùng ngập, câu cá hoặc đến gần các kênh thủy lợi và khu vực trũng. Nhà chức trách lưu ý nước lũ có thể khiến cá sấu, bò sát và các loài động vật sống dưới nước rời khỏi môi trường tự nhiên, di chuyển vào khu dân cư."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tiếp cận, cảnh sát Sanam Chai Khet phối hợp các trưởng khu dân cư khống chế thành công con cá sấu. Trong một bài đăng, ông Udon nói đùa rằng lực lượng chức năng không cần đến sự trợ giúp của \"Krai Thong\", nhân vật huyền thoại chuyên săn cá sấu trong văn hóa dân gian Thái Lan."
+    },
+    {
+     "t": "p",
+     "text": "Theo phóng viên The Thaiger , sau khi được đưa lên bờ, cá sấu được xác định đã chết. Chưa có thông tin về người dân bị cá sấu tấn công hoặc bị thương trong sự việc."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Người dân tập trung xung quanh con cá sấu."
+    },
+    {
+     "t": "p",
+     "text": "Reuters đưa tin ít nhất 23 người đã thiệt mạng do mưa lũ trên khắp Thái Lan kể từ ngày 16/9, trong đó có 4 người tại Bangkok . Mưa lũ ảnh hưởng đến 42 tỉnh, gây thiệt hại ước tính 367 triệu USD tại 24 tỉnh."
+    },
+    {
+     "t": "p",
+     "text": "Riêng Bangkok hứng khoảng 320 mm mưa trong 3 ngày vào tuần trước (25-27/9), gần tương đương lượng mưa trung bình của cả tháng 9 những năm trước. Mưa hiện đã giảm ở phần lớn khu vực, nước bắt đầu rút, song một số nơi, đặc biệt ở phía đông Bangkok, vẫn ngập."
+    },
+    {
+     "t": "p",
+     "text": "Phó giáo sư, tiến sĩ Thon Thamrongnawasawat, chuyên gia môi trường và hải dương học tại Đại học Kasetsart ở Bangkok, cho biết thủ đô vừa trải qua hiện tượng \"mưa đứng yên\" kéo dài. Theo ông, các khối mây mang mưa liên tục hình thành và di chuyển quanh cùng một khu vực trong hơn 30 giờ, khiến lượng nước đổ xuống tăng mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Ông nhận định cường độ đợt mưa có liên quan đến tác động kép của siêu El Niño và tình trạng nóng lên toàn cầu, khiến khí quyển tích tụ nhiều hơi nước hơn bình thường."
+    },
+    {
+     "t": "p",
+     "text": "Tình hình còn trở nên nghiêm trọng hơn khi gió mùa tại Vịnh Thái Lan đạt tốc độ hơn 40 km/h, tạo ra sóng cao trên 1 m và đẩy mực nước biển dâng. Diễn biến này cản trở đáng kể khả năng thoát nước của Bangkok, khiến tình trạng ngập kéo dài hơn."
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    }
+   ]
+  }
+ ]
+}

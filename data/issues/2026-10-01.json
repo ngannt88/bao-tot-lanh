@@ -1,0 +1,2732 @@
+{
+ "date": "2026-10-01",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-01T09:07:08+07:00",
+ "sections": [
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  }
+ ],
+ "articles": [
+  {
+   "id": "f2353951588e",
+   "order": 1,
+   "slug": "phat-hien-voi-chau-phi-tu-tim-cay-thuoc-tron-thuoc-vao-sua-c",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Phát hiện voi châu Phi tự tìm cây thuốc, trộn 'thuốc' vào sữa cho con",
+   "sapo": "Nghiên cứu mới cho thấy voi châu Phi biết tìm và sử dụng một số loài thực vật có dược tính khi bị bệnh, thậm chí voi mẹ còn nhai lá, vỏ cây hoặc rễ rồi trộn với sữa cho voi con.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/phat-hien-voi-chau-phi-tu-tim-cay-thuoc-tron-thuoc-vao-sua-cho-con-100260929140839372.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 482,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/f2353951588e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/f2353951588e-0.jpg",
+     "caption": "Một con voi châu Phi bị thương đang kéo một khúc cây, có thể đang tìm \"thuốc\" - Ảnh: MOUNT ELGON FOUNDATION",
+     "w": 800,
+     "h": 513
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã ghi nhận bằng chứng cho thấy voi châu Phi có khả năng tự điều trị bằng thực vật, hành vi trước đây chủ yếu được nghiên cứu ở voi châu Á và một số loài linh trưởng, theo trang IFLScience ngày 28-9."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu đăng trên tạp chí Scientific Reports, dựa một phần vào kiến thức của cộng đồng Sabaot sống quanh núi Elgon, Kenya."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu thuộc Viện Y học nhiệt đới Bernhard Nocht (Đức) đã phỏng vấn 8 người trong cộng đồng này về những lần họ quan sát voi bị bệnh, tìm kiếm và ăn những loài cây cụ thể."
+    },
+    {
+     "t": "p",
+     "text": "Người dân địa phương ghi nhận voi sử dụng tổng cộng 35 loài thực vật cùng 4 loại đất hoặc khoáng chất, trong đó có 25 loài có đặc tính chữa bệnh."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, nhóm nghiên cứu thận trọng hơn và chỉ xác định 8 loài cây được voi bị bệnh ăn khác biệt so với voi khỏe mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Voi có thể chỉ ăn một lượng nhỏ một số cây nhất định hoặc thực hiện những chuyến đi dài để tìm những loài thực vật hiếm."
+    },
+    {
+     "t": "p",
+     "text": "Theo các nhà nghiên cứu, điều này gợi ý voi không chỉ ăn thực vật vì dinh dưỡng mà còn có thể lựa chọn chúng khi gặp vấn đề sức khỏe."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu còn ghi nhận hành vi \"điều trị bằng thuốc cho đồng loại\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo lời kể của người dân địa phương, voi mẹ đôi khi nhai lá, vỏ cây hoặc rễ rồi trộn phần thực vật đã nhai với sữa cho voi con."
+    },
+    {
+     "t": "p",
+     "text": "Dù chưa thể xác định hỗn hợp \"thuốc\" được voi dùng để điều trị tình trạng bệnh lý nào, người dân cho rằng hỗn hợp có thể hỗ trợ các vấn đề tiêu hóa ở voi con."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, hỗn hợp thực vật và sữa đôi khi được cho voi con ngay cả khi chúng không có biểu hiện bệnh. Nhóm nghiên cứu cho rằng đây có thể là một hình thức chăm sóc mang tính phòng ngừa."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 87% số loài thực vật voi sử dụng để \"điều trị\" cũng được cộng đồng địa phương sử dụng làm thuốc."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu lưu ý việc bảo vệ những loài cây này không chỉ có ý nghĩa đối với đa dạng sinh học mà còn có thể liên quan trực tiếp đến sức khỏe của voi. Một loài cây ít khi được quan sát thấy voi ăn vẫn có thể đóng vai trò quan trọng khi chúng bị bệnh."
+    },
+    {
+     "t": "p",
+     "text": "Các tác giả cho rằng cần tiếp tục nghiên cứu để xác định chính xác những hợp chất có dược tính trong các loài cây voi sử dụng, đồng thời tìm hiểu cách kiến thức về các \"cây thuốc\" này được truyền lại giữa voi và cộng đồng địa phương."
+    }
+   ]
+  },
+  {
+   "id": "03e5073754bd",
+   "order": 2,
+   "slug": "loai-chim-co-tieng-keu-nhu-may-khoan-be-tong",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Loài chim có tiếng kêu 'như máy khoan bê tông'",
+   "sapo": "Các nhà khoa học xác định 2 loài chim có tiếng kêu vượt 120 decibel, mức âm thanh tương đương tiếng máy khoan bê tông, trong đó một loài đạt đỉnh gần 131 decibel.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/loai-chim-co-tieng-keu-nhu-may-khoan-be-tong-post1686542.html",
+   "published": "2026-09-30T08:49:42+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 892,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/03e5073754bd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/03e5073754bd-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-01/03e5073754bd-1.jpg",
+     "caption": "chim,  máy khoan bê tông ảnh 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/03e5073754bd-2.jpg",
+     "caption": "chim,  máy khoan bê tông ảnh 2",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các nhà khoa học xác định 2 loài chim có tiếng kêu vượt 120 decibel, mức âm thanh tương đương tiếng máy khoan bê tông, trong đó một loài đạt đỉnh gần 131 decibel."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chim seriema chân đỏ, \"ứng viên\" cho danh hiệu loài chim có tiếng kêu lớn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tại Đại học Massachusetts Amherst (UMass Amherst), Mỹ, phát hiện chim chuông họng trần (bare-throated bellbird) và chim seriema chân đỏ (red-legged seriema) đều phát ra tiếng kêu có cường độ trên 120 decibel."
+    },
+    {
+     "t": "p",
+     "text": "\"Âm thanh gần nhất trong đời sống hàng ngày có thể dùng để so sánh là tiếng máy khoan bê tông\", João C.T. Menezes, đồng tác giả nghiên cứu và nhà sinh học tiến hóa, nói với CNN ."
+    },
+    {
+     "t": "p",
+     "text": "Hai loài chim này được xác định có tiếng kêu rất lớn cạnh tranh về mức âm thanh với chim chuông trắng (white bellbird). Năm 2019, loài này được ghi nhận phát ra tiếng kêu lên tới 125 decibel, được Guinness World Records công nhận là loài chim có tiếng kêu lớn nhất."
+    },
+    {
+     "t": "p",
+     "text": "Chim chuông họng trần là họ hàng gần của chim chuông trắng. Các nhà nghiên cứu \"có linh cảm\" loài này sẽ nằm trong nhóm có tiếng kêu lớn nhất thế giới. Tiếng kêu của chim chuông họng trần được ghi nhận ở mức 122,4 decibel khi đo từ khoảng cách tiêu chuẩn một mét và lấy trung bình trong khoảng thời gian 20 mili giây."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chim chuông họng trần, loài có thể trở thành chim có tiếng kêu lớn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Theo chuyên gia, danh hiệu \"loài chim có tiếng kêu lớn nhất thế giới\" còn phụ thuộc vào tiêu chí đo. Xét mức âm thanh cao nhất của từng cá thể, chim chuông họng trần đứng đầu, với tiếng kêu đạt đỉnh gần 131 decibel khi quy đổi về khoảng cách một mét."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, nếu tính trung bình mức đỉnh mà tiếng kêu của các cá thể đạt được tại bất kỳ thời điểm nào, chim chuông trắng đứng đầu với 127 decibel, dựa trên 6 cá thể."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu xác định các tiếng kêu trên sau khi đo âm thanh của 123 loài chim tại Massachusetts và Brazil từ tháng 12/2018 đến tháng 1/2025. Theo Đại học Massachusetts Amherst, tiếng kêu của 113 loài trong số này chưa từng được ghi nhận trước đó."
+    },
+    {
+     "t": "p",
+     "text": "Trên thực tế, hoạt động đo âm lượng tiếng chim trong tự nhiên gặp nhiều khó khăn. Các nhà nghiên cứu cần xác định chính xác khoảng cách từ thiết bị ghi âm đến con chim bởi khoảng cách ảnh hưởng trực tiếp đến mức âm thanh thu được. Trong nhiều trường hợp, họ có thể nghe thấy chim nhưng không nhìn thấy. Khi phát hiện được con vật, nó có thể bay đi hoặc \"ngừng hót hoàn toàn vì nhút nhát\"."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những loài có tiếng kêu nhỏ nhất được nhóm ghi nhận là chim chickadee mũ đen (black-capped chickadee), với âm lượng tương đương tiếng máy xay sinh tố."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chim chickadee mũ đen, một trong những loài có tiếng kêu nhỏ tương đương tiếng máy xay sinh tố."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi hiệu chỉnh ảnh hưởng của tiếng ồn nền và khoảng cách, các nhà nghiên cứu so sánh số liệu âm thanh với kích thước cơ thể và độ rộng phần mỏ mở của từng loài. Kết quả cho thấy các loài có kích thước lớn hơn và phần miệng mở rộng hơn có xu hướng phát ra tiếng kêu lớn hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Những con chim lớn có hệ cơ phát triển hơn, có khả năng tạo áp suất bên trong lớn hơn và cuối cùng tạo ra âm thanh lớn hơn. Miệng rộng hơn cũng cho phép nhiều năng lượng âm thanh lan tỏa ra môi trường\", Menezes nói."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, một số loài chim có thể phát ra âm thanh lớn hơn cả những động vật có kích thước lớn hơn nhiều như voi, sư tử hay bò rừng. Điều này cho thấy có thể tồn tại một cơ chế khác giúp chim tạo ra âm thanh lớn mà các nhà khoa học vẫn chưa xác định được."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cũng chưa thể kết luận chắc chắn những yếu tố môi trường và tiến hóa nào khiến một số loài chim phát ra tiếng kêu lớn hơn các loài khác."
+    },
+    {
+     "t": "p",
+     "text": "Dù đã ghi nhận cường độ âm thanh của nhiều loài chim, Menezes cho rằng số liệu hiện có vẫn chỉ chiếm \"một phần rất nhỏ\" trong tổng số các loài chim trên thế giới. Ông cho rằng \"vẫn còn rất nhiều câu hỏi cần được giải đáp\"."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    }
+   ]
+  },
+  {
+   "id": "25155d046322",
+   "order": 3,
+   "slug": "ca-map-boi-lac-thu-hut-hon-600-000-du-khach-o-han-quoc",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Cá mập bơi lạc thu hút hơn 600.000 du khách ở Hàn Quốc",
+   "sapo": "Một con cá mập dài 3,5 m đi lạc vào tuyến kênh ở thành phố Busan (Hàn Quốc) đã bất ngờ trở thành ‘ngôi sao’ thu hút hàng trăm ngàn du khách đến xem.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ca-map-boi-lac-thu-hut-hon-600000-du-khach-o-han-quoc-185260930073354579.htm",
+   "published": "2026-09-30T00:38:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 328,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/25155d046322-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/25155d046322-0.jpg",
+     "caption": "Nhiều du khách đến Busan (Hàn Quốc) để chứng kiến con cá mập đồng bơi lạc vào kênh",
+     "w": 590,
+     "h": 863
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Theo báo The Guardian ngày 29.9, các chuyên gia nói rằng một con cá mập đồng (bronze whaler) có thể đã bơi theo con mồi từ biển vào kênh và không tìm được đường ra."
+    },
+    {
+     "t": "p",
+     "text": "Cá mập này lần đầu được phát hiện vào ngày 18.9 và trong 10 ngày, khu công viên quanh con kênh đã ghi nhận hơn 600.000 lượt khách đến xem con cá mập hiếm gặp, so với mức 2.000 người/ngày vào các dịp lễ thông thường. Con vật được người dân đặt biệt danh là Bukang-i\" (kết hợp giữa tên khu cảng Bắc ở Busan và hậu tố gọi tên thân mật trong tiếng Hàn)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chính quyền Busan thậm chí đã phong cho chú cá mập danh hiệu đại sứ quảng bá danh dự với tên gọi \"Shafluencer\" (tạm dịch: cá mập có sức ảnh hưởng), sau khi 91% người tham gia khảo sát trên mạng xã hội ủng hộ ý tưởng này. Thị trưởng Busan Chun Jae-soo khen ngợi con vật \"rất đẹp và có tố chất của 1 ngôi sao\"."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, do không quan sát thấy con cá mập ăn gì kể từ khi xuất hiện, giới chức lo ngại sức khỏe của nó sẽ suy giảm. Yonhap đưa tin lực lượng tuần duyên Busan đã huy động 5 tàu chuyên dụng để phun nước nhằm lùa cá mập ra khu vực cửa biển. Dù vậy, nỗ lực giải cứu trong ngày 29.9 đã thất bại khi Bukang-i liên tục bơi luồn lách qua phía sau các đuôi tàu để né tránh."
+    },
+    {
+     "t": "p",
+     "text": "Xem cá mập bơi lạc vào tuyến kênh ở TP.Busan (Hàn Quốc)"
+    },
+    {
+     "t": "p",
+     "text": "Giới chức trách cho biết sẽ tạm dừng chiến dịch giải cứu cá mập và quay trở lại trong vài ngày, sau khi thiết kế xong tấm lưới chuyên dụng để lùa cá mập trở về biển. Truyền thông cho hay nhiều người cũng đã tranh thủ đến công viên để tạm biệt con cá mập."
+    }
+   ]
+  },
+  {
+   "id": "c483768081fa",
+   "order": 4,
+   "slug": "ky-luc-gia-nguyen-thanh-tam-ke-chuyen-tim-hinh-trong-vo-trun",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Kỷ lục gia Nguyễn Thành Tâm kể chuyện tìm hình trong vỏ trứng",
+   "sapo": "Từ những chiếc vỏ trứng tưởng như bỏ đi, thầy giáo Nguyễn Thành Tâm ở TP.HCM biến chúng thành những tác phẩm tạo hình mang dấu ấn đời sống và văn hóa Việt.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ky-luc-gia-nguyen-thanh-tam-ke-chuyen-tim-hinh-trong-vo-trung-185260930122912606.htm",
+   "published": "2026-09-30T08:45:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1297,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/c483768081fa-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-0.jpg",
+     "caption": "Ông Nguyễn Thành Tâm từng là giáo viên tiếng Anh và là người được Trung tâm Sách kỷ lục Việt Nam công nhận với kỷ lục \"Người tạo hình bằng vỏ trứng nhiều nhất\" năm 2010",
+     "w": 1280,
+     "h": 951
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-1.jpg",
+     "caption": "Người thầy giáo tô màu, tạo hình cho vỏ trứng cút",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-2.jpg",
+     "caption": "Bộ linh vật của ASIAD 2026 được thầy Tâm chế tác",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-3.jpg",
+     "caption": "Những linh vật cùng nhân vật hoạt hình nổi tiếng của Việt Nam và Nhật Bản đều được ông chế tác từ vỏ trứng",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-4.jpg",
+     "caption": "Những bộ môn thi đấu của Việt Nam giành huy chương tại các kỳ ASIAD được ông tạo hình dựa trên linh vật của từng kỳ",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-5.jpg",
+     "caption": "Thầy giáo Nguyễn Thành Tâm giới thiệu bộ sưu tập từ vỏ trứng với khách tham quan tại Viện Trao đổi văn hóa với Pháp TP.HCM",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-6.jpg",
+     "caption": "Những câu tiếng Anh ngắn, dễ nhớ được người thầy giáo viết lên từng tác phẩm, như một cách đưa bài học ngôn ngữ vào nghệ thuật",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/c483768081fa-7.jpg",
+     "caption": "Viện Trao đổi văn hóa Pháp đang trưng bày và giới thiệu các sản phẩm của thầy giáo Nguyễn Thành Tâm",
+     "w": 1055,
+     "h": 1491
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hơn 30 năm theo đuổi, người thầy giáo vẫn mong loại hình này có thể được nhìn nhận như một thực hành nghệ thuật và tiếp tục được trao truyền."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ một giáo viên tìm cách làm giáo cụ trực quan cho học sinh, ông Nguyễn Thành Tâm tự mày mò kỹ thuật xử lý và tạo hình trên nhiều loại vỏ trứng. Qua nhiều năm, ông hình thành một phương pháp riêng, đưa vào tác phẩm những hình ảnh đời sống, con vật, câu chuyện và biểu tượng văn hóa ."
+    },
+    {
+     "t": "h",
+     "text": "Từ giáo cụ cho môn học đến chất liệu tạo hình"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ít ai nghĩ những chiếc vỏ trứng cút, trứng gà, trứng vịt... mỏng manh có thể trở thành chất liệu tạo hình. Với thầy giáo Nguyễn Thành Tâm, câu chuyện ấy ban đầu không bắt đầu từ nghệ thuật mà từ lớp học. Là giáo viên tiếng Anh, ông từng tìm nhiều cách làm đồ dùng trực quan để những tiết học ngoại ngữ trở nên sinh động. Giấy bìa, ni-lông, đất sét... lần lượt được thử nghiệm. Trong quá trình tìm kiếm một chất liệu phù hợp, ông bắt đầu chú ý đến vỏ trứng."
+    },
+    {
+     "t": "p",
+     "text": "Điều cuốn hút ông là sự đa dạng tự nhiên của chất liệu này. Từ những quả trứng chim sẻ nhỏ bé, trứng cút, trứng gà, trứng vịt đến trứng ngỗng và trứng đà điểu, mỗi loại có kích thước, hình dáng, độ dày và độ cứng khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "“Làm với vỏ trứng không thể áp đặt hoàn toàn ý tưởng lên chất liệu. Phải nhìn hình dáng của từng quả trứng rồi mới nghĩ xem nó có thể trở thành gì”, ông chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đó dần trở thành nguyên tắc trong quá trình sáng tác. Nếu điêu khắc gỗ hay tạo hình đất sét cho phép người làm chủ động thay đổi hình khối, vỏ trứng lại đặt ra giới hạn ngay từ đầu. Người tạo tác phải quan sát, tưởng tượng rồi tìm cách đưa ý tưởng vào hình dáng vốn có của quả trứng."
+    },
+    {
+     "t": "p",
+     "text": "Một quả trứng thon dài có thể gợi hình một con vật nhỏ; quả trứng tròn, đầy có thể trở thành một hình hài khác. Cái khó không chỉ nằm ở đôi tay mà còn ở khả năng “đọc” chất liệu."
+    },
+    {
+     "t": "h",
+     "text": "Nương theo hình dáng của vỏ trứng"
+    },
+    {
+     "t": "p",
+     "text": "Với ông Nguyễn Thành Tâm, tạo hình từ vỏ trứng trước hết là quá trình quan sát và lựa chọn. Không giống đất sét hay gỗ, vỏ trứng không cho phép người làm tùy ý thay đổi hình khối. Hình dáng tự nhiên của quả trứng trở thành điểm khởi đầu, thậm chí quyết định một phần hình hài tác phẩm."
+    },
+    {
+     "t": "p",
+     "text": "“Làm con chuột thì phải kiếm vỏ trứng có phần đầu nhọn; làm con trâu thì vỏ trứng phải mập, bự để gợi được hình dáng con trâu”, ông giải thích."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo ông, chính hình dáng ban đầu của quả trứng đã gợi mở hình ảnh cho người tạo tác. Từ sự gợi hình ấy, ông tiếp tục xử lý, thêm chi tiết để hoàn thiện nhân vật."
+    },
+    {
+     "t": "p",
+     "text": "“Nó không giống những chất liệu khác. Với những chất liệu khác, chúng ta có thể tạo hình cho giống ý muốn; còn với vỏ trứng, phải nhìn từ cái vỏ để tìm ra hình ảnh mà mình muốn làm”, ông nói."
+    },
+    {
+     "t": "p",
+     "text": "Sự mong manh và những giới hạn của vỏ trứng vừa là trở ngại kỹ thuật, vừa trở thành một phần của quá trình sáng tạo. Với những loại vỏ mỏng như trứng gà, ông phải tự tìm cách xử lý, gia cố để chúng đủ độ bền trước khi tạo hình. Mỗi công đoạn đòi hỏi sự kiên nhẫn, bởi chỉ một thao tác không chính xác cũng có thể làm hỏng toàn bộ phôi tác phẩm."
+    },
+    {
+     "t": "h",
+     "text": "Đưa câu chuyện văn hóa vào vỏ trứng"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Từ những thử nghiệm ban đầu, vỏ trứng dần trở thành một ngôn ngữ tạo hình riêng của ông. Không chỉ làm những con giống, ông tìm cách đưa vào tác phẩm những câu chuyện quen thuộc của đời sống Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Ca dao, tục ngữ, hình ảnh con vật, sinh hoạt dân gian hay các biểu tượng thể thao được chuyển thể trên những hình khối nhỏ bé. Từ chất liệu vốn rất đời thường, ông tìm một cách tiếp cận khác với những câu chuyện văn hóa."
+    },
+    {
+     "t": "p",
+     "text": "Một câu ca dao không còn nằm trên trang sách; một con vật trong đời sống dân gian được chuyển thành hình hài cụ thể; những hình ảnh quen thuộc của người Việt được kể bằng một chất liệu thường bị xem là phế phẩm sau bữa ăn."
+    },
+    {
+     "t": "h",
+     "text": "Không muốn một kỹ thuật chỉ còn lại ở một người"
+    },
+    {
+     "t": "p",
+     "text": "Từng được Tổ chức Kỷ lục Việt Nam vinh danh với danh hiệu “Người tạo hình bằng vỏ trứng nhiều nhất”, nhưng với ông, kỷ lục không phải đích đến cuối cùng. Sau danh hiệu ấy vẫn là một câu hỏi lớn hơn: điều gì sẽ xảy ra với loại hình tạo hình này nếu không có người tiếp tục nghiên cứu và thực hành?"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Tạo hình từ vỏ trứng đòi hỏi nhiều thời gian và công sức, trong khi đầu ra cho sản phẩm còn hạn chế, khiến việc theo đuổi khó mang lại thu nhập ổn định. Người trẻ vì thế cũng ít có động lực tiếp tục."
+    },
+    {
+     "t": "p",
+     "text": "Ông từng chứng kiến một sinh viên mỹ thuật muốn chọn vỏ trứng làm đề tài tốt nghiệp nhưng gặp khó khăn vì chưa có cơ sở lý luận và hệ thống tham chiếu đủ rõ để giảng viên đánh giá. Câu chuyện ấy khiến ông nhận ra vấn đề không chỉ là có người làm hay không, mà còn là loại hình này có được nhận diện, nghiên cứu và trao truyền hay không."
+    },
+    {
+     "t": "p",
+     "text": "Ba lần nộp hồ sơ đăng ký Guinness World Records chưa mang lại kết quả như mong muốn. Ông vẫn chuẩn bị cho lần tiếp theo. Với ông, nếu một kỷ lục quốc tế được xác lập, đó không đơn thuần là một danh hiệu cá nhân. Ông kỳ vọng sự ghi nhận ấy có thể giúp công chúng chú ý hơn đến một loại hình tạo hình còn ít được biết đến, đồng thời tạo thêm động lực cho những người trẻ muốn tìm hiểu và tiếp nối."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Có những ngày, ông dành hàng giờ cho từng chi tiết nhỏ. Trong lúc làm việc, ông vẫn nghe các bài học tiếng Anh để duy trì khả năng ngoại ngữ. Những chiếc vỏ trứng tiếp tục nằm trước mặt người thầy giáo. Từ một vật liệu dễ vỡ, ông tạo nên những hình hài nhỏ bé và gửi vào đó những câu chuyện về đời sống."
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng kể có lẽ không chỉ nằm ở số lượng tác phẩm hay một danh hiệu kỷ lục, mà ở cách ông biến một chất liệu bình thường thành phương thức kể chuyện văn hóa. Và chừng nào ông vẫn còn làm, còn tìm tòi, còn mong có người tiếp nối, những thử nghiệm với vỏ trứng vẫn có cơ hội được đi xa hơn câu chuyện của một cá nhân."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "h",
+     "text": "Triển lãm “Thuật tạo hình từ vỏ trứng”"
+    },
+    {
+     "t": "p",
+     "text": "Từ ngày 19.9 - 6.10.2026, Thư viện IDECAF (31 Thái Văn Lung, TP.HCM) tổ chức triển lãm “Thuật tạo hình từ vỏ trứng”, giới thiệu các tác phẩm của nghệ nhân Nguyễn Thành Tâm. Hướng đến Asian Games lần thứ 20 - Aichi-Nagoya 2026, triển lãm giới thiệu những nhân vật, linh vật và hình ảnh thể thao được tạo hình từ vỏ trứng, qua đó cho thấy sự đa dạng của chất liệu đặc biệt này."
+    }
+   ]
+  },
+  {
+   "id": "25b95f44beb3",
+   "order": 5,
+   "slug": "pokemon-tron-30-tuoi",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Pokémon tròn 30 tuổi",
+   "sapo": "Chúc mừng sinh nhật, Pikachu! Năm nay, Pokémon kỷ niệm 30 năm thành lập. Theo Guinness World Records, Pokémon đã trở thành thương hiệu truyền thông có giá trị nhất thế giới. Pokémon ra mắt lần đầu vào ngày 27 tháng 2 năm 1996 với hai trò chơi điện tử, tại Nhật Bản. Mục tiêu cơ bản: bắt...",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g56/pokemon-turns-30-g5/",
+   "published": "2026-09-30T13:26:11+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 466,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Pokémon Turns 30",
+   "images": [
+    {
+     "src": "img/2026-10-01/25b95f44beb3-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/25b95f44beb3-0.jpg",
+     "caption": "Một tấm thẻ bài màu vàng có hình nhân vật hoạt hình vui vẻ, xung quanh là những tia điện.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-10-01/25b95f44beb3-1.jpg",
+     "caption": "Hai em nhỏ chơi trò chơi thẻ bài tại một chiếc bàn, có người lớn giúp đỡ.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chúc mừng sinh nhật, Pikachu! Năm nay, Pokémon kỷ niệm 30 năm thành lập. Theo Guinness World Records, Pokémon đã trở thành thương hiệu truyền thông có giá trị nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Pokémon ra mắt lần đầu vào ngày 27 tháng 2 năm 1996 với hai trò chơi điện tử, tại Nhật Bản. Mục tiêu cơ bản của trò chơi là bắt và huấn luyện những sinh vật kỳ diệu."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, hàng triệu trẻ em (và cả người lớn) yêu thích các trò chơi điện tử và ứng dụng của Pokémon, các sự kiện gặp mặt trực tiếp, và tất nhiên, trò chơi thẻ bài Pokémon (Pokémon Trading Card Game - TCG) vô cùng nổi tiếng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Luôn luôn tiến hóa"
+    },
+    {
+     "t": "p",
+     "text": "Các hoạt động mừng sinh nhật Pokémon diễn ra suốt cả năm. Thương hiệu này đã tổ chức nhiều buổi gặp mặt trực tiếp và ra mắt sản phẩm mới, trong đó có một bộ mở rộng TCG với những tấm thẻ bóng bẩy, mới lạ."
+    },
+    {
+     "t": "p",
+     "text": "Barry Sams, phó chủ tịch phụ trách phát triển trò chơi và gắn kết cộng đồng tại Pokémon Company International, chia sẻ với TIME for Kids rằng thương hiệu này duy trì được sự nổi tiếng bằng cách làm điều Pokémon làm tốt nhất: tiến hóa. Sams cho biết công ty hy vọng sẽ \"tiếp tục tiến lên phía trước\"."
+    },
+    {
+     "t": "p",
+     "text": "Sams nói rằng một phần của điều đó là làm cho Pokémon dễ tiếp cận hơn. Ví dụ, vào năm 2025, trò chơi thẻ bài Pokémon lần đầu tiên có phiên bản tiếng Tây Ban Nha dùng ở khu vực Mỹ Latinh. Hiện trò chơi đã có mặt ở 16 ngôn ngữ."
+    },
+    {
+     "t": "h",
+     "text": "Bắt hết tất cả"
+    },
+    {
+     "t": "p",
+     "text": "Từ ngày 28 đến 30 tháng 8, hơn 50.000 người hâm mộ Pokémon đã tập trung tại Trung tâm Moscone, thành phố San Francisco, tiểu bang California, để tham dự Giải vô địch thế giới Pokémon 2026. Rất nhiều giờ thi đấu TCG sôi nổi đã diễn ra giữa một số người chơi giỏi nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Phóng viên nhỏ tuổi của TFK, Adam Sadi, đã có mặt tại sự kiện. (Đọc bài tường trình của Adam tại đây.) Adam đã trò chuyện với Haruki Okunishi. Haruki là một tuyển thủ trẻ xuất sắc, đã bay từ Malaysia đến tham dự sự kiện này. \"Em chỉ luyện tập và luyện tập,\" Haruki nói với Adam, và nhấn mạnh rằng tất cả những buổi luyện tập đó rất thú vị."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Phóng viên nhí Adam Sadi của TFK (bên phải) học hỏi từ một Giáo sư Pokémon tại Giải Vô địch Thế giới vào ngày 29 tháng 8."
+    },
+    {
+     "t": "p",
+     "text": "Một người tham dự giải vô địch khác nói với Adam rằng Pokémon \"gắn kết mọi người lại với nhau, bất kể xuất thân hay độ tuổi.\""
+    }
+   ]
+  },
+  {
+   "id": "f8caeb599892",
+   "order": 6,
+   "slug": "than-dong-vo-thuat-xuat-than-tu-ngoi-lang-ngheo-gianh-hcb-as",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Thần đồng võ thuật xuất thân từ ngôi làng nghèo giành HCB Asiad 20",
+   "sapo": "(Dân trí) - Năm 13 tuổi, Đinh Văn Tâm rời ngôi làng dưới chân núi để xuống phố theo đuổi con đường võ thuật. Chỉ hơn một năm sau, cậu đã đạt huy chương vàng",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/than-dong-vo-thuat-xuat-than-tu-ngoi-lang-ngheo-gianh-hcb-asiad-20-20260929220844828.htm",
+   "published": "2026-09-30T01:33:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1144,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/f8caeb599892-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/f8caeb599892-0.jpg",
+     "caption": "Võ sĩ Đinh Văn Tâm và tấm huy chương bạc tại Asiad 20 (Ảnh: Quốc Triều).",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-01/f8caeb599892-1.jpg",
+     "caption": "Đinh Văn Tâm (giáp xanh) giành HCB sau khi thua ở trận chung kết tán thủ hạng 56kg (Ảnh: Reuters).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/f8caeb599892-2.jpg",
+     "caption": "Vận động viên Đinh Văn Tâm (phải) và huấn luyện viên Phạm Quốc Anh (Ảnh: Quốc Anh).",
+     "w": 773,
+     "h": 516
+    },
+    {
+     "src": "img/2026-10-01/f8caeb599892-3.jpg",
+     "caption": "Rời đấu trường Asiad, Đinh Văn Tâm tranh thủ về thăm nhà trước khi tiếp tục tập luyện để tham gia Đại hội thể thao toàn quốc (Ảnh: Quốc Triều).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Năm 13 tuổi, Đinh Văn Tâm rời ngôi làng dưới chân núi để xuống phố theo đuổi con đường võ thuật. Chỉ hơn một năm sau, cậu đã đạt huy chương vàng giải vô địch trẻ quốc gia ở môn wushu."
+    },
+    {
+     "t": "p",
+     "text": "Rời đấu trường Asiad 20 tại Nhật Bản với tấm Huy chương bạc (HCB) nội dung tán thủ môn wushu, Đinh Văn Tâm lại trở về nhà ở xã Sơn Mai (Quảng Ngãi). Ngôi làng của chàng trai nằm dưới chân núi với đa phần người dân là đồng bào dân tộc Hrê."
+    },
+    {
+     "t": "p",
+     "text": "Cậu bé nghèo với niềm đam mê võ thuật"
+    },
+    {
+     "t": "p",
+     "text": "Đinh Văn Tâm (21 tuổi) là con út trong một gia đình có 3 anh em. Năm 13 tuổi cậu được anh trai đưa đến Trung tâm huấn luyện và thi đấu thể thao tỉnh Quảng Ngãi để học võ. Tại đây, Tâm lọt vào “mắt xanh” của huấn luyện viên Phạm Quốc Anh nên được đưa ra thành phố Đà Nẵng tập luyện. Tâm nói rằng mình may mắn khi được huấn luyện viên Quốc Anh cũng như ban huấn luyện của đội tuyển quốc gia giúp đỡ, dạy bảo."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Được các thầy dạy bảo tận tình nên Tâm quyết tâm luyện tập chăm chỉ. Trước các giải đấu cậu phải tập luyện cường độ cao 6-7 giờ mỗi ngày, tay chân thường xuyên bị chấn thương."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2019, Đinh Văn Tâm xuất sắc giành Huy chương vàng (HCV) giải vô địch trẻ quốc gia môn wushu. Kể từ đó, chàng trai người Hrê liên tiếp giành chiến thắng trong những giải đấu lớn khiến huấn luyện viên và nhiều chuyên gia cũng bất ngờ."
+    },
+    {
+     "t": "p",
+     "text": "“Chỉ sau hơn một năm tập luyện môn wushu tôi đã giành HCV giải trẻ toàn quốc. Chính tôi cũng bất ngờ khi mình đã chiến thắng ngay từ lần đầu tiên tham dự một giải đấu lớn”, Tâm chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến thời điểm này, Tâm đã giành được 22 huy chương tại các giải đấu quốc gia và quốc tế, trong đó có 5 HCV, 3 HCB và một Huy chương đồng (HCĐ) của các giải wushu khu vực châu Á và thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ tính riêng trong năm 2026, Đinh Văn Tâm đạt HCV giải vô địch wushu các đội mạnh toàn quốc, giải vô địch wushu tán thủ thế giới và HCB tại Asiad 20."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nói về chiếc HCB tại Asiad 20, võ sĩ Đinh Văn Tâm bày tỏ tiếc nuối và gửi lời xin lỗi người hâm mộ, ban huấn luyện. Nam võ sĩ cho biết chân phải bị chấn thương trong quá trình tập luyện chuyên sâu để chuẩn bị tham dự giải đấu. Vừa tạm hồi phục chấn thương, Tâm phải trải qua 4 trận đấu tại Asiad 20."
+    },
+    {
+     "t": "p",
+     "text": "Ở trận thứ 3, Tâm giành chiến thắng để bước tiếp vào trận đấu tranh HCV với vận động viên Ou Jiaming (Trung Quốc). Đây là võ sĩ từng bị Tâm đánh bại tại giải vô địch wushu tán thủ thế giới vào đầu năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi đấu trận thứ 3 vào chiều hôm trước thì sáng hôm sau bước vào trận tranh HCV. Cả hai chân đều đau, đặc biệt là khớp gối bên trái. Tôi đã cố gắng hết sức để thi đấu vì màu cờ, sắc áo tuy nhiên kết quả không như mong đợi”, Tâm nói."
+    },
+    {
+     "t": "p",
+     "text": "Nỗi trăn trở của vị huấn luyện viên với cậu học trò “thần đồng”"
+    },
+    {
+     "t": "p",
+     "text": "Trái ngược với sự dũng mãnh trên sàn đấu, trong cuộc sống thường ngày Đinh Văn Tâm lại có vẻ nhút nhát. Nam võ sĩ nói rằng cuộc sống nơi xóm nghèo khiến cậu cảm thấy e ngại khi giao tiếp với người ngoài. Lần đầu được ra nước ngoài thi đấu, Tâm cảm thấy choáng ngợp bởi những đấu trường quá lớn và hiện đại."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "“Nhiều lần bước vào các điểm thi đấu lớn tôi cảm thấy run. Lúc đó tôi cố gắng nghĩ đến lời động viên của thầy, nghĩ đến ba mẹ ở quê để lấy lại bình tĩnh”, chàng trai chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Huấn luyện viên Phạm Quốc Anh cho rằng ông không muốn tâng bốc học trò của mình, bởi sự thành công quá sớm có thể khiến Tâm mất ý chí phấn đấu. Tuy nhiên, ông buộc phải nhìn nhận Tâm là “thần đồng” trong võ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Tâm có khả năng lĩnh hội các kỹ thuật thi đấu rất nhanh. Không chỉ vậy, cậu còn sáng tạo ra những kỹ thuật riêng cho bản thân mà ít người nào làm được. Nhiều huấn luyện viên trong nước và các chuyên gia người Trung Quốc đều đánh giá võ sĩ này có kỹ thuật toàn diện cả trong tấn công lẫn phòng thủ."
+    },
+    {
+     "t": "p",
+     "text": "“Tâm có vẻ ngoài nhút nhát nhưng khi lên sàn đấu lại rất bản lĩnh, thông minh. Có những lúc gặp đối thủ mạnh, ban huấn luyện chưa kịp chỉ đạo thì Tâm đã tự tìm được chiến thuật phù hợp để có thể giành chiến thắng”, huấn luyện viên Quốc Anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Theo huấn luyện viên Quốc Anh, độ tuổi “chín” nhất của vận động viên võ thuật là 23-30 tuổi. Ở độ tuổi này, vận động viên sẽ hội tụ đủ kỹ thuật, bản lĩnh và kinh nghiệm để có thể giành chiến thắng ở những giải đấu lớn. Riêng Đinh Văn Tâm lại gặt hái được thành công từ năm 15 tuổi. Suốt từ đó đến nay, cuộc sống của Tâm gắn liền với các đợt tập huấn, thi đấu, hầu như không có thời gian vui chơi như bạn bè cùng trang lứa."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "“Ở góc độ huấn luyện viên, tôi lo Tâm thành công quá sớm ở tất cả các giải đấu sẽ làm em giảm sút ý chí phấn đấu. Có điều Tâm là người có đạo đức rất tốt, có tính kỷ luật cao nên tôi tin em sẽ khắc phục được vấn đề này”, huấn luyện viên Quốc Anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nói về cuộc sống của Đinh Văn Tâm, huấn luyện viên Quốc Anh bỗng trầm tư. Theo ông, gia đình Tâm còn quá khó khăn, nhà cửa xuống cấp. Ông nói rằng đang tìm cách vận động các doanh nghiệp hỗ trợ cho cậu học trò của mình."
+    },
+    {
+     "t": "p",
+     "text": "Rời đấu trường Asiad 20, Đinh Văn Tâm trở về Quảng Ngãi để nhận bằng khen của UBND tỉnh. Kết thúc buổi lễ, cậu vội vã về nhà. Chàng võ sĩ trẻ nói rằng từ khi gắn bó với võ thuật cậu rất ít khi ở nhà."
+    },
+    {
+     "t": "p",
+     "text": "“Hai ngày nữa tôi lại xa ba mẹ để tham gia tập luyện rồi thi đấu cho tỉnh Quảng Ngãi tại Đại hội thể thao toàn quốc. Dù đi đâu tôi cũng nhớ và muốn quay về nơi này”, Tâm cho biết."
+    }
+   ]
+  },
+  {
+   "id": "b9b4ac66fb56",
+   "order": 7,
+   "slug": "16-tuoi-tu-nui-ve-tp-hcm-lam-muon-hoc-bo-tuc-doat-giai-hoa-2",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "16 tuổi từ núi về TP.HCM làm mướn, học bổ túc đoạt giải hóa, 21 tuổi vay tiền vào đại học",
+   "sapo": "Từng phải bỏ học giữa chừng vì quá nghèo, Phan Minh Thuận (21 tuổi) ở miền biên giới Đắk Lắk đã viết nên một câu chuyện cổ tích học hành giữa đời thường, bằng ý chí sắt đá.",
+   "author": "LÊ TRUNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/16-tuoi-tu-nui-ve-tphcm-lam-muon-hoc-bo-tuc-doat-giai-hoa-21-tuoi-vay-tien-vao-giang-duong-100260930160436886.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1333,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-0.jpg",
+     "caption": "Phan Minh Thuận, tân sinh viên Trường đại học Tây Nguyên - Ảnh: LÊ TRUNG",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 842
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 933
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-9.jpg",
+     "caption": "Biết tin Thuận đậu đại học, bà con chòm xóm đến nhà chúc mừng, động viên - Ảnh: LÊ TRUNG",
+     "w": 1280,
+     "h": 771
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-10.jpg",
+     "caption": "Dọn cỏ ở rẫy sắn - Ảnh: LÊ TRUNG",
+     "w": 1280,
+     "h": 881
+    },
+    {
+     "src": "img/2026-10-01/b9b4ac66fb56-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "miề"
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Nghỉ học năm lớp 9 rồi bôn ba đến TP.HCM kiếm sống, Thuận học bổ túc lại lớp 9, từng đoạt loạt giải thưởng của TP.HCM và giờ đây dũng cảm vay 9 triệu đồng để bước vào cánh cửa đại học."
+    },
+    {
+     "t": "h",
+     "text": "Nỗi buồn bã lớn nhất là tự quyết định bỏ học"
+    },
+    {
+     "t": "p",
+     "text": "Trên đường từ phố về nhà ở xã biên giới Ia Rvê (tỉnh Đắk Lắk ) cả trăm cây số, Thuận kể về tuổi thơ sống trong cảnh cơ cực, nghèo khó bủa vây. \"Tôi hối hận khi nghỉ học, may mà còn kịp quay đầu…\", cậu tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Con đường đất dài vào nhà những ngày này ngập ngụa bùn. Ngôi nhà lọt thỏm giữa rẫy sắn, vườn dừa, nơi chứng kiến tuổi thơ đầy dông bão của Thuận."
+    },
+    {
+     "t": "p",
+     "text": "22 năm trước, bố mẹ Thuận rời miền Tây lên vùng biên viễn này lập nghiệp theo diện kinh tế mới. Ký ức của Thuận là những chuyến di cư dài đằng đẵng theo bước chân làm thuê của cha mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Cha mẹ dựng lều trại ở đồi rẫy nào, mấy anh em cậu lại theo học ở ngôi trường gần đó."
+    },
+    {
+     "t": "p",
+     "text": "Năm Thuận học lớp 6, bố mẹ ly hôn. Một mình mẹ gồng gánh nuôi ba đứa con trong cảnh nợ nần, túng thiếu. Cái nghèo khắc nghiệt đến mức chị gái Thuận phải bỏ học vào TP.HCM làm giúp việc từ năm 14 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "\"Làm mướn ở đâu cách nhà vài chục cây số thì mấy đứa nhỏ theo mình tới đó, dựng lều ở rẫy cho ở\", bà Mười nhớ lại. Vài năm sau ly dị, mẹ Thuận bước thêm bước nữa."
+    },
+    {
+     "t": "p",
+     "text": "Năm lớp 9, nghe mẹ đau đáu thở dài về việc túng thiếu, nợ nần bủa vây, Thuận quyết định dừng học, lao vào những ngày tháng bán lưng cho trời tại các rẫy dưa, rẫy sắn phụ mẹ nuôi em."
+    },
+    {
+     "t": "p",
+     "text": "Bà Mười xót xa: \"Nó ham học lắm nhưng tôi khổ quá lo không nổi. Nó nghỉ học, lòng tôi như đứt từng đoạn ruột\". Ngay cả cô giáo chủ nhiệm và bí thư chi bộ thôn năm đó đến nhà thuyết phục, Thuận cũng đành gạt nước mắt lắc đầu."
+    },
+    {
+     "t": "p",
+     "text": "Thuận nói rằng giai đoạn đó mình rất buồn bã, không biết định hướng thế nào. \"Từ các rẫy bí, dưa, sắn, ai mướn gì thì hai mẹ con làm nấy\", Thuận nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Thuận và người mẹ xúc động khi nhớ tới khoảng thời gian khó khăn, khổ cực đã quyết định bỏ học giữa chừng để làm thuê phụ mẹ - Ảnh: LÊ TRUNG"
+    },
+    {
+     "t": "h",
+     "text": "Cuộc phiêu lưu tuổi 16 xa hàng trăm cây số để... kiếm tiền"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2021 tròn 16 tuổi, một người cậu đang làm quản đốc một công ty cơ khí ở TP.HCM đưa Thuận xuống đó học nghề để cháu tự nuôi sống bản thân."
+    },
+    {
+     "t": "p",
+     "text": "Giữa lúc đại dịch COVID-19 bùng phát dữ dội, chàng thiếu niên miệt mài vật lộn với máy móc, dầu nhớt để mưu sinh. Thế nhưng khát vọng con chữ chưa bao giờ tắt trong chàng trai trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn bạn bè đồng trang lứa cắp sách đến trường, Thuận \"hối hận vì đã bỏ học giữa chừng\". Thuận chợt nghĩ bằng tuổi mình các bạn đang đến trường, còn mình suốt ngày vật lộn với máy móc, linh kiện, dầu nhớt. \"Khi đã suy nghĩ chín, mình quyết định đi học lại, nếu không chắc sẽ hối hận cả đời\", Thuận kể."
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi 17, sau một năm tích cóp được chút vốn liếng, Thuận đưa ra quyết định táo bạo: quay lại trường bổ túc học… lớp 9 tại Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên quận Tân Phú (TP.HCM), và vẫn đi làm thuê để kiếm tiền học."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Dù lam lũ kiếm sống song Thuận vẫn đạt thành tích học tập đáng nể, nhiều giải thi học viên giỏi cấp thành phố - Ảnh: LÊ TRUNG"
+    },
+    {
+     "t": "p",
+     "text": "Cuộc sống của Thuận trở thành một cuộc chạy đua nghẹt thở với thời gian. Sáng làm việc tại xưởng, chiều tối nuốt vội bát cơm rồi lao đến lớp học, miệt mài với con chữ."
+    },
+    {
+     "t": "p",
+     "text": "Từ năm lớp 10, ban ngày Thuận làm ở công ty, tối đi học. Sáng bắt đầu chạy đua với công việc tới tận chiều, rồi chạy tới trường tìm con chữ, đến gần khuya mới kết thúc một ngày vừa làm vừa học. \"Giai đoạn đó thực sự bào mòn sức lực của mình. Nhưng ước mơ đỗ đại học đã thôi thúc tôi mạnh mẽ\", Thuận bộc bạch."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm lớp 12, Thuận nghỉ việc ở xưởng cơ khí, chuyển sang chạy xe công nghệ để có thời gian ôn thi. \"Những lúc chạy xe trò chuyện với khách, nghe chuyện đời của mình, lúc trả tiền có người còn cho thêm và dặn hãy cố gắng học tập\", Thuận nhớ lại."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Thuận phụ mẹ công việc nương rẫy mỗi khi về nhà - Ảnh: LÊ TRUNG"
+    },
+    {
+     "t": "h",
+     "text": "Ngẩng cao đầu vào đại học dù vẫn phải vay nợ đóng học phí"
+    },
+    {
+     "t": "p",
+     "text": "Mọi nỗ lực phi thường đã được đền đáp xứng đáng. Thuận chính thức nhận giấy báo trúng tuyển ngành khoa học cây trồng, Trường đại học Tây Nguyên (Đắk Lắk)."
+    },
+    {
+     "t": "h",
+     "text": "Bảng vàng của một học sinh học bổ túc văn hóa"
+    },
+    {
+     "t": "p",
+     "text": "Lam lũ là thế nhưng bảng thành tích của chàng trai chạy Grab khiến ai cũng khâm phục."
+    },
+    {
+     "t": "p",
+     "text": "Lớp 9, bạn đoạt giải ba môn địa lý kỳ thi học viên giỏi TP.HCM. Lớp 12 liên tiếp đoạt giải nhì môn hóa kỳ thi chọn học viên giỏi giải toán trên máy tính cầm tay cấp thành phố, giải ba môn hóa kỳ thi chọn học viên giỏi giáo dục thường xuyên cấp thành phố."
+    },
+    {
+     "t": "p",
+     "text": "4 năm tại trung tâm giáo dục thường xuyên, Thuận nhận nhiều giấy khen. Năm lớp 12 đạt danh hiệu học viên giỏi."
+    },
+    {
+     "t": "p",
+     "text": "Đối với Thuận, đây không chỉ là tấm vé đổi đời, mà là minh chứng cho việc \"quay đầu là bờ\" đầy ngoạn mục."
+    },
+    {
+     "t": "p",
+     "text": "Thuận đã thuê một căn phòng trọ nhỏ gần trường. Nhờ chính sách vay vốn sinh viên nghèo, Thuận xin vay nộp học phí kỳ đầu tiên hơn 9 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Biết tin Thuận đậu đại học, cả xóm vùng biên như chộn rộn bởi giữa cái nghèo khó, đậu đại học là một ước mơ đối với bao gia đình. Bà con chòm xóm tìm đến chúc mừng."
+    },
+    {
+     "t": "p",
+     "text": "Thành quả ấy cũng phần nào khiến người mẹ từng đau lòng vì để con đứt gánh giữa đường tự hào dù giọng bà nghẹn ngào: \"Nó đậu tôi mừng lắm\"."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình phía trước còn dài, Thuận dự định sẽ tìm việc làm thêm tại các công ty phân bón, cây giống, thuốc bảo vệ thực vật để có thể theo đuổi việc học."
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện của Phan Minh Thuận chính là nguồn cảm hứng mạnh mẽ cho những ai tin rằng chỉ cần không bỏ cuộc, nghịch cảnh nào cũng có thể vượt qua."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "h",
+     "text": "Còn nhỏ mà đã làm những việc không tưởng!"
+    },
+    {
+     "t": "p",
+     "text": "Bà Kim Thị Thanh - Trưởng thôn 12, xã Ia Rvê - nói vì sống gần gũi nên biết rõ hoàn cảnh gia đình Thuận, bà thương lắm. \"Mấy mẹ con nó khổ quá, thằng nhỏ lại bỏ học giữa chừng để đi làm phụ mẹ. Thấy vậy tưởng không thể đi học lại được nhưng nó đã làm được rồi\", bà Thanh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Còn bà Trần Mộng Thu (hàng xóm) cho hay lúc Thuận nghỉ học giữa năm lớp 9 thì bà làm Bí thư chi bộ thôn 12 đã cùng giáo viên chủ nhiệm đến nhà động viên, khuyên nhủ cậu đừng bỏ học nhưng không được. \"Nhưng nó rất mạnh mẽ, giờ nó đậu, tôi cũng vui lây\", bà nói."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Thuận thuê phòng trọ ở cùng với em trai cũng đang học bổ túc - Ảnh: LÊ TRUNG"
+    }
+   ]
+  },
+  {
+   "id": "e8ae4fd01bb0",
+   "order": 8,
+   "slug": "hanh-trinh-thanh-thu-khoa-o-viet-nam-cua-nu-sinh-ma-roc",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Hành trình thành thủ khoa ở Việt Nam của nữ sinh Ma-rốc",
+   "sapo": "Từng bỏ học ngành Y tại Pháp, tự nhốt mình suốt 7 tháng vì trầm cảm, Hiba Faradji tìm đến Việt Nam như một lối thoát, vươn lên thành thủ khoa ngành Điều khiển tàu biển.",
+   "author": "Lê Tân",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/hanh-trinh-thanh-thu-khoa-o-viet-nam-cua-nu-sinh-ma-roc-5116537.html",
+   "published": "2026-09-30T23:00:42+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1018,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/e8ae4fd01bb0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-01/e8ae4fd01bb0-0.jpg",
+     "caption": "Hiba nhận bằng tốt nghiệp từ Hiệu trưởng Đại học Hàng hải Việt Nam, tháng 8/2026. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từng bỏ học ngành Y tại Pháp, tự nhốt mình suốt 7 tháng vì trầm cảm, Hiba Faradji tìm đến Việt Nam như một lối thoát, vươn lên thành thủ khoa ngành Điều khiển tàu biển."
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh nữ sinh Ma-rốc rạng rỡ nhận bằng thủ khoa hồi tháng 8 lan tỏa và thu hút trên nhiều trang mạng xã hội. Đằng sau cái kết đẹp là những chuỗi ngày \"giông bão\" mà cô gái 23 tuổi từng nếm trải."
+    },
+    {
+     "t": "p",
+     "text": "Năm 18 tuổi, Hiba Faradji rời thành phố biển Tangier (Ma-rốc) sang Pháp nhận học bổng Y khoa tại Đại học Sorbonne (Paris). Thế nhưng, đó cũng là lúc đại dịch Covid-19 bùng phát. Việc học bế tắc, cô phải liên tục ở nhờ ở cách xa trường cùng nhiều biến cố phát sinh. Sau 8 tháng căng thẳng cực độ, Hiba quyết định bỏ dở việc học để trở về trong sự ngổn ngang."
+    },
+    {
+     "t": "p",
+     "text": "Thất vọng, Hiba tự nhốt mình trong nhà gần 7 tháng. Cô kể bản thân từ một người hoạt bát, rơi vào trạng thái trầm cảm, khép mình với thế giới bên ngoài và luôn sợ bị người khác kiểm soát."
+    },
+    {
+     "t": "p",
+     "text": "Khi tâm lý ổn định, cô tìm kiếm cơ hội du học, nhưng liên tục bị từ chối ở Tây Ban Nha và Hàn Quốc. Cuối năm 2022, giữa lúc bế tắc, Hiba tình cờ thấy thông tin về 4 suất học bổng toàn phần của trường Đại học Hàng hải Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Với mong muốn thoát khỏi bế tắc, cô đăng ký chương trình cử nhân ngành Điều khiển tàu biển vì được cấp học bổng. Quyết định nhận được sự ủng hộ từ gia đình, thậm chí bạn thân của mẹ còn hỗ trợ tiền mua vé máy bay."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi có rất ít thời gian chuẩn bị và tìm hiểu về Việt Nam. Tôi chỉ nghĩ Hải Phòng có lẽ giống quê hương mình, cũng là thành phố biển, không quá lớn và không quá hẻo lánh\", Hiba nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 2/2023, Hiba đặt chân đến sân bay Nội Bài. Cô hoảng hốt vì không thể liên lạc với nhà trường, nên đành bấm bụng bắt taxi thẳng về Hải Phòng. Chuyến đi ngốn tới 2,5 triệu đồng – tương đương một nửa số tiền mặt mang theo. Đến nơi đúng những ngày sinh viên nghỉ Tết, căn phòng ký túc xá lạnh ngắt, vắng lặng khiến cô chỉ muốn òa khóc, ước gì có thể bay ngay về nhà."
+    },
+    {
+     "t": "p",
+     "text": "Cảm giác cô đơn vơi dần khi nữ sinh nhận được cuộc gọi từ bố mẹ. Hiba gạt nước mắt, trấn an gia đình và tự nhủ phải tiếp tục cố gắng."
+    },
+    {
+     "t": "p",
+     "text": "Với nền tảng tiếng Anh và tiếng Pháp tốt, song Hiba đánh giá các môn học \"khá khó\", vì có nhiều thuật ngữ chuyên ngành và phép tính."
+    },
+    {
+     "t": "p",
+     "text": "\"Toán chưa bao giờ là thế mạnh của tôi, trong khi môn Ổn định tàu rất chi tiết và mang tính kỹ thuật cao, khó đến mức không thể học hết toàn bộ chương trình chỉ trong hai học kỳ\", nữ sinh chia sẻ, cho biết dành nhiều thời gian tự học ở nhà để vượt qua."
+    },
+    {
+     "t": "p",
+     "text": "Cô nhìn nhận rào cản lớn nhất là những vết thương tâm lý chưa lành từ Paris, khác biệt về sinh hoạt ở môi trường mới, lại là nữ sinh hiếm hoi trong một khoa toàn nam giới."
+    },
+    {
+     "t": "p",
+     "text": "Theo đạo Hồi, Hiba tuyệt đối không ăn thịt heo. Ba tháng đầu tiên ở Hải Phòng, khi chưa quen ẩm thực bản địa, cô chỉ quanh quẩn với các loại hạt và đồ khô mẹ gửi. Cơ thể thiếu chất khiến nữ sinh sụt 4 kg và mất ngủ kéo dài. Về ngôn ngữ, ban đầu cô chỉ biết mỗi từ \"xin chào\". Phải qua 5 tháng học tiếng Việt cơ bản, kết hợp quan sát và bắt chước nhịp sống xung quanh, cô mới dần tự tin hơn."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến khi Hiba tham gia câu lạc bộ tiếng Anh, quen người bạn tên Thùy và được mời về nhà ở cùng. Nhờ đó, cô có môi trường thực tế để tự tin giao tiếp, thậm chí thạo cả những sắc thái đặc trưng của người Hải Phòng."
+    },
+    {
+     "t": "p",
+     "text": "Khi việc học đã vào guồng, Hiba tự lập bằng cách đi làm thêm và thuê nhà riêng. Vì chưa có kinh nghiệm, cô lỡ ký hợp đồng thuê căn hộ 5 triệu đồng/tháng trong khi lương làm thêm là 7 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "\"Biết chuyện, các bạn học đã trách sao tôi không mở lời nhờ giúp đỡ\", Hiba kể, cho hay những ngày Hải Phòng gồng mình chống bão lũ, bạn bè lại đón cô về nhà tránh bão, khiến cô có cảm giác ấm áp như một gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Từ một cô gái khép kín, Hiba mở lòng hơn. Cô hăng hái tham gia hoạt động Đoàn, Đội, thích thú tụ tập cùng bạn bè sau giờ học bên nồi lẩu, món nướng hay ghé quán vỉa hè nhâm nhi ly trà hoa cúc."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi 'nghiện' món bún đậu mắm tôm ăn kèm chả mực Cát Bà ngay từ lần thử đầu tiên\", Hiba chia sẻ. \"Sự nhiệt tình giúp đỡ của bạn bè Việt Nam, môi trường sống tại Hải Phòng giúp tôi lạc quan hơn rất nhiều\"."
+    },
+    {
+     "t": "p",
+     "text": "Sau 3 năm, trái ngọt đã đến khi Hiba Faradji tốt nghiệp thủ khoa ngành Điều khiển tàu biển với điểm trung bình (GPA) 3.65/4. Trên fanpage, Viện đào tạo chất lượng cao của Đại học Hàng hài Việt Nam đánh giá đằng sau kết quả này là sự nỗ lực bền bỉ, tư duy nhạy bén, bản lĩnh và tinh thần không ngại thử thách của cô gái 23 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Hiba đang hoàn tất thủ tục gia hạn visa để tiếp tục theo học thạc sĩ chuyên ngành hàng hải tại Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "\"Hải Phòng phát triển mạnh về hàng hải. Tôi tin mình có cơ hội phát triển tốt và muốn gắn bó lâu dài tại đây\", cô nhìn nhận."
+    }
+   ]
+  },
+  {
+   "id": "075e3be2db05",
+   "order": 9,
+   "slug": "vuon-nho-3-000-m-giua-xu-dua-trong-7-giong-nho-va-don-khach",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Vườn nho 3.000 m² giữa xứ dừa, trồng 7 giống nho và đón khách hái tại vườn",
+   "sapo": "Sau thời gian đi xuất khẩu lao động trở về, anh Trần Văn Sang (31 tuổi) quyết định phá bỏ 3 công đất vườn dừa kém hiệu quả của gia đình, dùng tiền tích lũy đầu tư nhà kính trồng nho.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/vuon-nho-3000-m-giua-xu-dua-trong-7-giong-nho-va-don-khach-hai-tai-vuon-185260930201309067.htm",
+   "published": "2026-10-01T01:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 956,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/075e3be2db05-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/075e3be2db05-0.jpg",
+     "caption": "Anh Sang với chùm nho trĩu quả trong Bồ Đào Farm",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-01/075e3be2db05-1.jpg",
+     "caption": "Anh Sang chụp ảnh với du khách đến vườn nho trải nghiệm",
+     "w": 1280,
+     "h": 950
+    },
+    {
+     "src": "img/2026-10-01/075e3be2db05-2.jpg",
+     "caption": "Vườn nho trĩu quả của anh Sang",
+     "w": 1280,
+     "h": 938
+    },
+    {
+     "src": "img/2026-10-01/075e3be2db05-3.jpg",
+     "caption": "Du khách check-in Bồ Đào Farm",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau thời gian đi xuất khẩu lao động trở về, anh Trần Văn Sang (31 tuổi) quyết định phá bỏ 3 công đất vườn dừa kém hiệu quả của gia đình, dùng tiền tích lũy đầu tư nhà kính trồng nho."
+    },
+    {
+     "t": "p",
+     "text": "Từ ý tưởng ban đầu là làm nông nghiệp , anh Sang từng bước phát triển mô hình kết hợp du lịch trải nghiệm, tạo thêm việc làm cho lao động địa phương."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Trồng nho công nghệ cao ở xứ dừa"
+    },
+    {
+     "t": "p",
+     "text": "Vườn nho rộng 3.000 m 2 của anh Sang nằm tại xã Quới Điền, tỉnh Vĩnh Long. Anh cho biết bắt đầu xây dựng vườn nho từ năm 2024, với mong muốn làm giàu trên mảnh đất quê hương."
+    },
+    {
+     "t": "p",
+     "text": "Học hết cấp 2, do hoàn cảnh gia đình, anh Sang nghỉ học, lên TP.HCM làm nhiều nghề để mưu sinh. Sau đó, anh học tiếng Nhật và năm 2018 sang Nhật Bản lao động. Trong thời gian làm việc, anh tranh thủ tìm hiểu kỹ thuật trồng nho, từ giống, cách chăm sóc đến phương pháp canh tác."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau lần thứ hai sang Nhật, anh tích lũy tiền, gửi về quê mua 3 công đất trồng dừa. Năm 2024, anh quyết định trở về quê khởi nghiệp. \"Khi tôi trình bày ý tưởng làm vườn nho, gia đình ai cũng phản đối vì cho rằng thổ nhưỡng, khí hậu nơi đây không phù hợp. Tôi kiên trì thuyết phục, cuối cùng gia đình đồng ý cho phá 3 công vườn dừa để làm nhà kính\", anh Sang kể."
+    },
+    {
+     "t": "p",
+     "text": "Với số tiền tích lũy và vốn vay mượn, anh đầu tư xây nhà màng. Tuy nhiên, công trình vừa hoàn thành đã bị mưa lớn làm sập. Không bỏ cuộc, anh tiếp tục sửa chữa, đầu tư lại và hoàn thiện vườn nho như hiện nay."
+    },
+    {
+     "t": "p",
+     "text": "Vườn nho được anh Sang canh tác theo hướng hữu cơ, hạn chế tối đa sử dụng thuốc bảo vệ thực vật. Nhà kính giúp hạn chế côn trùng xâm nhập, giảm sâu bệnh. Hiện vườn trồng 7 giống nho, trong đó có nho mẫu đơn nhập khẩu, các giống ngón tay xanh, ngón tay đen, hồng nhật, kẹo, hạ đen... được mua từ tỉnh Khánh Hòa. Ngoài ra, vườn còn sử dụng hệ thống tưới phun sương tiết kiệm nước, phân bón chủ yếu là phân hữu cơ và đạm cá."
+    },
+    {
+     "t": "h",
+     "text": "Từ vườn nho đến du lịch trải nghiệm"
+    },
+    {
+     "t": "p",
+     "text": "Sau khoảng một năm trồng, vườn nho Bồ Đào Farm cho thu hoạch vụ đầu khoảng 300 kg. Sản lượng chưa đủ đáp ứng nhu cầu của người dân địa phương và du khách đến tham quan."
+    },
+    {
+     "t": "p",
+     "text": "Chị Nguyễn Thị Thu Thảo (27 tuổi, ngụ P.An Hội, tỉnh Vĩnh Long) biết đến vườn nho qua mạng xã hội và rủ bạn bè đến tham quan, trải nghiệm. \"Lần đầu tôi đến một vườn nho rộng như vậy. Được tận mắt thấy những chùm nho trên cây, tự tay hái và thưởng thức, rồi chụp ảnh lưu niệm nên rất thích\", chị Thảo chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Những giàn nho xanh mướt giữa vùng đất vốn được biết đến với những vườn dừa trở thành điểm nhấn mới ở Quới Điền, thu hút người dân và du khách."
+    },
+    {
+     "t": "p",
+     "text": "Anh Sang cho biết tên Bồ Đào Farm được đặt với ý nghĩa \"Bồ Đào\" trong tiếng Hán là cây nho, còn \"Farm\" trong tiếng Anh nghĩa là nông trại. Mỗi năm, vườn dự kiến cho 2 vụ trái, vào khoảng tháng 7 và dịp tết. Ngoài tham quan, du khách có thể nghỉ ngơi, uống nước, chụp ảnh, hái nho tại vườn hoặc mua sản phẩm mang về. Mỗi vụ, vườn tạo việc làm cho khoảng 20 lao động địa phương. \"Vườn do tay tôi chăm sóc, từ tưới, bón phân đến xử lý sâu bệnh. Do trồng trong nhà kính nên sâu bệnh không nhiều, tôi chủ yếu bắt sâu bằng tay, không sử dụng hóa chất\", anh Sang nói."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, anh chỉ dự định trồng nho để bán sản phẩm. Tuy nhiên, khi ngày càng có nhiều người tìm đến tham quan, anh nảy ra ý tưởng kết hợp nông nghiệp với du lịch trải nghiệm. Du khách mua vé vào vườn, được hái và ăn nho tại chỗ, chụp ảnh hoặc mua nho mang về. Theo anh Sang, sau khi trừ chi phí, mô hình bước đầu có lợi nhuận, dù chưa cao. Quan trọng hơn, việc kết hợp sản xuất với trải nghiệm giúp vườn nho mở thêm hướng phát triển."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Anh Nguyễn Thanh Nhã, Phó bí thư Thường trực Tỉnh đoàn, Chủ tịch Hội Liên hiệp thanh niên Việt Nam tỉnh Vĩnh Long, cho biết các mô hình trồng nho công nghệ cao trong nhà kính, nhà màng đang được khuyến khích, bởi đây là hướng khởi nghiệp sáng tạo của thanh niên."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Nhã, mô hình nhà kính giúp kiểm soát điều kiện thời tiết, hạn chế nấm bệnh và côn trùng, từ đó giảm việc sử dụng thuốc bảo vệ thực vật, góp phần nâng cao giá trị nông sản. \"Mô hình vườn nho sạch được anh Sang kết hợp với dịch vụ tham quan, check-in, qua đó tăng thêm nguồn thu từ du lịch nông nghiệp. Tỉnh đoàn đang xem xét nhân rộng những mô hình sản xuất hiệu quả, giúp đoàn viên, thanh niên làm giàu trên chính mảnh đất quê hương\", anh Nhã nói."
+    },
+    {
+     "t": "p",
+     "text": "Với những tín hiệu tích cực ban đầu, anh Sang đang nghiên cứu mở rộng diện tích trồng nho, đồng thời thực hiện các thủ tục đăng ký phát triển du lịch tại địa phương và đăng ký sản phẩm OCOP cho nho của Bồ Đào Farm."
+    }
+   ]
+  },
+  {
+   "id": "cb5c5fe43214",
+   "order": 10,
+   "slug": "nong-dan-xu-muong-keo-nhau-len-song-doi-doi-nho-chuyen-doi-s",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số",
+   "sapo": "(Dân trí) - Không còn quẩn quanh với nếp nghĩ \"chỉ biết bấm chân trên đất dốc hái chè\", người nông dân ở Long Cốc đã trở thành nhà sáng tạo nội dung, mẫu",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/nong-dan-xu-muong-keo-nhau-len-song-doi-doi-nho-chuyen-doi-so-20260926205925944.htm",
+   "published": "2026-09-30T01:25:46+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 863,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-0.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-1.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-2.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-3.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-4.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-5.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-6.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-7.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-8.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-9.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-10.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/cb5c5fe43214-11.jpg",
+     "caption": "Nông dân xứ Mường kéo nhau “lên sóng”, đổi đời nhờ chuyển đổi số - 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Xã Long Cốc (huyện Tân Sơn cũ, Phú Thọ) được mệnh danh là \"ốc đảo chè\" hay \"Vịnh Hạ Long trên cạn\" với hàng trăm quả đồi xanh mướt nhấp nhô như những chiếc bát úp ngược trập trùng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đồng bào dân tộc thiểu số tại đây chiếm tới 83%, trong đó chủ yếu là người Mường sinh sống bằng nghề trồng và chế biến chè. Nhiều đời qua, công việc của bà con chỉ xoay quanh việc đào băng, gánh phân, hái búp chè tươi."
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng giờ đây, những chiếc điện thoại đặt trên chân đế, máy quay hay các buổi livestream trở thành hình ảnh quen thuộc giữa đồi chè và xưởng chế biến."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trên đỉnh Đồi Bông lúc trời tờ mờ sáng, Tạ Thị Cẩm Ly (21 tuổi) đang thoăn thoắt hái chè trong khi hai du khách người Nga ghi lại hình ảnh. Một hoạt động trong tour du lịch do gia đình Ly tổ chức."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Gia đình Ly có đồi chè nhưng trước đây chỉ biết thu hoạch chè thô. Với tinh thần dám nghĩ dám làm của người trẻ, Ly và chồng là một trong những hộ tiên phong trong việc sản xuất nội dung số quảng bá cho vẻ đẹp đồi chè của địa phương."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "\"Sáng sớm, tôi dẫn khách lên đồi chụp hình đón bình minh cùng các cô gái Mường hái chè. Chiều đến lại đưa du khách đi ngắm hoàng hôn buông xuống trên các thảm chè bát úp, rồi về hướng dẫn họ tự tay hái chè, sao chè thủ công. Chồng tôi đi theo quay video, về chỉnh sửa rồi đăng lên các nền tảng mạng xã hội\", Cẩm Ly chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Cách nơi hái chè của Ly không xa, ông Nguyễn Hoàng Trung, Bí thư xã Long Cốc cũng đang thực hiện quay video cho nền tảng mạng xã hội giới thiệu về vẻ đẹp bình minh của đồi chè."
+    },
+    {
+     "t": "p",
+     "text": "Chính quyền xã Long Cốc đồng hành sát sao cùng người dân trong từng bước chuyển đổi số và phát triển du lịch. Cán bộ địa phương trực tiếp \"cầm tay chỉ việc\", hướng dẫn bà con cách quay phim, dựng video ngắn và tiếp thị số nhằm quảng bá nét đẹp quê hương lên mạng xã hội."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Bà Hà Thị Tuyến (55 tuổi), Giám đốc Hợp tác xã chè hữu cơ Long Cốc cho biết, hợp tác xã hiện có 20 thành viên với 18,6 ha chè đang canh tác tại các khu đồi."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, bà con chủ yếu trồng chè hạt truyền thống, sau chuyển sang các giống chè cành, chè Bát Tiên đặc sản."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "\"Trước kia chúng tôi chỉ biết đi trồng và thu hoạch chè bán thô, không hề biết đồi chè quê mình lại đẹp và có giá trị du lịch lớn đến thế\", bà Tuyến trải lòng."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Nếu như trước đây, việc sao chè thủ công tốn rất nhiều công sức, mỗi giờ đứng canh bếp lửa miệt mài chỉ thu được vỏn vẹn 0,5kg chè khô, thì nay hệ thống máy vò, máy sấy điện đã xuất hiện phổ biến trong từng xưởng chế biến gia đình."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Vừa theo dõi nhiệt độ lò sấy hay nhanh tay hái búp trà đọng sương, người nông dân bản Mường vừa tự tin trò chuyện, tương tác trước ống kính quyết đưa quê hương nổi tiếng mạng xã hội."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Anh Giang, một cán bộ trong tổ truyền thông xã, đang quay lại cảnh chế biến chè để sản xuất nội dung ngắn đăng tải lên kênh \"Amazing Long Cốc\" của xã."
+    },
+    {
+     "t": "p",
+     "text": "Từ ngày hình ảnh các đồi chè địa phương nổi tiếng trên mạng xã hội, sản phẩm chè Bát Tiên đặc sản của xứ Mường cũng đẩy được doanh số gấp nhiều lần. Đáng chú ý, nhiều gói chè đặc sản đã theo khách du lịch nước ngoài đi ra thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Người dân bản Mường đang thu lợi nhiều lần trên những vùng canh tác nông nghiệp gắn với họ nhiều thế hệ kể từ khi mạnh dạn đưa “việc đồng áng” của mình lên sóng."
+    },
+    {
+     "t": "p",
+     "text": "Song song với làn sóng làm truyền thông của bà con, việc chuyển đổi phương thức canh tác từ hóa học sang hữu cơ được xem là \"chiếc chìa khóa\" quyết định sự phát triển bền vững của vùng chè Long Cốc."
+    },
+    {
+     "t": "p",
+     "text": "Theo Bí thư xã Long Cốc Nguyễn Hoàng Trung, chính quyền cùng người dân đang nỗ lực chuyển dịch các diện tích trồng chè sang mô hình hữu cơ."
+    },
+    {
+     "t": "p",
+     "text": "\"Làm hữu cơ ban đầu vất vả, sản lượng có thể giảm nhưng giữ được sức khỏe cho mình, giữ môi trường sạch để đón khách và bán được trà đặc sản giá từ 500.000 đồng đến 2 triệu đồng/kg\", ông Trung chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ xu hướng này, những lão nông gắn bó cả đời với đồi chè cũng dần thay đổi nếp nghĩ. Bà Nguyễn Thị Hạnh bộc bạch rằng, trước đây bà con chỉ biết làm lụng vất vả từ mờ sáng đến tối mịt rồi về nhà nghỉ, chưa từng nghĩ ngọn đồi quê mình lại có thể đón khách xuyên đêm."
+    }
+   ]
+  },
+  {
+   "id": "89d37bb02989",
+   "order": 11,
+   "slug": "canh-gay-sung-sot-o-diem-den-moi-noi-hang-dau-chau-a-cua-vie",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Cảnh gây sửng sốt ở 'điểm đến mới nổi hàng đầu châu Á' của Việt Nam",
+   "sapo": "Đồi hoa cánh bướm nở rộ bên sống lưng khủng long thu hút đông du khách tới Tà Xùa những ngày cuối tháng 9. Nơi đây vừa được vinh danh là \"điểm đến mới nổi hàng đầu châu Á 2026\".",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/canh-gay-sung-sot-o-diem-den-moi-noi-hang-dau-chau-a-cua-viet-nam-post1686633.html",
+   "published": "2026-10-01T00:57:53+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 683,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/89d37bb02989-0.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 2",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-1.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 3",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-2.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-3.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 5",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-4.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 6",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-5.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-6.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 8",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-7.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 9",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-8.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 13",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-9.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 14",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-10.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 15",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-01/89d37bb02989-11.jpg",
+     "caption": "Tà Xùa,  vườn hoa ảnh 16",
+     "w": 1280,
+     "h": 1706
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đồi hoa cánh bướm nở rộ bên sống lưng khủng long thu hút đông du khách tới Tà Xùa những ngày cuối tháng 9. Nơi đây vừa được vinh danh là \"điểm đến mới nổi hàng đầu châu Á 2026\"."
+    },
+    {
+     "t": "h",
+     "text": "Vườn hoa \"trên mây\""
+    },
+    {
+     "t": "p",
+     "text": "Cuối tháng 9, đồi hoa sao nhái, còn gọi là hoa cánh bướm, tại bản Chống Tra, xã Tà Xùa nở rộ, phủ sắc hồng giữa những dãy núi. Khu vườn \"trên mây\" hướng tầm nhìn ra sống lưng khủng long vốn là biểu tượng của nơi đây nên thu hút sự quan tâm trên mạng xã hội. Linh Xinh, người làm du lịch tại Tà Xùa , cho biết đồi hoa cách trung tâm xã khoảng 15 km, mất khoảng 40 phút di chuyển. Đoạn đường khoảng 50 m cuối dẫn xuống đồi hoa là đường đất nhỏ, trơn và khó đi. Du khách nên sử dụng xe ôm của người dân địa phương để di chuyển đoạn này. Chủ vườn Thào A Ký gieo hạt hoa cánh bướm trên khu đất rộng khoảng 1.000 m2 từ cuối tháng 7, đầu tháng 8 để phục vụ khách tham quan. Vé vào vườn hiện 30.000 đồng/người. Mùa hoa dự kiến kéo dài đến hết tháng 10, sau đó anh sẽ gieo hoa gối vụ để đón khách dịp Tết. Đây là năm đầu anh Ký trồng hoa, tạo điểm check-in mới cho du khách. Những năm trước, khu đất chủ yếu là nơi để du khách săn mây. \"Những ngày này, khách từ nhiều địa phương tìm đến chụp ảnh với hoa cánh bướm, nhất là vào cuối tuần. Tôi dự kiến tìm thêm các giống hoa phù hợp với thổ nhưỡng để làm mới trải nghiệm\", chủ vườn nói với Tri Thức - Znews."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "h",
+     "text": "Điểm đến mới nổi hàng đầu châu Á"
+    },
+    {
+     "t": "p",
+     "text": "Tại lễ trao Giải thưởng Du lịch Thế giới - World Travel Awards 2026 khu vực châu Á, châu Đại Dương và Ấn Độ Dương ở Maldives ngày 27/9, Tà Xùa được xướng tên ở hạng mục Asia's Leading Emerging Tourism Destination 2026 (Điểm đến du lịch mới nổi hàng đầu châu Á 2026). Đây là lần đầu địa phương tham gia hạng mục này và cũng là lần đầu giành chiến thắng. Là người làm du lịch 4 năm ở Tà Xùa, Linh Xinh bày tỏ tự hào với danh hiệu mới và kỳ vọng giải thưởng sẽ giúp địa phương được biết đến rộng rãi hơn, không chỉ với du khách trong nước mà cả khách quốc tế. \"Sức hút của Tà Xùa đến từ cảnh quan còn giữ được nét bình dị, hoang sơ, cùng địa hình núi cao và những biển mây đặc trưng\", cô nói với Tri Thức - Znews. Tháng 10-12 thường là cao điểm du lịch tại Tà Xùa, khi nhiệt độ xuống thấp, độ ẩm cao, tạo điều kiện hình thành những biển mây. Đây cũng là thời gian du khách tìm đến địa phương để săn mây, góp phần tạo sức hút cho điểm đến."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Tà Xùa nằm ở độ cao hơn 2.800 m so với mực nước biển, thuộc xã Tà Xùa, tỉnh Sơn La, giáp xã Trạm Tấu, tỉnh Lào Cai. Địa phương cách Hà Nội khoảng 240 km, có khí hậu mát mẻ quanh năm và nổi tiếng với hoạt động săn mây từ tháng 10 đến tháng 4."
+    },
+    {
+     "t": "p",
+     "text": "Địa hình khu vực có những đoạn đường hẹp, dốc, hai bên là vực sâu. Du khách có thể di chuyển bằng xe máy hoặc ôtô, trải nghiệm trekking (đi bộ đường dài) lên đỉnh Tà Xùa theo các cung đường có độ dài khác nhau từ phía Yên Bái hoặc Sơn La."
+    },
+    {
+     "t": "p",
+     "text": "Toàn xã hiện có 148 hộ kinh doanh dịch vụ du lịch, trong đó 88 hộ kinh doanh nhà nghỉ cộng đồng, với khả năng đáp ứng khoảng 3.000 khách mỗi ngày, đêm. Trong 4 ngày nghỉ lễ Quốc khánh, Tà Xùa đón hơn 7.000 lượt khách tham quan, nghỉ dưỡng, với tổng doanh thu du lịch hơn 5,6 tỷ đồng ."
+    }
+   ]
+  },
+  {
+   "id": "0ecdbbce0fc8",
+   "order": 12,
+   "slug": "asiad-2026-ha-nha-vo-dich-the-gioi-vo-sy-nguyen-thi-tam-vao",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "ASIAD 2026: Hạ nhà vô địch thế giới, võ sỹ Nguyễn Thị Tâm vào chung kết Boxing",
+   "sapo": "Võ sỹ Nguyễn Thị Tâm đã ghi tên mình vào chung kết hạng cân 51kg nữ môn Boxing nữ tại ASIAD 2026 sau khi có chiến thắng thuyết phục trước nhà vô địch thế giới.",
+   "author": "Trọng Tuệ-Thanh Phương",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/asiad-2026-ha-nha-vo-dich-the-gioi-vo-sy-nguyen-thi-tam-vao-chung-ket-boxing-post1139178.vnp",
+   "published": "2026-09-30T07:05:06+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 854,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/0ecdbbce0fc8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Võ sỹ Nguyễn Thị Tâm của Việt Nam tiếp tục tạo dấu ấn mạnh mẽ tại ASIAD 2026 khi xuất sắc đánh bại Alua Balkibekova của Kazakhstan 5-0 ở trận bán kết hạng cân 51kg nữ, qua đó giành quyền vào chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Tại nhà thi đấu Nishio Gymnasium ngày 30/9, Nguyễn Thị Tâm bước vào trận đấu với thử thách đặc biệt lớn khi đối thủ là Alua Balkibekova, một trong những tay đấm giàu thành tích nhất của Boxing nữ châu Á. Trước đó, Balkibekova từng hai lần vô địch thế giới và hai lần đăng quang tại giải vô địch châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, Nguyễn Thị Tâm cho thấy sự tự tin và bản lĩnh của một võ sỹ giàu kinh nghiệm. Đại diện Việt Nam thi đấu chủ động, duy trì khả năng di chuyển và kiểm soát khoảng cách, đồng thời tận dụng tốt cơ hội để tung ra các đòn đánh chính xác."
+    },
+    {
+     "t": "p",
+     "text": "Sau ba hiệp đấu, cả 5 giám khảo đều công nhận chiến thắng cho Nguyễn Thị Tâm, giúp cô giành thắng lợi tuyệt đối 5-0."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng càng có ý nghĩa khi Balkibekova trước đó cũng trải qua hành trình đầy ấn tượng. Ở vòng 1/8, võ sỹ Kazakhstan vượt qua Sakshi của Ấn Độ với tỷ số 3-2, trước khi tiếp tục đánh bại Yuna Nishinaka của chủ nhà Nhật Bản cũng bằng điểm số 3-2 ở tứ kết."
+    },
+    {
+     "t": "p",
+     "text": "Balkibekova, sinh ngày 23/8/1996, từng giành huy chương Bạc thế giới năm 2022, huy chương Đồng thế giới năm 2023 và huy chương Vàng thế giới năm 2025. Thành tích này cho thấy võ sỹ Nguyễn Thị Tâm vừa vượt qua một đối thủ có đẳng cấp quốc tế rất cao để tiến vào trận đấu cuối cùng."
+    },
+    {
+     "t": "p",
+     "text": "Với Nguyễn Thị Tâm, đây là bước tiến tiếp theo trong hành trình trở lại đỉnh cao. Cô từng giành huy chương Đồng ASIAD 2018, huy chương Bạc thế giới 2023 và hai lần vô địch châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi thắng võ sỹ Bak Chorong của Hàn Quốc 5-0 ở tứ kết, Tâm đã chắc chắn có huy chương và nay tiếp tục vượt qua Balkibekova để giành quyền tranh huy chương Vàng."
+    },
+    {
+     "t": "p",
+     "text": "Đối thủ của Tâm ở chung kết, diễn ra 11h00 ngày 1/10 (theo giờ Việt Nam) là võ sỹ Wu Yu của Trung Quốc. Đây là tay đấm từng vô địch thế giới năm 2023 và là đương kim vô địch Olympic."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng 5-0 trước nhà vô địch thế giới Balkibekova giúp Nguyễn Thị Tâm trở thành một trong những niềm hy vọng lớn của Boxing Việt Nam tại ASIAD 2026. Cô sẽ bước vào trận chung kết với mục tiêu cao nhất là mang về tấm huy chương Vàng cho Đoàn Thể thao Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, võ sĩ Lưu Diễm Quỳnh chưa thể đổi màu tấm huy chương Đồng từng giành được tại ASIAD 2022 ở Hàng Châu (Trung Quốc)."
+    },
+    {
+     "t": "p",
+     "text": "Trong trận bán kết hạng 75kg nữ tại ASIAD 2026 sáng 30/9, võ sỹ Việt Nam đã không thể tạo bất ngờ trước tay đấm Trung Quốc Bao Ziyi và dừng bước ở bán kết."
+    },
+    {
+     "t": "p",
+     "text": "Bao Ziyi mới 20 tuổi nhưng đã sở hữu những thành tích đáng chú ý với chức vô địch châu Á và thế giới môn Boxing. Trước Diễm Quỳnh, võ sỹ Trung Quốc cho thấy ưu thế rõ rệt về kỹ thuật, tốc độ và sức mạnh, liên tục áp sát và tung những tổ hợp đòn nhanh, chính xác vào vùng mặt và đầu đối thủ."
+    },
+    {
+     "t": "p",
+     "text": "Võ sỹ Việt Nam thua điểm ở hiệp 1 và sang hiệp 2 một lần bị trọng tài dừng trận đấu để đếm sau khi lĩnh đòn nặng. Trong hiệp 3, Diễm Quỳnh nỗ lực tấn công nhưng không thể đảo ngược thế trận và chung cuộc nhận thất bại 0-5 sau ba hiệp đấu."
+    },
+    {
+     "t": "p",
+     "text": "Với kết quả này, Lưu Diễm Quỳnh giành huy chương Đồng hạng 75kg nữ. Đây là lần thứ hai liên tiếp nữ võ sỹ Việt Nam giành huy chương Đồng tại ASIAD ở cùng hạng cân, sau thành tích tại Hàng Châu. Thành tích này cũng giúp cô trở thành một trong những gương mặt giàu dấu ấn nhất của Boxing Việt Nam tại đấu trường châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Trong ngày 30/9, ngoài Boxing, các vận động viên Việt Nam còn tranh tài ở nhiều môn như Cầu mây, Vật, Judo, Bắn súng và Golf. Đáng chú ý, các đội Cầu mây 4 người nam và nữ đều có chiến thắng. Cụ thể: đội 4 nam ngược dòng thắng Myanmar 2-1, trong khi đội nữ vượt qua Ấn Độ 2-0. Những kết quả này tiếp tục mở thêm cơ hội để đoàn Việt Nam cải thiện thành tích trong chặng nước rút của ASIAD 2026./."
+    },
+    {
+     "t": "h",
+     "text": "Bảng tổng sắp huy chương ASIAD 2026 mới nhất ngày 30/9"
+    },
+    {
+     "t": "p",
+     "text": "Đoàn Việt Nam có tấm huy chương Vàng thứ 2 tại ASIAD 2026 trong ngày 29/9, qua đó trở lại top 20 toàn đoàn, với 2 huy chương Vàng, 1 huy chương Bạc và 17 huy chương Đồng."
+    }
+   ]
+  },
+  {
+   "id": "e67dba72b0cd",
+   "order": 13,
+   "slug": "y-chi-thep-cua-nu-vo-si-nguyen-thi-tam",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ý chí thép của nữ võ sĩ Nguyễn Thị Tâm",
+   "sapo": "Từng thất vọng cùng cực vì chấn thương, mất cơ hội tham dự SEA Games 33 năm 2025, nhưng với ý chí sắt đá, nữ võ sĩ quyền anh Nguyễn Thị Tâm trở lại đầy ấn tượng tại ASIAD 20.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/y-chi-thep-cua-nu-vo-si-nguyen-thi-tam-185260930213317783.htm",
+   "published": "2026-09-30T23:31:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 667,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/e67dba72b0cd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/e67dba72b0cd-0.jpg",
+     "caption": "Nguyễn Thị Tâm (phải) giành quyền vào chung kết hạng cân 51 kg nữ môn quyền anh ASIAD 20",
+     "w": 1280,
+     "h": 827
+    },
+    {
+     "src": "img/2026-10-01/e67dba72b0cd-1.jpg",
+     "caption": "",
+     "w": 640,
+     "h": 407
+    },
+    {
+     "src": "img/2026-10-01/e67dba72b0cd-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 421
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Từ nỗi đau mang tên SEA Games…"
+    },
+    {
+     "t": "p",
+     "text": "Tại SEA Games 32 năm 2023 ở Campuchia, Nguyễn Thị Tâm tham dự với tư cách ĐKVĐ. Niềm tin vào mục tiêu bảo vệ thành công HCV SEA Games tăng lên khi cô có phong độ tốt, đoạt á quân cúp quyền anh thế giới. Thế nhưng ngay ở trận ra quân, chạm trán với võ sĩ Thái Lan, cô gái vàng quyền anh VN không may bị chấn thương rất nặng, đứt dây chằng chéo trước đầu gối trái. Chấn thương quái ác khiến hành trình trở lại của Nguyễn Thị Tâm hết sức gian nan. Sau gần 2 năm trời kiên trì chữa trị, hồi phục, Nguyễn Thị Tâm đánh dấu sự trở lại với danh hiệu vô địch quốc gia 2025. Thế nhưng cô không có tên trong danh sách đội tuyển quyền anh VN tham dự SEA Games 33 tại Thái Lan."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Không được khoác lên mình màu áo đội tuyển, đau. Không được chiến đấu vì Tổ quốc, còn đau hơn\", Nguyễn Thị Tâm chia sẻ về việc không thể tham dự SEA Games 33. Cô cũng bày tỏ quyết tâm: \"Tôi sẽ không dừng lại. Nỗi buồn này chỉ khiến ngọn lửa trong tôi cháy lớn hơn. Tôi vẫn tập luyện mỗi ngày, vẫn miệt mài bước tiếp hướng về mục tiêu lớn hơn là ASIAD \"."
+    },
+    {
+     "t": "h",
+     "text": "...Đến thành tích lịch sử tại ASIAD"
+    },
+    {
+     "t": "p",
+     "text": "Quyết tâm là thế, khổ luyện không ngừng nhưng thành công chưa bao giờ dễ dàng, đặc biệt với môn thể thao gian nan, khốc liệt như quyền anh. Sau chấn thương ở SEA Games 32 (tháng 5.2023), Nguyễn Thị Tâm tái xuất ở ASIAD 19 tại Hàng Châu (Trung Quốc) năm 2023 nhưng sớm dừng bước. Không nản chí, nữ võ sĩ 32 tuổi lao vào tập luyện. Ý chí thép đã tôi luyện nên người hùng Nguyễn Thị Tâm với màn tỏa sáng rực rỡ tại ASIAD 20. Ở bán kết hạng cân 51 kg nữ diễn ra hôm qua (30.9), Nguyễn Thị Tâm bị đánh giá thấp hơn khi chạm trán nhà vô địch thế giới Balkibekova Alua (Kazakhstan). Tuy nhiên trong ngày thi đấu bùng nổ, tự tin và ra đòn hiệu quả, Nguyễn Thị Tâm khiến đối thủ phải chấp nhận thất bại. Chiến thắng trước nhà vô địch thế giới cũng giúp Nguyễn Thị Tâm tạo nên cột mốc lịch sử, trở thành võ sĩ quyền anh VN đầu tiên giành quyền vào chung kết ASIAD."
+    },
+    {
+     "t": "p",
+     "text": "Ở chung kết diễn ra ngày mai (2.10), Nguyễn Thị Tâm chạm trán võ sĩ Wu Yu (Trung Quốc). Đối thủ rất đáng gờm khi là ĐKVĐ hạng cân 50 kg nữ của Olympic Paris 2024, ĐKVĐ châu Á. Thách thức cực lớn nhưng với phong độ cao, tâm lý hưng phấn, Nguyễn Thị Tâm sẵn sàng cho trận so găng lịch sử của quyền anh VN ở đấu trường ASIAD. Bên cạnh thành tích lịch sử của Nguyễn Thị Tâm, ở ngày thi đấu hôm qua, Lưu Diễm Quỳnh cũng ghi dấu ấn với tấm HCĐ ở hạng cân 75 kg nữ."
+    },
+    {
+     "t": "h",
+     "text": "Cầu mây 4 người đánh bại Thái Lan"
+    },
+    {
+     "t": "p",
+     "text": "Sau tấm HCV ở nội dung đôi nữ, đội tuyển cầu mây VN tiếp tục thi đấu tốt ở nội dung đồng đội nữ 4 người. Ở vòng loại tại bảng A diễn ra hôm qua, đội VN lần lượt vượt qua Ấn Độ, Thái Lan cùng tỷ số 2-0, trong đó có chiến thắng với điểm số 17/14, 15/12 gay cấn trước Thái Lan - cường quốc cầu mây số 1 thế giới. Kết quả này giúp đội nữ VN sớm vào bán kết. Hôm nay (1.10) Nguyễn Thị Yến cùng các đồng đội sẽ thi đấu lượt trận cuối vòng bảng với Philippines."
+    },
+    {
+     "t": "p",
+     "text": "Ở đồng đội nam 4 người, đội VN thắng Myanmar 2-1 ở lượt trận đầu bảng A và chạm trán với Ấn Độ ở lượt trận thứ hai diễn ra hôm nay."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    }
+   ]
+  },
+  {
+   "id": "9e96adfbd205",
+   "order": 14,
+   "slug": "kinh-ngu-anh-vien-bat-ngo-tai-xuat-o-tuoi-30-gianh-ngay-hcv",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Kình ngư Ánh Viên bất ngờ tái xuất ở tuổi 30, giành ngay HCV giải toàn quốc",
+   "sapo": "Tượng đài làng bơi Việt Nam, kình ngư Nguyễn Thị Ánh Viên bất ngờ quay trở lại với đường đua xanh ở tuổi 30.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/kinh-ngu-anh-vien-bat-ngo-tai-xuat-o-tuoi-30-gianh-ngay-hcv-giai-toan-quoc-185260930215415336.htm",
+   "published": "2026-09-30T15:04:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 333,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/9e96adfbd205-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/9e96adfbd205-0.jpg",
+     "caption": "Nguyễn Thị Ánh Viên tái xuất ở tuổi 30",
+     "w": 1280,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-01/9e96adfbd205-1.jpg",
+     "caption": "Kình ngư Nguyễn Thị Ánh Viên sẽ tranh tài ở Đại hội thể thao toàn quốc 2026",
+     "w": 1280,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tại giải bơi - lặn tiền Đại hội thể thao toàn quốc 2026 đang diễn ra tại CLB bơi lặn Phú Thọ (TP.HCM) đánh dấu sự trở lại của Nguyễn Thị Ánh Viên kể từ khi cô nói lời chia tay sự nghiệp thi đấu đỉnh cao cách đây 4 năm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tại giải bơi - lặn tiền Đại hội thể thao toàn quốc 2026, Nguyễn Thị Ánh Viên thi đấu cho đơn vị Trung tâm TDTT quốc phòng 4, góp mặt ở một vài nội dung hạn chế. Ở ngày tranh tài đầu tiên, cô tham gia nội dung 200 m ngửa và giành chiến thắng với thời gian 2 phút 18 giây 15. Trước đây, Ánh Viên từng đạt được thông số 2 phút 13 giây 64. Thời đỉnh cao, Ánh Viên từng tham dự đến 21 nội dung (15 cá nhân, 6 tiếp sức) và giành trọn bộ 21 HCV."
+    },
+    {
+     "t": "p",
+     "text": "Theo thông tin từ bộ môn bơi, Cục TDTT Việt Nam, Nguyễn Thị Ánh Viên có tên đăng ký thi đấu ở Đại hội thể thao toàn quốc diễn ra vào tháng 11 tới tại TP.HCM, trong màu áo Quân đội cũng là đơn vị mà cô gắn bó trước kia."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "4 năm qua, Nguyễn Thị Ánh Viên tập trung cho các dự án cá nhân, trong đó có việc học tập cũng như huấn luyện tại CLB bơi mang tên mình. Ánh Viên vẫn duy trì tập luyện, tham gia các giải đấu 3 môn phối hợp (bơi, đạp xe, chạy bộ), 2 phối hợp (bơi, chạy bộ). Ánh Viên cũng tham dự giải bơi mặt nước mở Oceanman Maldives 2026 diễn ra vào tháng 4 và giành đến 4 HCV."
+    },
+    {
+     "t": "p",
+     "text": "Theo đánh giá của các HLV, với quyết định trở lại thi đấu đỉnh cao tại Đại hội thể thao toàn quốc 2026, Ánh Viên sẽ phải cạnh tranh quyết liệt. Nhiều khả năng cô sẽ tham gia một số nội dung có thể tranh chấp như bơi ngửa."
+    }
+   ]
+  },
+  {
+   "id": "b39d49a9d560",
+   "order": 15,
+   "slug": "asiad-2026-boxing-cau-may-thap-hy-vong-vang-cho-the-thao-vie",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "ASIAD 2026: Boxing, cầu mây thắp hy vọng vàng cho thể thao Việt Nam",
+   "sapo": "Nguyễn Thị Tâm giành quyền vào chung kết boxing, Lưu Diễm Quỳnh có huy chương Đồng; trong khi các đội tuyển cầu mây tiếp tục cho thấy khả năng cạnh tranh huy chương ở những nội dung sở trường.",
+   "author": "Vietnam+ (VietnamPlus)",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/asiad-2026-boxing-cau-may-thap-hy-vong-vang-cho-the-thao-viet-nam-post1139294.vnp",
+   "published": "2026-09-30T14:19:48+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 936,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/b39d49a9d560-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày thi đấu 30/9 tại ASIAD 2026 chứng kiến những tín hiệu tích cực của Đoàn thể thao Việt Nam khi Nguyễn Thị Tâm giành quyền vào chung kết boxing, Lưu Diễm Quỳnh có huy chương Đồng, còn các đội tuyển cầu mây tiếp tục cho thấy khả năng cạnh tranh huy chương ở những nội dung sở trường."
+    },
+    {
+     "t": "p",
+     "text": "Tâm điểm của thể thao Việt Nam trong ngày 30/9 thuộc về Nguyễn Thị Tâm ở hạng 51kg nữ môn boxing. Đối đầu Alua Balkibekova, võ sỹ mạnh của Kazakhstan, tay đấm Việt Nam đã thể hiện một trận đấu chặt chẽ, chủ động và đầy bản lĩnh."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm kiểm soát tốt cự ly, lựa chọn thời điểm ra đòn hợp lý và không để đối thủ tạo được thế trận thuận lợi. Kết quả, cô giành chiến thắng tuyệt đối 5-0 bằng tính điểm, qua đó giành quyền vào chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Với chiến thắng này, Nguyễn Thị Tâm đã chắc chắn có ít nhất huy chương Bạc, đồng thời đứng trước cơ hội mang về thêm một tấm huy chương Vàng cho Đoàn thể thao Việt Nam. Điều đáng chú ý là Tâm phải vượt qua một đối thủ có trình độ cao và giàu kinh nghiệm quốc tế. Tấm vé chung kết không chỉ mang ý nghĩa về thành tích mà còn cho thấy tay đấm Việt Nam đang duy trì được sự ổn định ở thời điểm quan trọng nhất."
+    },
+    {
+     "t": "p",
+     "text": "Trong bối cảnh Đoàn thể thao Việt Nam cần thêm những tấm huy chương Vàng để cải thiện thành tích, trận chung kết của Nguyễn Thị Tâm vì thế sẽ trở thành một trong những cuộc tranh tài được chờ đợi nhất. Boxing Việt Nam còn có thêm một tấm huy chương Đồng của Lưu Diễm Quỳnh ở hạng 75kg nữ."
+    },
+    {
+     "t": "p",
+     "text": "Gặp Bao Ziyi của Trung Quốc tại bán kết, Diễm Quỳnh không thể tạo bất ngờ và để thua 0-5. Dù vậy, việc lọt vào nhóm 4 võ sỹ mạnh nhất vẫn giúp cô mang về một tấm huy chương đáng ghi nhận cho đoàn."
+    },
+    {
+     "t": "p",
+     "text": "Nếu boxing mở ra hy vọng vàng thì cầu mây tiếp tục chứng minh đây là một trong những môn chủ lực của thể thao Việt Nam tại ASIAD năm nay. Sau tấm huy chương Vàng nội dung đôi nữ trước đó, các tuyển thủ cầu mây bước vào nội dung 4 người với tinh thần hưng phấn."
+    },
+    {
+     "t": "p",
+     "text": "Đội nữ khởi đầu thuận lợi bằng chiến thắng 2-0 trước Ấn Độ trước khi bước vào cuộc đối đầu được chờ đợi với Thái Lan. Đây là trận đấu có ý nghĩa đặc biệt bởi Thái Lan từ lâu được xem là thế lực hàng đầu của cầu mây châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các cô gái Việt Nam tiếp tục thể hiện phong độ ấn tượng để thắng 2-0, qua đó chiếm lợi thế lớn trong cuộc đua giành vé vào bán kết. Chiến thắng trước Thái Lan không chỉ quan trọng về điểm số mà còn tạo cú hích lớn về tâm lý. Với một môn thi đấu mà sự tự tin và ổn định có ảnh hưởng rất lớn đến kết quả, việc vượt qua đối thủ mạnh nhất ngay từ vòng bảng giúp đội nữ Việt Nam có thêm cơ sở để hướng tới mục tiêu cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "Cầu mây nam cũng có một ngày thi đấu tích cực. Ở nội dung 4 người, đội tuyển Việt Nam gặp nhiều khó khăn trước Myanmar nhưng vẫn thể hiện được bản lĩnh để ngược dòng thắng 2-1. Kết quả này giúp đội nam duy trì lợi thế trong cuộc cạnh tranh suất đi tiếp."
+    },
+    {
+     "t": "p",
+     "text": "So với nhiều môn khác, cầu mây đang cho thấy khả năng đóng góp huy chương rõ rệt hơn cả. Tấm huy chương Vàng đã có, trong khi cả đội nam lẫn nữ vẫn còn cơ hội tiến sâu ở nội dung 4 người. Nếu duy trì được phong độ hiện tại, đây tiếp tục là một trong những \"mỏ huy chương\" quan trọng của thể thao Việt Nam tại ASIAD 2026."
+    },
+    {
+     "t": "p",
+     "text": "Ở các môn còn lại trong ngày 30/9, thành tích của các vận động viên Việt Nam chưa thực sự nổi bật. Judo, vật, bắn súng và golf đều chưa tạo được đột phá. Lâm Thị Ngân Hà dừng bước sau nhánh tranh vé vớt của judo, Đặng Thị Linh không thể đi sâu ở môn vật, trong khi các xạ thủ và golfer Việt Nam chưa có vị trí thuận lợi sau phần thi của mình."
+    },
+    {
+     "t": "p",
+     "text": "Trong bức tranh chung ấy, boxing và cầu mây trở thành hai điểm sáng rõ nét nhất. Lưu Diễm Quỳnh đã có huy chương Đồng, Nguyễn Thị Tâm tiến vào trận đấu tranh huy chương Vàng, còn các đội cầu mây tiếp tục giữ nhịp chiến thắng."
+    },
+    {
+     "t": "p",
+     "text": "Tất cả ánh mắt giờ sẽ hướng về trận chung kết của Nguyễn Thị Tâm và hành trình tiếp theo của cầu mây, những nơi thể thao Việt Nam còn nguyên cơ hội bổ sung những tấm huy chương giá trị tại ASIAD 2026."
+    },
+    {
+     "t": "p",
+     "text": "Sau ngày thi đấu 30/9, đoàn Việt Nam đứng thứ 20 với 2 huy chương Vàng, 1 huy chương Vàng, 18 huy chương Đồng, tổng cộng 21 huy chương./."
+    },
+    {
+     "t": "h",
+     "text": "ASIAD 2026: Hạ nhà vô địch thế giới, võ sỹ Nguyễn Thị Tâm vào chung kết Boxing"
+    },
+    {
+     "t": "p",
+     "text": "Võ sỹ Nguyễn Thị Tâm đã ghi tên mình vào chung kết hạng cân 51kg nữ môn Boxing nữ tại ASIAD 2026 sau khi có chiến thắng thuyết phục trước nhà vô địch thế giới."
+    }
+   ]
+  },
+  {
+   "id": "8cf02cf45320",
+   "order": 16,
+   "slug": "tim-hieu-taxi-bay-khong-nguoi-lai-sap-thu-nghiem-tai-viet-na",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tìm hiểu \"taxi bay\" không người lái sắp thử nghiệm tại Việt Nam",
+   "sapo": "(Dân trí) - Mẫu \"taxi bay\" điện tự hành EH216-S không cần phi công sắp được thử nghiệm tại Hà Nội.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/tim-hieu-taxi-bay-khong-nguoi-lai-sap-thu-nghiem-tai-viet-nam-20260930151815635.htm",
+   "published": "2026-10-01T00:10:34+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 746,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-01/8cf02cf45320-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-01/8cf02cf45320-0.jpg",
+     "caption": "EH216-S là phương tiện bay điện cất và hạ cánh thẳng đứng (Ảnh: EHang).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-01/8cf02cf45320-1.jpg",
+     "caption": "EH216-S bay thử nghiệm (Ảnh: EHang).",
+     "w": 1080,
+     "h": 608
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Mẫu \"taxi bay\" điện tự hành EH216-S không cần phi công sắp được thử nghiệm tại Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Sáng 28/9, Sở Khoa học và Công nghệ Hà Nội cùng Công ty cổ phần Thương mại đầu tư và Công nghệ Hưng Việt ký thỏa thuận hợp tác nghiên cứu, thử nghiệm có kiểm soát mô hình phát triển kinh tế không gian tầm thấp."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những nội dung đáng chú ý của thỏa thuận là đề xuất thử nghiệm có kiểm soát phương tiện bay EH216-S, thường được gọi là \"taxi bay\", phục vụ vận chuyển hành khách và hàng hóa."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Taxi bay 2 chỗ, không cần phi công"
+    },
+    {
+     "t": "p",
+     "text": "Mẫu phương tiện được đề xuất do EHang, một công ty của Trung Quốc phát triển. EH216-S là phương tiện bay điện cất và hạ cánh thẳng đứng (eVTOL), được hãng xếp vào nhóm máy bay chở người tự hành, không có phi công trên khoang."
+    },
+    {
+     "t": "p",
+     "text": "Theo thông số được công bố, EH216-S có chiều cao 1.93m, chiều rộng 5.73m và khối lượng cất cánh tối đa 620kg. Phương tiện có tốc độ thiết kế tối đa 130km/h và tầm bay 30km."
+    },
+    {
+     "t": "p",
+     "text": "EH216-S có hai chỗ ngồi, dành cho hành khách thay vì bố trí một ghế cho phi công. Thiết kế của phương tiện khá khác biệt so với máy bay thông thường khi phần cabin được bao quanh bởi các cánh tay mang hệ thống cánh quạt. Doanh nghiệp này sử dụng cấu hình cánh quạt đồng trục, kết hợp với hệ thống động lực điện phân tán."
+    },
+    {
+     "t": "p",
+     "text": "Dòng EH216 sử dụng 16 cánh quạt được dẫn động bởi 16 động cơ độc lập, bố trí trên 8 cánh tay. Cấu hình này tạo lực nâng trực tiếp để phương tiện có thể cất và hạ cánh theo phương thẳng đứng, đồng thời tạo ra nhiều lớp dự phòng cho hệ thống động lực."
+    },
+    {
+     "t": "p",
+     "text": "Dòng EH216 hiện gồm nhiều phiên bản phục vụ các mục đích khác nhau, trong đó EH216-S được thiết kế để chở hành khách, EH216-F phục vụ nhiệm vụ chữa cháy và EH216-L hướng tới vận chuyển hàng hóa, logistics."
+    },
+    {
+     "t": "p",
+     "text": "Về cách vận hành, EH216-S không được thiết kế để hành khách tự điều khiển. Các chuyến bay được thiết lập theo tuyến bay định trước, phương tiện sử dụng hệ thống dẫn đường thông minh và định vị GNSS để thực hiện hành trình từ điểm này đến điểm khác mà không cần phi công. Hệ thống cũng được thiết kế để cất, hạ cánh thẳng đứng mà không cần đường băng hay cơ sở hạ tầng sân bay lớn."
+    },
+    {
+     "t": "p",
+     "text": "Đồng thời, \"taxi bay\" này sử dụng động cơ điện, đi kèm hệ thống pin thông minh và hỗ trợ sạc nhanh."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều lớp dự phòng cho một phương tiện không có phi công"
+    },
+    {
+     "t": "p",
+     "text": "Theo nhà sản xuất, các bộ phận quan trọng như hệ thống điều khiển bay và hệ thống động lực có nhiều lớp dự phòng. Khi một bộ phận gặp vấn đề, hệ thống dự phòng có thể tiếp quản. Máy bay đồng thời sử dụng nhiều hệ thống điều khiển bay và cảm biến, kết hợp cơ chế bỏ phiếu để tăng độ chính xác và ổn định của dữ liệu trong các tình huống phức tạp."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "EH216-S còn được trang bị hệ thống fail-safe tích hợp trong hệ thống điều khiển bay - hệ thống này liên tục theo dõi tình trạng của phương tiện theo thời gian thực, sau đó xác định liệu máy bay có tiếp tục hành trình hay thực hiện hạ cánh khẩn cấp an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Về thiết kế, doanh nghiệp sử dụng vật liệu composite sợi carbon, ghế công thái học lấy cảm hứng từ ghế xe đua F1, cửa kiểu cánh chim."
+    },
+    {
+     "t": "p",
+     "text": "EH216-S đã trải qua quá trình chứng nhận kéo dài hơn 1.000 ngày tại Trung Quốc, với hơn 500 hạng mục đánh giá và hơn 40.000 chuyến bay được thực hiện trong quá trình thử nghiệm và chứng nhận."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 10/2023, mẫu eVTOL này được Cục Hàng không Dân dụng Trung Quốc (CAAC) cấp Chứng nhận loại (Type Certificate). Đến năm 2024, doanh nghiệp này được cấp Chứng nhận sản xuất (Production Certificate)."
+    },
+    {
+     "t": "p",
+     "text": "Một thời gian sau, những đơn vị khai thác EH216-S đầu tiên được cấp Chứng nhận khai thác hàng không (Air Operator Certificate), mở đường cho hoạt động khai thác thương mại loại máy bay này tại Trung Quốc."
+    }
+   ]
+  },
+  {
+   "id": "1b47f97ab55e",
+   "order": 17,
+   "slug": "nasa-cung-cac-doi-tac-quoc-te-day-manh-nghien-cuu-trong-cay",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA cùng các đối tác quốc tế đẩy mạnh nghiên cứu trồng cây trong không gian",
+   "sapo": "NASA, CSA (Cơ quan Vũ trụ Canada) và Trung tâm Hàng không Vũ trụ Đức đã ký một bản ghi nhớ hợp tác nhằm bắt đầu công việc chuẩn bị, phối hợp cho một mô hình thử nghiệm trên Trái Đất, để tìm hiểu cách trồng cây trên Mặt Trăng.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
+   "published": "2026-09-30T18:38:20+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 274,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA, International Partners Advance Work on Space Crops",
+   "images": [
+    {
+     "src": "img/2026-10-01/1b47f97ab55e-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1859
+    },
+    {
+     "src": "img/2026-10-01/1b47f97ab55e-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1859
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "NASA, CSA (Cơ quan Vũ trụ Canada) và Trung tâm Hàng không Vũ trụ Đức đã ký một bản ghi nhớ hợp tác nhằm bắt đầu công việc chuẩn bị, phối hợp cho một mô hình thử nghiệm trên Trái Đất, để tìm hiểu cách trồng cây trên Mặt Trăng. Đây là việc rất quan trọng, giúp các nhà du hành vũ trụ có thể đi xa hơn và ở lại trong không gian lâu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình thử nghiệm mặt đất của Mô-đun Nông nghiệp Mặt Trăng (Lunar Agriculture Module-Ground Test Demonstrator) nhằm phát triển các công nghệ cần thiết để trồng cây trong không gian, và nghiên cứu cách cây phát triển trong bầu khí quyển cùng môi trường được kiểm soát, giống với điều kiện dự kiến tại các nhiệm vụ ở Trạm Mặt Trăng (Moon Base). Thông qua Trạm Mặt Trăng, NASA và các đối tác sẽ xây dựng cơ sở hạ tầng để duy trì sự có mặt lâu dài của con người gần Cực Nam Mặt Trăng, vừa thúc đẩy khoa học và công nghệ, vừa chuẩn bị cho các nhiệm vụ đưa con người lên Sao Hỏa trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Cây trồng trong không gian sẽ cung cấp cho các phi hành đoàn đi vào không gian sâu nguồn thực phẩm toàn phần giàu dinh dưỡng, giúp bữa ăn của họ đa dạng hơn. Cây cũng có thể hấp thụ khí carbon dioxide, tạo ra oxy và tái chế nước. Những khả năng này sẽ càng trở nên quan trọng khi các nhiệm vụ của con người đi xa hơn nữa khỏi hành tinh của chúng ta."
+    },
+    {
+     "t": "img",
+     "i": 1
+    }
+   ]
+  },
+  {
+   "id": "13ba6958140e",
+   "order": 18,
+   "slug": "xem-plasma-bung-no-ruc-ro-sac-mau-ben-trong-lo-phan-ung-nhie",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Xem plasma bùng nổ rực rỡ sắc màu bên trong lò phản ứng nhiệt hạch với tốc độ 16.000 khung hình/giây",
+   "sapo": "Khi tokamak khởi động, một điều kỳ diệu xảy ra bên trong lớp vỏ gia cố của nó.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/watch-plasma-erupt-in-full-color-inside-a-fusion-reactor-at-16000-fps",
+   "published": "2026-10-01T01:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1628,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Watch Plasma Erupt in Full Color Inside a Fusion Reactor at 16,000 FPS",
+   "images": [
+    {
+     "src": "img/2026-10-01/13ba6958140e-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-01/13ba6958140e-0.jpg",
+     "caption": "Hình ảnh tốc độ cao, có màu, ghi lại cảnh plasma tương tác với một thanh chắn làm từ lithium trong tokamak T-11M của Nga. Những vệt sáng chính là các giọt lithium bị bắn ra từ thanh chắn trong lúc xảy ra sự mất ổn định, di chuyển với tốc độ khoảng 100 mét mỗi giây. (Lazarev và cộng sự, Fusion Eng. Des., 2016)",
+     "w": 642,
+     "h": 1036
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khi tokamak khởi động, một điều kỳ diệu xảy ra bên trong lớp vỏ gia cố của nó."
+    },
+    {
+     "t": "p",
+     "text": "Plasma sinh ra từ hydro nặng bừng nở thành một màu hồng rực rỡ, cuộn trào và uốn lượn quanh buồng chứa hình chiếc bánh donut."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, những hạt lithium nhỏ xíu rơi vào vùng xoáy dữ dội đó, lấp lánh như bụi tiên màu đỏ thẫm trước khi bùng lên thành những vệt sáng vàng xanh rực rỡ."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ một chiếc máy quay màu tốc độ cao, chúng ta có thể quan sát toàn bộ quá trình này khi plasma nóng lên bên trong cỗ máy ST40 của Tokamak Energy, tạo ra một số điều kiện mà các tokamak trong tương lai sẽ dùng để làm các hạt nhân nguyên tử va chạm vào nhau, sinh ra năng lượng nhiệt hạch (fusion energy) có thể một ngày nào đó cấp điện cho cả thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng điều kỳ diệu ở đây không chỉ nằm ở vẻ đẹp của cảnh tượng này."
+    },
+    {
+     "t": "p",
+     "text": "Nhiệt hạch plasma còn một chặng đường dài trước khi sẵn sàng ứng dụng thực tế, và việc quan sát đường đi của những tia lithium rực sáng có thể giúp các nhà vật lý vượt qua một trong những trở ngại lớn nhất của công nghệ này: làm sao để thoát an toàn lượng nhiệt khổng lồ thoát ra từ plasma nhiệt hạch."
+    },
+    {
+     "t": "p",
+     "text": "Một tokamak cần giữ plasma ở nhiệt độ hàng triệu độ để ép các hạt nhân nguyên tử lại gần nhau."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng việc giữ plasma như vậy không hề dễ dàng, và một phần năng lượng khổng lồ đang cuộn xoáy bên trong chắc chắn sẽ thoát ra khỏi vùng plasma bị giam giữ."
+    },
+    {
+     "t": "p",
+     "text": "Năng lượng đó phải đi đâu đó, vì vậy các tokamak được thiết kế để dẫn càng nhiều nhiệt thoát ra càng tốt về phía các bộ phận gọi là divertor."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, các thí nghiệm tokamak diễn ra trong thời gian tương đối ngắn. Tuy nhiên, trong một nhà máy điện nhiệt hạch tương lai, các bộ phận này sẽ phải chịu đựng mức nhiệt khắc nghiệt trong thời gian dài mà không bị phá hủy nhanh chóng."
+    },
+    {
+     "t": "p",
+     "text": "Nhiệt lượng dồn vào bộ thoát nhiệt (divertor) là một vấn đề quan trọng đến mức nó trở thành một trong những yếu tố chính quyết định thiết kế của các nhà máy điện tokamak hình cầu trong tương lai. Trong các thí nghiệm trên ST40, các nhà nghiên cứu đã đo được dòng nhiệt cao tới 150 megawatt trên mỗi mét vuông."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, việc thoát nhiệt là một trong những vấn đề mà các nhà nghiên cứu đang dùng ST40 để tìm hiểu – kể cả việc xem liệu bản thân plasma có thể được \"thuyết phục\" để giúp giải quyết vấn đề này hay không."
+    },
+    {
+     "t": "p",
+     "text": "Tất nhiên, các tokamak đã được trang bị camera tốc độ cao, độ phân giải cao gần như từ khi tokamak mới ra đời."
+    },
+    {
+     "t": "p",
+     "text": "Việc quay hình ảnh màu tốc độ cao cũng không phải là điều hoàn toàn mới: một camera màu đã được lắp đặt trên tokamak T-11M của Nga vào năm 2014, như mô tả trong một bài báo khoa học năm 2016."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, bài báo đó đã chỉ ra một trở ngại đáng kể. Dù camera cũng theo dõi lithium ở ranh giới của plasma, nó chỉ hoạt động ở tốc độ 1.000 khung hình/giây – theo các nhà nghiên cứu, tốc độ này không đủ nhanh để theo dõi sự biến đổi của các sợi lithium theo thời gian. Họ cho biết, để làm được điều đó cần tốc độ hơn 10.000 khung hình/giây."
+    },
+    {
+     "t": "p",
+     "text": "Chiếc camera hướng vào bên trong ST40 ghi hình ở tốc độ 16.000 khung hình/giây."
+    },
+    {
+     "t": "p",
+     "text": "Và đây là những gì nó đang tìm kiếm."
+    },
+    {
+     "t": "p",
+     "text": "Thông thường, các tạp chất trong dòng plasma di chuyển bên trong lò phản ứng nhiệt hạch có thể gây ra nhiều vấn đề nghiêm trọng, khiến nhiệt lượng bị tỏa ra nhanh hơn, làm nguội plasma và có thể cản trở các điều kiện cần thiết để xảy ra phản ứng nhiệt hạch."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nếu sự làm nguội đó xảy ra đúng chỗ ở rìa của plasma, nó thực ra lại có thể là một lợi thế – nó có thể làm giảm lượng nhiệt bắn vào các bộ thoát nhiệt, trong khi phần bên trong của khối plasma hình xuyến vẫn đủ nóng để duy trì điều kiện phản ứng nhiệt hạch."
+    },
+    {
+     "t": "p",
+     "text": "Đây chính là ý tưởng đằng sau một chế độ vận hành thử nghiệm được gọi là bộ bức xạ điểm X (X-point radiator), hay XPR."
+    },
+    {
+     "t": "p",
+     "text": "Plasma được giữ chặt bởi một từ trường mạnh. Điểm X là một vùng trong từ trường đó, nằm gần bộ phận divertor, nơi từ trường tạo thành một cấu trúc đặc biệt có hình chữ X."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách khuyến khích các tạp chất tỏa năng lượng ra xung quanh vùng này, các nhà vật lý hy vọng có thể làm mát plasma trước khi nó chạm tới bộ phận divertor, giảm bớt sự \"hành hạ\" mà các bộ phận này phải chịu đựng, mà không làm mát phần lõi đang tạo ra phản ứng nhiệt hạch."
+    },
+    {
+     "t": "p",
+     "text": "Lithium là một trong những vật liệu mà các nhà vật lý đã thử nghiệm để xem việc làm mát đó có thể được kiểm soát như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Và đó chính là điều mà những màu sắc rực rỡ ấy đang thể hiện."
+    },
+    {
+     "t": "p",
+     "text": "Điều nghe có vẻ ngược đời là: phần plasma nhiều màu sắc mà camera chụp được không phải là phần nóng nhất của ST40. Lõi nóng đến mức tạo ra phản ứng nhiệt hạch quá nóng nên không thể phát ra ánh sáng nhìn thấy được mà chúng ta đang quan sát; thay vào đó, camera cho thấy những gì đang diễn ra ở vùng plasma tương đối mát hơn nằm ở rìa."
+    },
+    {
+     "t": "p",
+     "text": "Ánh sáng hồng phát ra từ khí deuterium được đưa vào trong lò tokamak, loại khí này phát ra kết hợp các bước sóng màu đỏ và xanh."
+    },
+    {
+     "t": "p",
+     "text": "Khi những hạt lithium nhỏ bé, cỡ hạt cát, lần đầu đi vào các vùng ngoài mát hơn đó, các nguyên tử lithium trung hòa bị kích thích và phát sáng màu đỏ thẫm rực rỡ."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, khi lithium xuyên sâu hơn vào vùng plasma nóng hơn và đặc hơn, các nguyên tử của nó mất một electron và trở thành ion lithium mang điện tích dương. Những ion Li⁺ này phát ra ánh sáng vàng-xanh lục đặc trưng."
+    },
+    {
+     "t": "p",
+     "text": "Và vì giờ đây chúng mang điện tích, các ion lithium di chuyển theo từ trường – biến những vệt vàng-xanh lục rực rỡ ấy thành dấu vết phát sáng của các đường từ trường vô hình đang giữ chặt plasma."
+    },
+    {
+     "t": "p",
+     "text": "Một bản đồ nhiệt độ của lò tokamak có thể tương đối dễ thu được, ngay cả khi chỉ bằng hình ảnh đen trắng. Điều mà camera màu mang lại cho các nhà vật lý là một cách để theo dõi các nguyên tử và ion khác nhau trong các điều kiện plasma khác nhau, từ đó cho thấy lithium di chuyển tới đâu và xuyên sâu đến mức nào."
+    },
+    {
+     "t": "p",
+     "text": "Kết hợp với phương pháp quang phổ (spectroscopy), vốn xác định chính xác bước sóng ánh sáng được phát ra, những đoạn phim tốc độ cao này cho các nhà vật lý thêm một cách để xem liệu các tạp chất có đang phát năng lượng đúng ở nơi họ muốn hay không."
+    },
+    {
+     "t": "p",
+     "text": "Nếu không đúng như vậy, các nhà vật lý có thể thay đổi điều kiện thí nghiệm và thử lại, từ đó học được cách giữ cho quá trình làm mát diễn ra đúng chỗ mong muốn – kiến thức này cuối cùng có thể định hình cách các lò phản ứng nhiệt hạch tương lai xử lý lượng nhiệt khổng lồ của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Và đã có những dấu hiệu ban đầu cho thấy phương pháp XPR có thể thành công."
+    },
+    {
+     "t": "p",
+     "text": "Trong các kết quả sơ bộ từ những thí nghiệm trên ST40, các nhà nghiên cứu cho biết họ đã có thể tạo ra một vùng bức xạ di chuyển ngang qua điểm X (X-point) và làm nguội đáng kể vùng rìa của plasma. Khi điều này xảy ra, các phép đo cho thấy lượng nhiệt đến bộ phận divertor giảm xuống."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho rằng phần lớn bức xạ trong những thí nghiệm đó đến từ carbon bị bong ra từ thành của tokamak, chứ không phải từ lithium được đưa vào có chủ đích. Nhưng các thí nghiệm sử dụng lithium và neon để giảm thêm tải nhiệt hiện đang được tiến hành."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình máy tính cho thấy lithium có thể đặc biệt hữu ích vì có khả năng tập trung nó quanh khu vực divertor, nơi cần tác dụng làm mát của nó, mà không để quá nhiều lithium trôi ngược lên trên làm suy giảm hiệu suất của lõi plasma."
+    },
+    {
+     "t": "p",
+     "text": "Và Tokamak Energy dự định đẩy ý tưởng này đi xa hơn nữa."
+    },
+    {
+     "t": "p",
+     "text": "ST40 hiện đang trải qua một đợt nâng cấp lớn để thay lớp giáp carbon bằng molypden (molybdenum), lắp đặt hệ thống phủ lithium lên các bộ phận tiếp xúc với plasma, và bổ sung các thiết bị chẩn đoán mới để xem xét kỹ những gì xảy ra ở vùng rìa plasma."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, có lẽ chúng ta sẽ được chứng kiến những sắc màu còn rực rỡ hơn nữa lung linh phát ra từ không gian đó – mang theo những thông tin có thể giúp đưa chúng ta đến gần hơn với tương lai năng lượng nhiệt hạch."
+    }
+   ]
+  },
+  {
+   "id": "32d9d99a7b02",
+   "order": 19,
+   "slug": "cung-kham-pha-vuon-thu-thien-ha-chong-len-nhau-de-tim-bui-vu",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Cùng khám phá vườn thú thiên hà chồng lên nhau để tìm bụi vũ trụ",
+   "sapo": "Các thiên hà, những tập hợp khổng lồ gồm hàng tỉ ngôi sao, khí và bụi được giữ với nhau nhờ lực hấp dẫn, rải rác khắp vũ trụ bao la. Nhưng thỉnh thoảng,",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+   "published": "2026-09-30T21:19:33+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 587,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Help Overlap Zoo Reveal Cosmic Dust",
+   "images": [
+    {
+     "src": "img/2026-10-01/32d9d99a7b02-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1264
+    },
+    {
+     "src": "img/2026-10-01/32d9d99a7b02-0.jpg",
+     "caption": "Hai thiên hà chồng lên nhau trên nền trời tối đầy những ngôi sao và thiên hà xa xôi. Một thiên hà sáng và mịn ở bên trái chồng lên một phần lên thiên hà xoắn ốc nhìn thẳng mặt ở bên phải, với các nhánh xoắn lốm đốm những vùng màu xanh và hồng.",
+     "w": 1200,
+     "h": 1185
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các thiên hà, những tập hợp khổng lồ gồm hàng tỉ ngôi sao, khí và bụi được giữ với nhau nhờ lực hấp dẫn, rải rác khắp vũ trụ bao la. Nhưng thỉnh thoảng, lại xảy ra một sự trùng hợp thú vị: hai thiên hà thẳng hàng với nhau khi nhìn từ Trái Đất (hoặc từ một kính viễn vọng không gian) và trông như chồng lên nhau trên bầu trời. Những cặp thiên hà chồng lên nhau hiếm hoi này cho các nhà thiên văn học cơ hội nghiên cứu một thứ vốn rất khó quan sát: bụi bên trong một trong những vật thể vũ trụ xa xôi đó. Đây chính là trọng tâm của dự án mới mang tên Overlap Zoo của NASA."
+    },
+    {
+     "t": "p",
+     "text": "Hãy tưởng tượng thiên hà ở phía sau giống như một chiếc đèn pin vũ trụ, chiếu sáng xuyên qua thiên hà ở gần hơn. Lớp bụi được chiếu sáng từ phía sau tạo ra những hình bóng tối, giống như bóng đổ trên màn hình. Bằng cách nghiên cứu những hình bóng này, các nhà thiên văn học có thể lập bản đồ cách bụi phân bố trong các thiên hà và tìm hiểu cách nó chặn, tán xạ và làm mờ ánh sáng sao khi di chuyển trong không gian. Những phép đo về cách bụi ảnh hưởng đến ánh sáng thậm chí còn giúp các nhà thiên văn học tính toán chính xác hơn khoảng cách tới những vật thể xa xôi."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, trước khi có thể nghiên cứu các cặp thiên hà và lớp bụi của chúng, trước tiên chúng ta cần tìm ra chúng đã! Dự án Overlap Zoo đang cần sự giúp đỡ của bạn trong việc tìm kiếm này."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi ngày càng có nhiều quan sát mới và tốt hơn về các thiên hà, việc phân loại từng cặp thiên hà ứng viên trở nên vô cùng khó khăn đối với các nhà thiên văn học,\" Trevor Butrum, trưởng dự án Overlap Zoo kiêm nghiên cứu sinh, cho biết. \"Sự giúp đỡ của các bạn vô cùng quý giá trong việc tạo ra danh mục lớn nhất và sạch nhất về các cặp thiên hà chồng lên nhau để phục vụ cho những phân tích sau này.\""
+    },
+    {
+     "t": "p",
+     "text": "Khi tham gia làm tình nguyện viên trong dự án Overlap Zoo, bạn sẽ xem những bức ảnh mà các tình nguyện viên của dự án Galaxy Zoo đã xác định là có khả năng chứa các thiên hà chồng lên nhau. Dự án Overlap Zoo sẽ hướng dẫn bạn cách xác nhận sự tồn tại của các cặp thiên hà trong những bức ảnh này, phân loại các đặc điểm chính của từng thiên hà, và đánh dấu đường viền của chúng. Bạn sẽ vừa học vừa làm, phân loại bao nhiêu bức ảnh tùy thích. Những đóng góp của bạn sẽ giúp xây dựng danh mục quy mô lớn đầu tiên về các cặp thiên hà phù hợp cho việc nghiên cứu bụi vũ trụ, và giúp tạo ra bước tiến lớn về độ chính xác trong các ước tính thiên văn học."
+    },
+    {
+     "t": "p",
+     "text": "Hãy truy cập Overlap Zoo và bắt đầu phân loại các thiên hà ngay hôm nay. Bạn không cần có kinh nghiệm trước đó - chỉ cần sự tò mò và vài phút thời gian rảnh. Những quan sát của bạn sẽ giúp khám phá những bí mật ẩn giấu trong những lần thẳng hàng vũ trụ hiếm hoi này!"
+    },
+    {
+     "t": "img",
+     "i": 1
+    }
+   ]
+  },
+  {
+   "id": "a2c974f2ab73",
+   "order": 20,
+   "slug": "nasa-bo-sung-cac-nghien-cuu-khoa-hoc-moi-cho-can-cu-mat-tran",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA bổ sung các nghiên cứu khoa học mới cho Căn cứ Mặt Trăng",
+   "sapo": "Ghi chú của biên tập viên: Thông cáo này đã được cập nhật vào ngày 30/9/2026 để sửa lại tên của thiết bị DISCO.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+   "published": "2026-09-30T21:11:23+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1230,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Adds New Science Investigations for Moon Base",
+   "images": [
+    {
+     "src": "img/2026-10-01/a2c974f2ab73-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ghi chú của biên tập viên: Thông cáo này đã được cập nhật vào ngày 30/9/2026 để sửa lại tên của thiết bị DISCO."
+    },
+    {
+     "t": "p",
+     "text": "NASA đã chọn ra ba nghiên cứu khoa học mới cùng các bộ thiết bị đi kèm nhằm mở rộng hiểu biết của chúng ta về Mặt Trăng và giúp mở đường cho việc xây dựng tiền đồn đầu tiên của loài người trên Mặt Trăng, gọi là Căn cứ Mặt Trăng (Moon Base)."
+    },
+    {
+     "t": "p",
+     "text": "Bộ thiết bị và công nghệ khoa học này được lựa chọn thông qua chương trình Payloads and Research Investigations on the Surface of the Moon (PRISM) của NASA, và sẽ được đưa lên bề mặt Mặt Trăng thông qua sáng kiến CLPS (Commercial Lunar Payload Services - Dịch vụ vận chuyển hàng hóa Mặt Trăng thương mại), nằm trong khuôn khổ Chương trình Căn cứ Mặt Trăng của cơ quan này. Các thiết bị sẽ giúp các nhà nghiên cứu hiểu rõ hơn về tài nguyên trên Mặt Trăng, lập bản đồ những nơi trú ẩn tự nhiên và đánh giá các nguy cơ từ môi trường, từ đó đặt nền móng cho sự hiện diện an toàn và lâu dài của con người theo các chương trình Artemis và Căn cứ Mặt Trăng của NASA."
+    },
+    {
+     "t": "p",
+     "text": "\"NASA Science đang xây dựng một cuốn cẩm nang sinh tồn liên hành tinh hoàn chỉnh nhất, để đảm bảo khoa học sẽ đi trước, đặt chân lên bề mặt Mặt Trăng trước tiên, nhằm cung cấp cho các phi hành đoàn tương lai của chúng ta những thông tin, nguồn lực và biện pháp an toàn quan trọng cần thiết để có thể sống sót qua đêm trên Mặt Trăng,\" bà Nicky Fox, phó quản trị viên phụ trách Ban Giám đốc Sứ mệnh Khoa học tại Trụ sở NASA ở Washington, cho biết. \"Những lựa chọn PRISM này sẽ trực tiếp giúp NASA giảm thiểu rủi ro cho các phi hành gia của chúng ta, đồng thời tối đa hóa các mục tiêu của cơ quan khi chúng ta xây dựng tiền đồn đầu tiên của loài người trên Mặt Trăng, chuẩn bị cho việc đưa những phi hành gia đầu tiên lên Sao Hỏa.\""
+    },
+    {
+     "t": "p",
+     "text": "Ba bộ thiết bị được chọn là:"
+    },
+    {
+     "t": "p",
+     "text": "Trạm quan trắc môi trường Mặt Trăng - Cực Nam (Lunar Environment Monitoring Station – South Pole, viết tắt LEMS-SP):"
+    },
+    {
+     "t": "li",
+     "text": "Bộ thiết bị tự động LEMS-SP sẽ hoạt động như một trạm quan trắc môi trường và nguy cơ lâu dài. Thiết bị này được thiết kế để giúp dựng nên bức tranh về môi trường Mặt Trăng bằng cách theo dõi các thiên thạch nhỏ rơi xuống (micrometeoroid) và đo lượng các chất dễ bay hơi, tức những vật chất dễ chuyển thành khí, trôi dạt vào lớp khí quyển mỏng bên ngoài của Mặt Trăng. Nhờ sử dụng một máy đo địa chấn chu kỳ ngắn để phát hiện các chấn động, thiết bị này có thể cung cấp những đánh giá nguy cơ quan trọng, cần thiết để đảm bảo an toàn vật lý cho các trang thiết bị của Căn cứ Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Chủ nhiệm nghiên cứu: Tiến sĩ Mehdi Benna, Đại học Maryland, Baltimore County"
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu địa vật lý để lập bản đồ lòng Mặt Trăng (Geophysical Investigation for Mapping Lunar Interior, viết tắt GIMLI):"
+    },
+    {
+     "t": "li",
+     "text": "Thiết bị GIMLI sẽ được triển khai tại hố Marius Hills Pit trên bề mặt Mặt Trăng để tìm kiếm các đường hầm dung nham (lava tube) nằm sâu dưới lòng đất, giúp chúng ta hiểu rõ hơn về các quá trình hoạt động núi lửa cơ bản trên Mặt Trăng. Thiết bị sẽ quét sâu dưới bề mặt Mặt Trăng để xem liệu hố Marius Hills Pit có dẫn vào một đường hầm dung nham lớn nằm dưới lòng đất hay không. Nếu đúng như vậy, những khoảng không gian tự nhiên dưới lòng đất này có thể trở thành nơi trú ẩn sẵn có cho các phi hành gia tương lai, giúp họ tránh khỏi nhiệt độ khắc nghiệt và bức xạ có hại - đây là nền tảng quan trọng để con người có thể sinh sống an toàn và lâu dài trên Mặt Trăng. Việc xác nhận những khoảng trống này ngay từ bây giờ có thể làm thay đổi kế hoạch xây dựng nơi ở trong tương lai, mang lại những nơi trú ẩn tự nhiên, có sẵn, giúp ổn định nhiệt độ và che chắn khỏi bức xạ ion hóa nguy hiểm cũng như sự va đập của các thiên thạch nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Nhà khoa học chủ trì: Tiến sĩ Nathaniel Putzig, Viện Khoa học Hành tinh"
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị chụp ảnh độ sâu kèm quang học quang phổ và màu sắc (Depth Imager with Spectral and Color Optics - DISCO):"
+    },
+    {
+     "t": "li",
+     "text": "Thiết bị DISCO sẽ cung cấp những đo đạc trực tiếp đầu tiên ngay trên mặt đất về lượng băng ẩn giấu trong các hố siêu lạnh (micro-cold traps) trên Mặt Trăng, đồng thời đặt nền tảng cho việc sử dụng tài nguyên Mặt Trăng và các hoạt động trên bề mặt. Thiết bị này sẽ nghiên cứu cách bề mặt Mặt Trăng phản ứng ra sao, từ việc khí thải tên lửa làm xáo trộn mặt đất như thế nào cho đến việc mặt đất ổn định ra sao để di chuyển, đồng thời xác định chính xác băng tồn tại ở đâu và có bao nhiêu. Những thông tin này gộp lại sẽ giúp NASA thiết kế các hoạt động trên bề mặt một cách an toàn và phát triển các công nghệ cần thiết để biến băng thành nguồn tài nguyên sử dụng được cho Căn cứ Mặt Trăng trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Nhà khoa học chủ trì: Tiến sĩ Ariel Deutsch, Trung tâm Nghiên cứu Ames của NASA tại Silicon Valley, California"
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi lựa chọn mới của PRISM lại giúp chúng tôi mạnh hơn trong việc đưa những nghiên cứu khoa học đầy tham vọng và mang tính đột phá lên bề mặt Mặt Trăng,\" ông Brad Bailey, giám đốc Văn phòng Tích hợp Chiến lược Khoa học Thăm dò thuộc Ban Giám đốc Sứ mệnh Khoa học của NASA, cho biết. \"Những nghiên cứu này là minh chứng cho thấy chương trình Artemis và Căn cứ Mặt Trăng đang mở rộng biên giới khám phá Mặt Trăng, thúc đẩy các công nghệ sáng tạo, giúp chúng ta hiểu sâu hơn về môi trường Mặt Trăng, và mở đường cho các sứ mệnh có phi hành gia trong tương lai.\""
+    },
+    {
+     "t": "p",
+     "text": "NASA đang tăng tần suất các sứ mệnh lên Mặt Trăng để xây dựng Căn cứ Mặt Trăng, triển khai các nghiên cứu khoa học và thiết bị công nghệ góp phần khẳng định vị trí dẫn đầu về khoa học của Mỹ, củng cố sự hiện diện lâu dài trên Mặt Trăng, và thúc đẩy việc con người khám phá không gian trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình CLPS của NASA hỗ trợ cho Chương trình Căn cứ Mặt Trăng, khi cơ quan này hợp tác với các công ty Mỹ để đưa các thiết bị khoa học, thăm dò và công nghệ lên bề mặt và quỹ đạo Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/lunar-science"
+    },
+    {
+     "t": "p",
+     "text": "-hết-"
+    },
+    {
+     "t": "p",
+     "text": "Tiffany Blake, Trụ sở NASA, Washington, điện thoại 202-358-2546, email tiffany.n.blake@nasa.gov"
+    }
+   ]
+  }
+ ]
+}
