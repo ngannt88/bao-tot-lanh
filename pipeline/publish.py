@@ -8,8 +8,32 @@ log = setup_logging()
 IMG_PUB = SITE_DATA / "img"
 
 
-def _arrange(items: list[dict], cfg: dict) -> list[dict]:
-    """Xếp bài theo chuyên mục: bài nổi bật đứng đầu, phần còn lại gom từng mục.
+def _prev_head_section(day: str) -> str | None:
+    """Mục của bài nổi bật số báo gần nhất TRƯỚC ngày này (để hôm nay đổi mục)."""
+    days = sorted(p.stem for p in ISSUES.glob("????-??-??.json") if p.stem < day)
+    if not days:
+        return None
+    arts = read_json(ISSUES / f"{days[-1]}.json", {}).get("articles") or []
+    return arts[0].get("section") if arts else None
+
+
+def section_order(cfg: dict, day: str) -> list[str]:
+    """Thứ tự chuyên mục trên trang chủ XOAY theo ngày, để không phải ngày nào
+    thể thao cũng đứng đầu rồi đến khoa học. Mục nào hôm đó không có bài thì app tự bỏ qua."""
+    from datetime import date
+    ids = [s["id"] for s in cfg["sections"]]
+    k = date.fromisoformat(day).toordinal() % len(ids)
+    return ids[k:] + ids[:k]
+
+
+def _arrange(items: list[dict], cfg: dict, day: str) -> list[dict]:
+    """Chọn bài nổi bật rồi gom phần còn lại theo chuyên mục.
+
+    Bài nổi bật = bài ĐIỂM CAO NHẤT của số báo, nhưng KHÁC MỤC với bài nổi bật hôm qua
+    (nếu không có bài nào khác mục thì đành lấy bài điểm cao nhất). Trước đây bài nổi bật
+    là bài đầu tiên máy chọn, mà máy chọn mỗi mục bắt buộc một bài theo thứ tự trong
+    config, nên ngày nào tít đầu cũng là thể thao. Bài cùng điểm: ưu tiên bài có ảnh,
+    rồi ưu tiên mục đứng trước trong thứ tự xoay của ngày hôm đó.
 
     Phải xếp NGAY Ở ĐÂY chứ không chỉ ở app: giọng đọc chỉ làm cho mấy bài đầu danh
     sách. Nếu app tự xếp lại thì 10 bài có giọng nằm rải rác, con đọc bài thứ ba lại
@@ -17,13 +41,18 @@ def _arrange(items: list[dict], cfg: dict) -> list[dict]:
     """
     if len(items) < 3:
         return items
-    order = [s["id"] for s in cfg["sections"]]
+    order = section_order(cfg, day)
     rank = lambda a: (order.index(a["section"]) if a.get("section") in order else 999)
-    head, rest = items[:1], items[1:]
+    prev = _prev_head_section(day)
+    by_score = sorted(items, key=lambda a: (-(a.get("score") or 0), 0 if a.get("images") else 1, rank(a)))
+    head = next((a for a in by_score if a.get("section") != prev), by_score[0])
+    rest = [a for a in items if a is not head]
     rest.sort(key=lambda a: (rank(a), -(a.get("score") or 0)))
-    out = head + rest
+    out = [head] + rest
     for i, a in enumerate(out, 1):
         a["order"] = i
+    log.info("Bài nổi bật: [%s] %s (hôm trước: %s); thứ tự mục: %s",
+             head.get("section"), head.get("title", "")[:60], prev or "-", " > ".join(order))
     return out
 
 
@@ -74,11 +103,13 @@ def build_issue(day: str, ids: list[str], cfg: dict) -> dict:
             "title_original": c.get("title_original", ""),
             "images": clean, "lead": 0 if clean else None, "blocks": blocks,
         })
-    items = _arrange(items, cfg)
+    items = _arrange(items, cfg, day)
+    order_ids = section_order(cfg, day)
     issue = {
         "date": day, "paper": cfg["paper"]["name"], "tagline": cfg["paper"]["tagline"],
         "generated_at": now_vn().isoformat(timespec="seconds"),
-        "sections": [{"id": s["id"], "name": s["name"], "emoji": s["emoji"]} for s in cfg["sections"]],
+        # thứ tự mục ghi vào số báo = thứ tự xoay của ngày; app đọc đúng thứ tự này
+        "sections": [{"id": s["id"], "name": s["name"], "emoji": s["emoji"]} for s in sorted(cfg["sections"], key=lambda s: order_ids.index(s["id"]))],
         "articles": items,
     }
     write_json(ISSUES / f"{day}.json", issue)

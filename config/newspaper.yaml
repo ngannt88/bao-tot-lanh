@@ -102,12 +102,18 @@ sections:
       triển lãm, công viên, vườn thú, thủy cung, khu trải nghiệm làm gốm hay làm bánh,
       làng nghề, chợ phiên, lễ hội, phố đi bộ, địa điểm ngắm cảnh, quán có góc chơi
       cho trẻ. Bài phải nói rõ CHỖ ĐÓ CÓ GÌ để trẻ thích, đi thế nào, thời điểm nào đẹp.
-      Nơi ngoài miền Bắc chỉ lấy khi thật sự đặc biệt và trẻ em thích.
+      Phép thử: "Sáng thứ Bảy cả nhà ở Hà Nội có đi được chỗ này và về trong ngày không?"
+      Không đi được trong ngày → TỐI ĐA 5 ĐIỂM, kể cả bài hay. Nơi ngoài miền Bắc chỉ
+      lấy khi thật sự đặc biệt với trẻ em (một thủy cung khổng lồ, một công viên khủng
+      long) và phải đổi sang mục kham-pha-the-gioi vì đó không phải chỗ đi cuối tuần.
     not: >
       Bài quảng cáo trá hình: nêu giá tiền, khuyến mãi, mã giảm giá, đặt bàn, tên
       thương hiệu lặp đi lặp lại, lời khen sáo rỗng kiểu "không thể bỏ lỡ", "must try".
       Resort và khách sạn cao cấp, du lịch nước ngoài đắt đỏ, quán nhậu, quán cà phê
       chỉ để chụp ảnh sống ảo. Review do nhãn hàng tài trợ. Tin tai nạn du lịch.
+      Chuyến phượt xuyên Việt, leo núi mạo hiểm, mộ cổ và khai quật hài cốt, ẩm thực lạ
+      chỉ người lớn tò mò (cà phê mắm ruốc), tin ngành du lịch (hội thi, xúc tiến, lượng
+      khách, top điểm đến của tạp chí), lễ khai mạc và họp về du lịch.
 
   - id: "kham-pha-the-gioi"
     name: "Khám phá thế giới"
@@ -256,6 +262,18 @@ blocklist:
     - "nạp thẻ"
     - "esports"
     - "e-sports"
+  hanh-chinh:            # tin họp hành, bộ máy — nhiều ở báo địa phương (Hà Nội Mới), chặn miễn phí trước khi tốn AI
+    - "đại hội đảng"
+    - "đảng bộ"
+    - "bí thư"
+    - "UBND"
+    - "HĐND"
+    - "ủy ban nhân dân"
+    - "hội đồng nhân dân"
+    - "chấn chỉnh"
+    - "xử lý vi phạm"
+    - "lấy ý kiến"
+    - "xúc tiến"
   chinh-tri-phap-luat:
     - "khởi tố"
     - "bắt giữ"
@@ -574,6 +592,16 @@ sources:
   # Znews đổi tên miền nhưng bài vẫn nằm ở zingnews.vn → phải cho phép, nếu không bị coi là bài ngoài nguồn
   - {id: znews-du-lich,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/du-lich.rss", max_age_h: 96, allow_hosts: ["zingnews.vn"]}
   - {id: znews-am-thuc,        name: Znews,      lang: vi, section: cuoi-tuan-di-dau,   url: "https://znews.vn/rss/am-thuc.rss", max_age_h: 96, allow_hosts: ["zingnews.vn"]}
+  # ---- HÀ NỘI (thêm 25/09/2026): các báo quốc gia hầu như không viết về chỗ chơi ở Hà Nội,
+  #      nên mục "Cuối tuần đi đâu" toàn nơi xa. Hà Nội Mới là báo của thành phố, nhiều tin
+  #      chính trị nhưng mục du lịch/văn hóa có lễ hội, làng nghề, di tích quanh Hà Nội; máy chấm lọc phần còn lại.
+  #      Bảo tàng Hà Nội đăng ít (vài bài/tháng) nhưng đúng là chỗ đi cuối tuần → giữ bài tới 3 tuần.
+  - {id: hanoimoi-du-lich,     name: Hà Nội Mới, lang: vi, section: cuoi-tuan-di-dau,   url: "https://hanoimoi.vn/rss/du-lich"}
+  - {id: hanoimoi-diem-den,    name: Hà Nội Mới, lang: vi, section: cuoi-tuan-di-dau,   url: "https://hanoimoi.vn/rss/du-lich/diem-den", max_age_h: 120}
+  - {id: hanoimoi-van-hoa,     name: Hà Nội Mới, lang: vi, section: sang-tao-kien-truc, url: "https://hanoimoi.vn/rss/van-hoa"}
+  - {id: baotanghanoi,         name: Bảo tàng Hà Nội, lang: vi, section: cuoi-tuan-di-dau, url: "https://baotanghanoi.com.vn/feed/", max_age_h: 504}
+  # Thanh Niên "Chuyện lạ" thế giới: nuôi mục "Khám phá thế giới" đang trống (đất nước, kỷ lục, hiện tượng lạ)
+  - {id: thanhnien-chuyen-la,  name: Thanh Niên, lang: vi, section: kham-pha-the-gioi,  url: "https://thanhnien.vn/rss/the-gioi/chuyen-la.rss"}
 
   # ---- Thiếu niên Tiền phong & Nhi đồng (báo viết cho trẻ em, không có RSS → lấy từ trang chuyên mục) ----
   - {id: thieunien-guong-mat,  name: Thiếu niên Tiền phong, lang: vi, section: guong-sang,        type: html, url: "https://thieunien.vn/hoc-duong/guong-mat",    link_pattern: '-tbd\d+\.html$', max_items: 15, timeout: 60}

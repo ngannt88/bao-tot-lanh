@@ -67,6 +67,11 @@ def _system(cfg: dict) -> str:
         for s in cfg["sections"])
     return (cfg["scoring"]["criteria"].strip()
             + "\n\nCHUYÊN MỤC (chọn đúng một id, hoặc 'khong-phu-hop'):\n" + secs
+            + "\n\nXẾP MỤC THEO NỘI DUNG BÀI, KHÔNG THEO TÊN NGUỒN: báo khoa học vẫn có bài về con vật, báo giáo dục "
+              "vẫn có bài về nhà phát minh. Đọc tiêu đề và mô tả rồi chọn mục đúng nhất trong danh sách trên. "
+              "Nhân vật chính là con vật, kể cả bài nghiên cứu hay hóa thạch về nó → the-gioi-dong-vat. Chuyện một "
+              "người làm ra một thứ cụ thể, hoặc hiểu về tiền → nguoi-va-viec. Đất nước, địa lý, văn hóa nước ngoài → "
+              "kham-pha-the-gioi. Chỗ đi chơi cuối tuần → cuoi-tuan-di-dau."
             + "\n\nĐẦU RA BẮT BUỘC: chỉ một JSON object, không lời dẫn, không markdown, không giải thích ngoài JSON:\n"
             + '{"scores":[{"id":"<id>","score":<số nguyên 0-10, thang 10>,"section":"<id mục>","topic":"<1-2 từ không dấu>","reason":"<≤12 chữ>","flags":[]}]}\n'
             + "Đủ mọi id đã cho. JSON NÉN một dòng, không thụt lề, không xuống dòng. "
@@ -83,7 +88,9 @@ def score_articles(articles: list[dict], cfg: dict) -> list[dict]:
 
     def _call(idx_chunk):
         idx, chunk = idx_chunk
-        rows = [{"id": a["id"], "nguon": a["source_name"], "goi_y_muc": a.get("hint_section"),
+        # KHÔNG gửi mục gợi ý của nguồn: đã thử, model chỉ chép lại nó (capybara vẫn nằm ở khoa học) nên
+        # mục Động vật, Người và Việc trống suốt. Mục của nguồn chỉ còn là dự phòng khi AI không trả mục.
+        rows = [{"id": a["id"], "nguon": a["source_name"],
                  "tieu_de": a["title"], "mo_ta": a.get("summary", "")[:300]} for a in chunk]
         prompt = ("Chấm điểm các bài sau.\n\n" + json.dumps(rows, ensure_ascii=False, indent=0)
                   + '\n\nCHỈ TRẢ JSON NÉN MỘT DÒNG {"scores":[{"id":"..","score":n,"section":"..","topic":".."},...]} thang 0–10, '
