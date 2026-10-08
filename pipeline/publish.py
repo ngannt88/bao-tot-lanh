@@ -205,18 +205,10 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
         min_score -= 1
     pool = sorted([c for c in data["candidates"] if (c.get("score") or 0) >= min_score],
                   key=lambda c: (-c["score"], c.get("age_h") or 99))
-    chosen, count, topics = [], {}, {}
-    max_topic = int(cfg.get("review", {}).get("max_same_topic", 3))
-
-    def topic_ok(c):
-        t = (c.get("topic") or "").strip()
-        return not t or topics.get(t, 0) < max_topic
+    chosen, count = [], {}      # ứng viên đã qua soát trùng (dedup.py) nên không cần chặn chủ đề ở đây
 
     def take(c, sid):
         chosen.append(c); count[sid] = count.get(sid, 0) + 1
-        t = (c.get("topic") or "").strip()
-        if t:
-            topics[t] = topics.get(t, 0) + 1
 
     for sid, s in secs.items():                      # mỗi mục bắt buộc 1 bài trước
         if s.get("required"):
@@ -241,7 +233,7 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
         if len(chosen) >= n:
             break
         sid = c.get("section")
-        if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) or not topic_ok(c):
+        if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2):
             continue
         take(c, sid)
     # Vẫn thiếu bài vì hạn mức chuyên mục chặn → nới hạn mức, thà lệch mục còn hơn số báo mỏng
@@ -252,8 +244,6 @@ def auto_pick(day: str, cfg: dict) -> list[str]:
                     break
                 sid = c.get("section")
                 if c in chosen or count.get(sid, 0) >= secs.get(sid, {}).get("max_per_issue", 2) + extra:
-                    continue
-                if extra < 99 and not topic_ok(c):
                     continue
                 take(c, sid)
             if len(chosen) >= n:

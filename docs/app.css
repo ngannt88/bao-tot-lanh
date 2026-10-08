@@ -75,7 +75,7 @@ button { font: inherit; color: inherit; }
 .progress > i { display: block; height: 100%; background: var(--accent); border-radius: 999px; transition: width .4s ease; }
 .progress-label { font-size: .8rem; color: var(--ink-2); margin-top: 6px; font-weight: 700; }
 
-.list { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
+.list { display: grid; gap: 14px; grid-template-columns: 1fr; }   /* hai cột từ 700px, xem cuối mục ảnh thật */
 .card {
   display: grid; grid-template-columns: 64px 1fr auto; gap: 14px; align-items: center;
   background: var(--paper); border-radius: var(--radius); padding: 16px 18px; text-align: left;
@@ -163,6 +163,16 @@ textarea.answer {
 .body blockquote { margin:1em 0; padding:10px 16px; border-left:5px solid var(--soft); color:var(--ink-2); font-style:italic; }
 .body p.li { padding-left:8px; }
 @media (max-width:560px) { .card { grid-template-columns:72px 1fr auto; } .card .thumb { width:72px; height:72px; } .hero-text h2 { font-size:1.2rem; } }
+/* Hai cột trên iPad/máy tính. Danh sách có số bài LẺ thì bài đầu (bài điểm cao nhất của mục) trải
+   ngang cả hàng, ảnh to hơn: không còn nửa hàng trống, mỗi mục có một bài dẫn. Cùng một luật cho
+   trang chủ lẫn trang "Các số trước". Số cột và kiểu thẻ ngang dùng CHUNG một mốc để không lệch nhau. */
+@media (min-width:700px) {
+  .list { grid-template-columns:1fr 1fr; }
+  .list > .card:first-child:nth-last-child(odd) { grid-column:1 / -1; grid-template-columns:232px 1fr auto; gap:20px; }
+  .list > .card:first-child:nth-last-child(odd) .thumb { width:232px; height:152px; }
+  .list > .card:first-child:nth-last-child(odd) h3 { font-size:1.25rem; }
+  .list > .card:first-child:nth-last-child(odd) p { font-size:.92rem; -webkit-line-clamp:3; }
+}
 
 /* ===== Chế độ tối, cỡ chữ, hộp ảnh, số cũ ===== */
 :root[data-theme="dark"] {

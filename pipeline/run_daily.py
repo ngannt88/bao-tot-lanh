@@ -74,6 +74,10 @@ def main():
         for c in unsafe:
             c["extract_error"] = "AI vòng 2: không an toàn — " + (c.get("reason2") or "")
         bad = bad + unsafe
+        # SOÁT TRÙNG: mỗi câu chuyện chỉ một bài, không kể lại chuyện đã đăng mấy ngày gần đây.
+        # Làm sau vòng 2 (bài giữ lại chắc chắn tách được, điểm chấm theo nội dung) và trước khi dịch.
+        from dedup import drop_repeats
+        ok = drop_repeats(ok, cfg, day)
     # DỊCH: chỉ dịch bài tiếng Anh đã qua vòng 2, tối đa translate.max_per_issue bài
     if ok and cfg.get("translate", {}).get("enabled") and any(c.get("lang") == "en" for c in ok):
         from translate import translate_all

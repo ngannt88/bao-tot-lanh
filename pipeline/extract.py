@@ -35,7 +35,9 @@ SITE_RULES = {
     "spectrum.ieee.org": {"body": ["div.article-detail", "div.body-text", "div.section.main-content", "article"], "sapo": ["div.intro-text-container", ".article-summary"], "author": [".social-author a", ".author a"]},
     "theconversation.com": {"body": ["div[itemprop='articleBody']", "div.content-body"], "sapo": [".entry-content > p:first-of-type"], "author": [".author-name a", "a[rel='author']"]},
     "technologyreview.com": {"body": ["div[class*='contentBody']", "div[class*='gutenbergContent__content']", "article"], "sapo": ["div[class*='contentHeader__dek']", ".dek"], "author": ["a[class*='byline']", ".byline a"]},
-    "nasa.gov":        {"body": ["div.entry-content", "article .usa-prose"], "sapo": [], "author": []},
+    # start: bài thật bắt đầu từ đoạn khớp mẫu này. Trang APOD có 3 đoạn chữ menu cố định đứng trước
+    # ("APOD", "Astronomy Picture of the Day", "Discover the cosmos!...") — cả 4 bài APOD lên báo đều dính.
+    "nasa.gov":        {"body": ["div.entry-content", "article .usa-prose"], "sapo": [], "author": [], "start": r"Explanation:\s*"},
     "sciencedaily.com": {"body": ["div#text", "div#story_text"], "sapo": ["p.lead", "h1 + p"], "author": []},
     "smithsonianmag.com": {"body": ["div.articleWrap", "div.article-body", "div.articleBody"], "sapo": [".subtitle", "h2.subtitle", ".articleSubtitle"], "author": [".author-name a", ".byline a"]},
     "bbc.co.uk":       {"body": ["main#main-content", "article", "main"], "sapo": [], "author": []},
@@ -256,6 +258,17 @@ def extract_article(a: dict, img_dir: Path, min_words: int | None = None) -> dic
             continue
         blocks.append({"t": kind, "text": text})
         text_chars += len(text)
+
+    # Bỏ CHỮ đứng trước mốc bắt đầu bài (giữ ảnh, vì ảnh APOD nằm giữa phần menu và lời giải thích),
+    # bỏ luôn nhãn mốc. Sapo chỉ là lặp lại phần menu đó thì cũng bỏ.
+    k = next((i for i, b in enumerate(blocks) if rules.get("start") and b["t"] == "p"
+              and re.match(rules["start"], b["text"])), None)
+    if k is not None:
+        preamble = [b["text"] for b in blocks[:k] if b["t"] != "img"]
+        blocks[k] = dict(blocks[k], text=re.sub(rules["start"], "", blocks[k]["text"], count=1))
+        blocks = [b for b in blocks[:k] if b["t"] == "img"] + blocks[k:]
+        if any(sapo.startswith(p[:20]) for p in preamble):
+            sapo = ""
 
     # ảnh đại diện (og:image) đưa lên đầu nếu chưa có trong bài
     if og_image and urljoin(base, og_image) not in seen_img and len(images) < MAX_IMAGES:

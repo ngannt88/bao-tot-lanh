@@ -474,7 +474,8 @@ translate:
 review:
   candidates_per_day: 40       # số ứng viên đưa ra cho cha mẹ chọn
   min_score_candidate: 6       # điểm AI tối thiểu để thành ứng viên (0–10)
-  max_same_topic: 3            # tối đa bao nhiêu bài cùng một chủ đề trong một số báo
+  no_repeat_days: 7            # mỗi câu chuyện chỉ lên báo một lần: bỏ bài kể lại chuyện đã đăng trong ngần
+                               # này ngày (và chỉ giữ một bài cho mỗi chuyện trong cùng số). Phải ≤ keep_issue_days.
   auto_publish:                # "lưới an toàn": đến giờ hẹn mà chưa duyệt → tự xuất bản
     enabled: true
     hour: "07:30"              # giờ tự xuất bản (Task Scheduler đọc khi đăng ký)
@@ -486,6 +487,7 @@ review:
 # ---------------------------------------------------------------------
 scoring:
   model_filter: "haiku"
+  model_dedup: "sonnet"          # soát trùng: so ~34 ứng viên với ~140 bài đã đăng; Haiku gộp nhầm thất thường (đã đo)
   criteria: |
     Bạn là biên tập viên tờ báo dành cho hai bé trai 7 và 11 tuổi. Bài được chọn sẽ
     hiển thị NGUYÊN VĂN cho trẻ đọc, nên chỉ chọn bài mà văn bản gốc trẻ đọc được.
@@ -544,10 +546,6 @@ scoring:
     - Kỷ lục thế giới, thứ to nhất, nhanh nhất, cổ nhất.
 
     ĐỘ TIN CẬY: nếu tiêu đề giật gân, mơ hồ, "gây sốc", "không thể tin" → trừ 2.
-
-    THÊM TRƯỜNG "topic": một hoặc hai từ không dấu mô tả CHỦ ĐỀ CỤ THỂ của bài, dùng để
-    tránh một số báo có quá nhiều bài giống nhau. Ví dụ: "trung-thu", "asiad", "khung-long",
-    "vu-tru", "robot", "meo", "bong-da-nu", "tuyen-sinh". Bài cùng sự kiện phải cùng topic.
 
 # ---------------------------------------------------------------------
 #  NGUỒN — điền sau khi dò RSS (probe_feeds.py). Chỉ giữ feed sống.

@@ -107,9 +107,10 @@ def ask_json(prompt: str, *, system: str, model: str, schema: dict | None = None
             continue
         usage = envelope.get("usage") or {}
         think = (usage.get("output_tokens_details") or {}).get("thinking_tokens", "?")
+        # input_tokens chỉ là phần lẻ ngoài bộ đệm (thường ~3); tổng đọc vào phải cộng cả hai phần bộ đệm
+        tin = sum(usage.get(k) or 0 for k in ("input_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"))
         log.info("AI %s: %.1fs, in=%s (cache %s) out=%s (suy nghĩ %s)", model, time.time() - t0,
-                 usage.get("input_tokens", "?"), usage.get("cache_read_input_tokens", "?"),
-                 usage.get("output_tokens", "?"), think)
+                 tin or "?", usage.get("cache_read_input_tokens", "?"), usage.get("output_tokens", "?"), think)
         if schema and envelope.get("structured_output") is not None:
             return envelope["structured_output"]
         try:
