@@ -10,8 +10,8 @@ bình luận, không link ra ngoài, không cuộn vô tận.
 
 ```
 6:00 hoặc khi đăng nhập Windows
-  → pipeline/run_daily.py   thu RSS → chặn từ khóa → AI chấm → chọn ứng viên → tách nguyên văn + ảnh
-                            → AI kiểm nội dung → soát trùng (mỗi câu chuyện một lần) → dịch bài tiếng Anh
+  → pipeline/run_daily.py   thu RSS → chặn từ khóa → AI chấm → soát trùng (mỗi câu chuyện một lần)
+                            → chọn ứng viên → tách nguyên văn + ảnh → AI kiểm nội dung → dịch bài tiếng Anh
   → review_server.py        mở http://localhost:8765/duyet.html
   → bố mẹ chọn bài, bấm Xuất bản   → docs/data/… được ghi và đẩy lên GitHub Pages
   → con mở app trên máy tính bảng  https://ngannt88.github.io/bao-tot-lanh/
@@ -38,13 +38,15 @@ AI chỉ chấm điểm, không viết gì, chạy hai vòng bằng Haiku:
 | Vòng | Đọc gì | Suy nghĩ ẩn | Đo thật |
 |---|---|---|---|
 | 1. Chấm thô | tiêu đề + mô tả, 40 bài/lần | tắt | 40 bài ≈ 1.200 token ra, 24 giây |
+| Soát trùng (Sonnet) | tiêu đề + mô tả ~100 bài đủ điểm và ~140 bài đã đăng 7 ngày, 1 lần/ngày | tắt | ≈ 32.000 token vào, 300 token ra, 12 giây |
 | 2. Kiểm ứng viên | 1.200 chữ đầu bài, 8 bài/lần | tối đa 2.000 | 23 bài ≈ 4.500 token ra, 26 giây |
-| Soát trùng (Sonnet) | tiêu đề + tóm tắt ~34 ứng viên và ~140 bài đã đăng 7 ngày, 1 lần/ngày | tắt | ≈ 20.000 token vào, 200 token ra, 10 giây |
 | 3. Dịch (Sonnet) | toàn bài tiếng Anh, 1 bài/lần | tắt | 1 bài ≈ 3.300 token ra, 48 giây |
 
-Soát trùng (`pipeline/dedup.py`): mỗi câu chuyện (cùng ai + làm gì + ở đâu) chỉ giữ bài điểm cao nhất, và bỏ
-bài kể lại chuyện đã đăng trong `review.no_repeat_days` ngày. Code kiểm lại từng mã bài AI trỏ tới (tên câu
-chuyện phải khớp nội dung bài), AI đòi bỏ quá 1/3 số bài thì không tin; AI lỗi thì bỏ qua bước này.
+Soát trùng (`pipeline/dedup.py`) chạy ngay sau khi chấm, TRƯỚC khi chia suất ứng viên cho từng mục: bỏ bài kể
+lại chuyện đã đăng trong `review.no_repeat_days` ngày, mỗi câu chuyện (cùng ai + làm gì + ở đâu) giữ 2 bài
+(chính + dự phòng phòng khi tách lỗi); sau vòng 2 chỉ còn 1 bài mỗi chuyện. Nhờ vậy một chuyện lớn không chiếm
+hết suất của cả mục (ngày 08/10: 18 bài Messi chia tay). Code kiểm lại từng mã bài AI trỏ tới, AI đòi bỏ quá
+nửa số bài thì không tin; AI lỗi thì bỏ qua bước này.
 
 Ngày thường 150–250 bài mới → khoảng **10.000 token đầu ra Haiku mỗi ngày, 1–2 phút**, chạy lúc 6:00.
 So với một buổi code dùng Opus (hàng triệu token) thì không đáng kể. Nếu bật suy nghĩ ở vòng 1 sẽ tốn gấp 9 lần

@@ -14,8 +14,11 @@ sót và gộp nhầm một kiểu (gộp cả "ASIAD" thành một chuyện, g�
 Haiku có suy nghĩ đúng hơn nhưng tốn gấp 5 lần token ra và ~70 giây; Sonnet không suy nghĩ
 đúng nhất với ~200 token ra. Nên dùng scoring.model_dedup = sonnet.
 
-Chạy SAU vòng 2 (bài đã tách được, điểm đã chấm theo nội dung) và TRƯỚC khi dịch
-(không tốn công dịch bài trùng). AI lỗi thì bỏ qua bước này, báo vẫn ra như cũ.
+Chạy NGAY SAU KHI CHẤM, TRƯỚC khi chọn ứng viên (gom chuyện trước rồi mới chia suất, như các
+trang tin lớn). Trước đây chạy sau vòng 2 thì một chuyện lớn chiếm hết suất của cả mục: ngày
+08/10 cả 10 bài thể thao vào ứng viên đều là Messi chia tay, gộp xong mục Thể thao còn 1 bài.
+Mỗi chuyện giữ 2 bài (bài chính + dự phòng phòng khi tách lỗi), gắn nhãn "story"; sau vòng 2
+one_per_story() chỉ giữ 1 bài mỗi chuyện, không gọi AI. AI lỗi thì bỏ qua, báo vẫn ra như cũ.
 """
 from __future__ import annotations
 import math
@@ -27,7 +30,8 @@ from ai import ask_json
 from common import setup_logging, read_json, ISSUES
 
 log = setup_logging()
-MAX_DROP_SHARE = 1 / 3   # AI đòi bỏ nhiều hơn thế → nghi gộp nhầm theo đề tài, không tin kết quả
+MAX_DROP_SHARE = 1 / 2   # AI đòi bỏ nhiều hơn thế → nghi gộp nhầm theo đề tài, không tin kết quả.
+                         # Không để 1/3: ngày có chuyện cực lớn (Messi chia tay, 08/10) đã bỏ 24%; Haiku gộp bừa từng bỏ 79%
 NAME_COVER = 0.15        # bài phải chứa ≥ ngần này (theo trọng số) tên câu chuyện AI đặt, xem drop_repeats
 
 SYSTEM = """Bạn là biên tập viên trực bàn của một tờ báo cho trẻ em. Việc duy nhất: tìm các bài KỂ CÙNG MỘT CÂU CHUYỆN để mỗi câu chuyện chỉ lên báo một lần.
@@ -97,13 +101,20 @@ def _ids(xs, prefix: str, n: int) -> list[int]:
     return out
 
 
-def drop_repeats(cands: list[dict], cfg: dict, day: str) -> list[dict]:
-    """Trả danh sách ứng viên đã bỏ bài trùng, giữ nguyên thứ tự."""
+def _rank(c: dict) -> tuple:
+    """Bài tốt hơn trong cùng chuyện: điểm cao hơn, rồi có ảnh, rồi bài tiếng Việt (khỏi dịch), rồi dài hơn."""
+    return (c.get("score") or 0, len(c.get("images") or []) or bool(c.get("image_src")),
+            c.get("lang") != "en", c.get("words") or 0)
+
+
+def drop_repeats(cands: list[dict], cfg: dict, day: str, keep: int = 1) -> list[dict]:
+    """Bỏ bài kể lại chuyện đã đăng; chuyện có nhiều bài thì giữ `keep` bài tốt nhất và gắn nhãn
+    "story" (để one_per_story lọc tiếp). Trả danh sách còn lại, giữ nguyên thứ tự."""
     days = int(cfg.get("review", {}).get("no_repeat_days", 7))
     old = _published(day, days)
     if not cands or (len(cands) < 2 and not old):      # không có gì để so → khỏi tốn một lần gọi AI
         return cands
-    rows = [f"M{i}. {c['title']} — {(c.get('sapo') or '')[:160]}" for i, c in enumerate(cands, 1)]
+    rows = [f"M{i}. {c['title']} — {(c.get('sapo') or c.get('summary') or '')[:160]}" for i, c in enumerate(cands, 1)]
     prompt = ("BÀI MỚI:\n" + "\n".join(rows)
               + f"\n\nĐÃ ĐĂNG {days} NGÀY QUA:\n" + ("\n".join(f"C{i}. {t}" for i, t in enumerate(old, 1)) or "(chưa có)")
               + '\n\nCHỈ TRẢ JSON nén một dòng {"chuyen":[{"ten":"..","moi":[..],"cu":[..]}]}. Không thêm chữ nào khác.')
@@ -162,25 +173,40 @@ def drop_repeats(cands: list[dict], cfg: dict, day: str) -> list[dict]:
     for i in range(n):
         groups.setdefault(root(i), []).append(i)
 
-    # Bài tốt nhất mỗi nhóm: điểm cao nhất, rồi nhiều ảnh hơn, rồi bài tiếng Việt (khỏi dịch), rồi dài hơn
-    best_key = lambda i: (cands[i].get("score") or 0, len(cands[i].get("images") or []),
-                          cands[i].get("lang") != "en", cands[i].get("words") or 0)
     drop: dict[int, str] = {}
+    story: dict[int, str] = {}
     for members in groups.values():
         hit = next((seen_before[m] for m in members if m in seen_before), None)
         if hit:                                   # cả nhóm kể lại chuyện đã đăng
             for m in members:
                 drop[m] = "đã đăng: " + hit[:70]
         elif len(members) > 1:
-            keep = max(members, key=best_key)
-            for m in members:
-                if m != keep:
-                    drop[m] = "trùng: " + cands[keep]["title"][:70]
+            ranked = sorted(members, key=lambda i: _rank(cands[i]), reverse=True)
+            for m in ranked[:keep]:
+                story[m] = cands[ranked[0]]["id"]
+            for m in ranked[keep:]:
+                drop[m] = "trùng: " + cands[ranked[0]]["title"][:70]
     if len(drop) > n * MAX_DROP_SHARE:
         log.warning("Soát trùng: AI đòi bỏ %d/%d bài — quá nhiều, nghi gộp nhầm theo đề tài, bỏ qua kết quả", len(drop), n)
         return cands
+    for m, sid in story.items():                  # gắn nhãn chỉ sau khi đã tin kết quả
+        cands[m]["story"] = sid
     for i, why in drop.items():
         log.info("Bỏ bài trùng [%s]: %s  ← %s", names.get(i, "?"), cands[i]["title"][:60], why)
     log.info("Soát trùng: bỏ %d/%d bài (%d trùng trong số, %d đã đăng %d ngày qua)", len(drop), n,
              sum(w.startswith("trùng") for w in drop.values()), sum(w.startswith("đã đăng") for w in drop.values()), days)
     return [c for i, c in enumerate(cands) if i not in drop]
+
+
+def one_per_story(cands: list[dict]) -> list[dict]:
+    """Sau vòng 2: mỗi chuyện (nhãn "story") chỉ giữ 1 bài tốt nhất theo điểm đã chấm trên nội dung.
+    Bài dự phòng chỉ còn khi bài chính tách lỗi hoặc bị vòng 2 loại. Không gọi AI."""
+    best: dict[str, dict] = {}
+    for c in cands:
+        s = c.get("story")
+        if s and (s not in best or _rank(c) > _rank(best[s])):
+            best[s] = c
+    out = [c for c in cands if not c.get("story") or best[c["story"]] is c]
+    if len(out) < len(cands):
+        log.info("Bỏ %d bài dự phòng (cùng chuyện với bài đã giữ)", len(cands) - len(out))
+    return out

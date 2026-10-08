@@ -61,6 +61,14 @@ def main():
         except Exception as e:
             log.error("Tầng AI lỗi: %s → tiếp tục không có điểm AI", e)
 
+    if has_scores:
+        # SOÁT TRÙNG trước khi chia suất ứng viên: bỏ bài kể lại chuyện đã đăng mấy ngày gần đây, mỗi
+        # chuyện chỉ giữ 2 bài (chính + dự phòng). Không làm thì một chuyện lớn chiếm hết suất của cả mục.
+        from dedup import drop_repeats
+        pool = [a for a in scored if (a.get("score") or 0) >= min_score]
+        kept = {a["id"] for a in drop_repeats(pool, cfg, day, keep=2)}
+        scored = [a for a in scored if (a.get("score") or 0) < min_score or a["id"] in kept]
+
     chosen = select(scored, cfg, has_scores)
     ok, bad = extract_all(chosen, day, cfg)
     unsafe = []
@@ -74,10 +82,9 @@ def main():
         for c in unsafe:
             c["extract_error"] = "AI vòng 2: không an toàn — " + (c.get("reason2") or "")
         bad = bad + unsafe
-        # SOÁT TRÙNG: mỗi câu chuyện chỉ một bài, không kể lại chuyện đã đăng mấy ngày gần đây.
-        # Làm sau vòng 2 (bài giữ lại chắc chắn tách được, điểm chấm theo nội dung) và trước khi dịch.
-        from dedup import drop_repeats
-        ok = drop_repeats(ok, cfg, day)
+        # Mỗi chuyện chỉ một bài: bài dự phòng chỉ còn khi bài chính tách lỗi hoặc bị vòng 2 loại
+        from dedup import one_per_story
+        ok = one_per_story(ok)
     # DỊCH: chỉ dịch bài tiếng Anh đã qua vòng 2, tối đa translate.max_per_issue bài
     if ok and cfg.get("translate", {}).get("enabled") and any(c.get("lang") == "en" for c in ok):
         from translate import translate_all
