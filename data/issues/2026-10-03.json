@@ -1,0 +1,2632 @@
+{
+ "date": "2026-10-03",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-03T07:30:05+07:00",
+ "sections": [
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  }
+ ],
+ "articles": [
+  {
+   "id": "20307a341a29",
+   "order": 1,
+   "slug": "bao-thap-truong-ton-1-700-nam",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Bảo tháp trường tồn 1.700 năm",
+   "sapo": "Sri Lanka Bảo tháp Jetavanaramaya được xây bằng khoảng 93,3 triệu viên gạch hơn 1.700 năm trước, từng là một trong những công trình nhân tạo cao nhất thế giới.",
+   "author": "Tuấn Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/bao-thap-truong-ton-1-700-nam-5127241.html",
+   "published": "2026-10-02T01:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 595,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/20307a341a29-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-03/20307a341a29-0.jpg",
+     "caption": "Mặt trước của bảo tháp Jetavanaramaya. Ảnh: Asian Historical",
+     "w": 1020,
+     "h": 665
+    },
+    {
+     "src": "img/2026-10-03/20307a341a29-1.jpg",
+     "caption": "Tượng Phật trước của bảo tháp Jetavanaramaya. Ảnh: Asian Historical",
+     "w": 898,
+     "h": 600
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sri Lanka Bảo tháp Jetavanaramaya được xây bằng khoảng 93,3 triệu viên gạch hơn 1.700 năm trước, từng là một trong những công trình nhân tạo cao nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Bảo tháp nằm tại Anuradhapura, kinh đô cổ đầu tiên của Sri Lanka và một trong những vùng đất linh thiêng của Phật giáo. Vào ngày trăng tròn, hàng nghìn người hành hương mặc áo trắng, đi chân trần đến đây làm lễ, trong khi các nhà sư tụng kinh từ sáng sớm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Jetavanaramaya hoàn thành khoảng năm 301, dưới thời vua Mahasena. Công trình ban đầu cao khoảng 122 m, đứng thứ ba về chiều cao trong số các công trình nhân tạo đương thời, chỉ sau các kim tự tháp Giza."
+    },
+    {
+     "t": "p",
+     "text": "Sau nhiều thế kỷ bị bỏ hoang, sụp đổ và trùng tu, bảo tháp hiện còn cao khoảng 71 m. Dù mất gần một nửa chiều cao ban đầu, Jetavanaramaya vẫn được xem là công trình bằng gạch có thể tích lớn nhất từng được xây dựng."
+    },
+    {
+     "t": "p",
+     "text": "Theo các nhà khảo cổ, việc xây dựng công trình đòi hỏi lượng nhân lực và vật liệu khổng lồ. Gạch được sản xuất tại các lò nung quanh Anuradhapura, sau đó vận chuyển bằng xe bò và có thể cả voi. Giàn giáo nhiều khả năng được làm từ tre, buộc bằng dây xơ dừa."
+    },
+    {
+     "t": "p",
+     "text": "Hình bán cầu của bảo tháp giúp phân bổ trọng lượng, trong khi phần móng được xử lý bằng các kỹ thuật kiểm tra nền đất sơ khai. Các nhà khảo cổ cũng phát hiện nhiều hộp đựng xá lợi được đặt trong những tầng khác nhau của công trình."
+    },
+    {
+     "t": "p",
+     "text": "Jetavanaramaya từng là trung tâm của Jetavana Vihara, quần thể tu viện có khoảng 200 nhà sư sinh sống. Công trình cũng phản ánh những tranh luận về giáo lý Phật giáo tại Sri Lanka cổ đại, khi quần thể này từng gắn với phái Sagalika có ảnh hưởng từ Phật giáo Đại thừa."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các tấm vàng khắc hình Bồ tát và những đoạn kinh Bát Nhã Ba La Mật Đa được tìm thấy tại đây, hiện lưu giữ ở Bảo tàng Quốc gia Colombo. Những hiện vật này cung cấp bằng chứng về sự hiện diện của tư tưởng Đại thừa tại Sri Lanka cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "Bảo tháp từng trải qua nhiều lần xuống cấp do động đất, mưa gió mùa và thời gian. Một đợt trùng tu lớn diễn ra vào thế kỷ XII dưới thời vua Parakramabahu I. Một số lớp ngoài được gia cố bằng xi măng trong các đợt phục dựng gần đây, nhưng vật liệu này được cho là có thể khiến công trình xuống cấp nhanh hơn. Hiện Jetavanaramaya nằm giữa quần thể di tích Anuradhapura, bên cạnh những công trình nổi tiếng như Ruwanwelisaya và Sri Maha Bodhi. Nếu Ruwanwelisaya là điểm hành hương quan trọng của người Sri Lanka, Jetavanaramaya gây ấn tượng bởi quy mô và kỹ thuật xây dựng."
+    },
+    {
+     "t": "p",
+     "text": "Toàn cảnh bảo tháp Jetavanaramaya. Video: Sri Lanka Tourism"
+    },
+    {
+     "t": "p",
+     "text": "Theo giáo sư khảo cổ Anura Manatunga, Jetavanaramaya là bảo tháp khổng lồ cuối cùng được xây dựng ở Sri Lanka. Sau công trình này, các bảo tháp về sau vẫn sử dụng hình mái vòm tương tự nhưng không đạt tới quy mô như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Hơn 1.700 năm sau khi hoàn thành, Jetavanaramaya vẫn đứng giữa thành cổ Anuradhapura, trở thành dấu tích về khả năng tổ chức nhân lực và kỹ thuật xây dựng đáng kinh ngạc của người Sri Lanka cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "Tuấn Anh (Theo CNN )"
+    }
+   ]
+  },
+  {
+   "id": "b9c5a61cbc3e",
+   "order": 2,
+   "slug": "a-quan-asiad-20-nguyen-thi-tam-hanh-trinh-chong-gai-va-qua-c",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Á quân ASIAD 20 Nguyễn Thị Tâm, hành trình chông gai và quả cảm từ chấn thương dây chằng rất nặng…",
+   "sapo": "Nguyễn Thị Tâm không thể vượt qua nhà vô địch Olympic Wu Yu trong trận chung kết, nhưng tấm HCB ASIAD 20 vẫn đánh dấu một cuộc trở lại đặc biệt. Hơn 3 năm trước, cô từng đứt dây chằng, mất gần 2 năm hồi phục và sau đó lỡ hẹn SEA Games 33.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/a-quan-asiad-20-nguyen-thi-tam-hanh-trinh-chong-gai-va-qua-cam-tu-chan-thuong-day-chang-rat-nang-185261001180703685.htm",
+   "published": "2026-10-02T04:41:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 800,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-0.jpg",
+     "caption": "Tấm HCB quý giá của Nguyễn Thị Tâm",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-1.jpg",
+     "caption": "Nguyễn Thị Tâm vượt nhiều đối thủ mạnh trong hành trình vào chung kết ASIAD 20",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-2.jpg",
+     "caption": "Nguyễn Thị Tâm (giáp xanh) phải đối mặt với nhà đương kim vô địch Olympic ở chung kết",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-3.jpg",
+     "caption": "Việc góp mặt ở chung kết là thành công rất lớn của Nguyễn Thị Tâm",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-4.jpg",
+     "caption": "Nguyễn Thị Tâm xứng đáng được nhận những lời khen ngợi cho nỗ lực nhiều năm qua",
+     "w": 1280,
+     "h": 959
+    },
+    {
+     "src": "img/2026-10-03/b9c5a61cbc3e-5.jpg",
+     "caption": "Dù Tâm rất nỗ lực nhưng đối thủ quá mạnh",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm không thể vượt qua nhà vô địch Olympic Wu Yu trong trận chung kết, nhưng tấm HCB ASIAD 20 vẫn đánh dấu một cuộc trở lại đặc biệt. Hơn 3 năm trước, cô từng đứt dây chằng, mất gần 2 năm hồi phục và sau đó lỡ hẹn SEA Games 33."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm đã không thể bước lên bục cao nhất ASIAD 20 khi để thua Wu Yu của Trung Quốc trong trận chung kết hạng 51 kg nữ vào sáng 2.10 tại nhà thi đấu Nishio Gymnasium tại thành phố Nishio, tỉnh Aichi (Nhật Bản)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trận chung kết cũng là thử thách lớn nhất của Tâm tại ASIAD 20. Wu Yu bước lên võ đài với vị thế nhà vô địch Olympic Paris 2024 hạng 50 kg nữ. Sau Olympic, võ sĩ Trung Quốc chuyển lên hạng 51 kg và tiếp tục giành HCV giải vô địch châu Á 2026 tại Ulaanbaatar, Mông Cổ, vô địch World Boxing Cup tại Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm giành HCB boxing ASIAD 20: ‘Dành tặng cho người bố đã mất của em'"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm đã không thể tạo thêm một bất ngờ trước đối thủ đang ở đỉnh cao sự nghiệp. Tấm HCV thuộc về Wu Yu, còn Tâm khép lại ASIAD 20 với HCB. Đó có thể là một chút tiếc nuối khi cô đã tiến rất gần đến đỉnh cao, nhưng cũng là tấm huy chương ghi nhận một hành trình trở lại mà có thời điểm chính Tâm cũng phải đối diện với những thử thách lớn hơn nhiều so với một trận đấu."
+    },
+    {
+     "t": "h",
+     "text": "Hơn 3 năm từ chấn thương đến trận chung kết ASIAD"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2023, Nguyễn Thị Tâm từng bước vào SEA Games 32 tại Campuchia với tư cách đương kim vô địch và vừa giành HCB thế giới. Nhưng ngay trận ra quân trước một võ sĩ Thái Lan, cô dính chấn thương nặng, đứt dây chằng chéo trước đầu gối trái. Chấn thương khiến sự nghiệp của Tâm bước vào quãng thời gian khó khăn. Sau gần 2 năm kiên trì chữa trị và hồi phục, cô trở lại với chức vô địch quốc gia năm 2025, nhưng sau đó lại không có tên trong danh sách đội tuyển quyền anh Việt Nam tham dự SEA Games 33 tại Thái Lan."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "\"Không được khoác lên mình màu áo đội tuyển, đau. Không được chiến đấu vì Tổ quốc, còn đau hơn. Tôi sẽ không dừng lại. Nỗi buồn này chỉ khiến ngọn lửa trong tôi cháy lớn hơn. Tôi vẫn tập luyện mỗi ngày, vẫn miệt mài bước tiếp hướng về mục tiêu lớn hơn là ASIAD\", Nguyễn Thị Tâm chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "ASIAD 20 chính là câu trả lời của Nguyễn Thị Tâm. Cô khởi đầu bằng chiến thắng 5-0 trước Ramisha Shrestha (Nepal), tiếp tục vượt qua Guo Yi Xuan (Đài Loan) 4-1 rồi đánh bại Bak Chorong (Hàn Quốc) 5-0 ở tứ kết . Đến thời điểm ấy, Tâm đã chắc chắn có ít nhất HCĐ, nhưng cô còn tạo nên một trong những trận đấu đáng nhớ nhất sự nghiệp ở bán kết."
+    },
+    {
+     "t": "p",
+     "text": "Đối thủ của Tâm là Alua Balkibekova (Kazakhstan), đương kim vô địch thế giới hạng 51 kg. Hai hiệp đầu diễn ra giằng co khi trong mỗi hiệp có 4 giám định chấm Tâm thắng 10-9 và một người chấm điểm cho Balkibekova. Đến hiệp 3, cả 5 giám định đều chấm phần thắng cho đại diện Việt Nam. Chung cuộc, Tâm thắng 5-0, trong đó 3 giám định chấm 30-27 và 2 người chấm 29-28."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng trước nhà vô địch thế giới đưa Nguyễn Thị Tâm trở thành võ sĩ quyền anh Việt Nam đầu tiên giành quyền vào chung kết ASIAD. Vì thế, ngay cả khi không thể vượt qua Wu Yu ở trận đấu cuối cùng, cô vẫn rời ASIAD 20 với một cột mốc chưa từng có của quyền anh Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "8 năm trước, Nguyễn Thị Tâm từng giành HCĐ ASIAD 2018. Sau đó là HCB thế giới năm 2023, chấn thương nặng, những tháng ngày hồi phục và một kỳ SEA Games mà cô chỉ có thể đứng ngoài. Đến ASIAD 20, Tâm trở lại bục nhận huy chương, nhưng lần này ở một vị trí cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "Với thành tích này, Nguyễn Thị Tâm được nhận 170 triệu đồng tiền thưởng theo chế độ Nhà nước. Trước ASIAD 20, ngành thể thao cũng công bố mức thưởng nóng dự kiến 50 triệu đồng cho VĐV giành HCB. Nếu khoản thưởng nóng này được thực hiện như công bố, Tâm nhận ít nhất 220 triệu đồng, chưa tính các khoản thưởng khác từ địa phương, đơn vị chủ quản, liên đoàn hoặc nhà tài trợ nếu có."
+    }
+   ]
+  },
+  {
+   "id": "e394782b56a3",
+   "order": 3,
+   "slug": "nguyen-thi-tam-tu-tam-hcb-lich-su-den-khat-vong-chinh-phuc-o",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nguyễn Thị Tâm: Từ tấm HCB lịch sử đến khát vọng chinh phục Olympic",
+   "sapo": "Ngay sau khi đem về tấm HCB lịch sử cho quyền anh VN tại ASIAD, nữ võ sĩ Nguyễn Thị Tâm lập tức hướng đến mục tiêu chinh phục đấu trường Olympic.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nguyen-thi-tam-tu-tam-hcb-lich-su-den-khat-vong-chinh-phuc-olympic-185261002224650988.htm",
+   "published": "2026-10-02T20:03:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 646,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/e394782b56a3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/e394782b56a3-0.jpg",
+     "caption": "Nguyễn Thị Tâm giúp quyền anh VN lần đầu tiên đoạt HCB ASIAD",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-03/e394782b56a3-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 449
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hôm qua 2.10, tại nhà thi đấu Nishio Gymnasium ở TP.Nishio, Nguyễn Thị Tâm dù rất nỗ lực tấn công đã không thể vượt qua được Wu Yu (HCV Olympic 2024) trong trận chung kết quyền anh hạng cân 51 kg nữ. Mặc dù vậy, cô có thể tự hào khi giúp quyền anh VN đoạt HCB ASIAD đầu tiên. Một thành tích phi thường, sau khi Nguyễn Thị Tâm đánh bại đương kim vô địch thế giới Alua Balkibekova (Kazakhstan) ở bán kết. Một sự trở lại quá kỳ diệu, phần thưởng ngọt ngào cho tinh thần không bỏ cuộc."
+    },
+    {
+     "t": "p",
+     "text": "3 năm trước, khi Nguyễn Thị Tâm ngã gục trên thảm đấu SEA Games 32 (Campuchia, năm 2023) vì đứt dây chằng gối, nhiều người đã nghĩ đến kịch bản xấu cho cô gái 29 tuổi. Quyết tâm thực hiện lời hứa với người cha đã mất, cô lặng lẽ vượt qua nỗi đau thể xác và tinh thần để từng bước trở lại. Để rồi ở tuổi 32, Nguyễn Thị Tâm tỏa sáng rực rỡ tạo nên lịch sử cho quyền anh VN."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Trong 3 năm không thi đấu để điều trị, đã có lúc tôi nghĩ đến chuyện bỏ cuộc, vì trở lại tập luyện sau chấn thương rất khó khăn, vất vả. Khi đó, tôi gần như một người mới tập lại từ đầu, nhưng rất hạnh phúc khi được các thầy động viên quan tâm, tạo điều kiện tập phục hồi và điều trị chấn thương. Tôi muốn dành tặng tấm HCB này cho người bố đã mất luôn mong tôi có một tương lai và sự nghiệp thật vững vàng. Khi tôi bị chấn thương nặng, bố luôn lo sợ con gái không quay trở lại được nữa, sự nghiệp sẽ bấp bênh. Tôi đã hứa với bố vì đam mê nên sẽ cố gắng tập luyện để có phong độ cao nhất. Thật hạnh phúc khi tôi đã thực hiện được lời hứa với bố\", Nguyễn Thị Tâm chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2020, Nguyễn Thị Tâm (HCĐ ASIAD 2018) là một trong 2 VĐV giúp quyền anh VN lần đầu tiên đoạt vé dự Olympic sau 32 năm. Sau 6 năm ở tuổi 32, nữ võ sĩ VN với tấm HCB ASIAD 2026 đã lập tức nhắm đến mục tiêu chinh phục đấu trường Olympic ."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong 3 năm qua dù không thi đấu nhưng tôi luôn theo sát các giải lớn, đặc biệt mọi trận đấu của Wu Yu. Tôi rất hâm mộ bạn ấy vì phong cách đánh rất nhanh và thông minh. Tôi đã thi đấu hết sức trước đối thủ mạnh như Wu Yu, nên không có gì để tiếc nuối nữa. Tôi rất vui vì đã làm nên lịch sử cho quyền anh VN. Mong muốn của tôi là được đầu tư để thầy trò có thể được đi tập huấn dài hạn nhằm giành vé dự Olympic Los Angeles 2028. Tôi sẽ tiếp tục nỗ lực tập luyện khi vòng loại Olympic khởi tranh từ tháng 4.2027, để một lần nữa trở lại và chinh phục đấu trường thế vận hội\", Nguyễn Thị Tâm bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 2.10, nữ võ sĩ Châu Ngọc Tuyết Sang - em gái của võ sĩ Châu Tuyết Vân - đã giúp đoàn thể thao VN có thêm một HCB ở nội dung taekwondo thực tế ảo, sau khi thua VĐV nam Jeus Gabriel Derick (Philippines) ở chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ vọng về tấm HCV thứ 3 cho VN tại ASIAD đặt ở môn cầu mây, sau khi đội 4 người nữ đã vượt qua Nhật Bản 2-0 (15-8, 15-10) ở bán kết. Các cô gái của chúng ta sẽ bước vào trận chung kết với Thái Lan lúc 7 giờ (giờ VN) ngày 3.10, với mục tiêu bảo vệ tấm HCV đã đạt ở ASIAD Hàng Châu năm 2023."
+    },
+    {
+     "t": "img",
+     "i": 2
+    }
+   ]
+  },
+  {
+   "id": "d46e1cf7e135",
+   "order": 4,
+   "slug": "tri-di-don-va-nhung-dieu-y-nghia-cho-cong-dong",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "'Trí đi dọn' và những điều ý nghĩa cho cộng đồng",
+   "sapo": "Anh Đỗ Quang Trí (32 tuổi, còn được gọi là \"Trí đi dọn\") thường bắt đầu hành trình dọn dẹp phố phường sau 17 giờ mỗi ngày. Việc làm giản dị của anh dần lan tỏa, kéo thêm nhiều người cùng chung tay vì môi trường xanh, sạch, đẹp.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tri-di-don-va-nhung-dieu-y-nghia-cho-cong-dong-185261001195210132.htm",
+   "published": "2026-10-02T02:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 578,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/d46e1cf7e135-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/d46e1cf7e135-0.jpg",
+     "caption": "Anh Đỗ Quang Trí và chị Thiện trong một lần dọn rác",
+     "w": 1024,
+     "h": 683
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khoảng sau 17 giờ mỗi ngày, trên những tuyến đường thuộc P.An Hải, TP.Đà Nẵng, người ta lại thấy \"Trí đi dọn\"."
+    },
+    {
+     "t": "p",
+     "text": "Anh kể trong một lần đi dạo cùng gia đình anh thấy nhiều vỉa hè quanh khu vực sinh sống có nhiều cỏ dại, rác thải . Có những đoạn vỉa hè gần như không thể đi lại, khiến người dân phải bước xuống lòng đường. \"Đi dạo với gia đình hay dẫn con đi chơi, tôi thường phải đi dưới lòng đường. Từ đó, tôi bắt đầu phát quang, dọn dẹp vỉa hè gần nhà, để thoải mái đi bộ và cho con mình có chỗ vui chơi an toàn\", anh nhớ lại."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau lần đầu dọn dẹp và thấy diện mạo vỉa hè thay đổi, anh quyết định không dừng lại ở khu vực trước nhà. Anh bắt đầu tìm đến những tuyến đường khác, nơi những mảng cỏ dại, rác thải lâu ngày khiến vỉa hè bị \"bỏ quên\". Công việc của anh không đơn thuần là gom rác. Sau mỗi buổi dọn dẹp, anh cùng các thành viên trong nhóm \"Trí đi dọn\" còn phân loại, tập kết rác thành từng khu vực để thuận tiện thu gom, xử lý. Những loại rác có thể phân loại được tách riêng, phần còn lại được tập kết gọn gàng để nhân viên môi trường vận chuyển. Đến nay, công việc đã thuận lợi hơn khi nhóm nhận được sự hỗ trợ của P.An Hải trong việc thu gom rác sau mỗi lần dọn dẹp."
+    },
+    {
+     "t": "p",
+     "text": "Những video, hình ảnh ghi lại cảnh anh Trí đi dọn rác dần nhận được sự quan tâm của cộng đồng với hàng ngàn người theo dõi, ủng hộ. Mỗi khi anh thông báo địa điểm sẽ đến dọn rác, không ít người tìm đến cùng làm."
+    },
+    {
+     "t": "p",
+     "text": "Chị Trần Thị Thanh Thiện (quê ở Hà Nội; đang ngụ tại P.An Hải, TP.Đà Nẵng) cho hay đã biết đến anh Trí trong một lần chạy bộ trên vỉa hè dọc bãi biển. \"Hôm ấy, tôi nhìn thấy một mình Trí đang cặm cụi dọn dẹp, làm sạch vỉa hè. Ấn tượng trước hành động của Trí, tôi tiến lại gần để cảm ơn. Và rồi, thay vì chỉ nói lời cảm ơn, tôi quyết định xin được đồng hành cùng Trí\", chị Thiện kể lại."
+    },
+    {
+     "t": "p",
+     "text": "Từ một người, nhóm \"Trí đi dọn\" ngày càng có thêm nhiều người tham gia. Người góp sức dọn dẹp, người hỗ trợ dụng cụ, người chia sẻ thông tin. Mỗi người một chút, những tuyến vỉa hè đã dần trở nên sạch sẽ, thông thoáng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Hành động đẹp của anh Trí và nhóm đã được chính quyền địa phương ghi nhận. Mới đây, UBND P.An Hải đã khen thưởng nhóm nhằm tuyên dương những đóng góp tự nguyện, đồng thời lan tỏa tinh thần giữ gìn vệ sinh và mỹ quan đô thị."
+    },
+    {
+     "t": "p",
+     "text": "Ông Hoàng Công Thanh, Chủ tịch UBND P.An Hải, cho biết: \"Việc làm của anh Đỗ Quang Trí đáng được biểu dương và khen thưởng. Đồng thời kỳ vọng nhóm tiếp tục duy trì hoạt động, góp phần làm cho P.An Hải nói riêng và TP.Đà Nẵng nói chung ngày càng sạch đẹp\"."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều tôi mong muốn nhất là một ngày nào đó, không còn cần \"Trí đi dọn\" nữa. Bởi lúc đó mọi người đã cùng nhau giữ cho thành phố xanh, sạch, đẹp\", anh Trí cười chia sẻ."
+    }
+   ]
+  },
+  {
+   "id": "ca7caadd79ab",
+   "order": 5,
+   "slug": "tiep-da-thang-hoa-quoc-hy-vo-dich-giai-co-chop-quoc-te",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Tiếp đà thăng hoa, Quốc Hy vô địch giải cờ chớp quốc tế",
+   "sapo": "Tiếp đà thăng hoa sau thành công tại giải Olympiad, kỳ thủ 20 tuổi Nguyễn Quốc Hy thi đấu xuất sắc để lên ngôi vô địch giải cờ chớp trực tuyến vào đêm 1-10.",
+   "author": "TUẤN LONG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tiep-da-thang-hoa-quoc-hy-vo-dich-giai-co-chop-quoc-te-100261002095606118.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 343,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/ca7caadd79ab-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/ca7caadd79ab-0.jpg",
+     "caption": "Kỳ thủ Quốc Hy duy trì phong độ ấn tượng để lên ngôi vô địch giải cờ chớp 3 0 Thursday 2026 - Ảnh: AAG",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trở về sau thành công tại giải Olympiad , kỳ thủ 20 tuổi Nguyễn Quốc Hy tham gia giải cờ chớp trực tuyến (3 0 Thursday 2026) do Chess.com tổ chức và đã xuất sắc lên ngôi vô địch."
+    },
+    {
+     "t": "p",
+     "text": "Bước vào đấu trường quy tụ hàng loạt cao thủ hàng đầu thế giới thi đấu theo thể thức cờ chớp 3 phút (không cộng giây), Quốc Hy đã có màn trình diễn bùng nổ."
+    },
+    {
+     "t": "p",
+     "text": "Trải qua 11 ván thi đấu, tài năng trẻ sinh năm 2006 giành được 9 điểm với thành tích ấn tượng (9 chiến thắng và chỉ nhận 2 thất bại)."
+    },
+    {
+     "t": "p",
+     "text": "Danh sách bại tướng dưới tay Quốc Hy tại giải đấu khiến người hâm mộ Việt Nam thích thú khi quy tụ hàng loạt Đại kiện tướng rất mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Đầu tiên phải nói đến Đại kiện tướng Denis Lazavik (hiện tượng người Belarus vừa giành ngôi á quân Esports World Cup 2026 sau khi chỉ chịu thua Magnus Carlsen ở chung kết), Jan-Krzysztof Duda (Đại kiện tướng số một Ba Lan) và Matthias Bluebaum (trụ cột đội tuyển Đức - đội duy nhất đánh bại nhà vô địch Uzbekistan tại Olympiad 2026)."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, có tới 6 kỳ thủ cùng cán đích với 9 điểm, trong đó có cả Đại kiện tướng Lê Tuấn Minh ."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, nhờ sở hữu hiệu số phụ nhỉnh hơn, Quốc Hy cán đích ở vị trí nhất bảng, trong khi Lê Tuấn Minh cán đích ở vị trí thứ 6."
+    },
+    {
+     "t": "p",
+     "text": "Chức vô địch nghẹt thở này mang về cho Quốc Hy khoản tiền thưởng 400 USD."
+    },
+    {
+     "t": "p",
+     "text": "\"3 0 Thursday\" là hệ thống giải đấu cờ chớp uy tín diễn ra vào thứ Năm hằng tuần trên Chess.com với ba khung giờ thi đấu khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Mức tiền thưởng hấp dẫn bao gồm 400 USD cho nhà vô địch, 250 USD cho á quân, 150 USD cho hạng ba và 100 USD cho vị trí thứ tư. Giải đấu luôn thu hút nhiều Đại kiện tướng hàng đầu thế giới tham dự."
+    }
+   ]
+  },
+  {
+   "id": "f2f9193dee5a",
+   "order": 6,
+   "slug": "con-cho-noi-tieng-chuyen-dan-khach-leo-nui-o-da-lat",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Con chó nổi tiếng chuyên dẫn khách leo núi ở Đà Lạt",
+   "sapo": "Thường xuyên dẫn khách lên đỉnh Langbiang, con chó vàng bất ngờ nổi tiếng khi được du khách tạo địa chỉ trên Google Maps, thu hút nhiều đánh giá tích cực.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/con-cho-noi-tieng-chuyen-dan-khach-leo-nui-o-da-lat-post1686939.html",
+   "published": "2026-10-01T23:00:03+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 965,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-0.jpg",
+     "caption": "Langbiang,  chó ảnh 1",
+     "w": 1182,
+     "h": 2560
+    },
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-1.jpg",
+     "caption": "Langbiang,  chó ảnh 2",
+     "w": 1182,
+     "h": 2560
+    },
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-2.jpg",
+     "caption": "Langbiang,  chó ảnh 3",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-3.jpg",
+     "caption": "Langbiang,  chó ảnh 4",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-4.jpg",
+     "caption": "Langbiang,  chó ảnh 8",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-10-03/f2f9193dee5a-5.jpg",
+     "caption": "Langbiang,  chó ảnh 9",
+     "w": 1280,
+     "h": 1920
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thường xuyên dẫn khách lên đỉnh Langbiang, con chó vàng bất ngờ nổi tiếng khi được du khách tạo địa chỉ trên Google Maps, thu hút nhiều đánh giá tích cực."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Minh Phong, sống tại Đà Lạt , thường cùng nhóm bạn 6-7 người trekking Langbiang . Trong các chuyến đi, anh nhiều lần gặp những con chó cỏ khoảng 3-4 tuổi đi dọc tuyến đường."
+    },
+    {
+     "t": "p",
+     "text": "Phong cho rằng chúng có thể được lực lượng kiểm lâm trên núi nuôi dưỡng, trong đó có chó lông vàng được đặt tên \"Gia Huy\". Ngoài ra, tuyến trekking còn có một con chó màu nâu tên \"Gia Bảo\" cùng vài \"anh em\" khác."
+    },
+    {
+     "t": "p",
+     "text": "\"Chó vàng thường bắt đầu đi theo du khách từ trạm kiểm lâm. Có lúc nó chỉ đi một đoạn, nhưng cũng có khi dẫn người leo lên tận đỉnh núi\", Phong nói với Tri Thức - Znews."
+    },
+    {
+     "t": "p",
+     "text": "Sau mỗi chặng, du khách thường thưởng cho \"Gia Huy\" trứng gà luộc, xúc xích hoặc bánh mì. Nhận thấy những con chó có thể tạo thêm điểm nhấn cho hành trình trekking, Phong đã tạo địa chỉ \"Cậu Vàng Langbiang\" trên Google Maps."
+    },
+    {
+     "t": "p",
+     "text": "Địa chỉ này ban đầu nhận nhiều đánh giá tích cực nhưng sau đó bị gỡ do lỗi kỹ thuật của ứng dụng. Phong đang tạo lại địa điểm và chờ Google kiểm duyệt."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chó vàng được gắn vị trí trên Google Maps. Ảnh: Nguyễn Minh Phong."
+    },
+    {
+     "t": "p",
+     "text": "Lê Như Phúc, du khách đến từ TP.HCM, bắt gặp \"Gia Huy\" và \"Gia Bảo\" trong lần đầu trekking Langbiang ngày 17/9."
+    },
+    {
+     "t": "p",
+     "text": "Cô nhận xét dọc cung đường, \"Gia Huy\" và \"Gia Bảo\" chủ động đồng hành với khách hơn những con chó khác. Chúng theo nhóm suốt chặng lên xuống núi, kiên nhẫn chờ mỗi khi mọi người dừng nghỉ."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng biết chờ đợi, hễ đoàn dừng lại nghỉ mệt là chúng cũng dừng theo. Cả lượt leo lên lẫn lúc xuống núi, chúng đều tận tình dẫn đường\", Phúc kể, nhận xét \"Gia Huy\" đặc biệt thân thiện, còn biết \"tạo dáng\" trước ống kính. Mỗi lần chụp cùng một du khách, nó lại có những biểu cảm khác nhau."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chó vàng được du khách khen ngợi là \"hướng dẫn viên chuyên nghiệp\". Ảnh: Lê Như Phúc."
+    },
+    {
+     "t": "p",
+     "text": "Hướng dẫn viên bản địa Ro Da Quang gặp chó vàng lần đầu khoảng tháng 5-6. Thời điểm đó, chưa biết tên, anh gọi nó là \"Bin\". Sau này, liên tưởng đến bộ phim hoạt hình Tom & Jerry , thấy chú chó có bộ lông vàng cam, anh quyết định gọi nó là \"Gia Huy\"."
+    },
+    {
+     "t": "p",
+     "text": "Vài ngày sau, trong một chuyến trekking cùng bạn bè, Quang gặp thêm một con chó có bộ lông vàng cam nhưng thân hình \"vạm vỡ\" hơn. Anh đặt tên nó là \"Gia Bảo\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo Quang, \"Gia Huy\" không phải chó lang thang mà sống trong gia đình có điều kiện đầy đủ. Nhà của nó nằm ngay cổng, bên tay phải, cạnh khu du lịch Langbiang. Mỗi sáng, khi các nhóm khách chuẩn bị trekking, nó thường đứng chờ để \"dẫn đường\" bất kể nắng mưa."
+    },
+    {
+     "t": "p",
+     "text": "\"Để làm quen với 'cậu vàng', tôi thường cho nó ăn nhiều, rồi ôm, sờ, vuốt ve để nó quen người. Khi đã thân, chỉ cần gọi tên là con chó nhận ra\", Quang kể."
+    },
+    {
+     "t": "p",
+     "text": "\"Gia Huy\" khá tinh trong việc nhận biết khách du lịch. Nếu gặp người quen hoặc được cho xúc xích, đồ ăn ngon, nó thường chủ động đi theo. Ngược lại, nếu không được cho ăn hoặc \"cảm thấy không uy tín\", con vật có thể chuyển sang đoàn khác."
+    },
+    {
+     "t": "p",
+     "text": "Khi đã nhập đoàn, nó thường theo khách từ chân núi lên đỉnh, ngồi chờ mỗi lúc mọi người nghỉ hoặc dừng chụp ảnh. Quang cho biết con chó nhớ đường và khá thông thuộc địa hình. Lúc xuống núi, nó có thể đi nhanh hơn du khách khoảng một tiếng nhưng vẫn di chuyển thành thạo trên cung đường."
+    },
+    {
+     "t": "p",
+     "text": "Tại khu du lịch Langbiang, các cán bộ, nhân viên đều biết \"Gia Huy\" và \"Gia Bảo\". Sau khi câu chuyện về \"cậu vàng\" được chia sẻ rộng rãi, một số du khách chủ động hỏi Quang cách gặp chúng."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Con chó khác được đặt tên là \"Gia Bảo\". Ảnh: Ro Da Quang."
+    },
+    {
+     "t": "p",
+     "text": "Lang Biang được ví như \"nóc nhà Đà Lạt\", với đỉnh cao nhất 2.167 m, thuộc huyện Lạc Dương (cũ), cách trung tâm khoảng 15 km. Dãy núi gồm 3 đỉnh: đồi Ra Đa, núi Ông và núi Bà, trong đó núi Bà là mục tiêu nhiều người muốn chinh phục khi trekking."
+    },
+    {
+     "t": "p",
+     "text": "Lang Biang không quá cao và khó leo, nhưng để chinh phục 12 km đường rừng với địa hình dốc, du khách cần rèn luyện sức khỏe, chuẩn bị trang phục thuận tiện và ưu tiên giày có độ bám tốt."
+    },
+    {
+     "t": "p",
+     "text": "Theo Minh Phong, người đi thong thả có thể mất cả ngày để hoàn thành cung đường, trong khi nhóm di chuyển nhanh thường mất khoảng 6-7 tiếng. Tuyến này đông hơn vào cuối tuần, dịp lễ và vắng khách hơn trong mùa mưa."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    }
+   ]
+  },
+  {
+   "id": "753547db7aa0",
+   "order": 7,
+   "slug": "gom-co-he-lo-dau-vet-so-co-la-lau-doi-nhat-tung-duoc-biet-de",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Gốm cổ hé lộ dấu vết sô-cô-la lâu đời nhất từng được biết đến ở phía đông sông Mississippi, vẽ nên bức tranh kết nối ở châu Mỹ",
+   "sapo": "Một phát hiện khảo cổ mới cho thấy người dân ở vùng đất nay là Georgia đã dùng cây cacao để mở tiệc từ 1.000 năm trước",
+   "author": "Joshua Rapp Learn",
+   "source_name": "Smithsonian",
+   "source_url": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/",
+   "published": "2026-10-02T18:15:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1887,
+   "translated": true,
+   "translated_from": "Smithsonian",
+   "title_original": "Ancient Pottery Reveals the Earliest Known Traces of Chocolate East of the Mississippi, Painting a Picture of Connection in the Americas",
+   "images": [
+    {
+     "src": "img/2026-10-03/753547db7aa0-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/753547db7aa0-0.jpg",
+     "caption": "Mảnh gốm từ Etowah ở Georgia, nơi người thuộc văn hóa Mississippi xây những gò đất lớn Bộ sưu tập của Khoa Nhân học, Bảo tàng Lịch sử Tự nhiên Florida, FLMNH Cat. No. 92-35-0121, 92-35-0118, 92-35-0117",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-03/753547db7aa0-1.jpg",
+     "caption": "Tại di tích Gò Mộ Người Da Đỏ Etowah, người thời tiền Columbus đã dùng đất sét đỏ để tạo nên những công trình đất nâng cao. Kevin Trotman qua Flickr theo giấy phép CC BY-NC-ND 2.0",
+     "w": 1071,
+     "h": 712
+    },
+    {
+     "src": "img/2026-10-03/753547db7aa0-2.jpg",
+     "caption": "Những mảnh gốm vỡ được khai quật tại Etowah Bộ sưu tập của Khoa Nhân học, Bảo tàng Lịch sử Tự nhiên Florida, FLMNH Cat. No. 92-35-0130, 92-35-0129, 92-35-0126, 92-35-0128",
+     "w": 1072,
+     "h": 743
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Joshua Rapp Learn | Phóng viên khoa học"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Niềm vui thưởng thức sô-cô-la lan khắp lục địa có thể đã tiếp sức cho những người xây dựng các công trình đất ở Georgia cách đây một nghìn năm. Một phân tích gen mới về cặn bám trên những mảnh gốm gần Gò Mộ Người Da Đỏ Etowah đã phát hiện dấu vết cacao (cacao) lâu đời nhất từng được biết đến ở phía đông sông Mississippi, mở rộng hiểu biết của các nhà khảo cổ về sự lan truyền hàng hóa và ý tưởng ở châu Mỹ thời cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "\"Thế giới của người bản địa ở vùng Đông Nam nước Mỹ là một thế giới mang tính quốc tế, nơi mọi người kết nối rất chặt chẽ với nhau,\" Adam King, nhà khảo cổ học tại Đại học Nam Carolina, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Cây cacao, loại cây cho ra hạt được lên men và rang để làm thành sô-cô-la, có nguồn gốc từ vùng Trung Mỹ (Mesoamerica). Một số bằng chứng sớm nhất về việc con người thuần hóa loại cây này có từ khoảng 5.300 năm trước ở Ecuador. Đến năm 1500 trước Công nguyên, người Olmec ở miền nam Mexico đã biết làm thức uống sô-cô-la lên men. Hạt cacao thậm chí còn được người Maya dùng làm tiền tệ trong thời kỳ Cổ Điển (Classic Period), và đến năm 1050 sau Công nguyên, sô-cô-la đã phổ biến rộng khắp vùng này."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng trước đây chỉ có rất ít bằng chứng cho thấy chất này từng xuất hiện ở Bắc Mỹ. Phát hiện mới, được công bố ngày 26 tháng 8 trên tạp chí PLOS One, cho thấy loại hạt kỳ diệu này đã bằng cách nào đó đến được Etowah vào khoảng thế kỷ 11."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, nằm ngay phía tây bắc thành phố Atlanta, Etowah có sáu công trình đất do người bản địa Mỹ xây dựng trong thời kỳ văn hóa Mississippi, trước khi Columbus đến châu Mỹ. Công trình cao nhất trong số đó từng cao khoảng 19,5 mét, theo King, và được xây bằng đất sét đỏ trong khoảng từ năm 1000 đến năm 1550 sau Công nguyên. Những gò đất hình giống kim tự tháp cũng được người dân Cahokia ở miền nam Illinois tạo ra, nổi tiếng với gò Monks Mound cao khoảng 30 mét."
+    },
+    {
+     "t": "p",
+     "text": "King cho biết tại Etowah, việc xây dựng những công trình này rất có thể mang tính nghi lễ cao độ — chính những gò đất này có thể đã biểu trưng cho hành tinh của chúng ta. \"Thực chất họ đang tái hiện lại sự hình thành của Trái Đất,\" ông nói. Bằng việc xây dựng hoặc bồi đắp thêm cho công trình, người Mississippi đã tượng trưng cho việc đặt mình vào trong vũ trụ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, không phải lúc nào cũng chỉ có lao động nặng nhọc. Người Mississippi có lẽ đã tổ chức những buổi tiệc lớn để ăn mừng khi hoàn thành một gò đất. Vào những năm 1950, các nhà khảo cổ đã tìm thấy tàn tích của một buổi tiệc như vậy, đánh dấu một trong những giai đoạn xây gò sớm nhất ở Etowah, vào khoảng từ năm 1050 đến 1150 sau Công nguyên. Những gì còn lại, bao gồm xương động vật và mảnh gốm vỡ, được phát hiện trong một hố khai thác đất — một cái hố được tạo ra do việc đào đất sét đỏ để xây gò. Sau khi người Mississippi đào đất sét từ những hố này, họ lấp lại bằng đất và rác khác — trong trường hợp này là tàn tích của buổi tiệc. Các nhà khảo cổ đã rửa sạch những mảnh gốm, gọi là sherd, và lưu giữ chúng trong nhiều thập kỷ. Nhưng may mắn là các hiện vật này vẫn còn giữ lại một số dấu vết của những gì từng chứa trong các vật dụng đó."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng một thập kỷ trước, King và đồng nghiệp của ông, Terry Powis, một nhà khảo cổ học từng nghiên cứu việc sử dụng cacao ở Trung Mỹ, muốn tìm hiểu xem liệu những mảnh gốm này có còn lưu giữ dấu vết của sô-cô-la hay không. Họ đã được người Muscogee, những người coi Etowah là vùng đất linh thiêng, cho phép phân tích cặn bám trên các mảnh gốm. Nghiên cứu của họ đã tìm thấy bốn hợp chất hữu cơ có trong cacao, bao gồm caffeine, chất có mặt trong cả 31 mảnh gốm mà họ đã kiểm tra."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cacao không phải là loại cây bản địa duy nhất ở châu Mỹ chứa caffeine. Một số loài cây nhựa ruồi (holly) của Mỹ cũng chứa chất kích thích này, bao gồm cả cây yerba mate được dùng ở Nam Mỹ. Ở vùng nay là Đông Nam nước Mỹ, người bản địa đã uống trà làm từ cây nhựa ruồi yaupon bản địa. Dựa trên phân tích cặn bám, nhóm nghiên cứu không thể xác định được caffeine đó đến từ cacao hay từ cây nhựa ruồi yaupon. Họ kết luận rằng khả năng cao hơn là từ cây nhựa ruồi yaupon, do loại cây này phổ biến trong vùng, mặc dù họ chưa có bằng chứng chắc chắn."
+    },
+    {
+     "t": "p",
+     "text": "Gần đây hơn, King và Powis đã hợp tác với các nhà nghiên cứu Pháp để phân tích gen các di vật, với hy vọng giải đáp câu hỏi còn bỏ ngỏ này. Trong nghiên cứu mới, họ báo cáo đã tìm thấy dấu vết DNA của cacao trong hai mảnh gốm."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã đảm bảo rằng DNA cacao đó không phải do nhiễm bẩn ngẫu nhiên, chẳng hạn như các nhà khảo cổ chạm vào đồ gốm cổ sau khi vừa ăn một thanh kẹo Snickers. Chất lượng DNA của cacao đã suy giảm theo cách phù hợp với việc món ăn đó bị bỏ quên suốt cả nghìn năm, cho thấy nó không có nguồn gốc từ thời hiện đại."
+    },
+    {
+     "t": "p",
+     "text": "\"Họ rất cẩn trọng khi giải thích vì sao họ không nghĩ đây là sự nhiễm bẩn hiện đại, điều mà người ta luôn phải lo ngại khi làm việc với DNA,\" nhà khảo cổ học Barbara Mills, giáo sư danh dự tại Đại học Arizona, người không tham gia nghiên cứu của King, cho biết. \"Tôi nghĩ họ đã làm rất tốt.\""
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, điều bất ngờ nhất có lẽ là khoảng cách giữa Etowah và vùng gần nhất từng trồng cacao: cây cacao phát triển tốt ở những vùng đất thấp, nhiệt đới như miền nam Mexico."
+    },
+    {
+     "t": "p",
+     "text": "Vẫn chưa rõ cacao đã đến được Etowah như thế nào. King cho biết có thể một thương nhân hay người đi đường đã mang nó đến trực tiếp, hoặc nó đã được trao đổi qua tay nhiều người cho đến khi tới nơi."
+    },
+    {
+     "t": "p",
+     "text": "Có thể nó đã dừng chân ở một nơi nào đó trên đường đi: vài năm trước, các nhà nghiên cứu đã tìm thấy dấu vết cacao trong các bình gốm tại Pueblo Bonito, một di chỉ ở Chaco Canyon, New Mexico. Xã hội Ancestral Puebloan ở đó đã sử dụng những chiếc bình này vào khoảng thời gian gần như trùng với lúc người thuộc văn hóa Mississippian sử dụng các bình gốm có dấu vết cacao ở Etowah. Những phân tích tiếp theo còn phát hiện thêm nhiều dấu vết cacao khả nghi ở các khu vực khác thuộc miền tây nam Hoa Kỳ."
+    },
+    {
+     "t": "p",
+     "text": "Có khả năng hạt cacao dùng để pha thức uống sô-cô-la được tiêu thụ ở Etowah đã đến qua con đường buôn bán từ Chaco Canyon. \"Có những mạng lưới buôn bán trải rộng cả một lục địa,\" Mills, người đã nghiên cứu đồ gốm ở Chaco Canyon, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "King cũng cho rằng có thể cacao đã được buôn bán theo đường bờ biển vùng Vịnh (Gulf Coast), hoặc có thể nó đã đi qua vùng Caribbean rồi ngược lên qua Florida. Rất khó để khẳng định chắc chắn, vì ở Etowah không tìm thấy nhiều dấu vết ảnh hưởng của văn hóa Mesoamerica, ngoại trừ việc trồng ngô."
+    },
+    {
+     "t": "p",
+     "text": "Bạn có biết? Sự ra đời của thanh sô-cô-la"
+    },
+    {
+     "t": "p",
+     "text": "Bất kỳ loại sô-cô-la nào được dùng vào thời kỳ trước Columbus có lẽ đều là dạng thức uống, và có vị đắng hơn nhiều so với sô-cô-la nóng ngày nay. Thanh sô-cô-la dạng rắn là phát minh ra đời muộn hơn, với thanh sô-cô-la hiện đại đầu tiên được cho là do Joseph Fry tạo ra vào năm 1847."
+    },
+    {
+     "t": "p",
+     "text": "Một ly sô-cô-la đã pha sẵn có lẽ không thể giữ được nguyên vẹn suốt chặng đường từ Mesoamerica đến vùng Đông Nam nước Mỹ. Ngược lại, hạt ca cao có thể bảo quản được rất lâu, theo Anabel Ford, nhà khảo cổ học tại Đại học California, Santa Barbara, người đã nghiên cứu về người Maya suốt nhiều thập kỷ nhưng không tham gia vào công trình của King. \"Ca cao khi được phơi khô, nếu bảo quản ổn định, có thể giữ được rất lâu\", bà nói."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, bất kỳ ai mang ca cao đến đây rất có thể cũng mang theo cả công thức làm sô-cô-la. Trong thế giới của người Maya, sô-cô-la thường được dùng trong các nghi lễ, và Mills cho biết những chiếc bình chứa dấu vết ca cao ở Chaco Canyon cũng cho thấy khả năng được dùng cho mục đích nghi lễ. Tuy nhiên, vẫn chưa rõ các nghi lễ của người Maya đã được truyền đến Etowah ở mức độ nào. Những chiếc bình chứa ca cao tìm thấy ở Etowah khác với bình của người Maya hay người Ancestral Puebloan, nên rất khó để nói chúng được dùng vào việc gì ngoài bối cảnh một bữa tiệc. Những chiếc bình ở Etowah có kiểu dáng rất riêng, được tạo ra bằng cách in hoa văn lên bình bằng những chiếc vồ đặc biệt. \"Đó là một trong những kiểu hoa văn thú vị nhất mà con người từng tạo ra ở khu vực sông Mississippi\", Mills nói."
+    },
+    {
+     "t": "p",
+     "text": "Đối với King, phát hiện này cho thấy châu Mỹ đã được kết nối chặt chẽ với nhau như thế nào từ một nghìn năm trước. Nó cũng khơi lại một cuộc tranh luận cũ. Trước đây, các nhà khảo cổ học từng tin rằng hình dáng của những gò đất lớn, bằng phẳng thuộc nền văn hóa Mississippian là học theo kiểu kim tự tháp của Mesoamerica. Ý tưởng đó dần không còn được các nhà khảo cổ học ủng hộ, do thiếu thêm bằng chứng về mối liên hệ giữa hai vùng văn hóa này. Hơn nữa, giả thuyết đó còn ngầm cho rằng người Mississippian không thể tự mình nghĩ ra cách xây những gò đất như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng phát hiện về ca cao lần này mở ra khả năng rằng ít nhất cũng đã có một mức độ kết nối nào đó giữa Georgia và Trung Mỹ từ 1.000 năm trước. Các mạng lưới họ hàng và quan hệ trao đổi buôn bán \"rộng lớn hơn và gắn kết với nhau nhiều hơn chúng ta vẫn nghĩ\", King nói. \"Đây thực sự là một câu chuyện của cả châu Mỹ.\""
+    }
+   ]
+  },
+  {
+   "id": "db4768ad69e2",
+   "order": 8,
+   "slug": "tiet-kiem-35-trieu-dong-hai-co-gai-tre-nghi-viec-di-xuyen-vi",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Tiết kiệm 35 triệu đồng, hai cô gái trẻ nghỉ việc đi xuyên Việt 306 ngày",
+   "sapo": "(Dân trí) - Tháng 7/2025, Hà nảy ra ý tưởng đi xuyên Việt sau chuyến đi Tà Xùa trước đó. Cô nhắn tin cho bạn thân và nhận được sự đồng ý. Cả hai quyết định",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/tiet-kiem-35-trieu-dong-hai-co-gai-tre-nghi-viec-di-xuyen-viet-306-ngay-20261001102956020.htm",
+   "published": "2026-10-01T23:05:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 2120,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/db4768ad69e2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-0.jpg",
+     "caption": "Hai cô gái cắt tóc ngắn trong ngày đầu tiên của hành trình xuyên Việt (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-1.jpg",
+     "caption": "Chụp ảnh ở Tam Cốc Bích Động, Ninh Bình (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-2.jpg",
+     "caption": "Chinh phục đèo Pha Đin (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-3.jpg",
+     "caption": "Tới thăm núi Mắt Thần, Cao Bằng (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-4.jpg",
+     "caption": "Cả hai ở và sinh hoạt cùng người Mông ở Tà Xùa, Sơn La (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-5.jpg",
+     "caption": "Cả hai trải nghiệm một ngày bán phở cùng ông bà người Thái Đen ở Lìm Thái (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-6.jpg",
+     "caption": "Kỉ niệm tham gia đám cưới người Thái Đen cùng ông bà ở Sơn La (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-7.jpg",
+     "caption": "Trải nghiệm cào ngao cùng ngư dân ở đảo Quan Lạn (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-10-03/db4768ad69e2-8.jpg",
+     "caption": "Thưởng thức rượu cần của người Mơ Nâm ở KonTum (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Quyết định nghỉ việc, du lịch 306 ngày"
+    },
+    {
+     "t": "p",
+     "text": "Trần Thị Thu Hà và Mai Thị Hoa (SN 2002, quê ở Thanh Hóa), vốn là bạn thân từ thời cấp 3. Sau khi tốt nghiệp đại học, cả hai làm trong lĩnh vực truyền thông, sáng tạo nội dung."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi thực hiện chuyến xuyên Việt, hai cô gái từng cùng nhau khám phá nhiều địa phương ở miền Bắc. Chuyến đi Tà Xùa, Sơn La năm 2025 trở thành dấu mốc khiến họ thay đổi cách nhìn về du lịch."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến đi ấy, Hà và Hoa tình cờ gặp chị Măng - một phụ nữ người Mông địa phương. Hai cô gái được trải nghiệm hái, sơ chế chè Shan tuyết cổ thụ bằng phương pháp thủ công, đồng thời có thời gian sinh hoạt cùng gia đình chị."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ nhìn thấy những đồi chè hay chụp ảnh giữa núi rừng, họ lần đầu được trực tiếp làm một công việc gắn với đời sống của người dân địa phương, nghe những câu chuyện về gia đình, về cuộc sống và cách người dân gắn bó với vùng đất mình sinh ra."
+    },
+    {
+     "t": "p",
+     "text": "Sau chuyến đi, đôi bạn thân nhận ra điều khiến họ nhớ nhất không hẳn là một điểm check-in đẹp hay đặt chân tới càng nhiều điểm du lịch càng tốt."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi muốn sống cùng người dân bản địa, tìm hiểu văn hóa và trải nghiệm những công việc thường ngày, lắng nghe câu chuyện của họ\", Hà chia sẻ với phóng viên Dân trí ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng về một hành trình dài dần hình thành."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 7/2025, Hà chia sẻ với Hoa về ý định nghỉ việc để thực hiện chuyến đi dài ngày. Cô bạn thân lập tức đồng ý. Cả hai dành khoảng 8 tháng chuẩn bị, từ lộ trình, kinh phí, phương tiện, các vật dụng cần thiết đến việc thuyết phục gia đình hai bên."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi còn trẻ nên nghỉ việc thời điểm này cũng không phải là sự đánh đổi. Cả hai cùng nghĩ rằng, nếu không thực hiện bây giờ sẽ khó có chuyến đi như vậy. Con số 306 ngày phượt xuyên Việt để nhắc về biển số xe 36 của quê hương Thanh Hóa. Sau khi kết thúc hành trình ở Đà Nẵng, chúng tôi sẽ ngồi tàu về đón Tết bên gia đình\", đôi bạn thân chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Cuối tháng 3 năm nay, cả hai nghỉ công việc văn phòng. Tại Hà Nội, họ cắt tóc ngắn để thuận tiện cho hành trình rồi bắt đầu chuyến đi. Chiếc xe máy số cũ được mua với giá khoảng 7 triệu đồng. Sau đó, họ mang ra cửa hàng nhờ kiểm tra, sửa chữa và lắp thêm giá chở hành lý."
+    },
+    {
+     "t": "p",
+     "text": "Hai cô gái mang theo máy ảnh, máy quay cùng các vật dụng cá nhân cần thiết."
+    },
+    {
+     "t": "p",
+     "text": "Tổng chi phí chuẩn bị ban đầu khoảng 35 triệu đồng, trong đó khoảng 20 triệu đồng được dành làm kinh phí sinh hoạt trong những ngày đầu."
+    },
+    {
+     "t": "p",
+     "text": "Với số tiền không quá lớn, họ xác định không thể đi theo cách của một chuyến du lịch thông thường. Hà và Hoa ưu tiên ăn uống tại chợ dân sinh, quán bình dân, hàng ăn ven đường."
+    },
+    {
+     "t": "p",
+     "text": "Chỗ nghỉ ngơi càng phù hợp túi tiền càng tốt, thường là homestay, nhà nghỉ bình dân với mức khoảng 120.000 đồng/người/đêm. Thậm chí có nơi chỉ khoảng 100.000 đồng cho cả hai."
+    },
+    {
+     "t": "p",
+     "text": "Nếu có người thân, bạn bè ở địa phương, họ chủ động liên hệ để xin tá túc một, hai đêm. Trong nhiều trường hợp, những người xa lạ họ gặp trên đường cũng sẵn sàng mời hai cô gái về nhà ăn cơm hoặc nghỉ lại."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đổi lại, Hà và Hoa không coi mình là những vị khách chỉ đến để ngủ một đêm rồi rời đi. Khi ở cùng gia đình nào, họ thường phụ nấu cơm, hái rau, dọn dẹp, làm việc tại quán hoặc tham gia những công việc mà gia chủ đang làm."
+    },
+    {
+     "t": "p",
+     "text": "Hai cô gái cũng vừa đi vừa nhận các công việc sáng tạo nội dung từ xa để có thêm thu nhập. Trước mỗi chặng, họ nghiên cứu kỹ bản đồ và chủ động điều chỉnh lịch trình theo điều kiện thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Cung đường được xây dựng qua 63 tỉnh, thành theo địa giới cũ, từ Tây Bắc, Đông Bắc xuống đồng bằng sông Hồng, dọc miền Trung, Tây Nguyên, xuống miền Nam, miền Tây rồi vòng trở lại theo đường biển."
+    },
+    {
+     "t": "p",
+     "text": "Với Hà và Hoa, con số các tỉnh thành không phải mục tiêu duy nhất."
+    },
+    {
+     "t": "p",
+     "text": "Nếu một địa phương có câu chuyện hay nét văn hóa hấp dẫn, làng nghề truyền thống lâu đời muốn tìm hiểu, họ có thể ở lại lâu hơn dự kiến."
+    },
+    {
+     "t": "h",
+     "text": "Chiếc xe cũ 7 triệu đồng và những cuộc gặp ngoài kế hoạch"
+    },
+    {
+     "t": "p",
+     "text": "Đầu tháng 4 năm nay, đôi bạn thân lên đường. Ngay ngày đầu tiên, hành trình đã cho Hà và Hoa một bài học mà sau này cả hai luôn nhắc nhau."
+    },
+    {
+     "t": "p",
+     "text": "Từ Hà Nội lên Tà Xùa, quãng đường hơn 200km khiến hai cô gái gặp khá nhiều khó khăn vì chưa có kinh nghiệm."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 19h, khi gần đến nơi, do chưa quen sử dụng bản đồ, họ chọn một tuyến đường ngắn hơn mà không nhận ra điện thoại đang chỉ vào một đoạn đường đất dốc, vốn là lối tắt người dân địa phương thường đi."
+    },
+    {
+     "t": "p",
+     "text": "Xe chở nặng không thể vượt dốc, hai cô gái phải nhờ người dân giúp đưa trở lại đường lớn. Tiếp tục di chuyển trong sương tối Tà Xùa, họ va chạm với một người đi xe máy. May mắn, không ai bị thương nghiêm trọng, chiếc xe chỉ hỏng một bên yếm."
+    },
+    {
+     "t": "p",
+     "text": "Sau sự cố, hai cô gái thống nhất một nguyên tắc được duy trì suốt hành trình: cố gắng phải về đến chỗ nghỉ trước 18h, đặc biệt ở những khu vực miền núi, đường đèo hoặc có sương mù."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cũng chính những lần đi chệch khỏi kế hoạch lại mang đến cho họ nhiều kỷ niệm đáng nhớ."
+    },
+    {
+     "t": "p",
+     "text": "Tại bản Lìm Thái, xã Tú Lệ (địa bàn Yên Bái cũ, nay thuộc tỉnh Lào Cai), hai cô gái dự định đi tiếp đến một bản người Mông."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, chiếc xe cũ chở nặng hành lý không thể vượt đoạn đường dốc. Hai cô gái phải dừng lại ở một bản người Thái thấp hơn. Tại đây, họ tình cờ gặp một cặp vợ chồng người Thái Đen lớn tuổi bán phở."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Thay vì chỉ ăn một bát phở rồi đi, hai cô gái ngỏ ý muốn ở lại làm việc cùng ông bà một ngày. Họ phụ dọn dẹp, phục vụ khách, rồi nghe hai người kể chuyện về cuộc sống và văn hóa của người Thái. Ông bà còn hát dân ca bằng tiếng Thái, chơi đàn tính tẩu."
+    },
+    {
+     "t": "p",
+     "text": "Những khoảnh khắc đáng nhớ này được họ ghi lại và chia sẻ lên trang cá nhân. Những đoạn video khiến cặp vợ chồng lớn tuổi thích thú đến mức nhiều lần mở lại cho khách xem. Dù hai cô gái tới địa phương khác, hai ông bà vẫn gọi điện hỏi thăm."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Hay ở Măng Đen, Kon Tum ở một homestay trong làng, họ được mời ăn cơm, cùng nhặt rau, mang củi, nấu ăn, học cách uống rượu cần rồi giao lưu văn nghệ."
+    },
+    {
+     "t": "p",
+     "text": "Những trải nghiệm ấy khiến hai cô gái nhận ra rằng đôi khi một địa điểm đẹp không để lại nhiều ấn tượng bằng một gia đình xa lạ sẵn sàng mở cửa đón mình vào nhà."
+    },
+    {
+     "t": "h",
+     "text": "Đi chậm để nghe câu chuyện của mỗi vùng đất"
+    },
+    {
+     "t": "p",
+     "text": "Sau hơn nửa hành trình, Hà và Hoa đã hình thành một nhịp sống khá khác với những chuyến du lịch thông thường. Họ không đặt ra giờ giấc cứng nhắc."
+    },
+    {
+     "t": "p",
+     "text": "Nếu đã hẹn với một gia đình địa phương, buổi sáng có thể bắt đầu bằng việc cùng họ đi chợ, làm việc hoặc chuẩn bị bữa ăn. Nếu không có lịch trải nghiệm, hai cô gái ăn sáng, ghé chợ, tìm hiểu địa phương rồi tiếp tục di chuyển. Mục tiêu thường là đến nơi nghỉ trước 18h."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Việc sống cạnh nhau gần như 24/7 cũng khiến đôi bạn không tránh khỏi những bất đồng. Nhưng sau mỗi lần tranh luận, họ dần hiểu rằng đồng hành không có nghĩa là lúc nào cũng phải suy nghĩ giống nhau."
+    },
+    {
+     "t": "p",
+     "text": "Có lúc một người muốn đi tiếp, người kia muốn ở lại. Có khi cả hai mệt vì đường dài, thiếu ngủ hoặc áp lực công việc. Sau cùng, họ học cách nhường nhau một bước để tiếp tục hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Trong những vùng đất đã đi qua, Hà ấn tượng nhất với Cao Bằng. Cô bị cuốn hút bởi màu xanh của núi rừng, cảm giác vùng đất vẫn giữ được vẻ sống động và gần gũi."
+    },
+    {
+     "t": "p",
+     "text": "Với Hoa, Hà Giang cũ (nay thuộc tỉnh Tuyên Quang) để lại ấn tượng mạnh bởi sự hùng vĩ. Đứng trước những dãy núi lớn, cô cảm thấy con người trở nên nhỏ bé trước thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Còn về ẩm thực, Huế là nơi khiến cả hai bất ngờ. Từ bánh ram ít, bánh nậm, bánh bột lọc đến bánh bèo đều là những món ăn bình dân với mức giá phải chăng nhưng ngon miệng. Các món ăn được bày bán ở nhiều hàng quán nhỏ và chợ dân sinh. Với khoảng 15.000-30.000 đồng, hai cô gái có thể có một bữa ăn hoặc món ăn đủ no."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Để bảo đảm an toàn, đặc biệt khi chỉ có hai cô gái đi với nhau, Hà và Hoa luôn báo tình hình cho gia đình, chia sẻ định vị với người thân mỗi ngày. Họ mang theo còi báo động, đèn pin nhỏ và một số vật dụng tự vệ cơ bản."
+    },
+    {
+     "t": "p",
+     "text": "Khi lựa chọn nơi nghỉ, họ ưu tiên những gia đình có nhiều người, có trẻ nhỏ hoặc người lớn tuổi, hạn chế ở những nơi chỉ có một người đàn ông sống một mình."
+    },
+    {
+     "t": "p",
+     "text": "May mắn, ngoài những sự cố trên đường, họ chưa gặp tình huống nguy hiểm nghiêm trọng nào."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, họ đã đi hơn nửa chặng đường. Đôi bạn thân đang ở Lâm Đồng và chuẩn bị tiếp tục tới Đắk Nông. Phía trước vẫn là hành trình dài cho tới khi hai cô gái vòng trở lại theo cung đường ven biển."
+    },
+    {
+     "t": "p",
+     "text": "Dự kiến khi về tới Đà Nẵng, họ sẽ đưa cả người và phương tiện lên tàu hỏa để trở về quê nhà ở Thanh Hóa, hoàn thành hành trình, kịp đón Tết cùng gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Với họ, con số 306 ngày không đơn thuần là một cuộc đua để đánh dấu đủ 63 tỉnh, thành theo địa giới cũ. Đó là khoảng thời gian để hai cô gái 24 tuổi bước ra khỏi công việc quen thuộc, tự lo cho cuộc sống của mình và học cách nhìn một vùng đất qua chính câu chuyện của những người đang sống ở đó."
+    },
+    {
+     "t": "p",
+     "text": "Có những nơi họ chỉ định dừng một đêm nhưng rồi ở lại thêm vì mến người, yêu cảnh. Và cũng có những con đường không nằm trong kế hoạch lại dẫn họ đến một gia đình xa lạ, thêm kỷ niệm đáng nhớ. Hành trình cũng không thiếu cuộc gặp chỉ kéo dài vài giờ nhưng đủ để trở thành một phần ký ức của hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Sau cùng, điều khiến hai cô gái \"thu hoạch\" không chỉ là những thước phim về một Việt Nam rộng lớn, còn là những câu chuyện về con người họ đã gặp trên đường."
+    },
+    {
+     "t": "p",
+     "text": "Lịch trình du lịch xuyên Việt 306 ngày của hai cô gái:"
+    },
+    {
+     "t": "p",
+     "text": "Lịch trình: Cung đường đi qua 63 tỉnh thành theo địa giới cũ, từ Tây Bắc, Đông Bắc tới đồng bằng sông Hồng, dọc các tỉnh miền Trung, Tây Nguyên, xuống miền Nam, miền Tây và vòng trở lại theo đường biển."
+    },
+    {
+     "t": "p",
+     "text": "Chi phí 35 triệu đồng : Trong đó, 20 triệu đồng cầm theo dọc đường, 15 triệu đồng mua sắm các vật dụng như xe máy (7 triệu đồng), đồ dùng cá nhân."
+    },
+    {
+     "t": "p",
+     "text": "Chi phí lưu trú: Ưu tiên nhà nghỉ bình dân giá từ 100.000 đồng/người/đêm hoặc xin ở nhờ nhà người quen."
+    },
+    {
+     "t": "p",
+     "text": "Chi phí ăn uống: Ưu tiên các hàng quán bình dân, chợ dân sinh với mức giá phải chăng."
+    },
+    {
+     "t": "p",
+     "text": "Trong suốt quãng đường đi, cả hai tiếp tục làm thêm để có thêm mức chi phí."
+    }
+   ]
+  },
+  {
+   "id": "40c78947c415",
+   "order": 9,
+   "slug": "a-quan-boxing-nu-asiad-20-nguyen-thi-tam-tu-chan-thuong-nghi",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Á quân boxing nữ ASIAD 20 Nguyễn Thị Tâm: Từ chấn thương nghiệt ngã đến cột mốc lịch sử",
+   "sapo": "Việc giành Huy chương bạc (HCB) tại ASIAD 20 vào trưa 2-10 không chỉ đưa võ sĩ Hà Nội Nguyễn Thị Tâm trở thành nữ võ sĩ Việt Nam đầu tiên vào chung kết một kỳ ASIAD, mà còn đánh dấu màn trở lại đặc biệt của một tay đấm từng đứng trước nguy cơ phải khép lạ",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/a-quan-boxing-nu-asiad-20-nguyen-thi-tam-tu-chan-thuong-nghiet-nga-den-cot-moc-lich-su-1759225.html",
+   "published": "2026-10-02T09:53:10+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1318,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/40c78947c415-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-10-03/40c78947c415-0.jpg",
+     "caption": "Võ sĩ Nguyễn Thị Tâm (áo xanh) thi đấu chủ động ở trận chung kết vào trưa 2-10. Ảnh: Bùi Lượng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/40c78947c415-1.jpg",
+     "caption": "Võ sĩ Nguyễn Thị Tâm (áo xanh) có màn trình diễn chấp nhận được trong trận chung kết ASIAD 20. Ảnh: Bùi Lượng.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/40c78947c415-2.jpg",
+     "caption": "Võ sĩ Nguyễn Thị Tâm nhận HCB tại ASIAD 20. Ảnh: Long Nguyễn.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/40c78947c415-3.jpg",
+     "caption": "Võ sĩ Nguyễn Thị Tâm nhận thưởng nóng từ lãnh đạo Đoàn Thể thao Việt Nam ở ASIAD 20. Trong thành công của cô có dấu ấn của HLV Nguyễn Như Cường (thứ hai từ trái sang) và chuyên gia Tawan Mungphingklang (thứ hai từ phải sang). Ảnh: Long Nguyễn.",
+     "w": 1280,
+     "h": 810
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ đỉnh cao đến những ngày tưởng phải dừng lại"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trưa 2-10 tại Nishio Gymnasium, Aichi (Nhật Bản), võ sĩ boxing Nguyễn Thị Tâm bước lên sàn đấu trong trận chung kết hạng 51kg nữ với Wu Yu (Trung Quốc), đương kim vô địch Olympic Paris 2024. Trước một đối thủ có tốc độ ra đòn cực nhanh, phòng thủ kín kẽ, khả năng di chuyển và kinh nghiệm thi đấu đỉnh cao, nữ võ sĩ Việt Nam không thể hóa giải dù thi đấu rất chủ động. Dù vậy, thất bại trước Wu Yu không thể làm lu mờ hành trình đặc biệt mà cô vừa đi qua."
+    },
+    {
+     "t": "p",
+     "text": "Bởi để góp mặt trong trận chung kết, võ sĩ Nguyễn Thị Tâm đã lần lượt vượt qua Ramisha Shrestha (Nepal), Guo Yi-xuan (Đài Bắc Trung Hoa), Bak Chorong (Hàn Quốc) và đặc biệt là đương kim vô địch thế giới 2025 Alua Balkibekova (Kazakhstan) với tỷ số 5-0 ở bán kết. Chiến thắng ấy đưa Tâm trở thành võ sĩ boxing Việt Nam đầu tiên vào chung kết một kỳ ASIAD."
+    },
+    {
+     "t": "p",
+     "text": "Đó cũng là lý do tấm HCB ASIAD 20 người mà võ sĩ Nguyễn Thị Tâm giành được thực sự là cột mốc lịch sử của boxing Việt Nam. Trước đó, thành tích tốt nhất của boxing Việt Nam tại ASIAD là HCĐ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Gần một thập niên trước, võ sĩ Nguyễn Thị Tâm từng là một trong những niềm hy vọng lớn nhất của boxing nữ Việt Nam. Cô vô địch châu Á năm 2017 và 2022, giành HCĐ ASIAD 18 năm 2018, hai lần vô địch SEA Games vào các năm 2019 và 2022, rồi trở thành võ sĩ Việt Nam đầu tiên giành HCB thế giới vào năm 2023. Cũng trong năm 2021, cô góp mặt tại Olympic Tokyo, giải đấu được tổ chức sau một năm do ảnh hưởng của đại dịch."
+    },
+    {
+     "t": "p",
+     "text": "Những thành tích ấy từng đưa võ sĩ Tâm lên vị trí của một trong những tay đấm hàng đầu châu Á. Nhưng cũng chính năm 2023, bước ngoặt nghiệt ngã xảy đến."
+    },
+    {
+     "t": "p",
+     "text": "Ở trận đầu tiên tại SEA Games 32 gặp Jutamas Jitpong của Thái Lan, khi thi đấu ở hạng cân không phải sở trường, võ sĩ Nguyễn Thị Tâm bị đối thủ ngã đè lên dẫn đến chấn thương. Kết quả kiểm tra xác định Tâm đứt hoàn toàn dây chằng chéo trước đầu gối trái, phải phẫu thuật và bước vào quãng thời gian dài điều trị, phục hồi."
+    },
+    {
+     "t": "p",
+     "text": "Chấn thương ấy không chỉ lấy đi của Tâm những tháng ngày trên sàn đấu. Nó khiến con đường trở lại đội tuyển quốc gia trở nên gập ghềnh hơn. Cô chỉ dự vòng loại đầu tiên Olympic Paris 2024, vắng mặt ở vòng loại thứ hai và sau đó không có tên trong đội tuyển boxing Việt Nam dự SEA Games 33."
+    },
+    {
+     "t": "p",
+     "text": "Với một võ sĩ đã bước qua tuổi 30, đó là thử thách không nhỏ. Nhưng Nguyễn Thị Tâm không chọn cách dừng lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau ca phẫu thuật, cô âm thầm tập luyện, kiên trì phục hồi và từng bước tìm lại nền tảng thể lực, kỹ thuật. Cùng với HLV Nguyễn Như Cường và chuyên gia Thái Lan Tawan Mungphingklang, Tâm bước vào một hành trình mới để tìm một phiên bản tốt nhất có thể ở giai đoạn mới của sự nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Thực tế, cô đã phải đối mặt với câu chuyện trẻ hóa ở hạng cân 51kg nữ tại đội tuyển quốc gia và tưởng như không có cơ hội. Nhưng sự trở lại thuyết phục về chuyên môn của cô đã khiến cô được lựa chọn dự ASIAD 20. HLV Nguyễn Như Cường dù thấy cô học trò trở lại thuyết phục nhưng vẫn có lúc lo cho khả năng góp mặt ở ASIAD 20 của cô dù ông luôn khẳng định ở Việt Nam, chưa võ sĩ nào vượt qua Nguyễn Thị Tâm ở hạng 51kg."
+    },
+    {
+     "t": "p",
+     "text": "Câu trả lời ở ASIAD 20"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Và ASIAD 20 đã trở thành câu trả lời cho nỗ lực trong hành trình trở lại của Nguyễn Thị Tâm."
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện của Nguyễn Thị Tâm sau trận bán kết hạng 51kg nữ khiến câu chuyện về tấm HCB trở nên nhiều cảm xúc hơn. Cô bảo rằng muốn dành tặng huy chương cho người cha đã mất."
+    },
+    {
+     "t": "p",
+     "text": "Khi Tâm chấn thương, cha cô từng lo rằng con gái sẽ không thể trở lại thi đấu. Và Tâm đã hứa rằng, bởi còn rất đam mê, cô sẽ tiếp tục tập luyện để trở lại và đạt phong độ cao nhất."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ chính chữ “đam mê” ấy đã nối hai đầu của hành trình: từ cô gái từng đứng trên những bục huy chương lớn của châu Á và thế giới đến nữ võ sĩ phải dứng dậy tìm đến bục huy chương sau một chấn thương nặng."
+    },
+    {
+     "t": "p",
+     "text": "Tâm từng nói sau ASIAD 20 rằng cũng không nghĩ mình có thể vào đến trận chung kết. Điều này cũng trùng với dự báo của các nhà quản lý, HLV khi nhận định rằng cô có thể chỉ vào đến vòng bán kết tại ASIAD 20."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với Cục Thể dục thể thao Việt Nam, ngành Thể thao Hà Nội cố gắng đầu tư và chuẩn bị chuyên môn cho Nguyễn Thị Tâm."
+    },
+    {
+     "t": "p",
+     "text": "Trước ASIAD 20, ngành Thể thao Hà Nội phối hợp với Cục Thể dục thể thao Việt Nam đưa nhóm võ sĩ chủ lực gồm Nguyễn Thị Tâm, Hà Thị Linh, Lưu Diễm Quỳnh cùng chuyên gia Tawan Mungphingklang sang Thái Lan tập huấn hơn một tháng. Chuyến tập huấn kéo dài khoảng một tháng rưỡi được thực hiện bằng kinh phí của ngành Thể thao Hà Nội. Đáng chú ý, tại ASIAD 20, chuyên gia Tawan cũng được Hà Nội bố trí kinh phí để đồng hành cùng các VĐV."
+    },
+    {
+     "t": "p",
+     "text": "Cũng phải kể thêm, chuyên gia Tawan Mungphingklang đã làm việc với boxing Hà Nội từ năm 2013 và từng góp phần quan trọng trong quá trình nâng tầm boxing nữ Việt Nam. Với Nguyễn Thị Tâm, ông là người đã xây dựng lộ trình huấn luyện cho cô từ khi còn là một VĐV trẻ, giúp Tâm hoàn thiện kỹ thuật và chiến thuật, từ đó từng bước vươn lên nhóm võ sĩ hàng đầu châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Tại ASIAD 20, hình ảnh Tawan đứng sát bên Tâm trong những trận đấu quan trọng cho thấy giá trị của sự đồng hành ấy. Ở bán kết, ông cùng HLV Nguyễn Như Cường liên tục chỉ đạo để Tâm duy trì cách đánh trước Balkibekova. Tâm thắng 5-0 và bước vào trận chung kết lịch sử."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "HLV Nguyễn Như Cường cũng đánh giá việc chuyên gia Thái Lan được đi cùng đội tại ASIAD 20 có ý nghĩa rất lớn, bởi ông Tawan đã theo sát quá trình huấn luyện các VĐV nữ trọng điểm Hà Nội và có thể giúp ban huấn luyện điều chỉnh kịp thời trong thi đấu."
+    },
+    {
+     "t": "p",
+     "text": "Như vậy, thành công của Nguyễn Thị Tâm tại ASIAD 20 có thể nhìn từ nhiều phía gồm một quá trình hồi phục nghiêm túc, đam mê chinh phục đỉnh cao của cô, sự đầu tư của Cục Thể dục thể thao cũng như thể thao Hà Nội, năng lực của ban huấn luyện và chuyên gia nước ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Sau trận chung kết vào ngày 2-10, Nguyễn Thị Tâm cho hay vẫn chưa muốn dừng lại sự nghiệp thi đấu quốc tế. Sau ASIAD 20, cô hướng tới Olympic 2028 và mong muốn được tập huấn dài hạn để tiếp tục hoàn thiện chuyên môn nhằm giành vé đến Thế vận hội."
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi 32, mục tiêu ấy chắc chắn không dễ dàng. Nhưng câu chuyện của Tâm trong những năm qua cho thấy cô không phải người dễ dàng từ bỏ mục tiêu."
+    }
+   ]
+  },
+  {
+   "id": "db46b98f68bb",
+   "order": 10,
+   "slug": "mo-uoc-chay-bong-cua-a-quan-asiad-20-nguyen-thi-tam-toi-muon",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Mơ ước cháy bỏng của á quân ASIAD 20 Nguyễn Thị Tâm: ‘Tôi muốn giành vé dự Olympic 2028’",
+   "sapo": "Nguyễn Thị Tâm có chút tiếc nuối khi không vượt qua HCV Olympic Wu Yu, nhưng vẫn rất tự hào khi đem về HCB lịch sử cho quyền anh Việt Nam, ngay lần đầu tái xuất đỉnh cao sau 3 năm dưỡng thương.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/mo-uoc-chay-bong-cua-a-quan-asiad-20-nguyen-thi-tam-toi-muon-gianh-ve-du-olympic-2028-185261002121251146.htm",
+   "published": "2026-10-02T05:20:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 418,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/db46b98f68bb-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/db46b98f68bb-0.jpg",
+     "caption": "Một pha tấn công ghi điểm của Nguyễn Thị Tâm trước Wu Yu",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-03/db46b98f68bb-1.jpg",
+     "caption": "Phó cục trưởng Cục TDTT Việt Nam - Trưởng đoàn Nguyễn Hồng Minh thưởng nóng cho Nguyễn Thị Tâm",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-03/db46b98f68bb-2.jpg",
+     "caption": "Nguyễn Thị Tâm nhận bó hoa từ em trai đang là kiều bào ở Nhật Bản",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Nguyễn Thị Tâm lập cột mốc lịch sử cho quyền anh Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Chiều 2.10, ở nhà thi đấu Nishio Gymnasium tại thành phố Nishio, tỉnh Aichi (Nhật Bản), nữ võ sĩ quyền anh Nguyễn Thị Tâm hạng 51 kg đã không thể đánh bại tượng đài Wu Yu (Trung Quốc) là nhà đương kim vô địch Olympic 2024."
+    },
+    {
+     "t": "p",
+     "text": "Sau 3 hiệp đấu, Wu Yu đã giành chiến thắng thuyết phục nhờ cách di chuyển thông minh, né đòn và chớp thời cơ rất nhanh để ghi điểm. Sau khi thua ván đầu, Nguyễn Thị Tâm đã rất nỗ lực tấn công nhưng bất thành vì đối thủ di chuyển quá nhanh và thông minh."
+    },
+    {
+     "t": "p",
+     "text": "Mặc dù vậy, tấm HCB của Nguyễn Thị Tâm vẫn là lịch sử, đánh dấu cột mốc lần đầu tiên quyền anh Việt Nam đoạt được ngôi á quân ở một kỳ ASIAD."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm giành HCB boxing ASIAD 20: ‘Dành tặng cho người bố đã mất của em'"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cô gái quê tỉnh Hưng Yên xúc động: \"Tôi có tiếc một chút vì rất nhiều người hâm mộ đã kỳ vọng nhưng mà tôi đã không thể mang lại tấm HCV về cho đoàn thể thao Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng dù sao đây cũng là cái thành tích vượt chỉ tiêu của tôi rồi, nên tôi cũng không hối hận gì cả và sẽ cố gắng tiếp tục cho những giải sắp tới. Đối thủ Wu Yu rất giàu thành tích, thầy trò chúng tôi cũng nghiên cứu kỹ lối chơi của cô ấy."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng sau khi tôi quay trở lại chấn thương mà đạt được thành tích này cũng đã rất là mừng rồi . Tôi và BHL rất tự hào rồi, nên trận chung kết này các thầy giao nhiệm vụ cho tôi phải chơi thật thoải mái và hết mình ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Wu Yu rất giàu kinh nghiệm trong khi tôi mới quay lại nên phong độ của vẫn chưa được tốt lắm. Nhưng tôi sẽ cố gắng hơn nữa cho những năm sau tại vòng loại Olympic và sẽ cố gắng đạt vé để quyền anh Việt Nam đi Olympic 2028."
+    },
+    {
+     "t": "p",
+     "text": "Tôi rất may mắn, nhưng đây cũng là thành tích để đền đáp lại 2-3 năm vừa rồi bị chấn thương và tôi đã cố gắng vượt qua những khó khăn đó để tập luyện . Đây cũng là điều rất là mừng cho tôi, sẽ là bàn đạp tiếp theo để tôi cố gắng hơn nữa \" ."
+    }
+   ]
+  },
+  {
+   "id": "aaae33d33863",
+   "order": 11,
+   "slug": "ngoi-sao-goc-viet-danh-bai-tay-vot-don-nam-pickleball-so-mot",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ngôi sao gốc Việt đánh bại tay vợt đơn nam pickleball số một thế giới",
+   "sapo": "(Dân trí) - Tay vợt gốc Việt, Lực Phạm đã khiến làng pickleball thế giới chấn động khi lội ngược dòng đánh bại hạt giống số một Chris Haworth tại PPA Las",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/ngoi-sao-goc-viet-danh-bai-tay-vot-don-nam-pickleball-so-mot-the-gioi-20261002165348373.htm",
+   "published": "2026-10-02T12:45:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 348,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/aaae33d33863-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/aaae33d33863-0.jpg",
+     "caption": "Lực Phạm gây chấn động khi đánh bại tay vợt từng giành vị trí top 1 PPA Tour (Ảnh: PPA Tour).",
+     "w": 1080,
+     "h": 1440
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Tay vợt gốc Việt, Lực Phạm đã khiến làng pickleball thế giới chấn động khi lội ngược dòng đánh bại hạt giống số một Chris Haworth tại PPA Las Vegas Open để ghi tên mình vào vòng tứ kết."
+    },
+    {
+     "t": "p",
+     "text": "Bước vào vòng 1/8 giải đấu PPA Las Vegas Open 2026 tại Mỹ, Lực Phạm phải chạm trán thử thách cực đại mang tên Chris Haworth, tay vợt người Mỹ đang sở hữu phong độ cực cao với chuỗi 9 danh hiệu đơn nam PPA và vừa vươn lên ngôi số một bảng xếp hạng đơn nam vào tháng 3/2026 sau chức vô địch Greater Zion Cup."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khởi đầu trận đấu không mấy suôn sẻ, Lực Phạm để thua cách biệt 4-11 trong set đầu tiên trước một đối thủ thi đấu đầy hưng phấn và đang hướng tới mục tiêu vô địch hai giải liên tiếp. Tuy nhiên, bản lĩnh và sự lỳ lợm của tay vợt gốc Việt đã lên tiếng đúng lúc."
+    },
+    {
+     "t": "p",
+     "text": "Bằng lối đánh kiên cường, Lực Phạm tạo ra bước ngoặt khi thắng lại 11-7 ở set thứ hai, đưa trận đấu vào set quyết định căng thẳng. Tại đây, anh tiếp tục duy trì sự tập trung cao độ để vượt qua Haworth với tỷ số 11-8, qua đó hoàn tất màn ngược dòng ngoạn mục và chính thức chấm dứt hành trình của đối thủ sừng sỏ."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng vang dội này không chỉ đưa Lực Phạm vào tứ kết mà còn khẳng định sự tiến bộ mạnh mẽ của tay vợt gốc Việt trên đấu trường pickleball chuyên nghiệp quốc tế, nơi Haworth từng khẳng định tên tuổi từ khi chuyển lên chuyên nghiệp vào năm 2023 và tham gia PPA Tour toàn thời gian từ năm 2025."
+    },
+    {
+     "t": "p",
+     "text": "Với chiến thắng đầy cảm xúc ở vòng 1/8, Lực Phạm sẽ tiến vào vòng tứ kết và đối đầu với tay vợt John Lucian Goins (Mỹ), người từng giành được 2 danh hiệu PPA Tour ở nội dung đơn nam. Trận đấu này sẽ diễn ra vào tối 2/10."
+    }
+   ]
+  },
+  {
+   "id": "c4f0dbaad302",
+   "order": 12,
+   "slug": "asiad-20-thua-nha-vo-dich-olympic-nguyen-thi-tam-gianh-huy-c",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "ASIAD 20: Thua nhà vô địch Olympic, Nguyễn Thị Tâm giành Huy chương bạc lịch sử",
+   "sapo": "Không thể tạo nên bất ngờ trước nhà vô địch Olympic Wu Yu (Trung Quốc), Nguyễn Thị Tâm vẫn đi vào lịch sử quyền anh Việt Nam khi giành Huy chương bạc hạng cân 51kg nữ tại ASIAD 20. Đây là thành tích cao nhất của quyền anh Việt Nam ở đấu trường ASIAD.",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/asiad-20-thua-nha-vo-dich-olympic-nguyen-thi-tam-gianh-huy-chuong-bac-lich-su-1759159.html",
+   "published": "2026-10-02T05:04:13+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 624,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-0.jpg",
+     "caption": "Nguyễn Thị Tâm (áo xanh) trong trận quyết đấu cùng nhà vô địch Olympic 2024 Wu Yu (Trung Quốc). Ảnh: Bùi Lượng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-2.jpg",
+     "caption": "Nhà thi đấu Nishio Gymnasium chật kín khán giả cổ vũ cho trận chung kết. Ảnh: Bùi Lượng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-4.jpg",
+     "caption": "Nguyễn Thị Tâm từng giành Huy chương đồng ASIAD 2018. Ảnh: Bùi Lượng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/c4f0dbaad302-5.jpg",
+     "caption": "Tấm Huy chương bạc của Nguyễn Thị Tâm là cột mốc mới của quyền anh Việt Nam tại ASIAD. Ảnh: Bùi Lượng",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tâm điểm ngày tranh tài 2-10 của Đoàn Thể thao Việt Nam tại ASIAD 20 là trận chung kết hạng cân 51kg nữ môn quyền anh giữa Nguyễn Thị Tâm và Wu Yu (Trung Quốc), diễn ra tại Nhà thi đấu Nishio Gymnasium, tỉnh Aichi (Nhật Bản)."
+    },
+    {
+     "t": "p",
+     "text": "Trước giờ thượng đài, Nguyễn Thị Tâm có sự tự tin lớn sau chiến thắng ấn tượng 5-0 trước đương kim vô địch thế giới Alua Balkibekova (Kazakhstan) ở bán kết. Cả 5 trọng tài đều chấm võ sĩ Việt Nam giành chiến thắng, giúp cô lần đầu tiên trong sự nghiệp lọt vào chung kết ASIAD."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, thử thách ở trận đấu quyết định là rất lớn khi đối diện Nguyễn Thị Tâm là Wu Yu - nữ võ sĩ hàng đầu thế giới, từng giành Huy chương vàng Olympic Paris 2024 ở hạng cân 50kg. Với thành tích này, Wu Yu trở thành nữ võ sĩ thứ hai của Trung Quốc giành Huy chương vàng Olympic môn quyền anh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nhà thi đấu Nishio Gymnasium chật kín khán giả ngay từ trận chung kết đầu tiên trong ngày. Nguyễn Thị Tâm xuất hiện với trang phục màu xanh, trong khi Wu Yu mặc trang phục màu đỏ."
+    },
+    {
+     "t": "p",
+     "text": "Ngay từ những phút đầu, Wu Yu cho thấy sự già dặn và kinh nghiệm của một nhà vô địch Olympic. Võ sĩ Trung Quốc chủ động di chuyển, kiểm soát cự ly và liên tục tung ra những đòn đánh nhanh, chính xác."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Tâm nỗ lực áp sát, tìm cách phát huy những pha ra đòn sở trường. Tuy nhiên, trước khả năng di chuyển linh hoạt và cách kiểm soát trận đấu rất chủ động của Wu Yu, võ sĩ Việt Nam gặp không ít khó khăn trong việc triển khai lối đánh."
+    },
+    {
+     "t": "p",
+     "text": "Sau hai hiệp đầu, Wu Yu tạm thời chiếm ưu thế về điểm số. Nguyễn Thị Tâm vẫn kiên trì bám đuổi và nỗ lực thay đổi thế trận trong hiệp đấu cuối cùng."
+    },
+    {
+     "t": "p",
+     "text": "Nữ võ sĩ Việt Nam liên tục tăng tốc, chủ động tấn công và tìm kiếm cơ hội rút ngắn khoảng cách. Dù vậy, Wu Yu vẫn thể hiện bản lĩnh của nhà vô địch Olympic, duy trì khả năng phòng thủ, di chuyển hợp lý và kiểm soát tốt những tình huống trao đổi đòn."
+    },
+    {
+     "t": "p",
+     "text": "Những nỗ lực của Nguyễn Thị Tâm không đủ để tạo nên cuộc lội ngược dòng. Chung cuộc, Wu Yu giành chiến thắng, qua đó bảo vệ vị trí ứng viên số một cho tấm Huy chương vàng hạng cân 51kg nữ."
+    },
+    {
+     "t": "p",
+     "text": "Dù thất bại trong trận đấu cuối cùng, Nguyễn Thị Tâm vẫn có thể tự hào với tấm Huy chương bạc lịch sử. Cô trở thành võ sĩ quyền anh Việt Nam đầu tiên góp mặt trong một trận chung kết ASIAD, đồng thời mang về thành tích cao nhất của quyền anh Việt Nam tại sân chơi châu lục."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là dấu mốc tiếp nối hành trình đặc biệt của Nguyễn Thị Tâm. Cô từng giành Huy chương đồng ASIAD 2018, hai lần vô địch châu Á và năm 2023 trở thành võ sĩ quyền anh Việt Nam đầu tiên giành Huy chương bạc tại Giải vô địch thế giới."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Từ Huy chương đồng ASIAD 2018 đến tấm Huy chương bạc ASIAD 20, Nguyễn Thị Tâm tiếp tục khẳng định vị thế của một trong những nữ võ sĩ tiêu biểu của quyền anh Việt Nam trên đấu trường quốc tế. Đáng chú ý, hành trình đến trận chung kết của cô tại ASIAD 20 được đánh dấu bằng chiến thắng trước đương kim vô địch thế giới, trước khi dừng bước trước nhà vô địch Olympic."
+    }
+   ]
+  },
+  {
+   "id": "6e6cebff5f78",
+   "order": 13,
+   "slug": "spacex-lap-ky-luc-tau-vu-tru-my-bay-nhanh-nhat-den-tram-iss",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "SpaceX lập kỷ lục tàu vũ trụ Mỹ bay nhanh nhất đến trạm ISS",
+   "sapo": "Phi hành đoàn Crew-13 của SpaceX cập bến Trạm Vũ trụ Quốc tế chưa đầy 8 giờ sau khi phóng từ Florida, trở thành chuyến bay nhanh nhất của tàu Mỹ tới trạm ISS.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/spacex-lap-ky-luc-tau-vu-tru-my-bay-nhanh-nhat-den-tram-iss-5127535.html",
+   "published": "2026-10-02T06:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 510,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/6e6cebff5f78-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    },
+    {
+     "src": "img/2026-10-03/6e6cebff5f78-0.jpg",
+     "caption": "Tàu Crew Dragon chở phi hành đoàn Crew-13 bay đến gần trạm ISS để ghép nối. Ảnh: SpaceX",
+     "w": 750,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Phi hành đoàn Crew-13 của SpaceX cập bến Trạm Vũ trụ Quốc tế chưa đầy 8 giờ sau khi phóng từ Florida, trở thành chuyến bay nhanh nhất của tàu Mỹ tới trạm ISS."
+    },
+    {
+     "t": "p",
+     "text": "Space đưa tin, nhiệm vụ Crew-13 của SpaceX đến Trạm Vũ trụ Quốc tế (ISS) lúc 6h05 ngày 2/10 giờ Hà Nội, sau 7 giờ 55 phút phóng từ Trạm không gian Cape Canaveral ở Florida trên tên lửa Falcon 9."
+    },
+    {
+     "t": "p",
+     "text": "NASA kỷ lục cũ là 12 giờ 33 phút, được thiết lập vào tháng 11/2024 bởi tàu Dragon của SpaceX trong chuyến bay chở vật tư CRS-31. Đối với chuyến bay có người lái, thời gian nhanh nhất trước đó là 14 giờ 43 phút trong nhiệm vụ Crew-11 vào tháng 8/2025."
+    },
+    {
+     "t": "p",
+     "text": "Julianna Scheiman, giám đốc khoa học NASA và chương trình Dragon của SpaceX, giải thích trạm vũ trụ ở vị trí thuận lợi trong không gian và cơ học quỹ đạo đã giúp tàu vũ trụ Dragon của công ty đến đích trong thời gian ngắn nhất từ trước tới nay. Theo Anadolu Ajansı, ở thời điểm phóng, trạm ISS đang di chuyển ở tốc độ khoảng 28.200 km/h tại độ cao 423 km về phía tây bắc Havana, Cuba."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, thời gian của phi hành đoàn Crew-13 còn kém xa kỷ lục bay nhanh nhất đến trạm ISS của thế giới. Vào tháng 5/2020, tàu Soyuz của Nga chở ba phi hành gia đến phòng thí nghiệm quỹ đạo chỉ 3 giờ 3 phút sau khi cất cánh từ sân bay vũ trụ Baikonur ở Kazakhstan. Soyuz bắt kịp trạm ISS chỉ sau hai vòng quay quanh Trái Đất. Nguyên nhân không phải do Soyuz nhanh hơn hay mạnh hơn so với tàu Dragon. Chênh lệch trong thời gian bay chủ yếu do các nhà điều khiển nhiệm vụ của Nga có xu hướng nhắm đến quỹ đạo \"đường tắt\" ngắn hơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Le Monde cho biết, ban đầu Crew-13 được lên lịch phóng vào giữa tháng 9 nhưng phải tạm hoãn do lỗi rò rỉ trên tàu Dragon. Crew-13 chở 4 phi hành gia lên trạm ISS, bao gồm Jessica Watkins và Luke Delaney của NASA, Joshua Kutryk của Cơ quan Vũ trụ Canada và Sergey Teteryatnikov của cơ quan vũ trụ Nga Roscosmos. Họ sẽ sinh sống và làm việc trên trạm trong 6 tháng tới, thay thế 4 phi hành gia của nhiệm vụ Crew-12 phóng hồi giữa tháng 2 là Jessica Meir và Jack Hathaway của NASA, Sophie Adenot của Cơ quan Vũ trụ châu Âu (ESA) và nhà du hành Andrey Fedyaev. Phi hành đoàn Crew-12 có thể trở về Trái Đất bằng tàu Crew Dragon sớm nhất vào ngày 5/10."
+    },
+    {
+     "t": "p",
+     "text": "Dù có người ở liên tục trong 25 năm qua, trạm ISS cũ kỹ sẽ rời khỏi quỹ đạo và rơi xuống đại dương vào khoảng năm 2030. Mỹ và các đối tác khác sẽ tiếp tục hợp tác với Nga để vận hành trạm vũ trụ cho tới thời điểm đó."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "5ae7ca2c96a9",
+   "order": 14,
+   "slug": "toan-bo-danh-muc-sharpless-313-tinh-van",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Toàn bộ danh mục Sharpless: 313 tinh vân",
+   "sapo": "Phải làm gì để chụp ảnh được hàng trăm tinh vân? Bức ảnh hôm nay chứa toàn bộ Danh mục Sharpless về các vùng H II, tổng cộng 313 vật thể. Hãy phóng to và khám phá nhé!",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
+   "published": "2026-10-02T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 275,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "The Complete Sharpless Catalog: 313 Nebulas",
+   "images": [
+    {
+     "src": "img/2026-10-03/5ae7ca2c96a9-lead.jpg",
+     "caption": "",
+     "w": 1019,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-03/5ae7ca2c96a9-0.jpg",
+     "caption": "313 bức ảnh riêng lẻ chụp các tinh vân với nhiều hình dạng và độ sáng khác nhau. Có tinh vân mờ nhạt, mỏng manh như sương; có tinh vân sáng rực, tạo thành những cấu trúc rõ nét. Mỗi bức ảnh ghi lại những chuyển động phức tạp của khí giữa các vì sao.",
+     "w": 1280,
+     "h": 1607
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "APOD"
+    },
+    {
+     "t": "p",
+     "text": "Ảnh thiên văn mỗi ngày"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá vũ trụ! Mỗi ngày, một bức ảnh khác nhau về vũ trụ kỳ thú của chúng ta sẽ được giới thiệu, kèm theo lời giải thích ngắn gọn do một nhà thiên văn học chuyên nghiệp viết."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải thích: Phải làm gì để chụp ảnh được hàng trăm tinh vân? Bức ảnh hôm nay chứa toàn bộ Danh mục Sharpless về các vùng H II, tổng cộng 313 vật thể. Hãy phóng to và khám phá nhé! Bạn có thể nhận ra những \"ngôi sao\" quen thuộc như tinh vân Đại Bàng (Sh2-49), tinh vân Trái Tim (Sh2-190) và tinh vân Lạp Hộ (Sh2-281). Dù mang tên như vậy, danh mục này không chỉ gồm ánh sáng của khí hydro bị ion hóa tạo nên các vùng H II. Trong đó còn có cả tinh vân hành tinh (tinh vân Sứa, Sh2-274) và tàn tích siêu tân tinh (tinh vân Mì Spaghetti, Sh2-240). Nhà chụp ảnh thiên văn Bing Xin đã băng qua những vùng trời tối ở miền Đông Trung Quốc và Nội Mông để chụp được tất cả những hình ảnh này. Anh sử dụng các bộ lọc dải hẹp (narrowband filter), chủ yếu thu ánh sáng từ khí hydro và oxy bị ion hóa, cùng với các bộ lọc đỏ-xanh lá-xanh dương. Mỗi vật thể mất từ 2 đến 6 giờ để chụp, và toàn bộ danh mục đã tốn khoảng 800 giờ để hoàn thành! Bạn thích vật thể nào nhất? Email nhận ảnh gửi về cho APOD đã thay đổi. Vui lòng xem: APOD Submissions. Ảnh ngày mai: chỉ riêng tàu Curiosity."
+    }
+   ]
+  },
+  {
+   "id": "bc1e67cd332c",
+   "order": 15,
+   "slug": "phat-hien-ho-tu-than-co-14-000-nam-duoi-day-bien-do",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Phát hiện 'hồ tử thần' cổ 14.000 năm dưới đáy Biển Đỏ",
+   "sapo": "Các nhà khoa học phát hiện một hồ nước mặn đặc biệt dưới đáy Biển Đỏ, chứa dấu tích vi sinh vật và khoáng chất được tích tụ trong hàng nghìn năm, giúp giải mã nguồn gốc sự sống trên Trái đất.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/phat-hien-ho-tu-than-co-14000-nam-duoi-day-bien-do-100261002110147889.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 544,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/bc1e67cd332c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/bc1e67cd332c-0.jpg",
+     "caption": "Dù gọi là \"hồ tử thần\" song chúng có màu xanh lam khi ánh nắng chiếu tới - Ảnh: NEOM",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, nhóm nghiên cứu phát hiện NEOM, một hồ nước mặn cực mặn nằm sâu dưới đáy Biển Đỏ ."
+    },
+    {
+     "t": "p",
+     "text": "Môi trường thiếu oxy và có độ mặn cao khiến cá, giun và nhiều sinh vật lớn không thể sống sót, do đó được gọi là \"hồ tử thần\"."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, các hồ này lại chứa nhiều vi sinh vật thích nghi với điều kiện khắc nghiệt. Chúng được xem như những phòng thí nghiệm tự nhiên giúp nghiên cứu các môi trường có thể từng tồn tại khi sự sống sơ khai hình thành."
+    },
+    {
+     "t": "h",
+     "text": "Hồ cổ vẫn để lại dấu tích"
+    },
+    {
+     "t": "p",
+     "text": "Trong nghiên cứu mới, nhóm khoa học phát hiện một hồ nước mặn cổ cách NEOM khoảng 90km, tại khu vực gọi là Hume Deep."
+    },
+    {
+     "t": "p",
+     "text": "Hồ này hiện không còn cực mặn nhưng đáy biển vẫn lưu giữ những trầm tích giàu kim loại và dấu vết của vi sinh vật từng sống trong môi trường khắc nghiệt, theo trang IFLScience ngày 1-10."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm phát hiện hàm lượng sắt, kali và đồng trong những trầm tích này tăng cao."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, sự tập trung kim loại tại các hồ nước mặn được cho chủ yếu liên quan đến tương tác giữa trầm tích, nước biển và chất lỏng thủy nhiệt."
+    },
+    {
+     "t": "p",
+     "text": "Tại NEOM, các nhà khoa học nhận thấy vi sinh vật có khả năng xử lý kim loại cũng góp phần làm giàu khoáng chất, trong một số trường hợp hơn 100 lần."
+    },
+    {
+     "t": "p",
+     "text": "Do đó việc phát hiện hồ tại Hume Deep mang đến cho nhóm nghiên cứu cơ hội quan sát trầm tích thay đổi theo dòng hải lưu địa phương theo cách khiến nước bớt mặn hơn, từ đó hiểu hơn về sự tiến hóa của những môi trường bất thường này."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu sử dụng phương pháp định tuổi uranium-thorium trên hóa thạch động vật được cho là đã chết khi đi vào hồ nước mặn để xác định lịch sử của hồ cổ. Kết quả cho thấy quá trình tích tụ kim loại kéo dài ít nhất 14.000 năm và dừng lại khoảng 2.000 năm trước."
+    },
+    {
+     "t": "h",
+     "text": "Gợi ý về sự sống ngoài Trái đất"
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học cho rằng hồ nước mặn hình thành tại những khu vực từng nằm trên mực nước biển. Khi các hồ nước mặn cổ đại bốc hơi, lượng muối còn lại trong đá có thể tạo điều kiện hình thành những hồ nước mặn cực mặn sau này."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, điều kiện tại các hồ nước mặn cũng có một số điểm tương đồng với môi trường được giả định tồn tại trên các vệ tinh băng giá như Enceladus của sao Thổ."
+    },
+    {
+     "t": "p",
+     "text": "Việc nghiên cứu vòng đời của các hồ nước mặn dưới đáy biển có thể cung cấp thêm manh mối cho việc tìm kiếm sự sống ngoài Trái đất."
+    },
+    {
+     "t": "p",
+     "text": "Các \"hồ tử thần\" còn được quan tâm vì khả năng tập trung khoáng chất. Dù các hồ ở Biển Đỏ hiện quá nhỏ để có giá trị khai khoáng lớn, những hồ nước mặn cổ quy mô lớn có thể là nguồn gốc của một số mỏ khoáng sản giàu kim loại trên đất liền."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu công bố trên tạp chí AGU Advances ."
+    }
+   ]
+  },
+  {
+   "id": "2afe22d06d12",
+   "order": 16,
+   "slug": "cuoi-cung-cung-co-tam-pin-mat-troi-mau-hong-co-the-giup-cay",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Cuối cùng cũng có: Tấm pin mặt trời màu hồng có thể giúp cây trồng và điện cùng chia sẻ một mảnh đất",
+   "sapo": "Thực vật chính là những tấm pin mặt trời nguyên bản, và chúng rất giỏi trong việc biến ánh sáng thành năng lượng – đó là ánh sáng đỏ và xanh dương.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/finally-rose-tinted-solar-panels-could-let-crops-and-electricity-share-the-same-land",
+   "published": "2026-10-02T15:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1435,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Finally: Rose-Tinted Solar Panels Could Let Crops And Electricity Share The Same Land",
+   "images": [
+    {
+     "src": "img/2026-10-03/2afe22d06d12-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-03/2afe22d06d12-0.jpg",
+     "caption": "Bông cải xanh (broccoli) đang mọc dưới các tấm pin mặt trời màu hồng cánh sen. (Silvia Ma Lu)",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-03/2afe22d06d12-1.jpg",
+     "caption": "Mô hình thí nghiệm. (Ma Lu và cộng sự, Cell Reports Physical Science, 2026)",
+     "w": 1264,
+     "h": 1124
+    },
+    {
+     "src": "img/2026-10-03/2afe22d06d12-2.jpg",
+     "caption": "Sơ đồ mặt cắt cho thấy các thành phần của tấm pin mặt trời màu hồng cánh sen. (Ma Lu và cộng sự, Cell Reports Physical Science, 2026)",
+     "w": 980,
+     "h": 982
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thực vật chính là những tấm pin mặt trời nguyên bản, và chúng rất giỏi trong việc biến ánh sáng thành năng lượng – đó là ánh sáng đỏ và xanh dương."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nếu một tấm pin mặt trời có thể cùng tồn tại với cây trồng, hấp thu phần ánh sáng mà cây không dùng tới, đồng thời vẫn để ánh sáng đỏ và xanh dương đi xuyên qua thì sao?"
+    },
+    {
+     "t": "p",
+     "text": "Đó chính là điều mà nhóm nghiên cứu do Silvia Ma Lu thuộc Đại học Mälardalen ở Thụy Điển dẫn đầu đã thử nghiệm trong một nghiên cứu mới, sử dụng những tấm pin mặt trời bán trong suốt, màu hồng cánh sen, cho phép một số bước sóng ánh sáng nhất định chiếu xuống cây trồng phía dưới, trong khi vẫn thu được năng lượng mặt trời để tạo ra điện."
+    },
+    {
+     "t": "p",
+     "text": "Họ đã công bố mẫu thử nghiệm của mình trên tạp chí khoa học Cell Reports Physical Science."
+    },
+    {
+     "t": "p",
+     "text": "\"Về cơ bản, ý tưởng này khá đơn giản,\" Ma Lu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Những tấm pin mặt trời này sử dụng một phần ánh sáng mặt trời chiếu tới để tạo ra điện tái tạo, trong khi vẫn cho một phần ánh sáng khác đi xuyên qua để chiếu xuống cây trồng mọc ở dưới.\""
+    },
+    {
+     "t": "p",
+     "text": "Bà cho rằng có thể chúng ta sẽ thu được ánh sáng mặt trời hiệu quả hơn bằng cách chia các phần khác nhau của quang phổ mặt trời: một phần dùng cho cây trồng phát triển, một phần dùng để tạo ra điện."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, những tấm pin màu hồng cánh sen được thử nghiệm trong nghiên cứu này giống một mẫu thử hơn là sản phẩm hoàn chỉnh. Màu hồng cánh sen của chúng lọc ánh sáng trong vùng quang phổ xanh lá, nhưng hiện tại, phần năng lượng ánh sáng xanh lá đó vẫn chưa được các tế bào pin mặt trời thu lại."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các thí nghiệm cho thấy điều này có thể thực hiện được trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Ma Lu và nhóm của bà đã chọn bông cải xanh làm loại cây trồng để thử nghiệm với các tấm pin màu hồng cánh sen."
+    },
+    {
+     "t": "p",
+     "text": "Súp lơ xanh (broccoli) là một giống cây trồng của loài Brassica oleracea, cùng loài với nhiều loại rau thương mại khác như bắp cải, súp lơ trắng, cải xoăn, cải Brussels và cải su hào. Nếu súp lơ xanh có thể phát triển tốt trong bóng mát màu hồng của các tấm pin năng lượng mặt trời (solar cells), có thể những cây cùng loài khác cũng làm được như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã bố trí ba khu đất khác nhau, mỗi khu rộng 20 mét vuông, để trồng súp lơ xanh."
+    },
+    {
+     "t": "p",
+     "text": "Ở một khu đất, súp lơ xanh được trồng dưới nắng hoàn toàn, nhằm làm điểm so sánh cho sự phát triển \"bình thường\", không có tấm pin mặt trời."
+    },
+    {
+     "t": "p",
+     "text": "Ở hai khu đất còn lại, cây súp lơ xanh được trồng dưới các tấm pin mặt trời màu hồng cánh sen: một khu có tấm pin với độ trong suốt 50%, còn khu kia có độ trong suốt 70%."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Một trong những phát hiện thú vị nhất là súp lơ xanh phát triển khá giống nhau dưới hai hệ thống pin mặt trời, dù mức độ trong suốt của chúng khác nhau,\" ông Ma Lu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Tuy nhiên, những phát hiện này chỉ đúng với điều kiện thí nghiệm của chúng tôi, và cần được kiểm chứng thêm qua nhiều mùa vụ và nhiều cách bố trí hệ thống khác nhau.\""
+    },
+    {
+     "t": "p",
+     "text": "Tất cả các cây súp lơ xanh đều cho sản lượng tương đương nhau khi đến lúc thu hoạch, nhưng những cây trồng dưới các tấm pin màu hồng cánh sen phải mất thêm 25 ngày mới đạt được điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Vì những cây này nhận được ít ánh sáng hơn nhiều so với cây trồng dưới nắng hoàn toàn, điều này thực chất cho thấy chúng sử dụng ánh sáng có sẵn hiệu quả hơn: hiệu quả gấp 4,5 lần dưới tấm pin dày đặc hơn với độ trong suốt 50%, và gấp 2,8 lần dưới tấm pin có độ trong suốt 70%."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ sắc hồng cánh sen làm thay đổi lượng ánh sáng chiếu đến những cây này."
+    },
+    {
+     "t": "p",
+     "text": "Thành phần hoạt động của các tấm pin này là cadmium telluride (CdTe) không trong suốt, được gắn thành từng dải trên mặt kính của tấm pin."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chính yếu tố thiết kế này mới thực sự tạo nên một tấm pin năng lượng mặt trời để ánh sáng có thể xuyên qua. Nếu các dải được xếp dày hơn, tế bào pin sẽ hấp thụ được nhiều ánh sáng hơn để tạo ra điện – nhưng điều đó cũng có nghĩa là ít ánh sáng lọt xuống cây trồng bên dưới hơn."
+    },
+    {
+     "t": "p",
+     "text": "Điều này đặt ra một câu hỏi thú vị: tại sao các tấm pin lại cần phải có màu hồng cánh sen, nếu các dải CdTe vẫn cho ánh sáng đi qua bất kể màu kính là gì?"
+    },
+    {
+     "t": "p",
+     "text": "Thực ra thì không nhất thiết phải vậy. Kính có thể không cần màu gì cả."
+    },
+    {
+     "t": "p",
+     "text": "Những tấm pin màu hồng cánh sen này ban đầu được thiết kế cho các công trình xây dựng, nhằm tạo ánh sáng hồng ấm bên trong tòa nhà, đồng thời thu được một phần điện năng. Chúng được đưa vào thí nghiệm này chỉ vì chúng đã có sẵn trên thị trường, rất thích hợp để tái sử dụng cho mục đích khác."
+    },
+    {
+     "t": "p",
+     "text": "Bộ lọc màu hồng cánh sen cho hai dải quang phổ ánh sáng quan trọng với sự phát triển của cây đi qua: ánh sáng đỏ và ánh sáng xanh dương. Phần ánh sáng xanh lá còn lại bị bộ lọc ngăn lại không hẳn được tế bào pin mặt trời hấp thụ."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, nghiên cứu này chưa thể khẳng định rõ liệu chính bộ lọc màu hồng cánh sen (nơi các dải CdTe được gắn vào) hay tổng lượng ánh sáng mới là yếu tố ảnh hưởng đến sự phát triển của cây súp lơ xanh. Ngoài ra còn có hiệu ứng nhà kính khi đặt kính lên trên rau đang phát triển – một yếu tố mà thí nghiệm này chưa tính đến."
+    },
+    {
+     "t": "p",
+     "text": "Sẽ cần những thí nghiệm chi tiết hơn để tách bạch rõ tất cả các yếu tố đó."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng vì những tấm pin màu hồng ấm này đã có bán trên thị trường, Ma Lu cho biết chúng có thể giúp các hộ gia đình và nhóm cộng đồng tận dụng tối đa những không gian nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "\"Những cách bố trí tương tự như mẫu thử nghiệm của chúng tôi hiện tại có thể phù hợp với các ứng dụng quy mô nhỏ hơn, chẳng hạn như vườn cộng đồng, hoặc để lắp vào mái nhà kính, hơn là triển khai ngay trên các vùng nông nghiệp rộng lớn,\" bà nói."
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng lọc các dải quang phổ ánh sáng khác nhau để phân chia năng lượng cho hai mục tiêu riêng – trồng cây và tạo điện – nghe có vẻ hợp lý về mặt lý thuyết. Nhưng dường như vẫn còn một chặng đường dài trước khi có thể tạo ra một tấm pin năng lượng mặt trời thực sự đáng để áp dụng cho các ứng dụng thương mại quy mô lớn."
+    },
+    {
+     "t": "p",
+     "text": "\"Xét từ góc độ kỹ thuật, đây là chuyện tận dụng tốt nhất ánh sáng mặt trời và đất đai,\" chuyên gia kỹ thuật hệ thống điện Ramesh Rayudu, người không tham gia nghiên cứu này, giải thích."
+    },
+    {
+     "t": "p",
+     "text": "Về lượng năng lượng thu được, trong thí nghiệm, các tấm pin màu đỏ tươi tạo ra khoảng 224,7 MWh điện trên mỗi héc ta trong suốt vụ mùa - ít hơn khoảng 100 MWh trên mỗi héc ta so với các tấm pin mặt trời thông thường có cùng kích thước."
+    },
+    {
+     "t": "p",
+     "text": "\"Tùy vào giá trị của điện và giá bán bông cải xanh (broccoli), lượng điện bị mất đó có thể cần khoảng 1,2 đến 3,2 tấn bông cải xanh bổ sung trên mỗi héc ta để bù lại giá trị đã mất,\" ông Rayudu nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Câu hỏi thực sự là liệu sự phức tạp thêm vào của các tấm pin mặt trời chọn lọc bước sóng (wavelength-selective) có tạo ra đủ giá trị nông nghiệp bổ sung để bù đắp cho việc sản xuất điện thấp hơn hay không. Đó là phép so sánh tôi muốn thấy tiếp theo.\""
+    }
+   ]
+  },
+  {
+   "id": "3e164c83bd83",
+   "order": 17,
+   "slug": "hau-het-virus-tim-thay-trong-vung-khai-thac-khoang-san-day-b",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Hầu hết virus tìm thấy trong vùng khai thác khoáng sản đáy biển rộng lớn là loài mới với khoa học",
+   "sapo": "Sâu trong vùng biển thẳm của Thái Bình Dương, Đới đứt gãy Clarion-Clipperton là nơi tập trung nhiều khối kết hạch đa kim nhất trên thế giới.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/almost-all-the-viruses-found-in-a-vast-deep-sea-mining-zone-were-new-to-science",
+   "published": "2026-10-02T20:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1124,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Almost All The Viruses Found in a Vast Deep-Sea Mining Zone Were New to Science⁠",
+   "images": [
+    {
+     "src": "img/2026-10-03/3e164c83bd83-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-03/3e164c83bd83-0.jpg",
+     "caption": "Các khối kết hạch mangan trên đáy biển tại Đới Clarion-Clipperton. (ROV KIEL 6000, GEOMAR/Wikimedia Commons)",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sâu trong vùng biển thẳm của Thái Bình Dương, Đới đứt gãy Clarion-Clipperton là nơi tập trung nhiều khối kết hạch đa kim (polymetallic nodules) nhất trên thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều quốc gia đang tích cực khám phá khu vực này vì tiềm năng khoáng sản của nó, nhưng đây cũng là một môi trường sống vô cùng đặc biệt. Nhiều chuyến khảo sát khoa học gần đây đã phát hiện những sinh vật chưa từng được biết đến trước đây."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu mới đã bổ sung thêm một lượng lớn virus vào danh sách sinh vật đa dạng của vùng biển đang gây tranh cãi này, trong đó 99% là những loài chưa từng được ghi nhận trước đây."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu - Bowen Hou và Lilan Zhang từ Đại học Trùng Khánh, cùng Dong Sung từ Viện Hải dương học số 2 của Trung Quốc - đã tìm hiểu \"hệ virus\" (virome) của vùng Clarion-Clipperton để thiết lập cái mà họ gọi là \"nền tảng quan trọng về hệ sinh thái vi sinh vật trước khi khai thác, phục vụ cho các đánh giá tác động môi trường trong tương lai\"."
+    },
+    {
+     "t": "p",
+     "text": "Họ đã công bố kết quả nghiên cứu trên tạp chí Nature Communications."
+    },
+    {
+     "t": "p",
+     "text": "Các khối kết hạch đa kim đang là trung tâm của cuộc đua khai thác đáy biển, vì chúng chứa nhiều kim loại có thể dùng để sản xuất thiết bị điện tử."
+    },
+    {
+     "t": "p",
+     "text": "Cơ quan Quyền lực Đáy biển Quốc tế đã cấp 31 hợp đồng thăm dò khai thác khoáng sản đáy biển sâu. Trong đó có 17 hợp đồng nằm ở Đới Clarion-Clipperton, và 5 hợp đồng thuộc về Trung Quốc - đây có thể là lý do nghiên cứu này được tài trợ bởi nhiều cơ quan khoa học của nước này."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các khối kết hạch đa kim cũng là nền tảng của nhiều hệ sinh thái đáy biển sâu, bao gồm cả hệ sinh thái ở Đới Clarion-Clipperton. Ở những nơi đáy biển sâu phần lớn là lớp bùn dày và mịn, những khối kết hạch cứng này chính là mặt đất để nhiều sinh vật xây dựng cuộc sống của mình."
+    },
+    {
+     "t": "p",
+     "text": "Chúng hình thành dần dần, khi mangan và các kim loại khác như cobalt, nickel, lithium và kẽm kết tụ từ nước biển, tạo thành các lớp xung quanh một lõi trung tâm (ví dụ như một mảnh vỏ sò, răng hoặc đá nhỏ xíu)."
+    },
+    {
+     "t": "p",
+     "text": "Với một số khối kết hạch phát triển nhanh, các lớp kim loại tích tụ với tốc độ khoảng 250 milimét mỗi triệu năm, trong khi những loại khác chỉ phát triển từ 1 đến 5 milimét mỗi triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu mới cho thấy virus có thể đóng vai trò quan trọng trong các quá trình địa hóa sinh học (biogeochemical processes) diễn ra trong lớp trầm tích ở các khu vực có nhiều kết hạch đa kim."
+    },
+    {
+     "t": "p",
+     "text": "Gần như toàn bộ 11.742 loại virus khác nhau mà nhóm nghiên cứu của Hou phát hiện đều hoàn toàn mới đối với khoa học, rất ít trùng lặp với các loại virus tìm thấy ở những môi trường biển sâu khác."
+    },
+    {
+     "t": "p",
+     "text": "Các mẫu lõi trầm tích trong nghiên cứu này được thu thập vào năm 2023 và 2024, sau đó các nhà khoa học tách chiết ADN và ARN để giải trình tự."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp theo, họ so sánh dữ liệu này với các mẫu lấy từ những vùng khác của đại dương sâu, và xem xét kỹ hơn xem các virus này thực sự đang làm gì với các gen của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Virus là một thành phần của hệ sinh thái mà người ta thường chưa đánh giá đúng mức. Giới khoa học vẫn chưa thống nhất liệu virus có được coi là \"sinh vật sống\" hay không, nhưng không ai nghi ngờ khả năng ảnh hưởng của chúng đến sự sống trên Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Virus nào cũng cần một vật chủ, và ở vùng Clarion-Clipperton, nhiều loại virus mà các nhà khoa học tìm thấy dường như chuyên tấn công các sinh vật nhân sơ (prokaryote): vi khuẩn và vi khuẩn cổ (archaea)."
+    },
+    {
+     "t": "p",
+     "text": "Những vi sinh vật đơn bào đơn giản này tham gia vào quá trình chuyển hóa carbon, nitơ, phốt pho, lưu huỳnh, và cả kim loại. Và các virus mà chúng mang theo có thể ảnh hưởng lớn đến những quá trình định hình hệ sinh thái này."
+    },
+    {
+     "t": "p",
+     "text": "Virus vốn nổi tiếng với khả năng điều chỉnh bộ máy di truyền của vật chủ, và đã làm thay đổi hoàn toàn con đường tiến hóa của nhiều loài theo cách này."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách lây nhiễm các vi sinh vật có chức năng quan trọng và mang theo các gen chuyển hóa phụ trợ, virus có thể điều chỉnh quá trình trao đổi chất và khả năng sống sót của vật chủ trong lúc bị nhiễm bệnh, từ đó có thể ảnh hưởng đến các quá trình địa hóa sinh học trong lớp trầm tích ở các khu vực có kết hạch đa kim,\" các tác giả viết."
+    },
+    {
+     "t": "p",
+     "text": "Có vẻ như các virus biển sâu được tìm thấy ở vùng Clarion-Clipperton cũng đã để lại dấu ấn lên vật chủ của chúng, có thể cung cấp \"bản thiết kế\" giúp vật chủ đối phó với áp lực từ kim loại."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động khai thác, nếu được tiến hành, sẽ ảnh hưởng ra sao đến tất cả những điều này thì vẫn chưa rõ."
+    },
+    {
+     "t": "p",
+     "text": "\"Hoạt động khai thác sẽ gây xáo trộn vật lý, làm trầm tích bị khuấy tung lên rồi lắng xuống trở lại, và các thí nghiệm theo dõi xáo trộn lâu dài đã cho thấy tác động của kiểu xáo trộn này lên trầm tích ở các vùng có nhiều cục kết hạch (nodule) có thể kéo dài hàng chục năm,\" nhóm tác giả viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong kịch bản này, các quần thể virus và những thành phần chức năng chung giữa lớp trầm tích sâu và lớp trầm tích bề mặt có thể trở thành nguồn để tái tạo một phần cộng đồng virus bề mặt sau khi bị xáo trộn.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhưng họ cũng cảnh báo rằng cần phải nghiên cứu nhiều hơn nữa để hiểu hoạt động khai thác, nếu thực sự diễn ra, sẽ ảnh hưởng thế nào đến các loại virus này, đến những sinh vật chủ mà chúng lây nhiễm, và đến các chức năng sinh thái mà chúng có thể đang đảm nhiệm."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được Fiona MacDonald kiểm chứng thông tin và biên tập. Dù luôn cố gắng làm việc cẩn thận, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện sai sót, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "7b09e7edf62d",
+   "order": 18,
+   "slug": "15-buc-anh-gau-truc-dang-yeu-nay-se-khien-ban-muon-den-vuon",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "15 bức ảnh gấu trúc đáng yêu này sẽ khiến bạn muốn đến vườn thú ngay lập tức",
+   "sapo": "Những thành viên của loài vật mềm mượt, đáng yêu nhưng đang bị đe dọa này thường được chăm sóc tại các vườn thú và trung tâm nhân giống trên khắp thế giới, và những bức ảnh này có thể khiến bạn ganh tị với công việc của người chăm sóc chúng",
+   "author": "Jess Daninhirsch",
+   "source_name": "Smithsonian",
+   "source_url": "https://www.smithsonianmag.com/science-nature/these-15-adorable-photos-of-pandas-will-make-you-want-to-visit-the-zoo-immediately-180989606/",
+   "published": "2026-10-02T15:21:12+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 208,
+   "translated": true,
+   "translated_from": "Smithsonian",
+   "title_original": "These 15 Adorable Photos of Pandas Will Make You Want to Visit the Zoo Immediately",
+   "images": [
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-0.jpg",
+     "caption": "Một con gấu trúc lớn nhìn qua những tàng cây và nhìn thẳng vào người chụp ảnh tại khu bảo tồn thiên nhiên ở dãy núi Qinling, Trung Quốc. Ke Li, Trung Quốc, 2020",
+     "w": 1026,
+     "h": 684
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-1.jpg",
+     "caption": "Gấu trúc mẹ Hua Zui Ba và con nhỏ của nó ngồi chụp ảnh tại Vườn thú Madrid. Năm 2021, một cặp gấu trúc song sinh đã ra đời trong khuôn khổ chương trình nhân giống quốc tế. Pedro Jarque Krebs, Tây Ban Nha, 2022",
+     "w": 1071,
+     "h": 804
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-2.jpg",
+     "caption": "Sinh năm 2021, cặp gấu trúc song sinh Jiu Jiu và You You bò trên sàn khi được chụp ảnh tại Vườn thú Madrid. Pedro Jarque Krebs, Tây Ban Nha, 2022",
+     "w": 1072,
+     "h": 786
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-3.jpg",
+     "caption": "Lúc 5 tháng tuổi, chú gấu trúc con này lăn lộn và nô đùa trên một cấu trúc bằng gỗ. Barbara Williams, Trung Quốc, 2008",
+     "w": 1072,
+     "h": 849
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-4.jpg",
+     "caption": "Những chú gấu trúc con từ 2 đến 3 tháng tuổi ngủ trong một chiếc nôi bằng gỗ. Dafna Ben Nun, Trung Quốc, 2017",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-5.jpg",
+     "caption": "Một con gấu trúc lớn nhẩn nha ăn những cây tre tươi ở Thành Đô, Trung Quốc. Erika Valkovicova, Trung Quốc, 2018",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-6.jpg",
+     "caption": "Nằm vắt vẻo trên một cành cây, một con gấu trúc lớn thư giãn tại trung tâm nhân giống ở Trung Quốc. Dafna Ben Nun, Trung Quốc, 2017",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-7.jpg",
+     "caption": "Một con gấu trúc lớn chơi với món đồ chơi tại Vườn thú Quốc gia và Viện Sinh học Bảo tồn Smithsonian, trong buổi tiệc chia tay kéo dài một tuần trước khi con gấu trúc này được đưa trở lại Trung Quốc. Agnieszka Wieczorek, Washington, D.C., 2023",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-8.jpg",
+     "caption": "Những con gấu trúc nhấm nháp tre tại Trung tâm Nghiên cứu Nhân giống Gấu trúc lớn Thành Đô. Maneesh Juneja, Trung Quốc, 2010",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-9.jpg",
+     "caption": "Một nhóm gấu trúc nhỏ ăn và nô đùa tại cơ sở Thành Đô, nơi có số lượng gấu trúc lớn nhất trên thế giới. Riccardo Vello, Trung Quốc, 2018",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-10.jpg",
+     "caption": "Một chú gấu trúc con nhe răng tại Vườn thú Đài Bắc. Wei-Cho Huang, Đài Loan, 2016",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-03/7b09e7edf62d-11.jpg",
+     "caption": "Tại một vườn thú ở Quảng Châu, Trung Quốc, một con gấu trúc ngồi trong khu chuồng khi mọi người đi qua, được ngăn cách bởi những tấm kính. Auto Aya, Trung Quốc, 2022",
+     "w": 1072,
+     "h": 715
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Jess Daninhirsch | Thực tập sinh phóng viên, Chuyên mục Bảo tàng"
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Gấu trúc lớn có nguồn gốc từ Trung Quốc, nhưng hiện chỉ còn chưa đến 2.000 con sống trong môi trường tự nhiên. Chúng được xếp vào danh sách loài \"sắp nguy cấp\" (vulnerable) trong Sách Đỏ của Liên minh Bảo tồn Thiên nhiên Quốc tế, do bị săn bắt trái phép, tốc độ sinh sản chậm và mất môi trường sống. Các vườn thú và trung tâm nhân giống trên khắp thế giới, trong đó có Vườn thú Quốc gia và Viện Sinh học Bảo tồn Smithsonian, đang nỗ lực bảo tồn loài này và giúp tăng số lượng gấu trúc."
+    },
+    {
+     "t": "p",
+     "text": "Khi trưởng thành, gấu trúc cần ăn từ 32 đến 45 kg tre mỗi ngày. Khi không đi kiếm ăn trong môi trường sống ở vùng núi, chúng thường nghỉ ngơi và ngủ. Gấu trúc đực trưởng thành có thể nặng khoảng 113 kg, còn gấu trúc cái khoảng 100 kg, và chúng có thể sống tới 30 năm khi được con người chăm sóc."
+    },
+    {
+     "t": "p",
+     "text": "Hãy cùng xem những bức ảnh về gấu trúc này, phần lớn do những người trông coi vườn thú, nhà sinh học và các nhà bảo tồn chăm sóc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    }
+   ]
+  },
+  {
+   "id": "cebd3e2a75f6",
+   "order": 19,
+   "slug": "nho-ma-du-dan",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Nhỏ mà dữ dằn",
+   "sapo": "Trên dãy núi Andes cao vút, các nhà khoa học đã xác định được một loài mèo nhỏ gọi là tilcayo. Họ giới thiệu loài này trong một nghiên cứu công bố ngày 17 tháng 9 trên tạp chí Current Biology. Họ cho biết đây là loài mèo hoang mới đầu tiên được phát hiện trong…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g56/small-but-fierce-g5/",
+   "published": "2026-09-28T13:00:32+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 334,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Small but Fierce",
+   "images": [
+    {
+     "src": "img/2026-10-03/cebd3e2a75f6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trên dãy núi Andes cao vút, các nhà khoa học đã xác định được một loài mèo nhỏ gọi là tilcayo. Họ giới thiệu loài này trong một nghiên cứu công bố ngày 17 tháng 9 trên tạp chí Current Biology. Họ cho biết đây là loài mèo hoang mới đầu tiên được phát hiện trong hơn 100 năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Một con tilcayo đã sống tại Khu bảo tồn động vật hoang dã Senda Verde, ở Bolivia, từ năm 2017. Nó có tên là Tigrino. Những người chăm sóc nó ban đầu nghĩ đó là một loại mèo gọi là mèo oncilla. Nhưng vào năm 2019, nhà khoa học Paola Nogales-Ascarrunz bắt đầu nghiên cứu về nó. Bà rất ngạc nhiên vì kích thước quá nhỏ của nó. Tigrino chỉ nặng khoảng 1,4 kg, nhỏ hơn nhiều so với một con mèo oncilla bình thường. Bà cũng ngạc nhiên trước những đốm trên lông của nó."
+    },
+    {
+     "t": "p",
+     "text": "Cùng làm việc với các nhà khoa học khác, Nogales-Ascarrunz đã so sánh DNA của Tigrino với DNA lấy từ các loài mèo hoang khác. Nhóm nghiên cứu nhận ra Tigrino không giống bất kỳ loài nào trong số đó. Nó thuộc về loài mới đầu tiên được bổ sung vào cây họ hàng của loài mèo kể từ năm 1923."
+    },
+    {
+     "t": "p",
+     "text": "Người ta vẫn biết rất ít về loài tilcayo. Các nhà khoa học chưa chắc có bao nhiêu cá thể đang sống trong tự nhiên. Trong một cuộc phỏng vấn với hãng tin Associated Press, ông Marcelo Levy, người đồng sáng lập Senda Verde, gọi Tigrino là một \"đại sứ cho công tác bảo tồn\". Levy hy vọng loài tilcayo sẽ giúp nâng cao nhận thức về sự cần thiết phải bảo vệ các loài mèo hoang và những nơi chúng sinh sống."
+    },
+    {
+     "t": "p",
+     "text": "Dừng lại và suy ngẫm!"
+    },
+    {
+     "t": "p",
+     "text": "Tác giả đã trích lời của AI trong bài viết này? Nếu em có thể lắng nghe thêm những người khác, em sẽ muốn nghe ai và vì sao?"
+    }
+   ]
+  },
+  {
+   "id": "171e04a4fa8e",
+   "order": 20,
+   "slug": "600-000-luot-nguoi-xem-mot-con-ca-map-mac-can-o-han-quoc",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "600.000 lượt người xem một con cá mập mắc cạn ở Hàn Quốc",
+   "sapo": "Con cá mập mắc kẹt trong một con kênh ở Busan (Hàn Quốc) hơn 10 ngày, thu hút khoảng 607.000 lượt khách tới công viên ven biển để tận mắt quan sát.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/600000-luot-nguoi-xem-mot-con-ca-map-mac-can-o-han-quoc-post1687076.html",
+   "published": "2026-10-02T10:58:17+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 715,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-03/171e04a4fa8e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-03/171e04a4fa8e-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-03/171e04a4fa8e-1.jpg",
+     "caption": "Hàn Quốc ảnh 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-03/171e04a4fa8e-2.jpg",
+     "caption": "Hàn Quốc ảnh 2",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Con cá mập mắc kẹt trong một con kênh ở Busan (Hàn Quốc) hơn 10 ngày, thu hút khoảng 607.000 lượt khách tới công viên ven biển để tận mắt quan sát."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Người dân, du khách chụp ảnh con cá mập mắc kẹt ở Busan, Hàn Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Con cá mập dài 3,5 m được phát hiện trong một tuyến đường thủy hẹp tại cảng phía Bắc Busan, Hàn Quốc , ngày 18/9. Sau nhiều ngày con vật không thể tự tìm đường ra biển, lực lượng chức năng triển khai phương án giải cứu hôm 29/9, song chưa thể đưa nó trở lại vùng nước rộng."
+    },
+    {
+     "t": "p",
+     "text": "Các chuyên gia nhận định đây có thể là cá mập mõm nhọn (bronze whaler), được cho là đã bơi theo đàn mồi từ biển vào kênh rồi không tìm được đường ra, theo Yonhap ."
+    },
+    {
+     "t": "p",
+     "text": "Đến sáng 29/9, Cảnh sát biển Hàn Quốc cùng các cơ quan liên quan dùng tàu phun nước phía sau cá mập, với mục đích thúc nó di chuyển về phía cửa kênh. Phương án này dựa trên cách từng sử dụng để giải cứu một con cá mập trắng lớn mắc kẹt ngoài khơi Massachusetts, Mỹ, năm 2004. Tuy nhiên, con vật bơi tránh các luồng nước và vượt qua những tàu đang làm nhiệm vụ trước khi quay trở lại kênh."
+    },
+    {
+     "t": "p",
+     "text": "Viện Khoa học Thủy sản Quốc gia Hàn Quốc cho biết cá mập vẫn trong tình trạng ổn định, song khả năng kiếm ăn và di chuyển bị hạn chế. Nếu tiếp tục mắc kẹt, thể trạng con vật có thể suy yếu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Lực lượng cứu hỏa dùng tàu phun nước giải cứu cá mập bất thành, ngày 29/9."
+    },
+    {
+     "t": "p",
+     "text": "Con cá mập nhanh chóng trở thành tâm điểm chú ý tại Busan, được đặt biệt danh \"Bukangi\". Tên gọi này ghép từ \"Buk Hang\", tên tiếng Hàn của cảng phía Bắc Busan, với hậu tố \"-i\", thường được dùng để tạo cách gọi thân mật trong tiếng Hàn."
+    },
+    {
+     "t": "p",
+     "text": "Sự xuất hiện của con vật giúp công viên ven sông Cảng Bắc, nơi người dân có thể quan sát nó, đông khách chưa từng thấy. Chính quyền thành phố cho biết khu vực này ghi nhận khoảng 607.000 lượt khách trong 10 ngày (19-28/9), trong khi ngày thường chỉ đón khoảng 2.000 lượt vào cuối tuần và các dịp lễ."
+    },
+    {
+     "t": "p",
+     "text": "Du khách Kim Jung-sook, 62 tuổi, tới thăm con cá mập lần cuối hôm 29/9. \"Tôi đã trở nên gắn bó với nó sau vài ngày nhìn thấy ở đây. Tôi cảm thấy hơi buồn\", bà nói với Maeil Shinmun."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Lực lượng cứu hỏa nỗ lực hướng dẫn lối thoát cho cá mập ra vùng biển ngoài khơi Busan, Hàn Quốc, ngày 29/9."
+    },
+    {
+     "t": "p",
+     "text": "Thị trưởng Busan Chun Jae-soo cũng dành sự quan tâm cho con vật. \"Nó thực sự có tố chất ngôi sao. Cứ 5-10 phút nó lại nổi lên\", ông nói trên CBS Radio ."
+    },
+    {
+     "t": "p",
+     "text": "Chính quyền Busan còn tuyên bố Bukangi là đại sứ quan hệ công chúng danh dự của thành phố, sau khi 91% trong khoảng 8.000 người tham gia cuộc bình chọn trên Instagram chính thức ủng hộ ý tưởng này."
+    },
+    {
+     "t": "p",
+     "text": "Cá mập không phải loài xa lạ với vùng biển Hàn Quốc. Viện Khoa học Thủy sản Quốc gia ghi nhận 46 cá thể cá mập kích thước lớn ngoài khơi bờ biển phía Đông trong nửa đầu năm nay, gần gấp 4 lần cùng kỳ năm trước. Theo cơ quan này, nước biển ấm lên cùng nguồn thức ăn dồi dào hơn có thể là những nguyên nhân khiến số lượng cá mập được ghi nhận tăng."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    }
+   ]
+  }
+ ]
+}

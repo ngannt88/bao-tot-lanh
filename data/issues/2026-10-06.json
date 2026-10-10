@@ -1,0 +1,2480 @@
+{
+ "date": "2026-10-06",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-06T07:30:05+07:00",
+ "sections": [
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a9204c0a5e76",
+   "order": 1,
+   "slug": "robot-co-the-hoc-ky-nang-moi-chi-sau-5-phut-xem-video",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Robot có thể học kỹ năng mới chỉ sau 5 phút xem video",
+   "sapo": "(Dân trí) - Các nhà khoa học phát triển một công nghệ giúp robot học những kỹ năng cơ bản chỉ sau khoảng 5 phút xem video hướng dẫn, sau đó kết hợp các kỹ",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/robot-co-the-hoc-ky-nang-moi-chi-sau-5-phut-xem-video-20261005151706289.htm",
+   "published": "2026-10-05T11:10:31+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 313,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/a9204c0a5e76-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/a9204c0a5e76-0.jpg",
+     "caption": "Robot kết hợp các kỹ năng đơn giản để thực hiện nhiệm vụ phức tạp, giúp rút ngắn thời gian huấn luyện (Ảnh: Penn Engineering).",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Các nhà khoa học phát triển một công nghệ giúp robot học những kỹ năng cơ bản chỉ sau khoảng 5 phút xem video hướng dẫn, sau đó kết hợp các kỹ năng này để thực hiện những nhiệm vụ phức tạp hơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học tại Đại học Pennsylvania (Mỹ) phát triển công nghệ SymSkill, giúp robot học các kỹ năng cơ bản từ video hướng dẫn và kết hợp chúng để thực hiện những nhiệm vụ phức tạp mà không cần huấn luyện riêng cho từng nhiệm vụ."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì học toàn bộ một nhiệm vụ, SymSkill chia nhỏ công việc thành các thao tác đơn giản. Robot học từng kỹ năng, sau đó tự xác định trình tự và kết hợp chúng để hoàn thành nhiệm vụ. Trong thử nghiệm, robot có thể thực hiện một nhiệm vụ gồm 12 bước đơn giản mà không cần được huấn luyện liền mạch cho toàn bộ quy trình."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho biết robot chỉ mất khoảng 5 phút để học những kỹ năng cơ bản thông qua video. Hệ thống cũng có thể điều chỉnh kế hoạch khi gặp vật cản, bị con người can thiệp hoặc một thao tác không thành công, thay vì phải dừng hoặc thực hiện lại từ đầu."
+    },
+    {
+     "t": "p",
+     "text": "SymSkill gồm hai cấp độ: cấp độ lập kế hoạch giúp robot xác định đối tượng, hành động và trình tự cần thực hiện; cấp độ điều khiển giúp robot thực hiện từng thao tác và thích ứng khi môi trường thay đổi."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm nghiên cứu, cách tiếp cận này giúp robot học và kết hợp kỹ năng linh hoạt hơn, giảm nhu cầu huấn luyện riêng cho từng nhiệm vụ và mở ra khả năng ứng dụng robot trong những môi trường thực tế có nhiều tình huống khó dự đoán."
+    }
+   ]
+  },
+  {
+   "id": "13902f6a1d42",
+   "order": 2,
+   "slug": "kham-pha-le-ruoc-vua-doc-dao",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Khám phá lễ rước Vua độc đáo",
+   "sapo": "Nằm trên núi Sái, còn gọi là Thất Diệu Sơn, thuộc xã Thư Lâm, đền Sái là trung tâm của cụm di tích đền Sái - đền Thượng - chùa Sái.",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/kham-pha-le-ruoc-vua-doc-dao-1759414.html",
+   "published": "2026-10-04T00:33:01+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 421,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/13902f6a1d42-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-10-06/13902f6a1d42-0.jpg",
+     "caption": "",
+     "w": 900,
+     "h": 601
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đền Sái thờ Đức Thánh Huyền Thiên Trấn Vũ, vị thần trấn giữ phương Bắc. Trong ký ức cộng đồng và truyền thuyết dân gian, việc thờ vị thần này gắn với câu chuyện An Dương Vương xây thành Cổ Loa. Tương truyền, thành nhiều lần đắp lên lại đổ do Bạch Kê Tinh phá hoại, Huyền Thiên Trấn Vũ đã trợ giúp nhà vua diệt trừ yêu quái để việc xây thành hoàn tất."
+    },
+    {
+     "t": "p",
+     "text": "Giá trị của đền Sái không chỉ nằm ở câu chuyện huyền tích. Cảnh quan nơi đây được tạo nên bởi núi, cây xanh, hồ nước, đồng ruộng, đền, chùa, đình làng và đường rước lễ hội, hợp thành một không gian văn hóa khá hoàn chỉnh. Cụm di tích được bố trí liên hoàn từ chân núi lên cao, với các công trình như nghi môn, đền Kính Thiên, tiền tế, trung đường, hậu cung và chùa Sái. Không gian thờ tự thể hiện sự đan xen của tín ngưỡng dân gian, dấu ấn Đạo giáo và Phật giáo, phản ánh quá trình bồi đắp văn hóa qua nhiều thời kỳ..."
+    },
+    {
+     "t": "p",
+     "text": "Điểm làm nên sức sống đặc biệt của đền Sái chính là Lễ hội rước Vua, tổ chức vào ngày 11 tháng Giêng hằng năm. Lễ hội tái hiện cách cộng đồng Thụy Lôi ghi nhớ câu chuyện An Dương Vương lên núi Sái bái yết Đức Thánh Huyền Thiên Trấn Vũ. Những người cao tuổi, có uy tín trong làng được lựa chọn đảm nhiệm các vai Vua, Chúa và quan; đoàn rước đi theo lệ cổ, cùng các nghi thức bái vọng, diễn xướng, “ướm gươm” tại đền Thượng. Năm 2025, Lễ hội đền Sái được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia, khẳng định giá trị đặc sắc của một thực hành văn hóa vẫn đang được cộng đồng gìn giữ và trao truyền."
+    },
+    {
+     "t": "p",
+     "text": "Đến đền Sái hôm nay, du khách không chỉ tìm hiểu một di tích hay nghe một câu chuyện truyền thuyết. Điều đáng nhớ hơn là cách ký ức về Cổ Loa, về An Dương Vương, về tín ngưỡng và lễ hội vẫn hiện diện trong cảnh quan, kiến trúc và đời sống của người dân Thụy Lôi. Đây cũng là lý do đền Sái đang được xã Thư Lâm kết nối với rối nước Đào Thục, làng gỗ mỹ nghệ Thiết Úng và các giá trị văn hóa khác để xây dựng những tour trải nghiệm có chiều sâu hơn."
+    }
+   ]
+  },
+  {
+   "id": "18192cbf633e",
+   "order": 3,
+   "slug": "nguoi-tho-may-gioi-vo-co-that-duoc-kim-dung-bien-thanh-cao-t",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Người thợ may giỏi võ có thật, được Kim Dung biến thành cao thủ Võ Đang",
+   "sapo": "Võ Đang thất hiệp là một trong những hình tượng nhân vật nổi bật nhất của tiểu thuyết Kim Dung. Và ít ai ngờ, một nhân vật trong đó lại có thật ngoài đời, và thực sự nổi tiếng về trình độ võ thuật.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nguoi-tho-may-gioi-vo-co-that-duoc-kim-dung-bien-thanh-cao-thu-vo-dang-1002609241235051.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 1160,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/18192cbf633e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/18192cbf633e-0.jpg",
+     "caption": "Nhân vật Trương Tùng Khê trong Ỷ Thiên Đồ Long Ký của Kim Dung - Ảnh: BAIDU",
+     "w": 1280,
+     "h": 855
+    },
+    {
+     "src": "img/2026-10-06/18192cbf633e-1.jpg",
+     "caption": "Dù không nổi tiếng bằng Thiếu Lâm, võ thuật nội gia của Võ Đang vẫn là chủ đề được làng võ quan tâm - Ảnh: BAIDU",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-10-06/18192cbf633e-2.jpg",
+     "caption": "Trương Tam Phong và các đệ tử trên phim truyền hình - Ảnh: BAIDU",
+     "w": 1280,
+     "h": 959
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Không phải Tống Viễn Kiều - đại đệ tử của Trương Tam Phong, hay Trương Thúy Sơn - người đặc biệt được Kim Dung ưu ái, nhân vật kể trên là Trương Tùng Khê, xếp hàng thứ tư trong \"Võ Đang thất hiệp\"."
+    },
+    {
+     "t": "h",
+     "text": "Kim Dung phóng tác từ nhân vật có thật"
+    },
+    {
+     "t": "p",
+     "text": "Trong tiểu thuyết Ỷ Thiên Đồ Long Ký, Võ Đang thất hiệp là 7 đệ tử của Trương Tam Phong, người sáng lập nên phái Võ Đang. Sự hình thành và phát triển của võ phái lừng danh này vì vậy gắn chặt với 7 nhân vật này."
+    },
+    {
+     "t": "p",
+     "text": "Trương Tùng Khê xếp hàng thứ tư trong thất hiệp, nổi tiếng túc trí đa mưu. Ở trận chiến Quang Minh Đỉnh, Trương Tùng Khê từng đấu ngang tay với Ân Thiên Chính sau khi \"Bạch Mi ưng vương\" hao tổn nhiều nội lực vì liên tục trải qua các trận đấu trước đó."
+    },
+    {
+     "t": "p",
+     "text": "Dù không thực sự nổi bật trong tiểu thuyết Kim Dung, Trương Tùng Khê lại là một nhân vật có thật ngoài đời, đặc biệt rất nổi bật trong các tư liệu về võ thuật thời nhà Minh. Dù vậy, mối liên hệ của ông với phái Võ Đang cũng như Trương Tam Phong không rõ ràng, và nhiều khả năng sống cách khá xa thời đại bối cảnh Ỷ Thiên Đồ Long Ký ."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài đời, Trương Tùng Khê là một người thợ may ở Chiết Giang, nổi danh quyền thuật, được lưu truyền qua việc đánh bại một võ tăng Thiếu Lâm, và có thể chưởng phá ba khối đá khi đã bảy mươi tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Trương Tùng Khê quê huyện Ngân, phủ Ninh Ba, hoạt động thời Gia Tĩnh nhà Minh, thế kỷ XVI. Nhà nghiên cứu võ thuật Chu Vĩ Lương lưu ý rằng năm sinh của ông không rõ, nhưng xác nhận rằng ông sống cách rất xa thời đại của Minh Thái Tổ Chu Nguyên Chương."
+    },
+    {
+     "t": "p",
+     "text": "Tư liệu nổi tiếng nhất về ông là Bác giả Trương Tùng Khê truyện của Thẩm Nhất Quán, vị đại thần từng giữ chức thủ phụ nhà Minh. Theo Chu Vĩ Lương, sau khi hồi hương năm 1606, Thẩm đã tìm hiểu qua học trò của Trương rồi viết truyện, lưu lại chân dung một cao thủ chốn thị thành."
+    },
+    {
+     "t": "p",
+     "text": "Văn bản ghi “Trương, y công dã”, nghĩa là Trương làm nghề may. Ông trầm tĩnh, ít nói, nhã nhặn như nhà nho, suốt đời không kết hôn, không con, nổi tiếng hiếu thảo với mẹ. Người tìm đến xin xem võ nghệ thường bị ông khéo léo từ chối."
+    },
+    {
+     "t": "p",
+     "text": "Thầy trực tiếp của Trương là Tôn Thập Tam Lão. Trong cách khắc họa của Thẩm Nhất Quán, môn võ ông thụ nhận không chuộng phô diễn: động tác phải trực tiếp, khi xuất thủ cần tập trung, quyết đoán."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ông từng xem một người biểu diễn thương thuật, rồi nhận xét với học trò rằng đâm thì cứ đâm, quá nhiều sự tính toán khiến tâm phân tán, làm sao trúng đích?"
+    },
+    {
+     "t": "p",
+     "text": "Danh tiếng ấy dẫn đến cuộc chạm trán được kể lại nhiều nhất trong đời ông. Thời điểm vùng duyên hải phía Đông bị Oa Khấu quấy nhiễu, một đoàn khoảng bảy mươi tăng binh Thiếu Lâm đến vùng này, nghe danh họ Trương nên muốn thử tài. Ông tìm cách tránh mặt nhưng rồi vẫn vô tình chạm trán."
+    },
+    {
+     "t": "p",
+     "text": "Trước lời đề nghị giao đấu của các võ tăng Thiếu Lâm, Trương Tùng Khê sau cùng chấp thuận. Theo Ninh Ba phủ chí , ông yêu cầu mời người có trách nhiệm ở địa phương chứng kiến thỏa thuận chết người không truy cứu; các tăng nhân vóc dáng hùng tráng nhìn người thợ may gầy yếu liền nhận lời."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả là họ Trương đánh bại võ tăng đại diện cho nhóm Thiếu Lâm, và từ chối giao đấu tiếp sau đó. Câu chuyện này được ghi lại trong các tư liệu về Trương Tùng Khê, mang tính truyền miệng dân gian là chủ yếu."
+    },
+    {
+     "t": "h",
+     "text": "Đại biểu cho võ thuật nội gia Trung Hoa"
+    },
+    {
+     "t": "p",
+     "text": "Nhưng võ nghệ cao cường của Trương Tùng Khê lại là sự thật, lý giải vì sao có rất nhiều giai thoại xoay quanh việc nhiều người trong vùng tìm đến xin ông nhận làm học trò, nhưng đều bị từ chối."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, Ninh Ba phủ chí còn ghi lại việc danh tướng Thích Kế Quang từng ngỏ lời mời ông đến doanh trại truyền thụ võ nghệ cho binh sĩ, nhưng ông cũng tiếp tục từ chối."
+    },
+    {
+     "t": "p",
+     "text": "Cần biết Thích Kế Quang chính là vị danh tướng có công truyền bá, xây dựng với làng võ thuật Trung Quốc. Tác phẩm Kỷ hiệu tân thư của ông là một trong những tài liệu võ thuật đáng ghi nhận nhất của lịch sử làng kung fu đại lục."
+    },
+    {
+     "t": "p",
+     "text": "Dù không nhận lời Thích Kế Quang, tư tưởng võ thuật \"an tĩnh, vô vi\" của Trương Tùng Khê được đánh giá là có tác động rất lớn đến vị danh tướng này."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tác phẩm Vương Chinh Nam mộ chí minh của học giả Hoàng Tông Hy thời nhà Thanh ghi nhận dòng truyền thừa nổi bật của Trương Tùng Khê, từ đại đệ tử là Diệp Kế Mỹ, hiệu Cận Tuyền; rồi từ Diệp truyền đến Đan Tư Nam, rồi Vương Chinh Nam, tất cả đều là võ sư nổi tiếng đương thời."
+    },
+    {
+     "t": "p",
+     "text": "Dù không có tư liệu nào cho thấy Trương Tùng Khê thực sự có liên quan đến phái Võ Đang, làng võ thuật Trung Hoa đều thừa nhận ông là đại diện tiêu biểu cho hệ phái võ thuật nội gia."
+    },
+    {
+     "t": "p",
+     "text": "Hai nhà nghiên cứu phương Tây Marnix Wells và Stanley Henning đánh giá Trương Tùng Khê là một trong những nhân vật cực kỳ quan trọng với võ thuật nội gia Trung Hoa, sánh ngang các tên tuổi huyền thoại như Trương Tam Phong."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ từ những tư liệu đó mà Kim Dung đã tạo nên hình ảnh vị \"Võ Đang đệ tứ hiệp\" đa mưu túc trí trong Ỷ Thiên Đồ Long Ký. Còn ngoài đời thật, Trương Tùng Khê sống cách xa bối cảnh của tiểu thuyết đến tận 200 năm."
+    },
+    {
+     "t": "p",
+     "text": "Ai có thật trong Võ Đang thất hiệp?"
+    },
+    {
+     "t": "p",
+     "text": "Trong tiểu thuyết Kim Dung, Võ Đang thất hiệp bao gồm đại đệ tử Tống Viễn Kiều, rồi lần lượt từ thứ hai đến thứ bảy là Du Liên Châu, Du Đại Nham, Trương Tùng Khê, Trương Thúy Sơn, Ân Lê Đình và Mạc Thanh Cốc."
+    },
+    {
+     "t": "p",
+     "text": "Trong số này, 3 người đầu tiên - Tống Viễn Kiều, Du Liên Châu, Du Đại Nham được ghi lại tên tuổi trong nhiều tư liệu liên quan phái Võ Đang, nhiều khả năng là nhân vật có thật. Trương Tùng Khê có thật nhưng lại không xuất thân từ Võ Đang, còn 3 người cuối cùng khả năng cao chỉ là hư cấu."
+    }
+   ]
+  },
+  {
+   "id": "8494e156cc42",
+   "order": 4,
+   "slug": "danh-bai-thai-lan-chuc-vo-dich-lich-su-cua-indonesia-kich-ti",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Đánh bại Thái Lan, chức vô địch lịch sử của Indonesia kịch tính cỡ nào?",
+   "sapo": "Indonesia đã viết nên lịch sử khi lên ngôi vô địch một giải vô địch Đông Nam Á do FIFA tổ chức lần đầu tiên. Đội chủ nhà đã vượt qua Thái Lan vào tối 5.10 trong trận chung kết FIFA ASEAN Cup 2026 đầy kịch tính với loạt đá luân lưu nghẹt thở.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/danh-bai-thai-lan-chuc-vo-dich-lich-su-cua-indonesia-kich-tinh-nhu-the-nao-185261005225736023.htm",
+   "published": "2026-10-05T16:05:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 757,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/8494e156cc42-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/8494e156cc42-0.jpg",
+     "caption": "Indonesia vô địch",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/8494e156cc42-1.jpg",
+     "caption": "Thái Lan (trắng) chơi quá quyết tâm trước Indonesia",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/8494e156cc42-2.jpg",
+     "caption": "Peeradol (số 8) lập công, đưa Thái Lan vươn lên dẫn trước 2-1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/8494e156cc42-3.jpg",
+     "caption": "Nhưng rồi Baggot (số 20) lập tức gỡ hòa",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Thái Lan bị dồn ép"
+    },
+    {
+     "t": "p",
+     "text": "Nhìn vào thành tích đối đầu để có thể thấy Indonesia khát khao đánh bại Thái Lan đến mức nào. Đã 10 năm qua, trải dài qua 7 lần chạm mặt gần nhất, \"Garuda\" chưa thể một lần đánh bại đối thủ cùng khu vực này (thua 4 và hòa 3). Chuỗi thành tích đáng quên ấy là giúp Indonesia bước vào trận đấu với quyết tâm cao độ, chủ động tấn công ngay từ đầu. Và họ có cơ sở để làm điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Về nhân sự, Thái Lan không thay đổi quá nhiều, vẫn đặt niềm tin vào những cầu thủ nội như Chanathip Songkrasin, Sarach Yooyen, Supachai Jaided… Chỉ có 2 gương mặt mang dòng máu lai là Manuel Bihr và Nicholas Mickelson, nhưng cả 2 cũng đã khoác áo \"Voi chiến\" từ lâu. Trong khi đó, Indonesia tiếp tục cho thấy sức mạnh vượt trội nhờ dàn cầu thủ \"Indo kiều\" trải đều ở cả 3 tuyến: Emil Audero, Justin Hubner, Kevin Diks, Luke Vickery, Joey Pelupessy, Mitchell Baker, Ole Romeny… Theo Transfermarkt , giá trị đội hình Indonesia tại FIFA ASEAN Cup 2026 lên tới 22,84 triệu euro (khoảng 616 tỉ đồng), gấp 2,4 lần Thái Lan."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sự chênh lệch ấy thể hiện rõ trên sân. Indonesia tạo ra thế trận lấn lướt hoàn toàn, liên tục tạo ra những cơ hội ngon ăn. Thái Lan buộc phải chơi phòng ngự - phản công, chấp nhận nhường thế trận. Ngay cả Chanathip cũng phải đá rất thấp. Không ít lần, thủ môn và các hậu vệ Thái Lan chỉ còn cách phất bóng dài vô định để giải tỏa áp lực chứ không nhằm tổ chức tấn công. Dù vậy, bằng sự kiên cường và kỷ luật, Thái Lan vẫn đứng vững."
+    },
+    {
+     "t": "h",
+     "text": "Nghẹt thở"
+    },
+    {
+     "t": "p",
+     "text": "Bước vào hiệp 2, cả 2 đội vẫn giữ nguyên cách tiếp cận trận đấu. Dù bị ép sân, Thái Lan không hề nao núng, liên tục đáp trả bằng những pha chuyển trạng thái sắc sảo. Các học trò của HLV Anthony Hudson nhiều lần đánh thẳng vào khoảng trống giữa hậu vệ phải và trung vệ lệch phải của Indonesia, buộc HLV John Herdman phải có sự điều chỉnh: tung Ridho vào thay Luke Vickery để gia tăng sự chắc chắn cho hành lang này. Ở phía Thái Lan, Chanathip và Poeophimai lần lượt rời sân, nhường chỗ cho Ratree và Soonsup-Bell để \"Voi chiến\" tiếp tục thế trận phòng ngự - phản công."
+    },
+    {
+     "t": "p",
+     "text": "Indonesia hạ Thái Lan trên chấm luân lưu, vô địch FIFA ASEAN Cup 2026"
+    },
+    {
+     "t": "p",
+     "text": "Không chịu kém cạnh, HLV Herdman đưa ra bước đi mang tính \"khắc chế\" ngay sau đó: rút cầu thủ chạy cánh Oratmangoen, tung vào sân tiền vệ trung tâm Ivar Jenner nhằm tăng cường sức chiến đấu cho khu trung tuyến Indonesia. Đây chính là bước ngoặt của trận đấu. Jenner tung đường chọc khe tinh tế để Romeny thoát xuống, buộc Mickelson phải phạm lỗi và nhận thẻ vàng thứ 2, rời sân ở phút 82. Từ quả đá phạt sau đó, Dean thực hiện cú sút thẳng, bóng chạm người Sanron đổi hướng khiến thủ môn Anuin đứng chôn chân, mở tỷ số cho Indonesia."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chỉ 3 phút sau, bất chấp thiệt hại về quân số, Thái Lan có pha đáp trả không thể hoàn hảo hơn. Phút 87, Ratree tạt bóng chính xác vào vòng cấm, để chính Sanron \"lập công chuộc tội\" bằng cú đệm bóng tung nóc lưới, khiến trận đấu buộc phải bước vào 30 phút hiệp phụ."
+    },
+    {
+     "t": "p",
+     "text": "Tưởng chừng lợi thế hơn người sẽ giúp Indonesia giành chiến thắng. Nhưng khoảnh khoắc thiếu tập trung khiến đội chủ nhà nhận trái đắng. Phút 111, Thái Lan cướp bóng trên phần sân đối phương và tình huống phản công này được kết thúc bằng cú dứt điểm gọn gàng của Peeradol. Bàn thua này khiến Indonesia vùng lên, có bàn gỡ hòa 2-2 nhờ công của Elkan Baggot ở phút 117."
+    },
+    {
+     "t": "p",
+     "text": "2 đội tiếp tục bất phân thắng bại trong 30 phút hiệp phụ và phải bước vào loạt đá luân lưu đầy may rủi. Tại đây, Indonesia bản lĩnh và may mắn hơn khi giành chiến thắng 4-2. Như vậy, Indonesia chính thức có chức vô địch Đông Nam Á đầu tiên lịch sử. Trước đó, ở AFF Cup/ASEAN Cup, họ vào chung kết 6 lần nhưng đều thất bại."
+    },
+    {
+     "t": "p",
+     "text": "Xem FIFA ASEAN CUP 2026 trực tiếp & trọn vẹn trên FPT Play, tại http://fptplay.vn"
+    }
+   ]
+  },
+  {
+   "id": "3c5d51d17f18",
+   "order": 5,
+   "slug": "m104-nhung-dong-vat-chat-thuy-trieu-cua-thien-ha-sombrero",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "M104: Những dòng vật chất thủy triều của thiên hà Sombrero",
+   "sapo": "",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+   "published": "2026-10-05T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 328,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "M104: The Sombrero Galaxy's Tidal Streams",
+   "images": [
+    {
+     "src": "img/2026-10-06/3c5d51d17f18-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-10-06/3c5d51d17f18-0.jpg",
+     "caption": "Một vùng đầy sao có một khối sáng mờ ở giữa. Chạy dọc theo chính giữa là một vạch tối. Một vòng sáng chạy theo đường chéo bao quanh khối sáng ở trung tâm.",
+     "w": 1280,
+     "h": 854
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "APOD"
+    },
+    {
+     "t": "p",
+     "text": "Ảnh thiên văn mỗi ngày"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá vũ trụ! Mỗi ngày có một bức ảnh hoặc hình ảnh khác nhau về vũ trụ kỳ thú của chúng ta được giới thiệu, kèm theo một đoạn giải thích ngắn do một nhà thiên văn học chuyên nghiệp viết."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải thích: Một bức ảnh chụp sâu về thiên hà Sombrero đã hé lộ nhiều điều bất ngờ. M104 được gọi là thiên hà Sombrero vì khi chụp với thời gian phơi sáng ngắn, nó trông giống một chiếc mũ. Một đặc điểm quan trọng để nhận biết thiên hà khổng lồ này là một vành bụi tối bao quanh trung tâm của thiên hà dạng đĩa. Tuy nhiên, khi chụp với thời gian phơi sáng lâu hơn nhiều, người ta phát hiện ra một \"quá khứ đầy lông lá\" của nó: một lớp hào quang mờ và sáng hiện ra, trải rộng ra ngoài phần đĩa trung tâm và chứa rất nhiều ngôi sao chưa thể phân giải được. Điều bất ngờ là, trong lớp sương sao mờ này, người ta còn nhìn thấy nhiều cấu trúc khác, trong đó có một vòng chạy theo đường chéo. Những cấu trúc và các dòng vật chất thủy triều (tidal streams) này là bằng chứng mới cho thấy M104 đã từng có một quá khứ đầy biến động, và chắc chắn là kết quả của những vụ va chạm và sáp nhập với các thiên hà nhỏ hơn. Ánh sáng từ thiên hà Sombrero phải đi mất khoảng 30 triệu năm mới đến được Trái Đất, và toàn bộ thiên hà này có chiều ngang khoảng 150.000 năm ánh sáng. Bức ảnh nổi bật hôm nay được chụp trong suốt bảy ngày vào giữa năm 2026 tại Namibia. Bất ngờ về bầu trời của bạn: Bức ảnh nào đã được APOD giới thiệu vào đúng ngày sinh của bạn? (tính từ sau năm 1995) Bức ảnh ngày mai: một nụ cười"
+    }
+   ]
+  },
+  {
+   "id": "60a30fa804d3",
+   "order": 6,
+   "slug": "madagascar-giong-mat-trang",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Madagascar giống Mặt Trăng",
+   "sapo": "Một mảng đá anorthosite sáng màu, loại đá phổ biến trên bề mặt Mặt Trăng, nằm lọt giữa những lớp đá bị biến dạng ở phía nam đất nước này.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
+   "published": "2026-10-05T04:01:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 844,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Moon-Like Madagascar",
+   "images": [
+    {
+     "src": "img/2026-10-06/60a30fa804d3-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/60a30fa804d3-0.jpg",
+     "caption": "Một khối đá lộ thiên hình tròn, màu trắng, được bao quanh bởi những khối đá màu cam có hoa văn kẻ sọc chạy theo hướng bắc - nam. Những lòng sông phân nhánh cắt xuyên qua các cấu trúc đá này.",
+     "w": 900,
+     "h": 900
+    },
+    {
+     "src": "img/2026-10-06/60a30fa804d3-1.jpg",
+     "caption": "Một khối đá lộ thiên hình tròn, màu trắng, được bao quanh bởi những khối đá màu cam có hoa văn kẻ sọc chạy theo hướng bắc - nam. Những lòng sông phân nhánh cắt xuyên qua các cấu trúc đá này.",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nếu đứng từ góc nhìn của một nhà du hành vũ trụ đang nhìn về Trái Đất, một vùng đá sáng màu ở phía nam khô hạn của Madagascar có thể trông thật lạc chỗ. Nhưng nếu ở trên Mặt Trăng thì lại không hề lạ. Đá anorthosite, một loại đá núi lửa (igneous rock) phổ biến trên bề mặt Mặt Trăng, có thể nhìn thấy từ Trái Đất bằng mắt thường, đó chính là những vùng sáng màu, phản chiếu ánh sáng mạnh được gọi là cao nguyên Mặt Trăng (lunar highlands). Đá anorthosite cũng xuất hiện ở nhiều nơi trên Trái Đất, từ miền đông Canada, vùng Scandinavia, cho đến miền nam Ấn Độ và Madagascar, nơi nó tạo thành một đặc điểm địa hình hình tròn rất nổi bật."
+    },
+    {
+     "t": "p",
+     "text": "Một nhà du hành vũ trụ trên Trạm Vũ trụ Quốc tế đã chụp được bức ảnh này về khối đá anorthosite Saririaky vào ngày 28 tháng 8 năm 2026. Anorthosite là loại đá núi lửa xâm nhập (intrusive igneous rock) - hình thành từ dung nham nguội dần dưới bề mặt đất - gồm các tinh thể khoáng vật lớn. Các nhà khoa học cho rằng khối đá này được hình thành vào cuối thời kỳ Precambrian, cách đây ít nhất 600 triệu năm. Phần lộ thiên hiện nay của nó trải rộng khoảng 100 km vuông."
+    },
+    {
+     "t": "p",
+     "text": "Những lớp đá bao quanh khối anorthosite này cho thấy một giai đoạn biến động trong lịch sử địa chất của khu vực. Các nhà nghiên cứu xác định rằng khối đá Saririaky nằm trong một đới trượt dẻo (ductile shear zone), nơi áp suất và nhiệt độ cao đã làm biến đổi và tái tạo hình dạng của đá, tạo ra những hoa văn kẻ sọc chạy theo hướng bắc - nam."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà địa chất cho rằng sự biến dạng này xảy ra khi các mảng đất mà ngày nay là châu Phi, Ấn Độ, Madagascar, Australia và châu Nam Cực va chạm vào nhau để hình thành siêu lục địa Gondwana. Một số nhà khoa học cho rằng một khối đá anorthosite khác trong đới trượt này, nằm cách khối Saririaky khoảng 60 km về phía bắc, đã bị kéo tách ra từ khối Saririaky trong quá trình đó, tạo thành một cấu trúc dạng xúc xích (boudinage) quy mô lớn."
+    },
+    {
+     "t": "p",
+     "text": "Đá anorthosite trên Trái Đất đã chứng tỏ rất hữu ích đối với các nhà khoa học nghiên cứu về lịch sử Mặt Trăng. Đá anorthosite trên Mặt Trăng có tuổi hơn 4 tỷ năm, được hình thành từ sự kết tinh của đại dương dung nham (magma ocean) trên Mặt Trăng để tạo nên lớp vỏ ngoài của nó. Các nhà nghiên cứu đã phân tích những mẫu đá mà các nhà du hành vũ trụ trong chương trình Apollo mang về Trái Đất, nhưng vì số lượng mẫu vật này rất hạn chế, họ còn tìm đến những loại đá tương tự trên Trái Đất. Đá anorthosite ở vùng núi Beartooth, bang Montana, có thành phần đặc biệt giống với loại đá trên Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh do nhà du hành vũ trụ chụp, mang số hiệu ISS075-E-85249, được thực hiện vào ngày 28 tháng 8 năm 2026 bằng máy ảnh số Nikon Z9 với tiêu cự 400 mm. Ảnh được cung cấp bởi Cơ sở Quan sát Trái Đất của Phi hành đoàn ISS (ISS Crew Earth Observations Facility) và Đơn vị Khoa học Trái Đất và Viễn thám tại Trung tâm Vũ trụ Johnson của NASA. Bức ảnh do một thành viên của phi hành đoàn Expedition 75 chụp. Ảnh đã được cắt gọt và chỉnh sửa để tăng độ tương phản, đồng thời loại bỏ các vết nhiễu do ống kính gây ra. Chương trình Trạm Vũ trụ Quốc tế hỗ trợ phòng thí nghiệm này trong khuôn khổ ISS National Lab, nhằm giúp các nhà du hành vũ trụ chụp được những bức ảnh về Trái Đất có giá trị cao nhất đối với các nhà khoa học và công chúng, đồng thời công bố những hình ảnh đó miễn phí trên internet. Có thể xem thêm những bức ảnh khác do các nhà du hành vũ trụ chụp tại trang NASA/JSC Gateway to Astronaut Photography of Earth. Bài viết của Lindsey Doermann."
+    },
+    {
+     "t": "h",
+     "text": "Tải xuống"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "28 tháng 8 năm 2026"
+    },
+    {
+     "t": "p",
+     "text": "JPEG (8,86 MB)"
+    },
+    {
+     "t": "h",
+     "text": "Tài liệu tham khảo & Nguồn"
+    },
+    {
+     "t": "li",
+     "text": "Ashwal, L.D., và cộng sự (1998) Địa chất, thạch học và địa hóa đồng vị của đá anorthosite dạng khối (massif-type anorthosites) ở tây nam Madagascar. Tạp chí Contributions to Mineralogy and Petrology, số 133, trang 389-401."
+    },
+    {
+     "t": "li",
+     "text": "Earth & Solar System (27/7/2017) Trạng thái va chấn chấn động của vùng cao nguyên Mặt Trăng. Truy cập ngày 2/10/2026."
+    },
+    {
+     "t": "li",
+     "text": "Martelat, J., và cộng sự (2000) Kiểu biến dạng và lịch sử biến dạng cuối thời kỳ Tiền Cambri ở miền nam Madagascar. Tạp chí Precambrian Research, số 102, trang 1-2."
+    },
+    {
+     "t": "li",
+     "text": "NASA Earth Observatory (4/5/2020) Những tảng đá giống Mặt Trăng ở Montana. Truy cập ngày 2/10/2026."
+    }
+   ]
+  },
+  {
+   "id": "6f680eb4c9be",
+   "order": 7,
+   "slug": "blog-cua-curiosity-sols-5022-5028-tim-thay-kho-bau-o-cache-c",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Blog của Curiosity, Sols 5022-5028: Tìm thấy kho báu ở Cache Creek",
+   "sapo": "Viết bởi Lucy Thompson, Nhà khoa học nghiên cứu cấp cao, Đại học New Brunswick, Canada",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+   "published": "2026-10-04T21:13:07+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 915,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+   "images": [
+    {
+     "src": "img/2026-10-06/6f680eb4c9be-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 941
+    },
+    {
+     "src": "img/2026-10-06/6f680eb4c9be-0.jpg",
+     "caption": "Hình ảnh cận cảnh chụp từ trên cao lớp đất đỏ nâu của sao Hỏa do xe tự hành Curiosity ghi lại. Ở giữa ảnh có một vùng hình tròn rõ rệt, nơi lớp đất thô bên trên đã được làm mịn hoặc quét sạch, để lại những vòng tròn đồng tâm mờ nhạt. Một mảnh đá nhỏ, kéo dài nằm ngay chính giữa vùng tròn này. Vòng tròn đã được quét sạch tạo nên sự tương phản với vùng đất xung quanh chưa bị xáo trộn, vốn được bao phủ bởi cát thô rời rạc và những viên sỏi nhỏ dễ vỡ.",
+     "w": 1200,
+     "h": 882
+    },
+    {
+     "src": "img/2026-10-06/6f680eb4c9be-1.jpg",
+     "caption": "Một xe tự hành đang đứng trên mặt đất đồi núi màu cam của sao Hỏa, dưới bầu trời xám phẳng lặng, xung quanh là những tảng đá lớn.",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Viết bởi Lucy Thompson, Nhà khoa học nghiên cứu cấp cao, Đại học New Brunswick, Canada"
+    },
+    {
+     "t": "p",
+     "text": "Ngày lập kế hoạch trên Trái Đất: Thứ Sáu, 25 tháng 9, 2026"
+    },
+    {
+     "t": "p",
+     "text": "Trước khi chúng ta hạ cánh, khu vực miệng hố Gale mà chúng ta dự định khám phá đã được chia thành các ô hình chữ nhật với những tên gọi riêng. Những tên này được chọn theo tên các thị trấn nhỏ gắn liền với các đặc điểm địa chất quan trọng. Các mục tiêu mà chúng ta chọn (như các cao nguyên nhỏ, lớp đá nền, đất, đá tảng, v.v.) trong các ô vuông đó sau đó được đặt tên không chính thức dựa theo chủ đề của ô vuông đó. Xem đường liên kết tại đây để biết thêm chi tiết về cách đặt tên trên sao Hỏa. Curiosity đã từ lâu leo lên vượt khỏi những ô vuông được chọn trước khi hạ cánh, và trước chuyến hành trình 14 năm, dài 38 km (24,6 dặm) của nó, bao gồm hơn 1 km (0,6 dặm) độ cao đã vượt qua."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta vừa mới bước vào ô vuông mới mang tên Cache Creek, được đặt theo tên một khu vực có sự đa dạng địa chất ở British Columbia, Canada. Khu vực này ở Canada bao gồm các lớp lộ của vỏ đại dương, trầm tích biển, đá núi lửa và các trầm tích do băng hà, cùng với đó là nơi có những hồ nước với thành phần hóa học bất thường, có thể tương tự như những hồ từng tồn tại trên sao Hỏa. Nơi đây cũng nằm ở đầu phía nam của Con đường Đổ xô tìm vàng (Gold Rush Trail) những năm 1860, nơi những người thợ mỏ và người tìm vàng từng đổ về khu vực này của British Columbia để tìm kiếm của cải. Tuần này, chúng ta đã khoan thành công vào mục tiêu đá thứ 48 trong miệng hố Gale (\"Basque Lakes\"), thuộc ô vuông Cache Creek. Dù có thể chúng ta không thực sự tìm thấy vàng, tất cả chúng ta đều đang nóng lòng chờ đợi kết quả phân tích nhiễu xạ tia X (X-ray diffraction) bằng thiết bị CheMin đối với mẫu đã khoan, dự kiến sẽ được thực hiện trong kế hoạch cuối tuần này. Mẫu vật này sẽ chứa \"mỏ vàng\" khoáng chất nào? Chúng có thể cho chúng ta biết điều gì về lịch sử lắng đọng và biến đổi của lớp đá lộ này — liệu có thể tồn tại những khoáng chất tương tự như những khoáng chất liên quan đến một số hồ ở khu vực Cache Creek của British Columbia không?"
+    },
+    {
+     "t": "p",
+     "text": "Với vai trò là người dẫn đầu truyền lệnh (uplink lead) cho thiết bị APXS và người lập kế hoạch chiến lược trong tuần này, tôi đã giúp lập kế hoạch cho hoạt động khoa học tiếp xúc sơ bộ (triage contact science) đối với mục tiêu khoan tiềm năng Basque Lakes, và truyền đạt kết quả cho phần còn lại của nhóm. Chúng ta đã đặt thiết bị APXS tiếp xúc với mục tiêu đá để đo thành phần hóa học của nó, và dùng camera MAHLI ở khoảng cách gần tới 1 cm (khoảng 0,4 inch) để xem xét chi tiết các đặc điểm bề mặt. ChemCam cũng đã bắn tia laser vào mục tiêu khoan Basque Lakes để xác định thêm thành phần của nó. MAHLI cũng đã chụp ảnh mục tiêu sau khi các kỹ sư kiểm tra độ ổn định của tảng đá bằng một phép thử tải trước (pre-load test). Kết quả từ tất cả các hoạt động này đã giúp quyết định có nên tiến hành khoan hay không."
+    },
+    {
+     "t": "p",
+     "text": "Dù gặp phải những hạn chế lớn về năng lượng liên quan đến việc khoan và các phân tích kèm theo, cùng với việc xe tự hành ngày càng \"có tuổi\", chúng ta vẫn có thể lập kế hoạch cho thêm một số hoạt động khác. Camera Mastcam đã chụp ảnh địa hình xung quanh để cung cấp bối cảnh cho mẫu khoan mới của chúng ta. ChemCam đã có thể phân tích thành phần hóa học của một mục tiêu đá nền gần đó khác, \"Peace River\", và sử dụng khả năng chụp ảnh cùng quang phổ học thụ động (passive spectroscopy) của mình để quan sát lỗ khoan mới và phần đất đá thải xung quanh. Khả năng chụp ảnh từ xa của ChemCam cũng được dùng để xem xét một lớp trầm tích trông thú vị gồm các tảng đá lộn xộn nằm ở chân một gò đá gần đó, \"Cordillera\"."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta cũng đã sử dụng camera Navcam và Mastcam để tiếp tục theo dõi các điều kiện môi trường và khí quyển tại miệng hố Gale."
+    },
+    {
+     "t": "p",
+     "text": "Việc phân tích mẫu khoan Basque Lakes dự kiến sẽ tiếp tục trong tuần tới, với việc chuyển vật liệu đến thiết bị SAM, sẽ hé lộ thêm nhiều \"viên ngọc\" thông tin về lịch sử của mẫu đá này. Curiosity có thể sẽ ở lại vị trí này thêm một tuần nữa, trước khi chúng ta đổ bỏ mẫu và tiếp tục di chuyển để khám phá núi Sharp và miệng hố Gale."
+    },
+    {
+     "t": "li",
+     "text": "Muốn đọc thêm các bài viết từ nhóm Curiosity? Hãy truy cập Mission Updates"
+    },
+    {
+     "t": "li",
+     "text": "Muốn tìm hiểu thêm về các thiết bị khoa học của Curiosity? Hãy truy cập trang Science Instruments"
+    },
+    {
+     "t": "img",
+     "i": 2
+    }
+   ]
+  },
+  {
+   "id": "93f1187b3a5a",
+   "order": 8,
+   "slug": "hai-loai-chim-on-ao-bac-nhat-the-gioi-tieng-hot-to-nhu-bua-k",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Hai loài chim ồn ào bậc nhất thế giới: Tiếng hót to như búa khoan, vượt 120 decibel",
+   "sapo": "Các nhà khoa học xác định thêm hai loài chim có tiếng hót thuộc nhóm lớn nhất từng được ghi nhận, với âm lượng tương đương tiếng búa khoan.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/hai-loai-chim-on-ao-bac-nhat-the-gioi-tieng-hot-to-nhu-bua-khoan-vuot-120-decibel-100261002133145825.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 474,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/93f1187b3a5a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/93f1187b3a5a-0.jpg",
+     "caption": "Chim chuông cổ trần cất tiếng hót - Ảnh: JOAO MENEZES",
+     "w": 860,
+     "h": 573
+    },
+    {
+     "src": "img/2026-10-06/93f1187b3a5a-1.jpg",
+     "caption": "Chim seriema chân đỏ cũng là một ứng viên cho danh hiệu loài chim ồn ào nhất thế giới - Ảnh: JOAO MENEZES",
+     "w": 860,
+     "h": 645
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu của Đại học Massachusetts Amherst (Mỹ), công bố trên tạp chí Evolution , ghi nhận chim chuông họng trần và chim seriema chân đỏ có tiếng hót vượt 120 decibel khi đo ở khoảng cách tiêu chuẩn 1m."
+    },
+    {
+     "t": "p",
+     "text": "Chim chuông họng trần đạt 122,4 decibel khi tính trung bình trong khoảng thời gian 20 mili giây. Một con thuộc loài này thậm chí phát ra âm thanh cực đại gần 131 decibel, trở thành cá thể chim có tiếng hót lớn nhất trong nghiên cứu."
+    },
+    {
+     "t": "p",
+     "text": "Kỷ lục còn phụ thuộc vào cách định nghĩa \"lớn\". Nếu tính trung bình những tiếng hót lớn nhất của từng loài trong 20 mili giây, seriema chân đỏ đạt gần 121 decibel, theo Đài CNN ngày 30-9."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, chim chuông trắng, từng được ghi nhận âm lượng tới 125 decibel và được Kỷ lục Guinness thế giới công nhận là loài chim có tiếng kêu lớn nhất, vẫn dẫn đầu nếu tính mức cực đại trung bình của nhiều cá thể, với 127 decibel."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đo tiếng hót của 123 loài chim tại bang Massachusetts (Mỹ) và Brazil trong giai đoạn 2018 - 2025. Tiếng hót của 113 loài trong số này chưa từng được ghi nhận trước đó."
+    },
+    {
+     "t": "p",
+     "text": "Việc đo âm lượng tiếng chim ngoài tự nhiên không đơn giản vì nhà nghiên cứu phải xác định chính xác khoảng cách từ chim đến thiết bị ghi âm. Nhóm sử dụng máy đo khoảng cách bằng laser, tương tự thiết bị chơi golf, để đồng thời xác định vị trí và cường độ âm thanh."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi hiệu chỉnh tiếng ồn nền và khoảng cách, các nhà khoa học phát hiện những loài có cơ thể lớn và mỏ rộng thường phát ra âm thanh mạnh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Theo nghiên cứu, chim lớn có cơ bắp khỏe hơn, tạo áp suất bên trong lớn hơn, trong khi mỏ rộng giúp nhiều năng lượng âm thanh phát tán ra môi trường."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, một số loài chim nhỏ vẫn có thể tạo âm thanh lớn hơn nhiều động vật khổng lồ như voi, sư tử hay bò rừng, cho thấy còn những cơ chế tạo âm thanh chưa được giải thích đầy đủ."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học cũng chưa xác định được hoàn toàn vì sao một số loài tiến hóa thành những \"ca sĩ\" đặc biệt ồn ào."
+    },
+    {
+     "t": "p",
+     "text": "Chim chuông sống trong rừng rậm có thể cần tiếng hót lớn để giao tiếp qua thảm thực vật dày, nhưng seriema chân đỏ sống ở môi trường thoáng và sống một vợ một chồng cũng phát ra âm thanh rất lớn."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu cho rằng khi dữ liệu về tiếng hót của chim tiếp tục được thu thập, danh sách những loài \"ồn ào nhất thế giới\" có thể còn dài thêm."
+    }
+   ]
+  },
+  {
+   "id": "d544ab5899e9",
+   "order": 9,
+   "slug": "dao-dien-nguyen-quang-dung-lam-phim-hoat-hinh-dau-tay",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Đạo diễn Nguyễn Quang Dũng làm phim hoạt hình đầu tay",
+   "sapo": "Đạo diễn Nguyễn Quang Dũng vừa chính thức giới thiệu tác phẩm Thế giới trần trụi. Đây là phim hoạt hình 3D đầu tiên của anh. Kịch bản được phát triển từ ý tưởng của đạo diễn ấp ủ suốt 20 năm với sự cộng tác của 2 nhà biên kịch ToTo Chan và Kim.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/dao-dien-nguyen-quang-dung-lam-phim-hoat-hinh-dau-tay-185261004225550205.htm",
+   "published": "2026-10-05T00:43:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 351,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/d544ab5899e9-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/d544ab5899e9-0.jpg",
+     "caption": "Hình ảnh trong phim Thế giới trần trụi của đạo diễn Nguyễn Quang Dũng",
+     "w": 1264,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đạo diễn Nguyễn Quang Dũng vừa chính thức giới thiệu tác phẩm Thế giới trần trụi. Đây là phim hoạt hình 3D đầu tiên của anh. Kịch bản được phát triển từ ý tưởng của đạo diễn ấp ủ suốt 20 năm với sự cộng tác của 2 nhà biên kịch ToTo Chan và Kim."
+    },
+    {
+     "t": "p",
+     "text": "Thế giới trần trụi xoay quanh Koo, một chú gà tre vô tình lạc vào một khu công nghiệp chăn nuôi hiện đại. Tại đây, Koo gặp Moo và những chú gà đang sống trong một thế giới được vận hành hoàn hảo với thức ăn, tập luyện, chăm sóc cơ thể và những tiêu chuẩn nghiêm ngặt. Tất cả đều tin rằng mình đang trên đường đến một nơi được gọi là \"thiên đường\" cho đến khi chúng phát hiện sự thật phía sau. Từ đó, Koo bắt đầu hành trình tìm cách thoát khỏi thế giới này, đồng thời đối diện với những lựa chọn về tự do, tình bạn, tình yêu và số phận."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt của dự án không chỉ nằm ở công nghệ tạo hình mà ở cách một thế giới hoạt hình được xây dựng từ tư duy điện ảnh . Bộ phim ứng dụng các công nghệ hiện đại , trong đó có công nghệ AI, để hỗ trợ quá trình sản xuất. Tuy nhiên, công nghệ chỉ là công cụ phục vụ sáng tạo, còn câu chuyện, tính cách nhân vật, cảm xúc và ngôn ngữ vẫn được quyết định bởi đội ngũ làm phim."
+    },
+    {
+     "t": "p",
+     "text": "Theo Nguyễn Quang Dũng, điện ảnh Việt đang có nhiều cơ hội để phát triển. Đặc biệt, anh dành sự quan tâm đến thế hệ nhà làm phim mới với những ý tưởng sáng tạo và độc đáo."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi mong muốn kết nối để đưa các tác phẩm điện ảnh Việt Nam đến với thị trường quốc tế; đồng thời cùng đồng hành, đóng góp vào sự phát triển của ngành công nghiệp điện ảnh nói riêng và công nghiệp văn hóa Việt Nam nói chung\", Nguyễn Quang Dũng chia sẻ."
+    }
+   ]
+  },
+  {
+   "id": "dbc60ab5021f",
+   "order": 10,
+   "slug": "man-nhan-dieu-cong-nghe-trinh-dien-anh-sang-tren-bau-troi-ha",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Mãn nhãn \"diều công nghệ\" trình diễn ánh sáng trên bầu trời Hà Nội",
+   "sapo": "(Dân trí) - Chiều cuối tuần, bầu trời khu vực ngoại thành Hà Nội trở nên rực rỡ và sống động khi xuất hiện hàng chục con diều công nghệ khổng lồ mang hình",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/man-nhan-dieu-cong-nghe-trinh-dien-anh-sang-tren-bau-troi-ha-noi-20261003202942556.htm",
+   "published": "2026-10-04T01:24:22+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1006,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-0.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-1.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-2.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-3.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 4",
+     "w": 1280,
+     "h": 1851
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-4.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-5.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-6.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-7.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-8.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-9.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-10.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/dbc60ab5021f-11.jpg",
+     "caption": "Mãn nhãn diều công nghệ trình diễn ánh sáng trên bầu trời Hà Nội - 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Chiều cuối tuần, bầu trời khu vực ngoại thành Hà Nội trở nên rực rỡ và sống động khi xuất hiện hàng chục con diều công nghệ khổng lồ mang hình dáng các sinh vật biển, nhân vật hoạt hình độc đáo."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, theo thông lệ, cứ khoảng 14h cuối tuần, các thành viên trong nhóm Hanoi LED Kite Team lại tập kết tại nhà của anh Đỗ Quang Ngọc - một thành viên của nhóm tại Tô Hiệu (Hà Đông) để vận chuyển hàng chục cuộn dây, túi diều và hệ thống máy móc ra bãi thả."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Diều cá đuối khổng lồ có diện tích lên tới 21m², sải ngang 9m nổi bật với chiếc bụng trắng và chiếc lưng có nhiều màu sắc sặc sỡ. Đây cũng là chiếc diều có kích thước lớn nhất của nhóm được thả ngày hôm nay."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Ngày hôm nay, thời tiết lý tưởng với luồng gió Đông Nam ổn định, hoàn toàn ủng hộ cho việc đưa những chiếc diều công nghệ khổng lồ lên không trung."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Các thành viên trong nhóm cẩn thận kiểm tra các linh kiện, thiết bị như: hệ thống dây, móc, diều, linh kiện điện tử."
+    },
+    {
+     "t": "p",
+     "text": "Tại bãi thả, các thành viên tìm vị trí phù hợp, cắm sâu cọc neo sắt xuống lòng đất để cố định gốc dây chính."
+    },
+    {
+     "t": "p",
+     "text": "Để chuẩn bị cho cuộc chinh phục tầng không, mọi người đeo kẹp dây chuyên dụng vào tay nhằm tránh ma sát gây thương tích, chuẩn bị sẵn ròng rọc cỡ lớn để ghì dây và bật bộ đàm liên lạc."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đến khoảng 15h, khi gió Đông Nam đạt độ căng hoàn hảo, từng chiếc diều khổng lồ bắt đầu cất cánh. Anh Nguyễn Văn Hùng, 33 tuổi phối hợp cùng các đồng đội khéo léo nhả dây chậm rãi từ cọc neo để đưa con diều đầu tiên đón gió dần bay lên không trung."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về kỹ thuật thả diều công phu này, anh Hùng cho biết: \"Đầu tiên phải thả một con diều đầu kéo như Pinos 16 hoặc Pavita 12. Khi con đầu kéo đã đứng gió, chúng tôi mới kéo tiếp một con diều cá đuối khổng lồ lên\"."
+    },
+    {
+     "t": "p",
+     "text": "Anh Hùng giải thích thêm, diều cá đuối đóng vai trò là 'đầu kéo chính' cực khỏe, cho phép móc nối thêm 4 đến 5 con diều phụ khác treo cùng trên một đường dây chính."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Anh Đỗ Quang Ngọc, đại diện nhóm chia sẻ: \"Nhóm chúng tôi gồm những anh em có chung niềm đam mê với diều LED. Tuy mới gắn kết khoảng 2 tháng nhưng mọi người phối hợp rất ăn ý. Hôm nay, cả nhóm mang đi hơn 20 con diều các loại, chủ yếu là diều LED để chuẩn bị trình diễn khi trời tối\"."
+    },
+    {
+     "t": "p",
+     "text": "Trên trục dây neo chính đang rất căng, các thành viên kéo móc treo ở phần đầu con diều phụ gắn chặt vào dây chính, đồng thời móc phần dây bên dưới vào trục dây phụ."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Chiếc diều cá nhám màu vàng của anh Đỗ Quang Ngọc sau khi được rải dây, nối vào trục dây chính cũng từ từ bay lên không. Theo chia sẻ của anh Ngọc đây là chiếc diều có giá trị đắt nhất trong bộ sưu tập."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một trong những chiếc diều yêu thích của tôi. Chiếc diều được tôi mua với giá 9 triệu đồng (đã kèm với các phụ kiện). Để diều thêm phần rực rỡ và có thể chơi vào ban đêm, tôi đầu tư thêm 6 triệu đồng cho hệ thống đèn LED\", anh Ngọc tiết lộ."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Lần lượt từng con diều được tiếp gió và vút lên. Cứ thế, chuỗi 4 đến 5 con diều rực rỡ bám đuôi nhau, nối tiếp chao lượn nhịp nhàng trên cùng một trục dây neo giữa bầu trời Hà Nội."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Khi ánh hoàng hôn tắt hẳn vào khoảng 18h30, bầu trời Hà Nội chính thức bước vào màn trình diễn kỳ ảo nhất."
+    },
+    {
+     "t": "p",
+     "text": "Bằng một thao tác bấm công tắc hoặc kích hoạt từ xa, hàng ngàn bóng đèn LED kết nối trên thân hơn 20 con diều đồng loạt bừng sáng."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Những sinh vật biển khổng lồ khoác lên mình lớp áo ánh sáng rực rỡ chuyển màu nhịp nhàng, biến bầu trời đêm thành một \"đại dương\" phát sáng trên không trung."
+    },
+    {
+     "t": "p",
+     "text": "Trương Mạnh Tuân (22 tuổi) - thành viên trẻ tuổi đang theo học chuyên ngành công nghệ - cho biết việc tạo nên một chiếc diều LED đòi hỏi sự kết hợp giữa tư duy lập trình và sự khéo léo thủ công."
+    },
+    {
+     "t": "p",
+     "text": "\"Đầu tiên, chúng tôi phải thiết kế sơ đồ mạch điện và lập trình hiệu ứng ánh sáng chạy theo ý thích trên máy tính. Sau đó, cần đấu nối từng bóng LED, dán cố định lên thân diều rồi nạp đoạn code đã lập trình vào vi điều khiển trên diều\", Tuân giải thích."
+    },
+    {
+     "t": "p",
+     "text": "Với những chiếc diều kích thước lớn có thể mang 300-600 bóng LED. Việc thiết lập ánh sáng cho mỗi chiếc diều, theo Tuân sẽ mất vài ngày đến gần 1 tuần tùy độ khó."
+    },
+    {
+     "t": "p",
+     "text": "Sự xuất hiện của hàng chục chiếc diều ánh sáng khổng lồ chao lượn trên bầu trời đêm đã thu hút nhiều người dân Hà Nội đến thưởng thức."
+    },
+    {
+     "t": "p",
+     "text": "Trẻ em reo hò thích thú khi nhìn thấy những con cá đuối, bạch tuộc, phi hành gia phát sáng uốn lượn rực rỡ giữa không trung."
+    },
+    {
+     "t": "p",
+     "text": "Anh Đỗ Quang Ngọc tâm sự: \"Dù mới gắn kết được khoảng 2 tháng, nhưng anh em trong nhóm Hanoi LED Sky Team đều tìm thấy sự đồng điệu ở niềm đam mê này. Thả diều LED vừa giúp chúng tôi xả stress sau tuần làm việc mệt mỏi, vừa mang lại một không gian giải trí độc đáo, lành mạnh cho người dân Hà Nội mỗi dịp cuối tuần\"."
+    },
+    {
+     "t": "p",
+     "text": "Mãn nhãn \"diều công nghệ\" trình diễn ánh sáng trên bầu trời Hà Nội."
+    }
+   ]
+  },
+  {
+   "id": "ff6c7db6022f",
+   "order": 11,
+   "slug": "cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-nguoi-thay-gieo-ma",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Người thầy gieo màu cho họa sĩ khiếm thính",
+   "sapo": "Khi thế giới không còn âm thanh, màu sắc là ngôn ngữ để người khiếm thính kể lại câu chuyện của mình. Bằng tình yêu dành cho hội họa và sự đồng cảm với người khiếm thính, họa sĩ Võ Văn Y đã nhiều năm miệt mài mở lớp dạy vẽ miễn phí cho những học viên đặc biệt.",
+   "author": "THIÊN NGÂN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-nguoi-thay-gieo-mau-cho-hoa-si-khiem-thinh-100261004152804834.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 218,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/ff6c7db6022f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Người thầy gieo màu cho những họa sĩ khiếm thính - Thực hiện: THIÊN NGÂN - QUANG VINH"
+    },
+    {
+     "t": "p",
+     "text": "Đối với người khiếm thính, những hạn chế về khả năng nghe và nói tạo ra không ít trở ngại trong cuộc sống, đặc biệt là trong giao tiếp. Ngôn ngữ ký hiệu, những cử chỉ của đôi tay và ánh mắt trở thành phương tiện để họ kết nối với những người xung quanh."
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng, tại lớp học của họa sĩ Võ Văn Y, hội họa trở thành một phương thức giao tiếp khác, nơi những màu sắc và nét cọ giúp học viên thể hiện suy nghĩ, cảm xúc."
+    },
+    {
+     "t": "p",
+     "text": "Hơn 10 năm qua, lớp học mang tên \"Âm thanh hội họa\" đã trở thành nơi những họa sĩ đặc biệt này tìm thấy niềm vui trong sáng tạo, đồng thời có thêm một cơ hội để khẳng định khả năng của mình."
+    },
+    {
+     "t": "p",
+     "text": "Với lớp vẽ \"Âm thanh hội họa\", điều quan trọng không chỉ là dạy học viên hoàn thiện một bức tranh, mà còn giúp họ nhận ra rằng bản thân hoàn toàn có thể tạo ra giá trị."
+    },
+    {
+     "t": "p",
+     "text": "Từ những nét cọ, các học viên dần tự tin hơn, có thêm động lực theo đuổi hội họa và chủ động hòa nhập với cộng đồng."
+    }
+   ]
+  },
+  {
+   "id": "8daa65025acd",
+   "order": 12,
+   "slug": "dai-hoc-harvard-bien-len-phe-thai-thanh-gach-op-tuong-cho-ca",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Đại học Harvard biến len phế thải thành gạch ốp tường cho các công trình cải tạo",
+   "sapo": "Nhóm nghiên cứu Grinham - Đại học Harvard đã phát triển một loại gạch ốp cách nhiệt làm từ len phế thải và được giới thiệu tại Triển lãm Kiến trúc Oslo năm 2026.",
+   "author": "TRÌNH TIÊU",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/dai-hoc-harvard-bien-len-phe-thai-thanh-gach-op-tuong-cho-cac-cong-trinh-cai-tao-100261004132400259.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 690,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/8daa65025acd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-0.jpg",
+     "caption": "Gạch ốp tường làm từ len phế thải - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 1083,
+     "h": 648
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-1.jpg",
+     "caption": "Các tấm gạch ốp tường được trưng bày tại Triển lãm Kiến trúc Oslo - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 852,
+     "h": 639
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-2.jpg",
+     "caption": "Một lớp vật liệu dày, bền chắc được đặt lên trên tấm cách nhiệt - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 852,
+     "h": 1278
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-3.jpg",
+     "caption": "Len phế thải nhào thành bột - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 1185,
+     "h": 669
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-4.jpg",
+     "caption": "Các công đoạn xử lý len phế thải - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 1280,
+     "h": 664
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-5.jpg",
+     "caption": "\"Bột len\" được đưa vào khuôn - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 1224,
+     "h": 662
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-6.jpg",
+     "caption": "Các tấm gạch ốp được lấy ra khỏi khuôn ép - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 1278,
+     "h": 677
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-7.jpg",
+     "caption": "Vật liệu này có thể được ép thành nhiều hình dạng và kiểu dáng khác nhau - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 852,
+     "h": 1102
+    },
+    {
+     "src": "img/2026-10-06/8daa65025acd-8.jpg",
+     "caption": "Gạch ốp tường làm từ len phế thải được nhóm nghiên cứu Grinham, Đại học Harvard phát triển - Ảnh: Nhóm Nghiên cứu Grinham/Dezeen",
+     "w": 852,
+     "h": 1278
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong một tác phẩm sắp đặt mang tên Upcycling Wool Ecologies, Grinham Research Group đã trưng bày các tấm gạch của mình trên một khung gỗ tại nhà thờ Sofienberg ở Oslo (Na Uy) như một phần của triển lãm chính trong chuỗi sự kiện ba năm một lần, diễn ra từ ngày 17-9 đến 1-10."
+    },
+    {
+     "t": "p",
+     "text": "Nhận thấy tiềm năng của len trong các đặc tính cách nhiệt, chống cháy và kháng khuẩn, nhóm nghiên cứu muốn cứu nó khỏi việc bị loại bỏ như một vật liệu dư thừa trong ngành nông nghiệp và dệt may."
+    },
+    {
+     "t": "p",
+     "text": "Đồng thời phát triển thành loại vật liệu có thể giúp tạo điều kiện thuận lợi cho việc tái sử dụng các công trình xây dựng."
+    },
+    {
+     "t": "p",
+     "text": "Len phế thải được phát triển thành gạch ốp tường cho các công trình cải tạo - Video: Nhóm Nghiên cứu Grinham/Dezeen"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Giải pháp của họ là một loại gạch có thiết kế nhiều lớp, có thể ốp lên mặt ngoài các tòa nhà, tránh việc phải đục đẽo tường để nâng cấp lớp cách nhiệt một cách tốn kém."
+    },
+    {
+     "t": "p",
+     "text": "Được làm từ len tái chế, các tấm ốp có lớp đáy mật độ thấp đóng vai trò như một lớp cách nhiệt và lớp ngoài dày hơn với độ bền và khả năng chống chịu thời tiết tốt hơn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Jonathan Grinham, người sáng lập Grinham Research Group, chia sẻ với Tạp chí kiến trúc Dezeen : \"Chúng ta cần những giải pháp đa dạng phản ánh sự phức tạp của tự nhiên\"."
+    },
+    {
+     "t": "p",
+     "text": "\"Kiến trúc có thể chủ động thiết kế những hệ sinh thái công nghiệp mới này, giữ gìn giá trị của vật liệu, lao động lành nghề và các ngành công nghiệp hiện có, đồng thời tạo ra các giải pháp cải tạo có khả năng mở rộng\", ông tiếp tục."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách chuyển đổi len phế thải thành vật liệu ốp ngoại thất bền chắc, carbon sinh học được hấp thụ từ cỏ, cừu và len có thể được giữ lại trong môi trường xây dựng. Đồng thời vật liệu này cũng cải thiện hiệu suất và kéo dài tuổi thọ của các công trình hiện có\"."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Để làm ra những viên gạch này, len được xử lý bằng dung dịch kiềm làm phân hủy một phần protein keratin của nó, trước khi một quy trình cơ học tiếp tục tách vật liệu thành dạng lỏng."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, axit citric được thêm vào, khi được đun nóng cùng với keratin có nguồn gốc từ len sẽ liên kết các sợi len còn sót lại và chưa qua xử lý thành một vật liệu composite cứng chắc mà không cần đến nhựa hóa dầu."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm nghiên cứu, mỗi năm có khoảng 1,95 tỉ kg len thô được sản xuất, trong đó khoảng 60% được sử dụng để sản xuất quần áo bằng len. Len không sử dụng thường được tích trữ, đốt hoặc chôn lấp."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "\"Sự suy giảm của ngành sản xuất dệt may trong nước, sự cạnh tranh từ các sản phẩm tổng hợp và việc phân loại chọn lọc đã khiến một lượng lớn len không có thị trường tiêu thụ khả thi\", ông Grinham cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Len đã mất đi giá trị kinh tế, nhưng không mất đi các đặc tính vật liệu của nó\", ông tiếp tục."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đang phát triển các phương pháp hóa học mới để biến đổi loại polymer tự nhiên bị bỏ quên này thành một vật liệu composite sinh học hữu ích cho việc cách nhiệt và ốp lát trong xây dựng\"."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Đối với công trình lắp đặt tại Triển lãm Kiến trúc Oslo, Grinham Research Group đã sử dụng len phế thải trước khi tiêu dùng từ Công ty American Woolen ở Connecticut. Họ đã sử dụng hỗn hợp các sợi có màu tự nhiên và sợi nhuộm, tạo sự đa dạng về màu sắc của các viên gạch."
+    },
+    {
+     "t": "p",
+     "text": "Các loại gạch được trưng bày tại sự kiện có bề mặt thiết kế dạng rãnh, nhưng vật liệu này có thể được ép thành nhiều hình dạng và kiểu dáng khác nhau."
+    },
+    {
+     "t": "img",
+     "i": 9
+    }
+   ]
+  },
+  {
+   "id": "a6bb5842d435",
+   "order": 13,
+   "slug": "hoc-sinh-viet-nam-gianh-10-huy-chuong-olympic-thien-van-quoc",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Học sinh Việt Nam giành 10 huy chương Olympic thiên văn quốc tế",
+   "sapo": "Cả 10 học sinh Việt Nam dự thi Olympic thiên văn và vật lý thiên văn quốc tế năm 2026 đều đoạt huy chương.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/hoc-sinh-viet-nam-gianh-10-huy-chuong-olympic-thien-van-quoc-te-185261004205450024.htm",
+   "published": "2026-10-04T23:22:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 485,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/a6bb5842d435-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/a6bb5842d435-0.jpg",
+     "caption": "Ban tổ chức trao huy chương vàng cho các thí sinh",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chiều 4.10, UBND TP.Hà Nội tổ chức lễ bế mạc và trao giải tại kỳ thi Olympic thiên văn và vật lý thiên văn quốc tế (IOAA) năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "IOAA là kỳ thi Olympic quốc tế dành cho học sinh THPT trong lĩnh vực thiên văn và vật lý thiên văn, với yêu cầu cao về kiến thức và kỹ năng chuyên môn. Các nội dung thi cá nhân gồm: lý thuyết, phân tích dữ liệu, quan sát qua kính thiên văn và quan sát trong nhà chiếu hình."
+    },
+    {
+     "t": "p",
+     "text": "Các phần thi đòi hỏi thí sinh kết hợp kiến thức lý thuyết, năng lực xử lý dữ liệu, kỹ năng quan sát và vận dụng kiến thức thiên văn trong các tình huống thực tiễn."
+    },
+    {
+     "t": "p",
+     "text": "Với tư cách nước chủ nhà, Việt Nam có 2 đội dự thi, gồm đội Việt Nam 1 (đội chính thức) và đội Việt Nam 2 (đội khách), với tổng cộng 10 học sinh. Kết quả, tất cả 10 học sinh Việt Nam đều đoạt huy chương, trong đó có 6 huy chương vàng và 4 huy chương bạc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Phát biểu tại buổi lễ, bà Vũ Thu Hà, Phó chủ tịch UBND TP.Hà Nội, cho rằng: \"Việc có mặt tại IOAA là một dấu mốc đáng tự hào; những trải nghiệm trong từng bài thi, những điều học được từ bạn bè và những giới hạn bản thân đã vượt qua đều có giá trị đối với chặng đường phía trước. Mong các em giữ vững niềm tin, tiếp tục học hỏi và bền bỉ theo đuổi con đường khoa học\"."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi IOAA năm 2026 do UBND TP.Hà Nội chỉ đạo, phối hợp với Bộ GD-ĐT, Bộ Công an, Bộ Ngoại giao, Hội đồng IOAA quốc tế và các đơn vị liên quan tổ chức. Sở GD-ĐT Hà Nội là cơ quan chủ trì; ĐH Phenikaa là địa điểm chính tổ chức các hoạt động chuyên môn và điều hành kỳ thi."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi diễn ra từ ngày 26.9 - 4.10, quy tụ 66 quốc gia và vùng lãnh thổ, với 67 đội (65 đội quốc tế và 2 đội Việt Nam) và 320 thí sinh tranh tài. Đây là kỳ IOAA có quy mô lớn nhất từ trước đến nay."
+    },
+    {
+     "t": "p",
+     "text": "Chung cuộc, về kết quả các phần thi cá nhân, ban tổ chức kỳ thi Olympic thiên văn và vật lý thiên văn quốc tế năm 2026 trao 51 huy chương vàng , 48 huy chương bạc, 60 huy chương đồng và 22 giải khuyến khích."
+    },
+    {
+     "t": "p",
+     "text": "Ban tổ chức cũng trao các giải thưởng đặc biệt, gồm: 1 thí sinh có tổng điểm cao nhất; 1 thí sinh có thành tích tốt nhất phần thi lý thuyết; 1 thí sinh có thành tích tốt nhất phần thi thực hành; 1 nhóm 7 thí sinh chiến thắng cuộc thi đồng đội và 5 đội chiến thắng cuộc thi Poster."
+    }
+   ]
+  },
+  {
+   "id": "d7243918b061",
+   "order": 14,
+   "slug": "tan-sv-bach-khoa-mo-coi-cha-me-tu-nho-da-lam-thue-du-nghe-ch",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Tân SV Bách khoa mồ côi cha mẹ: Từ nhỏ đã làm thuê đủ nghề, chia bao lúa làm mấy phần để vác",
+   "sapo": "Cha qua đời khi còn nằm trong bụng mẹ, lên 4 tuổi mẹ cũng mất vì ung thư, Nguyễn Lữ Nhật Thống lớn lên cùng bà ngoại. 18 tuổi Thống đã có thâm niên làm thuê đủ thứ, để hôm nay vào được Trường đại học Bách khoa - Đại học Đà Nẵng.",
+   "author": "TRẦN MAI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tan-sv-bach-khoa-mo-coi-cha-me-tu-nho-da-lam-thue-du-nghe-chia-bao-lua-lam-may-phan-de-vac-100261003103612217.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1172,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/d7243918b061-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-0.jpg",
+     "caption": "Gánh ve chai của bà ngoại và sự nỗ lực mưu sinh của cháu đã giúp Nguyễn Lữ Nhật Thống bước vào giảng đường - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 840
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-1.jpg",
+     "caption": "Bà ngoại Thống nghẹn ngào khi nhắc đến đứa cháu khốn khổ và bất hạnh của mình - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 869
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-2.jpg",
+     "caption": "Bà Luân bảo chính sự nỗ lực và chăm ngoan của cháu đã giúp bà có sức khỏe để cố gắng đến giờ - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 875
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-3.jpg",
+     "caption": "Tuổi thơ của Thống là những ngày bám ruộng vườn để tìm cơm. Vậy nên, giờ cậu thành thạo tất cả việc đồng áng như một người nông dân thực thụ - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 876
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-4.jpg",
+     "caption": "Cũng như bà ngoại, Thống hiểu và chấp nhận cuộc đời mình, nên cậu nỗ lực không ngại bất kỳ việc gì để vươn lên. Về thăm bà, Thống vẫn tranh thủ đi nhặt cau kiếm tiền - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-5.jpg",
+     "caption": "Thống là một đứa trẻ ngoan trong mắt bà, một chàng trai nỗ lực trong mắt hàng xóm, thầy cô. Còn với Thống, phải lạc quan để vươn lên - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 947
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-6.jpg",
+     "caption": "Thống bước vào đại học, ngoại vui, ngoại lo, nhưng điều ngoại tin là Thống sẽ thành công - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 856
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-7.jpg",
+     "caption": "Công việc rửa chén, nấu ăn cho bà, Thống đã làm từ bé. Thống bảo việc gì làm được sẽ làm để bà đỡ vất vả - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 915
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-8.jpg",
+     "caption": "Sống trong hoàn cảnh quá đặc biệt, nên hai bà cháu cũng chọn cách lặng lẽ nỗ lực - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/d7243918b061-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chúng tôi gặp được Nguyễn Lữ Nhật Thống (thôn Xuân Hòa, xã Ba Gia, Quảng Ngãi) khi Thống về quê thăm bà ngoại vì mấy hôm nay gọi điện hoài mà ngoại không nghe máy."
+    },
+    {
+     "t": "h",
+     "text": "\"Sao ông trời lại lấy hết ba mẹ của con vậy ngoại?\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hai hôm trước, Thống gọi điện cả ngày nhưng bà không nghe máy. \"Tôi về thăm coi bà có ổn không. Bà hay lo tôi không đủ tiền, làm quá sức rồi đổ bệnh\", Thống nói."
+    },
+    {
+     "t": "p",
+     "text": "Hai bà cháu ngồi bên đống ve chai bà ngoại Cao Thị Luân (70 tuổi) mới mua được. Thống vừa trò chuyện vừa phụ bà phân loại."
+    },
+    {
+     "t": "p",
+     "text": "Kể về cháu, bà Luân nhiều lần khóc nghẹn. \"Có lần mưa lớn, tối thui tôi mới dắt xe ve chai về. Thằng Thống ra phụ, thấy tôi bị ướt, nó hỏi: 'Bà ngoại ơi, sao ông trời lại lấy hết ba mẹ của con vậy. Có lấy thì lấy một người thôi, lấy hết không ai nuôi con'. Tôi thương cháu đứt ruột mà chẳng biết nói sao\" - bà kể."
+    },
+    {
+     "t": "p",
+     "text": "Hơn 18 năm trước, khi Thống vừa 2,5 tháng trong bụng mẹ thì cha đột ngột qua đời vì tai nạn giao thông ở TP.HCM. Mẹ Thống mang nỗi đau mất chồng trở về quê. Thống sinh non, chỉ nặng 2,5kg. Khi con mới 1 tuổi, mẹ phát hiện bị ung thư."
+    },
+    {
+     "t": "p",
+     "text": "Không tiền chạy chữa, người mẹ ôm những cơn đau để nuôi con. Năm Thống 4 tuổi, mẹ nằm trên chiếc giường xếp, còn cậu bé chơi bên góc nhà. Mẹ bảo Thống đi ngủ. Thống ngủ quên dưới nền nhà. Đến khuya, cậu bé tỉnh dậy vì lạnh, cậu khóc nhưng mẹ không vỗ về như bình thường. Mẹ Thống không dậy nữa."
+    },
+    {
+     "t": "p",
+     "text": "\"Lúc đó tôi không biết mẹ qua đời. Chỉ nghĩ mẹ ngủ mà sao không dậy. Ngày đám tang mẹ, tôi được người lớn ôm đi theo mẹ ra chỗ chôn mà chẳng biết là mình sẽ mồ côi\" - Thống nhớ lại . Từ đó, bà ngoại trở thành người thân duy nhất của Thống."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Làm thuê đủ nghề, chia bao lúa làm mấy phần để vác"
+    },
+    {
+     "t": "p",
+     "text": "Bà Luân làm đủ nghề để nuôi cháu, từ mua ve chai đến làm ruộng, hái cau thuê. Thống lớn lên theo bà đi mua ve chai, rồi dần biết làm việc nhà, làm đồng, phun thuốc lúa. Cậu bé không đòi hỏi, chỉ tìm cách phụ bà."
+    },
+    {
+     "t": "p",
+     "text": "\"Nó sợ bà ngoại đau, mình lại mồ côi nên cái gì cũng giành làm thay. Mùa gặt, nó không đủ sức nên chia bao lúa ra mấy phần để hai bà cháu ôm ra đường lớn, rồi chở về\", bà Luân kể."
+    },
+    {
+     "t": "p",
+     "text": "Lớn hơn, Thống bắt đầu đi làm thuê. Việc gì kiếm được tiền cậu đều làm: lợp tôn, cắt sắt công trình, phun thuốc lúa, lắp bàn bi da..."
+    },
+    {
+     "t": "p",
+     "text": "Anh Lê Phúc Thảo bắt đầu dẫn Thống đi làm thêm từ năm lớp 11. Anh Thảo kinh doanh bàn bi da, thường xuyên nhận lắp bàn nên đưa Thống đi cùng. Sự cần cù, thật thà và chịu khó của Thống khiến anh tin tưởng."
+    },
+    {
+     "t": "p",
+     "text": "\"Nghèo, mồ côi thì nhiều nhưng kiếm được một người có nghị lực như Thống rất khó\", anh Thảo nói."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Mỗi lần nhà có việc, anh Thảo giao tiệm bi da cho Thống quản lý cả tuần. Tiền bạc không mất một xu, công việc đâu ra đó. \"Với tôi, cháu nó rất đáng để giúp đỡ. Hy vọng báo Tuổi Trẻ sẽ trao học bổng Tiếp sức đến trường và nhà hảo tâm giúp cháu\", anh Thảo nói."
+    },
+    {
+     "t": "p",
+     "text": "Như để khẳng định Thống là người xứng đáng, anh Thảo còn đề nghị phóng viên đi hỏi thêm nhiều người khác để kiểm chứng."
+    },
+    {
+     "t": "h",
+     "text": "Anh Lê Phúc Thảo"
+    },
+    {
+     "t": "p",
+     "text": "Nghèo vậy, nhưng nhặt được điện thoại hơn chục triệu đồng, Thống vẫn mang lên công an xã tìm người mất trả lại. Nó thật thà và chịu khó lắm, hiếm có đấy."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi thi tốt nghiệp THPT, trong lúc bạn bè nghỉ ngơi, Thống xin đi làm thời vụ tại một công ty gỗ ở Khu công nghiệp VSIP. Hơn một tháng, cậu kiếm được gần 10 triệu đồng. Cộng với tiền làm thuê tích góp trước đó, Thống mượn thêm người thân để đóng học phí."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "h",
+     "text": "\"Sau 4 năm nữa, tôi phải có việc làm để chăm sóc bà\""
+    },
+    {
+     "t": "p",
+     "text": "Thống vào đại học, bà Luân mừng đó rồi lo đó. 70 tuổi, sức khỏe đã yếu, bà vẫn đi hái cau thuê, chiều về lại đạp xe đi mua ve chai."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi làm tích lũy tiền, để khi nào cháu cần thì có đưa cho cháu. Tôi có bán cái nhà này cũng nhất định không để thằng Thống nghỉ học vì thiếu tiền\", bà Luân nói."
+    },
+    {
+     "t": "p",
+     "text": "Nghe vậy, Thống im lặng hồi lâu rồi bảo: \"Bà đừng lo, cháu sẽ ổn. Ở quê cháu còn làm kiếm được tiền, nói gì ra Đà Nẵng, đầy việc\". Cậu đã tính khi ổn định việc học sẽ đi phục vụ quán để kiếm thêm, sau đó tích lũy tiền mua xe máy chạy xe ôm."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Nỗi lo của bà ngoại lại không phải nỗi lo của cậu, điều Thống lo nhất là bà làm việc quá sức. Vậy nên, lúc trò chuyện với bà, Thống gọi điện \"bàn giao\" hai đám ruộng cho người thân làm, bởi không muốn bà tiếp tục làm việc nặng."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi còn ở nhà thì lo sạ, dọn ruộng, gặt lúa. Chứ bà không đủ sức làm. Sợ nhất là bà phải đi phun thuốc lúa, bình thuốc nặng vậy, bà mang không nổi. Lâu nay chuyện này tôi làm\", Thống nói."
+    },
+    {
+     "t": "p",
+     "text": "Về quê thăm bà, Thống vẫn tranh thủ đi hái cau thuê. Hái một rổ cau lớn được trả công 8.000 đồng. Bà Luân cho biết làm liên tục một ngày, nhiều nhất kiếm được khoảng 120.000 đồng. Vất vả, nhưng đây là thu nhập tốt ở quê, nhất là với người lớn tuổi như bà."
+    },
+    {
+     "t": "p",
+     "text": "Thống làm việc, nhìn những ngón tay bà chai cứng, thẫm màu, rồi lặng người. Cậu ước gì mình còn cha mẹ, có lẽ tuổi xế chiều của bà đã không vất vả như vậy."
+    },
+    {
+     "t": "p",
+     "text": "\"Sau 4 năm nữa, tôi phải có việc làm ổn định để chăm sóc bà. Tôi không muốn bà khổ thêm nữa\", Thống nói."
+    },
+    {
+     "t": "p",
+     "text": "Bà lo Thống thiếu tiền không thể học hết đại học. Thống lại lo bà làm việc quá sức, không chờ được đến ngày cậu thành công. Hai bà cháu mang hai nỗi lo ngược nhau, nhưng tất cả đều bắt nguồn từ một điều: thương người còn lại."
+    },
+    {
+     "t": "p",
+     "text": "Thống bước vào giảng đường với xuất phát điểm nhiều thiếu thốn, bất hạnh hơn người, nhưng Thống tin mình có thể vượt qua những năm tháng phía trước bằng chính đôi tay đã quen làm thuê và ý chí đã được tôi luyện từ những ngày thơ bé."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    }
+   ]
+  },
+  {
+   "id": "f673f037c0ab",
+   "order": 15,
+   "slug": "10-hoc-sinh-viet-nam-thi-olympic-thien-van-quoc-te-deu-gianh",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "10 học sinh Việt Nam thi Olympic thiên văn quốc tế đều giành huy chương",
+   "sapo": "10 học sinh Việt Nam dự Olympic thiên văn và vật lý thiên văn quốc tế 2026 đều giành huy chương, gồm 6 vàng và 4 bạc.",
+   "author": "NGUYÊN BẢO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/10-hoc-sinh-viet-nam-thi-olympic-thien-van-quoc-te-deu-gianh-huy-chuong-100261004181937041.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 540,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/f673f037c0ab-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/f673f037c0ab-0.jpg",
+     "caption": "Học sinh Việt Nam nhận giải thưởng tại Olympic Thiên văn và Vật lý thiên văn quốc tế năm 2026 - Ảnh: BTC",
+     "w": 1280,
+     "h": 863
+    },
+    {
+     "src": "img/2026-10-06/f673f037c0ab-1.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 1224
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chiều 4-10, tại Đại học Phenikaa diễn ra lễ bế mạc và trao giải kỳ thi Olympic Thiên văn và Vật lý thiên văn quốc tế lần thứ XIX năm 2026 (IOAA 2026)."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi diễn ra từ ngày 25-9 đến 5-10. Với tư cách nước chủ nhà, Việt Nam có 2 đội tham dự, gồm đội Việt Nam 1 (đội chính thức) và đội Việt Nam 2 (Guest Team), với tổng cộng 10 học sinh."
+    },
+    {
+     "t": "p",
+     "text": "Theo ban tổ chức kỳ thi, 10/10 học sinh Việt Nam đều đoạt huy chương, trong đó có 6 huy chương vàng và 4 huy chương bạc."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, đội Việt Nam 2 được tuyển chọn từ học sinh THPT trên phạm vi toàn quốc đáp ứng điều kiện tham dự, qua đó mở rộng cơ hội phát hiện, bồi dưỡng học sinh có năng lực nổi trội về thiên văn và vật lý thiên văn."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi IOAA năm 2026 có 309 thí sinh đến từ 64 quốc gia và vùng lãnh thổ tham dự. Đây là kỳ thi Olympic khoa học quốc tế có quy mô lớn, yêu cầu chuyên môn cao trong lĩnh vực thiên văn và vật lý thiên văn dành cho học sinh trung học phổ thông."
+    },
+    {
+     "t": "p",
+     "text": "Các nội dung thi cá nhân gồm: lý thuyết, phân tích dữ liệu, quan sát qua kính thiên văn và quan sát trong nhà chiếu hình."
+    },
+    {
+     "t": "p",
+     "text": "Các phần thi đòi hỏi thí sinh kết hợp kiến thức lý thuyết, năng lực xử lý dữ liệu, kỹ năng quan sát và vận dụng kiến thức thiên văn trong các tình huống thực tiễn."
+    },
+    {
+     "t": "p",
+     "text": "Bà Vũ Thu Hà - Phó chủ tịch UBND thành phố Hà Nội - cho biết mỗi thành tích hôm nay là kết quả của quá trình học tập bền bỉ, của năng lực và quyết tâm vượt qua thử thách."
+    },
+    {
+     "t": "p",
+     "text": "Việc có mặt tại IOAA là một dấu mốc đáng tự hào; những trải nghiệm trong từng bài thi, những điều học được từ bạn bè và những giới hạn bản thân đã vượt qua đều có giá trị đối với chặng đường phía trước."
+    },
+    {
+     "t": "p",
+     "text": "Bà Hà mong rằng các thí sinh giữ vững niềm tin, tiếp tục học hỏi và bền bỉ theo đuổi con đường khoa học mà mình yêu thích. Trong niềm vui ấy, phải trân trọng sự dìu dắt của các thầy cô giáo, các nhà khoa học và sự đồng hành của gia đình, nhà trường đã giúp các em nuôi dưỡng đam mê, phát triển tài năng."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả các phần thi cá nhân tại kỳ thi Olympic Thiên văn và Vật lý thiên văn quốc tế lần thứ 19 năm 2026 có 51 thí sinh đoạt huy chương vàng, 48 thí sinh đoạt huy chương bạc, 60 thí sinh đoạt huy chương đồng và 22 thí sinh được trao giải khuyến khích."
+    },
+    {
+     "t": "p",
+     "text": "Các giải thưởng đặc biệt được dành cho 1 thí sinh có tổng điểm cao nhất, 1 thí sinh có thành tích tốt nhất phần thi lý thuyết, 1 thí sinh có thành tích tốt nhất phần thi thực hành, 1 nhóm gồm 7 thí sinh chiến thắng cuộc thi đồng đội và 5 đội chiến thắng cuộc thi Poster."
+    }
+   ]
+  },
+  {
+   "id": "3e276041ef02",
+   "order": 16,
+   "slug": "chang-trai-gay-quy-bao-ton-te-te-gianh-hoc-bong-toan-phan-ne",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chàng trai gây quỹ bảo tồn tê tê, giành học bổng toàn phần New Zealand",
+   "sapo": "Cao Minh Chí biến đồ án tốt nghiệp về tê tê thành chiến dịch gây quỹ hơn 50 triệu đồng, rồi phát triển thành nghiên cứu và hồ sơ học bổng Manaaki.",
+   "author": "TRỌNG NHÂN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chang-trai-gay-quy-bao-ton-te-te-gianh-hoc-bong-toan-phan-new-zealand-100261003154546163.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1063,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/3e276041ef02-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/3e276041ef02-0.jpg",
+     "caption": "Minh Chí nhận học bổng Chính phủ Manaaki của Zealand - Ảnh: NVCC",
+     "w": 1280,
+     "h": 981
+    },
+    {
+     "src": "img/2026-10-06/3e276041ef02-1.jpg",
+     "caption": "Chí và các bạn trong dự án kêu gọi bảo vệ tê tê - Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/3e276041ef02-2.jpg",
+     "caption": "Nhóm của Minh Chí trình bày nghiên cứu tại Singapore - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-06/3e276041ef02-3.jpg",
+     "caption": "Minh Chí đang theo học tại Đại học Otago (New Zealand) - Ảnh: NVCC",
+     "w": 1280,
+     "h": 1595
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cao Minh Chí - sinh năm 2002 - tốt nghiệp loại giỏi ngành truyền thông đa phương tiện Trường đại học FPT tại TP.HCM với GPA 8,4/10. Chí hiện học thạc sĩ ngành phát triển quốc tế và quy hoạch tại Trường đại học Otago bằng học bổng Manaaki của Chính phủ New Zealand."
+    },
+    {
+     "t": "h",
+     "text": "Bài tập thành dự án thật"
+    },
+    {
+     "t": "p",
+     "text": "Vài năm trước, Chí biết đến Trung tâm Bảo tồn động vật hoang dã tại Việt Nam (Save Vietnam's Wildlife) trong lúc tìm nơi thực tập và làm tình nguyện. Công việc hỗ trợ truyền thông giúp bạn hiểu rõ hơn tình trạng săn bắt, buôn bán các loài nguy cấp, trong đó có tê tê."
+    },
+    {
+     "t": "p",
+     "text": "Cùng thời điểm ấy, môn quan hệ công chúng yêu cầu sinh viên chọn một vấn đề xã hội để xây dựng kế hoạch truyền thông. Chí cùng các thành viên chọn tê tê vì nhận thấy rất ít người hiểu về loài vật này. Bài tập sau đó được phát triển thành đồ án tốt nghiệp \"Đưa tê tê về nhà\"."
+    },
+    {
+     "t": "p",
+     "text": "Trong vai trò trưởng nhóm, Chí phụ trách nghiên cứu vấn đề, xác định thông điệp, xây dựng kế hoạch, quản lý nội dung mạng xã hội, liên hệ báo chí và kết nối đối tác. Nhóm còn sản xuất một video âm nhạc kể về cá thể tê tê bị bắt khỏi rừng và mong chờ ngày được giải cứu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Video vừa phát hành đã bị YouTube hạn chế do liên quan đến động vật hoang dã. Lượng tương tác trên TikTok cũng thấp hơn dự kiến. Nhóm phải rà lại cách thể hiện nội dung rồi chuyển trọng tâm sang hoạt động \"Nhận nuôi bé tê tê\", kêu gọi người tham gia đóng góp kinh phí và tìm hiểu quá trình cứu hộ."
+    },
+    {
+     "t": "p",
+     "text": "Chiến dịch ghi nhận hơn 500.000 lượt tiếp cận, hơn 5.000 lượt tương tác và huy động hơn 50 triệu đồng. Toàn bộ tiền gây quỹ được chuyển cho Trung tâm Bảo tồn động vật hoang dã tại Việt Nam để hỗ trợ thức ăn, vật tư y tế, dụng cụ chăm sóc và quá trình phục hồi tê tê trước lúc tái thả."
+    },
+    {
+     "t": "p",
+     "text": "Dự án cũng gợi cho Chí câu hỏi về những yếu tố khiến người trẻ sẵn sàng tham gia bảo tồn động vật hoang dã. Bạn thực hiện nghiên cứu với 377 người thuộc Gen Z tại TP.HCM và nhận thấy chuẩn mực xã hội cùng cảm nhận rằng bản thân có khả năng hành động tạo ảnh hưởng mạnh nhất đến ý định tham gia bảo tồn tê tê."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu được đăng năm 2025 trên tạp chí Kỹ thuật môi trường và quản lý cảnh quan. Trước đó, năm 2023, Chí cùng nhóm sinh viên đã trình bày một nghiên cứu về trí tuệ cảm xúc tại Hội nghị Giáo dục Đông Nam Á ở Singapore."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Hơn 20 lần sửa bài luận nộp học bổng Manaaki"
+    },
+    {
+     "t": "p",
+     "text": "Chí tốt nghiệp đại học tháng 12-2024, biết đến học bổng Manaaki vào tháng 1-2025 và nộp hồ sơ trong đợt tuyển sinh tháng 2. Bạn trúng tuyển ngay lần ứng tuyển đầu tiên."
+    },
+    {
+     "t": "p",
+     "text": "Các bài luận khiến Chí tốn nhiều công sức nhất. Bạn phải giải thích mối liên hệ giữa ngành truyền thông, hai nghiên cứu khoa học , dự án bảo tồn, chương trình thạc sĩ đã chọn và kế hoạch làm việc tại Việt Nam sau khi tốt nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình đã chỉnh sửa các bài luận rất nhiều lần, có thể trên dưới 20 lần\", Chí kể. Mỗi lần sửa, bạn xem lại cách kể câu chuyện, chọn trải nghiệm cần đưa vào và kiểm tra mức độ thống nhất giữa quá trình đã qua với mục tiêu sắp tới."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chí từng lo hồ sơ thiếu sức cạnh tranh vì kinh nghiệm làm việc còn ít. Thời điểm nộp đơn, bạn có khoảng hai năm làm những công việc liên quan đến truyền thông, phần lớn qua hoạt động tình nguyện và dự án cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bạn tập trung trình bày cụ thể mình đã làm gì, hiểu thêm vấn đề nào và hình thành năng lực ra sao. Dự án tê tê giúp Chí giải thích lý do muốn học sâu về phát triển quốc tế, chính sách môi trường và sự tham gia của cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Trong vòng phỏng vấn, hội đồng hỏi kỹ kế hoạch nghiên cứu tại New Zealand, lý do chương trình Phát triển quốc tế và Quy hoạch phù hợp với Chí, cùng khả năng áp dụng kiến thức tại Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Hiện Chí tiếp tục nghiên cứu vai trò của truyền thông đối với chính sách bảo tồn và hành vi của người trẻ. Bạn dự kiến khảo sát Gen Z, đồng thời phỏng vấn tổ chức bảo tồn, chuyên gia, cơ quan quản lý và người làm truyền thông môi trường."
+    },
+    {
+     "t": "p",
+     "text": "Sau chương trình thạc sĩ, Chí dự định trở về Việt Nam để tham gia các dự án về động vật hoang dã và môi trường. Mục tiêu lâu dài của bạn là trở thành giảng viên, học tiến sĩ và tiếp tục nghiên cứu các vấn đề phát triển tại Việt Nam."
+    },
+    {
+     "t": "h",
+     "text": "Năng động, chủ động và có tinh thần nghiên cứu"
+    },
+    {
+     "t": "p",
+     "text": "Từng có thời gian đồng hành cùng Chí, TS Lê Thị Mỹ Danh - giảng viên cao cấp về truyền thông đa phương tiện, Trường đại học Công nghệ thông tin (Đại học Quốc gia TP.HCM) - nhận xét Chí gây ấn tượng bởi sự năng động, thường chủ động đưa ra ý tưởng, kết nối các thành viên và dẫn dắt dự án nhóm."
+    },
+    {
+     "t": "p",
+     "text": "Cô nhận xét khả năng nghiên cứu của Chí thể hiện rõ ở môn phương pháp nghiên cứu trong truyền thông. Cô bắt đầu khuyến khích sinh viên đưa các bài nghiên cứu đi hội thảo, xuất bản, và Chí là một trong những bạn nghiêm túc theo đuổi hướng này. Sau cùng, các bạn có cơ hội trình bày tại một hội nghị khoa học quốc tế ở Singapore."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Mỹ Danh, Chí hiện đã xác định rõ mục tiêu dài hạn và nghiêm túc hơn với con đường đã chọn, song vẫn giữ sự chủ động và tinh thần cầu tiến. \"Đi được đến đâu vẫn là nỗ lực của chính Chí\", cô nói."
+    }
+   ]
+  },
+  {
+   "id": "6bc472674982",
+   "order": 17,
+   "slug": "lap-ban-do-nhung-khoang-trong-trong-hanh-trinh-tro-lai-mat-t",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Lập bản đồ những khoảng trống trong hành trình trở lại Mặt Trăng của NASA, cùng Richard Spolzino",
+   "sapo": "\"Tôi muốn khi nhìn một vụ phóng tên lửa, tôi có thể nói: 'Tôi đã góp một phần vào đây.'\"",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+   "published": "2026-10-04T19:10:59+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1831,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+   "images": [
+    {
+     "src": "img/2026-10-06/6bc472674982-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"Tôi muốn khi nhìn một vụ phóng tên lửa, tôi có thể nói: 'Tôi đã góp một phần vào đây.'\""
+    },
+    {
+     "t": "p",
+     "text": "Đó là cách Richard Spolzino miêu tả điều mà anh đang theo đuổi. Không phải một chức danh, không phải một nhiệm vụ cụ thể, cũng không phải chính NASA, mà là khả năng chỉ vào một thứ có thật và biết rằng công việc của mình đã góp phần làm nên nó. Tại Trung tâm Nghiên cứu Langley của NASA ở Hampton, Virginia, Spolzino làm việc trong nhóm phụ trách kiến trúc nhiệm vụ và khả năng tương thích hệ thống (systems interoperability) của chương trình Moon Base. Công việc của anh là giúp xác định những điều NASA vẫn chưa biết về Mặt Trăng và Sao Hỏa, và bảo đảm những thông tin còn thiếu đó được tìm ra trước khi chúng trở thành vấn đề."
+    },
+    {
+     "t": "p",
+     "text": "\"Với tôi, câu hỏi luôn quay trở lại là: tôi có thể tạo ảnh hưởng lớn nhất ở đâu? Công việc của tôi có thể chạm tới nhiều thứ nhất ở đâu?\""
+    },
+    {
+     "t": "h",
+     "text": "Từ lịch sử đến hàng không vũ trụ"
+    },
+    {
+     "t": "p",
+     "text": "Spolzino không hề định sẵn là sẽ đi đến con đường này."
+    },
+    {
+     "t": "p",
+     "text": "Anh bắt đầu đại học với chuyên ngành lịch sử. Sau đó anh chuyển sang học vật lý tại Đại học Santa Clara, nghĩ rằng mình sẽ theo đuổi ngành vật lý thiên văn. Một đợt làm nghiên cứu tại Đài quan sát Lick, nghiên cứu về sự phân cực của bụi giữa các vì sao (interstellar dust polarization), đã dạy cho anh hai điều: công việc đó rất thú vị, nhưng \"tôi nghĩ việc thức suốt đêm không hợp với mình\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tốt nghiệp, anh bắt đầu theo học Trường Sĩ quan Dự bị của Hải quân, với hy vọng được lái máy bay chiến đấu. Việc đó không thành, và bước ngoặt đó đưa anh đến một chương trình sau đại học tại Đại học Houston, kết hợp giữa kỹ thuật hàng không vũ trụ và kiến trúc không gian (space architecture) — không phải kiểu kiến trúc thiết kế nơi cư trú mà người ta thường nghĩ đến, mà là kiến trúc ở cấp độ hệ thống, nơi một nhà máy sản xuất oxy trên Mặt Trăng kết nối với các xe tự hành cung cấp nguyên liệu cho nó, các xe này lại kết nối với bộ xử lý, và bộ xử lý kết nối với người dùng cuối cùng sử dụng nguồn tài nguyên đó. \"Tôi luôn thấy hứng thú hơn với cách mọi thứ vận hành cùng nhau, hơn là với từng bộ phận riêng lẻ\", anh nói."
+    },
+    {
+     "t": "h",
+     "text": "Theo đuổi sự ảnh hưởng"
+    },
+    {
+     "t": "p",
+     "text": "Nếu hỏi Spolzino rằng anh có từng mơ ước được làm việc tại NASA không, câu trả lời thật lòng là không."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi rất ngưỡng mộ những người có được niềm đam mê đó suốt cả cuộc đời\", anh nói. \"Còn với tôi, câu hỏi luôn quay trở lại là: tôi có thể tạo ảnh hưởng lớn nhất ở đâu? Công việc của tôi có thể chạm tới nhiều thứ nhất ở đâu?\" Một chương trình của Đại học Houston có quan hệ chặt chẽ với Trung tâm Vũ trụ Johnson đã đưa NASA vào tầm nhìn của anh, cùng với những lựa chọn khác trong ngành công nghiệp và chính phủ. Điều cuối cùng thu hút anh không phải là tên tuổi của cơ quan này, mà là quy mô của những vấn đề cần giải quyết, và con đường trực tiếp mà anh nhìn thấy để đến được với những người ra quyết định cấp cao đang định hình hành trình trở lại Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Anh cũng nói thêm rằng chính vì vậy, NASA là nơi đáng để những người chưa chắc đây là con đường sự nghiệp mơ ước của mình xem xét. Văn hóa làm việc ở đây khuyến khích mọi người dám làm nhiều hơn phần việc được giao, và cho nhân viên mới vào nghề không gian để trưởng thành, giải quyết những vấn đề lớn hơn chức danh của họ — điều mà anh nói có thể anh sẽ không có được nếu thăng tiến từ từ trong ngành công nghiệp."
+    },
+    {
+     "t": "h",
+     "text": "Ghi lại phần còn thiếu"
+    },
+    {
+     "t": "p",
+     "text": "Công việc hằng ngày của Spolzino xoay quanh một ý tưởng tưởng chừng đơn giản: khoảng trống dữ liệu (data gap)."
+    },
+    {
+     "t": "p",
+     "text": "\"Bạn có thể coi nó giống như khoảng trống kiến thức,\" anh giải thích. \"Đó là cách để ghi lại những điều chúng ta chưa biết.\" Lấy ví dụ về đặc tính địa kỹ thuật của đất đá Mặt Trăng (lunar regolith) — về cơ bản là bụi Mặt Trăng, nhưng các chi tiết cụ thể lại rất quan trọng. Nó chịu được bao nhiêu trọng lượng? Độ bền cắt của nó là bao nhiêu? Trả lời những câu hỏi đó sẽ quyết định mọi thứ, từ việc xe tự hành có thể đi được bao xa một cách an toàn, đến việc nền của một khu trú ngụ có đứng vững hay không."
+    },
+    {
+     "t": "p",
+     "text": "Một khoảng trống dữ liệu trình bày rõ ràng những điều đó: chúng ta chưa biết gì, vì sao điều đó quan trọng, hiện chúng ta có gì nhưng vẫn chưa đủ, và quan trọng nhất là một mục tiêu cụ thể, có thể đo lường được, để các đối tác trong ngành công nghiệp và quốc tế có thể hướng tới. \"Khi đã xác định được thứ gì đang thiếu,\" anh nói, \"các đối tác của chúng tôi có thể nhìn vào danh sách đó và thấy chính xác đóng góp của họ sẽ có giá trị ở đâu.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhóm của anh bắt đầu với khoảng 25 khoảng trống dữ liệu được công bố vào năm ngoái. Họ đang trên đường đạt con số 60 vào cuối năm nay."
+    },
+    {
+     "t": "h",
+     "text": "Từ ý tưởng đến hàng hóa"
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng này chỉ có ý nghĩa khi nó thực sự làm thay đổi các quyết định, và Spolzino nêu ra hai ví dụ gần đây cho thấy điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Khi công ty tàu đổ bộ Mặt Trăng hiện có tên Voyager (trước đây là Astrobotic) đang chuẩn bị cho sứ mệnh Griffin-1 sắp tới, nhóm của Spolzino không giúp họ quyết định nên mang theo thiết bị nào, vì điều đó đã được chốt từ trước. Thay vào đó, nhóm của anh giúp họ sắp xếp thứ tự ưu tiên cho dữ liệu nào sẽ được gửi về Trái Đất trước, thông qua một đường truyền thông tin không thể chuyển tải mọi thứ cùng một lúc. \"Làm sao để sắp xếp ưu tiên cho tất cả những thứ bạn muốn, và thứ gì sẽ được gửi về qua đường truyền hạn chế đó?\" anh đặt câu hỏi."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía bên kia của đường truyền dữ liệu, trong vài tháng gần đây Spolzino đã đánh giá các thiết bị được đề xuất (máy quang phổ, công cụ lấy mẫu, các cuộc thử nghiệm công nghệ) dựa trên những khoảng trống dữ liệu đã công bố, để giúp ban lãnh đạo quyết định điều gì đáng để đưa lên tàu. Một số đề xuất khớp rõ ràng với một nhu cầu đã được ghi lại. Những đề xuất khác lại không phù hợp với bất cứ điều gì NASA từng nói là còn thiếu. \"Điều đó được dùng để lọc ra những gì sẽ được đẩy lên thành ứng viên thực sự,\" anh nói. Các đối tác trong ngành công nghiệp đã nhận thấy điều này, và giờ đây ban lãnh đạo yêu cầu các công ty khi giới thiệu thiết bị mới phải chỉ ra đề xuất của họ khớp với khoảng trống dữ liệu nào trước khi cuộc trò chuyện tiếp tục."
+    },
+    {
+     "t": "h",
+     "text": "Tìm ra câu trả lời cần rất nhiều công sức"
+    },
+    {
+     "t": "p",
+     "text": "Spolzino thừa nhận công việc này đã làm thay đổi một suy nghĩ mà anh mang theo từ thời học cao học — rằng NASA đã nắm rõ mọi thứ, và danh tiếng của cơ quan này nghĩa là mọi câu hỏi đều đã có sẵn câu trả lời ở đâu đó bên trong các tòa nhà của họ."
+    },
+    {
+     "t": "p",
+     "text": "Sau ba năm làm việc, anh nhìn nhận vấn đề khác hẳn. \"Để giữ được danh tiếng như NASA đang có, cần phải nỗ lực liên tục và có chủ đích,\" anh nói. \"Mọi người đều thực sự cố gắng đi đúng hướng, nhưng điều đó không tự nhiên mà có.\" Nhận ra điều này giúp anh hiểu rõ hơn mọi thứ. Cơ quan này hoạt động dựa vào việc con người tìm ra giải pháp ngay trong lúc làm việc, nghĩa là vẫn có chỗ cho những người mới vào nghề đóng góp một cách thực sự ý nghĩa, thay vì chỉ làm theo kế hoạch của người khác."
+    },
+    {
+     "t": "p",
+     "text": "Lời khuyên của anh dành cho các học sinh, sinh viên đang nghĩ đến NASA rất thực tế, không hề sáo rỗng: Điểm số không quan trọng như nhiều người nghĩ. \"Những dự án bạn từng làm, và kết quả của những dự án đó, mới là thứ người ta nhìn vào đầu tiên,\" anh nói. Lời khuyên của anh là hãy tham gia các câu lạc bộ, nhận làm những dự án thực tế, và tự tay làm ra một thứ gì đó. \"Vấn đề không nằm ở bằng cấp, mà là việc bạn có gì đó để mang ra chứng minh bản thân.\""
+    },
+    {
+     "t": "h",
+     "text": "Kệ sách khoa học viễn tưởng của Spolzino"
+    },
+    {
+     "t": "p",
+     "text": "Bộ ba tiểu thuyết Tam thể của Lưu Từ Hân (Liu Cixin)"
+    },
+    {
+     "t": "p",
+     "text": "Spolzino đang đọc ngấu nghiến cuốn thứ hai, Rừng thẳm (The Dark Forest), trên chuyến bay từ New York đến Houston, khi máy bay bất ngờ phải chuyển hướng đến San Antonio. \"Tôi chẳng hề bận tâm việc mình bị trễ ba, bốn giờ,\" anh nói. \"Tôi có cuốn sách đó trong tay, và tôi chỉ việc đọc say sưa.\""
+    },
+    {
+     "t": "p",
+     "text": "Kerbal Space Program"
+    },
+    {
+     "t": "p",
+     "text": "Đây là một trò chơi đã cũ, nhưng lại có ảnh hưởng rất lớn. Spolzino cho rằng chính trò chơi này đã giúp anh củng cố niềm say mê với không gian ngay từ trước khi bước vào đại học. \"Đó là một trò chơi mô phỏng chương trình không gian, nơi bạn tự lắp ráp tên lửa từng bộ phận một, và các quy luật vật lý trong game được đơn giản hóa nhưng vẫn đủ chính xác để bạn phải tính toán nhiều phép toán giống như khi dùng công cụ thiết kế nhiệm vụ không gian thật,\" anh nói. \"Điều đó đã có tác động rất lớn, giúp tôi nhận ra rằng không gian chính là thứ tôi muốn theo đuổi.\""
+    },
+    {
+     "t": "p",
+     "text": "Thuộc Ban Phân tích hệ thống và ý tưởng (Systems Analysis and Concepts Directorate) tại Trung tâm Nghiên cứu Langley của NASA. Tìm hiểu thêm về công việc của chúng tôi bằng cách truy cập trang web của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "5727ded7e14e",
+   "order": 18,
+   "slug": "cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-dam-nghi-dam-lam-l",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Dám nghĩ, dám làm, lão nông miền Tây đưa nho Ninh Thuận về quê nhà",
+   "sapo": "Không đi theo lối mòn, một nông dân ở TP Cần Thơ đã mạnh dạn chi hơn 1 tỷ đồng ứng dụng công nghệ nhà màng để thuần dưỡng thành công các giống nho ngọt, mở ra hướng đi du lịch trải nghiệm mới lạ.",
+   "author": "THÁI LŨY",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-dam-nghi-dam-lam-lao-nong-mien-tay-dua-nho-ninh-thuan-ve-que-nha-100261004151237792.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 338,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/5727ded7e14e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dám nghĩ, dám làm, lão nông miền Tây đưa nho Ninh Thuận về quê nhà - Tác giả: THÁI LŨY"
+    },
+    {
+     "t": "p",
+     "text": "Từ một người tay ngang, người đàn ông ở phường Phú Lợi, TP Cần Thơ (trước đây thuộc tỉnh Sóc Trăng cũ) đã mạnh dạn đầu tư ban đầu hơn 1 tỉ đồng làm vườn nho , táo Thái da xanh công nghệ cao kết hợp du lịch trải nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ quyết tâm và học hỏi kinh nghiệm từ nhiều mô hình, sau 2 năm vườn nho xanh mướt trồng theo mô hình nông nghiệp công nghệ cao của ông Lưu Minh Thiện (49 tuổi) hiện lên ngay sau những khu dân cư đông đúc ở phường Phú Lợi, khiến nhiều khách đến đây mê mẩn."
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng làm vườn nho, táo kết hợp cho khách trải nghiệm tham quan được ông Thiện ấp ủ từ năm 2024 khi tham quan một vườn nho của người bạn. Nghĩ là làm, ông quyết định đầu tư hơn 1 tỉ đồng xây dựng khu nhà màng rộng hơn 2.000m², trồng 300 gốc nho kẹo và nho đỏ Ninh Thuận theo hướng công nghệ cao."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi vườn nho cho trái, nhận thấy mô hình nhận được nhiều sự quan tâm của khách tham quan, ông tiếp tục mở rộng diện tích lên khoảng 4.000m², trồng 600 gốc nho, thêm không gian cà phê sân vườn phục vụ khách tham quan."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài cây nho, ông Thiện còn trồng thêm 110 gốc táo Thái da xanh (táo bom) trong khu nhà màng nhằm đa dạng hóa sản phẩm và tăng trải nghiệm cho khách tham quan."
+    },
+    {
+     "t": "p",
+     "text": "Để trồng nho thành công trong điều kiện khí hậu miền Tây, yếu tố quan trọng nhất theo kinh nghiệm của ông Thiện là kiểm soát độ ẩm và hạn chế tác động của thời tiết. Vì vậy, toàn bộ khu vườn được đầu tư hệ thống nhà màng hiện đại với khung sắt kiên cố, mái phủ ni lông chuyên dụng, lưới chắn côn trùng."
+    }
+   ]
+  },
+  {
+   "id": "462af6685aa6",
+   "order": 19,
+   "slug": "xep-hang-tu-4h-sang-cho-san-may-o-ba-vi",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Xếp hàng từ 4h sáng chờ 'săn mây' ở Ba Vì",
+   "sapo": "Biển mây xuất hiện liên tục những ngày gần đây tại Ba Vì. Nhiều du khách tìm đến Vườn quốc gia Ba Vì từ sáng sớm, chờ mua vé để tìm vị trí ngắm mây.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/xep-hang-tu-4h-sang-cho-san-may-o-ba-vi-post1687443.html",
+   "published": "2026-10-04T12:41:33+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 962,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/462af6685aa6-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/462af6685aa6-0.jpg",
+     "caption": "săn mây ảnh 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-06/462af6685aa6-1.jpg",
+     "caption": "săn mây ảnh 6",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Biển mây xuất hiện liên tục những ngày gần đây tại Ba Vì. Nhiều du khách tìm đến Vườn quốc gia Ba Vì từ sáng sớm, chờ mua vé để tìm vị trí ngắm mây."
+    },
+    {
+     "t": "p",
+     "text": "Mỹ Lan (24 tuổi, Hà Nội) đến Vườn quốc gia Ba Vì sáng 3/10 sau khi thấy hình ảnh biển mây ngoạn mục tại đây được đăng tải trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "“Năm ngoái tôi cũng lên Ba Vì 'săn mây' và ngắm hoa dã quỳ nhưng chỉ gặp hoa. Năm nay thấy biển mây xuất hiện liên tục, tôi nghĩ cơ hội cao hơn nên tranh thủ cuối tuần đến đây một chuyến”, Lan kể."
+    },
+    {
+     "t": "p",
+     "text": "Nữ du khách may mắn ngắm biển mây bồng bềnh vào sáng 3/10. Tuy nhiên, để lên được điểm ngắm mây, cô phải chờ khá lâu tại khu vực bán vé do lượng người đến từ sáng sớm rất đông."
+    },
+    {
+     "t": "p",
+     "text": "“Nhiều người cũng đến đây từ khoảng 5h giống tôi nên khu vực cổng khá đông, phải xếp hàng chờ mua vé”, Lan nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khung cảnh du khách chờ mua vé vào cổng VQG Ba Vì lúc khoảng 5h ngày 3/10 được Quỳnh ghi lại."
+    },
+    {
+     "t": "p",
+     "text": "Cũng có mặt tại cổng Vườn quốc gia Ba Vì sáng 3/10, Nguyễn Như Quỳnh (38 tuổi) chứng kiến và ghi lại cảnh đông nghịt người chờ mua vé."
+    },
+    {
+     "t": "p",
+     "text": "“Lúc ấy khoảng gần 6h sáng. Tôi khá bất ngờ khi thấy rất nhiều bạn trẻ đã có mặt từ sớm để chờ vào vườn, tranh thủ ngắm mây và bình minh”, cô kể."
+    },
+    {
+     "t": "p",
+     "text": "Theo Quỳnh, một số du khách đã đến từ khoảng 4h, trong khi quầy vé bắt đầu mở cửa lúc 5h. Việc có mặt sớm giúp họ lên các điểm cao đúng thời điểm bình minh, khi biển mây thường đẹp nhất."
+    },
+    {
+     "t": "p",
+     "text": "Quỳnh nhận định lượng khách cuối tuần này đông hơn cùng kỳ năm ngoái. Những ngày gần đây, hình ảnh biển mây Ba Vì xuất hiện dày đặc trên báo chí và mạng xã hội khiến nhiều người, đặc biệt là giới trẻ, tranh thủ tìm đến."
+    },
+    {
+     "t": "p",
+     "text": "Là người Mường, sinh sống cách cổng Vườn quốc gia Ba Vì hơn 2 km, Quỳnh cùng gia đình kinh doanh một homestay nhỏ phục vụ du khách. Theo cô, tháng 10 chưa phải cao điểm du lịch tại khu vực này. Khách lưu trú chủ yếu tập trung vào cuối tuần, lượng đặt phòng thường tăng rõ hơn khi bước vào mùa hoa dã quỳ đầu tháng 11."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng một tuần trở lại đây, Ba Vì gần như ngày nào cũng xuất hiện biển mây, điều Quỳnh cho là khá hiếm trong năm nay. Trong đó, biển mây ngày 1/10 được đánh giá là ngoạn mục nhất trong đợt này."
+    },
+    {
+     "t": "p",
+     "text": "“Lần nào nhìn cũng thấy choáng ngợp, có lúc đẹp đến ngơ ngẩn. Tôi sống ở đây lâu rồi nhưng vẫn bất ngờ vì quê mình có những khoảnh khắc hùng vĩ như vậy”, cô chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi với Tri Thức - Znews , ông Đỗ Hữu Thế, Giám đốc Vườn quốc gia Ba Vì, cho biết lượng khách những ngày gần đây tăng đáng kể khi biển mây xuất hiện liên tục."
+    },
+    {
+     "t": "p",
+     "text": "Riêng các ngày cuối tuần, Vườn quốc gia Ba Vì đón khoảng 3.000-4.000 lượt khách mỗi ngày. Nhiều du khách đến từ Hà Nội, Hải Phòng và các địa phương khác. Không ít người di chuyển từ đêm, có mặt từ 3-4h để xếp hàng mua vé, chờ ngắm mây lúc bình minh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Giám đốc VQG Ba Vì xác nhận biển mây tại Ba Vì đã xuất hiện liên tục trong khoảng một tuần qua."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Thế, biển mây đã xuất hiện khá liên tục trong khoảng một tuần trở lại đây. Hiện tượng này thường hình thành vào giai đoạn giao mùa cuối thu, đầu đông, khi các đợt gió mùa Đông Bắc đưa khối không khí ẩm về khu vực Ba Vì. Gặp địa hình núi cao, hơi ẩm ngưng tụ và tạo thành những lớp mây dày."
+    },
+    {
+     "t": "p",
+     "text": "Về kinh nghiệm \"săn mây\", Giám đốc Vườn quốc gia Ba Vì khuyến cáo du khách nên theo dõi kỹ dự báo thời tiết, đặc biệt trong giai đoạn giao mùa. Khi có gió mùa Đông Bắc tràn về, khả năng xuất hiện biển mây tại Ba Vì thường cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm đẹp nhất là sáng sớm, khi bình minh lên trên lớp mây. Tuy nhiên, theo ông Thế, khoảnh khắc đẹp đôi khi chỉ kéo dài vài phút."
+    },
+    {
+     "t": "p",
+     "text": "Trước lượng khách tăng cao, ban quản lý đã huy động gần như toàn bộ lực lượng trong những ngày đông khách để phân luồng, bảo đảm an toàn giao thông và an ninh trật tự."
+    },
+    {
+     "t": "p",
+     "text": "Sau mùa mây, Ba Vì cũng chuẩn bị bước vào mùa hoa dã quỳ. Theo ông Thế, hoa hiện đã bắt đầu ra nụ và dự kiến nở rộ vào đầu tháng 11."
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    }
+   ]
+  },
+  {
+   "id": "4c2e1a566bd3",
+   "order": 20,
+   "slug": "bat-ngo-voi-hinh-dang-chiec-nhan-khong-lo-noi-tren-mat-ho-29",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Bất ngờ với hình dáng chiếc nhẫn khổng lồ nổi trên mặt hồ 29 Tháng 3 gần sân bay Đà Nẵng",
+   "sapo": "Sau thời gian thi công, Dự án nâng cấp, cải tạo Công viên 29 Tháng 3 Đà Nẵng đã đi về giai đoạn hoàn thiện. Từ trên cao nhìn xuống, hình ảnh công viên nổi lên ấn tượng với biểu tượng chiếc nhẫn khổng lồ án ngữ ngay gần sân bay Đà Nẵng.",
+   "author": "THÁI BÁ DŨNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/bat-ngo-voi-hinh-dang-chiec-nhan-khong-lo-noi-tren-mat-ho-29-thang-3-gan-san-bay-da-nang-100261005123340008.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 474,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-0.jpg",
+     "caption": "Hình ảnh chiếc nhẫn khổng lồ nổi trên mặt hồ 29 Tháng 3 Đà Nẵng - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-1.jpg",
+     "caption": "Các đường cong ôm cua mềm mại tạo cảnh đẹp mắt ở công viên 29 Tháng 3 Đà Nẵng - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-2.jpg",
+     "caption": "Công viên 29 Tháng 3 Đà Nẵng với chiếc nhẫn khổng lồ nổi lên không gian nhìn từ hướng hồ bơi vô cực khách sạn TUI SUNEO Đà Nẵng",
+     "w": 1280,
+     "h": 740
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-3.jpg",
+     "caption": "Công viên 29 Tháng 3 nằm ngay các trục giao thông chính của Đà Nẵng - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-4.jpg",
+     "caption": "Đường tản bộ cho du khách đi giữa lòng hồ - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-5.jpg",
+     "caption": "Các lối đi bộ, tham quan tiếp cận mặt hồ - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-6.jpg",
+     "caption": "Công nhân thi công hoàn thiện dự án - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-7.jpg",
+     "caption": "Lối đi bộ cho du khách, người dân bên trong biểu tượng chiếc nhẫn - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-10-06/4c2e1a566bd3-8.jpg",
+     "caption": "Khối bê tông viền biểu tượng chiếc nhẫn xuyên qua mặt hồ 29 Tháng 3 Đà Nẵng - Ảnh: BÁ DŨNG",
+     "w": 1280,
+     "h": 850
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ghi nhận của phóng viên Tuổi Trẻ trưa 5-10 tại công trường cho thấy công nhân dọn vệ sinh công nghiệp cùng công nhân kỹ thuật đang làm những công việc cuối cùng trong giai đoạn hoàn thiện."
+    },
+    {
+     "t": "p",
+     "text": "Từ vị trí khách sạn TUI SUNEO Đà Nẵng trên đường Lê Duẩn, công viên 29 Tháng 3 với mảng cây xanh trải rộng cùng hồ trung tâm nổi lên giữa trung tâm đô thị."
+    },
+    {
+     "t": "p",
+     "text": "Du khách đứng trên khách sạn này sẽ quan sát được toàn bộ công trình gắn liền với không gian."
+    },
+    {
+     "t": "p",
+     "text": "Ở giữa lòng hồ, khối công trình mang hình chiếc nhẫn nổi bật lên giữa mảng xanh, cách đó khoảng 500m là sân bay quốc tế Đà Nẵng."
+    },
+    {
+     "t": "p",
+     "text": "Tại TP Đà Nẵng, dự án cải tạo công viên 29 Tháng 3 rất được người dân quan tâm bởi đây là mảng xanh nằm giữa các trục giao thông huyết mạch thành phố. Công viên 29 Tháng 3 cũng đi vào tiềm thức, ký ức của người dân suốt hàng chục năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Trước yêu cầu phát triển, tạo điểm nhấn, TP Đà Nẵng đã quyết định đầu tư dự án này, đặt mục tiêu hoàn tất trong năm 2026."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo phương án thiết kế được chọn từ một công ty nước ngoài, khối công trình điểm nhấn trên hồ công viên 29 Tháng 3 mang dáng dấp của \"Chiếc nhẫn vì hòa bình\", gợi nhớ ngày Đà Nẵng được giải phóng vào 29-3-1975."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với điểm nhấn kiến trúc, Công viên 29 Tháng 3 Đà Nẵng cũng được cải tạo theo hướng xanh hơn, hồ nước sạch hơn và tăng các không gian sinh hoạt cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Hạng mục vành đai đi dạo quanh hồ được mở rộng, bổ sung bậc thang để người dân tiếp cận gần mặt nước."
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống cống thu gom nước thải và công nghệ xử lý nước được tích hợp nhằm kiểm soát chất lượng nguồn nước."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Cây xanh hiện hữu được giữ lại, củng cố và bổ sung. Các công trình dịch vụ được tổ chức như những \"chiếc đèn lồng\" hình chữ nhật, tích hợp sân chơi trẻ em, sân chơi nước, nhà hàng, khu giải khát và các điểm dừng chân."
+    },
+    {
+     "t": "p",
+     "text": "Ban ngày, 100 vòi phun nước tại \"Chiếc nhẫn vì hòa bình\" tạo hiệu ứng chuyển động với tia nước cao khoảng 10m. Ban đêm, khu vực này chuyển sang trình chiếu sương mù và hình ảnh 3D."
+    },
+    {
+     "t": "p",
+     "text": "Công viên còn có rạp chiếu phim ngoài trời với màn hình nổi trên mặt hồ, sân khấu, khu cắm trại, chèo thuyền và thể dục ngoài trời."
+    },
+    {
+     "t": "p",
+     "text": "Dự án có tổng mức đầu tư 300 tỉ đồng, gồm 272 tỉ đồng xây lắp và 28 tỉ đồng thiết bị. Công trình khởi công năm 2025, dự kiến hoàn thành cuối năm nay."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    }
+   ]
+  }
+ ]
+}

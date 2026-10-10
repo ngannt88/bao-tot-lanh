@@ -1,0 +1,2826 @@
+{
+ "date": "2026-10-08",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-08T09:31:09+07:00",
+ "sections": [
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  }
+ ],
+ "articles": [
+  {
+   "id": "4ebd156864fd",
+   "order": 1,
+   "slug": "nobel-vat-ly-2026-nguoi-bien-1km-bang-nam-cuc-thanh-kinh-thi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Nobel Vật lý 2026: Người biến 1km³ băng Nam Cực thành kính thiên văn săn ‘hạt ma’",
+   "sapo": "Gần 40 năm kiên trì với ý tưởng chôn cảm biến ánh sáng sâu trong băng Nam Cực để săn tìm neutrino - những",
+   "author": "TS. NGUYỄN TRUNG DÂN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nobel-vat-ly-2026-nguoi-bien-1km-bang-nam-cuc-thanh-kinh-thien-van-san-hat-ma-100261007102147297.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 1455,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/4ebd156864fd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/4ebd156864fd-0.jpg",
+     "caption": "Đài quan sát neutrino IceCube - Ảnh: Lamarr-institute.org",
+     "w": 1000,
+     "h": 667
+    },
+    {
+     "src": "img/2026-10-08/4ebd156864fd-1.jpg",
+     "caption": "Nhà vật lý Francis Halzen giơ tay ra dấu chiến thắng tại khách sạn ở Turin (Ý) ngày 6-10, sau khi được trao giải Nobel Vật lý 2026 nhờ những đóng góp cho Đài quan sát neutrino IceCube và việc phát hiện các neutrino năng lượng cao có nguồn gốc vật lý thiên văn - Ảnh: AP",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải Nobel Vật lý 2026 được trao cho ông Francis Louis Halzen \"vì những đóng góp mang tính quyết định đối với Đài quan sát neutrino IceCube và việc phát hiện ra các neutrino năng lượng cao có nguồn gốc vật lý thiên văn\"."
+    },
+    {
+     "t": "p",
+     "text": "Sinh ngày 23-3-1944 tại Tienen (Bỉ), nhà vật lý hạt cơ bản người Mỹ gốc Bỉ này hiện là giáo sư tại Đại học Wisconsin-Madison, đồng thời là trưởng nhóm nghiên cứu của IceCube - thiết bị dò neutrino lớn nhất thế giới, đặt tại trạm Amundsen-Scott ở Nam Cực, hoạt động từ năm 2010."
+    },
+    {
+     "t": "h",
+     "text": "Từ AMANDA đến IceCube"
+    },
+    {
+     "t": "p",
+     "text": "Sự nghiệp khoa học của ông Halzen bắt đầu tại KU Leuven (Bỉ), nơi ông nhận bằng thạc sĩ toán học và vật lý, rồi bằng tiến sĩ với luận án về sự phá vỡ đối xứng của các hạt hadron."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1971, khi đang làm việc tại Tổ chức Nghiên cứu hạt nhân châu Âu (CERN) ở Geneva, ông được một đồng nghiệp mời đến Đại học Wisconsin-Madison thực hiện chuyến nghiên cứu kéo dài sáu tháng, và gắn bó với nơi này kể từ đó."
+    },
+    {
+     "t": "p",
+     "text": "Từ những năm 1970, ông là nhà khoa học hàng đầu trong lĩnh vực vật lý tia vũ trụ và vật lý hạt cơ bản, công bố nhiều bài báo tiên phong về các hiện tượng bất thường của tia vũ trụ cũng như mối liên hệ giữa vật lý hạt và tia vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Đến giữa thập niên 1980, ông bắt đầu quan tâm đến neutrino khi tìm hiểu khả năng xây dựng một kính thiên văn dành cho loại hạt này."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1987, ông triển khai dự án AMANDA (Antarctic Muon and Neutrino Detector Array - Mảng thiết bị dò hạt muon và neutrino tại Nam Cực) do Quỹ Khoa học quốc gia Mỹ (NSF) tài trợ."
+    },
+    {
+     "t": "p",
+     "text": "Dự án đề xuất chôn một hệ thống cảm biến ánh sáng sâu trong lớp băng Nam Cực - nơi có đặc tính trong suốt, tối, ổn định và không bị nhiễu bởi ánh sáng nền."
+    },
+    {
+     "t": "p",
+     "text": "Thí nghiệm tuy thành công nhưng kết quả bị ảnh hưởng bởi nhiễu từ tia vũ trụ và các bong bóng khí trong băng, thuyết phục ông rằng cần một hệ thống lớn hơn, đặt sâu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2005, nhóm của ông bắt tay vào dự án IceCube với kinh phí tài trợ từ châu Âu và cả Mỹ. Đài quan sát gần Cực Nam này được thiết kế với quy mô gấp 100 lần AMANDA, có tổng thể tích 1km³, nằm bên dưới lớp băng dày 1,5km. Sau sáu năm thi công, IceCube chính thức đi vào hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Công nghệ của IceCube cũng giống các máy dò hạt và đài quan sát neutrino hiện đại khác: khi tương tác với lớp băng cực kỳ tinh khiết, neutrino tạo ra một hạt mang điện. Hạt này di chuyển trong băng với tốc độ cực nhanh nên phát ra bức xạ điện từ Cherenkov, được ghi nhận bởi hệ thống nhiều cảm biến có độ nhạy cao."
+    },
+    {
+     "t": "p",
+     "text": "IceCube giúp các nhà vật lý thiên văn tìm hiểu rõ hơn về các thiên thể thông qua việc quan sát neutrino - những hạt cơ bản bí ẩn còn được gọi là \"hạt ma\" (ghost particle), có khối lượng gần như bằng không và tồn tại với số lượng khổng lồ do chính các thiên thể tạo ra."
+    },
+    {
+     "t": "p",
+     "text": "Không giống photon, chúng có thể xuyên qua các vật thể, \"vì vậy có lẽ bạn có thể quan sát được những điều trong vũ trụ mà không thể thấy được bằng bất kỳ cách nào khác\" - ông chia sẻ với Hội Vật lý Mỹ (APS) - \"và tất nhiên, đó chính là điểm thu hút lớn nhất. Thực tế là, trong suốt hành trình gần 40 năm gắn bó với dự án AMANDA/IceCube, chưa từng có ai nói với chúng tôi rằng công việc này thiếu hấp dẫn. Vấn đề thực sự nằm ở công nghệ mà thôi\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Tìm \"máy gia tốc vũ trụ\""
+    },
+    {
+     "t": "p",
+     "text": "Kết quả quan trọng nhất mà IceCube mang lại là việc quan sát thành công các hạt neutrino năng lượng cao vào năm 2013 - một bước đột phá thực sự. Mức năng lượng của chúng gấp khoảng 100 lần so với các hạt được gia tốc trong Máy gia tốc hạt lớn (LHC) của CERN, cỗ máy mạnh nhất thế giới hiện nay. Những hạt này bắt nguồn từ các nguồn chưa xác định nằm bên ngoài Dải Ngân hà."
+    },
+    {
+     "t": "p",
+     "text": "Ông Halzen thường nói về IceCube: \"Sau một thập kỷ rưỡi phát triển và thêm một thập kỷ nữa để xây dựng, chẳng có gì bảo đảm rằng chúng tôi sẽ thực sự thấy được kết quả. Nhiều người từng nghĩ chúng tôi sẽ không làm được, nhưng chúng tôi đã thành công."
+    },
+    {
+     "t": "p",
+     "text": "Sau hai năm thu thập dữ liệu, chúng tôi đã phát hiện các hạt neutrino đến từ những nơi cực xa - không phải từ khí quyển, cũng không phải từ chính thiên hà của chúng ta, mà là những hạt mang năng lượng khổng lồ vượt qua cả vũ trụ để đến được nơi đây\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông, phát hiện các neutrino vũ trụ này là \"tương đối dễ dàng\", câu hỏi tiếp theo mới là xác định nguồn gốc của chúng. Gần đây IceCube đã quan sát được nơi chúng sinh ra. Kết quả nghiên cứu chỉ ra các vị trí tiềm năng của cái gọi là \"máy gia tốc vũ trụ\" - cũng chính là nguồn gốc của tia vũ trụ, loại hạt năng lượng cao được phát hiện từ hơn một thế kỷ trước."
+    },
+    {
+     "t": "p",
+     "text": "Ông Halzen giải thích tia vũ trụ dù sinh ra ở đâu cũng đều tạo ra neutrino, nhưng trước đây giới khoa học hoàn toàn không biết chúng đến từ đâu hay được tạo ra như thế nào. \"Giờ đây, nhờ quan sát được neutrino, chúng ta bắt đầu nhận diện được những máy gia tốc vũ trụ đầu tiên, và điều đó thực sự rất phấn khích\" - ông nói."
+    },
+    {
+     "t": "p",
+     "text": "Các nghiên cứu do ông Halzen tiên phong giúp giới khoa học giải mã những bí ẩn vũ trụ. Không bị từ trường làm lệch hướng hay bị các vật thể chặn lại, neutrino cung cấp những thông tin mà kính thiên văn truyền thống dựa trên ánh sáng hoặc sóng không thể có. Có thể đến trực tiếp từ không gian sâu thẳm, chúng cho phép truy vết những sự kiện xa xôi trong vũ trụ như các vụ nổ siêu tân tinh, các vụ bùng phát tia gamma..."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu các hạt này còn giúp kiểm chứng giới hạn của Mô hình chuẩn (Standard Model) trong vật lý hạt cơ bản và tìm kiếm những hiện tượng vật lý chưa được biết đến. \"Chúng tôi đang làm việc với các hạt neutrino mang năng lượng cực lớn, nhưng mọi kết quả vật lý thu được dường như vẫn nhất quán với lý thuyết neutrino trong Mô hình chuẩn vốn đã quá quen thuộc; và chúng tôi muốn phá vỡ mô hình đó\" - ông nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "Khám phá năm 2013 đã thúc đẩy công tác quy hoạch và phát triển các kính thiên văn neutrino quy mô lớn hơn nữa, đặt tại cả Nam Cực lẫn dưới đáy đại dương sâu thẳm. Riêng IceCube đang được nâng cấp với bảy chuỗi thiết bị mới cùng các mô đun cảm biến đã cải tiến. Giới khoa học kỳ vọng hệ thống lớn hơn, nhạy hơn này không chỉ giải được bài toán tia vũ trụ mà còn mang lại những khám phá \"hoàn toàn bất ngờ\"."
+    },
+    {
+     "t": "p",
+     "text": "Ông Halzen cũng cho biết trong khi nhiều dự án thí nghiệm quy mô lớn thường tan rã sau hàng thập kỷ, IceCube vẫn tiếp tục phát triển. Hiện nhóm hợp tác IceCube quy tụ hơn 450 nhà nghiên cứu từ các tổ chức tại 14 quốc gia."
+    },
+    {
+     "t": "h",
+     "text": "Thiên văn học Việt Nam từng bước phát triển"
+    },
+    {
+     "t": "p",
+     "text": "Dù thiên văn học vẫn còn là lĩnh vực mới mẻ ở Việt Nam nhưng đang từng bước phát triển, với các hoạt động nghiên cứu, giáo dục cộng đồng có những thành công đáng kể."
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, Việt Nam lần đầu tiên đăng cai kỳ thi Olympic thiên văn và vật lý thiên văn quốc tế lần thứ 19 (IOAA 2026), diễn ra từ ngày 25-9 đến 5-10-2026 tại Đại học Phenikaa."
+    },
+    {
+     "t": "p",
+     "text": "Đoàn chủ nhà giành thành tích tuyệt đối: 10/10 học sinh tham gia đều đoạt giải với sáu huy chương vàng và bốn huy chương bạc, cho thấy tiềm năng trí tuệ trẻ Việt Nam trong lĩnh vực này."
+    }
+   ]
+  },
+  {
+   "id": "6155d38a4c42",
+   "order": 2,
+   "slug": "thi-nghiem-kham-pha-khoa-hoc-dang-sau-hien-tuong-ao-anh-luu",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Thí nghiệm: Khám phá khoa học đằng sau hiện tượng ảo ảnh lưu",
+   "sapo": "Bằng cách quan sát ảo ảnh lưu, em có thể tìm hiểu cách các tế bào hình nón khác nhau trong võng mạc phản ứng với nhiều màu sắc khác nhau.",
+   "author": "Science Buddies",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/vision-eyes-see-color-afterimages",
+   "published": "2026-10-07T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 2754,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Experiment: Discover the science behind afterimages",
+   "images": [
+    {
+     "src": "img/2026-10-08/6155d38a4c42-lead.jpg",
+     "caption": "",
+     "w": 1030,
+     "h": 580
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mục tiêu: Tìm hiểu về cách mắt nhận biết màu sắc bằng cách quan sát ảo ảnh lưu (afterimage) - những hình ảnh còn đọng lại trên võng mạc sau khi em nhìn chằm chằm vào một vật rồi nhìn đi chỗ khác."
+    },
+    {
+     "t": "p",
+     "text": "Lĩnh vực khoa học: Sinh học người và sức khỏe"
+    },
+    {
+     "t": "p",
+     "text": "Độ khó: Trung bình"
+    },
+    {
+     "t": "p",
+     "text": "Thời gian cần: Ngắn (2-5 ngày)"
+    },
+    {
+     "t": "p",
+     "text": "Kiến thức cần có trước: Nên có một chiếc máy tính có kết nối internet."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng tìm vật liệu: Dễ tìm"
+    },
+    {
+     "t": "p",
+     "text": "Chi phí: Rất thấp (dưới 20 đô la)"
+    },
+    {
+     "t": "p",
+     "text": "An toàn: Không có vấn đề gì"
+    },
+    {
+     "t": "p",
+     "text": "Thực hiện: David Whyte, Tiến sĩ, Science Buddies"
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta nhận biết màu sắc của thế giới xung quanh nhờ những tế bào cảm giác đặc biệt, gọi là tế bào hình nón (cone cells). Tế bào hình nón hoạt động trong điều kiện ánh sáng mạnh và chịu trách nhiệm cho khả năng nhìn màu cũng như nhìn rõ chi tiết, giúp em thấy được những chi tiết nhỏ. Tế bào hình nón nằm ở một vùng phía sau mắt gọi là hố mắt (fovea). Hố mắt khá nhỏ, chỉ khoảng 1 milimét vuông (mm2) (0,00155 inch vuông). Thật đáng kinh ngạc khi nghĩ rằng màu sắc và chi tiết mà chúng ta nhìn thấy lại phụ thuộc vào một mẩu mô bé nhỏ như vậy!"
+    },
+    {
+     "t": "p",
+     "text": "Có ba loại tế bào hình nón, được gọi tạm là xanh dương, xanh lá và đỏ, tùy theo loại ánh sáng mà chúng phản ứng mạnh nhất. Ví dụ, khi bạn nhìn một vật màu đỏ, các tế bào hình nón đỏ sẽ được kích thích. Sự kích thích này khiến chúng gửi tín hiệu lên não, báo rằng \"màu của vật đó là màu đỏ\"."
+    },
+    {
+     "t": "p",
+     "text": "Khi ánh sáng xanh dương và ánh sáng đỏ được cộng lại với nhau, chúng tạo ra màu tím. Vì vậy khi bạn nhìn thấy màu tím, cả tế bào hình nón xanh dương và đỏ của bạn đều được kích thích."
+    },
+    {
+     "t": "p",
+     "text": "Còn màu trắng thì sao? Nếu bạn từng nhìn thấy cầu vồng, hoặc các màu sắc tạo ra khi ánh sáng mặt trời đi qua lăng kính (prism), thì bạn đã tự mình thấy rằng ánh sáng trắng có thể tách thành nhiều màu khác nhau. Khi cộng ánh sáng xanh dương, xanh lá và đỏ lại với nhau, ta sẽ có ánh sáng trắng. Nếu bạn lấy ba chiếc đèn pin, gắn kính lọc màu đỏ, xanh dương và xanh lá lên từng chiếc, rồi chiếu cả ba vào cùng một điểm, các màu kết hợp lại sẽ tạo ra ánh sáng trắng."
+    },
+    {
+     "t": "p",
+     "text": "Hai màu bất kỳ mà khi ánh sáng của chúng cộng lại tạo thành màu trắng được gọi là các màu bổ túc (complementary colors). Ví dụ như đỏ và lục lam (cyan), xanh lá và hồng cánh sen (magenta), xanh dương và vàng. Hãy để ý rằng trong mỗi cặp này, một màu là màu cơ bản, còn màu kia là sự pha trộn của hai màu cơ bản còn lại."
+    },
+    {
+     "t": "p",
+     "text": "Khi bạn nhìn vào một hình ảnh màu trắng, cả ba loại tế bào hình nón đều được kích thích. Nói cách khác, não bộ sẽ tổng hợp tín hiệu từ cả ba loại tế bào hình nón và báo cho bạn biết \"đây là màu trắng\". Lưu ý rằng cách các màu ánh sáng kết hợp với nhau được gọi là pha màu cộng (additive color mixing), trong đó ba màu cơ bản kết hợp lại tạo thành màu trắng. Điều này khác với pha màu trừ (subtractive color mixing) mà có thể bạn đã học khi pha màu vẽ trong giờ mỹ thuật, ở đó nếu trộn các màu cơ bản lại với nhau, bạn sẽ được màu đen."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn vào một màu nào đó quá lâu có thể khiến tế bào hình nón bị mỏi mệt — các tế bào hình nón trở nên \"mệt\". Ví dụ, nếu bạn nhìn chằm chằm vào một vật màu đỏ, các tế bào hình nón đỏ sẽ bị mỏi mệt và tạm thời không thể phản ứng được nữa. Nếu sau đó bạn nhìn sang một vùng màu trắng, bạn sẽ thấy một hình ảnh có cùng kích thước và hình dạng với hình ảnh ban đầu, nhưng mang một màu khác. Hình ảnh mà bạn thấy trên bề mặt trắng đó được gọi là ảnh lưu (afterimage). Bạn có thể tự quan sát hiện tượng này bằng cách nhìn vào hình tròn màu đỏ ở Hình 1 trong phần Các bước thí nghiệm trong 30 giây, sau đó nhìn sang vùng trắng ở hình vuông bên phải. Bạn có thấy ảnh lưu màu xanh lam ngả lục không?"
+    },
+    {
+     "t": "p",
+     "text": "Vì sao ảnh lưu lại có màu xanh lam ngả lục? Khi bạn nhìn vào bề mặt trắng sau khi đã nhìn chằm chằm vào vật màu đỏ, mắt bạn thực chất vẫn nhận được lượng ánh sáng đỏ, xanh lá và xanh dương bằng nhau, nhưng chỉ có tế bào hình nón xanh dương và xanh lá có thể phản ứng và báo cho não biết bạn đang thấy gì. Do tế bào hình nón đỏ bị mỏi mệt, tín hiệu từ chúng bị thiếu ở vùng tạo ra ảnh lưu. Vì vậy bạn nhìn thấy ảnh lưu có màu xanh lam ngả lục. (Đây là một sự thật khá \"rùng rợn\": các bác sĩ phẫu thuật mặc đồ màu xanh lam ngả lục để giảm bớt ảnh lưu của màu máu!)"
+    },
+    {
+     "t": "p",
+     "text": "Ảnh lưu biến mất sau vài giây vì các tế bào hình nón đỏ đã hồi phục khỏi trạng thái mỏi mệt và hoạt động trở lại. Khi tế bào hình nón đỏ hoạt động trở lại, cả ba loại tế bào hình nón đều phản ứng với bề mặt trắng, và bạn nhìn thấy vùng trắng đó như bình thường. Bạn thậm chí có thể đoán trước màu của ảnh lưu đối với hầu hết các màu sắc — đó chính là màu bổ túc của màu vật thể ban đầu."
+    },
+    {
+     "t": "p",
+     "text": "Trong dự án sinh học con người này, bạn sẽ tìm hiểu cách các tế bào hình nón phản ứng với nhiều màu sắc khác nhau bằng cách quan sát các ảnh lưu."
+    },
+    {
+     "t": "p",
+     "text": "Hãy gửi câu hỏi của em vào đây, chúng tôi có thể sẽ trả lời trong một số báo sắp tới của Science News Explores"
+    },
+    {
+     "t": "h",
+     "text": "Thuật ngữ và khái niệm"
+    },
+    {
+     "t": "li",
+     "text": "Tế bào hình nón (cone cell)"
+    },
+    {
+     "t": "li",
+     "text": "Tầm nhìn có độ nét cao"
+    },
+    {
+     "t": "li",
+     "text": "Điểm vàng (fovea)"
+    },
+    {
+     "t": "li",
+     "text": "Sự kích thích"
+    },
+    {
+     "t": "li",
+     "text": "Màu bổ túc"
+    },
+    {
+     "t": "li",
+     "text": "Màu cơ bản"
+    },
+    {
+     "t": "li",
+     "text": "Phối màu cộng (additive color mixing)"
+    },
+    {
+     "t": "li",
+     "text": "Phối màu trừ (subtractive color mixing)"
+    },
+    {
+     "t": "li",
+     "text": "Sự mỏi mệt của tế bào nón"
+    },
+    {
+     "t": "li",
+     "text": "Ảo ảnh lưu lại sau khi nhìn"
+    },
+    {
+     "t": "li",
+     "text": "Võng mạc"
+    },
+    {
+     "t": "h",
+     "text": "Câu hỏi"
+    },
+    {
+     "t": "li",
+     "text": "Trong 1 milimét vuông (0,00155 inch) ở điểm vàng (fovea) có bao nhiêu tế bào nón? Trong 1 milimét vuông (0,00155 inch) ở rìa võng mạc có bao nhiêu tế bào nón?"
+    },
+    {
+     "t": "li",
+     "text": "Các tế bào nón được phân bố trên võng mạc như thế nào?"
+    },
+    {
+     "t": "li",
+     "text": "Tế bào nón đôi khi được mô tả là nhạy cảm với ánh sáng bước sóng ngắn, trung bình hoặc dài. Những bước sóng nào tương ứng với ánh sáng đỏ, xanh lá và xanh dương?"
+    },
+    {
+     "t": "li",
+     "text": "Điều gì gây ra bệnh mù màu?"
+    },
+    {
+     "t": "li",
+     "text": "Những phần nào của não nhận tín hiệu từ các tế bào nón?"
+    },
+    {
+     "t": "h",
+     "text": "Tài liệu tham khảo"
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này trên The Caltech Weekly nói về nghiên cứu tại Phòng thí nghiệm Shimojo thuộc Viện Công nghệ California có một số thông tin hay về hiện tượng ảnh lưu thị giác:"
+    },
+    {
+     "t": "li",
+     "text": "The Caltech Weekly (30 tháng 8 năm 2001). Nghiên cứu mới cho thấy bộ não có liên quan đến ảnh lưu thị giác. Truy cập ngày 15 tháng 6 năm 2023."
+    },
+    {
+     "t": "p",
+     "text": "Trang web này của Đại học Washington có rất nhiều thông tin về khoa học thần kinh, mắt và hiện tượng ảnh lưu thị giác:"
+    },
+    {
+     "t": "li",
+     "text": "Chudler, E. (2008). Ảnh lưu thị giác. Truy cập ngày 21 tháng 7 năm 2008."
+    },
+    {
+     "t": "p",
+     "text": "Một ảo ảnh thị giác dựa trên hiện tượng mỏi tế bào hình nón (cone cell) đã đoạt giải trong cuộc thi của Hiệp hội Neural Correlate dành cho \"Ảo ảnh thị giác hay nhất năm 2008\". Bạn có thể xem ảo ảnh này tại đây:"
+    },
+    {
+     "t": "li",
+     "text": "Otero-Millan, J. (2008). Lấp đầy ảnh lưu sau hình ảnh. Truy cập ngày 27 tháng 9 năm 2013."
+    },
+    {
+     "t": "h",
+     "text": "Vật liệu và dụng cụ"
+    },
+    {
+     "t": "li",
+     "text": "Máy tính có màn hình màu, hoặc em có thể in các hình ảnh ra bằng máy in màu"
+    },
+    {
+     "t": "li",
+     "text": "Đồng hồ bấm giờ, hoặc đồng hồ có kim giây"
+    },
+    {
+     "t": "li",
+     "text": "Một người giúp đỡ"
+    },
+    {
+     "t": "li",
+     "text": "Sổ ghi chép thí nghiệm"
+    },
+    {
+     "t": "li",
+     "text": "Bút chì màu hoặc một chương trình đồ họa máy tính cơ bản"
+    },
+    {
+     "t": "h",
+     "text": "Quy trình thí nghiệm"
+    },
+    {
+     "t": "p",
+     "text": "Có ba phần. Mỗi phần sẽ mất chưa đến một giờ đồng hồ."
+    },
+    {
+     "t": "p",
+     "text": "Ở Phần 1, em sẽ nhìn chằm chằm vào một vật có màu trong những khoảng thời gian khác nhau, sau đó đo xem mỗi lần phải mất bao lâu thì hình ảnh lưu lại (afterimage) mới biến mất. Sau đó em sẽ vẽ biểu đồ dữ liệu theo dạng: Mức độ kích thích tế bào hình nón (thời gian em nhìn vào vật có màu) so với Độ bền của hình ảnh lưu lại (thời gian trước khi hình ảnh lưu lại biến mất). Những điều cần suy nghĩ: Có một khoảng thời gian kích thích tế bào hình nón tối thiểu cần thiết để tạo ra hình ảnh lưu lại không? Thời gian kích thích tế bào hình nón càng lâu thì thời gian hình ảnh lưu lại có luôn dài hơn không, hay hiệu ứng này sẽ chững lại sau một mốc thời gian nào đó?"
+    },
+    {
+     "t": "p",
+     "text": "Ở Phần 2, em sẽ kiểm tra xem hình ảnh lưu lại được tạo ra từ ba màu khác nhau có biến mất với cùng tốc độ hay không (đây là cách đo khả năng hồi phục của tế bào hình nón)."
+    },
+    {
+     "t": "p",
+     "text": "Ở Phần 3, em sẽ kiểm tra xem màu nào tạo ra hình ảnh lưu lại trong thời gian ngắn nhất (đây là cách đo tốc độ mệt mỏi của tế bào hình nón)."
+    },
+    {
+     "t": "li",
+     "text": "Hãy nhìn vào Hình 1 dưới đây. Nhờ người trợ giúp chuẩn bị bấm giờ cho em đúng 30 giây. Em nên nói \"bắt đầu\" khi em bắt đầu nhìn vào vật đó, và người trợ giúp có thể nói \"dừng\" khi 30 giây đã trôi qua."
+    },
+    {
+     "t": "li",
+     "text": "Nhìn chằm chằm vào hình tròn màu đỏ trong 30 giây. Cố gắng không chớp mắt. Khi hết 30 giây, hãy nhìn sang khoảng trắng trong ô vuông bên phải. Hãy mô tả kích thước, hình dạng và màu sắc của hình ảnh lưu lại vào sổ ghi chép thí nghiệm của em. Lưu ý: Điều quan trọng là phải xem hình này trên màn hình sáng với màu sắc rõ nét, hoặc nếu em in ra, màu sắc phải tươi và rõ."
+    },
+    {
+     "t": "li",
+     "text": "Tắt hết các đèn gần máy tính của em hoặc gần tấm ảnh đã in ra. Nhìn chằm chằm vào hình tròn màu đỏ trong 30 giây một lần nữa, nhưng lần này, hãy ghi lại vào sổ ghi chép thí nghiệm xem hình ảnh lưu lại hiện rõ trong bao lâu. Nhờ người trợ giúp dùng đồng hồ bấm giờ để theo dõi xem em còn nhìn thấy hình ảnh lưu lại trong bao lâu. Em có thể nói \"bắt đầu\" ngay khi em bắt đầu nhìn vào khoảng trắng và lặp lại câu \"tôi vẫn còn thấy nó\" liên tục cho đến khi nó biến mất, rồi nói \"nó biến mất rồi\" để người trợ giúp dừng đồng hồ và em có thể ghi lại thời gian. Vì sao hình ảnh lưu lại lại biến mất?"
+    },
+    {
+     "t": "li",
+     "text": "Lặp lại Bước 3 thêm hai lần nữa, tổng cộng là ba lần thử, và ghi lại tất cả số liệu vào một bảng dữ liệu trong sổ ghi chép thí nghiệm của em, giống như Bảng 1 dưới đây. Lưu ý: hãy để mắt nghỉ ngơi khoảng một phút giữa mỗi lần thử."
+    },
+    {
+     "t": "li",
+     "text": "Lặp lại Bước 3-4 thêm bốn lần nữa, mỗi lần thay đổi thời gian em nhìn vào hình tròn màu đỏ. Hãy nhìn hình tròn màu đỏ trong 5, 10, 20 và rồi 60 giây trước khi nhìn sang vùng trắng (em đã hoàn thành lần thử 30 giây ở Bước 3-4 rồi)."
+    },
+    {
+     "t": "li",
+     "text": "Ghi lại thời gian ảnh lưu (afterimage) tồn tại sau mỗi lần thử vào bảng dữ liệu của em."
+    },
+    {
+     "t": "li",
+     "text": "Tính giá trị trung bình và điền các số liệu đó vào cột cuối cùng."
+    },
+    {
+     "t": "li",
+     "text": "Vẽ biểu đồ dữ liệu. Đặt số giây em nhìn vào vật thể ở trục hoành (trục x), và thời gian trung bình ảnh lưu tồn tại ở trục tung (trục y). Đặt tên trục x là Kích thích tế bào hình nón (Cone Stimulation) và trục y là Thời gian tồn tại của ảnh lưu (Afterimage Persistence), hoặc em có thể tự chọn tên trục khác. Nhớ ghi đơn vị (giây) trên biểu đồ."
+    },
+    {
+     "t": "li",
+     "text": "Thời gian tối đa mà ảnh lưu tồn tại là bao lâu?"
+    },
+    {
+     "t": "li",
+     "text": "Nếu em nhìn chăm chú vào vật thể trong khoảng thời gian dài hơn, vượt quá 30 giây (chẳng hạn 60, 90 và 120 giây), thời gian tồn tại của ảnh lưu có tiếp tục tăng lên không? Hãy giải thích kết quả của em dựa trên mức độ mệt mỏi (fatigue) của các tế bào hình nón."
+    },
+    {
+     "t": "li",
+     "text": "Tắt hết các đèn gần máy tính hoặc hình ảnh in ra của em. Nhìn chăm chú vào hình tròn ba màu ở Hình 2 trong 30 giây, sau đó nhìn sang khoảng trắng bên phải. Dùng cách làm giống như ở Phần 1, nhờ người trợ giúp bấm giờ xem em nhìn thấy ảnh lưu trong bao lâu và ghi lại số liệu vào sổ ghi chép thí nghiệm của em."
+    },
+    {
+     "t": "li",
+     "text": "Em cũng hãy mô tả các màu sắc của ảnh lưu trong sổ ghi chép thí nghiệm. Khi mô tả, hãy gọi ba phần của hình là Trái, Phải và Dưới. Cách này giúp tránh nhầm lẫn về màu sắc."
+    },
+    {
+     "t": "li",
+     "text": "Dùng bút chì màu hoặc một phần mềm đồ họa trên máy tính để vẽ lại ảnh lưu đó."
+    },
+    {
+     "t": "li",
+     "text": "Lặp lại các Bước 1-3 của Phần 2 thêm hai lần nữa, tổng cộng là ba lần thử, và ghi lại số liệu mỗi lần. Đừng quên cho mắt nghỉ ngơi giữa mỗi lần thử."
+    },
+    {
+     "t": "li",
+     "text": "Thời gian lưu ảnh (afterimage) của vùng xanh dương, đỏ và xanh lá so với nhau như thế nào? Ba phần màu này biến mất với tốc độ giống nhau hay khác nhau?"
+    },
+    {
+     "t": "li",
+     "text": "Nhìn vào hình tròn ba màu ở Hình 2 trong thời gian rất ngắn, khoảng hai hoặc ba giây, rồi nhìn sang khoảng trắng. Ghi lại những gì em thấy hoặc không thấy vào sổ tay thí nghiệm."
+    },
+    {
+     "t": "li",
+     "text": "Lặp lại Bước 1 của Phần 3 với các khoảng thời gian khác nhau (một, hai, ba, bốn giây) để xác định thời gian tối thiểu cần để tạo ra ảnh lưu."
+    },
+    {
+     "t": "li",
+     "text": "Ảnh lưu có bao gồm đủ cả ba phần màu không? Hay chỉ có một màu tạo ra ảnh lưu? Nếu vậy, em sẽ giải thích điều này như thế nào dựa trên việc tế bào hình nón (cone cell) nào mỏi nhanh nhất?"
+    },
+    {
+     "t": "li",
+     "text": "Ghi lại những gì em quan sát được vào sổ tay thí nghiệm."
+    },
+    {
+     "t": "li",
+     "text": "Điều gì sẽ xảy ra nếu em nhắm một mắt lại? Ví dụ, chỉ dùng mắt trái để nhìn vào hình tròn màu đỏ ở Hình 1. Sau đó nhìn sang vùng trắng bằng mắt trái hoặc mắt phải. Em dự đoán điều gì sẽ xảy ra?"
+    },
+    {
+     "t": "li",
+     "text": "Những người khác nhau có cho kết quả ảnh lưu giống nhau không? Hãy lặp lại các thí nghiệm về ảnh lưu với vài người bạn và người thân (ít nhất ba người)."
+    },
+    {
+     "t": "li",
+     "text": "Hãy tự tạo ra các vật thể có màu sắc riêng và dự đoán màu của ảnh lưu sẽ là gì. Lập một bảng gồm màu của vật thể và màu dự đoán của ảnh lưu (nhớ rằng màu của ảnh lưu sẽ là màu bổ sung (complementary) với màu của vật thể)."
+    },
+    {
+     "t": "li",
+     "text": "Em có thể thêm \"động vật hoang dã\" vào dự án này bằng cách thiết kế các vật thể màu có hình con vật, cùng với lồng hoặc bể cá ở vùng xuất hiện ảnh lưu."
+    }
+   ]
+  },
+  {
+   "id": "1b282f8f0e93",
+   "order": 3,
+   "slug": "cac-nha-vat-ly-co-the-da-nhin-thay-vat-chat-toi-bi-an",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Các nhà vật lý có thể đã nhìn thấy vật chất tối bí ẩn",
+   "sapo": "Suốt nhiều chục năm, các nhà khoa học đã cố gắng tìm ra chất vô hình lấp đầy vũ trụ này. Thí nghiệm LZ có thể đã phát hiện được vật chất tối.",
+   "author": "Emily Conover",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
+   "published": "2026-10-07T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1275,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Physicists may have finally glimpsed elusive dark matter",
+   "images": [
+    {
+     "src": "img/2026-10-08/1b282f8f0e93-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vào một ngày tháng 6 năm 2023, rất nhiều \"con mắt\" điện tử không bao giờ nhắm của máy dò LUX-ZEPLIN - gọi tắt là LZ - có thể đã nhìn thấy một điều đáng chú ý. Chúng có thể đã lần đầu tiên phát hiện trực tiếp vật chất tối."
+    },
+    {
+     "t": "p",
+     "text": "Hoặc đó cũng có thể chỉ là một ngày thứ Sáu bình thường khác."
+    },
+    {
+     "t": "p",
+     "text": "Vật chất tối là chất vô hình được cho là chiếm phần lớn khối lượng vật chất trong vũ trụ. Các nhà khoa học có thể cảm nhận lực hấp dẫn của nó kéo các vì sao và những vật thể khác trong không gian. Nhưng không ai biết nó thực chất là gì. Cũng chưa ai từng trực tiếp quan sát được nó, dù đã tìm kiếm suốt nhiều chục năm."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một thí nghiệm của LZ có thể đã tìm thấy một lần tương tác hạt duy nhất phù hợp với đặc điểm đó. Nhóm nghiên cứu LZ đã chia sẻ phát hiện của mình vào ngày 1 tháng 9 tại hội nghị TeV Particle Astrophysics ở Tendo, Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Một sự kiện thì chưa thể kết luận chắc chắn. Nếu không có thêm dữ liệu, các nhà khoa học không thể chắc rằng vật chất tối chính là nguyên nhân gây ra tín hiệu mà họ phát hiện được."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, sự kiện hạt bất ngờ này đang khiến các nhà vật lý rất phấn khích."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là điều thú vị nhất xảy ra trong thời gian gần đây,\" Wick Haxton, người không tham gia vào nghiên cứu này, cho biết. Ông là nhà vật lý lý thuyết (theoretical physicist) làm việc tại Đại học California, Berkeley. \"Tôi chắc chắn nghĩ rằng sẽ có rất nhiều người đổ xô vào nghiên cứu sự kiện này,\" ông nói."
+    },
+    {
+     "t": "h",
+     "text": "Theo dõi tìm WIMP"
+    },
+    {
+     "t": "p",
+     "text": "LZ được đặt tại Cơ sở Nghiên cứu Ngầm Sanford ở Lead, bang South Dakota. Tại đó, máy dò này tìm kiếm các hạt nặng tương tác yếu, gọi là WIMP (weakly interacting massive particles). Các nhà khoa học đã đưa ra giả thuyết rằng loại hạt này có thể chính là vật chất tối."
+    },
+    {
+     "t": "p",
+     "text": "Nếu WIMP thực sự tồn tại, chúng có thể va vào hạt nhân của các nguyên tử trong bể xenon lỏng của LZ. Một va chạm như vậy sẽ làm hạt nhân xenon bị bắn đi. Trong quá trình đó, nó sẽ phát ra một tia sáng nhỏ cùng các electron. Các cảm biến của LZ có thể phát hiện được những dấu hiệu này."
+    },
+    {
+     "t": "h",
+     "text": "Hai dấu hiệu song song"
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị dò LZ được thiết kế để phát hiện hai dấu hiệu khi một hạt vật chất tối bên trong nó va chạm với một hạt nhân nguyên tử. Khi hạt nhân bị giật lùi, nó tạo ra một tia sáng. Tia sáng đó được các dãy cảm biến ánh sáng (những hình tròn ở trên và dưới) phát hiện ngay lập tức. Sự kiện này cũng giải phóng ra các electron (màu đỏ). Những hạt này trôi qua thiết bị dò nhờ một điện trường. Khi các electron chạm tới đỉnh, chúng tạo ra một tia sáng khác."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu mới tìm kiếm một phiên bản được đề xuất của các hạt WIMP, loại có thể làm hạt nhân xenon bật ra với năng lượng cao. Nhóm nghiên cứu đã rà soát kỹ lưỡng dữ liệu thu thập trong suốt 220 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Cuối cùng, \"chúng tôi chỉ tìm được một sự kiện, và điều đó thật đáng kinh ngạc. Hoàn toàn đáng kinh ngạc,\" ông Rick Gaitskell cho biết. Nhà vật lý này làm việc tại Đại học Brown ở Providence, bang Rhode Island (Mỹ). Ông cũng là người phát ngôn của dự án LZ."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm LZ ước tính chỉ có khoảng 1 phần 100 khả năng rằng các hạt đã biết, không phải WIMP, có thể gây ra sự kiện như vậy. Các nhà vật lý thường diễn đạt những xác suất như thế bằng một con số gọi là sigma. Trong trường hợp này, độ tin cậy rằng một hạt WIMP đã gây ra sự kiện này là 2,6 sigma. Thông thường, các nhà vật lý cần đạt mức 3 sigma để có thể nói rằng họ có bằng chứng về điều gì đó. Họ cần tới 5 sigma để khẳng định chắc chắn rằng đã phát hiện ra nó."
+    },
+    {
+     "t": "h",
+     "text": "Những hạt WIMP không hề \"yếu\" như tên gọi"
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu trước đó đã rà soát cùng bộ dữ liệu này để tìm các hạt nhân xenon bị bắn ra với năng lượng thấp sau va chạm với WIMP. Đó thường là điều mà các nhà khoa học dự đoán sẽ xảy ra khi WIMP tương tác. Nhưng cuộc tìm kiếm đó không tìm thấy gì cả."
+    },
+    {
+     "t": "p",
+     "text": "Điều này gợi ý rằng vật chất tối có thể tương tác theo cách khiến hạt nhân nguyên tử bị giật lùi với một lực rất mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Các hạt WIMP có thể có những mức năng lượng khác nhau, giống như nguyên tử. Một hạt WIMP như vậy có thể chỉ tương tác khi có đủ năng lượng để đẩy nó lên mức năng lượng tiếp theo. Điều này sẽ tạo ra một giới hạn dưới cho năng lượng của hạt nhân nguyên tử mà nó bắn ra."
+    },
+    {
+     "t": "p",
+     "text": "Đối với kiểu tương tác đó, các sự kiện vật chất tối được dự đoán sẽ xảy ra nhiều hơn vào mùa hè. Đó là lúc Trái Đất di chuyển xuyên qua vùng vật chất tối trong thiên hà của chúng ta theo hướng đối đầu trực tiếp hơn. Điều này tạo ra nhiều va chạm có năng lượng cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "Neal Weiner cho biết điều này cũng khiến sự kiện hồi tháng 6 năm 2023 trở nên đặc biệt đáng chú ý. Dù không thuộc nhóm nghiên cứu LZ, ông là nhà vật lý lý thuyết tại Đại học New York ở thành phố New York."
+    },
+    {
+     "t": "h",
+     "text": "Điều gì sẽ xảy ra tiếp theo"
+    },
+    {
+     "t": "p",
+     "text": "Các thí nghiệm về vật chất tối từng có \"thành tích\" khiến các nhà khoa học hy vọng rồi lại thất vọng."
+    },
+    {
+     "t": "p",
+     "text": "Chẳng hạn, vào năm 2020, thí nghiệm XENON1T ở Ý đã phát hiện một dấu hiệu về các hạt mới có vẻ như có thể là vật chất tối. Nhưng một phiên bản sau đó của thí nghiệm này cho thấy điều đó không đúng."
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả khi sự kiện mới phát hiện không phải do vật chất tối gây ra, nghiên cứu này vẫn chứng minh được giá trị của LZ và các thiết bị dò tương tự. \"Chúng ta có những cỗ máy tuyệt vời này,\" Weiner nói. Trước đây người ta vẫn chưa rõ liệu chúng có thể dùng để tìm các hạt không khớp với những dự đoán ban đầu về WIMP hay không. \"Một kết quả thực sự thú vị là: có, chúng có thể làm được điều đó.\""
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, LZ đã thu thập thêm nhiều dữ liệu. Trên thực tế, lượng dữ liệu mà họ thu được nhiều gấp ít nhất ba lần so với lượng dữ liệu các nhà nghiên cứu đã phân tích. Nếu vật chất tối thật sự là nguyên nhân gây ra sự kiện năm 2023, thì rất có thể còn nhiều sự kiện khác đang chờ được tìm thấy."
+    },
+    {
+     "t": "p",
+     "text": "\"Người ta đã tìm kiếm [vật chất tối] trong một thời gian dài, và càng ngày càng thất vọng vì vẫn chưa tìm ra,\" Haxton nói. \"Sẽ rất tuyệt nếu sau sự kiện này còn xuất hiện thêm vài sự kiện nữa.\""
+    }
+   ]
+  },
+  {
+   "id": "df31cd8fdce5",
+   "order": 4,
+   "slug": "tau-tham-hiem-curiosity-cua-nasa-nhin-lai-sau-khi-dat-cot-mo",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tàu thám hiểm Curiosity của NASA nhìn lại sau khi đạt cột mốc độ cao mới",
+   "sapo": "Tàu thám hiểm Curiosity của NASA trên sao Hỏa đã chụp lại hình ảnh nhìn về phía đáy hố Gale, với vành miệng hố hiện ra ở phía xa, vào ngày 5 tháng 9 năm 2026",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+   "published": "2026-10-07T17:00:47+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 369,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+   "images": [
+    {
+     "src": "img/2026-10-08/df31cd8fdce5-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 463
+    },
+    {
+     "src": "img/2026-10-08/df31cd8fdce5-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 462
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Tải xuống"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Tàu thám hiểm Curiosity của NASA nhìn lại sau khi đạt cột mốc độ cao mới"
+    },
+    {
+     "t": "p",
+     "text": "PNG (73,39 MB)"
+    },
+    {
+     "t": "h",
+     "text": "Mô tả"
+    },
+    {
+     "t": "p",
+     "text": "Tàu thám hiểm Curiosity của NASA trên sao Hỏa đã chụp lại hình ảnh nhìn về phía đáy hố Gale, với vành miệng hố hiện ra ở phía xa, vào ngày 5 tháng 9 năm 2026, tức ngày sao Hỏa (sol) thứ 5.006 của nhiệm vụ. Chỉ chín ngày trước đó, vào ngày 26 tháng 8 (sol 4.996), Curiosity đã lập một cột mốc quan trọng của nhiệm vụ khi đạt độ cao 1 km so với đáy hố. Từ năm 2014, Curiosity đã liên tục leo lên những sườn núi thấp của núi Sharp, một ngọn núi cao 5 km nằm trong hố Gale.\n\nChú giải: 1 km khoảng 0,62 dặm; 5 km khoảng 3 dặm. Trong văn bản tiếng Việt, số liệu đã được đổi sang hệ mét."
+    },
+    {
+     "t": "p",
+     "text": "Một dải cát trải dài ở phía trước bức ảnh, và có thể nhìn thấy một vết hào do bánh xe trước bên phải của tàu thám hiểm để lại ở bên phải ảnh. Các lớp đất đá bên trong dải cát, cùng kích thước và thành phần của các hạt cát, sẽ giúp các nhà khoa học tìm ra manh mối về cách dải cát này được hình thành."
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh toàn cảnh này được ghép lại từ 95 bức ảnh riêng lẻ do camera cột buồm (Mast Camera, hay Mastcam) của Curiosity chụp. Màu sắc trong những bức ảnh này đã được điều chỉnh để phù hợp với điều kiện ánh sáng giống như khi con người quan sát bằng mắt thường trên Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Curiosity được chế tạo bởi Phòng Thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory - JPL) của NASA, do Viện Công nghệ California (Caltech) tại Pasadena, California điều hành. JPL dẫn dắt nhiệm vụ này thay mặt cho Ban Giám đốc Sứ mệnh Khoa học của NASA tại Washington, nằm trong danh mục Chương trình Thám hiểm sao Hỏa của NASA. Công ty Malin Space Science Systems tại San Diego đã chế tạo và vận hành Mastcam."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về Curiosity, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/mission/msl-curiosity/"
+    }
+   ]
+  },
+  {
+   "id": "2dc282f1df7a",
+   "order": 5,
+   "slug": "chu-thich-buc-anh-mat-trang-cua-phi-hanh-doan-artemis-ii",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Chú thích bức ảnh Mặt Trăng của phi hành đoàn Artemis II",
+   "sapo": "Trong ảnh chụp màn hình từ máy tính bảng của một thành viên phi hành đoàn Artemis II ngày 6 tháng 4 năm 2026, hình ảnh mô phỏng Mặt Trăng tối đen che khuất Mặt Trời được đánh dấu bằng những ghi chú viết tay.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+   "published": "2026-10-07T15:44:59+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 262,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Artemis II Crew Moon Photo Annotations",
+   "images": [
+    {
+     "src": "img/2026-10-08/2dc282f1df7a-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 852
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong ảnh chụp màn hình từ máy tính bảng của một thành viên phi hành đoàn Artemis II ngày 6 tháng 4 năm 2026, hình ảnh mô phỏng Mặt Trăng tối đen che khuất Mặt Trời được đánh dấu bằng những ghi chú viết tay."
+    },
+    {
+     "t": "p",
+     "text": "Các phi hành gia của NASA là Reid Wiseman (màu xanh dương) và Victor \"Ike\" Glover (màu xanh lá), cùng phi hành gia Jeremy Hansen của CSA (Cơ quan Vũ trụ Canada, màu đỏ) đã quan sát các tia sáng va chạm và đánh dấu vị trí của chúng trên hình ảnh. Tổng cộng, các phi hành gia cho biết họ nhìn thấy năm tia sáng \"nhỏ như đầu kim\" rất mờ nhạt từ khoang tàu Orion, khi đó đang ở cách Mặt Trăng 46.000 dặm (khoảng 74.000 km). Những tia sáng này xuất hiện khi các mảnh đá va vào Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Từ ngày 1 đến ngày 10 tháng 4 năm 2026, phi hành đoàn Artemis II của NASA đã bay đến Mặt Trăng và trở về, và trong suốt chuyến đi, họ đã ghi lại những hình ảnh tuyệt đẹp cùng các quan sát khoa học về người láng giềng gần nhất của chúng ta. Hiện nay, toàn bộ dữ liệu khoa học về Mặt Trăng thu được từ chuyến đi của họ đã được công bố cho cộng đồng khoa học toàn cầu, cũng như cho công chúng, để tiếp tục nghiên cứu. Hãy đọc báo cáo, nghe các đoạn ghi âm quan sát của phi hành đoàn và tìm hiểu thêm."
+    },
+    {
+     "t": "p",
+     "text": "Ảnh: NASA"
+    }
+   ]
+  },
+  {
+   "id": "895a359df7e4",
+   "order": 6,
+   "slug": "nam-phat-hien-thay-doi-mai-mai-hieu-biet-cua-chung-ta-ve-khu",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Năm phát hiện thay đổi mãi mãi hiểu biết của chúng ta về khủng long T. Rex, từ máu nóng đến môi",
+   "sapo": "Các nhà cổ sinh vật học vẫn đang tiếp tục khám phá những bí mật của loài khủng long nổi tiếng nhất thế giới, chẳng hạn như hình dáng bên ngoài hay cách nó săn mồi. Với mỗi phát hiện mới, hình ảnh của \"vua khủng long bạo chúa\" lại trở nên rõ ràng hơn một chút — và đôi khi thay đổi hoàn toàn",
+   "author": "Riley Black",
+   "source_name": "Smithsonian",
+   "source_url": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+   "published": "2026-10-07T17:15:01+07:00",
+   "lang": "vi-dich",
+   "score": 9,
+   "words": 2824,
+   "translated": true,
+   "translated_from": "Smithsonian",
+   "title_original": "Five Discoveries That Changed Our Understanding of T. Rex Forever, From Warm Blood to Lips",
+   "images": [
+    {
+     "src": "img/2026-10-08/895a359df7e4-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-08/895a359df7e4-0.jpg",
+     "caption": "Hình ảnh của khủng long bạo chúa (Tyrannosaurus rex) đã có những thay đổi lớn trong thế kỷ qua. Leonello Calvetti / Science Photo Library via Getty Images",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-08/895a359df7e4-1.jpg",
+     "caption": "\"Wankel Rex\" tại Bảo tàng Lịch sử Tự nhiên Quốc gia Smithsonian là mẫu hóa thạch T. rex đầu tiên được tìm thấy với cánh tay dưới hoàn chỉnh, bao gồm cả bàn tay hai ngón. Ken Lund via Flickr under CC BY-SA 2.0",
+     "w": 1072,
+     "h": 804
+    },
+    {
+     "src": "img/2026-10-08/895a359df7e4-2.jpg",
+     "caption": "Răng của T. rex có thể đã bị che khuất bởi môi khi miệng của khủng long khép lại. Mark Witton",
+     "w": 525,
+     "h": 700
+    },
+    {
+     "src": "img/2026-10-08/895a359df7e4-3.jpg",
+     "caption": "T. rex không thể chạy nhanh và có thể đã dựa vào việc bất ngờ tấn công con mồi. Jenn Hall via MSU News Service",
+     "w": 1072,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-08/895a359df7e4-4.jpg",
+     "caption": "Nhiều bằng chứng cho thấy T. rex, được trưng bày tại Bảo tàng Lịch sử Tự nhiên Hoa Kỳ, là một loài săn mồi năng động, máu nóng. Riley Black",
+     "w": 1072,
+     "h": 804
+    },
+    {
+     "src": "img/2026-10-08/895a359df7e4-5.jpg",
+     "caption": "Dilong là một loài khủng long bạo chúa có lông, từng sống ở khu vực nay là Trung Quốc. edenpictures via Flickr under CC BY 2.0",
+     "w": 1072,
+     "h": 712
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Riley Black | Phóng viên khoa học"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Không có loài khủng long nào khơi dậy trí tưởng tượng của chúng ta nhiều như Tyrannosaurus rex. Từ khi được đặt tên vào năm 1905, loài ăn thịt sống vào thời kỳ Phấn trắng (Cretaceous) này đã trở thành đối tượng của sự kinh ngạc của công chúng, nổi tiếng trên màn ảnh và được nghiên cứu khoa học sâu rộng. Hàng chục năm nghiên cứu và tranh luận đã tìm hiểu mọi thứ, từ việc loài săn mồi khét tiếng này ăn gì, cho đến tốc độ đi lại, nhiệt độ cơ thể, đời sống xã hội và lớp da lông bao phủ cơ thể nó."
+    },
+    {
+     "t": "p",
+     "text": "\"Vào đầu thế kỷ 20, khi Tyrannosaurus rex mới được phát hiện, người ta hình dung về một thế giới hoang dã và tàn khốc, nơi những con khủng long chậm chạp thống trị, liên tục giao chiến với nhau,\" Cassius Morrison, nhà cổ sinh vật học tại Đại học College London, cho biết. Nhưng hình ảnh ban đầu về một con T. rex quái dị, luôn đói mồi, từ đó đã biến đổi thành một loài săn mồi rất khác so với hầu hết các loài khủng long ăn thịt khổng lồ khác."
+    },
+    {
+     "t": "p",
+     "text": "T. rex ban đầu được hình dung là một con quái vật di chuyển chậm chạp, kéo lê đuôi trong các vùng đầm lầy cổ xưa, đối đầu với Triceratops trong những cuộc chiến đẫm máu, hoành tráng. Giờ đây, T. rex mà chúng ta biết và yêu thích được hiểu là một loài ăn thịt máu nóng, có thể có lông, đóng vai trò quan trọng trong hệ sinh thái cổ đại của nó, săn những con thú ăn cỏ ngây ngô và bị thương, đồng thời cũng \"dọn dẹp\" xác của những con Triceratops và Edmontosaurus trưởng thành quá lớn để săn."
+    },
+    {
+     "t": "p",
+     "text": "Sự thay đổi này không diễn ra ngay lập tức, mà được ghép lại dần dần, từng phát hiện một. Dưới đây là năm phát hiện đã góp phần tạo nên hình ảnh luôn thay đổi của loài khủng long bạo chúa."
+    },
+    {
+     "t": "h",
+     "text": "Một cái đầu to cần những cánh tay nhỏ"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cánh tay bé nhỏ của T. rex là một bí ẩn có từ lâu như chính cái tên của loài khủng long này. Bài báo năm 1905 đặt tên Tyrannosaurus rex cũng đã chỉ ra rằng chi trước của loài ăn thịt này nhỏ đến mức đáng ngạc nhiên. Những chi này sẽ không giúp được gì trong việc bắt mồi, vậy nên có thể chúng chỉ có ích trong việc giúp một con T. rex bám vào con khác khi giao phối, một nhà khoa học đã từng đề xuất như vậy. Nhưng không ai thực sự biết chắc. Cánh tay bé nhỏ của T. rex và các loài khủng long bạo chúa liên quan đã trở thành vừa là một câu đố vừa là một chuyện đùa, như thể cánh tay nhỏ, hai ngón lại mâu thuẫn với một con vật to lớn, vạm vỡ từ mũi đến đuôi."
+    },
+    {
+     "t": "p",
+     "text": "Sự thật thú vị: Những ngón tay của T. rex"
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu các nhà cổ sinh vật học nghĩ rằng T. rex có ba ngón trên mỗi cánh tay cụt ngắn, giống với những loài săn mồi trước đó như Allosaurus. Họ không có bằng chứng hóa thạch về bàn tay hay móng vuốt của loài ăn thịt này. Nhưng sau khi những loài khủng long có quan hệ gần hơn, như Gorgosaurus, được tìm thấy với hai móng vuốt ở Canada, các chuyên gia nhận ra rằng T. rex chắc hẳn cũng có hai ngón. Hóa thạch cánh tay T. rex xác nhận điều này được tìm thấy vào năm 1988."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cánh tay nhỏ lại hợp lý đối với một loài săn mồi có cái đầu khổng lồ, chứa đầy cơ bắp dày đặc. Đặc biệt là ở kích thước to lớn mà những con khủng long như T. rex đạt được, một lực cắn mạnh đòi hỏi phải có cấu trúc sọ rất đồ sộ. Cánh tay trở thành một sự đánh đổi về cơ học sinh học (biomechanical tradeoff), theo kết luận của một nghiên cứu về cánh tay của các loài khủng long chân thú ăn thịt (theropod) công bố vào tháng Năm. Những con khủng long ăn thịt lớn như khủng long bạo chúa bắt mồi và xé xác con mồi bằng miệng của chúng. Để sử dụng cánh tay có móng vuốt, những con khủng long này sẽ phải chạy thẳng vào con mồi và sẽ không thể nhìn thấy mình đang làm gì. Chi trước nhỏ hơn có nghĩa là loài khủng long này có nhiều không gian hơn cho các cơ cổ để nâng đỡ cái đầu."
+    },
+    {
+     "t": "p",
+     "text": "Nếu phải mang theo một cái đầu to khổng lồ cùng với cặp tay chắc nịch toàn là cơ bắp, những con khủng long như T. rex sẽ bị dồn trọng lượng quá nhiều về phía trước. Chúng ta có thể chê cười con khủng long này thế nào cũng được, nhưng chính cặp tay nhỏ bé đó lại là dấu hiệu cho thấy cú đớp của T. rex khủng khiếp đến mức nào."
+    },
+    {
+     "t": "h",
+     "text": "Môi che phủ hàm răng đáng sợ của T. rex"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Những chiếc răng to như quả chuối của T. rex là một phần tạo nên sức hút của loài khủng long ăn thịt này. Trong các bảo tàng, trong tranh vẽ khủng long (paleoart) và tất nhiên là trong phim Jurassic Park, T. rex thường được khắc họa với nụ cười nhe ra những chiếc răng cưa lộ hẳn ở mép hàm. Nhưng nếu từng nhìn thấy con vật này khi còn sống, có thể hàm răng nổi tiếng đó đã bị che kín dưới lớp môi, một số nghiên cứu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Dù về nhiều mặt đã lạc hậu, một trong những bức tranh vẽ T. rex đầu tiên dường như lại vẽ đúng chi tiết này. Bức vẽ T. rex năm 1919 của Charles R. Knight cho thấy con khủng long này có môi. Thiết kế đó sau đó nhanh chóng bị bỏ quên, đến mức chính Knight cũng chuyển sang vẽ những phiên bản để lộ nhiều răng hơn trong các tác phẩm sau này, nhưng một bài báo khoa học năm 2023 đã làm sống lại ý tưởng này. Cá sấu, với nụ cười đầy răng, thường được dùng làm nguồn cảm hứng để hình dung khủng long trông như thế nào. Nhưng những loài bò sát hiện đại này có thể để răng lộ ra ngoài vì chúng sống dưới nước rất nhiều, giúp giảm nguy cơ răng bị khô do tiếp xúc với không khí."
+    },
+    {
+     "t": "p",
+     "text": "Trong nghiên cứu này, nhóm khoa học đã phân tích răng hóa thạch của Daspletosaurus, một loài có quan hệ gần gũi với T. rex. Họ phát hiện men răng bị mài mòn đều ở cả hai mặt, cho thấy có môi bảo vệ. Dựa vào kích thước hộp sọ của T. rex, nhóm nghiên cứu cho rằng răng của chúng có thể vừa khít gọn trong miệng, và họ cũng tìm thấy trong xương hàm của T. rex những lỗ nhỏ chứa dây thần kinh và mạch máu, giống với cấu trúc ở các loài bò sát hiện đại có môi. Các nhà nghiên cứu cho rằng khả năng cao nhất là T. rex có môi bảo vệ phủ lên răng, không khác gì rồng Komodo. Răng của T. rex sẽ bị che kín cho đến khi con khủng long mở miệng ra."
+    },
+    {
+     "t": "h",
+     "text": "T. rex săn mồi bằng cách phục kích"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Việc T. rex ăn thịt đã quá rõ ràng từ khi loài khủng long này được phát hiện. Hàm dài đầy răng cưa có thể thay mới liên tục của nó không hề gợi lên hình ảnh một cuộc sống chỉ gặm lá cây. Nhưng T. rex săn mồi nhiều đến mức nào, và chúng ăn xác thối nhiều đến đâu? Các nhà cổ sinh vật học đã tranh luận về vấn đề này từ khi loài khủng long này được tìm ra, với T. rex được mô tả đủ kiểu, từ một kẻ ăn xác thối di chuyển chậm chạp đến một kẻ săn mồi siêu mạnh chuyên tấn công các loài khủng long có sừng."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà cổ sinh vật học phát hiện ra rằng T. rex không phải là kẻ chạy nhanh. Con khủng long này có thể khá nhanh nhẹn và rẽ hướng tốt hơn so với các loài khủng long ăn thịt lớn khác khi di chuyển, nhưng tốc độ tối đa của \"chúa tể bạo chúa\" này có lẽ chỉ khoảng 19 km/giờ. Thế nhưng, những chiếc răng T. rex cắm sâu trong các vết xương đã lành của khủng long khác cho thấy loài khủng long bạo chúa lớn nhất này thực sự chủ động đi săn mồi, theo một nghiên cứu công bố vào tháng Hai. Nhưng vì cơ thể không được thiết kế để đuổi theo con mồi với tốc độ cao, T. rex có thể đã chạy những đoạn ngắn theo kiểu phục kích rồi bất ngờ tấn công."
+    },
+    {
+     "t": "p",
+     "text": "Vì tương đối chậm chạp, T. rex có thể chủ yếu dựa vào việc bắt những con khủng long non, săn những cá thể già yếu hoặc bị bệnh, và ăn xác thối, theo bà Morrison. Những con khủng long mỏ vịt, khủng long có sừng và khủng long có giáp trưởng thành khỏe mạnh là con mồi đầy rủi ro, có thể gây thương tích đau đớn cho cả một con T. rex to lớn. \"Con mồi của T. rex không phải là những kẻ dễ bị bắt nạt,\" bà Morrison nói, và nhấn mạnh rằng sự giằng co này giữa kẻ săn mồi và con mồi vẫn còn tồn tại đến tận ngày nay. Những động vật ăn cỏ lớn như bò rừng bison và voi là con mồi rất nguy hiểm đối với các loài săn mồi, khiến những kẻ ăn thịt khôn ngoan phải chọn những cá thể ít có khả năng đá gãy hàm hoặc húc bằng sừng của mình."
+    },
+    {
+     "t": "p",
+     "text": "Khi những con khủng long bạo chúa lớn chọn được một con mồi phù hợp, chúng có thể đã lao thẳng vào con mồi, giống như cách cá mập trắng lớn săn mồi ngày nay. Mục tiêu là tung ra một cú đớp cực mạnh, đủ để gây tàn tật, nếu không giết chết ngay con mồi. Và khi T. rex gặp xác của những con khủng long lớn như Triceratops, loài ăn thịt này hoàn toàn có khả năng xé nát chúng. Những khúc xương bị đâm xuyên và phân của T. rex đầy mảnh xương vụn cho thấy rõ rằng con khủng long này có thể tận dụng tối đa mọi bữa ăn."
+    },
+    {
+     "t": "h",
+     "text": "Loài khủng long ăn thịt này có máu nóng"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "T. rex cần rất nhiều thức ăn. Một con khủng long không thể lớn tới 12 mét và nặng 9 tấn chỉ bằng cách ăn vài miếng thức ăn thừa. Nhưng con vật này đã ăn bao nhiêu thức ăn? Để trả lời những câu hỏi sinh học cơ bản như vậy, các nhà khoa học cần hiểu nhiệt độ cơ thể và sự trao đổi chất (metabolism) của loài khủng long này. Nếu T. rex, vốn là một loài bò sát, giống với những người anh em tiến hóa của nó là cá sấu, thì nó có thể cần ít thức ăn hơn nhưng có nhiệt độ cơ thể thay đổi nhiều hơn. Nhưng nếu T. rex giống chim hơn—loài chim chính là khủng long thời hiện đại và có quan hệ gần hơn với T. rex—thì nó có thể có nhiệt độ cơ thể cao và ổn định, đi kèm với nhu cầu năng lượng lớn hơn và phải giải quyết vấn đề thoát nhiệt dư thừa."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, T. rex được xem là một loài bò sát khổng lồ, máu lạnh. Một số người cho rằng loài khủng long này có nhiệt độ cơ thể hơi ấm hơn một chút, vì cơ thể lớn thường giữ nhiệt tốt hơn, nhưng nói chung T. rex vẫn được mô tả là một kẻ săn mồi chậm chạp, không thể giữ cho các bắp thịt đủ ấm để di chuyển nhanh. Thời kỳ \"Phục hưng khủng long\" (Dinosaur Renaissance) vào cuối thế kỷ 20—giai đoạn các ý tưởng về khủng long thay đổi mạnh mẽ—đã hình dung T. rex là một con vật năng động hơn, nhưng giả thuyết này khó có thể được chứng minh trực tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng vào tháng 9 năm nay, các nhà cổ sinh vật học đã có thể ước tính chính xác hơn nhiệt độ cơ thể của T. rex, dù loài khủng long này đã tuyệt chủng từ 66 triệu năm trước khi nhiệt kế được phát minh. Họ cho rằng T. rex duy trì nhiệt độ cơ thể cao và ổn định, khoảng 36 độ C, dựa trên các liên kết hóa học trong lớp men răng của nó—những liên kết này xuất hiện với số lượng ít hơn ở các loài máu nóng. Việc giữ nhiệt bên trong cơ thể như vậy đòi hỏi T. rex phải ăn thường xuyên, nhưng điều này cũng có thể giải thích vì sao hóa thạch T. rex được tìm thấy từ Texas đến tận Saskatchewan. Nghiên cứu mới cho thấy T. rex có thể sống ở nhiều môi trường khác nhau, từ vùng ôn đới đến vùng nhiệt đới, và chính khả năng chịu đựng nhiều kiểu khí hậu này có thể là lý do giúp tổ tiên trực tiếp của T. rex vượt qua một cầu đất cổ ở Bắc Cực để đến được Bắc Mỹ."
+    },
+    {
+     "t": "p",
+     "text": "\"Khả năng chịu được nhiều kiểu khí hậu khác nhau chính là yếu tố then chốt giúp loài này thành công lâu dài,\" ông Jared Voris, nhà cổ sinh vật học tại Đại học Calgary, cho biết."
+    },
+    {
+     "t": "h",
+     "text": "T. rex có thể đã có lông vũ"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Trong khoảng một thế kỷ, mọi hình ảnh về T. rex đều cho rằng nó là một kẻ săn mồi phủ đầy vảy. Suy cho cùng, khủng long là bò sát. Chỉ đến những năm 1970, các nhà cổ sinh vật học mới bắt đầu khơi lại ý tưởng cũ rằng chim chính là con cháu của khủng long—và từ đó, việc đặt câu hỏi liệu T. rex có lông vũ hay không là điều tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Việc phát hiện ra những loài khủng long có lông vũ không biết bay vào những năm 1990 đã củng cố thêm nghi ngờ của nhiều chuyên gia. Và những phát hiện ban đầu đó chỉ là khởi đầu. Lông vũ đã được tìm thấy trên rất nhiều loài khủng long khác nhau, từ tổ tiên của loài chim cho đến những loài ở phía hoàn toàn khác trong cây gia hệ khủng long—bao gồm cả các loài khủng long bạo chúa (tyrannosaur)."
+    },
+    {
+     "t": "p",
+     "text": "Bằng chứng trực tiếp về khủng long bạo chúa có lông vũ đến từ hai loài sống từ rất lâu trước T. rex. Dilong là một loài khủng long bạo chúa nhỏ, dài khoảng 1,8 mét, sống ở Trung Quốc cổ đại khoảng 125 triệu năm trước. Toàn thân nó được bao phủ bởi một lớp lông vũ đơn giản, mịn như tơ. Cũng vào khoảng thời gian đó, loài khủng long bạo chúa Yutyrannus dài 9 mét cũng rình mò khắp Trung Quốc thời tiền sử, với lông vũ đơn giản phủ từ đầu đến đuôi. Như vậy, lông vũ đã tồn tại trong cả gia đình lớn của T. rex. Câu hỏi đặt ra là liệu T. rex có giữ lại bộ lông của tổ tiên mình hay không."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu vẫn chưa thống nhất. Cho đến nay, chưa có bằng chứng trực tiếp nào về lông vũ được tìm thấy cùng với xương của T. rex. Gần đây các nhà cổ sinh vật học đã công bố một số mẫu da của T. rex, nhưng đó chỉ là những mảnh nhỏ từ phần đuôi. Một số chuyên gia cho rằng việc T. rex có một lớp lông vũ dày sẽ không hợp lý—vì với nhiệt độ cơ thể cao như vậy, lông dày có thể giữ quá nhiều nhiệt bên trong cơ thể. Nhưng rất có thể loài khủng long này vẫn có một ít sợi lông tơ, giống như voi hiện nay có lông thưa và không rậm rạp như loài voi lông mượt (voi ma mút) là họ hàng của chúng. Một ngày nào đó, những hóa thạch tốt hơn có thể sẽ giải đáp được câu hỏi này, nhưng trong lúc chờ đợi, điều chắc chắn duy nhất là hiểu biết của chúng ta về T. rex sẽ còn tiếp tục thay đổi."
+    }
+   ]
+  },
+  {
+   "id": "5e49ed49710a",
+   "order": 7,
+   "slug": "nha-vo-dich-beo-uc-ich",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Nhà vô địch béo ục ịch",
+   "sapo": "Một con gấu nâu tên Backpack đã được \"trao vương miện\" (không phải vương miện thật) để trở thành nhà vô địch Tuần lễ Gấu Béo (Fat Bear Week) 2026 vào ngày 29 tháng 9. Tuần lễ Gấu Béo là một giải đấu diễn ra hằng năm. Cuộc thi được tổ chức trực tuyến thông qua Explore.org, một tổ chức phi lợi nhuận vận hành các camera quan sát thiên nhiên trực tiếp. Mọi người bình chọn cho…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g34/hefty-winner/",
+   "published": "2026-10-07T13:00:49+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 315,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Hefty Winner",
+   "images": [
+    {
+     "src": "img/2026-10-08/5e49ed49710a-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một con gấu nâu tên Backpack đã được \"trao vương miện\" (không phải vương miện thật) để trở thành nhà vô địch Tuần lễ Gấu Béo 2026 vào ngày 29 tháng 9."
+    },
+    {
+     "t": "p",
+     "text": "Tuần lễ Gấu Béo là một giải đấu diễn ra hằng năm. Cuộc thi được tổ chức trực tuyến thông qua Explore.org, một tổ chức phi lợi nhuận vận hành các camera quan sát thiên nhiên trực tiếp. Mọi người bình chọn cho con gấu nâu to béo mà họ yêu thích nhất, sống tại Công viên và Khu bảo tồn quốc gia Katmai ở Alaska. Giải đấu bắt đầu từ năm 2014 như một cách để giúp mọi người hiểu thêm về loài gấu nâu. Vào cuối mùa hè và đầu mùa thu, những con gấu này ăn cá hồi để tích mỡ, chuẩn bị cho giấc ngủ đông (hibernation). Trên trang web của mình, Explore.org viết: \"Những con gấu béo là những con gấu thành công.\""
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, việc bình chọn cho Tuần lễ Gấu Béo diễn ra từ ngày 22 đến 29 tháng 9. Nhà vô địch được chọn ra từ 16 con gấu. Cuối cùng, Gấu số 89, có biệt danh là Backpack, đã nhận được nhiều phiếu bầu nhất. Hơn 100.000 người đã chọn nó làm nhà vô địch của mình."
+    },
+    {
+     "t": "p",
+     "text": "Tên Backpack (có nghĩa là \"ba lô\") được đặt theo thói quen của nó khi còn là gấu con, thường trèo lên lưng mẹ để được cõi đi. Hiện nay nó đã 20 tuổi và nặng khoảng 450 đến 545 kg. Nó được biết đến với tính cách hiền lành. \"Không giống như nhiều con gấu đực lớn khác, Backpack không hề thể hiện nhiều sự hung hăng với các đối thủ của mình,\" hồ sơ giới thiệu nó trong cuộc thi viết, và cho biết thêm rằng nó được biết đến với \"sức mạnh thầm lặng.\""
+    }
+   ]
+  },
+  {
+   "id": "07910a9d2ed1",
+   "order": 8,
+   "slug": "dan-co-hang-nghin-con-xuat-hien-o-trung-tam-tp-hue",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Đàn cò hàng nghìn con xuất hiện ở trung tâm TP Huế",
+   "sapo": "TP Huế Hàng nghìn con cò trắng bất ngờ xuất hiện, đậu kín cánh đồng lúa ở phường Thủy Xuân, thu hút người dân đến xem, chụp ảnh.",
+   "author": "Tuấn Anh - Nhật Ánh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/dan-co-hang-nghin-con-xuat-hien-o-trung-tam-tp-hue-5129671.html",
+   "published": "2026-10-08T00:28:18+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 325,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/07910a9d2ed1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-08/07910a9d2ed1-0.jpg",
+     "caption": "Đàn cỏ xuất hiện trên cánh đồng Bàu Vá, chiều 7/10. Ảnh: Nhật Ánh",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-08/07910a9d2ed1-1.jpg",
+     "caption": "Một góc cánh đồng Bàu Vá, chiều 7/10. Ảnh: Nhật Ánh",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "TP Huế Hàng nghìn con cò trắng bất ngờ xuất hiện, đậu kín cánh đồng lúa ở phường Thủy Xuân, thu hút người dân đến xem, chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Chiều 7/10, hàng nghìn con cò trắng bay thành từng đàn lớn, sà xuống ruộng lúa mới gặt xong kiếm ăn hoặc đậu trên bờ cỏ, hàng cây tại cánh đồng Bàu Vá, phường Thuỷ Xuân. Cánh đồng nằm giữa khu dân cư, cách trung tâm TP Huế khoảng 1 km."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo người dân địa phương, cò bắt đầu xuất hiện ba ngày trước, tập trung đông vào sáng sớm và chiều muộn để kiếm ăn. Đây là lần đầu người dân ghi nhận đàn cò ước tính hàng nghìn con cùng xuất hiện tại khu vực này."
+    },
+    {
+     "t": "p",
+     "text": "Khi có người hoặc phương tiện đi qua, đàn cò đồng loạt bay lên, chao lượn thành từng nhóm lớn trên không, thu hút người dân đến xem, chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Nhật Ánh, 26 tuổi, dân địa phương, cho biết xem được video về đàn cò trên mạng xã hội nên đến cánh đồng để tận mắt chứng kiến và chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi từng thấy cò ở Lăng Cô, nhưng đây là lần đầu thấy đàn cò nghìn con giữa thành phố, rất thú vị\", Nhật Ánh nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cò trắng (tên khoa học Egretta garzetta) là loài chim thuộc họ Diệc, thường sinh sống tại các vùng đất ngập nước, ruộng đồng, bãi triều, ven sông và ven biển. Thức ăn của chúng chủ yếu là cá nhỏ, ếch, nhái, giáp xác và côn trùng. Sau mùa gặt, những cánh đồng còn nguồn thức ăn tự nhiên thường trở thành nơi kiếm ăn, nghỉ chân của nhiều loài chim."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện UBND phường Thủy Xuân, cho biết địa phương đang lên phương án bảo vệ đàn cò bằng hình thức tuyên truyền, vận động người dân không săn bắt, đặt bẫy hoặc xua đuổi chim."
+    }
+   ]
+  },
+  {
+   "id": "4f1b1d7d8756",
+   "order": 9,
+   "slug": "dan-ca-heo-uoc-tinh-1-000-con-xuat-hien-gan-dao-phu-quy",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Đàn cá heo ước tính 1.000 con xuất hiện gần đảo Phú Quý",
+   "sapo": "Lâm Đồng Sáng 6/10, người dân Phú Quý bắt gặp đàn cá heo ước tính khoảng 1.000 con cách Hòn Tranh khoảng một hải lý.",
+   "author": "Mai Phương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/dan-ca-heo-uoc-tinh-1-000-con-xuat-hien-gan-dao-phu-quy-5129547.html",
+   "published": "2026-10-07T10:09:16+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 355,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/4f1b1d7d8756-lead.jpg",
+     "caption": "",
+     "w": 897,
+     "h": 504
+    },
+    {
+     "src": "img/2026-10-08/4f1b1d7d8756-0.jpg",
+     "caption": "Anh Huỳnh Ka, người dân đảo Phú Quý, ghi lại cảnh đàn cá heo sáng 6/10. Nguồn: Huỳnh Ka",
+     "w": 1080,
+     "h": 1920
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lâm Đồng Sáng 6/10, người dân Phú Quý bắt gặp đàn cá heo ước tính khoảng 1.000 con cách Hòn Tranh khoảng một hải lý."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 10h ngày 6/10, anh Phạm Hiệp cùng Huỳnh Ka, người dân trên đảo Phú Quý, đi đánh bắt cá trên vùng biển gần Hòn Tranh, phát hiện đàn cá heo lớn bơi gần tàu. Đàn cá trải rộng trên khu vực khoảng 1-2 km, ước tính gần 1.000 con."
+    },
+    {
+     "t": "p",
+     "text": "\"Suốt 30 năm đi biển ở Phú Quý, tôi chưa từng thấy đàn cá heo nào đông thế này\", anh Hiệp nói, cho biết đàn cá đông gấp 2-3 lần những đàn thường xuất hiện quanh đảo."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Hiệp và Ka, cá heo không phải loài hiếm gặp trên vùng biển Phú Quý. Loài này thường xuất hiện từ tháng 3 đến tháng 6 khi biển êm, thời tiết thuận lợi và tàu có thể đi xa bờ. Hồi tháng 4, một số người đi biển từng gặp đàn cá ước tính 300-400 con. Từ tháng 9, cá heo ít xuất hiện hơn nên đàn gần 1.000 con này khiến những người đi biển chú ý."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 7/10, anh Hiệp cho biết đàn cá heo đã di cư khỏi khu vực anh bắt gặp một ngày trước. Anh cho rằng điều kiện môi trường biển thuận lợi, cùng nguồn thức ăn dồi dào khiến cá heo tập trung về vùng biển Phú Quý để săn mồi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cùng thời điểm đàn cá heo xuất hiện, nhóm của anh Hiệp còn thấy 1-2 con cá voi xanh trên vùng biển này. Từ tháng 3 đến nay, anh Hiệp cho biết đã gặp cá voi xanh quanh Phú Quý bốn lần. Con lớn nhất anh từng thấy dài hơn 10 m và ước tính nặng 5-7 tấn."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện UBND đặc khu Phú Quý cho biết các trường hợp ghi nhận cá heo, cá voi quanh đảo thời gian qua chủ yếu do người dân đi biển tình cờ bắt gặp. Địa phương hiện chưa có tour hay dịch vụ chuyên tổ chức đưa khách ra biển ngắm cá heo."
+    }
+   ]
+  },
+  {
+   "id": "391c0e2a351f",
+   "order": 10,
+   "slug": "dan-hac-co-trang-quy-hiem-kiem-an-o-vuon-quoc-gia-yok-don",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Đàn hạc cổ trắng quý hiếm kiếm ăn ở Vườn quốc gia Yok Đôn",
+   "sapo": "Một đàn hạc cổ trắng 9 cá thể quý hiếm bất ngờ xuất hiện ở bãi cỏ thuộc địa phận Vườn quốc gia Yok Đôn (Đắk Lắk).",
+   "author": "LÊ TRUNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/dan-hac-co-trang-quy-hiem-kiem-an-o-vuon-quoc-gia-yok-don-10026100712370444.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 500,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/391c0e2a351f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/391c0e2a351f-0.jpg",
+     "caption": "Đàn hạc cổ trắng quý hiếm xuất hiện trong Vườn quốc gia Yok Đôn - Ảnh: Vườn quốc gia Yok Đôn",
+     "w": 1280,
+     "h": 704
+    },
+    {
+     "src": "img/2026-10-08/391c0e2a351f-1.jpg",
+     "caption": "Đàn hạc cổ trắng đáp xuống bãi cỏ tìm thức ăn - Ảnh: Vườn quốc gia Yok Đôn",
+     "w": 1280,
+     "h": 816
+    },
+    {
+     "src": "img/2026-10-08/391c0e2a351f-2.jpg",
+     "caption": "Hạc cổ trắng nổi bật với phần cổ xù lông màu trắng tương phản với bộ lông thân và cánh màu đen bóng - Ảnh: Vườn quốc gia Yok Đôn",
+     "w": 1232,
+     "h": 996
+    },
+    {
+     "src": "img/2026-10-08/391c0e2a351f-3.jpg",
+     "caption": "Đây là lần xuất hiện với số lượng cá thể nhiều nhất - Ảnh: Vườn quốc gia Yok Đôn",
+     "w": 1280,
+     "h": 865
+    },
+    {
+     "src": "img/2026-10-08/391c0e2a351f-4.jpg",
+     "caption": "Chúng tìm thức ăn ở bãi cỏ gần suối - Ảnh: Vườn quốc gia Yok Đôn",
+     "w": 1280,
+     "h": 900
+    },
+    {
+     "src": "img/2026-10-08/391c0e2a351f-5.jpg",
+     "caption": "Hạc cổ trắng thuộc Nhóm IB, loài chim này có sải cánh từ 75 - 91cm - Ảnh: Vườn quốc gia Yok Đôn",
+     "w": 1280,
+     "h": 687
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 7-10, trao đổi với Tuổi Trẻ , ông Phạm Tuấn Linh - Giám đốc Vườn quốc gia Yok Đôn - cho hay đơn vị vừa ghi nhận một đàn hạc cổ trắng quý hiếm với 9 con xuất hiện tại địa phận vườn quốc gia này."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông, đây là loài chim quý hiếm đang đứng trước nguy cơ tuyệt chủng, trước đây cũng từng xuất hiện ở khu vực Vườn quốc gia Yok Đôn nhưng với số lượng ít. Đàn hạc cổ trắng lần này về nhiều nhất với 9 con."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi đàn hạc xuất hiện, đơn vị đã chỉ đạo các lực lượng canh chừng nghiêm ngặt để ngăn chặn kịp thời các hành vi xâm nhập, săn bắt trái phép."
+    },
+    {
+     "t": "p",
+     "text": "Ông Vũ Đức Giỏi - Phó giám đốc Trung tâm Giáo dục môi trường và Dịch vụ, Vườn quốc gia Yok Đôn - cũng cho biết đàn hạc này bay về địa phận vườn để tìm thức ăn vào sáng 6-10."
+    },
+    {
+     "t": "p",
+     "text": "Khu vực chúng tập trung tại bãi cỏ ở gần suối Đắk Rang trong Vườn quốc gia."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo ông, thức ăn chính của loài hạc này là cá nên chúng thường xuất hiện ở những vùng đầm lầy, ao hồ, sông suối."
+    },
+    {
+     "t": "p",
+     "text": "Khoảnh khắc đàn hạc đi trên bãi cỏ giữa rừng khộp ở Vườn quốc gia được anh Y Siêm H'Đơk, hướng dẫn viên của trung tâm chụp, quay video lại."
+    },
+    {
+     "t": "p",
+     "text": "Được biết khoảng 3 tháng trước, hạc cổ trắng từng xuất hiện nhưng chỉ lẻ tẻ từ vài con, lần này đàn hạc quay lại với số lượng lên tới 9 cá thể đều đã trưởng thành."
+    },
+    {
+     "t": "p",
+     "text": "Đây là tín hiệu vui cho thấy công tác bảo tồn của Vườn quốc gia ngày một tốt hơn, các loài động vật, chim xuất hiện với tần suất dày, số lượng nhiều hơn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hạc cổ trắng (Ciconia episcopus) là một loài chim trong họ Ciconiidae nổi bật với phần cổ xù lông màu trắng tương phản với bộ lông thân và cánh màu đen bóng. Đỉnh đầu của chúng có màu đen, mỏ đen với đầu mỏ màu đỏ đậm."
+    },
+    {
+     "t": "p",
+     "text": "Loài chim này có sải cánh từ 75 - 91cm, nhỏ hơn một chút so với các loài hạc khác."
+    },
+    {
+     "t": "p",
+     "text": "Hạc cổ trắng thuộc Nhóm IB - nhóm các loài động vật rừng đang bị đe dọa tuyệt chủng nghiêm trọng, được ưu tiên bảo vệ và nghiêm cấm khai thác, sử dụng vì mục đích thương mại."
+    },
+    {
+     "t": "p",
+     "text": "Loài chim định cư này có vùng phân bố hẹp, thỉnh thoảng được ghi nhận tại một số khu vực trảng ngập nước ở Tây Nguyên, Nam Bộ và Nam Trung Bộ."
+    },
+    {
+     "t": "p",
+     "text": "Về tập tính, đây là loài chim định cư, thường sống ở những vùng sình lầy, đất ngập nước, ven rừng và những nơi trống trải. Hạc cổ trắng khá nhát người, đòi hỏi sự kiên nhẫn và tinh tế từ các nhiếp ảnh gia để có thể ghi lại hình ảnh của chúng."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    }
+   ]
+  },
+  {
+   "id": "54e146392378",
+   "order": 11,
+   "slug": "vo-que-tra-bong-lam-nen-doi-luc-binh-khong-lo",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Vỏ quế Trà Bồng làm nên đôi lục bình 'khổng lồ'",
+   "sapo": "Từ vỏ của cây quế Trà Bồng (Quảng Ngãi), người thợ đã tạo ra đôi lục bình cao 1,5 m, trên đó chạm khắc hình ảnh cô gái, núi Thiên Ấn, chùa Minh Đức... như một cách kể câu chuyện về đất và người Quảng Ngãi.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/vo-que-tra-bong-lam-nen-doi-luc-binh-khong-lo-18526100710402659.htm",
+   "published": "2026-10-07T05:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 909,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/54e146392378-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-0.jpg",
+     "caption": "Đôi lục bình cao 1,5 m được làm từ vỏ quế tại Quảng Ngãi",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-1.jpg",
+     "caption": "Những người thợ đang hoàn thiện cặp lục bình bằng vỏ quế Trà Bồng",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-2.jpg",
+     "caption": "",
+     "w": 843,
+     "h": 577
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 876
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-4.jpg",
+     "caption": "",
+     "w": 855,
+     "h": 580
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-5.jpg",
+     "caption": "Nhiều người đến thưởng lãm cặp lục bình cao 1,5 m làm bằng vỏ quế",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-08/54e146392378-6.jpg",
+     "caption": "Đôi lục bình này dự kiến sẽ được giới thiệu tại các hội chợ OCOP, sự kiện và triển lãm trong, ngoài tỉnh Quảng Ngãi",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đôi lục bình đặt trong xưởng sản xuất của Công ty TNHH Hương Quế Trà Bồng (Quảng Ngãi) gây chú ý bởi kích thước lớn. Từ chất liệu vốn thường được dùng làm những sản phẩm mỹ nghệ nhỏ, người thợ lần đầu thử sức với đôi lục bình cao 1,5 m, đòi hỏi nhiều công đoạn xử lý, tạo dáng và ghép vỏ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Từ vỏ quế thành lục bình cao 1,5 m"
+    },
+    {
+     "t": "p",
+     "text": "Theo những người thợ tại cơ sở, nguyên liệu làm lục bình được lựa chọn từ vỏ của những cây quế lâu năm, thân thẳng, lớp vỏ đẹp và có độ dày phù hợp. Sau khi thu hoạch, vỏ quế được xử lý, tạo dáng, sau đó ghép từng lớp để định hình thân bình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Khi phần khung cơ bản hoàn thiện, người thợ tiếp tục chạm khắc họa tiết lên lớp vỏ quế. Đây là công đoạn đòi hỏi sự tỉ mỉ bởi chất liệu tự nhiên có đặc tính riêng, dễ ảnh hưởng đến đường nét nếu xử lý không khéo. Đôi lục bình cao 1,5 m cũng là sản phẩm có kích thước lớn nhất mà cơ sở này từng thực hiện từ vỏ quế."
+    },
+    {
+     "t": "p",
+     "text": "Bà Trần Thị Phương, một thợ làm việc tại cơ sở gần 10 năm, cho biết việc tham gia thực hiện sản phẩm lần này mang lại cho bà cảm giác đặc biệt."
+    },
+    {
+     "t": "p",
+     "text": "\"Lần đầu tiên cơ sở làm lục bình lớn. Tôi rất vui và tự hào khi được tham gia làm sản phẩm này\", bà Phương chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trên nền vỏ quế, người thợ chạm khắc hình ảnh cô gái bên bó quế, núi Thiên Ấn, sông Trà, chùa Minh Đức"
+    },
+    {
+     "t": "p",
+     "text": "Nếu kích thước tạo ấn tượng ngay từ đầu, các họa tiết trên thân bình lại là phần khiến sản phẩm khác biệt. Trên nền vỏ quế, người thợ chạm khắc hình ảnh cô gái bên bó quế, núi Thiên Ấn, sông Trà , chùa Minh Đức cùng những hình ảnh gợi nhắc về Quảng Ngãi."
+    },
+    {
+     "t": "h",
+     "text": "Để cây quế kể chuyện quê hương"
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Đức Lương, Giám đốc Công ty TNHH Hương Quế Trà Bồng, cho biết trước đây cơ sở chủ yếu sản xuất những chiếc lục bình nhỏ từ vỏ quế. Việc làm sản phẩm kích thước lớn là cách cơ sở tạo sự khác biệt, đồng thời giúp giới thiệu rõ hơn giá trị của cây quế Trà Bồng."
+    },
+    {
+     "t": "p",
+     "text": "“Lúc trước làm lục bình nhỏ, giờ làm lớn. Tôi muốn mọi người biết nhiều hơn về cây quế ở Quảng Ngãi”, ông Lương nói."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Lương, thời gian tới, cơ sở dự kiến đưa thêm nhiều hình ảnh, biểu tượng gắn với vùng đất quế vào sản phẩm, như cây quế cổ thụ, Quảng trường 28.8, Điện Trường Bà..."
+    },
+    {
+     "t": "p",
+     "text": "“Qua đó giới thiệu thêm nơi cây quế lớn lên, gắn bó với người dân và cuộc sống ở đây”, ông Lương chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Cách làm này giúp sản phẩm không chỉ dừng lại ở giá trị trang trí mà còn trở thành một cách kể chuyện về vùng đất. Mỗi hình ảnh được chạm khắc trên thân bình gợi nhắc một địa danh, một nét văn hóa hoặc một hình ảnh thân thuộc trong đời sống người dân Quảng Ngãi."
+    },
+    {
+     "t": "h",
+     "text": "Khi vỏ quế mang theo câu chuyện văn hóa"
+    },
+    {
+     "t": "p",
+     "text": "Từ lớp vỏ tưởng như chỉ là phần bỏ đi sau khi khai thác, qua bàn tay người thợ, quế được tạo thành những sản phẩm vừa có giá trị sử dụng, vừa mang dấu ấn của vùng đất."
+    },
+    {
+     "t": "p",
+     "text": "Đôi lục bình dự kiến được giới thiệu tại các hội chợ OCOP, sự kiện và triển lãm trong và ngoài tỉnh. Đây cũng là hướng đi mà cơ sở kỳ vọng có thể mở rộng nhằm nâng cao giá trị của nguồn nguyên liệu quế."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Quế Trà Bồng từ lâu gắn bó với đời sống của đồng bào Cor và được xem là một trong những sản vật đặc trưng của Quảng Ngãi. Cây quế không chỉ được sử dụng làm gia vị, dược liệu, tinh dầu mà còn được tận dụng để tạo ra nhiều sản phẩm thủ công, mỹ nghệ."
+    },
+    {
+     "t": "p",
+     "text": "Vùng quế Trà Bồng trước đây có khoảng 5.500 ha, sản lượng thu hoạch hằng năm dao động từ 1.800 - 2.000 tấn. Nhờ hàm lượng tinh dầu cao và hương thơm đặc trưng, quế được tiêu thụ trong nước và xuất khẩu sang một số thị trường như Trung Quốc, Pháp, Ấn Độ, Hàn Quốc..."
+    },
+    {
+     "t": "p",
+     "text": "Từ nguồn nguyên liệu này, người dân và các cơ sở sản xuất đã tạo ra nhiều sản phẩm như tinh dầu quế, tăm, nhang và các mặt hàng mỹ nghệ từ vỏ quế như bình, chén, hộp đựng trà."
+    },
+    {
+     "t": "p",
+     "text": "Đôi lục bình cao 1,5 m, vì thế, không chỉ là một thử nghiệm về kích thước. Đó còn là cách người làm quế tìm hướng khai thác sâu hơn giá trị của một loại nguyên liệu đặc trưng."
+    },
+    {
+     "t": "p",
+     "text": "Trên đôi lục bình, hương quế, màu sắc tự nhiên của vỏ cây cùng những hình ảnh về cảnh sắc, con người Quảng Ngãi được đặt cạnh nhau. Từ đó, lớp vỏ quế không chỉ còn mang giá trị của một loại nguyên liệu, mà trở thành chất liệu để kể câu chuyện về vùng đất nơi cây quế đã bén rễ, lớn lên và gắn bó với người dân qua nhiều thế hệ."
+    }
+   ]
+  },
+  {
+   "id": "a16401613962",
+   "order": 12,
+   "slug": "cau-be-danh-dum-129-000-dong-mua-qua-sinh-nhat-cha-viet-thu",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cậu bé dành dụm 129.000 đồng mua quà sinh nhật cha, viết thư khiến cha bật khóc",
+   "sapo": "Từ những đồng tiền ăn sáng mẹ cho mỗi ngày, cậu bé 13 tuổi âm thầm dành dụm 129.000 đồng để mua quà sinh nhật cho cha. Nhưng điều khiến người cha bật khóc lại là những dòng chữ con trai viết trong lá thư đặt trên hộp quà.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/cau-be-danh-dum-129000-dong-mua-qua-sinh-nhat-cha-viet-thu-khien-cha-bat-khoc-185261007095342531.htm",
+   "published": "2026-10-07T05:07:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 820,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/a16401613962-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/a16401613962-0.jpg",
+     "caption": "Bức thư cậu bé dán trên hộp quà",
+     "w": 1280,
+     "h": 985
+    },
+    {
+     "src": "img/2026-10-08/a16401613962-1.jpg",
+     "caption": "Món quà Til tặng cha là một máy massage cổ vai gáy",
+     "w": 960,
+     "h": 701
+    },
+    {
+     "src": "img/2026-10-08/a16401613962-2.jpg",
+     "caption": "Cậu bé Til và cha, anh nguyễn Ngọc Xe",
+     "w": 960,
+     "h": 721
+    },
+    {
+     "src": "img/2026-10-08/a16401613962-3.jpg",
+     "caption": "Gia đình bé Til",
+     "w": 720,
+     "h": 706
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Những ngày qua, một video ghi lại khoảnh khắc cậu bé 13 tuổi tặng quà sinh nhật cho cha nhận được nhiều sự quan tâm trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Nhân vật trong video là Nguyễn Mặc Til, học sinh Trường THCS-THPT Lý Văn Lâm (P.Lý Văn Lâm, tỉnh Cà Mau). Trong ngày sinh nhật cha, Til mang đến một món quà được chuẩn bị âm thầm từ tiền ăn sáng và đặt lên đó một lá thư viết tay."
+    },
+    {
+     "t": "p",
+     "text": "Video do mẹ cậu bé, chị Lê Phương Hằng, ngụ ở P.Lý Văn Lâm, tỉnh Cà Mau, đăng tải trên TikTok, thu hút gần 500.000 lượt xem. Nhiều người xúc động trước cách cậu bé thể hiện tình cảm với cha."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến vợ chồng chị Hằng bất ngờ là cả hai đều không biết con đã chuẩn bị món quà từ lúc nào."
+    },
+    {
+     "t": "h",
+     "text": "Cậu bé 13 tuổi dành dụm tiền ăn sáng mua quà cho cha"
+    },
+    {
+     "t": "p",
+     "text": "Cha Til, anh Nguyễn Ngọc Xe, làm công việc thu mua tôm thẻ công nghiệp. Công việc kinh doanh khiến vợ chồng anh thường xuyên bận rộn. Til cũng có lịch học ở trường và học thêm nên thời gian hai cha con dành cho nhau không quá nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Sinh nhật cha, Til muốn tạo một bất ngờ. Biết cha thường xuyên làm việc nhiều và hay đau mỏi vùng cổ vai gáy, cậu bé quyết định mua tặng cha một chiếc máy massage cổ vai gáy."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hằng kể mỗi ngày chị cho con 15.000 - 20.000 đồng để ăn sáng. Thay vì sử dụng hết số tiền này, Til âm thầm dành dụm từng chút một."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hằng và chồng đều không biết con đã tiết kiệm tiền mua quà cho cha. Đến khi món quà được trao, chị mới biết Til đã dành được 129.000 đồng."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng trên hộp quà còn có một món quà khác mà cha mẹ hoàn toàn không hay biết. Đó là lá thư Til tự tay viết."
+    },
+    {
+     "t": "p",
+     "text": "Trong thư, cậu bé chúc cha sinh nhật, mong cha luôn khỏe mạnh, vui vẻ, bình an và hạnh phúc. Til cũng cảm ơn cha vì luôn yêu thương, bảo vệ và đồng hành cùng mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "“Vì con rất thương cha nên muốn cho cha sự bất ngờ”, Til nói về lý do viết thư."
+    },
+    {
+     "t": "p",
+     "text": "Trong những điều cha từng làm cho mình, cậu bé nói rằng nhớ nhất việc anh Xe mua cần câu cá vì biết con rất thích câu cá. Và khi được hỏi muốn nói gì thêm với cha, Til chỉ trả lời ngắn gọn: “Cha là tất cả với con”."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hằng cho biết lúc đọc lá thư, ban đầu chị chỉ nghĩ đó là những lời chúc sinh nhật của con. Nhưng đến dòng “Cảm ơn cha đã luôn yêu thương, bảo vệ và cùng đồng hành cùng con”, chị nghẹn lại. “Lúc đó chị cũng muốn khóc rồi. Quay lên đã nhìn thấy bé đang khóc”, chị kể."
+    },
+    {
+     "t": "p",
+     "text": "Anh Xe sau đó mở món quà, đọc những dòng con viết. Người cha cũng bật khóc."
+    },
+    {
+     "t": "h",
+     "text": "Người cha ít nói lời yêu thương và cậu con trai không hay thể hiện tình cảm"
+    },
+    {
+     "t": "p",
+     "text": "Anh Xe cho biết bình thường anh không phải người thường xuyên nói những lời yêu thương với con, dù rất thương Til. “Anh sợ mình bộc lộ vậy thì con suy nghĩ mình được nuông chiều quá, không tốt cho con”, anh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Til cũng không thường xuyên thể hiện tình cảm bằng lời. Theo chị Hằng, con khá hiểu chuyện nhưng ít khi nói những câu tình cảm với cha mẹ, chủ yếu thể hiện sự quan tâm qua những hành động nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hằng kể, có lần chị mệt, con đi học về hỏi chị: “Mẹ có khỏe chưa?”. Với chị, chỉ một câu hỏi ngắn như vậy cũng đủ khiến mình xúc động."
+    },
+    {
+     "t": "p",
+     "text": "Hai cha con thường gắn bó qua những việc giản dị như cùng làm việc nhà, phơi đồ. Những lúc có thời gian, cả gia đình ngồi lại trò chuyện. Vợ chồng chị Hằng dạy con phân biệt điều đúng, điều sai; nếu làm sai thì sửa, điều tốt thì tiếp tục phát huy."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, món quà sinh nhật lần này khiến anh Xe cảm nhận rõ hơn sự trưởng thành của con trai. “Anh cảm thấy có lẽ lần này con đã lớn và biết hiểu chuyện hơn rồi”, anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Người cha muốn nhắn với con: “Cha cảm ơn con rất nhiều và cha sẽ là người luôn luôn bảo vệ và đồng hành cùng con”."
+    },
+    {
+     "t": "p",
+     "text": "Còn chị Hằng mong khi con trưởng thành, Til vẫn nhớ những điều cha mẹ từng dạy từ nhỏ. “Tôi muốn sau này con lớn lên sẽ thấu hiểu hơn nữa. Nếu sau này con trưởng thành, tôi chỉ mong con nhớ những lời cha mẹ đã dạy từ nhỏ”, chị chia sẻ."
+    }
+   ]
+  },
+  {
+   "id": "b70764aea4f8",
+   "order": 13,
+   "slug": "vua-lam-doi-mat-cho-me-vua-ban-ca-kiem-song-nu-sinh-vinh-lon",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Vừa làm đôi mắt cho mẹ vừa bán cá kiếm sống, nữ sinh Vĩnh Long vẫn đậu đại học với 24,91 điểm",
+   "sapo": "Nữ sinh Vĩnh Long vượt lên khó khăn, làm đôi mắt cho mẹ, đậu ĐH Công Thương TP.HCM 2026. Hành trình học tập và làm việc đầy khâm phục!",
+   "author": "MẬU TRƯỜNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/vua-lam-doi-mat-cho-me-vua-ban-ca-kiem-song-nu-sinh-vinh-long-van-dau-dai-hoc-voi-2491-diem-100261007054514616.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1123,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/b70764aea4f8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/b70764aea4f8-0.jpg",
+     "caption": "Từ nhiều năm qua, đặc biệt là sau thời gian cha qua đời, Phúc làm mọi việc nặng trong nhà để đỡ đần cho người mẹ bị khiếm thị - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-08/b70764aea4f8-1.jpg",
+     "caption": "Nhà neo người, mẹ lại bị khiếm thị nên thời gian đối với Phúc rất quý giá, phải tận dụng bất kỳ lúc nào rảnh có được để học - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-08/b70764aea4f8-2.jpg",
+     "caption": "Hai mẹ con Phúc bên bữa cơm gia đình trước khi Phúc lên TP.HCM nhập học - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-08/b70764aea4f8-3.jpg",
+     "caption": "Dù phần lớn thời gian trong ngày Phúc phải lo làm việc, kiếm tiền phụ mẹ nhưng hễ có thời gian rảnh là lao vào học và suốt 12 năm đều đạt học sinh giỏi - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-08/b70764aea4f8-4.jpg",
+     "caption": "Trong những năm cấp III, dù phải bươn chải nhiều công việc nhưng kết quả học tập của Phúc không bao giờ bị giảm sút - Ảnh: MẬU TRƯỜNG",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-08/b70764aea4f8-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Cha qua đời, người mẹ khiếm thị băn khoăn có nên gửi con vào mái ấm?"
+    },
+    {
+     "t": "p",
+     "text": "Gia đình Phúc vốn thuần nông ở vùng đất thường xuyên nhiễm mặn. Ông Nguyễn Thanh Vũ (cha Phúc) là người chịu khó, ai thuê gì làm nấy. Có lúc ông vay vốn nuôi bò, có khi đi giữ vuông tôm thuê, cào nghêu mướn."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng làm lụng quanh năm vẫn không thoát được khó khăn. Những mảnh đất cuối cùng cũng lần lượt bị bán đi để trả nợ."
+    },
+    {
+     "t": "p",
+     "text": "Thế rồi năm 2022, người cha lam lũ ấy qua đời. Hạnh (chị gái Phúc) khi ấy 19 tuổi, Phúc còn nhỏ. Bà Nguyễn Thị Nghĩa (mẹ Phúc) lại khiếm thị, cuộc sống gia đình mong manh hơn bao giờ hết."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ lại những ngày ấy, điều bà Nghĩa lo nhất không phải mình sẽ sống ra sao mà là hai đứa con sẽ học hành thế nào. Hạnh vừa đậu đại học, Phúc cũng đang đi học."
+    },
+    {
+     "t": "p",
+     "text": "Có lúc bà đã nghĩ đến việc gửi Phúc vào Làng trẻ em SOS Bến Tre để con có chỗ ăn học, hơn là \"sống với người mẹ mù như mình\". Nhưng bà con chòm xóm tìm đến giúp, người cho ít tiền, người cho gạo, người động viên. Nhờ vậy Hạnh tiếp tục chặng đường đại học ở TP.HCM, còn Phúc vẫn ở lại nhà với mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Cô con gái đang tuổi lớn giờ đây phải sớm trở thành \"đôi mắt\" cho mẹ và cáng đáng mọi việc trong nhà."
+    },
+    {
+     "t": "h",
+     "text": "Vừa là đôi mắt cho mẹ vừa \"vô địch làm thuê\" kiếm sống qua ngày"
+    },
+    {
+     "t": "p",
+     "text": "\"Những việc trước đây cha làm, nay tôi san sẻ cùng mẹ\", Phúc kể vậy."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài giờ học, cô chạy xe máy từ Ba Tri qua Bình Đại lấy cá về bán. Có lúc Phúc còn lấy bột từ chỗ này đem đi bán chỗ khác, khi lại tìm được việc ở căng tin trường Phúc cũng không bỏ qua, miễn \"việc gì kiếm được tiền đàng hoàng đều làm hết\"."
+    },
+    {
+     "t": "p",
+     "text": "Người mẹ không thấy đường cũng không chịu ngồi yên. Bà chỉ mong con không nản chí bỏ học giữa chừng. Mỗi ngày bà lấy khoảng 50 tờ vé số đi bán, dò dẫm bước vào nhà người lạ. Với một người không nhìn thấy đường, đi bán vé số ở vùng quê đâu phải chuyện dễ dàng."
+    },
+    {
+     "t": "p",
+     "text": "Khi thấy sức khỏe cho phép, bà đi cào nghêu thuê song công việc này không thường xuyên. Rồi người mẹ ấy mở một tiệm tạp hóa nhỏ nhưng cũng thật sự khó khăn khi không nhìn thấy gì. Cuối cùng, hai mẹ con chủ yếu trông cậy vào những khoản trợ cấp ít ỏi."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Học giỏi thầy cô \"nể\" dù lúc nào cũng thiếu thời gian"
+    },
+    {
+     "t": "p",
+     "text": "Trong tờ đơn xin học bổng Tiếp sức đến trường, Phúc tự viết một câu khiến người đọc có thể hình dung gần như đầy đủ tuổi thơ và những năm tháng học hành của mình: \"Vì mẹ tôi là người khiếm thị nên khi học về tôi giúp mẹ làm công việc nhà. Người đứng ra bảo vệ và là đôi mắt cho mẹ\"."
+    },
+    {
+     "t": "p",
+     "text": "18 tuổi, cái tuổi mà nhiều bạn trẻ vẫn đang sống trong sự bao bọc của người thân thì với Phúc, cô bạn đã quen với việc tính toán từng giờ trong ngày. Sau mỗi buổi học, Phúc tranh thủ làm bài ngay ở trường hoặc nhẩm lại bài học trên đường về để đến nhà có thể phụ mẹ những việc khác."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian bán cá, làm căng tin… đều căng như dây đàn nên bạn cũng chắt chiu từng phút một. \"Tôi thấy thời gian của mình rất quý. Nếu tranh thủ học xong ở trường thì về nhà tôi có thêm thời gian làm việc giúp mẹ\", Phúc tính toán."
+    },
+    {
+     "t": "p",
+     "text": "Suốt 12 năm học, cô học trò ấy đều đạt danh hiệu học sinh giỏi. Thấy cô học trò nhà nghèo ham học, các thầy cô dạy thêm môn lý, hóa còn cho Phúc học miễn phí. Câu chuyện của hai chị em Hạnh - Phúc nhiều lần được thầy cô ở trường nhắc đến như tấm gương để động viên các học sinh có hoàn cảnh khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, Phúc trúng tuyển ngành kế toán Trường đại học Công Thương TP.HCM với 24,91 điểm. Ngày nhận tin đậu đại học, niềm vui có nhưng bà Nghĩa lại lo nhiều hơn. Bà biết trên thành phố một bữa cơm, một chỗ trọ, một chuyến xe hay một cuốn sách cái gì cũng cần đến tiền."
+    },
+    {
+     "t": "p",
+     "text": "Bà chép miệng nói ở quê khó khăn quá còn nương nhờ bà con hàng xóm. Rồi có con cá, con khô, bó rau người này cho người kia chứ trên thành phố chắc cũng khó được vậy!"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Không để ai lo cho mình, tự vay tiền đi học"
+    },
+    {
+     "t": "p",
+     "text": "Phúc không chờ mẹ giải quyết nỗi lo. Những năm học cấp III, Phúc đã nhiều lần nhận được học bổng. \"Có khoản tiền, tôi dành dụm để đóng học phí. Đầu năm học đại học, tôi cũng xoay xở vay mượn thêm để đóng khoản học phí ban đầu\", cô bạn kể."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Phúc hiểu đó mới chỉ là khoản tiền cho bước đầu tiên. Phía trước là cả một quãng đường dài. Tiền học mỗi học kỳ, tiền trọ, tiền ăn, tiền đi lại, cô chỉ có chỗ dựa chính là bản thân mình."
+    },
+    {
+     "t": "p",
+     "text": "Ông Trần Thanh Nhàn - Bí thư ấp Thạnh Thới, xã Bảo Thạnh (tỉnh Vĩnh Long) - cho biết gia đình bà Nguyễn Thị Nghĩa là 1 trong 8 hộ nghèo trên địa bàn ấp."
+    },
+    {
+     "t": "p",
+     "text": "\"Dù hoàn cảnh còn nhiều khó khăn là vậy nhưng các con của bà là Nguyễn Thị Mỹ Hạnh và Nguyễn Thị Phúc ham học và học rất giỏi\", ông Nhàn nói."
+    },
+    {
+     "t": "p",
+     "text": "Phúc tìm đến học bổng Tiếp sức đến trường của báo Tuổi Trẻ, đăng ký hồ sơ như một cách tìm đường. Trong đơn xin học bổng, Phúc viết vì là một học sinh khó khăn nên rất hiểu những học sinh có hoàn cảnh giống mình. Và chỉ mong \"sau này có khả năng muốn quay về giúp các em dù chỉ là chiếc cặp hay chiếc xe đạp đến trường\"."
+    },
+    {
+     "t": "p",
+     "text": "Chắc chắn Phúc sẽ làm được, một ngày nào đó Phúc nhất định sẽ thành cử nhân kế toán, làm nguồn sáng cho chính mình và cho mẹ, sẽ mua được cho những đứa trẻ khó khăn một chiếc cặp, một chiếc xe đạp như ước nguyện hôm nay. Chúng ta có thể tin điều ấy khi nhìn vào cách Phúc đã nỗ lực từng ngày ở tuổi 18."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    }
+   ]
+  },
+  {
+   "id": "e6e50e8cec28",
+   "order": 14,
+   "slug": "tran-tien-nhac-va-doi-suyt-khoi-nghiep-voi-nghe-ban-pho",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Trần Tiến, nhạc và đời: Suýt khởi nghiệp với nghề… bán phở",
+   "sapo": "Nhắc đến nhạc sĩ Trần Tiến, khán giả yêu nhạc nhiều thế hệ nhớ ngay Sao em nỡ vội lấy chồng, Tạm biệt chim én, Chiếc vòng cầu hôn, Mặt trời bé con, Giấc mơ Chapi, Vết chân tròn trên cát, Ngẫu hứng sông Hồng, Sắc màu… Những câu chuyện đời, chuyện nghề, suy ngẫm của người nhạc sĩ tài hoa này gắn với những sáng tác của ông và những giai đoạn lịch sử đặc biệt của đất nước đã được ông kể lại trong cuốn sách Trần Tiến - người hát thơ mình. Thanh Niên trân trọng giới thiệu một số đoạn trích của tác phẩm đến độc giả.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tran-tien-nhac-va-doi-suyt-khoi-nghiep-voi-nghe-ban-pho-185261007225001099.htm",
+   "published": "2026-10-08T01:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 908,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/e6e50e8cec28-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/e6e50e8cec28-0.jpg",
+     "caption": "Nhạc sĩ Trần Tiến lúc nhỏ",
+     "w": 1024,
+     "h": 1484
+    },
+    {
+     "src": "img/2026-10-08/e6e50e8cec28-1.jpg",
+     "caption": "Nhạc sĩ Trần Tiến và nhạc sĩ Trịnh Công Sơn",
+     "w": 1024,
+     "h": 704
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tôi sinh vào một ngày tháng 5.1947 trong một gia đình khá giả ở Hà Nội. Trong một trận càn lớn của quân Pháp, cả nhà tôi tản cư về Sơn Tây. Mẹ kể tôi chào đời trên một ngọn đồi cạnh dòng sông Đáy trong tiếng súng đạn đì đùng."
+    },
+    {
+     "t": "p",
+     "text": "Ngày giải phóng thủ đô tôi mới lên bảy, còn mê đánh khăng, đánh đáo... Tuổi thơ tôi gắn liền với ngôi trường nhỏ ở phố Sinh Từ cùng những ngày trốn học lang thang ở Quốc Tử Giám. Tôi học hành trung bình, giỏi toán, hóa và ước mơ trở thành một nhà khoa học. Căn phòng bé tẹo của tôi thời ấy còn ghi lại dấu tích của bao \"công trình thí nghiệm\". Tôi cũng thích lang thang trên các vỉa hè, mơ mộng, ngồi hàng giờ nhìn nước chảy trong cống, tưởng tượng chúng là những dòng sông nhỏ xíu, gấp những chiếc thuyền giấy thả trên \"sông\" và tin rằng có một ngày nó sẽ trôi ra biển."
+    },
+    {
+     "t": "h",
+     "text": "Thương cha chí lớn không thành"
+    },
+    {
+     "t": "p",
+     "text": "Cha tôi là nhà giáo, ông từng học Trường Bưởi, rồi học sư phạm cùng cụ Võ Nguyên Giáp. Ra trường, ông được bổ về Trường Phan Thiết, sau này làm đốc học ở Trường Hàng Than. Cụ Giáp từng kể lại rằng, hai ông hay đá cầu cùng nhau và cụ đã từng rủ cha tôi lên chiến khu. Khi ấy, cha tôi một vợ, tám con, sợ không ai nuôi nên đành bỏ lỡ cơ hội. Sau này tôi viết bài hát có đoạn: \"... Thương cha chí lớn không thành. ..\" là vậy."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thật buồn là tôi mồ côi cha khi mới tròn sáu tuổi. Mẹ tôi từng là tiểu thư con nhà giàu ở phố Hàng Lọng. Năm 1954, gia đình tôi bắt đầu sa sút. Cũng như bao đứa trẻ trong những năm tháng khó khăn ấy, tôi bắt đầu lăn lộn làm đủ mọi việc để kiếm sống."
+    },
+    {
+     "t": "p",
+     "text": "Ngôi nhà lớn của gia đình tôi ở gần ga Hàng Cỏ được dùng làm quán trọ Bồ Câu Trắng. Mẹ tôi được nhận một chân làm nhân viên phục vụ. Mười bốn tuổi, tôi giúp mẹ làm đủ mọi việc, giặt chăn màn, dọn dẹp phòng ốc, ghi chép sổ sách... Đêm nào cũng phải thức khuya để đón khách, đôi mắt tôi ngày ấy lúc nào cũng thâm quầng và mỗi sáng đến lớp, tôi đều ngủ gật. Sớm tiếp xúc với đủ hạng người ở quán trọ ngoài ga: nghiện hút, đĩ điếm, cướp giật, cờ bạc..., tôi sớm nhìn thấy bao số phận và những kiếp người ở tận đáy xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Sớm bươn chải nên tôi rất dạn dĩ và tự luyện cho mình một cách sống không sợ hãi và không chịu khuất phục trước khó khăn của cuộc đời. Nhiều phen tôi còn đánh lộn ra trò cùng đám trẻ đường phố vì chuyện mưu sinh."
+    },
+    {
+     "t": "h",
+     "text": "Được truyền nghề nấu phở"
+    },
+    {
+     "t": "p",
+     "text": "Sau này, mẹ chuyển về cửa hàng phục vụ ăn uống, chuyên bán phở, tôi lại lẽo đẽo theo mẹ đi rửa bát thuê, nắm than, rửa thùng nấu phở... Mỗi ngày, tôi thường phải chui vào thùng nấu phở to đùng để cọ rửa, mùi xương bò nhiều khi làm tôi buồn nôn. Khi ấy, tôi lại tìm những bài hát của Nga (rất thịnh hành ngày ấy) để nghêu ngao cho đỡ chán. Thấy tôi thật thà, chăm chỉ, ông Cồ Cử - chuyên nấu phở ở cửa hàng - rất quý tôi, truyền cho bí quyết nấu phở gia truyền (sau này có lúc tôi còn đi dạy nấu phở)."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Lý do là có lần ông kiểm tra đột xuất tô phở không thịt (phở không người lái) dành miễn phí cho nhân viên cửa hàng được ăn mỗi sáng, thấy tô nào cũng giấu thịt bên dưới. Riêng hai mẹ con tôi thì không, không ăn trộm thịt của cửa hàng. Ông ấy quý và truyền bí quyết cho tôi. Các con ông ấy lại không có được nhân duyên ấy."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ tiếc tôi đã không nối nghiệp ông, lại bỏ đi làm nhạc sĩ. Thấy tôi còn trẻ, ham làm, cửa hàng trưởng cử tôi đi học việc ở Phú Gia - cửa hàng ăn có tiếng và sang trọng ở Hà Nội, sau đó còn định đưa tôi đi đào tạo để thành đầu bếp chuyên nghiệp. Nghe tin, tôi hoảng quá bỏ việc, bỏ cả tháng lương chưa lĩnh."
+    },
+    {
+     "t": "p",
+     "text": "Tốt nghiệp lớp 10, vốn giỏi toán, văn và hóa, tôi thi đại học đỗ đầu, nhưng học được một năm thì gia đình gặp chuyện tai ương nên phải nghỉ học. Nhờ người quen xin làm công nhân ở Nhà máy Cao su Sao Vàng cũng không được, tôi đi lang thang khắp nơi, nhận làm bất cứ công việc gì để kiếm được tiền giúp mẹ, nuôi em, từ phụ hồ, thợ sơn, quét dọn thùng ủ rượu... cho tới đi đẩy xe bò, kéo nứa ngoài đê sông Hồng... Tóm lại là khi ấy có việc gì thì làm việc đó để mưu sinh, giống như ở \"chợ người\" ngồi la liệt phố Giảng Võ, Hà Nội sau này. (còn tiếp) ."
+    },
+    {
+     "t": "p",
+     "text": "(Nhà báo Việt Hà chấp bút. Trích từ sách Trần Tiến - Người hát thơ mình do Đông A và NXB Hội Nhà văn ấn hành)"
+    }
+   ]
+  },
+  {
+   "id": "105f27b6b79e",
+   "order": 15,
+   "slug": "trung-quoc-khu-du-lich-cho-khach-xuyen-khong-tham-gia-danh-t",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Trung Quốc: Khu du lịch cho khách “xuyên không”, tham gia đánh trận ném đá",
+   "sapo": "(Dân trí) - Không chỉ đứng xem các màn tái hiện chiến trận, du khách tại một công viên chủ đề ở thành phố Khai Phong, tỉnh Hà Nam, Trung Quốc còn có thể",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/trung-quoc-khu-du-lich-cho-khach-xuyen-khong-tham-gia-danh-tran-nem-da-20261006000126511.htm",
+   "published": "2026-10-07T02:51:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 523,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/105f27b6b79e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/105f27b6b79e-0.jpg",
+     "caption": "Nhiều hoạt động tương tác khiến du khách thích thú (Ảnh: China Hubei).",
+     "w": 1080,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-08/105f27b6b79e-1.jpg",
+     "caption": "Du khách mặc cổ trang trong khu du lịch (Ảnh: China Hubei).",
+     "w": 1080,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-08/105f27b6b79e-2.jpg",
+     "caption": "Du khách tham gia \"trận chiến ném đá\" ở khu du lịch (Ảnh: Sohu).",
+     "w": 1080,
+     "h": 721
+    },
+    {
+     "src": "img/2026-10-08/105f27b6b79e-3.jpg",
+     "caption": "Du khách tham gia cưỡi ngựa tại khu du lịch (Ảnh: China Hubei).",
+     "w": 1080,
+     "h": 721
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Không chỉ đứng xem các màn tái hiện chiến trận, du khách tại một công viên chủ đề ở thành phố Khai Phong, tỉnh Hà Nam, Trung Quốc còn có thể trực tiếp tham gia vào các tình huống nhập vai."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động này diễn ra tại Thanh Minh Thượng Hà Đồ (Qingming Riverside Landscape Garden, Công viên ven sông Thanh Minh), còn được biết đến với tên Millennium City Park."
+    },
+    {
+     "t": "p",
+     "text": "Đây là công viên văn hóa - lịch sử lấy cảm hứng từ danh họa nổi tiếng Trung Quốc Thanh Minh Thượng Hà Đồ của họa sĩ Trương Trạch Đoan, mô tả đời sống đô thị phồn hoa ở Đông Kinh, kinh đô nhà Bắc Tống."
+    },
+    {
+     "t": "p",
+     "text": "Không gian trong công viên được thiết kế nhằm tái hiện kiến trúc, đường phố, sông nước và đời sống của thành phố này."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thay vì chỉ tái hiện lịch sử qua những sân khấu cố định, mô hình này biến cả khuôn viên thành không gian diễn xuất, nơi du khách có thể vừa tham quan, vừa hóa thân và tương tác với các nhân vật."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những điểm nhấn tại đây là các chương trình tái hiện chiến trận, trong đó có Đại Tống - Trận chiến bảo vệ Đông Kinh."
+    },
+    {
+     "t": "p",
+     "text": "Theo trang giới thiệu của khu du lịch, chương trình được tổ chức tại khu vực mặt nước phía tây nam cầu Cửu Long, tái hiện không khí chiến đấu với sự tham gia của nhiều diễn viên và hiệu ứng sân khấu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo China Hubei , Thanh Minh Thượng Hà Đồ triển khai mô hình với hàng nghìn NPC (nhân vật tương tác), cho phép du khách lựa chọn nhiều thân phận khác nhau như hoàng đế, hoàng hậu, hiệp khách, tướng quân hay thường dân."
+    },
+    {
+     "t": "p",
+     "text": "Các NPC cũng tham gia vào những chủ đề tương tác như Đại Tống truyền kỳ, Cửu phẩm quan đồ, Đại Tống bách hí và Thanh Minh Thượng Hà Đồ, đưa du khách trực tiếp vào bối cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Trong một tình huống mô phỏng màn công thành, người tham gia được phát những khối đá làm từ xốp mềm để ném về phía các diễn viên hóa trang thành binh lính đang đứng trên cổng thành."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Những “viên đá” này được thiết kế bằng vật liệu mềm nhằm tạo cảm giác giống một cuộc giao tranh nhưng không gây đau khi va chạm. Các diễn viên vẫn giữ nguyên vai diễn, phản ứng theo tình huống và tiếp tục tương tác với du khách thay vì phá vỡ bối cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Một bài viết đăng trên Nhật báo Chiết Giang dẫn lời nhân viên cho biết khu du lịch đã thiết kế nhiều hoạt động tương tác, với mục tiêu để du khách “từ người đứng ngoài quan sát trở thành người tham gia”."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong một hoạt động khác, du khách thậm chí có thể lên ngựa, tham gia phần trải nghiệm tại thao trường và nhận “Đại Tống giao tử” - loại tiền quy ước của khu du lịch. Đến năm 2026, hình thức tương tác được mở rộng trên toàn khu."
+    }
+   ]
+  },
+  {
+   "id": "fff121a7d0b0",
+   "order": 16,
+   "slug": "trai-dep-keo-xe-xuyen-rung-tre-o-nhat-ban-dich-vu-gay-sot-ma",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng",
+   "sapo": "(Dân trí) - Giữa khu rừng tre nổi tiếng Arashiyama ở Kyoto (Nhật Bản), hình ảnh những chàng trai kéo xe chở khách len qua các con đường nhỏ đã trở thành một",
+   "author": "Ái Vy",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/trai-dep-keo-xe-xuyen-rung-tre-o-nhat-ban-dich-vu-gay-sot-mang-20261006105759457.htm",
+   "published": "2026-10-07T23:11:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 811,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-0.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 1",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-1.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-2.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 3",
+     "w": 1280,
+     "h": 1705
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-3.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 4",
+     "w": 1280,
+     "h": 1705
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-4.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 5",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-5.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 6",
+     "w": 1280,
+     "h": 855
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-6.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản (Ảnh: WAmazing).",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-7.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 8",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-8.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 9",
+     "w": 1280,
+     "h": 855
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-9.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 10",
+     "w": 1280,
+     "h": 856
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-10.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 11",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-10-08/fff121a7d0b0-11.jpg",
+     "caption": "“Trai đẹp kéo xe” xuyên rừng tre ở Nhật Bản: Dịch vụ gây sốt mạng - 12",
+     "w": 1074,
+     "h": 1432
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhiều du khách quốc tế gọi vui đây là dịch vụ “trai đẹp kéo xe”, bởi các tài xế thường sở hữu ngoại hình sáng, vóc dáng cao ráo, khỏe khoắn nói chuyện duyên dáng và đặc biệt rất biết cách chiều khách."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, phía sau những đoạn video tưởng như chỉ để “check-in sống ảo” lại là một nghề dịch vụ đòi hỏi thể lực cao, kỹ năng giao tiếp chuyên nghiệp và quá trình đào tạo khắt khe kiểu Nhật."
+    },
+    {
+     "t": "p",
+     "text": "Theo trang du lịch Senpai Japan , xe kéo du lịch (rickshaw hay jinrikisha) xuất hiện tại nhiều điểm tham quan ở Nhật Bản như Asakusa (Tokyo), Kamakura hay Yufuin. Tuy nhiên, Arashiyama - khu vực nằm phía tây Kyoto - vẫn được xem là nơi nổi tiếng nhất với loại hình này."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Khác với xe buýt hay taxi, xe kéo có thể đi sâu vào các con đường nhỏ, xuyên qua rừng tre Sagano, khu phố cổ hay những lối đi gần đền chùa mà phương tiện lớn khó tiếp cận. Chính điều này khiến nhiều du khách lựa chọn trải nghiệm xe kéo như một cách tận hưởng Kyoto theo nhịp chậm rãi hơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo The Kyoto Project , những người kéo xe - được gọi là “shafu” - không đơn thuần chỉ làm công việc vận chuyển khách. Họ còn đóng vai trò như hướng dẫn viên địa phương, giới thiệu lịch sử Kyoto, kể chuyện văn hóa, tư vấn quán ăn và hỗ trợ khách chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều tài xế có thể giao tiếp tiếng Anh cơ bản, thậm chí một số người còn trở nên nổi tiếng trên mạng nhờ phong cách nói chuyện hài hước, thân thiện với khách quốc tế."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, công việc này thực tế không hề nhẹ nhàng. Các “shafu” phải trải qua quá trình đào tạo kéo dài với nhiều nội dung như lịch sử Kyoto, kỹ năng giao tiếp, xử lý tình huống với khách nước ngoài, điều hướng xe và cả kỹ năng chụp ảnh."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ngoại hình sáng và khả năng giao tiếp tốt, yếu tố quan trọng nhất vẫn là thể lực. Các tài xế phải chạy bộ hàng chục km mỗi ngày, kéo theo xe cùng một hoặc hai hành khách, đặc biệt vào mùa du lịch cao điểm khi Kyoto chật kín khách quốc tế."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Truyền thông Nhật Bản từng phản ánh tình trạng du lịch quá tải tại Kyoto khiến ngành dịch vụ nơi đây thiếu hụt nhân lực nghiêm trọng."
+    },
+    {
+     "t": "p",
+     "text": "Trong bối cảnh đó, nghề kéo xe được xem là công việc có cường độ vận động rất cao và không phải ai cũng có thể theo đuổi lâu dài. Dù vậy, đây vẫn là công việc thu hút nhiều người trẻ bởi mức thu nhập khá hấp dẫn."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Để tới Arashiyama, du khách có thể đi tàu từ ga Kyoto tới ga Saga-Arashiyama trong khoảng 25-30 phút. Ngoài ra còn có tuyến đường sắt Hankyu hoặc xe buýt thành phố. Khu vực tập trung nhiều xe kéo nhất nằm gần cầu Togetsukyo - biểu tượng nổi tiếng của Arashiyama."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Nhiều khách du lịch chia sẻ thời điểm đẹp nhất để trải nghiệm là buổi sáng sớm, trước 9h, khi rừng tre còn khá vắng người. Sau khoảng 10h, khu vực này thường đông nghẹt du khách, đặc biệt vào mùa hoa anh đào và mùa lá đỏ."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Theo bảng giá đăng tải trên website chính thức của một hãng dịch vụ xe kéo, tour ngắn khoảng 12 phút có giá 4.000 yen (khoảng 667.000 đồng) cho một khách hoặc 5.000 yen (khoảng 834.000 đồng) nếu đi hai người chung xe."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Các gói dài hơn dao động từ 30 phút tới 3 giờ, giá khoảng 9.000-60.000 yen/xe (khoảng 1,5 triệu-10 triệu đồng). Nhiều du khách lựa chọn tour khoảng 60-70 phút để có thể đi qua hầu hết các điểm nổi bật ở Arashiyama như cầu Togetsukyo, rừng tre Sagano và khu phố cổ Saga."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Không ít du khách cho biết trải nghiệm xe kéo ở Arashiyama mang lại cảm giác “rất Nhật Bản”, từ cách tài xế cúi chào, trò chuyện nhẹ nhàng cho tới việc luôn chủ động tìm góc đẹp để chụp ảnh cho khách."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Xe kéo xuất hiện tại Nhật Bản từ cuối thế kỷ 19, trước khi dần biến mất khi ô tô phát triển. Ngày nay, phương tiện này không còn đóng vai trò đi lại thường nhật mà trở thành sản phẩm du lịch mang tính biểu tượng."
+    },
+    {
+     "t": "p",
+     "text": "Với nhiều du khách quốc tế, chuyến xe kéo xuyên qua rừng tre Kyoto không đơn thuần là một tour tham quan, mà còn là trải nghiệm kết hợp giữa cảnh đẹp, dịch vụ kiểu Nhật và cảm giác được chăm sóc tận tình theo phong cách “omotenashi” (nghệ thuật hiếu khách) nổi tiếng."
+    }
+   ]
+  },
+  {
+   "id": "4da4126fd348",
+   "order": 17,
+   "slug": "cho-thue-robot-do-chan-ho-tro-leo-nui-o-trung-quoc",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Cho thuê robot 'đỡ chân', hỗ trợ leo núi ở Trung Quốc",
+   "sapo": "Nghỉ lễ 30/4: Khu thắng cảnh Qiyun ở tỉnh An Huy, Trung Quốc, cho thuê hơn 20 robot khung xương hỗ trợ du khách khi lên dốc và giảm áp lực lên đầu gối lúc xuống núi.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/cho-thue-robot-do-chan-ho-tro-leo-nui-o-trung-quoc-post1688069.html",
+   "published": "2026-10-07T11:58:36+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 720,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/4da4126fd348-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/4da4126fd348-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-08/4da4126fd348-1.jpg",
+     "caption": "Trung Quốc ảnh 1",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-10-08/4da4126fd348-2.jpg",
+     "caption": "Trung Quốc ảnh 2",
+     "w": 1014,
+     "h": 676
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khu thắng cảnh Qiyun ở tỉnh An Huy, Trung Quốc, cho thuê hơn 20 robot khung xương hỗ trợ du khách khi lên dốc và giảm áp lực lên đầu gối lúc xuống núi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Du khách đeo robot khung xương leo núi tại khu thắng cảnh núi Qiyun, huyện Hưu Ninh, thành phố Hoàng Sơn, tỉnh An Huy, Trung Quốc, ngày 2/10."
+    },
+    {
+     "t": "p",
+     "text": "Trong kỳ nghỉ Quốc khánh (1-7/10) , khu thắng cảnh núi Qiyun ở huyện Hưu Ninh, thành phố Hoàng Sơn, tỉnh An Huy, cho khách thuê robot khung xương ngoài để hỗ trợ leo núi. Khu thắng cảnh hiện có hơn 20 thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thứ 2 của kỳ nghỉ, một số du khách trải nghiệm đeo robot trong lúc leo núi. Nhân viên khu thắng cảnh hướng dẫn cách đeo và sử dụng thiết bị trước khi bắt đầu hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Robot có trọng lượng nhẹ, được thiết kế để cảm nhận chuyển động của cơ thể. Khi lên dốc, thiết bị tạo lực hỗ trợ bước đi; lúc xuống dốc, robot có chức năng giảm chấn, giúp giảm áp lực lên đầu gối và hạn chế mỏi cơ chân."
+    },
+    {
+     "t": "p",
+     "text": "Dịch vụ được triển khai trong bối cảnh lượng người lựa chọn leo núi tại Qiyun tăng trong những năm gần đây, nhằm hỗ trợ khách di chuyển trên địa hình dốc với ít sức hơn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhân viên hướng dẫn du khách cách đeo robot khung xương tại khu thắng cảnh núi Qiyun, huyện Hưu Ninh, thành phố Hoàng Sơn, tỉnh An Huy, Trung Quốc, ngày 2/10."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, dịch vụ cho thuê khung xương trợ lực từng được triển khai tại núi Thái Sơn , tỉnh Sơn Đông, với giá khoảng 80 tệ (khoảng 300.000 đồng). Sản phẩm do Tập đoàn Du lịch Văn hóa Thái Sơn phối hợp Công ty Công nghệ Kenqing Technology ở Thâm Quyến giới thiệu, hướng tới hỗ trợ người cao tuổi và du khách khuyết tật khi leo núi."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị nặng khoảng 1,8 kg, đeo quanh eo và đùi, sử dụng cảm biến cùng trí tuệ nhân tạo để nhận biết tốc độ và chuyển động của chân. Robot sau đó cung cấp lực hỗ trợ, giảm áp lực lên chân và khớp gối. Sau một lần sạc, thiết bị có thể hoạt động liên tục khoảng 5 giờ, tương đương quãng đường khoảng 14 km."
+    },
+    {
+     "t": "p",
+     "text": "Núi Qiyun (Kỳ Vân Sơn) cách trung tâm thành phố Hoàng Sơn khoảng 33 km về phía Tây. Với độ cao khoảng 585 m so với mực nước biển, đây là một trong những ngọn núi Đạo giáo được xem là linh thiêng tại Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Khu thắng cảnh có các khối đá sa thạch đỏ, hang động, đền đài và văn bia cổ được khắc trên vách đá. Khu vực này cũng xuất hiện biển mây, tạo nên một trong những nét đặc trưng của cảnh quan núi Qiyun."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Toàn cảnh khu thắng cảnh núi Qiyun sau mưa, huyện Hưu Ninh, thành phố Hoàng Sơn, tỉnh An Huy, Trung Quốc, ngày 30/4."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ nghỉ Quốc khánh Trung Quốc, còn gọi là Tuần lễ vàng, kéo dài từ ngày 1 đến 7/10, nối tiếp kỳ nghỉ Trung thu cuối tháng 9. Nếu xin nghỉ thêm ba ngày làm việc, người lao động có thể kéo dài kỳ nghỉ lên 13 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Trong dịp này, nhiều nhà ga và điểm tham quan trên khắp Trung Quốc ghi nhận lượng người lớn. Hành lý xếp dài tại nhà ga, dòng người chờ trước các khu du lịch hay hành khách chen kín trên thang cuốn là những hình ảnh xuất hiện phổ biến trong những ngày đầu kỳ nghỉ."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    }
+   ]
+  },
+  {
+   "id": "9726dbf31582",
+   "order": 18,
+   "slug": "bao-tang-lich-su-quoc-gia-dia-chi-ky-uc-cua-dan-toc",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Bảo tàng Lịch sử quốc gia, 'địa chỉ ký ức' của dân tộc",
+   "sapo": "Năm 2026, năm đánh dấu một cột mốc đặc biệt của Bảo tàng Lịch sử quốc gia: tròn 80 năm kể từ ngày Chủ tịch Hồ Chí Minh lần đầu tiên đến thăm bảo tàng.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/bao-tang-lich-su-quoc-gia-dia-chi-ky-uc-cua-dan-toc-185261008090246111.htm",
+   "published": "2026-10-08T02:23:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1929,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/9726dbf31582-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/9726dbf31582-0.jpg",
+     "caption": "Chủ tịch Hồ Chí Minh xem bản dập mặt trống đồng Ngọc Lũ thuộc văn hóa Đông Sơn tại Viện Bảo tàng Lịch sử Việt Nam (nay là Bảo tàng Lịch sử quốc gia )",
+     "w": 476,
+     "h": 248
+    },
+    {
+     "src": "img/2026-10-08/9726dbf31582-1.jpg",
+     "caption": "Bảo tàng Lịch sử quốc gia có thể được nhìn nhận như một “địa chỉ ký ức” của quốc gia",
+     "w": 1000,
+     "h": 648
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ Quốc gia Bảo tàng Viện năm 1946 đến Bảo tàng Lịch sử quốc gia hôm nay, nơi đây không chỉ lưu giữ những chứng tích vật chất của lịch sử dân tộc, mà còn là một không gian đặc biệt lưu giữ ký ức về quá trình hình thành, bảo tồn và phát huy di sản văn hóa Việt Nam."
+    },
+    {
+     "t": "h",
+     "text": "Một thiết chế văn hóa được Chủ tịch Hồ Chí Minh đặc biệt quan tâm"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 23.11.1945, chỉ hơn 2 tháng sau ngày đọc bản Tuyên ngôn Độc lập , Chủ tịch Hồ Chí Minh ký Sắc lệnh 65 về bảo tồn cổ tích trên toàn cõi Việt Nam. Điều 4 của Sắc lệnh nêu rõ: “Bảo tồn tất cả cổ tích trong toàn cõi Việt Nam, cấm phá hủy đình, chùa, đền, miếu, các cổ vật, thành, quách, mộ, chiếu sắc, văn bằng… có ích cho lịch sử”."
+    },
+    {
+     "t": "p",
+     "text": "Trong hoàn cảnh đất nước vừa giành được độc lập, chính quyền cách mạng phải đối mặt với vô vàn khó khăn, việc một trong những sắc lệnh đầu tiên dành sự quan tâm đến bảo tồn di sản cho thấy tầm nhìn của Chủ tịch Hồ Chí Minh đối với lịch sử và văn hóa dân tộc."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với đó, Bảo tàng Louis Finot của Viện Viễn Đông Bác cổ Pháp, được xây dựng năm 1926, khánh thành năm 1932, được chuyển đổi thành Quốc gia Bảo tàng Viện trong những năm 1945 - 1946. Đây chính là tiền thân của Bảo tàng Lịch sử Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 9.2.1946, Chủ tịch Hồ Chí Minh đến dự khai mạc Triển lãm Những tài liệu lịch sử của văn hóa Việt Nam tổ chức tại Quốc gia Bảo tàng Viện. Đây là lần đầu tiên Người đến thăm nơi mà ngày nay thuộc Bảo tàng Lịch sử quốc gia ."
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Nguyễn Văn Cường, nguyên Giám đốc Bảo tàng Lịch sử quốc gia , sự kiện ấy mang ý nghĩa đặc biệt. Trong những ngày đầu của Nhà nước Việt Nam Dân chủ Cộng hòa, khi đất nước đang phải giải quyết nhiều vấn đề cấp bách, Chủ tịch Hồ Chí Minh vẫn dành sự quan tâm tới việc gìn giữ những chứng tích của lịch sử và văn hóa dân tộc."
+    },
+    {
+     "t": "p",
+     "text": "Bảo tàng vì thế không chỉ là nơi lưu giữ hiện vật mà còn được đặt trong mối quan hệ với việc giáo dục lịch sử, văn hóa và xây dựng ý thức về cội nguồn."
+    },
+    {
+     "t": "p",
+     "text": "Sau năm 1954, công tác xây dựng các thiết chế bảo tàng tiếp tục được Đảng và Chính phủ quan tâm. Bảo tàng Lịch sử Việt Nam được xây dựng trên cơ sở tiếp nhận cơ sở vật chất, tài liệu, hiện vật của Bảo tàng Louis Finot."
+    },
+    {
+     "t": "p",
+     "text": "Sau quá trình nghiên cứu, sưu tầm, bổ sung tài liệu, hiện vật và chuyển đổi nội dung từ bảo tàng nghệ thuật thành bảo tàng lịch sử, ngày 3.9.1958, Bảo tàng Lịch sử Việt Nam chính thức mở cửa đón khách."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 12.1954, tại một phiên họp Hội đồng Chính phủ do Chủ tịch Hồ Chí Minh chủ tọa, việc xây dựng một Viện Bảo tàng mang tên Viện Bảo tàng Cách mạng được thảo luận và quyết định. Ngày 5.1.1959, Người đến xem nội dung trưng bày trước khi Bảo tàng Cách mạng Việt Nam chính thức khánh thành ngày 6.1.1959."
+    },
+    {
+     "t": "p",
+     "text": "Hai bảo tàng quốc gia với những nội dung, bộ sưu tập và lịch sử hình thành riêng đã trở thành những thiết chế quan trọng trong việc lưu giữ ký ức dân tộc."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 26.9.2011, Bảo tàng Lịch sử quốc gia được thành lập theo Quyết định số 1674/QĐ-TTg của Thủ tướng Chính phủ trên cơ sở sáp nhập Bảo tàng Lịch sử Việt Nam và Bảo tàng Cách mạng Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Sự ra đời của Bảo tàng Lịch sử quốc gia là bước tiếp nối một hành trình lâu dài trong công tác sưu tầm, bảo quản, nghiên cứu và phát huy giá trị di sản. Qua đó, lịch sử dân tộc được nhìn nhận trong tính liên tục, từ những dấu tích văn hóa, lịch sử lâu đời đến quá trình đấu tranh giành độc lập, thống nhất đất nước, xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+     "t": "h",
+     "text": "Những lần Bác Hồ đến thăm và bài học còn nguyên giá trị"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt của Bảo tàng Lịch sử quốc gia là mối liên hệ sâu sắc với Chủ tịch Hồ Chí Minh. Trong quá trình hoạt động của hai bảo tàng tiền thân, Người đã 7 lần đến thăm, xem trưng bày, nói chuyện với cán bộ, góp ý về nội dung và phương pháp hoạt động bảo tàng."
+    },
+    {
+     "t": "p",
+     "text": "Sau lần đầu tiên năm 1946, ngày 5.1.1959, một ngày trước lễ khánh thành Bảo tàng Cách mạng Việt Nam, Chủ tịch Hồ Chí Minh đến xem trưng bày và nói chuyện với cán bộ. Người trao cho bảo tàng một chiếc lược bằng vỏ đồi mồi, kỷ vật của bà Nguyễn Thị Thanh trao tặng Bác, với mong muốn hiện vật được bảo quản và giới thiệu tới công chúng."
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện về chiếc lược cũng cho thấy Người luôn trân trọng những kỷ vật gắn với lịch sử cách mạng và tình cảm của nhân dân."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 23.3.1959, Người cùng Tổng thống Ấn Độ R. Pra-xát đến thăm bảo tàng. Người trực tiếp giới thiệu với vị khách quốc tế về cách kéo pháo bằng sức người trong chiến dịch Điện Biên Phủ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 25.6.1959, Người lại cùng Tổng thống Indonesia Xucácnô đến thăm bảo tàng. Trong lần này, một câu nói của Người với cán bộ thuyết minh về Phan Chu Trinh đã trở thành bài học sâu sắc đối với công tác thuyết minh lịch sử."
+    },
+    {
+     "t": "p",
+     "text": "Khi nghe giới thiệu Phan Chu Trinh là người tiêu biểu cho chủ nghĩa cải lương trong phong trào yêu nước Việt Nam đầu thế kỷ 20, Người nhẹ nhàng nhắc: “Cụ Phan thực sự là người yêu nước!”. Cách ứng xử ấy cho thấy yêu cầu thận trọng, khách quan, có chiều sâu khi giới thiệu các nhân vật và sự kiện lịch sử."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 4.7.1959, trên Báo Nhân Dân , với bút danh T.L, Chủ tịch Hồ Chí Minh viết bài Xem Viện Bảo tàng Cách mạng . Người nhấn mạnh ý nghĩa giáo dục của bảo tàng và cho rằng, nếu biết cách giới thiệu, một lần xem bảo tàng có thể giúp người xem học được rất nhiều về lịch sử cách mạng."
+    },
+    {
+     "t": "p",
+     "text": "Người căn dặn: “Nói tóm lại người đến xem Viện Bảo tàng cần vừa xem vừa suy nghĩ và liên hệ với bản thân mình. Các đồng chí phụ trách giới thiệu thì cần nói rõ ý nghĩa cách mạng của những vật trưng bày. Làm như thế sẽ rất bổ ích”."
+    },
+    {
+     "t": "p",
+     "text": "Trong sổ vàng của Bảo tàng Cách mạng Việt Nam, Người ghi: “Trưng bày khéo, giải thích rõ, Viện Bảo tàng là một trường học tốt về lịch sử cách mạng của dân tộc Việt Nam ta”."
+    },
+    {
+     "t": "p",
+     "text": "Những lời căn dặn đó đã vượt ra ngoài một thời điểm cụ thể để trở thành những nguyên tắc có giá trị lâu dài đối với hoạt động bảo tàng: hiện vật phải được đặt trong câu chuyện lịch sử; nội dung trưng bày phải rõ ràng, dễ hiểu; cán bộ thuyết minh phải có kiến thức và biết lựa chọn cách truyền đạt phù hợp với từng đối tượng công chúng."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 13.2.1961, Chủ tịch Hồ Chí Minh đến tham quan Bảo tàng Lịch sử Việt Nam. Người chăm chú xem từng nét hoa văn trên bản dập mặt trống đồng Ngọc Lũ, một chi tiết cho thấy sự quan tâm của Người đối với những giá trị lâu đời của văn hóa dân tộc."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 12.3.1963, Người cùng Nhà vua Lào Xrixavang Vátthana và Thủ tướng Lào Xuvana Phuma đến thăm Bảo tàng Cách mạng Việt Nam. Sau khi xem sa bàn “Chiến thắng lịch sử Điện Biên Phủ”, Người nhận xét: “Bảo tàng làm được cái sa bàn đẹp đấy”."
+    },
+    {
+     "t": "p",
+     "text": "Lần thứ 7, ngày 21.10.1964, Người cùng Tổng thống Mali Môđibô Câyta đến thăm bảo tàng. Lần này, Người đặc biệt chú ý đến sự cập nhật của nội dung trưng bày."
+    },
+    {
+     "t": "p",
+     "text": "Khi xem phòng “Phong trào cách mạng miền Nam”, Người nhận xét nội dung đã không còn phù hợp với tình hình mới và yêu cầu phải chỉnh lý, bổ sung. Người cũng góp ý về sơ đồ, biển tên các phòng trưng bày để khách tham quan dễ định hướng."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, khi nghe thuyết minh về chiến thắng Điện Biên Phủ, Người nhắc cán bộ thuyết minh phải khái quát, tập trung, đi thẳng vào vấn đề, phù hợp với thời gian của khách tham quan. Sau đó, Người trực tiếp giới thiệu bằng tiếng Pháp trong khoảng 7 phút."
+    },
+    {
+     "t": "p",
+     "text": "Những câu chuyện ấy cho thấy Chủ tịch Hồ Chí Minh không chỉ quan tâm đến việc bảo tồn hiện vật mà còn đặc biệt chú trọng cách hiện vật được đưa đến với công chúng."
+    },
+    {
+     "t": "p",
+     "text": "Với Người, bảo tàng chỉ thực sự phát huy giá trị khi người xem có thể hiểu, suy nghĩ và tìm thấy sự kết nối giữa những gì được trưng bày với lịch sử, với cuộc sống và trách nhiệm của chính mình."
+    },
+    {
+     "t": "p",
+     "text": "Đó cũng là giá trị bền vững của Bảo tàng Lịch sử quốc gia hôm nay. Qua thời gian, hiện vật có thể được bổ sung, phương pháp trưng bày có thể thay đổi, công nghệ có thể tạo ra những cách tiếp cận mới, nhưng yêu cầu cốt lõi vẫn là làm cho lịch sử trở nên gần gũi, dễ tiếp nhận và có sức gợi mở đối với công chúng."
+    },
+    {
+     "t": "p",
+     "text": "“Từ những nền tảng ấy, Bảo tàng Lịch sử quốc gia không chỉ là nơi bảo quản những hiện vật quý giá của dân tộc mà còn là một thiết chế nghiên cứu, giáo dục và truyền thông văn hóa; nơi kết nối quá khứ với hiện tại, góp phần giúp mỗi thế hệ hiểu hơn về lịch sử hình thành và phát triển của đất nước”, TS Nguyễn Văn Đoàn, Giám đốc Bảo tàng Lịch sử quốc gia, chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "80 năm kể từ lần đầu Chủ tịch Hồ Chí Minh đến thăm Quốc gia Bảo tàng Viện, những dấu ấn của Người vẫn hiện diện trong ký ức, hiện vật, tư liệu và phương thức hoạt động của bảo tàng."
+    },
+    {
+     "t": "p",
+     "text": "Từ Sắc lệnh 65 về bảo tồn di sản đến những chỉ dẫn cụ thể về trưng bày, thuyết minh, cập nhật nội dung và phục vụ công chúng, có thể thấy một quan niệm nhất quán: bảo tồn không phải để quá khứ đứng yên mà để những giá trị của quá khứ tiếp tục được nhận biết, hiểu đúng và trao truyền."
+    },
+    {
+     "t": "p",
+     "text": "Với bề dày lịch sử, hệ thống sưu tập và những giá trị đặc biệt gắn với tiến trình lịch sử dân tộc, Bảo tàng Lịch sử quốc gia có thể được nhìn nhận như một “địa chỉ ký ức” của quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Ở đó, lịch sử không chỉ được lưu giữ trong hiện vật mà còn được tiếp tục kể lại, nghiên cứu và lan tỏa, góp phần bồi đắp nền tảng tinh thần, lòng yêu nước, niềm tự hào và ý thức gìn giữ di sản cho các thế hệ hôm nay và mai sau."
+    }
+   ]
+  },
+  {
+   "id": "f306a9dd06a6",
+   "order": 19,
+   "slug": "hon-dao-o-viet-nam-xep-so-1-nhung-dao-dep-nhat-chau-a",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Hòn đảo ở Việt Nam xếp số 1 những đảo đẹp nhất châu Á",
+   "sapo": "Top 10 đảo đẹp nhất châu Á của giải thưởng Lựa chọn của độc giả năm 2026 do tạp chí du lịch Mỹ Condé Nast Traveller bình chọn đã vinh danh hòn đảo ở Việt Nam ở vị trí số 1, vượt qua loạt điểm đến nổi tiếng ở Thái Lan, Philippines...",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/hon-dao-o-viet-nam-xep-so-1-nhung-dao-dep-nhat-chau-a-185261008080401081.htm",
+   "published": "2026-10-08T01:33:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 372,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/f306a9dd06a6-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-08/f306a9dd06a6-0.jpg",
+     "caption": "Hòn Đồi Mồi, một đảo nhỏ hoang sơ nằm ngoài khơi biển Phú Quốc",
+     "w": 1280,
+     "h": 784
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giải thưởng hàng năm này dựa trên phiếu bầu của độc giả tạp chí du lịch Condé Nast Traveller, những người xếp hạng các điểm đến và khu nghỉ dưỡng theo trải nghiệm du lịch của riêng họ. Các đảo trên thế giới được xếp hạng chia theo nhiều khu vực như Mỹ, châu Âu, Caribean và Đại Tây Dương, Úc và Thái Bình Dương, châu Á, Nam Mỹ, Trung Mỹ…"
+    },
+    {
+     "t": "p",
+     "text": "Với 95,26 điểm, Phú Quốc xếp vị trí số 1 ở châu Á; tiếp theo là đảo Boracay, Philippines 94,60 điểm; Palawan, Philippines 94,32 điểm; Langkawi, Malaysia 93,50 điểm; Koh Samui, Thái Lan 93,37 điểm; Bali, Indonesia 92,01 điểm; Phuket, Thái Lan 90,25 điểm; quần đảo Phi Phi, Thái Lan 89,64 điểm; quần đảo Andaman, Ấn Độ 88,99 điểm và Ko Pha Ngan, Thái Lan 86,90 điểm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần đầu tiên Phú Quốc vươn lên vị trí số 1 trên bảng xếp hạng những đảo đẹp nhất châu Á của Condé Nast Traveller. Trong bài viết trước đây, tạp chí này từng ca ngợi Phú Quốc là hòn đảo phủ đầy rừng rậm ngoài khơi bờ biển phía tây nam Việt Nam, chỉ cách TP.HCM một giờ bay. Mặc dù diện tích xấp xỉ Phuket, nhưng các bãi biển ở đây ít bị tàn phá hơn nhiều và vùng đất từng yên tĩnh này đang trên đà phát triển nhanh chóng. Phú Quốc cực kỳ nổi tiếng với hải sản, hạt tiêu cay nồng và nước mắm ngon nhất thế giới, một nền tảng của ẩm thực Việt Nam. Du khách hãy đặt hai đêm nghỉ tại bãi biển, và khám phá đồn điền tiêu và chợ ven sông Dương Đông nhộn nhịp, cùng với một chuyến lái xe xuyên rừng mưa trong công viên quốc gia để tìm hiểu về loài khỉ đuôi dài hay các loài chim nhiệt đới. Hoặc đơn giản là ra bãi biển và tạm quên đi chốn thị thành..."
+    },
+    {
+     "t": "p",
+     "text": "Phú Quốc đang triển khai hàng loạt công trình thế kỷ phục vụ APEC 2027, như mở rộng sân bay, xây dựng tuyến tàu điện LRT, các trục đường chính đến trung tâm hội nghị và nhà biểu diễn đa năng chuẩn bị hoàn thành..."
+    }
+   ]
+  },
+  {
+   "id": "d54ecb0a884e",
+   "order": 20,
+   "slug": "messi-va-loi-chia-tay-hoan-hao-voi-mau-ao-doi-tuyen-argentin",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Messi và lời chia tay hoàn hảo với màu áo đội tuyển Argentina",
+   "sapo": "Thủ quân của Albiceleste vẫn thể hiện đẳng cấp ở \"vũ điệu tango\" cuối cùng, khi kiến tạo để Otamendi và Nico Paz lập công, trước khi ghi bàn trên chấm 11m, ấn định chiến thắng 3-0 cho tuyển Argentina trước đối thủ châu Phi Benin.",
+   "author": "Việt Anh",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/messi-va-loi-chia-tay-hoan-hao-voi-mau-ao-doi-tuyen-argentina-post1140625.vnp",
+   "published": "2026-10-07T14:24:47+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 366,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-08/d54ecb0a884e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sự nghiệp bóng đá quốc tế vĩ đại của Lionel Messi đã khép lại, sau khi huyền thoại mang áo số 10 có lần cuối cùng khoác lên mình màu áo của đội tuyển Argentina trong trận giao hữu với đối thủ Benin trên sân vận động Estadio Mas Monumental ở thủ đô Buenos Aires."
+    },
+    {
+     "t": "p",
+     "text": "Thủ quân của Albiceleste vẫn thể hiện đẳng cấp ở \"vũ điệu tango\" cuối cùng, khi có hai đường kiến tạo để Otamendi và Nico Paz lập công, trước khi ghi bàn trên chấm phạt đền, ấn định chiến thắng 3-0 cho tuyển Argentina."
+    },
+    {
+     "t": "p",
+     "text": "Tại quê nhà Rosario của Messi, hàng ngàn người hâm mộ đã tập trung trước một màn hình khổng lồ để gửi lời chia tay đến người con ưu tú của quê hương."
+    },
+    {
+     "t": "p",
+     "text": "Những lá cờ Argentina và những chiếc áo đấu với số áo của Messi có mặt ở khắp mọi nơi, thể hiện sự trân trọng với những đóng góp của anh cho màu áo trắng xanh."
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi 39, Messi kết thúc sự nghiệp quốc tế kéo dài hơn hai thập kỷ, kể từ khi ra mắt đội tuyển quốc gia năm 2005. Messi là cầu thủ ghi bàn nhiều nhất mọi thời đại của đội tuyển Argentina, là cầu thủ nắm giữ kỷ lục về số lần ra sân, với 125 bàn thắng trong 208 trận đấu. Cùng với \"Những vũ công Tango,\" Messi đã tham dự sáu kỳ World Cup, ra sân 34 trận và ghi 21 bàn thắng."
+    },
+    {
+     "t": "p",
+     "text": "Trên cương vị đội trưởng, Messi đã dẫn dắt Argentina giành chức vô địch FIFA World Cup năm 2022, Copa America các năm 2021 và 2024, cùng danh hiệu Finalissima năm 2022. Ở cấp độ giải trẻ, Messi giành chức vô địch U20 thế giới năm 2005 và huy chương vàng Olympic năm 2008./."
+    },
+    {
+     "t": "h",
+     "text": "Áo đấu khổng lồ vinh danh \"vũ điệu cuối cùng\" của Messi với đội tuyển Argentina"
+    },
+    {
+     "t": "p",
+     "text": "Công trình áo đấu khổng lồ có chiều dài hơn 30m, mô phỏng thiết kế của chiếc áo đặc biệt mà Messi và tuyển Argentina sẽ mặc trong trận giao hữu với Benin, kỷ niệm trận chia tay của ngôi sao 39 tuổi."
+    }
+   ]
+  }
+ ]
+}

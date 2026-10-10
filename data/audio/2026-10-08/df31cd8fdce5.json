@@ -1,0 +1,66 @@
+{
+ "engine": "gtts",
+ "dur": 191.3,
+ "parts": [
+  {
+   "p": -2,
+   "f": "df31cd8fdce5-0.mp3",
+   "dur": 6.34
+  },
+  {
+   "p": -1,
+   "f": "df31cd8fdce5-1.mp3",
+   "dur": 14.76
+  },
+  {
+   "p": 0,
+   "f": "df31cd8fdce5-2.mp3",
+   "dur": 1.1
+  },
+  {
+   "p": 2,
+   "f": "df31cd8fdce5-3.mp3",
+   "dur": 6.34
+  },
+  {
+   "p": 3,
+   "f": "df31cd8fdce5-4.mp3",
+   "dur": 3.72
+  },
+  {
+   "p": 4,
+   "f": "df31cd8fdce5-5.mp3",
+   "dur": 1.13
+  },
+  {
+   "p": 5,
+   "f": "df31cd8fdce5-6.mp3",
+   "dur": 59.11
+  },
+  {
+   "p": 6,
+   "f": "df31cd8fdce5-7.mp3",
+   "dur": 22.08
+  },
+  {
+   "p": 7,
+   "f": "df31cd8fdce5-8.mp3",
+   "dur": 21.96
+  },
+  {
+   "p": 8,
+   "f": "df31cd8fdce5-9.mp3",
+   "dur": 35.57
+  },
+  {
+   "p": 9,
+   "f": "df31cd8fdce5-10.mp3",
+   "dur": 4.44
+  },
+  {
+   "p": 10,
+   "f": "df31cd8fdce5-11.mp3",
+   "dur": 14.76
+  }
+ ]
+}

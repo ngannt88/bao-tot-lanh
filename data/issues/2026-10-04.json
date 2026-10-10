@@ -1,0 +1,3030 @@
+{
+ "date": "2026-10-04",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-04T07:30:05+07:00",
+ "sections": [
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2e59090752f0",
+   "order": 1,
+   "slug": "chang-tan-sv-vac-thue-da-bot-nam-nao-tro-thanh-ky-su-ai-cua",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Chàng tân SV vác thuê đá bột năm nào, trở thành kỹ sư AI của Tập đoàn Vingroup",
+   "sapo": "Năm 2015, lá thư gửi chương trình học bổng Tiếp sức đến trường của Bùi Trung Hiếu giúp cậu có cơ hội theo đuổi ước mơ công nghệ thông tin. Hơn 11 năm sau, Hiếu đã làm việc cho Vingroup, trở thành cố vấn cho nhiều bạn trẻ, để những ước mơ dang dở được chắp cánh.",
+   "author": "HÀ QUÂN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chang-tan-sv-vac-thue-da-bot-nam-nao-tro-thanh-ky-su-ai-cua-tap-doan-vingroup-100261003154100339.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 980,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/2e59090752f0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/2e59090752f0-0.jpg",
+     "caption": "Bùi Trung Hiếu, cựu sinh viên nhận học bổng Tiếp sức đến trường của báo Tuổi Trẻ - Ảnh: NAM TRẦN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/2e59090752f0-1.jpg",
+     "caption": "Ngoài công việc lập trình, Bùi Trung Hiếu còn thường xuyên hỗ trợ, tư vấn, định hướng cho các bạn trẻ - Ảnh: NGUYỄN HIỀN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/2e59090752f0-2.jpg",
+     "caption": "Bùi Trung Hiếu vác đá kiếm tiền sinh hoạt năm 2015 - Ảnh cắt từ video",
+     "w": 730,
+     "h": 411
+    },
+    {
+     "src": "img/2026-10-04/2e59090752f0-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ một cậu học trò đen nhẻm, gầy gò của năm 18 tuổi. Hơn 11 năm sau, Bùi Trung Hiếu (29 tuổi) bất ngờ xuất hiện tại lễ trao học bổng Tiếp sức đến trường của Báo Tuổi Trẻ tại Trường đại học Tây Bắc ( Sơn La ) với dáng vẻ chững chạc, nụ cười tươi."
+    },
+    {
+     "t": "p",
+     "text": "Hiện Hiếu là kỹ sư AI cao cấp tại Vinsmart Future (Tập đoàn Vingroup)."
+    },
+    {
+     "t": "h",
+     "text": "11 năm chắp cánh cho sinh viên có hoàn cảnh giống mình"
+    },
+    {
+     "t": "p",
+     "text": "Vượt gần 300km từ Hà Nội đến tham gia chương trình trao học bổng Tiếp sức đến trường , Bùi Trung Hiếu xúc động nói bản thân không chỉ vượt qua nghịch cảnh để có một công việc lương cao mà còn giúp nhiều tân sinh viên tiếp tục theo đuổi ước mơ trên giảng đường đại học."
+    },
+    {
+     "t": "p",
+     "text": "Hơn 10 năm trước, Hiếu khi ấy là tân sinh viên nghèo từ vùng quê Hà Nam (nay là Ninh Bình), nặng trĩu nỗi lo bỏ học khi vừa mất mẹ. Hành trang đến trường chỉ là túi sách vở, ba lô quần áo và gần 10 triệu đồng vay mượn, tích góp."
+    },
+    {
+     "t": "p",
+     "text": "Còn hôm nay, anh trở lại lễ trao học bổng Tiếp sức đến trường của Báo Tuổi Trẻ ở tỉnh Sơn La với vai trò hoàn toàn khác. Một người truyền cảm hứng, nghị lực vươn lên cho những sinh viên đang đứng trước ngưỡng cửa đại học như anh ngày nào."
+    },
+    {
+     "t": "p",
+     "text": "Từ ý tưởng kết nối với các bạn nhận học bổng Tiếp sức đến trường, anh cùng các bạn sinh viên, cựu sinh viên thành lập một cộng đồng hỗ trợ những bạn có hoàn cảnh khó khăn tiếp cận các học bổng khác trên trường đại học."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến Hiếu vui nhất không phải những hỗ trợ vật chất hay thời gian tư vấn đã trao đi, mà là lúc nhận được tin nhắn từ các sinh viên từng được giúp đỡ."
+    },
+    {
+     "t": "p",
+     "text": "\"Có bạn nói em đã có công việc, có bạn nói em được học bổng rồi, hôm nay em muốn mời anh đi ăn, uống cà phê. Với mình, đó không chỉ là câu chuyện về bữa ăn, mà là thành quả, hạt mầm được chăm bón, lớn lên từng ngày\" - Hiếu nói."
+    },
+    {
+     "t": "p",
+     "text": "Với Hiếu, cộng đồng nhỏ là nơi các anh chị đi trước sẽ đóng vai trò cố vấn, định hướng, hỗ trợ các em tìm và kết nối học bổng phù hợp trên trường đại học."
+    },
+    {
+     "t": "p",
+     "text": "\"Ngoài định hướng học tập, các em còn được hỗ trợ để từng bước độc lập tài chính như tìm công việc làm thêm, tiếp nối việc học trên trường\" - Hiếu chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Suất học bổng cùng quà tặng máy tính - bước ngoặt cuộc đời"
+    },
+    {
+     "t": "p",
+     "text": "Trong những ngày chông chênh nhất của tuổi 18, Hiếu từng nghĩ đến chuyện gác lại giấc mơ đại học để đi làm."
+    },
+    {
+     "t": "p",
+     "text": "Để có tiền theo học, anh phải làm thuê đủ việc, từ vác những bao đá bột nặng hơn 50kg đến giao từng bao than. Những công việc nặng nhọc nhiều lần khiến đôi chân run rẩy, nhưng Hiếu vẫn cố gắng bám víu lấy ước mơ theo đuổi ngành công nghệ thông tin. Một ngành học nhưng mang giấc mơ thoát nghèo."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình sinh ra đã không ở cùng bố, lớn lên chỉ có mẹ, bác và bà thôi. Năm lên lớp 12, mình gặp một biến cố lớn, đó là mẹ mình mất, không còn ở bên cạnh mình nữa. Trước đó một năm, bà mình cũng mất, thành ra, gia đình 5 người còn 3 người. Đó thực sự là giai đoạn rất khó khăn và cũng không biết định hướng tiếp theo sẽ như thế nào, nhất là chi phí trang trải cuộc sống và học đại học\", Hiếu bùi ngùi nói."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "11 năm sau ngày nhận học bổng “Tiếp sức đến trường”, Bùi Trung Hiếu từ chàng tân sinh viên vượt khó nay đã trở thành kỹ sư phần mềm, trở lại chia sẻ câu chuyện của mình với những người trẻ đang đứng trước ngưỡng cửa đại học - Video: NGUYỄN HIỀN - QUỲNH NGHI - TRƯƠNG KIÊN - XUÂN TIÊN - TRINH TRÀ"
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến khi cô giáo dạy tiếng Anh gửi cho anh đường dẫn đăng ký học bổng Tiếp sức đến trường của Báo Tuổi Trẻ . Với tâm thế \"không biết có được hay không\", Hiếu hoàn thiện hồ sơ, gửi thư tới ban tổ chức chương trình Tiếp sức đến trường cùng hy vọng mong manh rằng mình sẽ có cơ hội tiếp tục học tập. Và may mắn mỉm cười."
+    },
+    {
+     "t": "p",
+     "text": "Suất học bổng cùng chiếc máy tính đã giúp Hiếu giải quyết khó khăn trước mắt và nuôi dưỡng đam mê."
+    },
+    {
+     "t": "p",
+     "text": "\"Học bổng là viên gạch đầu tiên cho mình hy vọng, niềm tin. Nó cho tôi thấy nếu gặp khó khăn và có những ước mơ thì vẫn có những nguồn lực xã hội sẵn sàng giúp đỡ. Các em nên hiểu, mình không cô đơn và quá khứ là điểm tựa của mình trong tương lai. Mình mong muốn điều gì và mình sẽ trở thành ai trong tương lai\" - anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Lễ trao học bổng Tiếp sức đến trường tại Sơn La ngày 3-10 trao tổng 119 suất học bổng cho tân sinh viên khó khăn của 8 tỉnh Tây Bắc, trị giá hơn 2,4 tỉ đồng (chưa bao gồm chi phí hỗ trợ đi lại, ăn ở và các phần quà tặng)."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó hơn 1,8 tỉ đồng trao học bổng cho tân sinh viên và 600 triệu đồng hỗ trợ giáo viên, với sự tài trợ của Quỹ Khuyến học Vinacam cùng các nhà hảo tâm, đối tác của Công ty CP Tập đoàn Vinacam và bạn đọc báo Tuổi Trẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "620a4ad705b8",
+   "order": 2,
+   "slug": "ky-su-roi-pho-ve-que-bien-rom-ra-thanh-san-pham-doc-la-ban-s",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Kỹ sư rời phố về quê, biến rơm rạ thành sản phẩm độc lạ bán sang Mỹ, Canada",
+   "sapo": "Từng có 5 năm làm kỹ sư thiết kế tại Hà Nội, Nguyễn Xuân Tài trở về quê nhà Thanh Hóa, dành 5 năm nghiên cứu, biến những cọng rơm thường bị đốt bỏ ngoài đồng thành mồi lửa sinh học xuất khẩu sang Mỹ, Canada.",
+   "author": "THÀNH NAM",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ky-su-roi-pho-ve-que-bien-rom-ra-thanh-san-pham-doc-la-ban-sang-my-canada-100261003100904045.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1282,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/620a4ad705b8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/620a4ad705b8-0.jpg",
+     "caption": "Kỹ sư bỏ phố về quê, biến rơm rạ thành sản phẩm độc lạ bán sang Mỹ, Canada - Ảnh: THÀNH NAM",
+     "w": 1280,
+     "h": 866
+    },
+    {
+     "src": "img/2026-10-04/620a4ad705b8-1.jpg",
+     "caption": "Từ những cọng rơm tưởng chừng như bỏ đi, Nguyễn Xuân Tài đã tạo ra một sản phẩm được người tiêu dùng Mỹ, Canada đón nhận - Ảnh: THÀNH NAM",
+     "w": 1280,
+     "h": 849
+    },
+    {
+     "src": "img/2026-10-04/620a4ad705b8-2.jpg",
+     "caption": "Rơm sau khi phơi khô sẽ được băm nhỏ, trộn cùng sáp, sau đó nén lại, đưa vào máy cắt thành từng viên \"mồi lửa\" - Ảnh: THÀNH NAM",
+     "w": 1280,
+     "h": 812
+    },
+    {
+     "src": "img/2026-10-04/620a4ad705b8-3.jpg",
+     "caption": "Một viên mồi lửa sau khi hoàn thành. Khi châm lửa, chúng có thể cháy trong vòng 10 phút - Ảnh: THÀNH NAM",
+     "w": 1280,
+     "h": 846
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Từ những cọng rơm bị đốt bỏ ngoài đồng ..."
+    },
+    {
+     "t": "p",
+     "text": "Sau mỗi mùa gặt, khi những thửa ruộng ở xã Quý Lộc, tỉnh Thanh Hóa chỉ còn trơ gốc rạ, nhiều đống rơm rạ lại bị người dân đốt ngay trên đồng. Với không ít người, đó là cách nhanh nhất để dọn ruộng, chuẩn bị cho vụ mùa mới."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng với Nguyễn Xuân Tài (37 tuổi, quê xã Quý Lộc, tỉnh Thanh Hóa), những cọng rơm tưởng chừng bỏ đi ấy lại gợi mở một hướng khởi nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Tốt nghiệp Đại học Công nghiệp Hà Nội, Tài từng có 5 năm làm việc tại các doanh nghiệp ở Hà Nội với vai trò kỹ sư thiết kế. Công việc ổn định, đúng chuyên môn, nhưng cơ duyên đến với một sản phẩm khá xa lạ đã khiến anh rẽ sang hướng đi khác."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2018, qua sự giới thiệu của một người bạn quốc tịch Anh, Tài biết đến mồi lửa sinh học - sản phẩm dùng để nhóm lửa vốn được sử dụng tại nhiều nước phương Tây, nơi người dân có thói quen tổ chức tiệc nướng ngoài trời hoặc sử dụng lò sưởi."
+    },
+    {
+     "t": "p",
+     "text": "Nhận thấy nhu cầu của thị trường nước ngoài và nguồn phụ phẩm nông nghiệp dồi dào ở quê nhà, anh bắt đầu tìm hướng khởi nghiệp loại sản phẩm này."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu, Tài thử nghiệm với mùn cưa, trấu, vỏ lạc và một số phế phẩm nông nghiệp. Tuy nhiên kết quả không như mong đợi. Sau nhiều lần tìm kiếm, thử nghiệm, anh nhận thấy rơm khô có thể trở thành nguồn nguyên liệu phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "\"Có lần về quê, tôi thấy lượng rơm sau thu hoạch bị đốt bỏ rất nhiều, vừa lãng phí vừa gây ô nhiễm môi trường. Tôi nghĩ nếu tận dụng được nguồn nguyên liệu này để sản xuất mồi lửa sinh học thì vừa có thể tạo ra sản phẩm bán ra thị trường, vừa giúp người dân có thêm thu nhập\", anh Tài chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ ý tưởng đó, anh Tài đã bắt tay ngay vào việc. Tuy nhiên để sản phẩm có thể đến tay người tiêu dùng khó tính như Mỹ, Canada không phải là điều đơn giản."
+    },
+    {
+     "t": "p",
+     "text": "Đầu tiên, chàng thanh niên trẻ bắt tay thiết kế dây chuyền, xây dựng xưởng sản xuất tại Thanh Hóa và thành lập Công ty CP Ulstraw. Tên doanh nghiệp được ghép từ hai từ tiếng Anh \"ultra\" và \"straw\", có nghĩa sản phẩm được tạo ra từ rơm."
+    },
+    {
+     "t": "h",
+     "text": "Sản phẩm có giá trị xuất khẩu"
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Tài, ngoài rơm khô, nguyên liệu được sử dụng để tạo ra sản phẩm còn có sáp nến. Hai thành phần được phối trộn theo công thức nghiên cứu, sau đó dùng máy móc cắt thành những khối nhỏ dùng làm mồi nhóm lửa."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Quy trình sản xuất bắt đầu từ việc thu mua rơm khô của người dân địa phương. Rơm được đưa vào máy nghiền, trộn với sáp nến rồi chuyển qua máy ép để tạo hình. Thành phẩm sau đó được đóng hộp trước khi đưa ra thị trường."
+    },
+    {
+     "t": "p",
+     "text": "Khi đã có sản phẩm, anh Tài và các cộng sự đã chọn Amazon làm kênh phân phối để tiếp cận thị trường người tiêu dùng nước ngoài, đặc biệt là các nước có khí hậu lạnh như Mỹ, Canada và nhiều nước châu Âu."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Tài, ở giai đoạn đầu triển khai quảng cáo trên nền tảng này, sản phẩm nhận được sự quan tâm của khách hàng. Có thời điểm, doanh nghiệp tiêu thụ tới 400 hộp Eco Firelighter trong một ngày. Đến nay, hàng nghìn sản phẩm đã được bán thông qua Amazon."
+    },
+    {
+     "t": "p",
+     "text": "Từ một ý tưởng khởi nghiệp còn khá xa lạ ở địa phương, những hộp mồi lửa làm từ rơm dần được đưa lên các nền tảng thương mại điện tử để tiếp cận khách hàng nước ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Tài kể thời điểm anh bắt đầu thu mua rơm để sản xuất, không ít người tỏ ra ngạc nhiên. Tuy nhiên khi thấy sản phẩm của anh bán được ra nước ngoài, người dân mới thấy sáng kiến của anh có giá trị."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, theo anh Tài, dù sản phẩm được người tiêu dùng tại Mỹ và Canada đón nhận rất tốt, thế nhưng lượng tiêu thụ hàng hóa vẫn chưa cao. \"Đây là sản phẩm do tôi và cộng sự tìm tòi, sáng tạo ra, không qua một chương trình hay có sự hỗ trợ nào từ cơ quan chức năng. Vì thế sản phẩm hiện chỉ phân phối chủ yếu qua kênh Amazon. Đây cũng là khó khăn trong việc mở rộng thị trường, quảng bá sản phẩm\", anh Tài nói"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Anh Tài cũng chia sẻ thêm rằng đến nay, anh cùng các cộng sự đã đầu tư khoảng 1 tỉ đồng vào dự án. Theo tính toán của Tài, mỗi hộp mồi nhóm lửa được bán với giá khoảng 13-14 USD (tương đương 300.000 - 350.000 đồng), trong đó chi phí sản xuất chiếm 30-40% giá bán."
+    },
+    {
+     "t": "h",
+     "text": "Mong muốn tạo sinh kế từ phụ phẩm nông nghiệp"
+    },
+    {
+     "t": "p",
+     "text": "Không dừng lại ở việc kinh doanh sản phẩm do mình nghiên cứu, anh Tài còn kỳ vọng mô hình này có thể mở rộng ngay tại quê nhà."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian tới, anh dự kiến xây dựng mô hình hợp tác xã, đầu tư nhà máy sản xuất tại địa phương, qua đó tăng quy mô sản xuất, tìm kiếm thêm các đối tác lớn và tạo đầu ra ổn định cho nguồn nguyên liệu rơm của người dân."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu kế hoạch thành hiện thực, những cọng rơm sau mùa gặt có thể có thêm một vòng đời mới, thay vì bị đốt bỏ hoặc để phân hủy ngoài đồng. Việc thu mua rơm cũng mở ra cơ hội để người dân có thêm nguồn thu từ phụ phẩm nông nghiệp\", anh Tài chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Văn Hiếu - Chủ tịch UBND xã Quý Lộc, tỉnh Thanh Hóa - đánh giá mô hình sản xuất mồi nhóm lửa từ rơm của anh Nguyễn Xuân Tài là hướng đi mới mẻ tại địa phương. \"Địa phương cũng đã tới thăm mô hình, làm việc với anh Tài, sẵn sàng hỗ trợ anh về quỹ đất để xây nhà xưởng, mở rộng mô hình\", ông Hiếu nói."
+    },
+    {
+     "t": "p",
+     "text": "Cũng theo ông Hiếu, Bộ Khoa học và Công nghệ cũng đã lên kế hoạch cử đoàn về tham quan, đánh giá hiệu quả mô hình này như thế nào để có hướng hỗ trợ anh Tài mở rộng thị trường."
+    },
+    {
+     "t": "p",
+     "text": "\"Hiện nay, chúng tôi được biết hàng hóa của anh Tài chủ yếu được bán trên kênh Amazon, thị trường chủ yếu Mỹ và Canada. Địa phương sẽ hỗ trợ anh Tài mở rộng thị trường, trong đó sẽ tập trung đưa sản phẩm vào các điểm du lịch có các hoạt động dã ngoại, vui chơi ngoài trời, có sử dụng lửa trại, nướng đồ ăn. Từ đó sẽ đánh giá tính hiệu quả thực sự của sản phẩm này\", ông Hiếu cho hay."
+    },
+    {
+     "t": "h",
+     "text": "Nhận giải thưởng sáng tạo tại Canada"
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm 2023, sáng kiến của Nguyễn Xuân Tài cùng các cộng sự đã giành giải Quán quân toàn cầu cuộc thi Social Business Creation tại Montreal (là chương trình đào tạo kết hợp cuộc thi toàn cầu về sáng tạo kinh doanh xã hội, được khởi xướng bởi Trường đại học HEC Montréal, Canada) với phần thưởng khoảng 38.500 đô la Canada. Năm 2024, nhóm Ulstraw tiếp tục giành giải Quán quân cuộc thi Khởi nghiệp cùng Kawai."
+    }
+   ]
+  },
+  {
+   "id": "407a5723d15e",
+   "order": 3,
+   "slug": "chuyen-doi-so-nghe-nhang-ban-hon-629-000-don-tren-mang-nam-n",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Chuyển đổi số nghề nhang, bán hơn 629.000 đơn trên mạng, năm ngoái doanh thu 16 tỉ đồng",
+   "sapo": "Từ nghề làm nhang thủ công của gia đình, sau khi tốt nghiệp ngành quản trị kinh doanh, Đinh Thanh Sáng về quê từng bước xây dựng thương hiệu nhang sạch An Khang. Đến nay, chàng trai 9X đã chuyển đổi số nghề làm nhang, bán được hơn 629.000 đơn hàng trên mạng xã hội.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/chuyen-doi-so-nghe-nhang-ban-hon-629000-don-tren-mang-nam-ngoai-doanh-thu-16-ti-dong-185261002175209298.htm",
+   "published": "2026-10-02T23:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1038,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/407a5723d15e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/407a5723d15e-0.jpg",
+     "caption": "Anh Đinh Thanh Sáng hướng tới xuất khẩu thương hiệu nhang sạch của mình",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-10-04/407a5723d15e-1.jpg",
+     "caption": "Một kênh giới thiệu các sản phẩm nhang sạch An Khang có hơn 100.000 lượt theo dõi",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-10-04/407a5723d15e-2.jpg",
+     "caption": "Các sản phẩm nhang sạch An Khang được livestream bán trên mạng xã hội",
+     "w": 1024,
+     "h": 683
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ nghề làm nhang thủ công của gia đình, sau khi tốt nghiệp ngành quản trị kinh doanh, Đinh Thanh Sáng về quê từng bước xây dựng thương hiệu nhang sạch An Khang. Đến nay, chàng trai 9X đã chuyển đổi số nghề làm nhang, bán được hơn 629.000 đơn hàng trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Giữa trưa cuối tháng 9, trong xưởng sản xuất nhang của anh Đinh Thanh Sáng, Giám đốc Công ty TNHH sản xuất và đầu tư An Khang (xã Mỹ Thành, tỉnh Đồng Tháp), những bó nhang vừa se xong được đưa vào hệ thống sấy thay vì mang ra phơi nắng."
+    },
+    {
+     "t": "p",
+     "text": "Tiếng máy chạy đều; người làm nhang, người trộn nguyên liệu, người đóng gói, người kiểm tra sản phẩm. Ở một góc khác, vài người tất bật quay video, livestream bán hàng. Chỉ về phía dãy máy sấy, anh Sáng cho biết: \"Mỗi máy hơn 40 triệu đồng, ở đây có 6 máy. Làm vậy thì không còn phụ thuộc thời tiết. Việc sấy bằng máy cũng an toàn cho nhân công hơn sấy bằng than đá rất nhiều\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "3 năm loay hoay tìm đường"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2019, anh Sáng bắt đầu nghiên cứu nhang sạch. Ý tưởng có vẻ đơn giản nhưng để biến thành sản phẩm có thể bán trên thị trường là một hành trình dài. Anh đầu tư máy se nhang, máy trộn bột, hệ thống sấy; đồng thời thử nghiệm nhiều loại nguyên liệu, mùi hương và quy trình sản xuất. Cái tên nhang sạch An Khang cũng bắt đầu từ đó."
+    },
+    {
+     "t": "p",
+     "text": "Những nguyên liệu tạo mùi tự nhiên như gừng, quế, trầm được anh tìm mua từ nhiều nơi và phát triển nhiều dòng sản phẩm. Đến nay, nhang sạch An Khang có khoảng 12 loại mùi, trong đó 3 sản phẩm đạt chứng nhận OCOP gồm nhang khuynh diệp, nhang quế và nhang gạo."
+    },
+    {
+     "t": "p",
+     "text": "Đến giờ, anh Sáng vẫn nhớ như in áp lực trong giai đoạn 2019 - 2022 khi vừa nghiên cứu sản phẩm, vừa vay vốn đầu tư. Rồi dịch Covid-19 ập đến, hoạt động kinh doanh đình trệ. Suốt 3 năm ấy, anh cứ làm, thử, rồi sửa. Có sản phẩm không được thị trường đón nhận, có mẫu bao bì phải thay đổi. Giá bán, mùi hương, cách đóng gói cũng liên tục điều chỉnh. Sau những lần va vấp, Sáng hiểu ra một điều: làm được một bó nhang tốt là chưa đủ. Muốn sống được với nghề, phải biết đưa sản phẩm đến tay người mua."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Đưa nghề cũ lên nền tảng mới"
+    },
+    {
+     "t": "p",
+     "text": "Nếu trước đây, người làm nhang chủ yếu trông vào thương lái, đại lý hoặc các cửa hàng tạp hóa thì anh Sáng chọn một con đường khác. Anh chuyển đổi số hình thức bán hàng, đưa sản phẩm thẳng đến người tiêu dùng qua mạng xã hội và sàn thương mại điện tử."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, anh tự mày mò cách vận hành từng nền tảng, học quay video, chụp ảnh, viết nội dung, giới thiệu sản phẩm rồi livestream bán hàng. Dần dần, quy trình công việc tại xưởng được cải tiến và phân chia rất cụ thể. Người sản xuất, người đóng gói, người quay video, người đăng sản phẩm, người livestream , người xử lý đơn hàng. Bao bì được thiết kế lại để phù hợp vận chuyển đi xa. Từ những đơn hàng nhỏ, lượng bán trực tuyến tăng dần."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Sáng, từ năm 2022 đến nay, nhang An Khang đã bán hơn 629.000 đơn hàng trên mạng xã hội. Năm 2025, doanh thu đạt khoảng 16 tỉ đồng, lợi nhuận khoảng 6 - 8%."
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau những con số ấy là hơn 40 lao động tại xưởng, phần lớn là người dân địa phương. Thu nhập được trả theo sản phẩm nên khá phù hợp với lao động nông thôn, những người thường phải xoay xở nhiều nghề. \"Khi bà con bận việc thì cứ báo rồi nghỉ, khi nào rảnh lại làm. Mình ở quê nên phải tạo công việc phù hợp với người quê\", Sáng chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ bán hàng, anh còn biến chính những người thân trong gia đình thành những người kể câu chuyện về sản phẩm. Chỉ vào kênh TikTok của chị dâu đang có hơn 100.000 lượt theo dõi, Sáng cười đầy tự hào: \"KOL nhà tự làm ra, chị dâu của tôi\"."
+    },
+    {
+     "t": "p",
+     "text": "Những video được quay ngay tại xưởng, giữa công việc thường ngày và những câu chuyện của gia đình. Không có trường quay cầu kỳ, cũng chẳng cần hình ảnh được dựng quá bóng bẩy; sản phẩm được giới thiệu từ chính nơi nó được làm ra."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với Sáng, đó cũng là cách kể câu chuyện về một sản phẩm quê bằng những gì gần gũi nhất. Bây giờ, điều anh trăn trở không còn chỉ là làm sao bán được một bó nhang. Câu hỏi lớn hơn là làm thế nào để thương hiệu có thể đi xa."
+    },
+    {
+     "t": "p",
+     "text": "Theo Sáng, nghề nhang không quá khó để tham gia nên mức độ cạnh tranh rất lớn. Muốn tồn tại lâu dài, An Khang phải tạo được lợi thế từ chất lượng, giá bán, bao bì, cách bán hàng và quan trọng nhất là thương hiệu."
+    },
+    {
+     "t": "p",
+     "text": "Từ một gia đình từng làm hàng gia công xuất khẩu, anh đang muốn đi theo hướng khác: Nếu xuất khẩu, đó phải là sản phẩm mang chính thương hiệu của mình. \"Tương lai gần thì bán thêm trên nhiều kênh mới, xa hơn thì xuất khẩu thương hiệu An Khang luôn. Không xuất khẩu hàng thô như xưa nữa\", Sáng nói."
+    },
+    {
+     "t": "p",
+     "text": "Anh Ngô Thanh Tuấn, Bí thư Xã đoàn Mỹ Thành, cho biết: \"Anh Sáng là gương người trẻ tiêu biểu ở địa phương. Mô hình nhang sạch của anh đã giải quyết việc làm cho hàng chục lao động địa phương. Bên cạnh đó, trong quá trình sản xuất nhang sạch, anh Sáng cũng sử dụng nguồn nguyên liệu tại địa phương. Đặc biệt, với tư cách là thành viên câu lạc bộ khởi nghiệp trẻ tại địa phương, anh đã hỗ trợ, chia sẻ nhiều kinh nghiệm cho những người trẻ khác\"."
+    }
+   ]
+  },
+  {
+   "id": "f9150318d741",
+   "order": 4,
+   "slug": "day-tu-3h-cho-san-bien-may-dep-nhu-co-tich-o-ha-noi",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Dậy từ 3h chờ săn biển mây đẹp như cổ tích ở Hà Nội",
+   "sapo": "(Dân trí) - Những ngày qua, Vườn Quốc gia Ba Vì (Hà Nội) liên tiếp xuất hiện biển mây, thu hút hàng nghìn du khách đến tham quan, chụp ảnh. Đại diện vườn",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/day-tu-3h-cho-san-bien-may-dep-nhu-co-tich-o-ha-noi-20261002153648307.htm",
+   "published": "2026-10-02T23:11:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 623,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/f9150318d741-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/f9150318d741-0.jpg",
+     "caption": "Biển mây Ba Vì ngày 1/10 (Ảnh: Quỳnh Ba Vì).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/f9150318d741-1.jpg",
+     "caption": "Nếu đi quá muộn, du khách sẽ khó gặp được cảnh mây bồng bềnh trắng xóa (Ảnh: Vườn Quốc gia Ba Vì).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/f9150318d741-2.jpg",
+     "caption": "Trời chưa sáng, du khách đã chờ mua vé vào vườn (Ảnh: Quỳnh Ba Vì).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/f9150318d741-3.jpg",
+     "caption": "Du khách đứng ở các đoạn cua cốt 900m trở lên sẽ quan sát thấy mây đẹp (Ảnh: Quỳnh Ba Vì).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/f9150318d741-4.jpg",
+     "caption": "Du khách săn mây kết hợp tham quan cảnh đẹp tại vườn (Ảnh: Quỳnh Ba Vì).",
+     "w": 1080,
+     "h": 1438
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Những ngày qua, Vườn Quốc gia Ba Vì (Hà Nội) liên tiếp xuất hiện biển mây, thu hút hàng nghìn du khách đến tham quan, chụp ảnh. Đại diện vườn cho biết, cuối tuần này, dự kiến lượng khách sẽ tăng cao."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu tháng 10, hình ảnh biển mây trắng bồng bềnh xuất hiện tại Vườn Quốc gia Ba Vì (Hà Nội) khiến nhiều du khách thích thú."
+    },
+    {
+     "t": "p",
+     "text": "Từ những điểm cao nhìn xuống, tầng tầng mây trắng trải rộng như dải lụa bao trùm những ngọn núi trong sương sớm."
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi với phóng viên Dân trí , ông Nguyễn Phi Hùng, Giám đốc Trung tâm Du lịch Vườn Quốc gia Ba Vì, cho biết, từ đầu tháng 10 đến hết năm là giai đoạn săn mây đẹp nhất tại Vườn Quốc gia Ba Vì."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Ước tính, mỗi ngày có khoảng 1.000 du khách tới tham quan, check-in, săn mây. Dự kiến lượng khách sẽ tăng vào dịp cuối tuần\", ông Hùng nói."
+    },
+    {
+     "t": "p",
+     "text": "Chị Quỳnh, một hướng dẫn viên du lịch địa phương, cho biết, những ngày gần đây, khoảng 4-5h du khách đã xếp hàng ở cổng Vườn Quốc gia Ba Vì chờ mua vé để kịp đón bình minh lúc 6h. Đây là thời điểm mây đẹp và dày đặc nhất trong ngày."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều du khách ở khu vực nội đô phải xuất phát từ 3h, vượt qua chặng đường hơn 40-50km trong đêm tối để kịp mua vé săn mây."
+    },
+    {
+     "t": "p",
+     "text": "\"Một số bạn trẻ đi từ 4h nhưng đến nơi không kịp mua vé nên bỏ lỡ khoảnh khắc bình minh. Vì vậy thời gian vàng săn mây là 5h30-7h tại các đoạn cua cốt 900m trở lên. Sau giờ này, mây dễ bốc thành sương mù dày đặc\", chị Quỳnh nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ thêm về thời điểm săn mây đẹp nhất, ông Hùng cũng cho hay, những ngày hôm trước có mưa, hôm sau trời nắng mây sẽ xuất hiện rất ấn tượng."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, du khách có ý định săn mây nên theo dõi thông tin thời tiết, hình ảnh được cập nhật trên các kênh của Vườn Quốc gia Ba Vì để lựa chọn thời điểm phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Điểm săn mây đẹp nhất tại Vườn Quốc gia Ba Vì ở mốc độ cao 950m. Từ khu vực này, du khách có thể phóng tầm mắt xuống phía dưới, ngắm những tầng mây trải rộng trong không gian."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh săn mây, khoảng 2-3 tuần tới, hoa dã quỳ bắt đầu nở rộ, du khách có thể tham gia các hoạt động tham quan, cắm trại."
+    },
+    {
+     "t": "p",
+     "text": "Với hoạt động đi bộ đường dài trên các tuyến đường chính của Vườn Quốc gia Ba Vì, đơn vị này không khuyến khích du khách trải nghiệm."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Lý do là bởi tuyến đường vẫn có phương tiện lưu thông, tiềm ẩn nguy cơ mất an toàn. Vì vậy, du khách khi đến săn mây, cắm trại cần chú ý lựa chọn khu vực và hoạt động phù hợp, đồng thời tuân thủ hướng dẫn của Vườn Quốc gia Ba Vì."
+    },
+    {
+     "t": "p",
+     "text": "Từ nội thành Hà Nội, du khách di chuyển bằng xe riêng chạy thẳng Đại lộ Thăng Long, Láng - Hòa Lạc, Yên Bài đến Thiên Sơn Suối Ngà. Một cung đường khác nhiều người lựa chọn là qua quốc lộ 32. Thời gian di chuyển 1-2 tiếng."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Hiện giá vé vào Vườn Quốc gia Ba Vì được áp dụng theo nhiều mức. Vé người lớn có giá 60.000 đồng/người. Học sinh được áp dụng mức 10.000 đồng/người, sinh viên 20.000 đồng/người."
+    },
+    {
+     "t": "p",
+     "text": "Đối với nhóm được hưởng chính sách ưu tiên gồm người trên 60 tuổi và người khuyết tật, mức vé là 30.000 đồng/người."
+    }
+   ]
+  },
+  {
+   "id": "c423a5643c9e",
+   "order": 5,
+   "slug": "hlv-tay-ban-nha-om-dau-khi-chung-kien-sieu-pham-cua-yamal",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "HLV Tây Ban Nha ôm đầu khi chứng kiến siêu phẩm của Yamal",
+   "sapo": "Tây Ban Nha Lamine Yamal ghi tuyệt phẩm mở tỷ số, khiến HLV Luis de la Fuente ôm đầu thán phục, trong trận Tây Ban Nha thắng CH Czech 3-1 ở lượt ba bảng A3 Nations League.",
+   "author": "Hồng Duy",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/hlv-tay-ban-nha-om-dau-khi-chung-kien-sieu-pham-cua-yamal-5128128.html",
+   "published": "2026-10-03T22:50:19+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 834,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/c423a5643c9e-lead.jpg",
+     "caption": "",
+     "w": 1080,
+     "h": 607
+    },
+    {
+     "src": "img/2026-10-04/c423a5643c9e-0.jpg",
+     "caption": "Lamine Yamal dứt điểm chân trái mở tỷ số trong trận Tây Ban Nha thắng CH Czech 3-1 ở lượt ba bảng A3 Nations League trên sân Carlos Tartiere, Oviedo, Tây Ban Nha ngày 3/10/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 676
+    },
+    {
+     "src": "img/2026-10-04/c423a5643c9e-1.jpg",
+     "caption": "HLV De la Fuente phản ứng sau khi Yamal ghi bàn.",
+     "w": 1020,
+     "h": 1275
+    },
+    {
+     "src": "img/2026-10-04/c423a5643c9e-2.jpg",
+     "caption": "Rodri dứt điểm nâng tỷ số lên 2-0. Ảnh: AP",
+     "w": 1020,
+     "h": 676
+    },
+    {
+     "src": "img/2026-10-04/c423a5643c9e-3.jpg",
+     "caption": "Mikel Merino mừng bàn ấn định chiến thắng 3-1. Ảnh: Reuters",
+     "w": 1020,
+     "h": 676
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tây Ban Nha Lamine Yamal ghi tuyệt phẩm mở tỷ số, khiến HLV Luis de la Fuente ôm đầu thán phục, trong trận Tây Ban Nha thắng CH Czech 3-1 ở lượt ba bảng A3 Nations League."
+    },
+    {
+     "t": "p",
+     "text": "Yamal chỉ cần sáu phút để làm bùng nổ sân Carlos Tartiere tối 3/10. Nhận bóng gần góc cấm địa, tiền đạo Barca đẩy một nhịp sang chân trái rồi cứa lòng sở trường, đưa bóng vẽ thành đường cong vào góc cao phía đối diện, khiến thủ môn Antonin Kinsky bất lực trong việc cản phá."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau siêu phẩm, Yamal chạy về phía góc sân, đứng cạnh rồi đặt một tay lên cột cờ, ăn mừng ngão nghễ trước tiếng reo hò từ khán đài."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài đường biên, HLV Luis de la Fuente thở mạnh, quay lưng rồi đưa cả hai tay ôm đầu, như muốn ghi lại khoảnh khắc vừa chứng kiến. Sau trận, ông giải thích đó không phải sự kinh ngạc, mà là cảm giác thán phục với pha xử lý của học trò."
+    },
+    {
+     "t": "p",
+     "text": "Với Yamal, những khoảnh khắc phi thường như vậy đang dần trở nên quen thuộc. Đây là trận thứ ba liên tiếp anh ghi bàn cho Tây Ban Nha. Trước đó, tiền đạo sinh năm 2007 mở tỷ số trong trận thắng Anh 3-2 khi trận đấu chưa qua phút thứ hai, rồi chọc thủng lưới Croatia sau 104 giây ."
+    },
+    {
+     "t": "p",
+     "text": "Trong chín trận gần nhất, Yamal ghi 12 và kiến tạo bảy bàn. Pha lập công trước CH Czech cũng là bàn thứ 11 của tiền đạo này sau 36 lần khoác áo tuyển Tây Ban Nha."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "HLV De la Fuente thay đổi nhiều vị trí so với trận thắng Croatia, khi chỉ giữ Yamal và Alex Baena trong đội hình xuất phát. Ivan Fresneda đá hậu vệ phải, Fran Garcia án ngữ cánh trái, còn Roberto Fernandez lĩnh xướng hàng công."
+    },
+    {
+     "t": "p",
+     "text": "Dù xáo trộn đội hình, Tây Ban Nha vẫn nhập cuộc chủ động. Tuyến giữa với Rodri, Pedri và Dani Olmo giúp chủ nhà kiểm soát bóng vượt trội, liên tục ép CH Czech lùi sâu trong phần lớn hiệp một. Sau bàn mở tỷ số của Yamal, Tây Ban Nha tiếp tục duy trì sức ép và bước vào giờ nghỉ với lợi thế hai bàn nhờ cú đá cận thành của Rodri."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng thế trận đảo chiều sau giờ nghỉ. De la Fuente rút Yamal và Baena, đưa Victor Munoz cùng Yeremy Pino vào sân. Tây Ban Nha giảm nhịp, mất dần sự cân bằng, trong khi CH Czech mạnh dạn đẩy cao đội hình."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sức ép của đội khách được cụ thể hóa ở phút 69. Jiri Slama thoát xuống bên cánh trái rồi dứt điểm chéo góc, rút ngắn tỷ số xuống 1-2 và khiến bầu không khí trên sân Carlos Tartiere bỗng trở nên căng thẳng."
+    },
+    {
+     "t": "p",
+     "text": "Tây Ban Nha sau đó còn trải qua một phen hú vía. Thủ môn David Raya bắt không dính từ pha bóng bổng, tạo điều kiện để Ryan Naderi đá bồi vào lưới trống. Tuy nhiên, trọng tài đã cắt còi thổi phạt một cầu thủ CH Czech trước tình huống dứt điểm nên bàn thắng không được công nhận."
+    },
+    {
+     "t": "p",
+     "text": "Quyết định này khiến CH Czech phản ứng dữ dội. Căng thẳng kéo dài đến những phút cuối, khi Ladislav Krejci bị truất quyền thi đấu."
+    },
+    {
+     "t": "p",
+     "text": "Khi nguy cơ bị gỡ hòa xuất hiện, Tây Ban Nha lấy lại thế trận và tìm được bàn định đoạt trận đấu. Phút 89, Munoz xộc vào vòng cấm rồi dứt điểm không thắng được thủ môn Kinsky, nhưng bóng bật ra đúng vị trí để Mikel Merino đá bồi ấn định chiến thắng 3-1."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sau trận, De la Fuente thừa nhận Tây Ban Nha không duy trì được sự sắc bén ở hiệp hai. Ông cho rằng việc xoay vòng đội hình và lịch thi đấu dày đặc khiến các cầu thủ khó giữ cường độ cao trong suốt 90 phút."
+    },
+    {
+     "t": "p",
+     "text": "\"Rất khó duy trì sự cân bằng giữa kết quả và sức khỏe của cầu thủ\", HLV Tây Ban Nha nói. \"Chúng tôi làm những gì có thể. Các trận đấu phải được thắng, nhưng điều quan trọng nhất vẫn là sức khỏe. Hy vọng sẽ không có thêm chấn thương. Từ giờ đến trận tiếp theo, chắc chắn sẽ có người cảm nhận rõ hơn sự mệt mỏi. Đối thủ cũng vậy\"."
+    },
+    {
+     "t": "p",
+     "text": "Trong ba trận ở đợt tập trung này, Yamal chơi đủ 90 phút tại Wembley, 68 phút ở Sevilla và chỉ 45 phút tại Oviedo. Việc anh được rút ra sau hiệp một trước CH Czech cũng nằm trong kế hoạch giảm tải của ban huấn luyện."
+    },
+    {
+     "t": "p",
+     "text": "De la Fuente đặc biệt dành lời khen cho học trò. \"Sự trưởng thành của Yamal là điều chúng tôi chứng kiến mỗi ngày\", HLV 65 tuổi nói. \"Ở bàn thắng, tôi đưa tay ôm đầu vì ngưỡng mộ, không phải vì kinh ngạc\"."
+    }
+   ]
+  },
+  {
+   "id": "728713e7d2fe",
+   "order": 6,
+   "slug": "vua-tro-lai-thi-dau-anh-vien-gianh-luon-4-hcv-o-giai-boi-tie",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Vừa trở lại thi đấu, Ánh Viên giành luôn 4 HCV ở giải bơi tiền Đại hội thể thao toàn quốc",
+   "sapo": "Sau 4 năm rời đấu trường thành tích cao, Nguyễn Thị Ánh Viên vừa tái xuất với 4 HCV tại Giải bơi - lặn tiền Đại hội thể thao toàn quốc 2026. Cô cho biết tình yêu với bơi lội là động lực trở lại.",
+   "author": "THANH ĐỊNH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/vua-tro-lai-thi-dau-anh-vien-gianh-luon-4-hcv-o-giai-boi-tien-dai-hoi-the-thao-toan-quoc-100261003160847114.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 348,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/728713e7d2fe-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/728713e7d2fe-0.jpg",
+     "caption": "Ánh Viên trở lại đường đua xanh sau 4 năm - Ảnh: FBNV",
+     "w": 1280,
+     "h": 1073
+    },
+    {
+     "src": "img/2026-10-04/728713e7d2fe-1.jpg",
+     "caption": "Ánh Viên là tượng đài của bơi lội Việt Nam - Ảnh: FBNV",
+     "w": 1280,
+     "h": 1202
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải đấu khép lại tối 2-10 tại hồ bơi Phú Thọ (TP.HCM), đánh dấu màn trở lại ấn tượng của Nguyễn Thị Ánh Viên . Thi đấu trong màu áo Trung tâm Thể dục thể thao Quốc phòng 4, kình ngư 30 tuổi giành chiến thắng ở cả bốn nội dung đăng ký."
+    },
+    {
+     "t": "p",
+     "text": "Trong ngày tranh tài cuối, Ánh Viên về nhất cự ly 200m tự do nữ với thời gian 2 phút 6 giây 21. Cô tiếp tục giành HCV ở nội dung 200m hỗn hợp cá nhân nữ. Trước đó, “tiểu tiên cá” đã đăng quang ở hai cự ly 100m ngửa và 200m ngửa, hoàn tất giải đấu với 4 HCV."
+    },
+    {
+     "t": "p",
+     "text": "Giải tiền đại hội vừa là dịp kiểm tra công tác tổ chức, cơ sở vật chất, vừa giúp ban huấn luyện đánh giá chuyên môn trước sân chơi chính thức."
+    },
+    {
+     "t": "p",
+     "text": "Với Ánh Viên, đây còn là cơ hội tìm lại cảm giác thi đấu sau thời gian dài rời môi trường thể thao thành tích cao."
+    },
+    {
+     "t": "p",
+     "text": "Trên trang Facebook cá nhân chiều ngày 3-10, Ánh Viên chia sẻ: “4 năm rồi, Viên mới trở lại đường đua”."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nữ kình ngư cho biết lần trở lại này không xuất phát từ mục tiêu huy chương hay mong muốn chứng minh thắng thua. Điều thôi thúc cô là nhận ra bản thân vẫn còn rất yêu bơi, muốn được tập luyện và sống lại với đam mê."
+    },
+    {
+     "t": "p",
+     "text": "“Viên muốn được bơi, được tập luyện, được sống lại với đam mê và lan tỏa tình yêu với đường đua xanh đến nhiều người hơn, đặc biệt là các bạn nhỏ”, Ánh Viên viết."
+    },
+    {
+     "t": "p",
+     "text": "Cô cũng mong tiếp tục nhận được sự yêu thương, đồng hành của mọi người."
+    },
+    {
+     "t": "p",
+     "text": "Bốn HCV là khởi đầu thuận lợi, nhưng cuộc cạnh tranh tại Đại hội thể thao toàn quốc vào tháng 11 tới được dự báo khó khăn hơn rất nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi khép lại sự nghiệp thành tích cao cuối năm 2022, lần trở lại này của Ánh Viên đã gây bất ngờ cho nhiều người hâm mộ."
+    }
+   ]
+  },
+  {
+   "id": "7daeaecf3096",
+   "order": 7,
+   "slug": "cau-may-viet-nam-lap-ky-tich-sau-20-nam",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Cầu mây Việt Nam lập kỳ tích sau 20 năm",
+   "sapo": "Cầu mây Việt Nam tạo tiếng vang khi đoạt cú đúp HCV ở ASIAD 20, lặp lại kỳ tích cách đây 20 năm ở ASIAD 15 năm 2006 tại Doha, Qatar.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/cau-may-viet-nam-lap-ky-tich-sau-20-nam-185261003204450396.htm",
+   "published": "2026-10-03T19:13:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 840,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/7daeaecf3096-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/7daeaecf3096-0.jpg",
+     "caption": "Kỳ tích của cầu mây Việt Nam",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-04/7daeaecf3096-1.jpg",
+     "caption": "Đội tuyển cầu mây VN thắng lớn với cú đúp HCV tại ASIAD 20",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-04/7daeaecf3096-2.jpg",
+     "caption": "Niềm vui sướng của Ban huấn luyện",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Chiến thắng của bản lĩnh"
+    },
+    {
+     "t": "p",
+     "text": "Ở chung kết nội dung đồng đội 4 người nữ diễn ra hôm qua 3.10, đội tuyển cầu mây VN đối mặt với thách thức rất lớn bởi đối thủ Thái Lan là cường quốc số 1 cầu mây thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Từng đánh bại Thái Lan ở vòng bảng, nhưng đúng như cảnh báo từ BHL, đối thủ nắm rất rõ từng điểm mạnh, yếu của đội tuyển VN, sẽ bung hết \"bài vở\" cho trận chung kết. Đội tuyển VN cũng cho thấy sự chuẩn bị kỹ càng từ cách dùng người trong từng thời điểm đến chuẩn bị tâm lý. Điều quan trọng, từng tuyển thủ khi được giao trọng trách đều thể hiện được trách nhiệm, bản lĩnh. Từng mảnh ghép Nguyễn Thị Yến, Nguyễn Thị My, Nguyễn Thị Ngọc Huyền, Trần Thị Ngọc Yến, Hoàng Thị Thu Thảo đồng sức đồng lòng, động viên nhau chinh phục từng pha bóng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau chiến thắng 15/11 ở ván 1, đội tuyển VN bị Thái Lan tạo cách biệt lên tới 5 điểm (13/8) ở ván 2, tiến gần đến chiến thắng. Thế nhưng các học trò HLV Trần Thị Vui không buông xuôi mà vùng lên mạnh mẽ, ghi 6 điểm liên tiếp để dẫn ngược đối thủ 14/13, đẩy cảm xúc người xem lên cao trào. Tiếc nuối khi để đối thủ vươn lên giành chiến thắng 17/15, cân bằng tỷ số 1-1, nhưng các cô gái VN vẫn giữ vững tinh thần, thi đấu bùng nổ, giành chiến thắng ở ván 3 quyết định và vỡ òa cảm xúc đăng quang ."
+    },
+    {
+     "t": "h",
+     "text": "Tự hào cầu mây VN"
+    },
+    {
+     "t": "p",
+     "text": "Tại ASIAD 15 cách đây 20 năm, thế hệ đàn chị Lưu Thị Thanh, Nguyễn Hải Thảo, Nguyễn Bích Thùy… tạo kỳ tích đoạt cú đúp HCV nội dung đôi nữ, đồng đội 4 người nữ. Đến ASIAD 19 năm 2023 tại Hàng Châu (Trung Quốc), cầu mây VN có thêm tấm HCV nội dung 4 người nữ. Và tại ASIAD lần này đã lặp lại kỳ tích 20 năm trước, đúng ở nội dung đôi nữ và đồng đội 4 người nữ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "HLV Trần Thị Vui cho biết: \"Cả ở nội dung đôi nữ lẫn nội dung đồng đội 4 người nữ, từng tuyển thủ đều làm tốt vai trò của mình, tuân thủ chặt chẽ đấu pháp trước từng đối thủ. Điều tôi mừng nhất là ở những thời điểm khó khăn, dù có sai sót nhưng các em đã biết cách vượt qua. Còn gì vui sướng hơn với cô trò khi 2 lần thắng được Thái Lan trong 1 kỳ ASIAD\"."
+    },
+    {
+     "t": "p",
+     "text": "Thành công của cầu mây VN đến từ nhiều yếu tố, trên hết vẫn là khổ luyện. Được biết trong giai đoạn quan trọng chuẩn bị cho ASIAD, Nguyễn Thị Yến cùng các đồng đội tập luyện mỗi ngày hơn 10 tiếng đồng hồ, kết hợp chuyên môn lẫn bổ sung nền tảng thể lực."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên \"chìa khóa\" để cầu mây VN đánh bại được đội tuyển số 1 thế giới Thái Lan đến từ chiến lược đầu tư đúng đắn. Riêng trong năm nay, bên cạnh trui rèn qua các giải quốc tế, đội tuyển cầu mây VN có 2 chuyến tập huấn tại Thái Lan, chiếc nôi của cầu mây thế giới. Nhờ tập huấn, thi đấu thường xuyên với các cầu thủ Thái Lan, các tuyển thủ cầu mây VN trở nên tự tin, mạnh dạn, không bị áp lực tâm lý khi chạm trán với đối thủ này ở các giải đấu chính thức."
+    },
+    {
+     "t": "p",
+     "text": "Đóng góp 2 trong tổng số 3 HCV cho đoàn thể thao VN tại ASIAD 20, cầu mây VN xứng đáng được vinh danh. Ngay sau khi nhận tin vui đội tuyển cầu mây VN thắng Thái Lan, đoạt HCV nội dung 4 người nữ, Bộ trưởng Bộ VH-TT-DL Lâm Thị Phương Thanh đã gửi lời chúc mừng, biểu dương tinh thần thi đấu quả cảm của toàn đội, đồng thời chỉ đạo đoàn thể thao VN thưởng nóng. Bên cạnh số tiền thưởng hơn 1,1 tỉ đồng theo chế độ nhà nước, đội tuyển cầu mây 4 người nữ còn được đoàn thể thao VN thưởng nóng 200 triệu đồng. Các tuyển thủ cầu mây đoạt HCV còn được hưởng chế độ đãi ngộ đặc biệt 20 triệu đồng/người/tháng, kéo dài đến kỳ ASIAD tiếp theo (4 năm)."
+    },
+    {
+     "t": "h",
+     "text": "Đoàn thể thao VN không hoàn thành chỉ tiêu"
+    },
+    {
+     "t": "p",
+     "text": "Hôm qua, đoàn thể thao VN kết thúc thi đấu ở tất cả các môn tại ASIAD 20 tại Nhật Bản. Với 3 HCV, 3 HCB, 19 HCĐ, đoàn thể thao VN xếp hạng 19 trên bảng tổng sắp huy chương toàn đoàn. Như vậy đoàn thể thao VN dù rất nỗ lực nhưng không hoàn thành chỉ tiêu đặt ra từ đầu là đoạt 4 HCV. Hôm nay sẽ diễn ra lễ bế mạc ASIAD 20."
+    },
+    {
+     "t": "p",
+     "text": "Theo lịch trình, kỳ ASIAD tiếp theo sẽ diễn ra năm 2030 tại Doha (Qatar)."
+    }
+   ]
+  },
+  {
+   "id": "6cee4c277fe3",
+   "order": 8,
+   "slug": "asiad-2026-cau-may-nu-viet-nam-vuot-qua-suc-ep-de-bao-ve-tam",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "ASIAD 2026: Cầu mây nữ Việt Nam vượt qua sức ép để bảo vệ tấm huy chương Vàng",
+   "sapo": "Chiến thắng 2-1 trước Thái Lan giúp Cầu mây nữ Việt Nam hoàn tất cú đúp huy chương Vàng tại ASIAD 2026 và đóng góp 2 trong 3 tấm huy chương Vàng của Đoàn Thể thao Việt Nam tính đến thời điểm này.",
+   "author": "Bùi Hà",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/asiad-2026-cau-may-nu-viet-nam-vuot-qua-suc-ep-de-bao-ve-tam-huy-chuong-vang-post1139827.vnp",
+   "published": "2026-10-03T07:03:29+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1190,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/6cee4c277fe3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/6cee4c277fe3-0.jpg",
+     "caption": "Các tuyển thủ cầu mây nữ Việt Nam ăn mừng chiến thắng với lá cờ Tổ quốc. (Ảnh: TTXVN phát)",
+     "w": 1000,
+     "h": 667
+    },
+    {
+     "src": "img/2026-10-04/6cee4c277fe3-1.jpg",
+     "caption": "Đội tuyển cầu mây nữ Việt Nam được tặng thưởng vì thành tích xuất sắc. (Ảnh: TTXVN phát)",
+     "w": 1000,
+     "h": 667
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sáng 3/10, Đội tuyển Cầu mây nữ Việt Nam đánh bại Thái Lan 2-1 trong trận chung kết nội dung đồng đội 4 người nữ tại ASIAD 2026, qua đó bảo vệ thành công tấm huy chương Vàng từng giành được tại ASIAD Hàng Châu 2022."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả này cũng mang về huy chương Vàng thứ ba cho Đoàn Thể thao Việt Nam tại Đại hội năm nay."
+    },
+    {
+     "t": "p",
+     "text": "Trận chung kết trước Thái Lan một lần nữa cho thấy bản lĩnh của các cô gái Việt Nam. Sau khi thắng set đầu 15-11, đội để đối thủ gỡ hòa ở set hai và tiếp tục rơi vào thế bị dẫn trong set quyết định. Dù vậy, các vận động viên vẫn giữ được sự bình tĩnh, từng bước giành lại quyền chủ động và thắng 15-11 ở set ba để khép lại trận đấu với tỷ số 2-1. Những kinh nghiệm tích lũy qua nhiều lần đối đầu với Thái Lan đã phát huy tác dụng đúng vào thời điểm quan trọng nhất."
+    },
+    {
+     "t": "p",
+     "text": "Việt Nam và Thái Lan thường xuyên gặp nhau tại các giải quốc tế nên gần như đã hiểu khá rõ cách chơi, kỹ thuật cũng như phương án chiến thuật của đối phương."
+    },
+    {
+     "t": "p",
+     "text": "Huấn luyện viên Trần Thị Vui cho biết: “Giữa Việt Nam và Thái Lan thì không lạ gì nhau, kể cả về chiến thuật. Vì vậy, khi hai đội gặp nhau thì đây là một trận thi đấu rất khó khăn, bởi vì cả hai đội đều có kỹ thuật tương đối tốt.\""
+    },
+    {
+     "t": "p",
+     "text": "Trong bối cảnh chênh lệch chuyên môn không lớn, khả năng giữ bình tĩnh và sẵn sàng vượt qua những giai đoạn bất lợi trở thành yếu tố có ý nghĩa quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi bỏ lỡ cơ hội kết thúc trận đấu ở set hai, các vận động viên Việt Nam nhanh chóng ổn định tinh thần, điều chỉnh cách phát cầu và tổ chức lại lối chơi."
+    },
+    {
+     "t": "p",
+     "text": "Huấn luyện viên Trần Thị Vui đánh giá chính sự chủ động đó đã giúp các học trò lấy lại nhịp thi đấu và xoay chuyển cục diện ở set cuối."
+    },
+    {
+     "t": "p",
+     "text": "Bài học từ thất bại trước Thái Lan tại King's Cup cũng giúp toàn đội trưởng thành hơn trong cách xử lý những tình huống then chốt. Ở giải đấu trước, Việt Nam từng có cơ hội vượt lên nhưng không tận dụng được. Lần tái đấu này, các vận động viên đã biết cách nắm lấy thời cơ."
+    },
+    {
+     "t": "p",
+     "text": "Huấn luyện viên Trần Thị Vui chia sẻ: “Ở King's Cup đã có những thời điểm mà chúng ta có thể vượt lên, nhưng không vượt lên được thì chúng ta thua, nhưng đợt này chúng ta đã làm được.\""
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau chiến thắng là một quá trình dài mà cả cô và trò cùng chịu sức ép của mục tiêu bảo vệ ngôi vô địch. vận động viên Nguyễn Thị My cho biết cảm xúc lớn nhất sau trận là niềm tự hào và sự giải tỏa sau những ngày tháng tập luyện, chuẩn bị."
+    },
+    {
+     "t": "p",
+     "text": "Cô chia sẻ: “Cảm xúc lúc đấy của em là rất tự hào và em muốn giải tỏa những áp lực mà một thời gian cô trò chúng em cùng nhau trải qua. Em vỡ òa khi giành được tấm huy chương vàng này.”"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau tấm huy chương Vàng giành được tại ASIAD Hàng Châu, các vận động viên bước vào kỳ Đại hội lần này với mục tiêu bảo vệ thành quả đã có và tiếp tục khẳng định vị thế của Cầu mây nữ Việt Nam ở đấu trường châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Các vận động viên hiểu rằng ASIAD lần này đặt ra yêu cầu cao hơn so với chính thành tích mà họ đã tạo dựng trước đó. Mục tiêu vì thế không chỉ là giành huy chương, mà còn là chứng minh khả năng duy trì vị thế ở đấu trường châu lục."
+    },
+    {
+     "t": "p",
+     "text": "Toàn đội đã dồn sức cho quá trình chuẩn bị, cùng nhau đi qua những thời điểm khó khăn để trở lại trận chung kết và một lần nữa đứng trên bục cao nhất."
+    },
+    {
+     "t": "p",
+     "text": "Thành quả ấy cũng mang dấu ấn rõ nét của hai nữ huấn luyện viên đã đồng hành cùng các học trò trong suốt hành trình. Cả hai từng là tuyển thủ cầu mây, từng trực tiếp thi đấu tại ASIAD trước khi chuyển sang công tác huấn luyện. Vì vậy, chiến thắng của thế hệ hiện tại còn mang ý nghĩa đặc biệt đối với những người từng theo đuổi chính mục tiêu ấy khi còn là vận động viên."
+    },
+    {
+     "t": "p",
+     "text": "Huấn luyện viên Hoàng Thái Xuân chia sẻ: “Chúng tôi đã từng là vận động viên, đã từng thi đấu các kỳ ASIAD và bây giờ trên cương vị huấn luyện viên chúng tôi thấy rất hạnh phúc khi các học trò đã làm được kỳ tích mà chúng tôi từng chưa làm được khi còn thi đấu.\""
+    },
+    {
+     "t": "p",
+     "text": "Với một êkíp huấn luyện chỉ gồm 2 người, công việc của các huấn luyện viên không dừng ở chuyên môn. Họ cùng đảm nhiệm từ kỹ thuật, chiến thuật đến tâm lý, sức khỏe và đời sống sinh hoạt của các vận động viên."
+    },
+    {
+     "t": "p",
+     "text": "Sự gần gũi ấy giúp tạo nên mối gắn kết đặc biệt giữa cô và trò, đồng thời trở thành chỗ dựa cho các tuyển thủ trong những giai đoạn căng thẳng của quá trình chuẩn bị và thi đấu. Tấm huy chương Vàng nội dung 4 người nữ vì vậy là thành quả của cả một tập thể đã cùng nhau tích lũy kinh nghiệm, đi qua thất bại và trưởng thành qua từng giải đấu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ King's Cup đến ASIAD, những lần đối đầu với Thái Lan đã tôi luyện thêm bản lĩnh cho các cô gái Việt Nam. Khi bước vào trận đấu quan trọng nhất, họ không chỉ thắng bằng kỹ thuật mà còn bằng sự bình tĩnh, niềm tin và sự gắn bó được xây dựng trong suốt một hành trình dài."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng 2-1 trước Thái Lan giúp Cầu mây nữ Việt Nam hoàn tất cú đúp huy chương Vàng tại ASIAD 2026 và đóng góp 2 trong 3 tấm huy chương Vàng của Đoàn Thể thao Việt Nam tính đến thời điểm này."
+    },
+    {
+     "t": "p",
+     "text": "Thành quả ấy được tạo nên từ những tháng ngày tập luyện, những lần vấp ngã, sự sẻ chia giữa cô và trò. Với các cô gái Việt Nam, tấm huy chương Vàng lần này vì thế không chỉ là phần thưởng cho một trận thắng, mà còn là kết tinh của cả một hành trình cùng nhau vượt qua sức ép để chạm tới mục tiêu đã đặt ra./."
+    },
+    {
+     "t": "h",
+     "text": "Cầu mây nữ mang HCV thứ 3 về cho đoàn thể thao Việt Nam tại ASIAD 2026"
+    },
+    {
+     "t": "p",
+     "text": "Sáng 3/10, đội tuyển Cầu mây nữ đã xuất sắc đánh bại Thái Lan 2-1 trong trận chung kết nội dung đồng đội 4 người nữ tại ASIAD 2026, qua đó mang huy chương Vàng thứ 3 về cho Việt Nam tại ASIAD 2026."
+    }
+   ]
+  },
+  {
+   "id": "beb4578aa5e7",
+   "order": 9,
+   "slug": "google-can-10-nam-va-1-800-lan-phong-de-xay-trung-tam-du-lie",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Google: Cần 10 năm và 1.800 lần phóng để xây trung tâm dữ liệu vũ trụ",
+   "sapo": "Google ước tính việc xây trung tâm dữ liệu không gian vẫn khả thi đến 2035, nhưng tàu Starship cần phóng ít nhất 1.800 lần để vận chuyển vật tư.",
+   "author": "Bảo Lâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/google-can-10-nam-va-1-800-lan-phong-de-xay-trung-tam-du-lieu-vu-tru-5127638.html",
+   "published": "2026-10-03T07:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 991,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/beb4578aa5e7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-04/beb4578aa5e7-0.jpg",
+     "caption": "Nguyên mẫu vệ tinh của Project Suncatcher trang bị TPU của Google. Ảnh: Planet Labs",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Google ước tính việc xây trung tâm dữ liệu không gian vẫn khả thi đến 2035, nhưng tàu Starship cần phóng ít nhất 1.800 lần để vận chuyển vật tư."
+    },
+    {
+     "t": "p",
+     "text": "Theo báo cáo chuyên sâu công bố trên trên tạp chí Joule ngày 1/10, nhóm nghiên cứu Google cho biết công nghệ vận chuyển lên vũ trụ sẽ dần hoàn thiện đến năm 2035. Trong đó, các hệ thống tàu của SpaceX của Elon Musk đóng vai trò chính."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm cho rằng những bên muốn xây dựng trung tâm dữ liệu sẽ tìm đến SpaceX đầu tiên. Khả năng chế tạo tên lửa của công ty Elon Musk hiện đã cải tiến cả về tốc độ và công nghệ theo thời gian. Kể từ khi phóng thành công Falcon 1 năm 2008, giá thành phóng đã giảm 20% mỗi năm. Đến 2035, nhóm ước tính giá phóng của SpaceX sẽ còn tầm 200 USD mỗi kg, được đánh giá \"hoàn toàn hợp lý\"."
+    },
+    {
+     "t": "p",
+     "text": "Dựa trên lượng tải trọng được phóng bởi tên lửa Falcon 9 hiện nay, nhóm Google cho rằng lộ trình giảm chi phí tương tự sẽ đòi hỏi Starship phải đưa 370.000 tấn vật tư lên quỹ đạo. Có nghĩa, hoàn thành một trung tâm dữ liệu cần khoảng 1.800 lần phóng trong 10 năm tới, trung bình 180 lần mỗi năm, tải trọng 200 tấn trong mỗi nhiệm vụ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo TechCrunch , đây là yêu cầu \"quá lớn\" khi Starship hiện chỉ bay vài lần mỗi năm. Tuy nhiên, SpaceX đang lên kế hoạch xin cấp phép và nâng tần suất phóng lên 25-100 nhiệm vụ hàng năm. Elon Musk từng gợi ý rằng Starship có thể đạt tần suất 30 lần/ngày vào năm 2030, tương đương hơn 10.000 chuyến mỗi năm, dù tỷ phú công nghệ này nổi tiếng về việc chậm tiến độ."
+    },
+    {
+     "t": "p",
+     "text": "SpaceX hiện phát triển Starship ở cơ sở Starbase, Texas, nơi tên lửa đã trải qua 13 chuyến bay thử nghiệm với mức độ thành công khác nhau. Trong khi đó, Starbase, Louisiana sẽ trở thành cơ sở cất cánh của Starship sau khi phương tiện chứng minh được khả năng vận chuyển hàng hóa an toàn lên quỹ đạo. Công ty cũng đã lên kế hoạch hạ cánh và thu hồi mọi bộ phận của Starship, gồm tầng đẩy Super Heavy và tàu Ship ở tầng trên, cho phép tái sử dụng nhanh chóng tên lửa và giảm chi phí mỗi lần phóng."
+    },
+    {
+     "t": "p",
+     "text": "Hồi tháng 1, SpaceX nộp đơn lên Ủy ban Truyền thông Liên bang Mỹ (FCC), đề xuất phóng một triệu vệ tinh để tạo trung tâm dữ liệu trên quỹ đạo. Đến tháng 6, Musk hé lộ thiết kế chi tiết của AI1 - thế hệ đầu tiên trong loạt vệ tinh mà công ty dự kiến sử dụng làm trung tâm dữ liệu vũ trụ. AI1 cao 20 m và sải cánh 70 m, vượt sải cánh 68,4 m của máy bay Boeing 747-8, có thể trở thành vệ tinh lớn nhất mà SpaceX từng phóng."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài Musk, nhà sáng lập Amazon Jeff Bezos cũng đặt tham vọng tương tự. Dù vậy, họ vấp phải sự hoài nghi lớn. Hồi tháng 2, CEO OpenAI Sam Altman cho rằng ý định xây trung tâm ngoài không gian \"nực cười\" ở hiện tại, do công nghệ chưa hoàn thiện. Một số chuyên gia khác cho rằng các hệ thống này có thể trở thành thảm họa gây ô nhiễm và làm thay đổi khí quyển Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Google vừa phóng vệ tinh đầu tiên tích hợp vi xử lý Tensor (TPU) tự thiết kế lên vũ trụ ngày 1/10 trong khuôn khổ dự án Suncatcher nhằm kiểm tra khả năng hoạt động của chip AI ngoài không gian. Vệ tinh do Planet Labs chế tạo, mang bốn TPU, pin mặt trời công suất khoảng 1 kW và hệ thống làm mát, được đưa lên bằng tên lửa Falcon 9 trong chuyến bay Transporter-18 của SpaceX. Google xác nhận đã liên lạc và vệ tinh đang hoạt động theo thiết kế."
+    },
+    {
+     "t": "p",
+     "text": "Vệ tinh sẽ chạy mô hình AI của Google theo từng đợt 15 phút để kiểm soát mức tiêu thụ năng lượng và nhiệt. Dữ liệu thu thập từ thử nghiệm sẽ giúp hãng đánh giá khả năng vận hành TPU trước bức xạ, nhiệt độ và các điều kiện vật lý không gian. Công ty và Planet Labs cũng đang phát triển hai vệ tinh chuyên dụng, kết nối bằng laser, dự kiến phóng đầu 2027."
+    },
+    {
+     "t": "p",
+     "text": "Suncatcher là dự án dài hạn của Google nhằm nghiên cứu khả năng xây dựng trung tâm dữ liệu AI trên quỹ đạo. Công ty hình dung mạng lưới 81 vệ tinh hoạt động song song, tận dụng nguồn ánh sáng Mặt Trời gần như liên tục tại quỹ đạo Trái Đất tầm thấp, nơi vệ tinh nhận năng lượng nhiều hơn khoảng 8 lần so với trên mặt đất. Tuy nhiên, dự án vẫn cần giải quyết bài toán băng thông, độ trễ, nhiệt và khả năng mở rộng."
+    },
+    {
+     "t": "p",
+     "text": "Bảo Lâm tổng hợp"
+    },
+    {
+     "t": "li",
+     "text": "Công ty Mỹ xây trung tâm dữ liệu AI 20 GW trong không gian"
+    },
+    {
+     "t": "li",
+     "text": "Trung tâm dữ liệu đầu tiên sử dụng 16 triệu nơron người"
+    },
+    {
+     "t": "li",
+     "text": "Trung tâm dữ liệu vũ trụ của Musk và Bezos có thể là thảm họa cho hành tinh"
+    },
+    {
+     "t": "li",
+     "text": "Bước tiến giúp xây trung tâm dữ liệu không gian của Musk"
+    },
+    {
+     "t": "li",
+     "text": "Tham vọng xây trung tâm dữ liệu vũ trụ của Musk khó thành"
+    },
+    {
+     "t": "li",
+     "text": "Công ty Mỹ xây trung tâm dữ liệu AI 20 GW trong không gian"
+    },
+    {
+     "t": "li",
+     "text": "Trung tâm dữ liệu đầu tiên sử dụng 16 triệu nơron người"
+    },
+    {
+     "t": "li",
+     "text": "Trung tâm dữ liệu vũ trụ của Musk và Bezos có thể là thảm họa cho hành tinh"
+    },
+    {
+     "t": "li",
+     "text": "Bước tiến giúp xây trung tâm dữ liệu không gian của Musk"
+    },
+    {
+     "t": "li",
+     "text": "Tham vọng xây trung tâm dữ liệu vũ trụ của Musk khó thành"
+    }
+   ]
+  },
+  {
+   "id": "88cdab3eac28",
+   "order": 10,
+   "slug": "anh-tu-chup-o-suon-nui-vera-rubin",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Ảnh tự chụp ở sườn núi Vera Rubin",
+   "sapo": "",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+   "published": "2026-10-03T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 276,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Selfie at Vera Rubin Ridge",
+   "images": [
+    {
+     "src": "img/2026-10-04/88cdab3eac28-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-04/88cdab3eac28-0.jpg",
+     "caption": "Ảnh góc rộng mắt cá (fisheye) chụp xe tự hành Curiosity trên sao Hỏa.",
+     "w": 1200,
+     "h": 600
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "APOD"
+    },
+    {
+     "t": "p",
+     "text": "Ảnh thiên văn mỗi ngày"
+    },
+    {
+     "t": "p",
+     "text": "Khám phá vũ trụ! Mỗi ngày, một bức ảnh khác nhau về vũ trụ kỳ thú của chúng ta được giới thiệu, kèm theo lời giải thích ngắn gọn do một nhà thiên văn học chuyên nghiệp viết."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải thích: Vào ngày sol 1943 trong chuyến hành trình khám phá bề mặt sao Hỏa, xe tự hành Curiosity đã chụp bức ảnh tự chụp này tại rìa phía nam của sườn núi Vera Rubin. Một \"sol\" là một ngày Mặt Trời trên sao Hỏa, dài hơn một ngày Trái Đất khoảng 40 phút. Ngày sol 1943 của Curiosity tương ứng với ngày 23 tháng 1 năm 2018 theo lịch Trái Đất. Bức ảnh toàn cảnh ghép này, cũng được dựng thành video thực tế ảo (VR) tương tác 360 độ, kết hợp 61 tấm ảnh được chụp bởi camera cận cảnh Mars Hand Lens Imager (MAHLI) gắn trên cánh tay của chiếc xe tự hành có kích cỡ cỡ một chiếc ô tô nhỏ này. Các khung hình có chứa cánh tay của camera đã được chỉnh sửa bỏ đi, còn phần hậu cảnh mở rộng được lấy từ ảnh do camera Mastcam của xe tự hành chụp vào ngày sol 1903. Ở đỉnh cột ăng-ten của xe tự hành, nằm ngay trên Mastcam, phần vỏ chứa thiết bị bắn laser ChemCam che khuất đỉnh núi Sharp cao 5 km ở phía xa. Vào ngày 26 tháng 8 năm 2026 theo lịch Trái Đất, Curiosity đã ghi nhận tổng độ cao leo được là 1 km trong hành trình từ đáy miệng núi lửa Gale Crater lên sườn núi Sharp."
+    }
+   ]
+  },
+  {
+   "id": "80f640b167f3",
+   "order": 11,
+   "slug": "thich-thu-xem-robot-hit-dat-danh-co-va-ve-tranh",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Thích thú xem robot hít đất, đánh cờ và vẽ tranh",
+   "sapo": "Những sản phẩm robot do sinh viên phát triển gây chú ý tại Gia Lai HackAIthon 2026 với khả năng hít đất, đánh cờ, vẽ tranh và giao tiếp.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/thich-thu-xem-robot-hit-dat-danh-co-va-ve-tranh-185261003114832899.htm",
+   "published": "2026-10-03T06:05:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 742,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/80f640b167f3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/80f640b167f3-0.jpg",
+     "caption": "Robot dáng người có thể nhảy múa, vẫy tay, bước đi theo khẩu lệnh và có thể giao tiếp bằng tiếng Việt",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-04/80f640b167f3-1.jpg",
+     "caption": "Robot thực hiện động tác hít đất sau khi nghe khẩu lệnh từ nhóm sinh viên quản lý",
+     "w": 1280,
+     "h": 722
+    },
+    {
+     "src": "img/2026-10-04/80f640b167f3-2.jpg",
+     "caption": "Các bạn trẻ thích thú đấu cờ vua với cánh tay robot",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-04/80f640b167f3-3.jpg",
+     "caption": "Cánh tay robot đạt hệ số 3.000 Elo tương đương cấp độ đại kiện tướng",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-04/80f640b167f3-4.jpg",
+     "caption": "Cánh tay robot biểu diễn khả năng vẽ tranh",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tại cuộc thi Gia Lai Youth HackAIthon 2026, sinh viên Khoa Trí tuệ nhân tạo, Trường ĐH FPT, giới thiệu nhiều sản phẩm ứng dụng AI và robot , trong đó có robot dáng người có thể hít đất, nhảy múa, giao tiếp bằng tiếng Việt và cánh tay robot có khả năng đánh cờ, vẽ tranh."
+    },
+    {
+     "t": "h",
+     "text": "Robot dáng người biết hít đất"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một trong những sản phẩm thu hút sự chú ý tại sự kiện là robot dáng người được nhóm sinh viên phát triển trên nền tảng phần cứng có sẵn. Phần cứng được mua từ nước ngoài, sau đó nhóm trực tiếp lập trình và tích hợp hệ thống để mở rộng các chức năng."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Xuân Định, sinh viên năm 3 Khoa Trí tuệ nhân tạo, cho biết robot được lập trình để nhận lệnh bằng tiếng Việt thay vì giao diện tiếng Anh mặc định."
+    },
+    {
+     "t": "p",
+     "text": "Robot có thể thực hiện nhiều động tác như hít đất, giơ tay, đá chân, nhảy theo nhạc và tương tác với người dùng. Hệ thống còn được tích hợp camera để nhận diện khuôn mặt, lưu thông tin và nhận biết người quen."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhờ tích hợp trí tuệ nhân tạo, robot có thể hỏi đáp với người dùng, hỗ trợ một số công việc như hướng dẫn nấu ăn hoặc giải đáp câu hỏi."
+    },
+    {
+     "t": "p",
+     "text": "Theo Định, mô hình được phát triển ở quy mô nhỏ nhằm giúp sinh viên học tập, nghiên cứu và thử nghiệm các thuật toán điều khiển trước khi áp dụng vào những dòng robot hình người lớn hơn."
+    },
+    {
+     "t": "h",
+     "text": "Cánh tay robot đánh cờ, vẽ tranh"
+    },
+    {
+     "t": "p",
+     "text": "Một sản phẩm khác gây chú ý là cánh tay robot có khả năng đánh cờ với người chơi và vẽ tranh. Hệ thống kết hợp cánh tay robot, camera cùng các thuật toán xử lý hình ảnh và trí tuệ nhân tạo."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với chức năng đánh cờ, camera phía trên bàn cờ ghi nhận vị trí các quân cờ, sau đó truyền dữ liệu cho hệ thống xử lý. Robot phân tích thế cờ, tính toán nước đi và điều khiển cánh tay để di chuyển quân cờ."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm phát triển, robot không chỉ thực hiện thao tác theo dữ liệu có sẵn mà còn phải phân tích diễn biến ván đấu để lựa chọn nước đi."
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống hiện kết nối với máy tính để xử lý dữ liệu. Nhóm cho biết mô hình đạt khoảng 3.000 Elo (hệ số đánh giá trình độ chơi cờ - PV) tương đương cấp độ đại kiện tướng và đã được đưa vào giao lưu thực tế với người chơi."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đánh cờ, một cánh tay robot khác tại triển lãm còn có thể vẽ tranh. Từ ảnh chụp người thật, phần mềm phân tích hình ảnh, xác định các đường nét chính trên khuôn mặt rồi tính toán trình tự và tọa độ nét vẽ trước khi truyền lệnh cho robot."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Anh Tiến, sinh viên năm 3 ngành trí tuệ nhân tạo, cho biết phần cứng mô hình do nhà trường trang bị, còn chương trình điều khiển và các thuật toán xử lý do nhóm sinh viên tự phát triển."
+    },
+    {
+     "t": "p",
+     "text": "Cánh tay robot có 3 khớp chuyển động, được thiết kế để thực hiện các thao tác với độ chính xác cao. Ngoài những ứng dụng trải nghiệm như vẽ tranh, chơi cờ, nhóm hướng đến việc sử dụng mô hình trong lắp ráp linh kiện điện tử, vi mạch và phục vụ giảng dạy, thực hành."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Cuộc thi Gia Lai Youth HackAIthon 2026 do Tỉnh đoàn Gia Lai phối hợp Trường ĐH FPT cơ sở Quy Nhơn tổ chức, diễn ra trong 2 ngày (3 - 4.10). Đây là sân chơi để học sinh, sinh viên vận dụng kiến thức, kỹ năng và công cụ AI xây dựng các ý tưởng, sản phẩm, giải pháp phục vụ học tập, đời sống, nông nghiệp, sản xuất, kinh doanh và cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Anh Phạm Hồng Hiệp, Bí thư Tỉnh đoàn Gia Lai, cho biết chương trình nhằm kết nối chuyên gia, nhà khoa học với các dự án khởi nghiệp của thanh niên. Dịp này, Tỉnh đoàn cũng ký kết biên bản ghi nhớ với các cơ quan, đơn vị nhằm mở rộng cơ hội kết nối nguồn lực, hỗ trợ thanh niên nghiên cứu khoa học, chuyển giao công nghệ, khởi nghiệp và đổi mới sáng tạo."
+    }
+   ]
+  },
+  {
+   "id": "037ba86b0574",
+   "order": 12,
+   "slug": "trai-tim-gia-tro-nen-tre-hon-ve-mat-sinh-hoc-khi-duoc-ghep-v",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Trái tim già trở nên trẻ hơn về mặt sinh học khi được ghép vào người trẻ tuổi",
+   "sapo": "Trái tim chắc chắn là một trong những cơ quan quan trọng nhất của cơ thể.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/old-hearts-become-biologically-younger-when-transplanted-into-younger-people",
+   "published": "2026-10-03T18:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1898,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Old Hearts Become Biologically Younger When Transplanted Into Younger People",
+   "images": [
+    {
+     "src": "img/2026-10-04/037ba86b0574-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-04/037ba86b0574-0.jpg",
+     "caption": "Sơ đồ minh họa quy trình ghép tim dị vị (heterotopic heart transplant) được sử dụng trong nghiên cứu, trong đó tim của người cho được nối với các mạch máu ở cổ của con chuột nhận. (Poganik và cộng sự, bioRxiv, 2026)",
+     "w": 599,
+     "h": 394
+    },
+    {
+     "src": "img/2026-10-04/037ba86b0574-1.jpg",
+     "caption": "Những trái tim già được ghép vào cơ thể nhận trẻ tuổi (O sang Y) cho thấy dấu hiệu trẻ hóa về mặt sinh học, so với những trái tim trẻ được ghép vào cơ thể nhận già hơn (Y sang O). (Poganik và cộng sự, bioRxiv, 2026)",
+     "w": 600,
+     "h": 512
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trái tim chắc chắn là một trong những cơ quan quan trọng nhất của cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Nó nằm trong lồng ngực, được xương ức và xương sườn bảo vệ cẩn thận, không ngừng co bóp để duy trì dòng máu lưu thông, vận chuyển oxy, chất dinh dưỡng và các chất cần thiết khác đến mọi ngóc ngách của cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Có thể nghĩ rằng giữa trái tim và cơ thể chứa nó có một mối liên kết không thể tách rời — những quá trình ảnh hưởng đến một bên chắc chắn sẽ ảnh hưởng đến bên kia."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng một nghiên cứu mới, được đăng tải trên bioRxiv và chưa qua bình duyệt (peer-reviewed), cho thấy điều này có thể chỉ đúng đến một giới hạn nào đó. Lấy trái tim ra khỏi cơ thể và đặt vào một cơ thể khác, một điều đáng kinh ngạc sẽ xảy ra."
+    },
+    {
+     "t": "p",
+     "text": "Trái tim được ghép bắt đầu mang tuổi sinh học của người chủ mới."
+    },
+    {
+     "t": "p",
+     "text": "Những trái tim già được ghép vào người nhận trẻ tuổi dường như trở nên trẻ hơn về mặt sinh học, trong khi những trái tim trẻ được đặt vào cơ thể già lại có dấu hiệu lão hóa nhanh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Đó là phát hiện thú vị của một nghiên cứu do nhà sinh học phân tử Jesse Poganik, thuộc Trường Y Harvard, dẫn đầu, cho thấy tuổi sinh học của một cơ quan không hoàn toàn là đặc tính riêng của cơ quan đó, mà bị ảnh hưởng mạnh mẽ bởi cơ thể xung quanh nó."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho biết phát hiện này cuối cùng có thể cứu được nhiều mạng sống, bằng cách nới rộng những giới hạn hiện tại về tuổi của người cho tạng, từ đó tăng thêm số lượng cơ quan có thể dùng để ghép cho những người cần."
+    },
+    {
+     "t": "p",
+     "text": "Mặc dù chúng ta thường nghĩ về tuổi tác dựa trên số năm một sinh vật đã sống, tuổi theo thời gian (chronological age) chỉ là một phần trong quá trình lão hóa phức tạp."
+    },
+    {
+     "t": "p",
+     "text": "Một phần lớn khác là lão hóa sinh học — những thay đổi về phân tử và sinh lý tích tụ dần theo thời gian, không nhất thiết diễn ra cùng tốc độ với lịch, và có thể khác nhau ở mỗi người."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học đã phát triển nhiều cách để ước tính tuổi sinh học này. Trong số được dùng phổ biến nhất là \"đồng hồ biểu sinh\" (epigenetic clocks), vốn tìm kiếm những mẫu hình đặc trưng của các nhóm hóa học gọi là nhóm methyl bám vào DNA."
+    },
+    {
+     "t": "p",
+     "text": "Poganik và các đồng nghiệp đặt câu hỏi liệu những \"đồng hồ\" đó có thay đổi không, khi một bộ phận cơ thể (organ) bất ngờ được cấy ghép vào một cơ thể khác, già hơn hoặc trẻ hơn nhiều so với cơ thể nó sinh ra."
+    },
+    {
+     "t": "p",
+     "text": "Để trả lời câu hỏi này, nhóm nghiên cứu bắt đầu với chuột."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học đã thực hiện ghép tim cho chuột bằng một kỹ thuật đã được biết đến từ trước, trong đó con chuột nhận vẫn giữ quả tim ban đầu của mình, còn quả tim của chuột cho được nối vào các mạch máu ở cổ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cách làm này giúp những con chuột vẫn sống bình thường, trong khi các nhà khoa học nghiên cứu tác động của việc ghép tim - ở đây là mối quan hệ hai chiều giữa ảnh hưởng có thể có của cơ thể lên quả tim được ghép, và ảnh hưởng của quả tim được ghép lên cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã thực hiện ghép tim giữa những con chuột có độ tuổi khác nhau, bao gồm ghép tim non vào chuột già và ghép tim già vào chuột non, cùng với các ca ghép giữa chuột cùng tuổi để so sánh."
+    },
+    {
+     "t": "p",
+     "text": "Bốn đến sáu tháng sau, họ kiểm tra quá trình methyl hóa DNA ở quả tim được ghép, quả tim ban đầu của chuột, gan và máu của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lúc mọi thứ trở nên thú vị. Ở cả những con chuột non được ghép tim già và những con chuột già được ghép tim non, bộ phận được ghép đều bắt đầu \"hòa theo\" tuổi sinh học của cơ thể mới."
+    },
+    {
+     "t": "p",
+     "text": "Những quả tim già khi ở trong cơ thể chuột non có dấu hiệu trẻ lại, còn những quả tim non khi ở trong cơ thể chuột già lại có dấu hiệu già đi nhanh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Điều thú vị là, hiệu ứng này dường như chỉ diễn ra theo một chiều. Tuổi sinh học của quả tim ban đầu, gan và máu của chuột nhận hầu như không bị ảnh hưởng, bất kể quả tim được ghép đến từ con vật cho già hơn hay trẻ hơn."
+    },
+    {
+     "t": "p",
+     "text": "Có vẻ như khi được cấy vào một hệ sinh thái mới, trái tim sẽ mang tuổi sinh học của nơi ở mới của nó."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng dù giống nhau ở nhiều điểm phục vụ cho mục đích nghiên cứu, chuột không giống con người."
+    },
+    {
+     "t": "p",
+     "text": "Vì nhiều lý do rất chính đáng, các nhà khoa học không thể mở cơ thể người ra và nhét thêm một quả tim thứ hai vào để xem điều gì xảy ra. Nhưng con người thực sự thường xuyên nhận tim ghép, và những ca ghép này tạo ra các hồ sơ y tế chi tiết cùng các mẫu mô có thể được nghiên cứu lại sau này."
+    },
+    {
+     "t": "p",
+     "text": "Poganik và các đồng nghiệp đã thu thập được các mẫu mô tim lưu trữ từ 11 người nhận tim ghép, lấy từ các mẫu sinh thiết (biopsy) trong quá trình theo dõi chăm sóc sau ca ghép của họ."
+    },
+    {
+     "t": "p",
+     "text": "Tuổi của những bệnh nhân này khác biệt đáng kể so với người cho tim của họ, dao động từ người nhận trẻ hơn người cho 24 tuổi đến người nhận lớn hơn người cho 50 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Và khi các nhà nghiên cứu phân tích quá trình methyl hóa DNA (DNA methylation) trong các mẫu đó, họ phát hiện ra điều gần giống với những gì họ đã thấy ở chuột."
+    },
+    {
+     "t": "p",
+     "text": "Tuổi sinh học của những quả tim được ghép có liên quan chặt chẽ hơn với tuổi của người nhận hơn là tuổi của người cho."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điều đó có nghĩa là một quả tim già được ghép vào một người trẻ sẽ cho thấy dấu hiệu trẻ hóa về mặt sinh học, trong khi một quả tim trẻ được ghép vào một người già lại có vẻ già hơn về mặt sinh học so với tuổi thật của nó."
+    },
+    {
+     "t": "p",
+     "text": "Mặc dù mẫu nghiên cứu rất nhỏ - chỉ có 11 bệnh nhân - nhưng sự tương đồng với những gì các nhà nghiên cứu đã quan sát được trong các thí nghiệm trên chuột là một tín hiệu đầy hứa hẹn."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, các nhà nghiên cứu đã tìm cách xem liệu họ có thể tìm thấy bằng chứng cho điều này ngoài các dấu hiệu phân tử - những thứ chỉ có thể tiếp cận được qua các mẫu sinh thiết khó lấy - hay không."
+    },
+    {
+     "t": "p",
+     "text": "Điều này cũng được thể hiện trong các dữ liệu khác từ việc theo dõi sau ghép tim – những hồ sơ chi tiết về chức năng tim và khả năng vận động thể chất của hàng trăm người được ghép tim, thu thập một năm sau ca ghép."
+    },
+    {
+     "t": "p",
+     "text": "Ở đây, quy luật này cũng đúng."
+    },
+    {
+     "t": "p",
+     "text": "Khi các nhà nghiên cứu phân tích các hồ sơ này, họ phát hiện rằng nhiều đặc điểm về cấu trúc và chức năng của những trái tim được ghép có liên quan đến tuổi của người nhận, chứ không phải tuổi của người hiến."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng tác động rõ ràng nhất lại thể hiện ở khả năng vận động thể chất – cả khả năng hoạt động lẫn mức tiêu thụ oxy tối đa đều giảm khi tuổi của người nhận tăng lên, bất kể trái tim được hiến bao nhiêu tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho biết những phát hiện này có thể có ý nghĩa quan trọng đối với cách lựa chọn tim hiến để ghép."
+    },
+    {
+     "t": "p",
+     "text": "Dù không có giới hạn tuổi tối đa chính thức cho người hiến tim, nhưng tim của người trẻ tuổi thường được ưu tiên hơn. Các nhà nghiên cứu lưu ý rằng người hiến dưới 45 tuổi được khuyến nghị, và rất ít chương trình ghép tạng chấp nhận tim từ người hiến trên 50 tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nếu một trái tim lớn tuổi có thể mất đi một số dấu hiệu sinh học của tuổi tác sau khi được ghép vào cơ thể trẻ hơn, thì tuổi theo năm sinh một mình nó có thể không nói lên đầy đủ về khả năng của bộ phận đó."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho rằng điều này cuối cùng có thể giúp những trái tim hiến từ người lớn tuổi được cân nhắc để ghép cho người nhận trẻ tuổi hơn, mở rộng nguồn tạng vốn đang thiếu hụt trầm trọng."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, vẫn còn nhiều điều chúng ta chưa biết. Cụ thể, nghiên cứu này chưa cho thấy liệu sự \"trẻ hóa\" rõ rệt của những trái tim lớn tuổi có mang lại kết quả tốt hơn về lâu dài hay không."
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta cũng chưa biết quá trình thay đổi này diễn ra nhanh đến mức nào ở con người, kéo dài bao lâu, hay liệu các bộ phận được ghép khác có trải qua sự thay đổi tương tự hay không; cần có thêm các nghiên cứu theo hướng này."
+    },
+    {
+     "t": "p",
+     "text": "Chính xác thì cơ thể người nhận tác động như thế nào đến quả tim được cấy ghép vẫn chưa rõ. Nhưng các nhà nghiên cứu đã tìm thấy một đầu mối có thể giải thích điều này trong hoạt động của gen ở những quả tim chuột được cấy ghép."
+    },
+    {
+     "t": "p",
+     "text": "Những thay đổi liên quan đến các quá trình trong ty thể (mitochondria) và trao đổi chất nổi bật hơn cả, cho thấy các con đường này có thể đóng vai trò trong việc trao đổi đặc điểm lão hóa giữa một cơ quan và cơ thể mới của nó."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này là một bước quan trọng giúp làm sáng tỏ một điều thú vị, nhưng vẫn còn rất nhiều bước nữa cần thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, các nhà nghiên cứu vẫn lạc quan rằng công trình của họ có thể mở đường cho những lựa chọn tốt hơn cho các bệnh nhân cấy ghép."
+    },
+    {
+     "t": "p",
+     "text": "\"Nghiên cứu trên chuột được chúng tôi kiểm soát cẩn thận, kết hợp với dữ liệu DNAm trên người đã được kiểm định chất lượng kỹ lưỡng, đưa ra bằng chứng thuyết phục ủng hộ việc các mô hòa nhập tuổi tác khi được đặt vào môi trường cơ thể có tuổi khác nhau,\" họ viết."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này hiện có trên máy chủ bản thảo chưa qua bình duyệt (preprint server) bioRxiv."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được kiểm tra thông tin bởi Fiona MacDonald và biên tập bởi Fiona MacDonald. Mặc dù chúng tôi luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện sai sót, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "3991e3e5840b",
+   "order": 13,
+   "slug": "sinh-vat-bien-nay-trong-giong-phan-no-cung-co-the-song-toi-1",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Sinh vật biển này trông giống phân. Nó cũng có thể sống tới 120 năm.",
+   "sapo": "Ở đâu đó trên thế giới, chắc chắn có một \"Bàn Tay Khỉ\" đang cười khành khạch một mình.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/this-sea-creature-looks-like-poop-it-may-also-live-for-120-years",
+   "published": "2026-10-03T10:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1683,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "This Sea Creature Looks Like Poop. It May Also Live For 120 Years.",
+   "images": [
+    {
+     "src": "img/2026-10-04/3991e3e5840b-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-04/3991e3e5840b-0.jpg",
+     "caption": "Một con hải sâm được chụp ảnh tại đảo Lizard thuộc rạn san hô Great Barrier, khoe những mấu nhỏ ở hai bên thân – đặc điểm khiến nó có tên gọi \"cá vú\" (teatfish). (S.W. Purcell/Uthicke et al., iScience, 2026)",
+     "w": 599,
+     "h": 360
+    },
+    {
+     "src": "img/2026-10-04/3991e3e5840b-1.jpg",
+     "caption": "Các nhà nghiên cứu đã dùng phương pháp đối chiếu ADN để nhận diện những con hải sâm đen (black teatfish) được lấy mẫu lần đầu vào năm 2000, khi chúng quay lại cùng một rạn san hô vào năm 2024. Khoảng 60% số cá thể lấy mẫu năm 2024 từng được bắt gặp 24 năm trước đó. (Uthicke et al., iScience, 2026)",
+     "w": 600,
+     "h": 600
+    },
+    {
+     "src": "img/2026-10-04/3991e3e5840b-2.jpg",
+     "caption": "Hải sâm đen thường được phủ một lớp cát mịn, dù cách chúng giữ lớp cát này bám vào cơ thể vẫn chưa được xác định rõ. Ở một loài hải sâm phủ cát khác, các nhà nghiên cứu đã phát hiện những tế bào da đặc biệt có khả năng tiết ra chất kết dính. (Darien Fiorino/iNaturalist, CC BY-NC 4.0)",
+     "w": 599,
+     "h": 451
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ở đâu đó trên thế giới, chắc chắn có một \"Bàn Tay Khỉ\" đang cười khành khạch một mình."
+    },
+    {
+     "t": "p",
+     "text": "Rải rác khắp Thái Bình Dương và Ấn Độ Dương, có một loài hải sâm khiêm tốn tên là Holothuria (Microthele) whitmaei sinh sống."
+    },
+    {
+     "t": "p",
+     "text": "Con vật có vẻ ngoài không mấy ấn tượng này trông hơi giống phân, bị gắn cho cái tên thông dụng đáng tiếc là \"hải sâm vú đen\" (black teatfish), và được coi là món đặc sản quý ở một số nền văn hóa – dù nó đã nằm trong danh sách loài nguy cấp hơn một thập kỷ qua."
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng, một nghiên cứu mới đây phát hiện ra rằng loài H. whitmaei có thể sống tới hơn 120 năm."
+    },
+    {
+     "t": "p",
+     "text": "Qua một nghiên cứu di truyền kéo dài hơn hai thập kỷ, nhóm nghiên cứu do nhà sinh học Sven Uthicke thuộc Viện Khoa học Biển Australia (Australian Institute of Marine Science) dẫn đầu đã phát hiện rằng loài này hầu như không lớn thêm chút nào – và có thể sống rất, rất lâu, đến mức đáng kinh ngạc."
+    },
+    {
+     "t": "p",
+     "text": "\"Mặc dù một số loài nhím biển có thể sống hơn 100 năm, nhưng việc đi đến kết luận tương tự với loài hải sâm vú đen vẫn khiến chúng tôi bất ngờ,\" nhóm nghiên cứu viết trong bài báo công bố trên tạp chí iScience."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là loài hải sâm đầu tiên được biết đến có tuổi thọ vượt quá một thế kỷ.\""
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện bắt đầu từ năm 2000, khi Uthicke và các đồng nghiệp đang cố gắng giải quyết một vấn đề đặc biệt nan giải."
+    },
+    {
+     "t": "p",
+     "text": "H. whitmaei được coi là đặc sản quý có tên gọi bêche-de-mer, và vào năm 1999, số lượng loài hải sâm này quanh rạn san hô Great Barrier của Australia suy giảm đã khiến các hoạt động đánh bắt H. whitmaei phải đóng cửa. Trong khi đó, Uthicke và đồng nghiệp John Benzie cố gắng thực hiện một cuộc khảo sát số lượng loài này, nhưng họ gặp phải trở ngại khi muốn theo dõi quần thể theo thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học có thể biết được nhiều điều về tuổi thọ của một loài vật bằng cách gắn thẻ đánh dấu cho từng cá thể rồi quay lại sau đó xem con nào còn sống và chúng đã thay đổi ra sao. Nhưng hải sâm gần như không thể gắn thẻ theo cách này – các vật đánh dấu thường rơi ra chỉ sau vài tuần hoặc vài tháng."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy các nhà nghiên cứu đã nghĩ ra một cách khác để nhận diện từng cá thể – đó là ADN của chúng. Họ thu thập hải sâm đen (black teatfish) tại nhiều địa điểm trên rạn san hô Great Barrier Reef của Australia, lấy một mẩu mô nhỏ, và dùng ADN của chúng làm dấu nhận diện độc nhất – một cái \"thẻ\" sẽ không bao giờ rơi mất xuống biển."
+    },
+    {
+     "t": "p",
+     "text": "Cách này đã có hiệu quả."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu quay lại rạn san hô sáu tháng sau đó, rồi lại một lần nữa sau một năm. Kết quả cho phép họ nhận ra những cá thể đã từng bắt gặp trước đây – và khẳng định rằng số lượng loài này không hồi phục sau tình trạng đánh bắt quá mức."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả cũng cho thấy những con vật này có thể sống tới vài chục năm – nhưng vì thời gian nghiên cứu quá ngắn nên không thể khẳng định chắc chắn. Vì vậy, các mẫu đã thu thập được cất vào kho đông lạnh, còn các nhà nghiên cứu chuyển sang làm các dự án khác trong một thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Nhanh chóng chuyển tới 24 năm sau lần lấy mẫu gen đầu tiên, vào tháng 9 năm 2024. Các nhà nghiên cứu đã sẵn sàng tiếp tục công việc còn dang dở."
+    },
+    {
+     "t": "p",
+     "text": "Uthicke và các đồng nghiệp quay lại một trong những địa điểm lấy mẫu ban đầu, tại Bird Islet thuộc đảo Lizard Island trên rạn san hô Great Barrier Reef, để tìm kiếm loài hải sâm đen."
+    },
+    {
+     "t": "p",
+     "text": "Họ tìm thấy 53 con. Các nhà nghiên cứu cân, đo từng con vật, lấy một mẩu mô nhỏ, rồi cẩn thận thả chúng trở lại đáy biển. Sau đó, họ lấy những mẫu ADN đã lưu trữ từ hàng chục năm trước ra để xem có con nào trùng khớp hay không."
+    },
+    {
+     "t": "p",
+     "text": "Số lượng trùng khớp nhiều đến kinh ngạc."
+    },
+    {
+     "t": "p",
+     "text": "31 trong số 52 con vật được phân tích thành công có ADN trùng khớp hoàn toàn với các mẫu thu thập từ năm 2000. Điều đó có nghĩa là ít nhất 60% số con vật được nghiên cứu đã có tuổi đời ít nhất 24 năm vào năm 2024."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trở lại năm 2000, những cá thể này đã là những con hải sâm to lớn, trưởng thành hoàn toàn, với kích thước từ 26 đến 42 cm – gần đạt mức kích thước tối đa của loài."
+    },
+    {
+     "t": "p",
+     "text": "Và đây là chỗ mọi thứ trở nên kỳ lạ thật sự."
+    },
+    {
+     "t": "p",
+     "text": "Chúng không hề lớn lên. Thực tế, hầu hết trong số 31 con vật đã bị co nhỏ lại."
+    },
+    {
+     "t": "p",
+     "text": "Trung bình, những con hải sâm này nhẹ hơn 21% và ngắn hơn 14% so với 24 năm trước. Lý do chính xác thì chưa rõ. Hải sâm có thể giảm và tăng khối lượng cơ thể theo thời gian, và các nhà nghiên cứu cho rằng điều kiện môi trường thay đổi có thể đã góp phần gây ra điều này."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các nhà nghiên cứu không quan tâm nhiều đến việc những con vật đã lớn lên bao nhiêu, mà quan tâm đến việc bao nhiêu con trong số đó đã sống sót."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2000, nhóm nghiên cứu đã lấy được hồ sơ gien (genetic profile) của 76 cá thể hải sâm teatfish đen. Hai mươi bốn năm sau, 31 trong số các cá thể đó lại xuất hiện – tức tỷ lệ sống sót ít nhất là 41%."
+    },
+    {
+     "t": "p",
+     "text": "Từ tỷ lệ sống sót đó, các nhà nghiên cứu có thể ước tính tốc độ hải sâm teatfish đen trưởng thành biến mất khỏi quần thể theo thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Giả định rằng tỷ lệ tử vong giữ ở mức gần như không đổi suốt giai đoạn trưởng thành, họ tính ra tỷ lệ tử vong hàng năm chỉ là 0,037 – một mức cực kỳ thấp đối với loài hải sâm."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, họ dùng tỷ lệ tử vong này để suy ra một nhóm hải sâm cùng lứa có thể tồn tại được bao lâu. Mô hình cho thấy đến khi đạt 123,3 tuổi, khoảng 1% trong số chúng vẫn có thể còn sống."
+    },
+    {
+     "t": "p",
+     "text": "Và thậm chí con số đó có thể còn thấp hơn thực tế. Rất có thể – thậm chí là khả năng cao – các nhà nghiên cứu đã không tìm được tất cả những con vật còn sống sót từ năm 2000; một số có thể đã di chuyển ra khỏi khu vực lấy mẫu, trong khi những con khác có thể chỉ đơn giản là bị bỏ sót."
+    },
+    {
+     "t": "p",
+     "text": "Cả hai trường hợp đều khiến những con hải sâm đã chết và những con chỉ đơn giản là không có mặt trở nên không thể phân biệt được, từ đó làm tăng giả tạo tỷ lệ tử vong có vẻ như quan sát được."
+    },
+    {
+     "t": "p",
+     "text": "Rồi còn có một vấn đề khác."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu không tìm thấy bất kỳ cá thể con non nào – không có trong cuộc khảo sát năm 2024, và cũng không có trong năm 2000."
+    },
+    {
+     "t": "p",
+     "text": "Mọi cá thể được lấy mẫu trong cả hai cuộc khảo sát đều là cá thể trưởng thành lớn. Sự thiếu vắng cá thể non cũng đã được quan sát thấy ở những quần thể khác của loài này và các loài gần gũi với nó, cho thấy rằng các thế hệ mới có thể chỉ đang bổ sung vào những quần thể này một cách rất chậm."
+    },
+    {
+     "t": "p",
+     "text": "Điều này có thể cho thấy rằng loài H. whitmaei sống chậm và phục hồi quần thể của mình chậm – quá chậm để duy trì được những quần thể đã bị tàn phá bởi nhu cầu săn bắt đặc sản quá lớn."
+    },
+    {
+     "t": "p",
+     "text": "Và H. whitmaei có thể không phải là loài hải sâm duy nhất mà chúng ta đã đánh giá thấp một cách nghiêm trọng."
+    },
+    {
+     "t": "p",
+     "text": "Các loài hải sâm khác cũng có một số đặc điểm khiến hải sâm vú đen dễ bị đánh bắt quá mức, nhưng những thông tin cơ bản về tuổi thọ, tỷ lệ chết và khả năng sinh sản bổ sung của chúng vẫn đáng ngạc nhiên là còn rất ít."
+    },
+    {
+     "t": "p",
+     "text": "\"Những phát hiện của chúng tôi là cơ sở để đánh giá lại công tác bảo tồn và quản lý nhiều loài hải sâm, điều này đặc biệt cấp thiết đối với ba loài hải sâm vú,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Việc đánh giá lại đó có thể gây ra những hậu quả vượt ra ngoài sự sống còn của chính loài hải sâm. Những sinh vật kỳ lạ, chuyên sàng lọc trầm tích này thực hiện một công việc quan trọng trên các rạn san hô, đó là tái chế chất dinh dưỡng và giúp duy trì sức khỏe của hệ sinh thái mà chúng sinh sống."
+    },
+    {
+     "t": "p",
+     "text": "Và những hệ sinh thái đó đã đang phải chịu áp lực ngày càng lớn từ một thế giới đang nóng lên."
+    },
+    {
+     "t": "p",
+     "text": "\"Các rạn san hô ngày càng chịu nhiều áp lực liên quan đến biến đổi khí hậu, và các yếu tố gây căng thẳng riêng lẻ lại tác động cộng dồn lên nhau,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc tạo thêm áp lực cho hệ sinh thái bằng cách loại bỏ các loài quan trọng về mặt sinh thái cùng những lợi ích mà chúng mang lại, chẳng hạn như loài hải sâm, là điều không phù hợp với việc quản lý bền vững các rạn san hô.\""
+    }
+   ]
+  },
+  {
+   "id": "fdc1ce9b5831",
+   "order": 14,
+   "slug": "buom-co-chieu-khien-chim-san-moi-chup-hut",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Bướm có 'chiêu' khiến chim săn mồi chụp hụt",
+   "sapo": "Hoa văn tương phản kết hợp nhịp vỗ cánh có thể khiến chim săn mồi nhận sai hướng bay và vị trí của bướm, giúp chúng tránh bị tấn công.",
+   "author": "TTXVN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/buom-co-chieu-khien-chim-san-moi-chup-hut-100261002152334169.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 473,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/fdc1ce9b5831-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/fdc1ce9b5831-0.jpg",
+     "caption": "Những đường sọc trên cánh bướm có thể làm chim săn mồi mất phương hướng - Ảnh: George RA Hancock",
+     "w": 1205,
+     "h": 696
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong nghiên cứu công bố trên tạp chí Tempo (Indonesia), giáo sư Jolyon Troscianko thuộc Đại học Exeter (Anh) cho biết cánh bướm liên tục khép, mở và chuyển động theo quỹ đạo gần giống hình số 8. Khi kết hợp với các đường sọc tương phản, chuyển động này có thể khiến mắt kẻ săn mồi nhận biết sai hướng bay thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Hiệu ứng gây nhiễu có thể chỉ kéo dài trong thời gian ngắn, nhưng đủ giúp bướm tránh một cuộc tấn công."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tượng này được giới khoa học gọi là \"motion dazzle\", tức hiệu ứng gây nhiễu nhận thức chuyển động. Giả thuyết về khả năng hoa văn tương phản tạo hiệu ứng này từng được nghiên cứu ở nhiều loài động vật như ngựa vằn, rắn và thằn lằn, song kết quả chưa thống nhất."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm nghiên cứu, một hạn chế của các nghiên cứu trước là chưa xem xét đầy đủ chuyển động phức tạp của các bộ phận cơ thể khi động vật di chuyển."
+    },
+    {
+     "t": "p",
+     "text": "Để kiểm chứng giả thuyết, nhóm nghiên cứu kết hợp quay phim bướm bằng camera tốc độ cao, mô hình máy tính, mô phỏng tiến hóa và thử nghiệm trên màn hình cảm ứng."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả cho thấy các đường sọc đặc biệt hiệu quả trong việc gây nhiễu những cơ chế thị giác chuyên nhận diện chuyển động."
+    },
+    {
+     "t": "p",
+     "text": "Trong khoảng 3.000 thử nghiệm với 100 tình nguyện viên, người tham gia được yêu cầu \"bắt\" bướm mô phỏng bằng cách chạm vào màn hình. Với những con bướm được dự đoán tạo hiệu ứng gây nhiễu mạnh hơn, người tham gia có xu hướng chạm vào vị trí phía sau con bướm, cho thấy hoa văn có thể làm sai lệch nhận thức về vị trí con mồi."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên không phải loài bướm nào cũng sử dụng chiến lược này. Những loài có hiệu ứng gây nhiễu yếu hơn, thường mang màu nâu hoặc đỏ, có thể dựa nhiều hơn vào ngụy trang hoặc màu sắc cảnh báo để tránh kẻ săn mồi."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu hiện tập trung vào khả năng thị giác của chim. Các nhà khoa học cho rằng hiệu ứng tương tự có thể xuất hiện khi bướm đối mặt với một số côn trùng săn mồi như chuồn chuồn hoặc ruồi ăn thịt, nhưng có thể kém hiệu quả hơn do các loài này phản ứng với chuyển động nhanh hơn chim."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm nghiên cứu, các mô hình về thị giác chuyển động được phát triển trong nghiên cứu cũng có thể được ứng dụng trong mô phỏng chuyển động, thiết kế môi trường và nghiên cứu an toàn giao thông, đặc biệt trong việc hạn chế những hoa văn hoặc chuyển động có khả năng gây nhầm lẫn cho con người."
+    }
+   ]
+  },
+  {
+   "id": "0865aadad5e1",
+   "order": 15,
+   "slug": "dan-vit-mien-tay-va-cuoc-di-cu-cua-cai-toi-khac-biet",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Đàn vịt miền Tây và cuộc di cư của cái tôi khác biệt",
+   "sapo": "Từ những đàn vịt chạy đồng quen thuộc của miền Tây Nam bộ, họa sĩ Đặng Quang Tiến mở rộng câu chuyện hội họa sang cộng đồng, xã hội và cá tính mỗi con người.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/dan-vit-mien-tay-va-cuoc-di-cu-cua-cai-toi-khac-biet-185261003180634984.htm",
+   "published": "2026-10-03T22:30:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 889,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/0865aadad5e1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/0865aadad5e1-0.jpg",
+     "caption": "2 bức tranh về đàn vịt chạy đồng ở miền Tây",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/0865aadad5e1-1.jpg",
+     "caption": "Họa sĩ Đặng Quang Tiến giới thiệu với người thưởng lãm chủ để bức tranh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/0865aadad5e1-2.jpg",
+     "caption": "Đàn vịt trong tranh Đặng Quang Tiến thường xuất hiện với số lượng lớn, chen nhau trong một không gian của mỗi bức tranh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/0865aadad5e1-3.jpg",
+     "caption": "Những chú vịt màu hồng độc đáo xuất hiện trong các bức tranh của người họa sĩ",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/0865aadad5e1-4.jpg",
+     "caption": "Món ức vịt nướng, rau thơm từ lá cóc miền Tây được lấy từ cảm hứng quê hương của người họa sĩ",
+     "w": 1280,
+     "h": 1920
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ những đàn vịt chạy đồng quen thuộc của miền Tây Nam bộ, họa sĩ Đặng Quang Tiến mở rộng câu chuyện hội họa sang cộng đồng, xã hội và cá tính mỗi con người."
+    },
+    {
+     "t": "p",
+     "text": "Gần 70 bức tranh về đàn vịt là hành trình của người họa sĩ đi tìm một “cái tôi khác biệt” giữa đám đông. Câu chuyện về bộ tranh \"Chạy đồng\" được Đặng Quang Tiến chia sẻ trong một buổi gặp gỡ nghệ thuật tại Únu Eatery & Bar, TP.HCM. Từ ký ức về miền Tây, những đàn vịt trên đồng trở thành điểm khởi đầu để người họa sĩ nói về những chuyển động của đời sống và con người."
+    },
+    {
+     "t": "h",
+     "text": "Từ ký ức miền Tây đến những đàn vịt"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Với những người Việt xa quê, đàn vịt chen nhau giữa đồng nước mênh mông có thể gợi lại ký ức tuổi thơ và cảnh sắc quê nhà. Nhưng với Đặng Quang Tiến, đàn vịt còn mở ra một cách nhìn khác. “Là người miền Tây, tôi muốn vẽ cái gì đó gần gũi với chính mình, nhưng từ cái gần gũi đó để nói về cái chung, nói về xã hội ”, Tiến chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi gắn bó với đàn vịt, Đặng Quang Tiến từng vẽ nhiều cảnh đời thường của Sài Gòn - TP.HCM. Bước ngoặt đến trong thời gian đại dịch Covid-19. Khi việc giảng dạy chuyển sang trực tuyến, những khoảng thời gian ở nhà đưa người họa sĩ trở lại với kho tư liệu về miền quê Nam bộ. Từ nỗi nhớ quê, anh bắt đầu vẽ những cánh đồng, cảnh sắc và đàn vịt chạy đồng."
+    },
+    {
+     "t": "p",
+     "text": "“Chạy Đồng” trở thành điểm khởi đầu cho một mạch sáng tác mới về miền Tây. Từ đó, Đặng Quang Tiến tiếp tục thực hiện nhiều tác phẩm về vùng đất Nam bộ, mở rộng từ cảnh đồng ruộng đến những không gian, ký ức và sắc màu đặc trưng của quê hương."
+    },
+    {
+     "t": "h",
+     "text": "“Hỗn loạn có trật tự”"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nhìn từ xa, những đàn vịt chạy đồng có thể gợi nên một cảnh tượng náo nhiệt, thậm chí đôi lúc khá lộn xộn. Nhưng chính trạng thái ấy lại trở thành điểm khởi đầu để họa sĩ suy nghĩ về cộng đồng. Anh gọi đó là “hỗn loạn có trật tự” – nơi những cá thể cùng tồn tại trong một tập thể, cùng chuyển động theo một hướng nhưng vẫn giữ những khác biệt riêng."
+    },
+    {
+     "t": "p",
+     "text": "Từ hình ảnh đàn vịt, Đặng Quang Tiến quan sát rộng hơn về xã hội và con người. Trong bộ tranh, điểm nhấn dễ nhận thấy là những chú vịt mang màu sắc nổi bật giữa đàn vịt trắng ngà. Có con khoác sắc hồng, có con mang cổ tím, xanh hoặc xám, tạo nên những điểm nhấn khác biệt trên nền chuyển động chung của cả đàn."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo chia sẻ của họa sĩ, trong đời sống chăn nuôi ở miền Tây, người nuôi có thể đánh dấu vịt bằng màu sắc để dễ nhận diện khi những đàn lớn nhập vào nhau. Khi đi vào hội họa, những cá thể khác màu ấy mang thêm một lớp nghĩa: chúng trở thành những cá thể khác biệt giữa một cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Trong một số tác phẩm, cá thể mang màu sắc nổi bật đứng tách khỏi đàn; ở tác phẩm khác, nó hòa vào đám đông. Vị trí có thể thay đổi, nhưng câu chuyện về bản sắc vẫn hiện diện: làm thế nào để giữ được cái tôi riêng mà không tách mình khỏi cộng đồng? Đó cũng là điều Đặng Quang Tiến gọi là “sự di cư của cái tôi khác biệt”."
+    },
+    {
+     "t": "h",
+     "text": "Khi nghệ thuật được kể bằng nhiều giác quan"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Khi câu chuyện về miền Tây không dừng lại trên mặt toan, những hình ảnh ấy tiếp tục được mở ra bằng một trải nghiệm khác: ẩm thực. Trong buổi gặp gỡ tại ÚNU, cảm hứng từ vùng đất và ký ức của người nghệ sĩ được chuyển dịch sang bàn ăn, trong đó có ức vịt, và thức uống sử dụng những nguyên liệu gợi nhắc miền Tây."
+    },
+    {
+     "t": "p",
+     "text": "Dừa Bến Tre được đưa vào quá trình ủ, tạo nên một lớp hương vị nối với không gian sông nước và đời sống miền quê. Những chi tiết này không nhằm mô phỏng trực tiếp các tác phẩm, mà mở rộng câu chuyện từ hình ảnh sang vị giác - để miền Tây được cảm nhận qua nhiều giác quan."
+    },
+    {
+     "t": "p",
+     "text": "Bởi vậy, cuộc gặp với Đặng Quang Tiến không chỉ là dịp xem tranh hay nghe nghệ sĩ nói về quá trình sáng tác. Hội họa, ẩm thực và ký ức cùng hiện diện, tạo nên một cách tiếp cận gần gũi hơn với thế giới mà người nghệ sĩ đang theo đuổi."
+    },
+    {
+     "t": "p",
+     "text": "Gặp Người “Nghệ” - Artist Dinners"
+    },
+    {
+     "t": "p",
+     "text": "Gặp Người “Nghệ” - Artist Dinners là chuỗi gặp gỡ giữa nghệ sĩ và công chúng, diễn ra tại ÚNU Eatery & Bar, thuộc ANIMA Saigon. Các buổi gặp kết hợp Art Walk, trò chuyện cùng nghệ sĩ và một bữa ăn lấy cảm hứng từ thực hành sáng tác của khách mời."
+    },
+    {
+     "t": "p",
+     "text": "Trong tháng 10.2026, chương trình có các buổi với Phạm Xeen (16.10), Quốc Anh Lê (23.10) và Lê Phi Long (25.10)."
+    }
+   ]
+  },
+  {
+   "id": "0591a66de30f",
+   "order": 16,
+   "slug": "anh-vien-bat-ngo-tro-lai-thi-dau",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Ánh Viên bất ngờ trở lại thi đấu",
+   "sapo": "TP HCM Sau 4 năm rời đấu trường đỉnh cao, kình ngư Nguyễn Thị Ánh Viên bất ngờ trở lại giành 4 HC vàng ở giải bơi, lặn tiền Đại hội thể thao toàn quốc 2026.",
+   "author": "Hiếu Lương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/anh-vien-bat-ngo-tro-lai-thi-dau-5128063.html",
+   "published": "2026-10-03T12:02:23+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 737,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/0591a66de30f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-04/0591a66de30f-0.jpg",
+     "caption": "Nguyễn Thị Ánh Viên tham dự giải bơi, lặn tiền Đại hội Thể thao toàn quốc lần thứ 10, tại CLB bơi lặn Phú Thọ, TP HCM ngày 2/10/2026. Ảnh: Facebook/Nguyễn Thị Ánh Viên",
+     "w": 1020,
+     "h": 958
+    },
+    {
+     "src": "img/2026-10-04/0591a66de30f-1.jpg",
+     "caption": "Nguyễn Thị Ánh Viên bơi bướm ở nội dung 200m hỗn hợp nữ. Ảnh: Facebook/Nguyễn Thị Ánh Viên",
+     "w": 1020,
+     "h": 633
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "TP HCM Sau 4 năm rời đấu trường đỉnh cao, kình ngư Nguyễn Thị Ánh Viên bất ngờ trở lại giành 4 HC vàng ở giải bơi, lặn tiền Đại hội thể thao toàn quốc 2026."
+    },
+    {
+     "t": "p",
+     "text": "Giải đấu diễn ra tại CLB bơi lặn Phú Thọ ở TP HCM đã kết thúc ngày 2/10. Ánh Viên thi đấu cho Trung tâm Thể dục Thể thao Quốc Phòng 4, lần lượt giành HC vàng 200m tự do, 200m hỗn hợp, 100m và 200m ngửa."
+    },
+    {
+     "t": "p",
+     "text": "Ánh Viên cho biết cô trở lại đường đua xanh không phải vì huy chương hay chứng minh thắng thua. \"Đơn giản vì Viên nhận ra mình vẫn còn rất yêu bơi\", cô viết trên Facebook . \"Viên muốn được bơi, được tập luyện, được sống lại với đam mê và lan tỏa tình yêu với đường đua xanh đến nhiều người hơn, đặc biệt là các bạn nhỏ\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Kình ngư gốc Cần Thơ coi đây là cơ hội tìm lại cảm giác thi đấu sau 4 năm chia tay. Đây là bước chạy đà để Ánh Viên cạnh tranh tại Đại hội Thể thao toàn quốc lần thứ 10 tổ chức tại TP HCM. Cuộc cạnh tranh sẽ căng thẳng hơn khi Viên phải đối đầu với nhiều kình ngư trẻ và đang ở đỉnh cao phong độ."
+    },
+    {
+     "t": "p",
+     "text": "Môn bơi của Đại hội sẽ diễn ra từ ngày 21/11 đến 26/11 tại CLB bơi lặn Phú Thọ, với 41 nội dung. Mỗi đơn vị được phép đăng ký tối đa hai VĐV mỗi nội dung cá nhân và một đội ở nội dung tiếp sức."
+    },
+    {
+     "t": "p",
+     "text": "Sự trở lại của Ánh Viên gây bất ngờ cho cộng đồng thể thao. Trên fanpage cá nhân của kình ngư này, nhiều người bày tỏ sự vui mừng khi Ánh Viên trở lại. Trong khi đó, bình luận được nhiều người dùng nhất là \"Giành HC vàng dễ lắm, Viên chỉ cho\", để mô phỏng lại câu nói nổi tiếng của Ánh Viên từ khi cô đi dạy bơi là \"Bơi dễ lắm, Viên chỉ cho\"."
+    },
+    {
+     "t": "p",
+     "text": "Ánh Viên là VĐV bơi thành công nhất lịch sử Việt Nam, và cũng được đầu tư lớn nhất với tổng kinh phí 30 tỷ đồng trong giai đoạn 2012-2019."
+    },
+    {
+     "t": "p",
+     "text": "Trong 10 năm thi đấu đỉnh cao, cô giành 25 HC vàng SEA Games, một HC bạc và một HC đồng châu Á, hai HC đồng Asiad, cùng HC vàng Olympic trẻ. Cô cũng thống trị các đường đua xanh ở Việt Nam, với hàng chục HC vàng và các kỷ lục quốc gia. Ánh Viên hai lần dự Olympic 2016 và 2020 nhưng đều không thể lọt vào các vòng chung kết."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhớ lại thời điểm 2021, Ánh Viên nói quyết định viết đơn xin không tập trung đội tuyển quốc gia và giã từ sự nghiệp thi đấu đỉnh cao không hề dễ dàng. Cô đã mất khoảng hai năm để cân nhắc. Trong suốt thời gian này, \"Tiểu tiên cá\" nhận được sự động viên không ngừng từ các thầy cô và lãnh đạo đội tuyển, về việc xem xét có nên nghỉ thi đấu. \"Tuy nhiên nhìn vào kết quả và hành trình mình vừa qua, tôi nghĩ đó là lúc phù hợp để dừng lại\", cô nói."
+    },
+    {
+     "t": "p",
+     "text": "Từ cuối năm 2019, do ảnh hưởng của Covid-19, không được đi tập huấn nước ngoài và thi đấu quốc tế để cọ xát, Ánh Viên không đạt được thành tích như kỳ vọng. Cô thất bại so với chính mình ở Olympic Tokyo 2020. Dù có tiếc nuối về những năm trước, Viên coi đó là những bài học quý giá. Vượt qua những chông chênh sau giải nghệ, nữ kình ngư nhanh chóng ổn định tinh thần và bắt đầu một hành trình mới - hành trình trở thành giáo viên dạy bơi, truyền cảm hứng cho thế hệ trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ năm 2022, Ánh Viên trở thành giáo viên dạy bơi ở một trung tâm tại TP HCM và kín lịch cả bảy ngày trong tuần. Cô cũng xây dựng kênh cá nhân riêng để hướng dẫn bơi, phòng tránh đuối nước. Ánh Viên cũng trải nghiệm nhiều nội dung nằm ngoài khuôn khổ bơi chuyên nghiệp. Cô từng tham dự giải hai môn phối hợp DNSE Aquaman Vietnam 2024, bơi sông Hồng, hay vô địch 10km giải bơi biển Oceanman Maldives vào tháng 4/2026."
+    }
+   ]
+  },
+  {
+   "id": "4ae9a7aa6252",
+   "order": 17,
+   "slug": "tung-chan-ghet-viec-hoc-tro-thanh-thu-khoa-tot-nghiep-dh-o-t",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từng chán ghét việc học, trở thành thủ khoa tốt nghiệp ĐH ở tuổi 27",
+   "sapo": "Từ một học sinh chán học, quyết định đi xuất khẩu lao động sau khi tốt nghiệp THPT, Hoàng Việt Anh đã trở thành thủ khoa tốt nghiệp ĐH khối ngành ngôn ngữ ở tuổi 27 và được doanh nghiệp Nhật tuyển dụng ngay sau tốt nghiệp.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tung-chan-ghet-viec-hoc-tro-thanh-thu-khoa-tot-nghiep-dh-o-tuoi-27-185261003171019182.htm",
+   "published": "2026-10-03T11:22:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1357,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/4ae9a7aa6252-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/4ae9a7aa6252-0.jpg",
+     "caption": "Nơi làm việc của Việt Anh khi ở Nhật",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-04/4ae9a7aa6252-1.jpg",
+     "caption": "Hoàng Việt Anh nhận bằng tại lễ tốt nghiệp",
+     "w": 1024,
+     "h": 1536
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hoàng Việt Anh (tỉnh Phú Thọ), sinh viên ngành ngôn ngữ Nhật vừa trở thành thủ khoa tốt nghiệp khối ngành ngôn ngữ Trường ĐH FPT với điểm GPA 3,51/4,0. Điều đặc biệt so với bạn bè cùng khóa là trước khi học ĐH, Việt Anh từng có 3 năm xuất khẩu lao động, làm thợ cơ khí tại Nhật Bản và bắt đầu học ĐH khi 23 tuổi."
+    },
+    {
+     "t": "h",
+     "text": "'Sốc' vì công việc chân tay nặng nhọc"
+    },
+    {
+     "t": "p",
+     "text": "Hoàng Việt Anh cho biết trước đây mình từng là một cậu học trò chán ghét việc học. Chính vì vậy, sau khi tốt nghiệp THPT, Việt Anh quyết định sang Nhật Bản làm việc theo diện thực tập sinh kỹ năng."
+    },
+    {
+     "t": "p",
+     "text": "\"Những năm THPT, thành tích học tập của em không hề tốt, nói đúng ra là em hoàn toàn không thích học. Ngày đó em không hề suy nghĩ sâu xa, chỉ nghĩ kiếm một công việc để có thể làm ra tiền là xong\", Việt Anh kể lại."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Công việc của Việt Anh ở Nhật thuộc ngành cơ khí, cụ thể là đúc kim loại. Thời gian đầu Việt Anh vô cùng sốc khi phải làm những công việc tay chân nặng nhọc đến như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi ngày, Việt Anh ra khỏi nhà từ 6 giờ 30 và nhiều hôm phải đến 20-21 giờ đêm mới về đến phòng trọ. Bất kể mùa hè hay mùa đông rét cắt da cắt thịt, Việt Anh và các đồng nghiệp vẫn luôn đầm đìa mồ hôi trước cái nóng như thiêu đốt của lò đúc. Môi trường trong xưởng không chỉ nóng, nhiều bụi và nặng nhọc mà còn đòi hỏi sự chính xác tuyệt đối để đảm bảo an toàn."
+    },
+    {
+     "t": "p",
+     "text": "\"3 năm đó không chỉ cho em trải nghiệm về công việc mà còn thay đổi khá nhiều cách em nhìn nhận cuộc sống. Em phải sống xa gia đình, tự lo cho bản thân, tuân thủ giờ giấc và quy định của công ty, đồng thời chịu trách nhiệm với công việc của mình\", Việt Anh bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Sự nghiêm khắc trong môi trường làm việc ở Nhật cũng giúp Việt Anh hình thành tính kỷ luật và cẩn trọng hơn. Nhưng thay đổi lớn nhất là cách mà chàng trai này nhìn nhận về việc học."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi còn đi học, em từng không thực sự hiểu học để làm gì. Đến khi trực tiếp đi làm, trải qua những công việc vất vả và nhìn thấy giới hạn của sức lao động, em bắt đầu suy nghĩ nhiều hơn về tương lai. Em tự hỏi nếu 5 hay 10 năm nữa mình vẫn làm công việc này thì cuộc sống sẽ như thế nào, và nếu muốn có nhiều lựa chọn hơn thì mình cần chuẩn bị những gì?\", Việt Anh nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Và đó chính là lúc Việt Anh thực sự thấm thía giá trị của việc học. \"Em nhận ra tri thức và chuyên môn không chỉ giúp mình có một công việc tốt hơn, mà còn giúp mình có thêm nhiều lựa chọn và khả năng phát triển lâu dài. Chính suy nghĩ đó khiến mong muốn được quay lại học tập ngày càng rõ ràng\". Việt Anh quyết định trở về Việt Nam và bắt đầu hành trình học ĐH."
+    },
+    {
+     "t": "h",
+     "text": "Trở thành thủ khoa tốt nghiệp nhờ duy trì sự cố gắng"
+    },
+    {
+     "t": "p",
+     "text": "Trở thành sinh viên ĐH ở tuổi 23, muộn hơn so với lộ trình thông thường của bạn cùng trang lứa là một thử thách khá lớn đối với Việt Anh. Do rời môi trường học tập trong 3 năm nên chàng trai này phải làm quen lại với việc học, bài vở, thi cử và đặc biệt cách học ở ĐH."
+    },
+    {
+     "t": "p",
+     "text": "\"Có những thời điểm em nhìn bạn bè bằng tuổi đã tốt nghiệp, đi làm và bắt đầu sự nghiệp thì cũng có cảm giác mình đang đi sau. Em cũng từng có áp lực rằng vì mình lớn tuổi hơn nên có lẽ phải trưởng thành hơn, học tốt hơn hoặc thể hiện được điều gì đó. Nhưng sau một thời gian, em nhận ra mình không cần phải chứng minh điều đó. Các bạn nhỏ tuổi hơn vẫn có rất nhiều điểm mạnh và có những điều em có thể học hỏi từ các bạn. Vì vậy, em dần tập trung vào việc học của mình thay vì so sánh với người khác\", Việt Anh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Việt Anh có khác biệt so với bạn trong lớp là đã từng đi làm nên hiểu được giá trị của thời gian và cơ hội được học."
+    },
+    {
+     "t": "p",
+     "text": "\"Em không muốn đi học chỉ để lấy một tấm bằng. Em muốn tận dụng 4 năm ĐH thật sự nghiêm túc. Trong quá trình học, em cố gắng duy trì việc học đều và giữ kỷ luật. Với tiếng Nhật, em học từ vựng, ngữ pháp, luyện nghe nói và chủ động tìm những cơ hội để sử dụng tiếng Nhật trong thực tế. Với các môn khác, em cố gắng hiểu bản chất thay vì chỉ học thuộc. Khi gặp vấn đề chưa hiểu, em chủ động hỏi thầy cô, trao đổi với bạn bè hoặc tự tìm hiểu thêm\", Việt Anh kể."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh việc học, thủ khoa khối ngành ngôn ngữ cũng tham gia các cuộc thi và hoạt động có sử dụng tiếng Nhật . Việt Anh từng đạt giải khuyến khích tại một cuộc thi hùng biện tiếng Nhật, được chọn làm phiên dịch cho diễn giả người Nhật tại một talkshow..."
+    },
+    {
+     "t": "p",
+     "text": "\"Những trải nghiệm đó có áp lực hơn khá nhiều so với việc học trên lớp, nhưng giúp em biết mình đang thiếu gì và cần cải thiện ở đâu\", Việt Anh cho hay."
+    },
+    {
+     "t": "p",
+     "text": "Học đúng tuổi và đạt thành tích tốt đã không dễ, hành trình đó càng khó khăn hơn với một người bắt đầu học ĐH ở tuổi 23 sau khi 3 năm rời xa sách vở, mưu sinh ở xứ người. Nhưng điều tự hào nhất đối với Việt Anh không chỉ là danh hiệu thủ khoa , mà là bản thân đã can đảm quay lại giảng đường, bắt nhịp lại với việc học và duy trì sự cố gắng trong suốt 4 năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhưng nhìn lại một hành trình, em không thấy 3 năm đi làm ở Nhật khiến mình bị chậm lại. Chính những trải nghiệm và khó khăn ở đó khiến trưởng thành hơn trong tư duy và cách suy nghĩ, để khi trở lại trường, em biết mình học vì điều gì và trân trọng cơ hội đó như thế nào\", Việt Anh bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tốt nghiệp, Việt Anh được tuyển dụng vào vị trí chuyên viên thiết kế CAD (thiết kế bản vẽ 2D nhà dân dụng Nhật Bản) cho Công ty TNHH HINOKIYA Việt Nam. Công việc có chuyên môn khá khác với ngành ngôn ngữ Nhật đã học, nhưng lại cho Việt Anh cơ hội được tiếp xúc với môi trường doanh nghiệp có yếu tố Nhật Bản và vận dụng tiếng Nhật trong công việc."
+    },
+    {
+     "t": "p",
+     "text": "\"Sau khi đã từng một lần thay đổi hướng đi và bắt đầu lại ở tuổi 23, hiện tại em muốn tiếp tục giữ tinh thần luôn học thêm những điều mới và chủ động chuẩn bị cho bước tiếp theo của mình. Về lâu dài, em mong muốn có thể tận dụng được nền tảng tiếng Nhật và chuyên môn công việc để phát triển trong một môi trường có yếu tố Nhật Bản và có nhiều cơ hội học hỏi hơn\", Việt Anh tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Với những người từng bỏ lỡ cơ hội học tập vì một suy nghĩ chưa đủ chín chắn, hoặc vì hoàn cảnh nào đó phải đi làm mưu sinh, sau đó muốn đi học lại, Việt Anh nhắn nhủ: \"Đừng tiếc vì mình bắt đầu muộn, chỉ tiếc khi mình có cơ hội mà không bắt đầu. Hãy cứ học hỏi và cố gắng, dù tiến bộ chậm vẫn hơn là không tiến bộ\"."
+    }
+   ]
+  },
+  {
+   "id": "2a47e45787d7",
+   "order": 18,
+   "slug": "co-gai-nhut-nhat-thanh-thu-khoa-hoc-vien-cong-nghe-buu-chinh",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cô gái nhút nhát thành thủ khoa Học viện Công nghệ Bưu chính Viễn thông",
+   "sapo": "Từng không dám bắt chuyện với bạn bè hay thầy cô, Hồng Hạnh \"lột xác\" sau học kỳ đầu tiên, rồi tốt nghiệp thủ khoa Học viện Công nghệ Bưu chính Viễn thông (PTIT).",
+   "author": "Dương Tâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/co-gai-nhut-nhat-thanh-thu-khoa-hoc-vien-cong-nghe-buu-chinh-vien-thong-5127642.html",
+   "published": "2026-10-03T00:18:05+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 847,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/2a47e45787d7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-04/2a47e45787d7-0.jpg",
+     "caption": "Nguyễn Hồng Hạnh. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-04/2a47e45787d7-1.jpg",
+     "caption": "Hạnh bên gia đình trong ngày tốt nghiệp hôm 26/9. Ảnh: Nhân vật cung cấp",
+     "w": 853,
+     "h": 497
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từng không dám bắt chuyện với bạn bè hay thầy cô, Hồng Hạnh \"lột xác\" sau học kỳ đầu tiên, rồi tốt nghiệp thủ khoa Học viện Công nghệ Bưu chính Viễn thông (PTIT)."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Hồng Hạnh, 22 tuổi, tốt nghiệp ngành Thương mại điện tử của PTIT với điểm tổng kết 3.78/4.0. Trong lễ tốt nghiệp cuối tháng 9, nữ sinh được vinh danh là thủ khoa đầu ra toàn học viện."
+    },
+    {
+     "t": "p",
+     "text": "\"Có nằm mơ mình cũng không dám nghĩ tới danh hiệu này lúc mới vào trường, khi mà còn không dám kết bạn\", Hạnh nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bốn năm trước, cựu học sinh trường THPT Quốc Oai đạt 26,9 điểm thi tốt nghiệp ở tổ hợp A01 (Toán, Lý, Anh). Thời điểm đó, thương mại điện tử bùng nổ sau dịch Covid-19, Hạnh tìm hiểu ngay ngành này. Thấy có hai trường kinh tế cùng PTIT đào tạo, nữ sinh chọn PTIT vì đánh giá có sự giao thoa mạnh mẽ hơn giữa kinh tế và công nghệ. Thấy điểm chuẩn phù hợp, Hạnh đăng ký nguyện vọng 1 và trúng tuyển."
+    },
+    {
+     "t": "p",
+     "text": "Hạnh mô tả thời gian đầu ở trường bằng hai chữ \"bơ vơ\". Chưa quen môi trường mới, tính lại hướng nội, Hạnh không dám chủ động trò chuyện với bạn bè. Cả khi bị ngợp bởi lượng kiến thức một buổi học nhiều gấp vài lần phổ thông, nhiều phần chưa hiểu, nữ sinh cũng không dám hỏi ai."
+    },
+    {
+     "t": "p",
+     "text": "Tự nhận không thông minh, Hạnh xác định phải \"cần cù\" để bù đắp. Đón Tết năm 2023 ngay trước kỳ thi cuối học kỳ I, Hạnh không đi chơi mà ở nhà ôn luyện. Chỉ khi nhận kết quả không phải thi lại môn nào, nữ sinh mới thở phào."
+    },
+    {
+     "t": "p",
+     "text": "Điều này khiến Hạnh tự nhủ phải học đều trong cả học kỳ, tránh áp lực vào giai đoạn nước rút. Từ học kỳ II, sau mỗi buổi học, nữ sinh đều hệ thống lại kiến thức, tìm thêm tài liệu và mạnh dạn hỏi thầy cô những nội dung khó. Với cách này, lần đầu tiên Hạnh đạt điểm tổng kết tuyệt đối, giành học bổng khuyến khích học tập của trường."
+    },
+    {
+     "t": "p",
+     "text": "\"Hôm nhận được email, mình mới biết trường có học bổng này. Mình như vỡ òa bởi được ghi nhận và có thêm động lực cố gắng\", Hạnh kể."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó, Hạnh cũng dần bớt e dè khi bạn bè bắt chuyện. Nữ sinh đã hai lần cùng bạn tham gia cuộc thi PTIT Young E-Business Star và giành tới giải nhất hạng mục bán lẻ trực tuyến. Nhóm còn tham gia một cuộc thi về Marketing của Đại học Công nghiệp Hà Nội và vào top 10 ở một hạng mục."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, Hạnh bắt đầu nghiên cứu khoa học, đạt loại Tốt ở cấp học viện và có bài được đăng trên tạp chí khoa học trong nước. Nữ sinh nhìn nhận những hoạt động này giúp bản thân mở rộng kiến thức không chỉ về Thương mại điện tử mà còn các lĩnh vực khác như Logistics, Marketing, Quản trị kinh doanh, đồng thời ứng dụng công nghệ (cơ sở dữ liệu, an toàn thông tin, thiết kế web) vào thực tế."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình tiếc nuối khi tự ti trong giai đoạn đầu đại học, làm mất cơ hội tham gia nhiều cuộc thi hơn\", Hạnh bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Đó cũng là nền tảng để nữ sinh bước vào năm cuối, khi chương trình yêu cầu \"thực chiến\" nhiều hơn. Học các chuyên đề sâu, Hạnh được trực tiếp lên chiến lược và bán hàng trên các sàn thương mại điện tử như Shopee, TikTok, Amazon, tương tự cách làm tại doanh nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Nữ sinh phải khảo sát thị trường, tìm hiểu \"đối thủ\", lập kế hoạch, lên chiến lược bán hàng từ ngắn hạn đến dài hạn, tạo kênh và bán hàng thật. Hạnh kể có những hôm phải thức xuyên đêm cùng các bạn làm dự án nhưng không thấy mệt. Nhìn đồ thị doanh số đi lên đều mỗi ngày, cả nhóm như được tiếp thêm động lực."
+    },
+    {
+     "t": "p",
+     "text": "\"Đó là khoảng thời gian vui nhất thời sinh viên\", Hạnh nói. \"Được thực chiến cũng giúp mình thấm thía mọi thứ trong ngành Thương mại điện tử thay đổi rất nhanh. Nếu dừng học, mình sẽ nhanh chóng bị tụt lại\"."
+    },
+    {
+     "t": "p",
+     "text": "Là cố vấn học tập của Hạnh, TS Trần Thị Thập, Phó trưởng khoa Quản trị kinh doanh 1, phụ trách ngành Thương mại điện tử, đánh giá cao học trò ở tinh thần cầu thị, sự bền bỉ và ý thức tự học."
+    },
+    {
+     "t": "p",
+     "text": "\"Hạnh không phải mẫu sinh viên chỉ biết học để đạt điểm cao mà luôn tìm tòi, tham gia nghiên cứu khoa học, các cuộc thi học thuật và sẵn sàng đón nhận những thử thách mới\", cô Thập nói."
+    },
+    {
+     "t": "p",
+     "text": "Đang làm việc đúng ngành học tại một doanh nghiệp ở Hà Nội, Hạnh hy vọng tích lũy được nhiều kinh nghiệm thực tế trước khi học lên cao hơn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    }
+   ]
+  },
+  {
+   "id": "bb52f9118a46",
+   "order": 19,
+   "slug": "thieu-ta-giu-tai-khoan-0-dong-va-hanh-trinh-chap-canh-uoc-mo",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Thiếu tá giữ 'tài khoản 0 đồng' và hành trình chắp cánh ước mơ",
+   "sapo": "Khép lại ca trực, thiếu tá Nguyễn Văn Tuyên (39 tuổi), cán bộ Công an P.Hải Dương (Hải Phòng) chuyển số tiền còn lại trong tài khoản cho một mảnh đời khốn khó. Màn hình báo số dư quỹ thiện nguyện về 0 đồng.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/thieu-ta-giu-tai-khoan-0-dong-va-hanh-trinh-chap-canh-uoc-mo-185261002185600435.htm",
+   "published": "2026-10-03T00:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1637,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/bb52f9118a46-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-0.jpg",
+     "caption": "Cuối tháng 7.2026, thiếu tá Nguyễn Văn Tuyên và tác giả Phạm Hường chung vui cùng Phạm Hồng Huy khi em trở thành tân sinh viên ĐH Bách khoa Hà Nội",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-1.jpg",
+     "caption": "Từ những ngõ nhỏ ven đô, vòng xe của nhóm Thiện Tâm đã mang áo ấm và nụ cười đến với học trò vùng cao",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-2.jpg",
+     "caption": "Cuối tháng 8.2023, Phạm Hồng Huy (thứ hai từ phải sang) được nhóm Thiện Tâm trao tặng cuốn sổ tiết kiệm trị giá hơn 77 triệu đồng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-3.jpg",
+     "caption": "Khoác trên mình sắc phục công an cơ sở, thiếu tá Nguyễn Văn Tuyên luôn gắn bó mật thiết với nhân dân, thấu hiểu rành rẽ từng ngõ phố",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-4.jpg",
+     "caption": "Không chỉ duy trì “Tài khoản 0 đồng”, việc công khai sao kê đến từng 50.000 đồng tiền quỹ dư là chìa khóa giúp thiếu tá Tuyên kết nối được hơn 2,5 tỉ đồng từ các nhà hảo tâm",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-5.jpg",
+     "caption": "Thiếu tá Tuyên (trái) duy trì hiến máu cho các ca cấp cứu",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-04/bb52f9118a46-6.jpg",
+     "caption": "Thiếu tá Nguyễn Văn Tuyên trao quà tri ân và thống nhất phương án sửa chữa lại căn nhà đã xuống cấp cho bà Nguyễn Thị Sẽ tại xã Hồng Châu (Hải Phòng)",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Hạt giống của lòng trắc ẩn"
+    },
+    {
+     "t": "p",
+     "text": "Từ con số 0 cùng nguyên tắc \"không quỹ tồn dư\", suốt hơn 3 năm qua, hơn 2,5 tỉ đồng đã được các chiến sĩ áo xanh dùng mở ra những cung đường nối ngõ nghèo ven đô đến những điểm trường sương phủ. Hành trình ấy khởi nguồn từ sự thấu cảm của một chiến sĩ công an cơ sở. Đó là ngày 22.3.2023, khi số tiền 12.500.000 đồng đầu tiên được quyên góp để trao cho bà Nguyễn Thị Nến ở thôn Văn Tố (xã Chí Minh, TP.Hải Phòng)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hạt giống của lòng trắc ẩn trong thiếu tá Tuyên đã được gieo mầm trước đó rất lâu, từ những lần theo bố - nguyên Chủ tịch Hội Nạn nhân chất độc da cam tỉnh Hải Dương (cũ) - đi trao quà. Những cơ thể vặn vẹo, những ánh mắt ngây dại trong mái nhà xơ xác cứ bám lấy tâm trí Tuyên, làm nhen lên trong anh niềm day dứt, thôi thúc phải hành động. May mắn thay, hành trình ấy luôn có sự ủng hộ từ cấp trên và đồng đội. Ở nhà, vợ anh cũng lặng lẽ xếp từng bộ quần áo cũ, dán từng thùng mì tôm hay cẩn thận nhét thêm ống men tiêu hóa, vỉ thuốc hạ sốt vào ba lô chuẩn bị cho mỗi chuyến đi vùng cao của chồng."
+    },
+    {
+     "t": "p",
+     "text": "Từ đợt trao quà ở thôn Văn Tố, Tuyên cùng các thành viên thống nhất cách làm: chứng minh lòng tin không bằng lời nói. Sau mỗi đợt vận động, toàn bộ thu chi được sao kê chi tiết, hình ảnh trao tiền tận tay người nhận được ghi lại đầy đủ. Đặc biệt, nhóm duy trì nguyên tắc \"Tài khoản 0 đồng\". Khi một chương trình kết thúc, số dư tài khoản phải trở về số 0. Nếu còn, tiền lập tức được chuyển thẳng đến những hoàn cảnh khó khăn tiếp theo, tuyệt đối không giữ quỹ tồn dư."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không kêu gọi đao to búa lớn, những bản sao kê rạch ròi đến từng đồng đã kéo những nhà hảo tâm xích lại. Ngày 31.3.2025, nhóm \"Thiện nguyện Thiện Tâm\" ra đời. Từ khởi điểm mười mấy triệu đồng, đến nay, anh Tuyên đã đứng ra tổ chức thành công 23 chương trình thiện nguyện với số tiền 319.626.000 đồng. Cùng với nhóm của mình, con số ấy đã vượt mốc 2,5 tỉ đồng cùng hơn 30 chương trình lớn nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Từ những sự kiện trong phường như \"Bữa cơm tất niên\" tại Trung tâm Bảo trợ xã hội Hải Dương hay chương trình \"Nụ cười của bé\"..., những vòng xe của nhóm Thiện Tâm bắt đầu lăn xa hơn. Đó là những chuyến xe chở hơn 180 triệu đồng lên Trường mầm non Sơn Ca (Bản Công, Lào Cai); hàng nghìn bộ quần áo ấm, sách vở trị giá 60 triệu đồng cùng 103 triệu đồng tiền mặt trao tận tay học trò Sủng Máng (Tuyên Quang), Háng Đồng (Sơn La); hơn 214 triệu đồng nhu yếu phẩm trực tiếp san sẻ mất mát với đồng bào miền Trung giữa những ngày bão lũ cuối tháng 9.2024."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "'Chúng tôi lại tự nhủ mình phải đi tiếp'"
+    },
+    {
+     "t": "p",
+     "text": "Đã có lúc, cỗ xe thiện nguyện tưởng chừng phải dừng lại. Đó là khoảng lặng gần 3 tháng, khi những tệp hồ sơ địa bàn ngổn ngang, những đêm thức trắng tuần tra bám chốt. Từng có lúc, thiếu tá Tuyên ngồi lặng trước màn hình điện thoại, nhìn tin nhắn cầu cứu từ một hoàn cảnh gửi đến nhóm nhưng không dám đọc. Anh kiệt sức! Áp lực chuyên môn và khát khao giúp đỡ những phận đời khiến anh rơi vào hoang mang. Nhưng rồi, những đồng tiền được nhà hảo tâm âm thầm gửi vào quỹ cùng ánh mắt đợi chờ của những mảnh đời khốn khó lại thôi thúc anh gượng dậy. Điện thoại lại mở, những danh sách khảo sát mới lại được lập. Cùng với việc nối lại các chuyến đi, Tuyên vẫn duy trì thói quen hiến máu tình nguyện cho các ca cấp cứu."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cuốn sổ tay của Thiện Tâm không chỉ ghi chép những chuyến hàng cứu trợ mà còn gạch dưới tên những học trò nghèo. Từ 18.500.000 đồng trao cho 6 học sinh Trường THCS Ngọc Châu (P.Hải Dương), nhóm đồng lòng thực hiện mục tiêu nâng bước các em đến trường. Trong danh sách ấy, cái tên Phạm Hồng Huy được tô đậm nhất."
+    },
+    {
+     "t": "p",
+     "text": "Giữa năm 2023, bà ngoại - chỗ dựa duy nhất của Huy (học sinh lớp 11 chuyên tin Trường THPT chuyên Nguyễn Trãi) qua đời. Mở cánh cửa căn phòng trọ 12 m2 ở phố Tuệ Tĩnh (P.Thành Đông, Hải Phòng), đập vào mắt thiếu tá Tuyên không chỉ là bàn thờ nghi ngút khói mà còn có một cậu bé 15 tuổi lạch cạch gõ những dòng code luyện thi. Chi phí sinh hoạt mỗi tháng của Huy trông chờ vào 750.000 đồng hỗ trợ từ nhà trường và 400.000 đồng học bổng nhờ thành tích đứng đầu lớp. Tổng cộng 1.150.000 đồng ấy phải chia năm xẻ bảy cho tiền nhà, tiền điện nước và những bữa cơm đạm bạc."
+    },
+    {
+     "t": "p",
+     "text": "Giữa lúc Huy chới với trước lựa chọn tiếp tục đến trường hay dừng học để mưu sinh, nhóm Thiện Tâm đã bước vào cuộc đời em. Thiếu tá Tuyên lặng lẽ đặt bàn tay lên đôi vai đang run lên của cậu học trò mồ côi. Một chiến dịch kêu gọi khẩn cấp được kích hoạt. Ngày 24.8.2023, cuốn sổ tiết kiệm trị giá 77.158.000 đồng được nhóm trao cho Huy để hỗ trợ em trang trải cuộc sống và tiếp tục đến trường."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, ở Huy không còn bóng dáng cậu bé 15 tuổi đầy âu lo trong căn phòng trọ tuềnh toàng ngày chịu tang bà ngoại mà đã trở thành chàng trai xuất sắc đoạt giải nhì quốc gia môn tin học và được tuyển thẳng vào ngành khoa học dữ liệu và trí tuệ nhân tạo (ĐH Bách khoa Hà Nội). Cuối tháng 7.2026, gặp lại ân nhân, đôi mắt Huy đỏ hoe. Nhìn thiếu tá Tuyên, Huy mỉm cười: \"Chú Tuyên không chỉ cho em tiền ăn học, mà còn động viên em vươn lên. Sau này, ra trường và có công việc ổn định, em sẽ đồng hành cùng Thiện Tâm để giúp những mảnh đời khốn khó như em\". Bản thân thiếu tá Tuyên không nói nhiều, chỉ vỗ nhẹ lên vai tân sinh viên, mỉm cười rồi đánh dấu tích cạnh dòng tên \"Phạm Hồng Huy\" trong cuốn sổ tay cũ. \"Hành trình này có những lúc mỏi mệt tưởng chừng phải dừng lại. Nhưng mỗi lần chứng kiến một em nhỏ như Huy được đến trường hay nhận một lời động viên, chúng tôi lại tự nhủ mình phải đi tiếp\", anh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Bước sang tháng 8.2026, Thiếu tá Tuyên lại chạy đua với thời gian trước mùa mưa bão. Lần này, điểm đến là gia đình bà Nguyễn Thị Sẽ (thôn Văn Minh, xã Hồng Châu, Hải Phòng), là thân nhân liệt sĩ. Cầm biên bản xác nhận hỗ trợ sửa nhà vừa ký với chính quyền địa phương và gia đình, anh soát lại từng hạng mục: từ ốp tường, lát nền đến thay thế cánh cửa. Chỉ một thời gian ngắn nữa, gia đình sẽ không còn phải lo âu bảo vệ ban thờ liệt sĩ trong căn nhà dột nát mỗi khi trái gió trở trời."
+    },
+    {
+     "t": "p",
+     "text": "Trên bàn làm việc của thiếu tá Tuyên tại trụ sở công an phường, góc phải là tập hồ sơ quản lý nhân khẩu, an ninh trật tự của khu phố, góc trái là xấp hóa đơn mua sách vở, áo ấm sau chuyến đi vùng cao. Người lính cơ sở lật từng trang sao kê ngân hàng, dùng thước đối chiếu từng giao dịch chuyển tiền 50.000 đồng, 100.000 đồng của các nhà hảo tâm. Gấu quần anh đôi khi vẫn còn lấm tấm vết bùn sau một buổi cuốc bộ vào ngách sâu thăm hỏi người già neo đơn, vai áo sờn đi vì những lần bốc dỡ nhu yếu phẩm."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Vuốt lại sắc phục, Tuyên bắt đầu ca trực đêm. Trong túi áo, màn hình điện thoại lóe sáng kèm tiếng \"ting\" báo số dư. Tài khoản của quỹ Thiện Tâm lại vượt con số 0. Dưới ánh đèn đường, người chiến sĩ công an dừng bước, nhập tiếp số tiền vừa nhận vào ghi chú điện thoại. Ở dòng dưới cùng, tên một điểm trường vùng cao vừa được bổ sung, chờ ngày đoàn xe Thiện Tâm lăn bánh…"
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "THỜI HẠN GỬI TÁC PHẨM DỰ THI: Từ 7.5 - 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    }
+   ]
+  },
+  {
+   "id": "21a6cbc041a7",
+   "order": 20,
+   "slug": "sac-voc-nu-than-dien-kinh-17-tuoi-cua-trung-quoc",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Sắc vóc 'nữ thần điền kinh' 17 tuổi của Trung Quốc",
+   "sapo": "Nhật Bản Từ cô bé học quần vợt để rèn sức khỏe, Chen Yujie chuyển sang điền kinh và giành 3 HC vàng ASIAD ở tuổi 17.",
+   "author": "Vy Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/sac-voc-nu-than-dien-kinh-17-tuoi-cua-trung-quoc-5127819.html",
+   "published": "2026-10-02T23:36:23+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1906,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 817
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 878
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-3.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 789
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-5.jpg",
+     "caption": "",
+     "w": 1198,
+     "h": 781
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-7.jpg",
+     "caption": "",
+     "w": 720,
+     "h": 1080
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-8.jpg",
+     "caption": "",
+     "w": 720,
+     "h": 1080
+    },
+    {
+     "src": "img/2026-10-04/21a6cbc041a7-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 798
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Sắc vóc 'nữ thần điền kinh' 17 tuổi của Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Nhật Bản Từ cô bé học quần vợt để rèn sức khỏe, Chen Yujie chuyển sang điền kinh và giành 3 HC vàng ASIAD ở tuổi 17."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 25/9, Chen Yujie khiến cả châu lục sửng sốt khi về nhất đường chạy chung kết 100m nữ ASIAD với thành tích 11 giây 06. VĐV người Trung Quốc phá kỷ lục Đại hội tồn tại suốt 24 năm."
+    },
+    {
+     "t": "p",
+     "text": "Đây còn là HC vàng điền kinh đầu tiên của Trung Quốc tại ASIAD 2026 và chiến thắng thứ 200 của nước này trong lịch sử môn điền kinh ở Đại hội. Với Chen, nó giống một lễ trưởng thành sớm."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi sẽ tròn 18 tuổi vào tháng 12 này. Tấm HC vàng ASIAD là món quà sinh nhật tuyệt vời nhất\", Chen nói sau chiến thắng. \"Sau khi đăng quang ở Á vận hội, tôi muốn giúp điền kinh nữ Trung Quốc ghi dấu tại giải Vô địch thế giới và Thế vận hội. Sẽ không có giới hạn nào cả\"."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 25/9, Chen Yujie khiến cả châu lục sửng sốt khi về nhất đường chạy chung kết 100m nữ ASIAD với thành tích 11 giây 06. VĐV người Trung Quốc phá kỷ lục Đại hội tồn tại suốt 24 năm."
+    },
+    {
+     "t": "p",
+     "text": "Đây còn là HC vàng điền kinh đầu tiên của Trung Quốc tại ASIAD 2026 và chiến thắng thứ 200 của nước này trong lịch sử môn điền kinh ở Đại hội. Với Chen, nó giống một lễ trưởng thành sớm."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi sẽ tròn 18 tuổi vào tháng 12 này. Tấm HC vàng ASIAD là món quà sinh nhật tuyệt vời nhất\", Chen nói sau chiến thắng. \"Sau khi đăng quang ở Á vận hội, tôi muốn giúp điền kinh nữ Trung Quốc ghi dấu tại giải Vô địch thế giới và Thế vận hội. Sẽ không có giới hạn nào cả\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hai ngày sau, tài năng sinh năm 2008 tiếp tục để lại dấu ấn với HC bạc nội dung 200m nữ. Trong phần thi chung kết diễn ra dưới mưa, cô chạm đích sau 22 giây 93, chỉ kém chưa đầy 0,2 giây so với người về nhất Shanti Pereira (Singapore)."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chen kết thúc đại hội bằng hai HC vàng tiếp sức trong hai ngày liên tiếp. Cô cùng đội nữ Trung Quốc thắng 4x100m với 42,96 giây ngày 28/9, rồi chạy chặng cuối giúp đội hỗn hợp đạt 40,78 giây ngày 29/9. Ở nội dung hỗn hợp, Chen vượt VĐV Thái Lan trong chặng quyết định, mang về HC vàng thứ ba cho bản thân tại kỳ ASIAD đầu tiên."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Bất chấp thành tích phi thường với bốn tấm huy chương trong bốn ngày, chân chạy tuổi teen vẫn thừa nhận rằng bản thân chưa đạt được trạng thái tâm lý hoàn hảo ở lần đầu tham dự ASIAD: \"Trong lúc khởi động, chân của tôi đôi lúc run lên. Tôi rất sợ mình sẽ xuất phát lỗi. Trước khi tiếng súng vang lên, tôi chỉ dám nghĩ rằng mình phải về đích mà không mắc sai lầm\"."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Chen sinh ngày 29/12/2008 tại Ninh Ba, tỉnh Chiết Giang, trong gia đình có cả bố lẫn mẹ từng là VĐV chạy nước rút. Thành tích 100m tốt nhất của bố cô là 10 giây 80, còn mẹ đạt 11 giây 94. Cả hai đều đạt chuẩn VĐV cấp một của Trung Quốc."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Nhưng bố mẹ Chen không định hướng con gái theo nghiệp thể thao. Do hiểu rõ sự khắc nghiệt của tập luyện chuyên nghiệp, họ chỉ muốn cô lớn lên khỏe mạnh và vui vẻ. Chen từng học khiêu vũ, tập taekwondo rồi gia nhập câu lạc bộ quần vợt ở trường."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến khi cô tham dự một cuộc thi chạy ở trường tiểu học. Tốc độ của Chen gây chú ý với giáo viên thể chất, rồi đến HLV Wu Yacun của Trường Thể thao Ninh Ba. Khoảng lớp bốn hoặc lớp năm, cô bắt đầu tập điền kinh theo mô hình bán thời gian: học văn hóa ban ngày và tập chạy sau giờ học."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng bố mẹ Chen không định hướng con gái theo nghiệp thể thao. Do hiểu rõ sự khắc nghiệt của tập luyện chuyên nghiệp, họ chỉ muốn cô lớn lên khỏe mạnh và vui vẻ. Chen từng học khiêu vũ, tập taekwondo rồi gia nhập câu lạc bộ quần vợt ở trường."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến khi cô tham dự một cuộc thi chạy ở trường tiểu học. Tốc độ của Chen gây chú ý với giáo viên thể chất, rồi đến HLV Wu Yacun của Trường Thể thao Ninh Ba. Khoảng lớp bốn hoặc lớp năm, cô bắt đầu tập điền kinh theo mô hình bán thời gian: học văn hóa ban ngày và tập chạy sau giờ học."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, Chen chỉ coi thể thao là cách rèn luyện sức khỏe. Nhưng tài năng của cô nhanh chóng bộc lộ. Nữ sinh nhỏ tuổi liên tục đánh bại các đối thủ lớn hơn ở những giải học sinh tại Ninh Ba rồi tỉnh Chiết Giang."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2023, Chen gây chú ý quốc tế khi giành chức vô địch tại Đại hội Thể thao học sinh thế giới U15 ở Rio de Janeiro. Cùng năm, cô đoạt cú đúp 100 m và 200 m nhóm trung học tại Đại hội Học sinh - Thanh niên Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích 11 giây 43 ở cự ly 100 m không chỉ phá kỷ lục trẻ quốc gia mà còn nhanh hơn kết quả của nhà vô địch nhóm sinh viên tại cùng giải."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, Chen chỉ coi thể thao là cách rèn luyện sức khỏe. Nhưng tài năng của cô nhanh chóng bộc lộ. Nữ sinh nhỏ tuổi liên tục đánh bại các đối thủ lớn hơn ở những giải học sinh tại Ninh Ba rồi tỉnh Chiết Giang."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2023, Chen gây chú ý quốc tế khi giành chức vô địch tại Đại hội Thể thao học sinh thế giới U15 ở Rio de Janeiro. Cùng năm, cô đoạt cú đúp 100 m và 200 m nhóm trung học tại Đại hội Học sinh - Thanh niên Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích 11 giây 43 ở cự ly 100 m không chỉ phá kỷ lục trẻ quốc gia mà còn nhanh hơn kết quả của nhà vô địch nhóm sinh viên tại cùng giải."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Thể hình nhỏ nhắn, gương mặt trẻ và khả năng bứt tốc khiến Chen được gọi là \"Pocket Rocket\" (Tên lửa bỏ túi)."
+    },
+    {
+     "t": "p",
+     "text": "Cô thăng tiến thần tốc kể từ khi tập luyện cùng đội tuyển quốc gia vào năm 2024. Cô giành HC vàng 100m nữ giải U20 châu Á 2024, về nhất đường chạy 200m và 4x100m nữ ở giải Vô địch châu Á sau đó một năm."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, Chen trở thành VĐV nữ trẻ nhất dự Giải vô địch điền kinh thế giới tại Tokyo, tranh tài ở vòng loại 200 m và góp mặt trong đội tiếp sức 4x100m Trung Quốc. Cô còn vô địch 200m châu Á, xếp trên chính Pereira - đối thủ sau này ngăn cô giành cú đúp tại Nagoya."
+    },
+    {
+     "t": "p",
+     "text": "Thể hình nhỏ nhắn, gương mặt trẻ và khả năng bứt tốc khiến Chen được gọi là \"Pocket Rocket\" (Tên lửa bỏ túi)."
+    },
+    {
+     "t": "p",
+     "text": "Cô thăng tiến thần tốc kể từ khi tập luyện cùng đội tuyển quốc gia vào năm 2024. Cô giành HC vàng 100m nữ giải U20 châu Á 2024, về nhất đường chạy 200m và 4x100m nữ ở giải Vô địch châu Á sau đó một năm."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, Chen trở thành VĐV nữ trẻ nhất dự Giải vô địch điền kinh thế giới tại Tokyo, tranh tài ở vòng loại 200 m và góp mặt trong đội tiếp sức 4x100m Trung Quốc. Cô còn vô địch 200m châu Á, xếp trên chính Pereira - đối thủ sau này ngăn cô giành cú đúp tại Nagoya."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Chen theo học tại Trường Trung học Xiaoshi ở Ninh Ba. Để giúp cô theo kịp chương trình khi thường xuyên thi đấu xa nhà, trường bố trí kế hoạch học riêng với các buổi học một kèm một. Cô còn có gia sư tiếng Anh để duy trì việc học ngay cả khi ra nước ngoài thi đấu."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thường, Chen học văn hóa buổi sáng, tập luyện tại trường thể thao buổi chiều rồi trở lại trường tự học vào buổi tối. Khi tập trung đội tuyển, cô nghỉ ngơi buổi sáng, tập buổi chiều và dành thời gian buổi tối cho thiết bị điện tử hoặc làm đồ thủ công."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài đường chạy, Chen vẫn mang sở thích của một thiếu nữ: đọc \"Hồng lâu mộng\", \"Tây du ký\" và tiểu thuyết trinh thám, đi mua thú nhồi bông với đồng đội hay tìm những món ăn yêu thích sau mùa giải."
+    },
+    {
+     "t": "p",
+     "text": "Chen theo học tại Trường Trung học Xiaoshi ở Ninh Ba. Để giúp cô theo kịp chương trình khi thường xuyên thi đấu xa nhà, trường bố trí kế hoạch học riêng với các buổi học một kèm một. Cô còn có gia sư tiếng Anh để duy trì việc học ngay cả khi ra nước ngoài thi đấu."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thường, Chen học văn hóa buổi sáng, tập luyện tại trường thể thao buổi chiều rồi trở lại trường tự học vào buổi tối. Khi tập trung đội tuyển, cô nghỉ ngơi buổi sáng, tập buổi chiều và dành thời gian buổi tối cho thiết bị điện tử hoặc làm đồ thủ công."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài đường chạy, Chen vẫn mang sở thích của một thiếu nữ: đọc \"Hồng lâu mộng\", \"Tây du ký\" và tiểu thuyết trinh thám, đi mua thú nhồi bông với đồng đội hay tìm những món ăn yêu thích sau mùa giải."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Mục tiêu tiếp theo của Chen sẽ là chinh phục đấu trường thế giới. Cô từng về thứ tư ở cự ly 200 m tại sự kiện Diamond League ở Hạ Môn vào năm 2025, trước khi cùng đội 4x100 m quốc gia về đích thứ năm tại giải chạy tiếp sức Vô địch thế giới cách đây bốn tháng."
+    },
+    {
+     "t": "p",
+     "text": "Chen cũng hướng đến việc phá mốc 11 giây và dự Olympic Los Angeles 2028. Cựu vô địch châu Á Wei Yongli dự đoán Chen có thể chạy dưới 11 giây khi Bắc Kinh đăng cai giải vô địch thế giới năm 2027."
+    },
+    {
+     "t": "p",
+     "text": "Mục tiêu tiếp theo của Chen sẽ là chinh phục đấu trường thế giới. Cô từng về thứ tư ở cự ly 200 m tại sự kiện Diamond League ở Hạ Môn vào năm 2025, trước khi cùng đội 4x100 m quốc gia về đích thứ năm tại giải chạy tiếp sức Vô địch thế giới cách đây bốn tháng."
+    },
+    {
+     "t": "p",
+     "text": "Chen cũng hướng đến việc phá mốc 11 giây và dự Olympic Los Angeles 2028. Cựu vô địch châu Á Wei Yongli dự đoán Chen có thể chạy dưới 11 giây khi Bắc Kinh đăng cai giải vô địch thế giới năm 2027."
+    },
+    {
+     "t": "p",
+     "text": "Vy Anh"
+    },
+    {
+     "t": "li",
+     "text": "VĐV 16 tuổi Trung Quốc phá kỷ lục U20 châu Á"
+    },
+    {
+     "t": "li",
+     "text": "Thần đồng điền kinh Thái Lan lo lắng khi bị gán ghép với người đẹp Trung Quốc"
+    },
+    {
+     "t": "li",
+     "text": "'Mỹ nhân điền kinh Trung Quốc' bật khóc sau HC đồng ASIAD 2026"
+    },
+    {
+     "t": "li",
+     "text": "Mỹ nhân điền kinh Trung Quốc tìm cơ hội sửa sai ở ASIAD"
+    }
+   ]
+  }
+ ]
+}

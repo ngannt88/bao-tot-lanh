@@ -1,0 +1,3004 @@
+{
+ "date": "2026-10-07",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-07T08:18:10+07:00",
+ "sections": [
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  }
+ ],
+ "articles": [
+  {
+   "id": "678924eccced",
+   "order": 1,
+   "slug": "nu-sinh-ha-noi-thuc-trang-ngam-sao-gianh-vang-olympic-thien",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nữ sinh Hà Nội thức trắng ngắm sao, giành Vàng Olympic Thiên văn",
+   "sapo": "TPO - Lê Gia Hồng Minh, học sinh lớp 12 chuyên Lý, Trường THPT Chuyên Hà Nội – Amsterdam, một trong sáu học sinh Việt Nam vừa giành Huy chương Vàng Olympic Thiên văn và Vật lý Thiên văn quốc tế 2026 chia sẻ cảm xúc hạnh phúc, tự hào khi được xướng tên.",
+   "author": "Hà Linh",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/nu-sinh-ha-noi-thuc-trang-ngam-sao-gianh-vang-olympic-thien-van-post1882573.tpo",
+   "published": "2026-10-06T04:10:23+07:00",
+   "lang": "vi",
+   "score": 9,
+   "words": 1340,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/678924eccced-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/678924eccced-0.jpg",
+     "caption": "Khoảnh khắc Hồng Minh được xướng tên nhận Huy chương Vàng.",
+     "w": 1280,
+     "h": 668
+    },
+    {
+     "src": "img/2026-10-07/678924eccced-1.jpg",
+     "caption": "Nữ sinh trường Chuyên Hà Nội Amsterdam chia sẻ dự định sẽ theo đuổi ước mơ trở thành bác sĩ (ảnh: Hà Linh)",
+     "w": 1280,
+     "h": 962
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lê Gia Hồng Minh cho biết em bất ngờ khi được xướng tên nhận huy chương Vàng tại lễ trao giải. Trước đó, khi hoàn thành bài thi, Minh chỉ nghĩ mình có thể nhận huy chương Bạc."
+    },
+    {
+     "t": "p",
+     "text": "“Giây phút được xướng tên nhận huy chương, em cảm thấy rất tự hào và yêu đất nước, yêu trường, lớp, gia đình, thầy cô và bạn bè nhiều hơn. Đó là giây phút hạnh phúc, tuyệt vời”, Hồng Minh bồi hồi nói."
+    },
+    {
+     "t": "p",
+     "text": "Đêm sau khi nhận huy chương, nữ sinh cho biết đã ngủ một giấc thật ngon, sau những ngày lo lắng dự thi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hai tháng rưỡi luyện thi"
+    },
+    {
+     "t": "p",
+     "text": "Từ nhỏ, Hồng Minh vốn học tốt các môn Khoa học tự nhiên, gồm Vật lý, Hóa học và Sinh học. Khi vào THPT, em chọn chuyên Lý vì nhận thấy kiến thức Vật lý có nhiều ứng dụng trong cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Nữ sinh bắt đầu quan tâm đến Thiên văn và Vật lý thiên văn từ lớp 10, khi thầy giáo chủ nhiệm tổ chức một buổi học về lĩnh vực này. Đến lớp 11, em tự học thêm, hỏi các bạn đi trước để bổ sung kiến thức, sau đó được các thầy cô hướng dẫn."
+    },
+    {
+     "t": "p",
+     "text": "“Vật lý thiên văn không chỉ nói về bầu trời mà còn nói về sự hình thành vũ trụ, trái đất và sự sống trên trái đất. Em thấy đó là những kiến thức rất lý thú và cũng là lĩnh vực khá mới mẻ. Trong trường cũng chưa phải một môn học trong chương trình, nên lúc đầu em phải tự tìm hiểu khá nhiều”, Minh kể."
+    },
+    {
+     "t": "p",
+     "text": "Điểm khác biệt lớn nhất, theo Minh, nằm ở phần thực hành. Trong khi nền tảng lý thuyết Vật lý đã có từ chương trình môn Lý, các kiến thức về bản đồ sao, quan sát bầu trời hay sử dụng kính thiên văn là những nội dung em phải làm quen trong thời gian ngắn."
+    },
+    {
+     "t": "p",
+     "text": "Để dự thi Olympic Thiên văn và Vật lý thiên văn quốc tế, em và các bạn chỉ có vẻn vẹn khoảng 2,5 tháng để ôn tập trước kỳ thi. Mỗi ngày, Minh dành khoảng 6 - 7 tiếng cho môn này trong giai đoạn ôn tập căng thẳng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "“Quá trình ôn luyện, thực hành khó hơn vì đây là những kiến thức mới. Những phần thực hành gần như không có nhiều trong sách vở hay mạng xã hội nên việc học cũng vất vả hơn”, Minh nói."
+    },
+    {
+     "t": "p",
+     "text": "Các buổi học được đan xen giữa lý thuyết và thực hành, chẳng hạn sáng, chiều học lý thuyết, tối thực hành để có thể quan sát các ngôi sao."
+    },
+    {
+     "t": "p",
+     "text": "Khó nhất là nhà chiếu hình và bản đồ sao"
+    },
+    {
+     "t": "p",
+     "text": "Theo nữ sinh, đề thi năm nay gồm bốn phần: Lý thuyết, Vật lý thiên văn, Nhà chiếu hình và Xử lý số liệu."
+    },
+    {
+     "t": "p",
+     "text": "Ở phần xử lý số liệu, Minh gặp những nội dung khá mới. Em phải đọc kỹ đề, tìm các gợi ý, sau đó sử dụng kiến thức đã học để giải quyết."
+    },
+    {
+     "t": "p",
+     "text": "Các nội dung còn lại, đòi hỏi thí sinh phải có kỹ năng sử dụng máy tính tốt, đọc số liệu và tìm ra thông tin ẩn trong dữ liệu. Thí sinh cũng phải nắm chắc bản đồ sao, vị trí các ngôi sao trên bầu trời và cách xác định phương hướng."
+    },
+    {
+     "t": "p",
+     "text": "Phần khó nhất trong đề thi năm nay đối với Hồng Minh là nhà chiếu hình, trong đó có mô hình nhà mái vòm để chiếu bản đồ sao. Khi đó, một số ngôi sao sáng sẽ bị xóa đi và thí sinh phải xác định những ngôi sao đó. Đề thi yêu cầu thí sinh tính giờ, tính ngày tháng trên bản đồ sao, xác định phương hướng."
+    },
+    {
+     "t": "p",
+     "text": "“Để làm được, thí sinh không chỉ phải nắm chắc bản đồ sao mà còn phải thuộc tên tất cả các sao. Nếu có cơ hội thực hành nhiều, sẽ giúp thí sinh thuộc nhanh hơn nhưng mình chưa có được điều đó”, Minh nói."
+    },
+    {
+     "t": "p",
+     "text": "Thức trắng đêm ngắm sao"
+    },
+    {
+     "t": "p",
+     "text": "Ở phần thực hành, Minh cùng các thành viên trong đội tuyển được thầy cô đưa đến Nha Trang trong khoảng một tuần. Tại đây, điều kiện quan sát thuận lợi hơn, đồng thời có địa điểm nghiên cứu thiên văn và nhà chiếu hình để đội tuyển sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những kỷ niệm Minh nhớ nhất là cả đội đã có một đêm thức trắng để quan sát bầu trời. Sau khi ngắm sao, sáng hôm sau cả nhóm cùng nhau ngắm bình minh trên biển rồi về ngủ bù."
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, Hà Nội đăng cai tổ chức kỳ thi Olympic Thiên văn và Vật lý thiên văn quốc tế. Các thí sinh quốc tế ăn, ở tập trung tại Đại học Phenikaa trong những ngày thi. Quá trình ôn tập và dự thi, Minh và các bạn không chỉ học kiến thức mà còn có những trải nghiệm đáng nhớ khi gặp gỡ học sinh đến từ nhiều quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "“Em quen được nhiều bạn Nhật, Hàn, Australia... và thấy cuộc sống có nhiều điều mới lạ. Trước đây em nghĩ học tập, nỗ lực để đạt được một thành tích nào đó là mục tiêu. Nhưng giờ em có thể định nghĩa khác: giải thưởng quốc tế chỉ là một trải nghiệm, không phải định nghĩa về bản thân. Nếu thất bại cũng là điều quý giá vì mình đã có những trải nghiệm đó”, Minh nói."
+    },
+    {
+     "t": "p",
+     "text": "Với các môn Khoa học tự nhiên, Minh cho rằng việc liên kết lý thuyết với thực tế giúp việc học hiệu quả hơn. Khi học Lý, Hóa, Sinh, em cố gắng đọc lý thuyết của những phần trước, sau đó tìm hiểu những điều tương ứng trong thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Em nhận thấy Hóa học và Sinh học có sự liên kết chặt chẽ, khi kiến thức của môn này có thể giúp giải thích cơ chế hoạt động của các bộ phận trong môn kia. Với Vật lý, em thường quan sát những hiện tượng xung quanh bởi đây là môn có nhiều ứng dụng trong cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Với những bài Toán quá khó, Minh không cố ép mình phải giải ngay. Em chấp nhận tạm thời chưa hiểu, chuyển sang một bài khác hoặc một nội dung khác. Khi tình cờ học được lý thuyết liên quan, em quay lại ghi nhớ và giải quyết bài toán."
+    },
+    {
+     "t": "p",
+     "text": "Giành huy chương Vàng Olympic Thiên văn và Vật lý thiên văn quốc tế nhưng Minh không dự định theo đuổi lĩnh vực này trong tương lai. Nữ sinh cho biết, sẽ tiếp tục dành thời gian ôn thi học sinh giỏi quốc gia môn Vật Lý đồng thời ấp ủ ước mơ trở thành bác sĩ, đóng góp một phần công sức nhỏ bé của mình cho sự nghiệp cứu người."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, từ lớp 10, Hồng Minh giành huy chương Bạc Olympic Khoa học trẻ quốc tế; lớp 11 đạt giải Nhất học sinh giỏi Quốc gia môn Vật lý; lớp 12 giành Huy chương Vàng Olympic Thiên văn và Vật lý thiên văn quốc tế 2026."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi Olympic Thiên văn và Vật lý thiên văn quốc tế lần thứ XIX năm 2026 quy tụ 65 đội tuyển của 64 quốc gia và vùng lãnh thổ, với hơn 300 thí sinh dự thi. Ban tổ chức đã trao Huy chương Vàng cho 55 thí sinh có kết quả xuất sắc. Việt Nam có 10 thí sinh dự thi và cả 10 em đều giành huy chương, gồm 6 huy chương Vàng và 4 huy chương Bạc."
+    },
+    {
+     "t": "h",
+     "text": "Học sinh Việt Nam giành 10 huy chương tại Olympic Thiên văn và Vật lý thiên văn quốc tế"
+    },
+    {
+     "t": "h",
+     "text": "Hà Nội đăng cai tổ chức Olympic Thiên văn và Vật lý thiên văn quốc tế"
+    },
+    {
+     "t": "h",
+     "text": "Cậu học trò con nhà lính và hành trình đến Huy chương Bạc Vật lý châu Âu"
+    }
+   ]
+  },
+  {
+   "id": "aaa839ddd846",
+   "order": 2,
+   "slug": "tay-vot-nguyen-thuy-linh-san-ve-olympic",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Tay vợt Nguyễn Thùy Linh săn vé Olympic",
+   "sapo": "Sau ASIAD 20, tay vợt số 1 cầu lông VN Nguyễn Thùy Linh du đấu châu Âu với 2 giải liên tiếp tại Phần Lan, Đan Mạch, hướng đến mục tiêu giành vé tham dự Olympic Los Angeles 2028.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tay-vot-nguyen-thuy-linh-san-ve-olympic-18526100622201417.htm",
+   "published": "2026-10-06T21:43:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 681,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/aaa839ddd846-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/aaa839ddd846-0.jpg",
+     "caption": "Nguyễn Thùy Linh",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau ASIAD 20, tay vợt số 1 cầu lông VN Nguyễn Thùy Linh du đấu châu Âu với 2 giải liên tiếp tại Phần Lan, Đan Mạch, hướng đến mục tiêu giành vé tham dự Olympic Los Angeles 2028."
+    },
+    {
+     "t": "h",
+     "text": "K HÔNG NGỪNG NỖ LỰC"
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thùy Linh là tay vợt nữ VN gặt hái thành công nhất từ trước đến nay với đỉnh cao sự nghiệp là vươn lên hạng 18 thế giới (tháng 7.2025). Cô từng 3 lần vô địch giải cầu lông ở cấp độ BWF Super 100, 5 lần vào chung kết BWF World Tour Super 300. Nguyễn Thùy Linh cũng 3 lần liên tiếp góp mặt tại ASIAD, 2 lần liên tiếp tham dự Olympic diễn ra 4 năm 1 lần."
+    },
+    {
+     "t": "p",
+     "text": "Tại ASIAD 20 vừa qua, Nguyễn Thùy Linh được miễn vòng đầu, sau đó đánh bại tay vợt Wiryawan (Indonesia) giành quyền vào vòng 16 tay vợt xuất sắc nhất ở nội dung đơn nữ. Trước tay vợt hạng 4 thế giới Chen Yu Fei (Trung Quốc) rất mạnh, Nguyễn Thùy Linh dù có 1 ván thắng nhưng chấp nhận thua cuộc 1-2 và dừng bước ở vòng 16."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cần biết, môn cầu lông ở ASIAD được ví như Olympic thu nhỏ bởi các cường quốc cầu lông như Trung Quốc, Hàn Quốc, Nhật Bản, Indonesia, Malaysia, Thái Lan đều góp mặt. Vì thế, việc tiến đến vòng 16 tay vợt hàng đầu của ASIAD 20, dừng bước trước đương kim hạng 4 thế giới Chen Yu Fei là nỗ lực đáng được ghi nhận của Nguyễn Thùy Linh."
+    },
+    {
+     "t": "p",
+     "text": "Sau ASIAD 20 vừa qua tại Nhật Bản, Nguyễn Thùy Linh chia sẻ: \"Thành công không chỉ được tạo nên từ những khoảnh khắc trên sân mà là kết quả của quá trình tập luyện, tích lũy kinh nghiệm và không ngừng hoàn thiện. Mỗi buổi tập là cơ hội để mình nâng cao kỹ thuật. Mỗi trận đấu là một lần thử sức với những đối thủ và thử thách mới. Mỗi giải đấu lại mang đến trải nghiệm giúp mình trưởng thành trên hành trình theo đuổi cầu lông\"."
+    },
+    {
+     "t": "h",
+     "text": "M ỤC TIÊU MỚI"
+    },
+    {
+     "t": "p",
+     "text": "Luôn nghĩ về những điều tích cực, chăm chỉ luyện tập, thi đấu cho mục tiêu mới, vì thế ngay sau ASIAD 20, Nguyễn Thùy Linh lại lên đường du đấu ở châu Âu. Theo lịch trình, Nguyễn Thùy Linh sẽ thi đấu 2 giải liên tiếp là Arctic mở rộng tại Phần Lan từ ngày 6 - 11.10 và Đan Mạch mở rộng từ ngày 13 - 18.10."
+    },
+    {
+     "t": "p",
+     "text": "Tại giải Arctic mở rộng nằm trong hệ thống BWF World Tour Super 500 có tổng tiền thưởng 500.000 USD (khoảng 13 tỉ đồng), Nguyễn Thùy Linh (hạng 30 thế giới) chạm trán với tay vợt Yeo Jia Min (Singapore, hạng 46 thế giới) ở vòng 1. Đối thủ này từng thắng 5, thua 1 trong 6 lần chạm trán với Nguyễn Thùy Linh. Bị đánh giá thấp hơn nhưng tay vợt số 1 VN dồn quyết tâm \"phá dớp\" trước Yeo Jia Min."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, giải Đan Mạch mở rộng thuộc BWF World Tour Super 750, có tổng tiền thưởng lên tới 950.000 USD (khoảng 24 tỉ đồng). Tại giải đấu này, Nguyễn Thùy Linh chạm trán với tay vợt Thái Lan Ratchanok Intanon (hạng 5 thế giới) ngay trận đầu tiên. Đáng chú ý trong 4 lần chạm trán với Ratchanok Intanon, Nguyễn Thùy Linh có 2 trận thắng và thua sít sao ở 2 trận còn lại. Vì thế cô được kỳ vọng thi đấu tốt, tiến sâu tại Đan Mạch."
+    },
+    {
+     "t": "p",
+     "text": "Với mục tiêu giành vé tham dự Olympic Los Angeles vào năm sau, Nguyễn Thùy Linh nỗ lực thi đấu quốc tế nhằm tích lũy điểm, duy trì thứ hạng cao trên bảng xếp hạng của Liên đoàn Cầu lông thế giới. Dự kiến sau chuyến du đấu châu Âu, Nguyễn Thùy Linh sẽ về nước thi đấu cho đơn vị Đồng Nai tại Đại hội thể thao toàn quốc 2026 diễn ra ở TP.HCM vào tháng 11."
+    }
+   ]
+  },
+  {
+   "id": "7d66475c1dea",
+   "order": 3,
+   "slug": "tau-tu-hanh-curiosity-cua-nasa-chup-duoc-canh-binh-minh-tuye",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tàu tự hành Curiosity của NASA chụp được cảnh bình minh tuyệt đẹp trên sao Hỏa",
+   "sapo": "Một bức toàn cảnh mới được công bố, do tàu tự hành Curiosity của NASA chụp lại, cho thấy hình ảnh chi tiết nhất từ trước đến nay về những vách đá xa xôi bị gió bào mòn trên sao Hỏa, làm nổi bật những đặc điểm",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
+   "published": "2026-10-06T15:30:07+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 743,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
+   "images": [
+    {
+     "src": "img/2026-10-07/7d66475c1dea-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 700
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một bức toàn cảnh mới được công bố, do tàu tự hành Curiosity của NASA chụp lại, cho thấy hình ảnh chi tiết nhất từ trước đến nay về những vách đá xa xôi bị gió bào mòn trên sao Hỏa, làm nổi bật những đặc điểm mà các nhà khoa học của nhiệm vụ này đã mong chờ được quan sát gần từ lâu. Cảnh này được chụp vào lúc 8 giờ 30 phút sáng theo giờ địa phương trên sao Hỏa, cho thấy những sắc xanh nổi bật ở phía trước khi ánh sáng ban mai rực rỡ chiếu lên những tảng đá lởm chởm được gọi là \"yardang\" ở đường chân trời."
+    },
+    {
+     "t": "p",
+     "text": "Bức toàn cảnh được camera Mastcam của Curiosity chụp vào ngày 11 tháng 8, tức ngày sao Hỏa (sol) thứ 4.982 của nhiệm vụ, và được ghép lại từ sáu bức ảnh riêng lẻ sau khi được gửi về Trái Đất. Khác với hầu hết các ảnh Mastcam khác của Curiosity, bức ảnh này được xử lý mà không cân bằng trắng (white balancing), nhờ đó giữ nguyên được vẻ ngoài của buổi sáng sớm."
+    },
+    {
+     "t": "p",
+     "text": "Lớp đá yardang trải dài khoảng 16 km dọc theo khu vực phía tây bắc của núi Sharp, một ngọn núi cao 5 km mà Curiosity đã leo lên từ năm 2014. Trên thực tế, tàu tự hành gần đây đã vượt qua một mốc quan trọng khác trong hành trình leo núi, khi đạt độ cao 1 km - mức cao nhất từng được leo tới trên sao Hỏa. Khi ngày càng tiến gần hơn đến các vách đá yardang, các nhà khoa học của nhiệm vụ kỳ vọng sẽ thu được những hình ảnh tuyệt vời hơn nữa, và họ hy vọng sẽ tìm ra câu trả lời cho việc những vách đá này được hình thành như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Núi Sharp được tạo thành từ nhiều lớp đá, mỗi lớp ghi lại một giai đoạn riêng biệt trong lịch sử của sao Hỏa. Bằng cách nghiên cứu các lớp đá này, các nhà khoa học đã tìm hiểu thêm được về những hồ nước và dòng suối từng bao phủ khu vực này của Hành Tinh Đỏ cách đây hàng tỷ năm. Cuối cùng, nước đã khô cạn và để lại những khoáng chất chứa muối. Sau khi vật chất mới ngừng lắng đọng trên núi, một phần trong số đó có thể đã bị gió cuốn đi, tạo nên những vách đá yardang."
+    },
+    {
+     "t": "p",
+     "text": "\"Lớp đá yardang trông có vẻ lạc chỗ. Nó có màu sắc không khớp, các lớp đá nghiêng theo một góc kỳ lạ, và gần như trông như bị đắp lên trên vậy,\" ông Ashwin Vasavada, nhà khoa học của dự án Curiosity tại Phòng Thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory - JPL) của NASA ở Nam California, cho biết. \"Nhưng chính điều đó lại khiến việc đến được nơi này trở nên thú vị. Không ai chắc chắn điều gì đã tạo ra lớp đá này, nhưng một giả thuyết cho rằng đó có thể là lớp tro núi lửa được lắng đọng từ những vụ phun trào núi lửa cổ xưa.\""
+    },
+    {
+     "t": "p",
+     "text": "Curiosity đang ở năm thứ hai trong nhiệm vụ mở rộng lần thứ năm của mình, bắt đầu bằng việc khám phá những dải đá gồ ghề hình mạng nhện. Trong khoảng một năm tới, tàu tự hành sẽ chủ yếu di chuyển qua các lớp đá giàu sunfat và cacbonat, cả hai đều là dấu hiệu của quá trình khô hạn cổ xưa trên bề mặt. Vào một thời điểm nào đó trong năm 2027, các nhà khoa học hy vọng sẽ đến được chân của các vách đá yardang, nơi Curiosity có thể sử dụng cánh tay robot của mình để thu thập những dữ liệu độc nhất về các đặc điểm bí ẩn này."
+    },
+    {
+     "t": "p",
+     "text": "Thêm thông tin về Curiosity"
+    },
+    {
+     "t": "p",
+     "text": "Curiosity được chế tạo bởi Phòng Thí nghiệm Sức đẩy Phản lực của NASA (NASA JPL), đơn vị do Viện Công nghệ California (Caltech) ở Pasadena, California quản lý. NASA JPL dẫn đầu nhiệm vụ này đại diện cho Ban Giám đốc Nhiệm vụ Khoa học của cơ quan tại Washington, trong khuôn khổ Chương trình Thám hiểm Sao Hỏa. Công ty Malin Space Science Systems ở San Diego đã chế tạo và vận hành camera Mastcam."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về Curiosity, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/mission/msl-curiosity"
+    }
+   ]
+  },
+  {
+   "id": "9023d7b9f473",
+   "order": 4,
+   "slug": "kinh-vien-vong-webb-cua-nasa-chup-canh-soi-dong-tu-cac-tia-k",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Kính viễn vọng Webb của NASA chụp cảnh sôi động từ các tia khí của tinh vân",
+   "sapo": "Một \"nồi nấu\" tạo thiên lập địa của vũ trụ đang được hé lộ qua hình ảnh mới từ Kính viễn vọng Không gian James Webb của NASA. Webb đã phát hiện ra rất nhiều ngôi sao trước đây bị che",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+   "published": "2026-10-06T13:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 481,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+   "images": [
+    {
+     "src": "img/2026-10-07/9023d7b9f473-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1194
+    },
+    {
+     "src": "img/2026-10-07/9023d7b9f473-0.jpg",
+     "caption": "Một cụm sao trẻ chứa nhiều ngôi sao với hình dạng tia sáng tám cánh đặc trưng của Webb. Ở trung tâm là một ngôi sao màu vàng có hình tia sáng lớn nhất. Bên trái ngôi sao này là một vùng chứa đầy bụi và khí màu vàng, kéo dài từ ngôi sao sang bên trái và xuống phía dưới, chiếm khoảng hai phần ba khung hình. Vùng màu vàng này có nhiều ngôi sao xanh với kích cỡ khác nhau nằm lẫn trong đó. Một phần ba phía trên, nằm ngoài vùng màu vàng, có một vài tiền sao (protostar) sáng rực, nằm trong lớp khí xám dày đặc. Những ngôi sao này chiếu sáng lớp khí, làm cho nó có màu xanh. Có thể thấy một vài luồng khí thoát màu đỏ từ các tiền sao khác phía trên vùng xám xanh này. Bên phải ngôi sao trung tâm là một đám bụi và khí màu đỏ hình dạng như ngọn lửa, lổn nhổn từng cụm, bên trong có các tiền sao phát ra ánh sáng trắng dịu nhẹ. Đám mây này được bao quanh bởi lớp khí và bụi xám dày đặc hơn. Nó có kích thước bằng khoảng một phần ba vùng màu vàng. Rải rác khắp khung hình còn có nhiều thiên hà ở phía xa.",
+     "w": 1280,
+     "h": 1194
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một \"nồi nấu\" tạo thiên lập địa của vũ trụ đang được hé lộ qua hình ảnh mới từ Kính viễn vọng Không gian James Webb của NASA. Webb đã phát hiện ra rất nhiều ngôi sao trước đây bị che khuất bởi các đám bụi trong một \"vườn trẻ\" của các vì sao được gọi là NGC 7129, nằm cách Trái Đất khoảng 3.300 năm ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Các ngôi sao, những \"cỗ máy\" tạo ra các nguyên tố, có một chu kỳ sống bắt đầu từ khi chúng ra đời trong các đám mây phân tử (molecular cloud) – những vùng bụi và khí lạnh, đậm đặc. Vì bị bọc kín trong những \"lớp vỏ\" bụi này, các ngôi sao trẻ thường không thể quan sát được bằng nhiều loại kính viễn vọng, đặc biệt là những kính không có khả năng thu ánh sáng hồng ngoại (infrared light). Tuy nhiên, Webb có độ nhạy hồng ngoại rất cao, cho phép các nhà thiên văn học nhìn xuyên qua lớp bụi đó để nghiên cứu giai đoạn khởi đầu của chu kỳ sống của một ngôi sao."
+    },
+    {
+     "t": "h",
+     "text": "Hình ảnh: NGC 7129 (ảnh từ máy NIRCam)"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các ngôi sao trong cụm sao này đang ở những giai đoạn phát triển khác nhau, vì những ngôi sao có khối lượng lớn hơn sẽ hình thành và tiến hóa nhanh hơn. Ngôi sao có khối lượng lớn nhất (và cũng trưởng thành nhất) là ngôi sao trung tâm sáng rực của vùng này, tên là LkH(alpha) 234 (đọc là Lick-H-alpha). Ngôi sao này, với hình tia sáng nổi bật nhất trong ảnh, là một ngôi sao ở giai đoạn tiền dải chính (pre-main-sequence), có khối lượng gấp khoảng 5 đến 8 lần khối lượng Mặt Trời của chúng ta. Những ngôi sao ở giai đoạn tiền dải chính như vậy đã hầu như hoàn tất việc thu nạp vật chất và đang co lại dưới tác dụng của lực hấp dẫn, khiến nhiệt độ của chúng tăng lên. Theo thời gian, ngôi sao này sẽ bắt đầu phản ứng tổng hợp hydro giống như Mặt Trời của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng trống bên trái ngôi sao, có màu vàng ánh kim và rộng khoảng 3,5 năm ánh sáng, là minh chứng rõ ràng nhất cho tác động của ngôi sao trung tâm. Các luồng khí thoát ra từ một giai đoạn trước đó trong chu kỳ sống của ngôi sao đã \"khoét\" vào đám mây phân tử hydro đậm đặc. Cả luồng khí thoát và ánh sáng của ngôi sao đều truyền năng lượng cho khí, làm cho nó phát sáng. Trong khi phần lớn khí hydro này bị thổi bay đi, một lượng lớn khác lại bị nén lại, tạo ra điều kiện để nhiều ngôi sao khác tiếp tục hình thành."
+    },
+    {
+     "t": "h",
+     "text": "Tương tác: Những đám mây đầy màu sắc của NGC 7129"
+    }
+   ]
+  },
+  {
+   "id": "ab1a017ceab0",
+   "order": 5,
+   "slug": "cung-tim-hieu-ve-khoa-hoc-lay-cam-hung-tu-gap-giay-origami",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Cùng tìm hiểu về khoa học lấy cảm hứng từ gấp giấy origami",
+   "sapo": "Nghệ thuật gấp giấy của Nhật Bản đã truyền cảm hứng cho những thiết kế mới, giúp tạo ra công nghệ nhẹ và có thể đổi hình dạng.",
+   "author": "Maria Temming",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
+   "published": "2026-10-06T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 793,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Let’s learn about origami-inspired science",
+   "images": [
+    {
+     "src": "img/2026-10-07/ab1a017ceab0-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ nhiều thế kỷ nay, con người đã dùng origami để biến những tờ giấy phẳng thành các hình khối 2 chiều và 3 chiều. Chỉ trong vài phút, một người mới học cũng có thể dùng nghệ thuật gấp giấy Nhật Bản này để tạo ra những con chim, bông hoa hay con ếch nhảy đơn giản. Những mẫu gấp phức tạp hơn có thể tạo ra các tác phẩm điêu khắc chi tiết của đủ loại vật thể."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học đã dùng hình học (geometry), đại số (algebra) và nhiều nhánh toán học khác để sáng tạo ra những mẫu origami mới. Những thiết kế này không chỉ dùng để làm nghệ thuật. Chúng còn có thể dẫn đến những công nghệ mới, nhỏ gọn và có thể thay đổi hình dạng."
+    },
+    {
+     "t": "p",
+     "text": "Hãy lấy kính viễn vọng không gian James Webb làm ví dụ — đây là chiếc kính viễn vọng lớn nhất từng được đưa lên vũ trụ. Nó lớn đến mức phải được gấp lại theo kiểu origami để có thể lắp vào tên lửa. Các kỹ sư cũng đã dùng kỹ thuật origami để tạo ra những robot có thể len qua các khe hẹp. Và cả những robot có thể thay đổi hình dạng để thực hiện nhiều nhiệm vụ khác nhau, hoặc di chuyển một cách chính xác để xử lý những vật dễ vỡ."
+    },
+    {
+     "t": "p",
+     "text": "Kirigami, một loại nghệ thuật liên quan kết hợp giữa gấp và cắt giấy, cũng đã truyền cảm hứng cho các kỹ sư. Một số người đã dùng nghệ thuật Nhật Bản này để thiết kế đế giày có thể đổi hình dạng nhằm tăng độ bám. Những người khác đã chế tạo dù (parachute) kiểu kirigami có thể tự mở ra khi được thả rơi."
+    },
+    {
+     "t": "p",
+     "text": "Những bạn trẻ yêu thích gấp giấy cũng đang góp phần thúc đẩy lĩnh vực này tiến xa hơn. Một học sinh trung học cơ sở ở thành phố New York gần đây đã phát hiện ra rằng một kiểu gấp origami nhất định có thể chịu được sức nặng gấp 9.000 lần trọng lượng của chính nó. Điều này có thể giúp thiết kế những khu trú ẩn khẩn cấp có thể bung mở nhanh. Còn một học sinh trung học ở Nhật Bản đã nghĩ ra một cách mới để mô phỏng các nếp gấp phức tạp, giống như những nếp gấp trong origami và trong cánh của bọ rùa. Phát hiện của em có thể giúp các kỹ sư chế tạo những công nghệ mới lấy cảm hứng từ thiên nhiên."
+    },
+    {
+     "t": "h",
+     "text": "Muốn biết thêm không? Chúng tôi có vài bài viết để các em bắt đầu tìm hiểu:"
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu về origami giành giải cao nhất tại cuộc thi Regeneron ISEF năm 2026. Một bạn học sinh đã giành chiến thắng lớn nhờ phát hiện mới về cách mô phỏng chuyển động của các nếp gấp origami. (18/5/2026) Độ dễ đọc: 8,5"
+    },
+    {
+     "t": "p",
+     "text": "Những công việc thú vị: Nghệ thuật gấp giấy đang truyền cảm hứng cho khoa học. Hãy xem việc kết hợp nghệ thuật và toán học đã dẫn đến sự ra đời của robot gián, giấy tự gấp và cấy ghép y tế như thế nào. (23/8/2018) Độ dễ đọc: 7,3"
+    },
+    {
+     "t": "p",
+     "text": "Những chiếc dù này bung ra nhờ kỹ thuật cắt giấy của Nhật Bản. Origami không phải là nghệ thuật Nhật Bản duy nhất truyền cảm hứng cho các thiết kế công nghệ mới. Kirigami, hay nghệ thuật cắt giấy, gần đây đã truyền cảm hứng cho một thiết kế dù mới. (2/12/2025) Độ dễ đọc: 7,0"
+    },
+    {
+     "t": "h",
+     "text": "Khám phá thêm"
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học nói: Đại số"
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học nói: Hình học"
+    },
+    {
+     "t": "p",
+     "text": "Một bạn tuổi teen phát hiện các nếp gấp origami giúp giấy chịu được trọng lượng gấp 9.000 lần chính nó"
+    },
+    {
+     "t": "p",
+     "text": "Giống như con tatu, một robot mềm mới có thể cuộn tròn để tự bảo vệ"
+    },
+    {
+     "t": "p",
+     "text": "Kính viễn vọng không gian James Webb được chờ đợi từ lâu có một danh sách công việc khổng lồ"
+    },
+    {
+     "t": "p",
+     "text": "Những đường cắt biến hình giúp giày bám đường tốt hơn"
+    },
+    {
+     "t": "p",
+     "text": "Những robot này nhanh chóng thay \"áo khoác origami\" — và đổi cả nhiệm vụ"
+    },
+    {
+     "t": "p",
+     "text": "Một thiết kế origami giúp robot này nâng được cả hàng hóa mỏng manh và hàng hóa nặng (từ Science News)"
+    },
+    {
+     "t": "p",
+     "text": "Bọ rùa gấp cánh như những bậc thầy origami (từ Science News)"
+    },
+    {
+     "t": "h",
+     "text": "Hoạt động"
+    },
+    {
+     "t": "p",
+     "text": "Tìm chữ"
+    },
+    {
+     "t": "p",
+     "text": "Bạn muốn thử gấp giấy (origami) không? Hãy xem những mẫu gấp từng bước dành cho người mới bắt đầu này. Đã sẵn sàng thử thứ khó hơn một chút chưa? Hãy tự làm mô hình gấp giấy hình Kính viễn vọng Không gian James Webb với hướng dẫn gấp này từ NASA."
+    }
+   ]
+  },
+  {
+   "id": "37fbd6dc6fc6",
+   "order": 6,
+   "slug": "mot-qua-dua-chua-cam-vao-o-dien-sang-len-nhu-mot-vi-sao-nho",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Một quả dưa chua cắm vào ổ điện sáng lên như một vì sao nhỏ. Giờ chúng ta đã biết tại sao.",
+   "sapo": "Khoa học hiện đại không chỉ mang lại câu trả lời, mà còn đặt ra nhiều câu hỏi thú vị khiến ta phải suy nghĩ.",
+   "author": "Ivan Farkas",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/physicists-may-have-finally-figured-out-why-pickles-glow",
+   "published": "2026-10-05T23:54:01+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1168,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A Pickle Plugged Into an Outlet Glows Like a Tiny Star. Now We Know Why.",
+   "images": [
+    {
+     "src": "img/2026-10-07/37fbd6dc6fc6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-07/37fbd6dc6fc6-0.jpg",
+     "caption": "( Joseph Wright of Derby/The National Gallery, London/Wikimedia Commons )",
+     "w": 600,
+     "h": 450
+    },
+    {
+     "src": "img/2026-10-07/37fbd6dc6fc6-1.jpg",
+     "caption": "( Joseph Plateau/University of Edinburgh Heritage Collection/Fiona Wilson/Wikimedia Commons / CC BY 3.0 )",
+     "w": 600,
+     "h": 600
+    },
+    {
+     "src": "img/2026-10-07/37fbd6dc6fc6-2.jpg",
+     "caption": "Quả dưa chua phát sáng khiêm nhường ấy được chiếu sáng bởi những vụ nổ nhỏ của khí hydro, chính là nguyên tố giúp các vì sao tỏa sáng. ( Portland State University )",
+     "w": 1280,
+     "h": 618
+    },
+    {
+     "src": "img/2026-10-07/37fbd6dc6fc6-3.jpg",
+     "caption": "Thí nghiệm với quả dưa chua. ( Portland State University )",
+     "w": 767,
+     "h": 422
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khoa học hiện đại không chỉ mang lại câu trả lời, mà còn đặt ra nhiều câu hỏi thú vị khiến ta phải suy nghĩ."
+    },
+    {
+     "t": "p",
+     "text": "Trong số đó có những câu hỏi lớn về nguồn gốc của sự sống, số phận của Vũ Trụ theo vũ trụ học, và tại sao quả dưa chua lại phát sáng khi ta cắm nó vào ổ điện."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một thí nghiệm điện nổi tiếng và khiến nhiều người kinh ngạc (vì vậy đừng thử ở nhà): khi cắm hai cái dĩa vào một quả dưa chua rồi nối hệ thống \"dưa chua điện\" này vào nguồn điện, một đầu của quả dưa chua sẽ phát sáng."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ một nghiên cứu mới làm sáng tỏ, giờ đây chúng ta có thể biết lý do: đó là những vụ nổ khí hydro."
+    },
+    {
+     "t": "p",
+     "text": "Trò ảo thuật dưa chua phát sáng này tiếp nối một truyền thống lâu đời của các buổi trình diễn khoa học công cộng với mức độ hữu ích khác nhau, kéo dài ít nhất 400.000 năm về trước, từ thời những người tổ tiên xa xưa nhất được biết đến của loài người, khi họ tạo ra tia lửa bằng đá lửa và khoáng vật pyrit để nhóm lửa."
+    },
+    {
+     "t": "p",
+     "text": "Nhảy nhanh tới khoảng 2.600 năm trước, người ta kể rằng Thales xứ Miletus đã kinh ngạc khi quan sát thấy việc chà xát lông thú vào hổ phách khiến chúng có khả năng hút lông chim và những mảnh rơm nhỏ, nhờ hiện tượng tĩnh điện (static electricity)."
+    },
+    {
+     "t": "p",
+     "text": "Một số hành động như thế – mang dấu ấn của thời đại chúng diễn ra – đã được tái hiện qua các bức tranh, như tác phẩm của Joseph Wright xứ Derby, người vào năm 1768 đã công bố một buổi trình diễn khoa học đầy tàn khốc mang tên Thí nghiệm trên một con chim trong máy bơm hút khí (An Experiment on a Bird in the Air Pump)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Những buổi trình diễn phổ biến khoa học như vậy ngày càng trở nên phổ biến, là kết quả của thời kỳ Khai sáng (Age of Enlightenment) đã lan rộng khắp phần lớn thế giới phương Tây trong thế kỷ 17 và 18."
+    },
+    {
+     "t": "p",
+     "text": "Một số trong những tiến bộ thú vị nhất là những tiến bộ vừa kích thích trí óc, vừa hấp dẫn về mặt hình ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Ví dụ, thiết bị gây ảo ảnh thị giác mang tên phénakisticope được phát triển vào những năm 1800 để tìm hiểu về các ảo ảnh quang học, nhưng sau đó đã trở thành một hình thức hoạt hình (animation) sơ khai, từng làm say mê các gia đình thời Victoria."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay chúng ta có mánh dưa chua phát sáng, được trình diễn và mô tả tại Hội nghị thường niên năm 2026 của Hiệp hội Tĩnh điện Hoa Kỳ (Electrostatics Society of America), tổ chức vào tháng 6, do Joshua Méndez Harper, một kỹ sư điện tại Đại học Bang Portland, thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Vốn tò mò với những đề tài điện học khác thường, các công trình trước đây của ông bao gồm những cách giúp cải thiện chất lượng cà phê pha bằng việc giảm tĩnh điện sinh ra khi xay hạt cà phê (gợi ý: hãy thêm nước)."
+    },
+    {
+     "t": "p",
+     "text": "Mánh dưa chua phát sáng từ trước đến nay vẫn dao động giữa hai cách giải thích cạnh tranh nhau, nhờ vào lớp nước muối ngâm dưa."
+    },
+    {
+     "t": "p",
+     "text": "Thứ nhất, nhiệt điện tác động lên quả dưa chua làm sôi phần nước bên trong, tạo ra các túi khí, đồng thời tiết ra chất nhớt xèo xèo và mùi hôi nồng, tanh kim loại của dưa chua bị điện giật."
+    },
+    {
+     "t": "p",
+     "text": "(Nhân tiện, sau thí nghiệm của Méndez Harper là giờ nghỉ uống cà phê, có lẽ cũng là để cho phòng thí nghiệm thoáng khí trở lại.)"
+    },
+    {
+     "t": "p",
+     "text": "Các túi khí sinh ra cũng tạo thành một lớp cách điện ngăn dòng điện chạy qua, làm quả dưa chua nguội lại và các túi khí co lại, khiến nước muối tràn ngược về phía điện cực – trong trường hợp này là một cái nạng (fork)."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "\"Khi nước đó chảy ngược về phía điện cực, một tia lửa nhỏ phát ra giữa chất lỏng và điện cực, giống như khi bạn chạm vào tay nắm cửa và bị giật điện,\" Méndez Harper giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhưng điều đó không giải thích được hết mọi chuyện xảy ra,\" ông nói thêm, và lưu ý rằng chỉ có một đầu của quả dưa chua phát sáng."
+    },
+    {
+     "t": "p",
+     "text": "Cách giải thích thứ hai có thể lý giải cho \"sức mạnh dưa chua\" liên quan đến điện phân (electrolysis), quá trình tách phân tử mà một ngày nào đó có thể giúp con người định cư trên Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong quả dưa chua, tác động của dòng điện tách nước thành khí oxy và khí hydro, trong đó khí hydro đặc biệt dễ bắt lửa."
+    },
+    {
+     "t": "p",
+     "text": "Khi đó, ánh sáng phát ra từ những vụ nổ hydro nhỏ xíu bên trong quả dưa chuột muối, có thể được tiếp sức bởi nhiệt từ các điện cực."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Méndez Harper giải thích rằng, như thường thấy trong khoa học, câu trả lời là sự kết hợp của cả hai giả thuyết:"
+    },
+    {
+     "t": "p",
+     "text": "\"Có hydro tham gia vào đây, nhưng thực ra không phải nhiệt làm nó bốc cháy, mà là tia lửa điện. Giống như việc bạn không nên hút thuốc ở trạm xăng vậy. Bạn tạo ra tia lửa và nó làm khí bốc cháy.\""
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, ánh sáng vàng cam của quả dưa chuột muối là do các nguyên tử natri bị kích thích, phát ra ánh sáng ở vùng quang phổ điện từ mà mắt chúng ta nhìn thấy như một ánh sáng vàng óng."
+    },
+    {
+     "t": "p",
+     "text": "Chính cơ chế liên quan đến khoáng chất này cũng làm chúng ta thích thú ở quy mô lớn hơn, rực rỡ hơn vài lần mỗi năm, vì nó quyết định màu sắc của pháo hoa."
+    },
+    {
+     "t": "p",
+     "text": "\"Bạn đang kích thích các ion natri, và chúng tạo ra ánh sáng cam đặc trưng đó,\" Méndez Harper nói, và ông còn gợi mở một khả năng thú vị cho việc \"chiếu điện\" dưa chuột muối trong tương lai:"
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu bạn ngâm muối một thứ gì đó trong một loại muối khác, bạn sẽ có được một màu sắc riêng biệt ứng với các nguyên tố đó.\""
+    },
+    {
+     "t": "p",
+     "text": "À, còn vì sao chỉ có một bên phát sáng?"
+    },
+    {
+     "t": "p",
+     "text": "Có thể vì đó là bên nước muối dư tụ lại nhiều hơn, và điều này cho chúng ta một cách nói mới: khi thấy ai đó rạng rỡ, ta có thể bảo họ \"sáng như bên mặn của quả dưa chuột muối\"."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được Rebecca Dyer kiểm tra thông tin và biên tập. Chúng tôi luôn tự hào về quy trình làm việc của mình, nhưng chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "88f807c53dea",
+   "order": 7,
+   "slug": "giai-ma-loai-sinh-vat-co-hinh-dang-nhu-quai-vat-ngoai-hanh-t",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Giải mã loài sinh vật có hình dáng như quái vật ngoài hành tinh",
+   "sapo": "(Dân trí) - Đoạn video ghi lại hình ảnh một sinh vật giống như quái vật ngoài hành tinh trong các bộ phim khoa học viễn tưởng đã gây ra nhiều tranh cãi. Đây",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/giai-ma-loai-sinh-vat-co-hinh-dang-nhu-quai-vat-ngoai-hanh-tinh-20261006162247905.htm",
+   "published": "2026-10-06T11:42:57+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 587,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/88f807c53dea-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/88f807c53dea-0.jpg",
+     "caption": "Sao biển giỏ ở trạng thái thu gọn cơ thể (Ảnh: Alicia Christman).",
+     "w": 1280,
+     "h": 1707
+    },
+    {
+     "src": "img/2026-10-07/88f807c53dea-1.jpg",
+     "caption": "Sao biển giỏ có kích thước rất lớn khi mở rộng các nhánh chân (Ảnh: Dan Schofield).",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Đoạn video ghi lại hình ảnh một sinh vật giống như quái vật ngoài hành tinh trong các bộ phim khoa học viễn tưởng đã gây ra nhiều tranh cãi. Đây là loài sinh vật gì, hay là sản phẩm của phần mềm AI?"
+    },
+    {
+     "t": "p",
+     "text": "Một đoạn video được lan truyền nhanh chóng trên mạng xã hội cho thấy một sinh vật biển giống bạch tuộc, nhưng lại có đến hàng trăm xúc tu và trên đó lại mọc ra hàng loạt các xúc tu nhỏ khác. Những xúc tu này liên tục di chuyển khiến nhiều người cảm thấy rùng mình."
+    },
+    {
+     "t": "p",
+     "text": "Không ít người đã so sánh sinh vật trong đoạn video với dáng vẻ của quái vật ngoài hành tinh được khắc họa trong các bộ phim khoa học viễn tưởng. Trong khi đó, nhiều người lại cho rằng đoạn video thực chất là sản phẩm của phần mềm trí tuệ nhân tạo và sinh vật này không hề có thật."
+    },
+    {
+     "t": "p",
+     "text": "Trên thực tế, sinh vật xuất hiện trong đoạn video là một cá thể sao biển giỏ, hay còn gọi là sao rổ, có tên khoa học Astrophyton muricatum. Đây là một loài động vật da gai (giống sao biển thông thường), thuộc lớp Ophiuroidea (sao biển đuôi rắn)."
+    },
+    {
+     "t": "p",
+     "text": "Loài động vật này được tìm thấy ở Đại Tây Dương, kéo dài từ vùng biển bang South Carolina (Mỹ) xuống tới Brazil, đặc biệt phổ biến tại vùng biển Caribe. Chúng có thể được tìm thấy dưới biển ở độ sâu từ 2 đến 600 mét."
+    },
+    {
+     "t": "p",
+     "text": "Khác với sao biển thông thường, sao biển giỏ có 5 cánh chính, trên mỗi cánh chính lại được phân nhánh nhiều lần. Những nhánh nhỏ lại tiếp tục được chia ra thành các nhánh nhỏ hơn, tạo thành một cấu trúc mạng lưới giống rễ cây."
+    },
+    {
+     "t": "p",
+     "text": "Khi không kiếm ăn, sao biển giỏ thường nằm cuộn lại một chỗ. Khi có dòng nước mang thức ăn trôi qua, chúng sẽ bám chặt vào một vị trí thích hợp và xòe rộng các nhánh cánh nhằm tăng tiếp xúc với dòng nước để săn mồi. Khi xòe rộng các cánh, sao biển giỏ có thể đạt đường kính đến gần 1 mét."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thức ăn của sao biển giỏ là các sinh vật phù du, ấu trùng động vật không xương sống, các mảnh hữu cơ nhỏ trôi nổi trong nước…"
+    },
+    {
+     "t": "p",
+     "text": "Sao biển giỏ là loài có giới tính riêng biệt và thụ tinh ngoài. Cá thể đực, cái sẽ phóng tinh trùng và trứng vào nước để thực hiện quá trình thụ tinh."
+    },
+    {
+     "t": "p",
+     "text": "Trứng sau khi thụ tinh sẽ nở thành ấu trùng, sống phù du vài tuần trước khi lắng xuống đáy. Ấu trùng sao biển giỏ cũng ăn phù du như các cá thể trưởng thành."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một đặc điểm ấn tượng của loài sao biển giỏ là khả năng tái tạo các bộ phận cơ thể bị mất. Theo các nhà khoa học tại Viện Smithsonian, khi sao biển giỏ gặp tổn thương, các tế bào gần khu vực bị tổn thương sẽ tham gia vào quá trình hình thành những phần cơ thể mới. Quá trình này có thể kéo dài đến nhiều tháng."
+    },
+    {
+     "t": "p",
+     "text": "Dù có vẻ bề ngoài đáng sợ, sao biển giỏ là loài không sở hữu nọc độc và không gây nguy hiểm cho con người. Hiện quần thể loài sao biển giỏ vẫn ở mức ổn định và loài này không gặp tình trạng nguy cấp cần bảo tồn."
+    }
+   ]
+  },
+  {
+   "id": "3b70ad9519e7",
+   "order": 8,
+   "slug": "chuon-chuon-sat-thu-tren-khong-co-tam-nhin-gan-360-do-bay-48",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Chuồn chuồn: 'Sát thủ' trên không có tầm nhìn gần 360 độ, bay 48km/h",
+   "sapo": "Với khả năng nhìn gần như mọi hướng, bay tới 48km/h và dự đoán đường bay, chuồn chuồn có thể chặn bắt con mồi ngay giữa không trung.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chuon-chuon-sat-thu-tren-khong-co-tam-nhin-gan-360-do-bay-48km-h-100261006113136362.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 411,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/3b70ad9519e7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/3b70ad9519e7-0.jpg",
+     "caption": "Chuồn chuồn là một trong những kẻ săn mồi nguy hiểm trong tự nhiên - Ảnh: FABIAN ET AL",
+     "w": 880,
+     "h": 586
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chuồn chuồn đã xuất hiện trên Trái đất khoảng 300 triệu năm, có cơ thể dài, mảnh cùng đôi cánh rộng và dành phần lớn thời gian bay lượn gần các vùng nước ngọt."
+    },
+    {
+     "t": "p",
+     "text": "Dù thính giác và khứu giác không nổi bật, chuồn chuồn lại sở hữu thị giác đặc biệt phát triển. Mắt của chúng thuộc loại lớn nhất trong thế giới côn trùng, cho tầm nhìn gần 360 độ. Nhờ đó, chúng có thể phát hiện và theo dõi con mồi khi đang bay."
+    },
+    {
+     "t": "p",
+     "text": "Là loài săn mồi phục kích, thay vì đơn giản đuổi theo con mồi, chuồn chuồn quan sát hướng di chuyển, dự đoán quỹ đạo bay rồi lao đến điểm mà con mồi sẽ xuất hiện."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng này đòi hỏi chuồn chuồn phải xử lý chuyển động của mục tiêu rất nhanh. Khi thời cơ đến, chúng tăng tốc và chặn con mồi giữa không trung trước khi nạn nhân kịp nhận ra nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Chuồn chuồn có thể bay với tốc độ lên tới khoảng 48km/h."
+    },
+    {
+     "t": "p",
+     "text": "Đôi cánh giúp chúng thực hiện những động tác mà nhiều loài côn trùng khác khó làm được, chẳng hạn bay lùi hoặc bay ngược, đổi hướng nhanh và thậm chí bay lộn ngược."
+    },
+    {
+     "t": "p",
+     "text": "Sự kết hợp giữa tốc độ, khả năng cơ động và thị giác giúp chuồn chuồn đạt hiệu suất săn mồi rất cao."
+    },
+    {
+     "t": "p",
+     "text": "Chúng có thể săn mồi, gồm nhiều loài côn trùng nhỏ như muỗi, ruồi, ruồi nhuốm, bướm và đôi khi cả những con chuồn chuồn nhỏ hơn, gần như cả ngày."
+    },
+    {
+     "t": "p",
+     "text": "Muỗi đặc biệt dễ trở thành con mồi vì tốc độ bay của chúng chỉ khoảng 1,6km/h, thấp hơn rất nhiều so với chuồn chuồn. Ruồi có tốc độ khoảng 6,4km/h, trong khi một số loài bướm có thể đạt khoảng 19km/h."
+    },
+    {
+     "t": "p",
+     "text": "Lợi thế tốc độ giúp chuồn chuồn dễ dàng tiếp cận và đánh chặn các côn trùng này. Vì vậy, dù thường được con người chú ý bởi màu sắc và vẻ ngoài đẹp mắt, chuồn chuồn thực chất là những \"sát thủ\" trên không đáng gờm của thế giới côn trùng."
+    },
+    {
+     "t": "p",
+     "text": "Lần tới khi bắt gặp một con chuồn chuồn, chúng ta có thể quan sát nó kỹ hơn. Một màn săn mồi diễn ra trong vài giây có thể cho thấy sự kết hợp đáng kinh ngạc giữa tốc độ, thị giác và khả năng điều khiển cơ thể của loài côn trùng này."
+    }
+   ]
+  },
+  {
+   "id": "8291f443df55",
+   "order": 9,
+   "slug": "hoa-ra-ca-map-co-the-nghe-tot-hon-chung-ta-nghi-rat-nhieu",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Hóa ra cá mập có thể nghe tốt hơn chúng ta nghĩ rất nhiều",
+   "sapo": "Việc biết rõ các giác quan của loài săn mồi dưới nước hoạt động tốt đến đâu rất có ích – vừa giúp hiểu rõ hơn về sinh thái và sinh học của sinh vật biển, vừa giúp con người tránh xa chúng khi chạm mặt.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/sharks-can-hear-sounds-nearly-250-feet-away-and-know-where-theyre-coming-from",
+   "published": "2026-10-06T20:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 957,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "It Turns Out, Sharks Can Hear Way Better Than We Thought",
+   "images": [
+    {
+     "src": "img/2026-10-07/8291f443df55-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-07/8291f443df55-0.jpg",
+     "caption": "Cách bố trí thí nghiệm, nhìn từ máy bay không người lái (drone) phía trên. (Sullivan và cộng sự, Integr. Org. Biol., 2026)",
+     "w": 600,
+     "h": 415
+    },
+    {
+     "src": "img/2026-10-07/8291f443df55-1.jpg",
+     "caption": "Cá mập có thể nghe được âm thanh từ xa (far-field sound), nơi sóng áp suất chiếm vai trò chủ đạo. (Sullivan và cộng sự, Integr. Org. Biol., 2026)",
+     "w": 600,
+     "h": 349
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Việc biết rõ các giác quan của loài săn mồi dưới nước hoạt động tốt đến đâu rất có ích – vừa giúp hiểu rõ hơn về sinh thái và sinh học của sinh vật biển, vừa giúp con người tránh xa chúng khi chạm mặt."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến nay, khả năng nghe của cá mập vẫn là một điều bí ẩn, chủ yếu vì rất khó đo đạc một cách chính xác và có kiểm soát."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, khả năng nghe lại rất quan trọng, đặc biệt là ở dưới nước, giúp cá mập tìm con mồi, tránh kẻ săn mồi và tìm bạn để sinh sản."
+    },
+    {
+     "t": "p",
+     "text": "Trong một nghiên cứu mới công bố trên tạp chí Integrative Organismal Biology, các nhà khoa học từ Đại học Florida Atlantic đã chứng minh rằng cá mập vây đen (Carcharhinus limbatus) có thể nghe được âm thanh từ khoảng cách xa tới 74 mét."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng cách này vượt xa giới hạn của cái gọi là âm thanh gần (near-field sound) – loại âm thanh tác động trực tiếp hơn lên các hạt nước. Ở khoảng cách xa như vậy, ta đang nói đến âm thanh xa (far-field sound), nơi áp suất tạo ra chuyển động hạt nước nhẹ nhàng hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều thú vị ở phát hiện này là cá mập đã phản ứng với âm thanh vượt ra ngoài vùng gần của âm thanh (acoustic near field), nơi âm thanh lan truyền khác với khi ở gần nguồn phát,\" nhà động vật học Stephen Kajiura cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều này cho thấy cá mập có thể phát hiện được chuyển động của các hạt nước liên quan đến âm thanh ngay cả khi ở khoảng cách khá xa so với nguồn phát – điều mà trước đây chúng tôi chưa từng chứng minh được ở những con cá mập bơi tự do trong tự nhiên.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã sử dụng một drone và một chiếc thuyền ngoài khơi bờ biển đông nam Florida để thực hiện thí nghiệm: họ phát ra các âm thanh tần số thấp theo từng nhịp gần thuyền của nhóm nghiên cứu, đồng thời dùng hai microphone dưới nước để đo cách âm thanh lan truyền trong nước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một chiếc drone bay ở độ cao 40-50 mét phía trên khu vực đã ghi lại cách cá mập di chuyển ứng với các âm thanh phát ra. Nhóm nghiên cứu sử dụng ba âm thanh thử nghiệm ở ba cao độ khác nhau, cùng với một âm thanh đối chứng nằm ngoài phạm vi nghe được của cá mập."
+    },
+    {
+     "t": "p",
+     "text": "Loài cá mập này được chọn một phần vì chúng thường tập trung thành đàn đều đặn mỗi mùa đông tại một địa điểm cụ thể dọc bờ biển, nơi có vùng nước nông và trong đủ để drone có thể quan sát và ghi lại hoạt động của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Kajiura cho biết: \"Số lượng dồi dào và việc dễ dàng tiếp cận chúng giúp chúng tôi có thể quan sát từ trên cao mà không làm xáo trộn hành vi tự nhiên của chúng, đồng thời vẫn phát được các âm thanh dưới nước đã được kiểm soát.\""
+    },
+    {
+     "t": "p",
+     "text": "Đúng như dự đoán, những con cá mập này không phản ứng với các âm thanh đối chứng, nhưng lại phản ứng với âm thanh thử nghiệm từ 71,1% đến 87% số lần, tùy theo tần số. Phản ứng xa nhất từ một con cá mập là ở khoảng cách 74 mét, và trong tổng số 165 lần phản ứng, có tới 118 lần được xem là xảy ra ở vùng xa (far field)."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ở cả ba tần số, cá mập đều phản ứng với âm thanh phát ra từ khoảng cách xa tới 62 mét."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi lần phản ứng, cá mập đều ngoặt mình một cách dứt khoát để tránh xa nguồn phát âm thanh, cho thấy chúng biết chính xác âm thanh phát ra từ hướng nào."
+    },
+    {
+     "t": "p",
+     "text": "Kajiura nói: \"Đại dương là một môi trường âm thanh, và rõ ràng cá mập đã thích nghi với điều đó theo những cách mà chúng ta mới chỉ bắt đầu hiểu được.\""
+    },
+    {
+     "t": "p",
+     "text": "\"Khả năng phát hiện và phản ứng với âm thanh từ khoảng cách hàng trăm bộ (feet) mang lại cho những loài săn mồi này một nguồn thông tin quan trọng về môi trường xung quanh. Câu hỏi tiếp theo là hệ thống cảm giác của chúng đã thu nhận và giải mã những âm thanh từ xa đó như thế nào.\""
+    },
+    {
+     "t": "p",
+     "text": "Cá mập không có bong bóng khí (swim bladder) – cơ quan mà nhiều loài cá xương dùng để nghe, giúp chuyển áp suất thành dao động – vì vậy phải có một cơ chế khác đang hoạt động ở đây. Các nhà nghiên cứu cho rằng loài C. limbatus bằng cách nào đó phát hiện được sự chuyển động của các hạt nước."
+    },
+    {
+     "t": "p",
+     "text": "Điều này có thể được tìm hiểu kỹ hơn trong các nghiên cứu sau này. Còn hiện tại, các nhà khoa học đã có được một hình dung rõ ràng hơn nhiều về khả năng nghe của cá mập, được quan sát ngay trong môi trường thực tế của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Nhà sinh học Caroline Sullivan cho biết: \"Nếu thử làm thí nghiệm về khả năng nghe trong một bể chứa, âm thanh sẽ dội vào các vách bể, tạo ra những tín hiệu phức tạp và gây nhiễu – giống như đang ở trong một căn nhà gương vậy.\""
+    },
+    {
+     "t": "p",
+     "text": "\"Đó là lý do tại sao việc thực hiện những thí nghiệm kiểu này ngay trên đại dương, với những con cá mập hoang dã, lại quan trọng đến vậy, để có thể thu được phản ứng tự nhiên nhất.\""
+    }
+   ]
+  },
+  {
+   "id": "25fe6c5941b5",
+   "order": 10,
+   "slug": "hon-10-nam-bam-vach-da-lam-tuong-phat-cao-nhat-the-gioi-o-an",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Hơn 10 năm bám vách đá làm tượng Phật cao nhất thế giới ở An Giang",
+   "sapo": "(Dân trí) - Công trình tượng Phật Thích Ca ngồi thiền ở An Giang dự kiến sẽ lập kỷ lục bức tượng Phật khắc trực tiếp vào vách đá cao nhất thế giới sau khi",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/hon-10-nam-bam-vach-da-lam-tuong-phat-cao-nhat-the-gioi-o-an-giang-20261005090754486.htm",
+   "published": "2026-10-06T23:01:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1189,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/25fe6c5941b5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/25fe6c5941b5-0.jpg",
+     "caption": "Bức tượng được khắc trực tiếp vào vách đá và đã được thi công hơn 10 năm nay.",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-07/25fe6c5941b5-1.jpg",
+     "caption": "Giữa lòng Công viên Văn hóa Núi Sam, tượng Phật Thích Ca cao 81m đang dần trở thành một kỳ quan tâm linh độc nhất vô nhị (Ảnh: Hoàng Duật).",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Công trình tượng Phật Thích Ca ngồi thiền ở An Giang dự kiến sẽ lập kỷ lục bức tượng Phật khắc trực tiếp vào vách đá cao nhất thế giới sau khi hoàn thành."
+    },
+    {
+     "t": "p",
+     "text": "Giữa sườn Tây Bắc Núi Sam (An Giang), đại tượng Phật Thích Ca cao 81m, được định hình tạc trực tiếp vào vách đá. Sau khi hoàn thiện, công trình dự kiến lập kỷ lục bức tượng khắc vào vách đá cao nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Nguyễn Phúc Hoan, Trưởng ban Quản trị Lăng miếu Núi Sam, công trình kỳ vĩ ấy xuất phát từ tâm huyết của các thế hệ lãnh đạo tiền bối, đặc biệt là nguyên Bí thư Tỉnh ủy Lê Phú Hội và nguyên Trưởng ban Quản trị Phan Văn Trắng, với kỳ vọng chuyển hóa một không gian sườn núi cũ thành một tác phẩm nghệ thuật và tâm linh mang dấu ấn vùng đất An Giang."
+    },
+    {
+     "t": "p",
+     "text": "Bức tượng Phật Thích ca ngồi thiền được khắc trực tiếp vào vách đá núi Sam."
+    },
+    {
+     "t": "h",
+     "text": "Vì sao mất hơn 10 năm để tạc tượng?"
+    },
+    {
+     "t": "p",
+     "text": "Để dựng nên bức đại tượng, hàng trăm nghìn mét khối đá (ước tính khoảng 165.000m3) được xử lý trực tiếp trên sườn núi."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình thi công thực tế, đội ngũ thi công đã vấp phải thách thức lớn, chất lượng đá tại vị trí ban đầu không đạt yêu cầu. Để tìm được phôi đá hoàn hảo cho bức tượng, công trình buộc phải thay đổi toàn bộ tính toán ban đầu, dịch chuyển vị trí, đưa thân tượng lùi sâu hơn vào lòng núi và điều chỉnh lại cao độ thiết kế."
+    },
+    {
+     "t": "p",
+     "text": "Sự thay đổi bất đắc dĩ này đã làm phát sinh một khối lượng công việc khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "Ông Hoan cũng cho biết dự án đã trải qua một quá trình chuẩn bị pháp lý từ những năm 2013-2015 trước khi chính thức khởi công."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Lý giải về việc dự án bị kéo dài tiến độ so với kế hoạch ban đầu (dự kiến hoàn thành năm 2020 nhưng nay dời sang mục tiêu 2027), theo ông Hoan, xuất phát từ nhiều nguyên nhân khách quan."
+    },
+    {
+     "t": "p",
+     "text": "Thứ nhất, đây là công trình tạc vách đá đầu tiên có quy mô lớn chưa từng có, riêng công đoạn dò tìm và chọn lọc phôi đá chất lượng đã kéo dài từ năm 2015-2017."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, quá trình triển khai còn bị gián đoạn kéo dài do phải thực hiện công tác di dời mồ mả, xây dựng nhà lưu cốt để an táng cho người đã khuất, chịu ảnh hưởng nặng nề của dịch bệnh COVID-19 qua nhiều giai đoạn."
+    },
+    {
+     "t": "p",
+     "text": "Công trình cũng vướng mắc về thủ tục pháp lý khiến giấy phép nổ mìn phá đá hết hạn, buộc phải tạm ngưng hoạt động này trong suốt 2 năm (cuối năm 2023 đến cuối năm 2025) trước khi được cấp phép hoạt động trở lại và dự kiến hoàn thành vào năm 2027."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi kỳ vọng khi hoàn thành, tượng Phật 81m sẽ không chỉ là một công trình có quy mô lớn, mà còn tạo thêm một điểm nhấn về văn hóa, tín ngưỡng và cảnh quan cho Núi Sam nói riêng và du lịch An Giang nói chung. Về văn hóa và tín ngưỡng, công trình sẽ tạo thêm một không gian để người dân, Phật tử và du khách đến chiêm bái, tìm sự bình an và hướng đến những giá trị tốt đẹp, nhân văn."
+    },
+    {
+     "t": "p",
+     "text": "Về du lịch, chúng tôi kỳ vọng tượng Phật sẽ trở thành một điểm đến mới, góp phần làm phong phú thêm sản phẩm du lịch của Núi Sam, thu hút du khách đến tham quan, trải nghiệm và lưu lại lâu hơn. Từ đó, công trình cũng có thể góp phần quảng bá hình ảnh Núi Sam và An Giang đến du khách trong nước và quốc tế\", ông Hoan chia sẻ."
+    },
+    {
+     "t": "h",
+     "text": "Khoan cắt vách núi dựng tượng Phật, làm sao để thiên nhiên không bị tổn thương?"
+    },
+    {
+     "t": "p",
+     "text": "Việc can thiệp quy mô lớn vào một sườn núi tự nhiên thời gian gần đây dấy lên nhiều băn khoăn trong dư luận. Với hàng trăm mét khối đá bị mổ xẻ, không ít ý kiến lo ngại rằng việc gọt giũa vách đá và khoan cắt có thể làm tổn thương vĩnh viễn cảnh quan sinh thái của Núi Sam."
+    },
+    {
+     "t": "p",
+     "text": "Phản hồi trước những băn khoăn này, đại diện Ban Quản trị Lăng miếu Núi Sam cho biết dự án đang tuân thủ nghiêm ngặt các quy trình pháp lý, từ việc lấy ý kiến tham vấn cộng đồng dân cư trong giai đoạn đầu cho đến báo cáo đánh giá tác động môi trường được sở, ban, ngành tại địa phương tham gia ý kiến, chỉnh sửa và phê duyệt."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả tác động cũng đã được cấp thẩm quyền đo lường trong 5 đến 10 năm sau."
+    },
+    {
+     "t": "p",
+     "text": "Về cách giải quyết các tác động thực tế, Ban Quản trị Lăng miếu núi Sam khẳng định mọi hoạt động thi công đều nằm trong giới hạn thiết kế chặt chẽ, không mở rộng mặt bằng bừa bãi. Công tác kiểm soát bụi, tiếng ồn được đặt dưới sự giám sát thường kỳ của cơ quan chuyên môn, nhằm triệt tiêu tối đa ảnh hưởng đến khu dân cư."
+    },
+    {
+     "t": "p",
+     "text": "Đơn vị hiện chưa nhận bất kỳ ý kiến bất cập nào từ người dân sinh sống trong khu vực về các tác động ảnh hưởng của công trình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo Trưởng Ban quản trị Lăng miếu núi Sam, sau khi hoàn chỉnh tôn tượng, đơn vị thi công sẽ tập trung khôi phục hệ thống thoát nước tự nhiên, gia cố sườn dốc, đồng thời phủ lên các tầng đất trồng kết hợp thảm thực vật nhiều tầng, ưu tiên các loại cây đại mộc phù hợp với hệ sinh thái bản địa."
+    },
+    {
+     "t": "p",
+     "text": "Còn lượng đá thừa khổng lồ phát sinh từ quá trình gọt vách núi, chủ đầu tư cho biết, không bị vận chuyển đi xa gây áp lực giao thông, mà được thu gom tại chỗ để san lấp mặt bằng nội khu và tạo dựng các cảnh quan phụ trợ."
+    },
+    {
+     "t": "p",
+     "text": "\"Một điểm rất đặc biệt của công trình là tượng được tạc trực tiếp vào vách đá tự nhiên. Vì vậy, chúng tôi mong muốn công trình không đứng tách rời khỏi thiên nhiên, mà trở thành một phần hài hòa của cảnh quan Núi Sam. Sự kết hợp giữa nghệ thuật điêu khắc, giá trị tâm linh và vẻ đẹp tự nhiên của núi sẽ tạo nên một điểm nhấn rất riêng\", ông Hoan nói."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài tượng Phật Thích ca ngồi thiền cao 81m dự kiến đạt kỷ lục thế giới, Công viên Văn hoá núi Sam dự kiến còn sở hữu 3 tôn tượng khác phác họa trọn vẹn hành trình từ khi Phật đản sinh đến khi nhập niết bàn, gồm: tượng Phật Đản sinh cao 21m, tượng Phật Tuyết Sơn cao 35m và tượng Phật Nhập Niết Bàn dài 49m."
+    }
+   ]
+  },
+  {
+   "id": "258bc9b4c792",
+   "order": 11,
+   "slug": "buc-tranh-mua-800-000-dong-duoc-ban-dau-gia-hon-33-ti-dong",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Bức tranh mua 800.000 đồng được bán đấu giá hơn 33 tỉ đồng",
+   "sapo": "Một bức tranh sơn dầu được mua với giá chỉ 30 USD (gần 800.000 đồng) tại một buổi bán đồ cũ đã thu về hơn 1,35 triệu USD trong cuộc đấu giá mới đây, sau khi được xác nhận là tác phẩm của nữ họa sĩ nổi tiếng ở Mỹ.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/buc-tranh-mua-800000-dong-duoc-ban-dau-gia-hon-33-ti-dong-185261006091614949.htm",
+   "published": "2026-10-06T03:02:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 350,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/258bc9b4c792-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/258bc9b4c792-0.jpg",
+     "caption": "Bức tranh \"Alderman Merriam's Shells\" của cố họa sĩ Gertrude Abercrombie vừa được bán đấu giá hơn 1,35 triệu USD",
+     "w": 968,
+     "h": 763
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Theo Công ty đấu giá Freeman's, bức tranh tĩnh vật được chuyên gia xác nhận là tác phẩm \"Alderman Merriam's Shells\" (tạm dịch: Những chiếc vỏ ốc của Alderman Merriam) của cố họa sĩ Gertrude Abercrombie."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bức tranh phác họa 10 chiếc vỏ ốc được hoàn thành vào năm 1951 và biến mất trước công chúng trong gần 75 năm. CNN ngày 5.10 cho hay dù đã được trưng bày tại 6 cuộc triển lãm cá nhân nhưng bà Abercrombie chưa bao giờ bán nó, thay vào đó tặng tranh cho một bác sĩ ở bang Michigan để trả công khám chữa bệnh. Tác phẩm cứ thế được truyền lại cho gia đình vị bác sĩ trước khi bị đem ra thanh lý tại một buổi bán đồ cũ."
+    },
+    {
+     "t": "p",
+     "text": "Trước buổi đấu giá , thông tin được chia sẻ là chủ nhân của bức tranh (vốn là người chuyên săn đồ cổ) đã để ý đến chữ ký “Abercrombie” và số “51” trên nền tối. Khi dạo qua khu bán đồ cổ và phát hiện tranh “nằm trong một góc tối, không ai để ý”, người này đánh cược mua lại bức tranh với giá 30 USD."
+    },
+    {
+     "t": "p",
+     "text": "Ông sau đó đến bảo tàng nghệ thuật Milwaukee để tìm hiểu và phát hiện một tư liệu cũ chụp lại đúng bức tranh này. Sau khi được một chuyên gia nghệ thuật kiểm định và mang tranh đi làm sạch, bức họa đã trở lại vẻ đẹp nguyên bản."
+    },
+    {
+     "t": "p",
+     "text": "Trong buổi đấu giá hồi tháng 7, Freeman's ước tính tác phẩm chỉ đạt mức 150.000 đến 250.000 USD, thế nhưng các lượt đấu giá đã đẩy con số lên mức 1,35 triệu USD (hơn 33 tỉ đồng). Mức giá này vượt kỷ lục 1,02 triệu USD của một tác phẩm khác cũng của bà Abercrombie được đấu giá năm ngoái. Nữ họa sĩ Gertrude Abercrombie (qua đời năm 1977) vốn là người tự học vẽ và nổi tiếng tại Mỹ với những tác phẩm mang phong cách mộng mị, kỳ bí."
+    },
+    {
+     "t": "p",
+     "text": "Sa hoàng Đế quốc Bulgaria ‘hồi cố hương’ sau 1.000 năm"
+    }
+   ]
+  },
+  {
+   "id": "1f255396bbd6",
+   "order": 12,
+   "slug": "khi-hoat-hinh-chau-a-so-gang-hollywood",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Khi hoạt hình châu Á 'so găng' Hollywood",
+   "sapo": "Nhờ cú hích thị trường tỉ dân và hệ sinh thái anime, hoạt hình châu Á đang khẳng định vị thế hoàn toàn mới.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/khi-hoat-hinh-chau-a-so-gang-hollywood-185261006111845931.htm",
+   "published": "2026-10-06T04:24:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 782,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/1f255396bbd6-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/1f255396bbd6-0.jpg",
+     "caption": "Khán giả theo dõi đoạn giới thiệu về hoạt hình Na Tra 2 tại một rạp chiếu phim ở Bắc Kinh (Trung Quốc) năm 2025",
+     "w": 1280,
+     "h": 848
+    },
+    {
+     "src": "img/2026-10-07/1f255396bbd6-1.jpg",
+     "caption": "Màn hình lớn quảng bá bom tấn anime Demon Slayer: Kimetsu no Yaiba - Infinity Castle tại một trung tâm thương mại ở Bắc Kinh năm 2025",
+     "w": 1280,
+     "h": 839
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tại Liên hoan phim quốc tế Busan (BIFF) lần thứ 31 diễn ra từ ngày 6 - 15.10, phim hoạt hình không còn nằm ngoài lề. Sự kiện này dành riêng thời lượng lớn cho các tác phẩm Nhật Bản, tổ chức suất chiếu xuyên đêm và mở diễn đàn bàn sâu về tương lai animation châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Sự chuyển dịch của BIFF không thuần túy là mở rộng danh mục chiếu. Những con số doanh thu phòng vé gần đây cho thấy hoạt hình đang chiếm giữ vị trí quan trọng trong bức tranh điện ảnh khu vực, đặc biệt là tại Trung Quốc và Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Theo đại diện ban tổ chức BIFF, năm 2025, hoạt hình đã leo lên vị trí dẫn đầu phòng vé ở cả Trung Quốc lẫn Nhật Bản. Tại Hàn Quốc, các dòng phim hoạt hình ngoại nhập cũng chiếm thị phần không nhỏ. Nhưng nhìn rộng ra, đây không chỉ là câu chuyện của riêng anime."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Hoạt hình 'Na Tra 2' và sức mạnh thị trường nội địa Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Báo cáo ngành điện ảnh toàn cầu năm 2025 do Hội đồng Điện ảnh Hàn Quốc (KOFIC) công bố cho thấy, doanh thu phòng vé khu vực châu Á - Thái Bình Dương đạt khoảng 11,94 tỉ euro (khoảng 322.000 tỉ đồng), tăng 12,3% so với năm trước và chiếm hơn 40% doanh thu toàn cầu."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, Trung Quốc vững vàng ở vị trí thị trường lớn nhất khu vực với doanh thu khoảng 6,38 tỉ euro (khoảng 172.000 tỉ đồng), tăng trưởng 16,9%."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, cú hích lớn nhất cho đà tăng này đến từ bộ phim hoạt hình nội địa. Na Tra 2 gánh tới 30% tổng doanh thu phòng vé Trung Quốc năm 2025 và chễm chệ ở vị trí số một phòng vé toàn cầu cả năm với khoảng 1,77 tỉ euro (khoảng 47.700 tỉ đồng)."
+    },
+    {
+     "t": "p",
+     "text": "Thành công của Na Tra 2 mang lại góc nhìn mới: Bộ phim không cần bám vào thương hiệu Hollywood để hút khách. Đội ngũ sản xuất chọn khai thác hình tượng quen thuộc trong kho tàng văn hóa dân gian, rồi đưa câu chuyện đó vào một quy trình sản xuất hoạt hình quy mô lớn. Một bộ phim trong nước trở thành hiện tượng toàn cầu chứng minh khán giả nội địa đã có lựa chọn chất lượng ngay trên sân nhà."
+    },
+    {
+     "t": "h",
+     "text": "Nhật Bản và Hàn Quốc trong guồng quay mới"
+    },
+    {
+     "t": "p",
+     "text": "Nếu Trung Quốc dựa vào quy mô thị trường tỉ dân, Nhật Bản lại sở hữu một mô hình khác: Anime đã là hệ sinh thái văn hóa hoàn chỉnh từ hàng thập niên qua."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Dữ liệu của KOFIC chỉ ra, doanh thu phòng vé Nhật Bản năm 2025 đạt khoảng 1,675 tỉ euro (khoảng 45.200 tỉ đồng) tăng 32,6%, mức tăng vọt cao nhất trong nhóm 10 thị trường điện ảnh lớn nhất thế giới. Chuỗi thành công này có sự đóng góp rất lớn từ các thương hiệu như Demon Slayer: Kimetsu no Yaiba - Infinity Castle, Detective Conan: One-Eyed Flashback hay Chainsaw Man - The Movie: Reze Arc."
+    },
+    {
+     "t": "p",
+     "text": "Tại BIFF năm nay, 13 bộ phim hoạt hình Nhật Bản được đưa vào chương trình chiếu đặc biệt, bao gồm cả những tác phẩm kinh điển lẫn các phim mới đại diện cho tương lai điện ảnh xứ hoa anh đào. Anime giờ đây không còn là món ăn riêng của cộng đồng mê truyện tranh, mà trở thành trụ cột của thị trường điện ảnh Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Hàn Quốc đang đứng ở một vị trí khác. BIFF đưa K-pop Demon Hunters vào phần giới thiệu xu hướng đương đại nhằm nhấn mạnh yếu tố văn hóa bản địa. Tuy nhiên, lực lượng sản xuất hoạt hình chiếu rạp Hàn Quốc chưa thể đặt ngang hàng với Nhật Bản hay Trung Quốc về mặt doanh số. Đất nước này đang chọn cách đi khác: Tìm cách chuyển thể các mỏ tài nguyên sẵn có như webtoon, game, âm nhạc thành phim hoạt hình để bước ra thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Báo cáo từ KOFIC nhận định, trong bối cảnh các bom tấn Hollywood không còn giữ phong độ ổn định, nguồn phim nội địa mang đậm dấu ấn văn hóa đang đóng vai trò quyết định tới doanh số rạp chiếu. Tất nhiên, hoạt hình châu Á chưa thể thay thế hoàn toàn vị trí của Hollywood trên bản đồ điện ảnh thế giới. Song có một thực tế không thể phủ nhận: Khán giả châu Á ngày càng sẵn sàng mở hầu bao cho những câu chuyện được kể từ chính vùng đất của họ."
+    }
+   ]
+  },
+  {
+   "id": "893080beab6a",
+   "order": 13,
+   "slug": "tung-khong-biet-hoc-de-lam-gi-tho-co-khi-tro-thanh-thu-khoa",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từng \"không biết học để làm gì\", thợ cơ khí trở thành thủ khoa ở tuổi 27",
+   "sapo": "(Dân trí) - Những ngày làm việc vất vả trong xưởng cơ khí, Hoàng Việt Anh bắt đầu tự hỏi: Nếu 5-10 năm nữa vẫn làm công việc này, mình sẽ muốn cuộc sống thế",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/tung-khong-biet-hoc-de-lam-gi-tho-co-khi-tro-thanh-thu-khoa-o-tuoi-27-20261005221509714.htm",
+   "published": "2026-10-06T01:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1274,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/893080beab6a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/893080beab6a-0.jpg",
+     "caption": "Hoàng Việt Anh tốt nghiệp thủ khoa khối ngành Ngôn ngữ của Trường Đại học FPT với điểm GPA 3.51/4.0 (Ảnh: NVCC).",
+     "w": 771,
+     "h": 514
+    },
+    {
+     "src": "img/2026-10-07/893080beab6a-1.jpg",
+     "caption": "Việt Anh thời làm thực tập sinh cơ khí tại Nhật Bản (Ảnh: NVCC).",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-07/893080beab6a-2.jpg",
+     "caption": "Trở về Việt Nam ở tuổi 23 sau 3 năm làm thợ cơ khí tại Nhật Bản, Hoàng Việt Anh bắt đầu hành trình đại học để rồi 4 năm sau, anh tốt nghiệp thủ khoa (Ảnh: NVCC).",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "src": "img/2026-10-07/893080beab6a-3.jpg",
+     "caption": "Thời sinh viên, Việt Anh có 5 học kỳ đạt danh hiệu Sinh viên Xuất sắc (Ảnh: NVCC).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Những ngày làm việc vất vả trong xưởng cơ khí, Hoàng Việt Anh bắt đầu tự hỏi: Nếu 5-10 năm nữa vẫn làm công việc này, mình sẽ muốn cuộc sống thế nào?"
+    },
+    {
+     "t": "p",
+     "text": "Câu hỏi ấy thôi thúc chàng trai từng không biết “học để làm gì” trở lại giảng đường ở tuổi 23. Bốn năm sau, anh tốt nghiệp thủ khoa khối ngành Ngôn ngữ ở tuổi 27."
+    },
+    {
+     "t": "p",
+     "text": "Trăn trở nơi xưởng cơ khí và câu hỏi về tương lai"
+    },
+    {
+     "t": "p",
+     "text": "Năm 18 tuổi, khi bạn bè đồng trang lứa hào hứng cầm trên tay tấm thẻ sinh viên bước vào giảng đường, Hoàng Việt Anh (SN 1999, quê Phú Thọ) lại chọn cho mình một ngã rẽ hoàn toàn khác: Sang Nhật Bản theo diện thực tập sinh kỹ năng ngành đúc kim loại."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm đó, Việt Anh chưa có một định hướng rõ ràng cho tương lai. Anh tự nhận mình từng là học sinh học tập không tốt, không thực sự hứng thú với chuyện học. Vì chưa biết mình muốn gì, anh lựa chọn đi làm thay vì bước vào đại học."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu ở Nhật Bản cho Việt Anh một trải nghiệm hoàn toàn khác. Mỗi ngày, anh rời nhà từ khoảng 6h30, làm việc liên tục đến 20-21h mới trở về phòng trọ."
+    },
+    {
+     "t": "p",
+     "text": "Công việc của một thực tập sinh ngành cơ khí - đúc kim loại đòi hỏi sức khỏe, sự chính xác và tính kỷ luật cao. Dù không trực tiếp đứng bên lò đúc nung chảy kim loại ban đêm, Việt Anh cùng các đồng nghiệp trải qua chuỗi ngày khắc nghiệt khi tháo khuôn, xử lý những sản phẩm kim loại vừa ra lò vẫn còn đỏ rực ở nhiệt độ cao. Sức nóng hầm hập cùng môi trường làm việc bụi bặm vắt kiệt sức lực của người thanh niên trẻ."
+    },
+    {
+     "t": "p",
+     "text": "“Công việc không chỉ nặng nhọc vì phải bốc vác đồ nặng suốt cả ngày, mà còn cực kỳ nóng nực, chưa kể môi trường làm việc bụi bặm không hề tốt cho sức khỏe về lâu dài”, Việt Anh nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Công việc vốn đã nặng nhọc lại càng áp lực bởi yêu cầu nghiêm ngặt về độ chính xác và an toàn. Chỉ một sai sót cũng có thể dẫn đến nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Ba năm ở Nhật Bản, Việt Anh dần thấm thía giá trị của lao động. Anh hiểu rằng làm việc bằng sức lực của mình không có gì đáng xấu hổ. Nhưng anh cũng bắt đầu nhận ra một điều: nếu không học hỏi và phát triển năng lực, những lựa chọn trong tương lai có thể ngày càng ít đi."
+    },
+    {
+     "t": "p",
+     "text": "Những suy nghĩ ấy thường xuất hiện vào cuối ngày, khi anh trở về phòng trọ sau nhiều giờ làm việc. Có một đêm, sau một ngày làm việc mệt nhoài tại xưởng, Việt Anh nằm suy nghĩ và bất giác tự hỏi: “Nếu 5-10 năm nữa mình vẫn làm công việc này thì sao? Mình muốn cuộc sống sau này thế nào?”."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Câu hỏi ấy không có câu trả lời ngay lập tức. Nhưng nó khiến Việt Anh bắt đầu nghĩ nghiêm túc về việc thay đổi cuộc đời mình."
+    },
+    {
+     "t": "p",
+     "text": "“Chính những vất vả đó đã trở thành động lực lớn nhất thôi thúc tôi quyết tâm chinh phục tấm bằng đại học, để cuộc đời bước sang trang mới và làm chủ tương lai của mình bằng trí tuệ”, anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Cú \"lội ngược dòng\" của tân sinh viên tuổi 23"
+    },
+    {
+     "t": "p",
+     "text": "Sau 3 năm làm việc tại Nhật Bản, Việt Anh trở về Việt Nam. Lần này, anh quyết định vào đại học."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, Việt Anh ghi danh vào Trường Đại học FPT, chọn ngành Ngôn ngữ Nhật và kết hợp chuyên ngành hẹp IT."
+    },
+    {
+     "t": "p",
+     "text": "Nếu ở tuổi 18, anh từng không biết mình học để làm gì thì ở tuổi 23, lý do đã rõ ràng hơn."
+    },
+    {
+     "t": "p",
+     "text": "“Không phải tôi không cần bằng đại học, mà khi 18 tuổi, tôi chưa biết mình học để làm gì. Sau 3 năm ở Nhật Bản, tôi hiểu việc học cần cho tương lai thế nào”, Việt Anh nói."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bắt đầu giảng đường ở tuổi 23 đồng nghĩa với việc làm anh của hầu hết bạn bè cùng khóa. Không ít lần Việt Anh cảm thấy chông chênh, áp lực vì đi sau bạn bè trang lứa - những người vốn đã tốt nghiệp và bắt đầu có sự nghiệp ổn định. Tuy nhiên, sự trưởng thành cùng tính kỷ luật tích lũy từ 3 năm làm việc tại Nhật Bản đã giúp anh nhanh chóng lấy lại cân bằng."
+    },
+    {
+     "t": "p",
+     "text": "Suốt 4 năm tại FPTU, từ một người từng sợ học, Việt Anh có đến 5 học kỳ đạt danh hiệu Sinh viên Xuất sắc, sở hữu chứng chỉ tiếng Nhật N2 và duy trì mức GPA ấn tượng 3.51/4.0."
+    },
+    {
+     "t": "p",
+     "text": "Học để có thêm “quyền lựa chọn” trong cuộc đời"
+    },
+    {
+     "t": "p",
+     "text": "Tại lễ tốt nghiệp mới đây, Hoàng Việt Anh đại diện cho các tân cử nhân bước lên bục vinh danh với danh hiệu Thủ khoa khối ngành Ngôn ngữ. Đứng trước thầy cô, bạn bè và phụ huynh, anh tự tin cất lời phát biểu bằng song ngữ Việt - Nhật, truyền cảm hứng mạnh mẽ về hành trình tự đổi thay của mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều khiến em tự hào không phải là từ một người từng học không tốt trở thành thủ khoa, mà là từ một người từng không hiểu giá trị của việc học, em đã trở thành một người hiểu rằng sự cố gắng có thể tạo ra những lựa chọn mới trong cuộc đời...\", Việt Anh xúc động chia sẻ trong bài phát biểu."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Với Việt Anh, ba năm ở Nhật Bản và bốn năm đại học không phải hai chặng đường tách biệt. Ba năm lao động cho anh kỷ luật và sự tự lập. Bốn năm đại học giúp anh biến những phẩm chất đó thành kiến thức, chuyên môn, khả năng giao tiếp và làm việc."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Nguyễn Ngọc Anh, giảng viên bộ môn tiếng Nhật, dù không trực tiếp dạy Việt Anh nhiều, cô vẫn ấn tượng với nam sinh qua một số tiết học và thời gian hướng dẫn đồ án tốt nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "“Trên lớp, Việt Anh là sinh viên năng nổ, tích cực, luôn vui vẻ, hòa đồng với các bạn. Trong quá trình làm đồ án, em thể hiện tinh thần cầu thị, chịu khó lắng nghe”, cô nhận xét."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến cô ấn tượng hơn cả là Việt Anh học giỏi và nỗ lực nhưng không đặt nặng chuyện cạnh tranh với bạn bè, mà chủ yếu muốn bản thân tiến bộ mỗi ngày."
+    },
+    {
+     "t": "p",
+     "text": "Tốt nghiệp đại học, Việt Anh nhanh chóng bắt tay vào công việc mới với vị trí chuyên viên thiết kế CAD. Nhìn lại hành trình gần 10 năm từ một thợ cơ khí trở thành thủ khoa đại học, Việt Anh mỉm cười cho rằng việc “đi chậm” chưa chắc đã là bất lợi: “Nếu học đại học ngay từ năm 18 tuổi, có thể bây giờ tôi đã có bằng sớm hơn. Nhưng tôi không chắc lúc đó mình đã có được sự rõ ràng về tương lai hay thái độ học tập như hiện tại”."
+    },
+    {
+     "t": "p",
+     "text": "Chặng đường phía trước còn dài rộng, nhưng chàng tân thủ khoa hiểu rằng: Chỉ cần không ngừng học hỏi và đủ dũng cảm để thay đổi, bất kỳ ai cũng sẽ tìm thấy cơ hội đi xa hơn nơi mình bắt đầu."
+    }
+   ]
+  },
+  {
+   "id": "76b427c4b1cf",
+   "order": 14,
+   "slug": "3-nu-sinh-cung-lop-thpt-tro-thanh-bac-si-noi-tru-dai-hoc-y-h",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "3 nữ sinh cùng lớp THPT trở thành bác sĩ nội trú Đại học Y Hà Nội",
+   "sapo": "Ba cô bạn Phương Anh, Phương Nhi và Huyền Linh không chỉ cùng lớp cấp 3, cùng tốt nghiệp loại Giỏi của Trường ĐH Y Hà Nội mà mới đây cùng trúng tuyển chương trình bác sĩ nội trú.",
+   "author": "Thanh Hùng",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/ba-nu-sinh-cung-lop-cap-3-tro-thanh-bac-si-noi-tru-dh-y-ha-noi-2562182.html",
+   "published": "2026-10-06T22:12:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 948,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-0.jpg",
+     "caption": "Ba tân bác sĩ Nguyễn Phương Anh, Lê Ngọc Phương Nhi, Hà Vũ Huyền Linh (từ trái sang phải) từng cùng học lớp Sinh 1, Trường THPT Chuyên Khoa học Tự nhiên. Ảnh: NVCC",
+     "w": 1280,
+     "h": 1482
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-1.jpg",
+     "caption": "Cả ba cô bạn cùng tốt nghiệp loại Giỏi ngành Y khoa của Trường ĐH Y Hà Nội sau 6 năm học tập. Ảnh: NVCC",
+     "w": 1280,
+     "h": 1186
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-2.jpg",
+     "caption": "Ba nữ sinh luôn đồng hành, chia sẻ cùng nhau trong học tập và cuộc sống. Ảnh: NVCC",
+     "w": 1280,
+     "h": 810
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-3.jpg",
+     "caption": "Khi đăng ký chuyên ngành bác sĩ nội trú, Phương Anh (bìa trái) chọn chuyên ngành Phẫu thuật Tạo hình, Phương Nhi chọn Da liễu, còn Huyền Linh (bìa phải) chọn Nội khoa. Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-4.jpg",
+     "caption": "Người mẹ nuôi 2 con đang học tiến sĩ, trở thành tân sinh viên ở tuổi 48",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-5.jpg",
+     "caption": "Nữ sinh Hải Phòng là thủ khoa với tổng điểm xét tuyển 30/30, chọn ngành Sư phạm",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/76b427c4b1cf-6.jpg",
+     "caption": "Nữ sinh tiêu biểu ĐH Ngoại thương với 4 danh hiệu quán quân, tốt nghiệp loại Xuất sắc",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ lớp học thêm Sinh học đến giảng đường Y khoa"
+    },
+    {
+     "t": "p",
+     "text": "Phương Anh, Phương Nhi và Huyền Linh vốn học chung lớp 10 đến 12 Sinh 1 của Trường THPT Chuyên Khoa học Tự nhiên (thuộc Trường ĐH Khoa học Tự nhiên - ĐH Quốc gia Hà Nội). Thực tế, ba nữ sinh ở 3 ngôi trường THCS khác nhau đã có duyên quen biết từ lớp 9, trong một lớp học thêm Sinh học để luyện thi học sinh giỏi thành phố và ôn thi vào các trường chuyên."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm lớp 11, cả ba cùng được chọn vào đội tuyển thi học sinh giỏi quốc gia. Huyền Linh đạt giải Nhất, sau đó lọt vào đội tuyển dự thi Olympic Sinh học quốc tế và giành Huy chương Đồng, được tuyển thẳng vào Trường ĐH Y Hà Nội. Phương Anh và Phương Nhi đạt giải Nhì học sinh giỏi quốc gia, rồi tiếp tục cùng nhau chuẩn bị cho kỳ thi đại học sau khi tốt nghiệp lớp 12. Cuối cùng, cả ba hội ngộ tại Trường ĐH Y Hà Nội khi cùng trúng tuyển ngành Y khoa."
+    },
+    {
+     "t": "p",
+     "text": "Sau 6 năm theo học tại Trường ĐH Y Hà Nội, cả ba nữ sinh cùng tốt nghiệp loại Giỏi và mới đây trúng tuyển chương trình bác sĩ nội trú của ngôi trường này."
+    },
+    {
+     "t": "p",
+     "text": "Tại Match day 2026 - ngày đăng ký chuyên ngành bác sĩ nội trú của Trường ĐH Y Hà Nội, Phương Anh chọn Phẫu thuật Tạo hình, Phương Nhi chọn Da liễu, còn Huyền Linh chọn Nội khoa."
+    },
+    {
+     "t": "p",
+     "text": "“Khi biết cả ba đều trúng tuyển bác sĩ nội trú K51, chúng em có cảm giác thật khó diễn tả. Niềm vui ấy như nhân lên gấp bội và xen lẫn sự tự hào bởi mỗi chúng em đều hiểu hai bạn của mình đã cố gắng thế nào\", Phương Anh nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Huyền Linh sinh ra trong gia đình có truyền thống ngành y: ông nội là bác sĩ tim mạch, bố làm hồi sức cấp cứu, mẹ theo chuyên ngành nội khoa. Từ nhỏ, Linh được nghe nhiều câu chuyện về nghề y, dần hình thành niềm đam mê, sự ngưỡng mộ và mong muốn theo đuổi nghề thầy thuốc. Càng lớn, Linh càng nhận ra ý nghĩa của nghề này khi có thể trực tiếp giúp đỡ mọi người trong những hoàn cảnh khó khăn nhất."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Phương Nhi lớn lên trong gia đình có nhiều thế hệ là bác sĩ Da liễu. Bố là người truyền cảm hứng cho Nhi nhiều nhất qua cách làm việc mỗi ngày và sự nghiêm túc, tận tâm với nghề."
+    },
+    {
+     "t": "p",
+     "text": "Phương Anh không lớn lên trong gia đình có truyền thống ngành y. Lựa chọn của cô hoàn toàn theo sở thích cá nhân và sự động viên của hai người bạn."
+    },
+    {
+     "t": "p",
+     "text": "“Năm lớp 12, hai bạn đã động viên em học Y. Các bạn thường nói em khéo tay, thích vẽ tranh và có mắt thẩm mỹ, thích hợp với việc làm bác sĩ thẩm mỹ. Lúc đó, tưởng chỉ là một câu nói vui của mấy đứa trẻ mới lớn với nhau, nhưng sau nhiều năm học và những trải nghiệm tham gia phẫu thuật nhân đạo cho trẻ em vùng cao, em đã lựa chọn làm bác sĩ nội trú Phẫu thuật Tạo hình. Qua hai bạn và gia đình, em cũng được chia sẻ nhiều kinh nghiệm và có thêm những góc nhìn thực tế về nghề bác sĩ”, Phương Anh nói. Nữ sinh thừa nhận hai người bạn có ảnh hưởng khá lớn đến quyết định của mình."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Ba người bạn, ba lựa chọn chuyên ngành"
+    },
+    {
+     "t": "p",
+     "text": "Cùng gắn bó trong học tập nhưng ba cô bạn có tính cách khá khác biệt. Huyền Linh nhẹ nhàng, nhí nhảnh và thích nhạc K-pop. Phương Nhi hướng nội, kín đáo, chín chắn, còn Phương Anh hướng ngoại, vô tư, thích thể thao, trang điểm và vẽ tranh. Cả ba cho rằng có lẽ những điểm khác biệt đó giúp họ càng dễ bù đắp và chia sẻ với nhau nhiều khía cạnh trong cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "“Dù càng lớn càng bận hơn, không còn gặp nhau mỗi ngày, nhưng khi một trong ba gặp vấn đề gì thì hai người còn lại luôn sẵn sàng lắng nghe và giúp đỡ hết mình”, Huyền Linh nói."
+    },
+    {
+     "t": "p",
+     "text": "Ba cô bạn thường chia sẻ tài liệu, giảng lại cho nhau những phần kiến thức chưa hiểu và đôi khi đơn giản chỉ là ngồi nói chuyện để người còn lại bớt căng thẳng. Khi vào Trường ĐH Y Hà Nội, cả ba vẫn giữ thói quen lập nhóm học, cùng nhau trao đổi những phần khó hay những ca bệnh phức tạp."
+    },
+    {
+     "t": "p",
+     "text": "“Chúng em vẫn cạnh tranh nhau, nhưng là kiểu cạnh tranh tích cực. Nhìn thấy bạn cố gắng thì mình cũng muốn cố gắng hơn, nhưng không phải để hơn thua với bạn. Hai người còn lại giống như một thước tham chiếu để mình biết cần nỗ lực thêm”, Phương Nhi nói."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến cả ba vui nhất là mỗi người đều chọn được chuyên ngành mình yêu thích."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sau gần 10 năm đồng hành, ba cô bạn sẽ bắt đầu những hành trình khác nhau trong chương trình đào tạo bác sĩ nội trú. Song, ba tân bác sĩ cho rằng họ sẽ tiếp tục đồng hành, hỗ trợ nhau khi vẫn cùng theo đuổi ngành y để chữa bệnh, cứu người."
+    },
+    {
+     "t": "p",
+     "text": "Ba người bạn đặt mục tiêu hoàn thành tốt chương trình bác sĩ nội trú, tiếp tục tích lũy kiến thức và kinh nghiệm để phục vụ người bệnh."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "e0a4f3ad292b",
+   "order": 15,
+   "slug": "co-gai-viet-de-danh-400-trieu-dong-moi-bo-me-di-10-nuoc-chau",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Cô gái Việt để dành 400 triệu đồng, mời bố mẹ đi 10 nước châu Âu",
+   "sapo": "(Dân trí) - Trong 2 năm, Hải Yến (quê Đồng Nai) không đi du lịch, tiết kiệm tiền lương mỗi tháng để thực hiện mơ ước đưa bố mẹ, chị gái đi chơi 10 nước châu",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/co-gai-viet-de-danh-400-trieu-dong-moi-bo-me-di-10-nuoc-chau-au-20261006113048517.htm",
+   "published": "2026-10-06T23:12:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1765,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/e0a4f3ad292b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/e0a4f3ad292b-0.jpg",
+     "caption": "Gia đình lựa chọn trang phục áo dài chụp ảnh tại nhiều địa điểm (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 940
+    },
+    {
+     "src": "img/2026-10-07/e0a4f3ad292b-1.jpg",
+     "caption": "Chuyến đi châu Âu kéo dài 1 tháng với chi phí 400 triệu đồng do Hải Yến (ngoài cùng bên trái) tiết kiệm (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-07/e0a4f3ad292b-2.jpg",
+     "caption": "Cả nhà chúc mừng sinh nhật mẹ của Hải Yến tại Pháp (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1580
+    },
+    {
+     "src": "img/2026-10-07/e0a4f3ad292b-3.jpg",
+     "caption": "Bố của Hải Yến được mời lên ngồi chiếc xe đắt tiền ở Monaco (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Trong 2 năm, Hải Yến (quê Đồng Nai) không đi du lịch, tiết kiệm tiền lương mỗi tháng để thực hiện mơ ước đưa bố mẹ, chị gái đi chơi 10 nước châu Âu."
+    },
+    {
+     "t": "p",
+     "text": "Bên tháp Eiffel ở thủ đô Paris (Pháp), Hải Yến cùng bố và chị gái cầm chiếc bánh kem nói lời chúc mừng sinh nhật mẹ. Khi bài hát “Happy Birthday” vang lên, nhiều du khách xung quanh vui vẻ hòa theo giai điệu, tạo nên bầu không khí ấm áp."
+    },
+    {
+     "t": "p",
+     "text": "Đó là một trong những khoảnh khắc đáng nhớ nhất trong chuyến đi châu Âu kéo dài 1 tháng của 4 thành viên trong gia đình. Để có hành trình ý nghĩa dành tặng bố mẹ, Hải Yến nỗ lực làm việc và tiết kiệm tiền suốt 2 năm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Từ khi lên kế hoạch, tôi đã suy nghĩ đến bữa tiệc sinh nhật đặc biệt dành cho mẹ tại Paris. Chuyến tham quan 10 nước châu Âu của cả nhà giống như một giấc mơ. Đến nay, mọi người vẫn chưa thể quên được những giây phút đáng nhớ trong suốt hành trình\", Hải Yến nói với phóng viên Dân trí ."
+    },
+    {
+     "t": "p",
+     "text": "Tiết kiệm 400 triệu đồng trong 2 năm"
+    },
+    {
+     "t": "p",
+     "text": "Hải Yến sinh ra trong gia đình có 2 chị em ở Bình Phước (cũ) nay là TP Đồng Nai. Để nuôi hai con gái ăn học, bố mẹ phải tần tảo, chắt chiu từng đồng suốt nhiều năm. Với họ, chuyện du lịch nước ngoài là giấc mơ xa vời."
+    },
+    {
+     "t": "p",
+     "text": "Tốt nghiệp đại học ngành quản trị khách sạn và dịch vụ ăn uống, cô gái tìm được công việc thực tập sinh kéo dài 1,5 năm tại Đan Mạch."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bắt đầu làm việc ở Bắc Âu, Hải Yến sống ở vùng quê, sau đó chuyển đến TP Copenhagen. Cô trải qua nhiều công việc như bồi bàn, trực điện thoại, phụ bếp..."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi tuần, Hải Yến làm việc 37 giờ, được nghỉ 2 ngày. Cô nhận mức lương trước thuế khoảng 20.000 Krone/tháng (70 triệu đồng - tính theo tỷ giá năm 2023). Sau khi trừ tiền nhà và thuế thu nhập cá nhân, cô nhận về khoảng 10.000 Krone (35 triệu đồng)."
+    },
+    {
+     "t": "p",
+     "text": "\"Công việc ở Đan Mạch không quá bận rộn nhưng đòi hỏi nhân viên phải linh hoạt, chủ động. Đồng nghiệp thân thiện, hướng dẫn nhiệt tình nên tôi hoà nhập rất nhanh\", cô nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ có quỹ thời gian hơn 1 năm làm việc tại nước bạn, Hải Yến tận dụng những ngày nghỉ, tranh thủ khám phá các nước trong khối Schengel (khu vực bao gồm 29 quốc gia Châu Âu cho phép di chuyển tự do). Đến Paris, đứng dưới chân tháp Eiffel lấp lánh ánh đèn, cô mơ ước đưa bố mẹ sang châu Âu du lịch."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhận ra châu lục này có quá nhiều cảnh đẹp, tôi mong muốn bố mẹ cũng có cơ hội ngắm nhìn những địa danh nổi tiếng của thế giới\", cô nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau chuyến đi Pháp, Hải Yến bắt đầu vạch những bước đầu tiên kế hoạch đưa bố mẹ và chị gái tới châu Âu du lịch, dù trong tay chưa có tiền."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, cô đặt mục tiêu tiết kiệm khoảng 100-150 triệu đồng. Với số tiền đó, Hải Yến dự tính đưa bố mẹ đi 2-3 quốc gia nổi tiếng ở châu Âu như Pháp, Italia, Thuỵ sĩ."
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình lên kế hoạch, cô gái mong muốn bố mẹ đến nhiều nước hơn. Cuối cùng, danh sách hành trình tăng lên 10 quốc gia với chi phí khoảng 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Để biến ý tưởng thành hiện thực, Hải Yến phải thay đổi cách sống hàng ngăỳ với phương châm chi tiêu tiết kiệm."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi tháng, sau khi trả tiền nhà, ăn uống và chi phí đi lại, phần còn lại được cô gái tiết kiệm cho chuyến đi."
+    },
+    {
+     "t": "p",
+     "text": "Các khoản không cần thiết như mua sắm quần áo, tụ tập bạn bè... được Hải Yến cắt giảm. Có những ngày, nữ nhân viên ăn tại nhà hàng nhằm tiết giảm chi phí."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Do visa thực tập sinh không thể đưa bố mẹ sang châu Âu, Hải Yến cố gắng chuyển đổi sang visa làm việc và nhận mức lương cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi từ bỏ thói quen du lịch, mỗi tháng tiết kiệm được 20-25 triệu đồng. Nếu không tự tạo kỷ luật cho mình, gia đình sẽ không có cơ hội du lịch châu Âu\", cô chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày Hải Yến chia sẻ ý tưởng đưa cả nhà sang châu Âu tham quan, bố mẹ từ chối, sợ con gái tốn kém. Dù cô gái mong muốn được báo hiếu, vợ chồng không dám nghĩ giấc mơ đó sẽ thành hiện thực."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian sống ở Đan Mạch, cô gái thường xuyên gọi điện về nhà trò chuyện với người thân. Hàng ngày, Hải Yến cập nhật kế hoạch chuyến đi, những thắng cảnh mà mình muốn đưa bố mẹ, chị gái đến tham quan."
+    },
+    {
+     "t": "p",
+     "text": "\"Từ lo con gái tốn tiền, bố mẹ tôi dần quen với câu chuyện du lịch châu Âu. Sau 1 năm, cả nhà bắt đầu háo hức, mong chờ ngày lên đường\", cô chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch ban đầu, gia đình sẽ khởi hành năm 2025. Do công việc không thuận lợi, Hải Yến phải lùi sang đầu năm 2026. Ngoài lo chi phí chuyến đi, lịch trình cũng được cô gái thiết lập một cách chi tiết."
+    },
+    {
+     "t": "p",
+     "text": "Toàn bộ vé máy bay, tàu hoả, phòng ở đều được cô gái người Việt Nam đặt trước khoảng nửa năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Nơi ở tôi lựa chọn với mức giá trung bình khoảng 2-3 triệu đồng/đêm. Ngoài tiêu chí sạch sẽ, yên tĩnh, tôi ưu tiên những nơi có bếp để cả gia đình có thể tự nấu ăn trong những ngày đồ ăn không hợp khẩu vị”, cô chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Chuyến đi đáng nhớ"
+    },
+    {
+     "t": "p",
+     "text": "Hành trình du lịch châu Âu của gia đình Hải Yến diễn ra hồi tháng 3/2026. Trước đó khoảng 6 tháng, cô lo thủ tục xin visa, may mắn mọi chuyện đều suôn sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trong tổng chi phí 400 triệu đồng, tiền vé máy bay khứ hồi mỗi người khoảng 25 triệu đồng, còn lại là tiền ở và đi lại, ăn uống."
+    },
+    {
+     "t": "p",
+     "text": "Trước ngày khởi hành, bố mẹ và chị gái của Hải Yến thấp thỏm, nhiều đêm không ngủ được. Cả 3 người lên chuyến bay từ Tân Sơn Nhất, quá cảnh ở Bắc Kinh (Trung Quốc) trước khi đáp xuống Đan Mạch."
+    },
+    {
+     "t": "p",
+     "text": "Lưu trú tại Copenhagen 5 ngày, 4 thành viên đi tàu sang Thuỵ Điển chơi. Tiếp đó, cả đoàn bay đến Paris rồi di chuyển sang Bồ Đào Nha, Tây Ban Nha, quay về miền nam nước Pháp, sang thăm Monaco - đất nước giàu có hàng đầu thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Điểm dừng chân tiếp theo là Italia, Thuỵ Sĩ và kết thúc ở Hungary."
+    },
+    {
+     "t": "p",
+     "text": "\"Cả nhà lưu trú mỗi nước khoảng 3-5 ngày. Tôi chọn những điểm đến và món ăn nổi tiếng nhất cho cả nhà trải nghiệm\", Hải Yến cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài lần cùng mẹ đón sinh nhật ở chân tháp Eiffel, kỷ niệm đáng nhớ nhất trong hành trình là chuyến đi tới Monaco."
+    },
+    {
+     "t": "p",
+     "text": "Quốc gia này từ lâu nổi tiếng giàu có nhất thế giới tính theo GDP bình quân đầu người và là nơi tập trung số triệu phú, tỷ phú cao hàng đầu hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "Theo Hải Yến, trong một lần đi dạo trên đường phố, cả gia đình bắt gặp một chiếc ô tô hạng sang, bóng loáng đỗ bên đường. Vì tò mò, mọi người tiến lại gần ngắm nghía. Chiếc xe bất ngờ phát tín hiệu cảnh báo khiến cô và 3 người thân giật mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Chủ nhân chiếc xe nhanh chóng bước ra từ căn biệt thự gần đó. Ông chủ động mời bố lên xe trải nghiệm và chụp ảnh lưu niệm. Mọi chuyện diễn ra chỉ trong ít phút nhưng trở thành kỷ niệm rất đẹp của cả gia đình”, Yến kể."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Suốt 1 tháng, Hải Yến cùng bố mẹ và chị gái đặt chân tới tháp Eiffel, ngắm khung cảnh của tháp nghiêng Pisa hay tận hưởng vẻ đẹp như tranh của vùng nông thôn Thuỵ Sĩ. May mắn chuyến đi diễn ra thuận lợi, không gặp sự cố ngoài ý muốn."
+    },
+    {
+     "t": "p",
+     "text": "Trở ngại lớn nhất trong hành trình du lịch là sự khác biệt về khẩu vị ẩm thực. Ngoài những lần ăn ở nhà hàng, gia đình Hải Yến thường mua thực phẩm trong siêu thị, tự nấu đồ ăn tại nơi ở."
+    },
+    {
+     "t": "p",
+     "text": "\"Do lịch trình bận rộn, chúng tôi lựa chọn nấu các món đơn giản như trứng rán, thịt kho, rau xào... Tôi không tính toán cụ thể chi phí cho từng bữa, vì muốn bố mẹ và chị gái ăn uống thoải mái nhất\", cô gái nói."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày rong ruổi khắp các cung đường ở châu Âu, nhìn thấy ánh mắt hạnh phúc của bố mẹ, Hải Yến cảm thấy tự hào. Sau nhiều năm vất vả, đấng sinh thành thoả ước nguyện đi nước ngoài du lịch, có những giây phút thảnh thơi."
+    },
+    {
+     "t": "p",
+     "text": "“Lo toan từ lịch trình, lựa chọn địa điểm ăn uống... tôi nhận ra mình đã trưởng thành hơn. Con gái có thể trở thành chỗ dựa vững chắc cho bố mẹ. Hai chị em muốn dành những điều tốt đẹp nhất để báo hiếu đấng sinh thành”, cô nói."
+    },
+    {
+     "t": "p",
+     "text": "Trở về từ chuyến du lịch châu Âu, ông Nguyễn Văn Hiên (bố của Hải Yến) vẫn nhớ như in nhiều phong cảnh đẹp. Hai vợ chồng đặc biệt ấn tượng với kiến trúc cổ kính ở đấu trường La Mã tại Italia, các khu phố và quảng trường lát đá ở Pháp, Hungary..."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Hiên, hoàn cảnh gia đình không giàu có. Nhờ con gái biết tính toán, tiết kiệm nên cả nhà có một chuyến đi tuyệt vời."
+    },
+    {
+     "t": "p",
+     "text": "\"Đặt chân đến châu Âu, vợ chồng tôi có cảm giác như đang bước vào một giấc mơ. Những khung cảnh trước đây chỉ nhìn thấy qua tivi hiện ra ngay trước mắt, rõ nét, chân thật và hoành tráng\", ông nói."
+    },
+    {
+     "t": "p",
+     "text": "Hiện, Hải Yến đã kết thúc thời gian làm việc tại Đan Mạch, trở về TPHCM lập nghiệp. Chuyến đi vừa qua là động lực để cô gái tiết kiệm và nỗ lực hơn nữa, đưa bố mẹ đặt chân đến những vùng đất mới."
+    }
+   ]
+  },
+  {
+   "id": "76191db3e1fc",
+   "order": 16,
+   "slug": "quan-ca-phe-cua-2-nguoi-viet-tai-phap-dong-nghit-khach-sau-m",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Quán cà phê của 2 người Việt tại Pháp đông nghịt khách sau một lần mất điện",
+   "sapo": "(Dân trí) - Gần nửa đêm, anh Đậu Anh Tuấn và chị Vũ Trà My vẫn chạy đôn chạy đáo ngoài phố, liên tục gọi điện cho bạn bè, rồi tìm đến các nhà hàng Việt giữa",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/quan-ca-phe-cua-2-nguoi-viet-tai-phap-dong-nghit-khach-sau-mot-lan-mat-dien-20261005225322807.htm",
+   "published": "2026-10-05T23:47:23+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1652,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/76191db3e1fc-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-0.jpg",
+     "caption": "Vì sự cố mất điện, anh Tuấn phải đi mượn phin để \"chữa cháy\", tiếp tục phục vụ cà phê cho khách (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-1.jpg",
+     "caption": "Quán cà phê của 2 người Việt tại Pháp đông nghịt khách sau một lần mất điện - 2",
+     "w": 1280,
+     "h": 1717
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-2.jpg",
+     "caption": "Quán cà phê của 2 người Việt tại Pháp đông nghịt khách sau một lần mất điện - 3",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-3.jpg",
+     "caption": "Không gian Convos nằm trên đường rue Sainte-Foy (Paris), với khu vực trong nhà và ngoài trời (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-4.jpg",
+     "caption": "Quán cà phê của 2 người Việt tại Pháp đông nghịt khách sau một lần mất điện - 5",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-5.jpg",
+     "caption": "Quán cà phê của 2 người Việt tại Pháp đông nghịt khách sau một lần mất điện - 6",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-6.jpg",
+     "caption": "Quán đón nhiều nhóm khách khác nhau, trong đó người Pháp chiếm khoảng 60% (Ảnh: Nhân vật cung cấp).",
+     "w": 1271,
+     "h": 847
+    },
+    {
+     "src": "img/2026-10-07/76191db3e1fc-7.jpg",
+     "caption": "Anh Tuấn và chị My muốn quán có thêm các hoạt động nghệ thuật, âm nhạc và giao lưu văn hóa trong thời gian tới (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sở dĩ hai người phải vội vã giữa đêm khuya là bởi quán cà phê do họ làm chủ tại Paris bất ngờ mất điện. Máy pha cà phê không thể hoạt động, trong khi cuối tuần lại là lúc khách đến đông. Muốn tiếp tục phục vụ, hai người chỉ còn cách quay về với cách pha cà phê truyền thống bằng phin."
+    },
+    {
+     "t": "p",
+     "text": "Từ khoảng 19h, anh Tuấn (SN 1998, quê Nghệ An) và chị My (SN 1997, quê Hà Nội) bắt đầu đi gom phin. Có người cho mượn một chiếc, có nơi có 2-3 chiếc. Anh Tuấn không nhớ mình đã mượn bao nhiêu chiếc phin trong đêm ấy, chỉ nhớ cứ nghe ở đâu có phin là anh tìm đến. Quá nửa đêm, việc đi mượn mới xong xuôi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Những chiếc phin ấy ban đầu chỉ là cách để hai người \"chữa cháy\" trong một ngày mất điện. Thế nhưng, chính những chiếc phin được mượn vội lại trở thành bước ngoặt, giúp cà phê Việt tại quán của anh Tuấn và chị My được nhiều khách ở Paris biết đến."
+    },
+    {
+     "t": "h",
+     "text": "Nổi tiếng nhờ những chiếc phin cà phê đi mượn"
+    },
+    {
+     "t": "p",
+     "text": "Anh Tuấn và chị My đã sống ở Pháp khoảng 11 năm. Trước khi mở quán, cả hai có chung sở thích khám phá các quán cà phê. Mong muốn tự xây dựng một công việc kinh doanh riêng, khoảng cuối năm 2025, hai người quyết định mở quán cà phê và đặt tên là Convos."
+    },
+    {
+     "t": "p",
+     "text": "Nằm tại số 3 rue Sainte-Foy (Paris), Convos có diện tích khoảng 35m², với một phần không gian ngoài trời. Khách có thể ngồi sát vỉa hè, ngắm đường phố và tận hưởng ánh nắng xuyên qua những tán cây. Quán mở cửa từ 9h đến 18h các ngày trong tuần và từ 10h đến 18h vào hai ngày cuối tuần."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian đầu, quán tập trung vào những dòng cà phê phổ biến tại Pháp để dễ tiếp cận khách hàng địa phương."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Anh Đậu Anh Tuấn và chị Vũ Trà My, hai người Việt mở quán cà phê Convos tại Paris (Ảnh: Nhân vật cung cấp)."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động được vài tháng, quán gặp sự cố mất điện. Hệ thống máy pha đồng loạt ngừng hoạt động. Espresso, latte, cappuccino hay americano - những món vốn được pha bằng máy - đều không thể tiếp tục phục vụ. Trong lúc loay hoay tìm cách xoay xở, anh Tuấn và chị My chợt nhớ đến chiếc phin, dụng cụ pha cà phê quen thuộc của người Việt."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi tôi liên hệ với bạn bè có phin cà phê cũng như các nhà hàng Việt Nam ở Paris, mọi người rất sẵn sàng cho mượn. Tôi xem đây như một phương án \"chữa cháy\" thôi, thế nhưng sáng hôm sau, những vị khách Pháp vốn quen với cà phê pha máy lại rất hào hứng khi lần đầu nhìn thấy chiếc phin đặt trên miệng ly."
+    },
+    {
+     "t": "p",
+     "text": "Họ chờ từng giọt cà phê chậm rãi rơi xuống và hỏi đây là dụng cụ gì, cà phê được pha như thế nào và tại sao phải chờ lâu như vậy\", anh Tuấn nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Sự tò mò của khách khiến anh Tuấn và chị My bắt đầu chú ý hơn đến chiếc phin. Đây là dụng cụ quen thuộc với người Việt nhưng lại khá lạ với khách Pháp. Ban đầu, họ tò mò nhìn cách pha, rồi gọi một ly cà phê phin để thử. Sau đó, nhiều người tiếp tục gọi cà phê sữa đá, cà phê dừa, cà phê kem muối."
+    },
+    {
+     "t": "p",
+     "text": "\"Ngày hôm ấy quán rất đông, mọi người hưởng ứng cách pha cà phê truyền thống Việt Nam. Cũng từ đây, chúng tôi nảy ra ý tưởng đưa cà phê Việt Nam vào thực đơn\", anh Tuấn kể."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sau sự cố mất điện, cà phê phin được đưa vào thực đơn chính thức của quán. Cùng với cà phê phin là những món quen thuộc với người Việt như cà phê sữa đá, cà phê dừa, cà phê kem muối. Cà phê Việt dần trở thành một trong những nhóm đồ uống được khách gọi nhiều tại quán."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, anh Tuấn cho biết cà phê Việt có vị khá đậm nên không ít khách Pháp bất ngờ ngay lần đầu thử. So với những loại cà phê nhẹ hơn mà họ thường uống, một ly cà phê phin Việt Nam có thể khiến người uống cảm thấy \"say\"."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Cà phê sữa đá, cà phê kem muối là một trong những món được phục vụ tại quán (Ảnh: Nhân vật cung cấp)."
+    },
+    {
+     "t": "p",
+     "text": "Có khách cho biết họ vốn có thể uống hai ly cà phê, nhưng sau khi thử cà phê Việt lại thấy hồi hộp, tim đập nhanh. Vì thế, anh Tuấn bắt đầu điều chỉnh cách pha để cà phê phù hợp hơn với khẩu vị của khách địa phương."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi muốn giữ được vị cà phê Việt, nhưng cũng phải điều chỉnh để khách ở đây uống được\", anh Tuấn chia sẻ."
+    },
+    {
+     "t": "h",
+     "text": "Khách Pháp biết gọi \"bạc xỉu\", \"nâu đá\""
+    },
+    {
+     "t": "p",
+     "text": "Tại Pháp, nguồn nguyên liệu cũng được anh Tuấn ưu tiên tìm từ cộng đồng người Việt, từ cà phê đến các sản phẩm từ dừa. Hai người cố gắng tìm những người Việt đang kinh doanh tại đây để hợp tác. Với anh Tuấn và chị My, đó cũng là một cách để quán kết nối với cộng đồng người Việt ở Paris."
+    },
+    {
+     "t": "p",
+     "text": "Ở quán, khách có thể ngồi làm việc, vẽ, đan len, viết nhạc hoặc đơn giản là trò chuyện cùng bạn bè, người thân. Muốn giữ không gian đúng với tinh thần ban đầu là nơi mọi người ngồi lại và trò chuyện, quán có một quy định khá đặc biệt, là khách vẫn được sử dụng máy tính vào các ngày trong tuần, nhưng việc dùng máy tính được hạn chế vào thứ bảy và chủ nhật."
+    },
+    {
+     "t": "p",
+     "text": "Anh Tuấn cho biết điều khiến anh vui nhất là khi khách ngồi ở quán, uống một ly cà phê rồi chợt nhớ về Việt Nam. Có người kể những kỷ niệm trong chuyến đi đến Việt Nam, có người tò mò hỏi thêm về đất nước, con người và những món ăn Việt."
+    },
+    {
+     "t": "p",
+     "text": "\"Những câu chuyện như vậy khiến chúng tôi cảm thấy những gì mình mang đến Paris có ý nghĩa\", anh Tuấn chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Anh nhớ lại, có một vị khách Pháp từng đi qua Hà Giang, Hà Nội, Huế, Đà Nẵng và TPHCM. Người này không chỉ biết cà phê Việt mà còn biết cả những cách gọi như \"bạc xỉu\", \"nâu đá\", \"nâu lắc\"."
+    },
+    {
+     "t": "p",
+     "text": "Khi bước vào quán, vị khách kể lại những nơi từng đi qua, những món ăn từng thử và cả những ly cà phê từng uống ở Việt Nam. Theo anh Tuấn, những vị khách từng đến Việt Nam thường dễ bắt chuyện hơn khi nhìn thấy những món quen thuộc trong thực đơn."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Theo chia sẻ của anh Tuấn, khoảng 60% khách của quán là người Pháp. Khoảng 20-30% là khách đến từ Anh, Tây Ban Nha, Mỹ và một số nước lân cận do làm việc ở gần đó, số còn lại là người Việt. Khách Việt thường đến đông hơn vào cuối tuần, đặc biệt là thứ bảy."
+    },
+    {
+     "t": "p",
+     "text": "Quán hiện có khoảng 40-45 chỗ ngồi, gồm không gian trong nhà và ngoài trời. Các món cà phê phổ biến có giá khoảng 6-6,5 euro (khoảng 170.000-190.000 đồng), cà phê kem muối khoảng 7 euro (khoảng 200.000 đồng)."
+    },
+    {
+     "t": "p",
+     "text": "Buổi sáng, khách ghé uống cà phê trước giờ làm. Đến trưa, khách văn phòng đông hơn. Buổi chiều, quán trở lại với những cuộc gặp gỡ, trò chuyện bên ly cà phê. Điều khiến anh Tuấn và chị My vui hơn cả là có những vị khách ban đầu chỉ thử cà phê Việt vì tò mò, sau đó quay lại và gọi đúng món mình từng uống."
+    },
+    {
+     "t": "p",
+     "text": "Sau quán cà phê, anh Tuấn và chị My tiếp tục mở rộng mô hình với một quán ăn ngay bên cạnh. Quán mới hoạt động hơn một tháng, phục vụ một số món Việt như bún bò, bún trộn và dự kiến bổ sung bún chả, phở. Vì mới vận hành, anh Tuấn và chị My chọn trước những món phù hợp với khả năng, sau đó mới tính đến việc mở rộng thực đơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Cà phê và đồ ăn giúp quán có thể phục vụ khách ở nhiều thời điểm trong ngày. Một người có thể ghé uống cà phê buổi sáng, quay lại ăn trưa rồi tiếp tục ngồi lại vào buổi chiều\", anh Tuấn nói."
+    },
+    {
+     "t": "p",
+     "text": "Không dừng lại ở đó, anh Tuấn còn muốn quán có thêm những hoạt động khác để kết nối. Anh đang tính đến việc hợp tác với các nghệ sĩ tại Paris để tổ chức những buổi trưng bày tranh. Họ cũng muốn kết nối với các du học sinh Việt Nam để tổ chức những buổi ca nhạc, thủ công và giao lưu văn hóa dành cho người trẻ."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại hành trình của mình, anh Tuấn nói điều khiến anh tiếc nhất có lẽ là đã không nghĩ đến cà phê Việt ngay từ đầu. Bây giờ, điều khiến anh vui không hẳn là quán có thêm một món bán chạy, mà chính là việc một người Pháp tò mò hỏi về chiếc phin, về cà phê Việt Nam và về đất nước Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "\"Sự tò mò có thể khiến một vị khách gọi thử một món cà phê, nhưng để họ quay lại thì ly cà phê ấy phải ngon và giữ được chất lượng ổn định.Tôi mong sau lần thử đầu tiên, khách sẽ nhớ đến hương vị cà phê Việt và muốn gọi lại mỗi khi ghé quán\", anh Tuấn nói."
+    }
+   ]
+  },
+  {
+   "id": "9e0680648837",
+   "order": 17,
+   "slug": "quan-ca-phe-sach-thanh-ngoi-nha-chung-cho-nhung-chu-meo-bi-b",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi",
+   "sapo": "(Dân trí) - Quán cà phê sách 2 tầng nằm trên phố Trúc Bạch (phường Ba Đình, TP Hà Nội) với những chú mèo “thủ thư”, trở thành điểm đến thu hút đông đảo du",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/quan-ca-phe-sach-thanh-ngoi-nha-chung-cho-nhung-chu-meo-bi-bo-roi-20261006143423004.htm",
+   "published": "2026-10-06T08:15:08+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 646,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/9e0680648837-0.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-1.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-2.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-3.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-4.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-5.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-6.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-7.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-8.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-9.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-10.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/9e0680648837-11.jpg",
+     "caption": "Quán cà phê sách thành ngôi nhà chung cho những chú mèo bị bỏ rơi - 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Nằm trên phố Trúc Bạch (phường Ba Đình, Hà Nội), quán cà phê kết hợp không gian đọc sách và nuôi mèo, trở thành điểm đến thu hút đông đảo du khách, đặc biệt là các bạn trẻ ghé thăm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Anh Bùi Hoàng Huy (33 tuổi, chủ quán) cho biết, ý tưởng mở tiệm cà phê bắt nguồn từ niềm đam mê truyện tranh từ thời còn đi học, cùng tình cảm gắn bó với chú mèo đầu tiên của mình. Sau khi chú mèo qua đời, anh muốn duy trì không gian đọc sách, đồng thời lưu giữ những kỷ niệm về người bạn đặc biệt của mình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ba cơ sở của anh Huy hiện là nơi sinh sống của khoảng 60 con mèo, một số mèo anh trực tiếp nuôi và nhiều mèo hoang được cứu, nhận về chăm sóc."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mỗi chú mèo được đặt tên gắn với đặc điểm, tính cách hoặc hoàn cảnh được tiếp nhận như Báo, Mít, Lượm, Chan, Mohamed..."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Mỗi chú mèo tại quán đều mang một câu chuyện riêng. Chú mèo tam thể tên Chan được anh Huy cứu về từ lò mổ. Thời gian đầu chưa quen, Chan thường xuyên trốn khỏi nhà khiến anh Huy nhiều lần phải đi tìm. Sau một thời gian được chăm sóc, Chan dần trở nên thoải mái và thân thiện hơn với chủ cũng như khách đến quán."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Với chú mèo tên Nhặt, anh Huy tình cờ nghe thấy tiếng mèo con kêu khi đi qua khu vực hồ Tây nên dừng lại tìm kiếm và đưa về chăm sóc. Khi đó, Nhặt bị bỏ rơi, chỉ có một mình và nhỏ bằng hai ngón tay cái, khiến anh Huy phải dành nhiều thời gian chăm sóc để chú mèo dần khỏe mạnh."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Những chú mèo tại quán khá gần gũi và thân thiện với khách. Theo anh Huy, điều quan trọng trong việc chăm sóc mèo là tạo cho chúng cảm giác an toàn, được tự do lựa chọn thời gian nghỉ ngơi hoặc chủ động tiếp xúc với con người."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Tại đây, khách có thể cho mèo ăn, qua đó làm quen và tạo sự gần gũi với những “người bạn” đặc biệt tại quán."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Chị Phương Anh cùng anh Daan (người Hà Lan) lần đầu ghé quán sau khi trở về Việt Nam cách đây không lâu. Cả hai đều yêu động vật và từng nhiều lần tham gia các hoạt động cứu trợ chó, mèo tại TPHCM."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi rất thích nơi này bởi không gian thoải mái, những chú mèo được chăm sóc tốt. Việc kết hợp sách và mèo tạo cảm giác ấm cúng, chắc chắn tôi sẽ quay lại nhiều lần nữa”, anh Daan chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Thu Trang (27 tuổi) biết đến quán qua mạng xã hội và đã nhiều lần ghé thăm các chú mèo. Trang cho biết, mỗi chú mèo tại đây đều có một câu chuyện, hoàn cảnh riêng, qua đó khiến cô suy nghĩ nhiều hơn về trách nhiệm của người trẻ trong việc yêu thương, chăm sóc và bảo vệ động vật."
+    },
+    {
+     "t": "p",
+     "text": "“Những hành động nhỏ như nhận nuôi, cứu trợ hay đơn giản là đối xử tử tế với vật nuôi cũng góp phần lan tỏa lối sống có trách nhiệm trong cộng đồng”, Trang nói."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Các bạn trẻ và du khách tranh thủ ghi lại hình ảnh những chú mèo tại quán, lưu giữ những khoảnh khắc gần gũi cùng các “thủ thư” đặc biệt này."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Nhiều khách tới quán chụp ảnh hoặc vẽ các chú mèo tại đây, tạo thành một không gian trưng bày tranh, ảnh khá sinh động. Đối với anh Huy, những kỷ niệm và khoảnh khắc gắn bó được lưu giữ tại quán trở thành động lực để anh tiếp tục duy trì, phát triển “ngôi nhà chung” cho những chú mèo."
+    }
+   ]
+  },
+  {
+   "id": "c5a545436bac",
+   "order": 18,
+   "slug": "ngoi-truong-cong-lap-tp-hcm-co-5-san-bong-da-6-san-picklebal",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Ngôi trường công lập TP.HCM có 5 sân bóng đá, 6 sân pickleball, hồ cá koi",
+   "sapo": "Với khuôn viên gần 4ha, Trường tiểu học - THCS - THPT Nam Sài Gòn bố trí 5 sân bóng đá, 3 sân bóng rổ, 6 sân pickleball cùng nhiều không gian thể thao, nghệ thuật và vui chơi cho học sinh.",
+   "author": "HOÀNG HƯƠNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ngoi-truong-cong-lap-tphcm-co-5-san-bong-da-6-san-pickleball-ho-ca-koi-100261006073017763.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 6,
+   "words": 1323,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/c5a545436bac-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-7.jpg",
+     "caption": "Hành lang đầy màu sắc ở Trường tiểu học - THCS - THPT Nam Sài Gòn - Ảnh: HỮU DUY",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-8.jpg",
+     "caption": "Với nhiều cây xanh tỏa bóng mát, sân Trường tiểu học - THCS - THPT Nam Sài Gòn gợi cảm giác như một công viên thu nhỏ - Ảnh: HỮU DUY",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-9.jpg",
+     "caption": "Sân Trường tiểu học - THCS - THPT Nam Sài Gòn có hai hồ cá koi - Ảnh: HỮU DUY",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-10.jpg",
+     "caption": "Học sinh Trường tiểu học - THCS - THPT Nam Sài Gòn, phường Tân Mỹ, TP.HCM trong giờ học bóng rổ - Ảnh: HỮU DUY",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-07/c5a545436bac-11.jpg",
+     "caption": "Tiết học tại phòng STEM của học sinh - Ảnh: HỮU DUY",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ngôi trường \"mơ ước\" của nhiều học sinh TP.HCM: có tận 5 sân bóng đá, bên cạnh đó là 3 sân bóng rổ, 6 sân pickleball - Ảnh: HỮU DUY"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ là nơi dạy và học, nhiều trường công lập ở TP.HCM đang được đầu tư không gian học tập, vui chơi, thể thao và trải nghiệm ngày càng hiện đại."
+    },
+    {
+     "t": "p",
+     "text": "Loạt bài Khám phá những ngôi trường công lập 'đáng mơ ước' ở TP.HCM giới thiệu những ngôi trường có cách làm đáng chú ý, từ cơ sở vật chất, không gian học tập đến những hoạt động giúp học sinh phát triển toàn diện."
+    },
+    {
+     "t": "p",
+     "text": "Một trong số đó là Trường tiểu học - THCS - THPT Nam Sài Gòn với khuôn viên gần 4ha, có 5 sân bóng đá, 3 sân bóng rổ, 6 sân pickleball cùng nhiều không gian thể thao, nghệ thuật và vui chơi."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Học sinh thỏa sức thể hiện năng khiếu thể thao ở sân chơi thể thao có mái che - Ảnh: HỮU DUY"
+    },
+    {
+     "t": "h",
+     "text": "\"Con mê trường đến mức tan học vẫn ở lại cả tiếng mới về\""
+    },
+    {
+     "t": "p",
+     "text": "Được xem là một trong những trường công lập có diện tích rộng nhất TP.HCM với gần 4 ha, Trường tiểu học - THCS - THPT Nam Sài Gòn có 5 sân bóng đá, 3 sân bóng rổ, 1 sân bóng chuyền, 4 sân cầu lông, 6 sân pickleball… đạt chuẩn."
+    },
+    {
+     "t": "p",
+     "text": "Nằm ngay mặt tiền đường Nguyễn Lương Bằng, phường Tân Mỹ , TP.HCM, Trường tiểu học - THCS - THPT Nam Sài Gòn \"bị\" nhiều người lầm tưởng là trường quốc tế bởi sự bề thế và hiện đại từ ngay cổng ra vào. Với tổng diện tích gần 38.000m², trường có 79 lớp, 3.522 học sinh từ lớp 1 đến lớp 12."
+    },
+    {
+     "t": "p",
+     "text": "Ngôi trường công lập ‘đáng mơ ước’ ở TP.HCM - Video: HỮU DUY"
+    },
+    {
+     "t": "p",
+     "text": "Chúng tôi đến Trường tiểu học - THCS - THPT Nam Sài Gòn vào một ngày cuối tháng 9-2026. Bước vào cổng dành cho học sinh tiểu học , một không gian nhiều màu sắc mở ra với những dãy hành lang được trang trí sinh động, bắt mắt."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong các lớp học là hệ thống bàn ghế hiện đại có thể điều chỉnh theo chiều cao của mỗi học sinh. Tất cả các phòng học đều được trang bị máy lạnh và tivi thông minh hoặc màn hình - máy chiếu."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng có lẽ ấn tượng hơn cả là không gian sân chơi ở đây. Với nhiều cây xanh tỏa bóng mát, sân Trường tiểu học - THCS - THPT Nam Sài Gòn gợi cảm giác như một công viên thu nhỏ với nhiều khu trò chơi từ dân gian đến hiện đại, từ các hoạt động phát triển tư duy đến vận động thể chất."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Đến giờ ra chơi, học sinh túa ra khắp sân trường, chạy nhảy giữa không gian thoáng đãng, mát mẻ. Ngoài các trò chơi vận động, nhiều em say mê bên những bàn cờ vua, cờ tướng. Một nhóm khác lại đứng bên hồ cá koi, thích thú ngắm những chú cá nhiều màu sắc bơi lội."
+    },
+    {
+     "t": "p",
+     "text": "Sôi động nhất là khu phức hợp thể thao, đặc biệt là sân bóng đá, nơi tiếng reo hò, cổ vũ của các nam sinh khiến cả góc sân náo nhiệt."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Chị Nguyễn Thị Thảo My, có con học lớp 6 Trường tiểu học - THCS - THPT Nam Sài Gòn, cho biết: \"Con trai tôi học ở đây từ năm lớp 1 đến nay. Ban đầu tôi chọn trường cho con vì ấn tượng với không gian đẹp, khang trang, sạch sẽ. Không những thế, 2 năm gần đây, nhà trường có sự đổi mới mạnh mẽ khiến cháu hào hứng bảo cảm giác như đang học ở trường quốc tế vậy."
+    },
+    {
+     "t": "p",
+     "text": "Cháu khoe nhà vệ sinh ở trường con mới sửa lại vừa đẹp, vừa hiện đại, có máy lạnh, lại còn có nhạc êm dịu cứ như khách sạn 5 sao. Rồi các hoạt động trải nghiệm, rèn kỹ năng cũng nhiều hơn, đa dạng hơn. Đặc biệt, khu thể thao được cải tạo, bổ sung thêm các sân bóng. Con tôi mê trường đến mức hôm nào tan học con cũng phải ở lại chơi thêm ít nhất một tiếng mới chịu về nhà\"."
+    },
+    {
+     "t": "h",
+     "text": "\"Mong học sinh ra trường biết chơi thể thao, một loại nhạc cụ\""
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Theo thầy Trần Nghĩa Nhân - Hiệu trưởng Trường tiểu học - THCS - THPT Nam Sài Gòn: \"Mong muốn của chúng tôi là khi học sinh ra trường, các em không chỉ có kiến thức mà còn biết chơi ít nhất một môn thể thao, một loại nhạc cụ\"."
+    },
+    {
+     "t": "p",
+     "text": "Ở bậc trung học, Trường Nam Sài Gòn tổ chức giảng dạy môn giáo dục thể chất theo hình thức tự chọn. Các em đăng ký 1 trong 4 môn: bóng đá, bóng rổ, bóng chuyền hoặc cầu lông và được bố trí học cùng khung giờ, tại khu vực dành riêng cho từng môn."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ đầu tư cho thể thao, nhà trường còn quy hoạch một khu riêng dành cho giáo dục nghệ thuật , nơi học sinh có thể lựa chọn học piano, guitar, trống, thanh nhạc hoặc hội họa, nhảy hiện đại..."
+    },
+    {
+     "t": "p",
+     "text": "\"Sau giờ học chính khóa kết thúc lúc 16h, học sinh còn có thêm một giờ để tham gia các câu lạc bộ thể thao, âm nhạc, nghệ thuật do giáo viên tổ chức trên tinh thần tự nguyện. Những học sinh không tham gia câu lạc bộ vẫn được sử dụng miễn phí hệ thống sân bãi thể thao của trường để vui chơi, vận động."
+    },
+    {
+     "t": "p",
+     "text": "Việc đầu tư cơ sở vật chất không chỉ nhằm tạo ra một ngôi trường khang trang mà quan trọng hơn là biến những không gian ấy thành nơi học sinh thực sự được học, được chơi, được vận động và phát triển năng khiếu\" - thầy Nhân khẳng định."
+    },
+    {
+     "t": "p",
+     "text": "Chẳng thế mà Thảo Nhi, học sinh lớp 7A8, đúc kết: \"Em học ở Trường Nam Sài Gòn từ lớp 1 đến nay. Càng ngày em càng thích đến trường vì trường luôn đổi mới, mang lại cho em cảm giác thú vị từ trong giờ học chính khóa đến giờ ra chơi\"."
+    },
+    {
+     "t": "h",
+     "text": "Trường công lập tự chủ tài chính"
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Trường tiểu học - THCS - THPT Nam Sài Gòn tiền thân là Trường dân lập Nam Sài Gòn do Công ty liên doanh Phú Mỹ Hưng thành lập năm 1997. Đến năm học 2002 - 2003, trường được trao tặng cho Thành phố và chuyển thành cụm Trường bán công Nam Sài Gòn (gồm trường mầm non, tiểu học, THCS và THPT)."
+    },
+    {
+     "t": "p",
+     "text": "Năm học 2006 - 2007, UBND TP.HCM có quyết định chuyển về mô hình trường công lập hoạt động theo cơ chế tự chủ tài chính. Mức học phí hiện tại ở trường này là 400.000 đồng/tháng/học sinh tiểu học; 600.000 đồng/tháng/học sinh trung học. Các khoản thu dịch vụ còn lại do nhà trường thỏa thuận với phụ huynh."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhà trường luôn khuyến khích học sinh rèn luyện tư duy độc lập và phát huy tối đa tính sáng tạo trong học tập . Nhờ đó, học sinh Trường Nam Sài Gòn luôn thể hiện sự chủ động, tự tin hùng biện và tranh luận các nội dung bài học cùng thầy cô ngay trên lớp ."
+    },
+    {
+     "t": "p",
+     "text": "Vừa qua, học sinh Trường Nam Sài Gòn đã gặt hái được 79 giải thưởng học sinh giỏi cấp thành phố trong năm học 2025-2026; điểm chuẩn tuyển sinh lớp 10 đạt 22,25 điểm (tăng 2 điểm so với năm trước) và tỉ lệ tốt nghiệp THPT luôn duy trì đạt 100% qua các năm \" - thầy Triệu Tấn Mẫn, Phó hiệu trưởng, chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Học sinh Nam Sài Gòn trong giờ ăn bán trú - Ảnh: HỮU DUY"
+    }
+   ]
+  },
+  {
+   "id": "4dd4e327ed49",
+   "order": 19,
+   "slug": "du-khach-anh-bi-google-maps-dan-lac-vao-rung-viet-nam-qua-an",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Du khách Anh bị Google Maps dẫn lạc vào rừng: 'Việt Nam quá an toàn'",
+   "sapo": "Lạc giữa núi rừng Quảng Ngãi vì đi theo Google Maps, thủng lốp xe giữa đường, ông Barry được người dân và công an xã hỗ trợ tận tình. Du khách 63 tuổi nói sự tử tế ấy khiến ông tin Việt Nam là đất nước cực kỳ an toàn và đáng để trải nghiệm.",
+   "author": "TRẦN MAI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/du-khach-anh-bi-google-maps-dan-lac-vao-rung-viet-nam-qua-an-toan-100261006114744276.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 821,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/4dd4e327ed49-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/4dd4e327ed49-0.jpg",
+     "caption": "Ông Barry chụp hình cùng hai công an đã giúp ông - Ảnh: Nhân vật cung cấp",
+     "w": 1280,
+     "h": 808
+    },
+    {
+     "src": "img/2026-10-07/4dd4e327ed49-1.jpg",
+     "caption": "Người dân địa phương và công an xã cùng nhau hỗ trợ ông Barry để lại cho ông hình ảnh Việt Nam thân thiện, an toàn - Ảnh: Nhân vật cung cấp",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 6-10, trao đổi với Tuổi Trẻ , Thiếu tướng Hồ Song Ân - Giám đốc Công an tỉnh Quảng Ngãi - cho biết việc công an xã kịp thời tiếp nhận thông tin, hỗ trợ du khách người Anh đi theo Google Maps rồi lạc giữa núi rừng xã Đặng Thùy Trâm là hành động rất đáng biểu dương."
+    },
+    {
+     "t": "p",
+     "text": "Theo Thiếu tướng Ân, qua sự việc có thể thấy sự gắn bó mật thiết giữa người dân và lực lượng công an cơ sở. Khi phát hiện du khách gặp sự cố, người dân lập tức thông báo cho công an xã."
+    },
+    {
+     "t": "p",
+     "text": "\"Hành động hỗ trợ du khách rất trách nhiệm, chuyên nghiệp, thể hiện sự thân thiện, hiếu khách của người Việt Nam. Lực lượng công an sẽ tiếp tục phát huy tinh thần mà Trung tá Phan Tiến Dũng và Đại úy Phạm Trung Tiển vừa thực hiện\", Thiếu tướng Hồ Song Ân nói."
+    },
+    {
+     "t": "p",
+     "text": "Cũng theo Thiếu tướng Ân, song song với nhiệm vụ bảo đảm an ninh trật tự, hỗ trợ người dân nói chung và du khách nước ngoài nói riêng khi gặp sự cố là công việc thường nhật của lực lượng công an cơ sở. Những sự hỗ trợ như vậy vẫn diễn ra tại công an các xã, phường."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Du khách lạc giữa núi rừng vì Google Maps \"dẫn đường\""
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, trưa 3-10, ông Barry - du khách người Anh - đi từ Quy Nhơn ra Đà Nẵng. Theo chỉ dẫn của Google Maps, ông đi vào tuyến đường mòn nối từ xã An Lão (Gia Lai) đến xã miền núi Đặng Thùy Trâm ( Quảng Ngãi )."
+    },
+    {
+     "t": "p",
+     "text": "Ông Barry kể lúc đầu nghĩ đây là tuyến đường thay thế và sẽ sớm quay trở lại đường lớn. Tuy nhiên, càng đi, đường càng xấu, nhiều đoạn dốc cao, lầy lội, đá hộc nằm ngổn ngang."
+    },
+    {
+     "t": "p",
+     "text": "Khi đến một con dốc thuộc xã Đặng Thùy Trâm, ông bị mất lái, chiếc mô tô phân khối lớn bị đá đâm thủng lốp sau."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là cung đường trải nghiệm kinh khủng bậc nhất mà tôi từng trải qua\", ông Barry nói và cho biết đã có lúc hoảng loạn, lo lắng khi một mình đứng giữa núi cùng chiếc xe bị hỏng."
+    },
+    {
+     "t": "p",
+     "text": "May mắn, khi ông Barry \"lần mò\" di chuyển đến thôn Kon Dóc người dân địa phương phát hiện sự việc và báo công an xã."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp nhận thông tin, Trung tá Phan Tiến Dũng - Trưởng Công an xã Đặng Thùy Trâm - cùng Đại úy Phạm Trung Tiển lập tức lái ô tô chuyên dụng đến hỗ trợ."
+    },
+    {
+     "t": "p",
+     "text": "\"Sĩ quan cảnh sát Dũng và Tiển đến với tôi cùng nụ cười và sự giúp đỡ. Tôi đã 63 tuổi và đã đi qua 34 quốc gia. Đây là trải nghiệm tuyệt vời nhất với lực lượng cảnh sát khắp thế giới mà tôi từng gặp\", ông Barry nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông Barry cho biết hình ảnh người Việt Nam thân thiện ông đã gặp rất nhiều, từ bác sĩ, y tá đến người dân. Nhưng với cảnh sát Việt Nam, đây là lần đầu tiên ông có trải nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Ông Barry bảo Việt Nam là đất nước đáng để du khách đến trải nghiệm và cực kỳ an toàn. Nếu chẳng may gặp sự cố, người dân sẽ hỗ trợ và cảnh sát sẽ lập tức có mặt giúp đỡ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Trung tá Phan Tiến Dũng: \"Không phải tôi thì người khác cũng sẽ giúp\""
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Barry, đến khoảng 20h, chiếc lốp mới được xử lý xong. Trung tá Dũng còn cẩn thận giải thích rằng lốp chỉ được xử lý tạm thời, đề nghị ông đi chậm và khi đến đô thị lớn tiếp theo cần thay lốp mới để bảo đảm an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến ông Barry đặc biệt ấn tượng và cảm động là sự giúp đỡ rất chân thành. Sửa xe xong, anh Dũng còn dẫn ông ra đường lớn, chỉ dẫn tận tình và chỉ rời đi khi chắc chắn ông đã có hành trình chính xác, an toàn."
+    },
+    {
+     "t": "p",
+     "text": "\"Trung tá Dũng và Đại úy Tiển giờ như hai người bạn của tôi. Họ thật sự tốt bụng, là hình ảnh của Công an Việt Nam\", ông Barry nói."
+    },
+    {
+     "t": "p",
+     "text": "Sau sự việc, Trung tá Phan Tiến Dũng cho biết có theo dõi hành trình của ông Barry và rất vui khi biết du khách này đã đến Đà Nẵng an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Nói về sự giúp đỡ đang được ông Barry trân trọng và chia sẻ với du khách quốc tế, Trung tá Dũng cho rằng đây là việc làm bình thường của công an cơ sở."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu không phải tôi thì người khác cũng sẽ giúp. Đã có 4 du khách nước ngoài đi lạc vào đoạn đường này như ông Barry và đều được công an xã hỗ trợ kịp thời\", Trung tá Dũng nói."
+    }
+   ]
+  },
+  {
+   "id": "368c9117643c",
+   "order": 20,
+   "slug": "top-12-chuyen-tau-lua-dai-nhat-the-gioi-dai-nhat-toi-8-ngay",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Top 12 chuyến tàu lửa dài nhất thế giới, dài nhất tới 8 ngày",
+   "sapo": "Hầu hết các chuyến tàu lửa dài nhất thế giới đều nằm ở Nga - điều hoàn toàn dễ hiểu khi xét đến diện tích khổng lồ của quốc gia này và khoảng cách hàng ngàn km giữa các thành phố.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/top-12-chuyen-tau-lua-dai-nhat-the-gioi-dai-nhat-toi-8-ngay-185261005113524176.htm",
+   "published": "2026-10-06T01:21:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 716,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-07/368c9117643c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-07/368c9117643c-0.jpg",
+     "caption": "Hình ảnh các toa tàu của đường sắt Nga tại Moscow",
+     "w": 640,
+     "h": 433
+    },
+    {
+     "src": "img/2026-10-07/368c9117643c-1.jpg",
+     "caption": "Một đoàn tàu đi qua cầu Hữu nghị Triều Tiên - Nga trên sông Tumen",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dưới đây là 12 hành trình tàu lửa chở khách dài nhất thế giới, chỉ bao gồm các chuyến trực tiếp theo lịch trình cố định, cho phép hành khách đi lại giữa hai điểm đến mà không cần phải đổi tàu, theo World Atlas ."
+    },
+    {
+     "t": "p",
+     "text": "12. Moscow đến Ulan-Ude - khoảng 5.500 km"
+    },
+    {
+     "t": "p",
+     "text": "Hành khách sẽ di chuyển 4 ngày qua dãy núi Ural và Siberia, đi qua các thành phố như Yekaterinburg, Omsk, Novosibirsk và Irkutsk."
+    },
+    {
+     "t": "p",
+     "text": "11. Moscow đi Severobaykalsk - khoảng 5.550 km"
+    },
+    {
+     "t": "p",
+     "text": "Một hành trình dài khác cũng bắt đầu từ Moscow, đi qua các thành phố như Nizhny Novgorod, Novosibirsk và Krasnoyarsk. Sau khoảng 3 ngày 15 giờ, tàu sẽ đến Severobaykalsk, nằm gần cực bắc của hồ Baikal."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "10. Irkutsk đi Anapa - khoảng 6.000 km"
+    },
+    {
+     "t": "p",
+     "text": "Hành trình này đưa hành khách từ Irkutsk ở phía đông Siberia đến tận khu nghỉ dưỡng Anapa bên bờ biển Đen. Tuyến đường dài khoảng 6.000 km và mất từ 4,5 đến 5 ngày để hoàn tất."
+    },
+    {
+     "t": "p",
+     "text": "9. Moscow đến Chita - khoảng 6.200 km"
+    },
+    {
+     "t": "p",
+     "text": "Du khách khởi hành từ Moscow đến thành phố Chita ở vùng Siberia phía đông sẽ trải qua hành trình kéo dài khoảng 4 ngày rưỡi trên tàu. Tuyến đường này đưa hành khách băng qua dãy Ural và vùng Siberia, ngang khu vực gần hồ Baikal trước khi đến đích là Chita."
+    },
+    {
+     "t": "p",
+     "text": "8. Từ Adler đến Severobaykalsk - khoảng 6.880 km"
+    },
+    {
+     "t": "p",
+     "text": "Đây là tuyến tàu hoạt động theo mùa, khởi hành từ Adler bên bờ biển Đen (Nga) và kết thúc hành trình dài gần 7.000 km tại Severobaykalsk. Hành trình kéo dài hơn 5 ngày, đi qua các thành phố như Novosibirsk và Krasnoyarsk trước khi đến khu vực quanh hồ Baikal."
+    },
+    {
+     "t": "p",
+     "text": "7. Moscow đến Neryungri - khoảng 6.950 km"
+    },
+    {
+     "t": "p",
+     "text": "Khởi hành từ ga Yaroslavsky ở Moscow, chuyến tàu khách đi sâu vào vùng Viễn Đông của Nga. Tuyến đường chạy theo một phần của mạng lưới đường sắt xuyên Siberia trước khi hướng tới Tynda và Neryungri ở phía nam Yakutia, mất khoảng 5 ngày để di chuyển xuyên qua đất nước."
+    },
+    {
+     "t": "p",
+     "text": "6. Chita đến Anapa - khoảng 7.070 km"
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường này kết nối Chita ở phía đông Siberia với Anapa, một điểm đến nghỉ dưỡng bên bờ biển Đen của Nga. Hành trình kéo dài khoảng 5 ngày 15 giờ và chỉ hoạt động vào một số thời điểm nhất định trong năm (theo mùa)."
+    },
+    {
+     "t": "p",
+     "text": "5. Chita đến Adler - khoảng 7.500 km"
+    },
+    {
+     "t": "p",
+     "text": "Hành khách đi lại giữa Chita và Adler sẽ băng qua một phần rộng lớn của nước Nga, khởi hành từ phía đông Siberia và cuối cùng đến bờ biển biển Đen, mất khoảng 6 ngày."
+    },
+    {
+     "t": "p",
+     "text": "4. Từ Kislovodsk đến Neryungri - khoảng 7.960 km"
+    },
+    {
+     "t": "p",
+     "text": "Bắt đầu tại Kislovodsk thuộc vùng Bắc Caucasus của Nga và kết thúc tại Neryungri ở vùng Viễn Đông, cách đó gần 8.000 km. Hành khách sẽ dành khoảng 6 ngày 7 giờ để di chuyển xuyên qua nước Nga."
+    },
+    {
+     "t": "p",
+     "text": "3. Từ Moscow đến Vladivostok - khoảng 9.260 km"
+    },
+    {
+     "t": "p",
+     "text": "Tuyến Moscow - Vladivostok xuất hiện hai lần trong danh sách này vì có hai dịch vụ tàu riêng biệt cùng kết nối hai thành phố. Tàu 010Н là chuyến nhanh hơn trong hai chuyến, mất khoảng 6 ngày rưỡi để đến được bờ biển Thái Bình Dương của Nga."
+    },
+    {
+     "t": "p",
+     "text": "2. Moscow đến Vladivostok - khoảng 9.300km"
+    },
+    {
+     "t": "p",
+     "text": "Tuyến thứ hai là Rossiya, tuyến tàu nổi tiếng hơn trong hai tuyến Moscow đến Vladivostok, đi theo tuyến đường sắt xuyên Siberia qua Nga nhưng có lịch trình và điểm dừng khác với tàu 010H, mất gần 7 ngày để hoàn thành hành trình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "1. Moscow đến Bình Nhưỡng - 10.214 km"
+    },
+    {
+     "t": "p",
+     "text": "Đứng đầu danh sách là hành trình nối liền Moscow và Bình Nhưỡng (Triều Tiên) với quãng đường dài hơn 10.000 km. Hành khách mất khoảng 8 ngày để di chuyển giữa hai thủ đô, băng qua gần như toàn bộ chiều ngang nước Nga trước khi tiến vào Triều Tiên."
+    },
+    {
+     "t": "p",
+     "text": "Tuyến này hoạt động 2 lần mỗi tháng và sử dụng toa giường nằm chạy suốt hành trình. Hành khách có thể ở nguyên trong toa xe trong suốt chuyến đi, ngay cả khi toa được ghép vào các đoàn tàu khác nhau dọc đường."
+    }
+   ]
+  }
+ ]
+}
