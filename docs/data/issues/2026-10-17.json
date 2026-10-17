@@ -1,0 +1,2544 @@
+{
+ "date": "2026-10-17",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-17T07:30:02+07:00",
+ "sections": [
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  }
+ ],
+ "articles": [
+  {
+   "id": "b8efb3d293fa",
+   "order": 1,
+   "slug": "san-ho-cay-vang-bi-an-ky-la-den-muc-cac-nha-khoa-hoc-phai-la",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "San hô \"cây vàng\" bí ẩn kỳ lạ đến mức các nhà khoa học phải lập hẳn một họ mới trên cây sự sống",
+   "sapo": "Trong vùng biển tối sâu thẳm của Đông Thái Bình Dương, có một cảnh tượng kỳ diệu được tìm thấy trên một núi ngầm ngoài khơi bờ biển Costa Rica.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/mysterious-golden-tree-coral-is-so-weird-scientists-had-to-create-a-new-family-on-the-tree-of-life",
+   "published": "2026-10-16T22:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1314,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Mysterious 'Golden Tree' Coral Is So Weird, Scientists Had to Create a New Family on The Tree of Life",
+   "images": [
+    {
+     "src": "img/2026-10-17/b8efb3d293fa-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-17/b8efb3d293fa-0.jpg",
+     "caption": "Cận cảnh các nhánh và polyp của loài san hô kỳ thú này. (ROV SuBastian /Schmidt Ocean Institute/Breedy et al., ZooKeys, 2026)",
+     "w": 599,
+     "h": 516
+    },
+    {
+     "src": "img/2026-10-17/b8efb3d293fa-1.jpg",
+     "caption": "Sắc vàng rực rỡ sẽ biến mất khi san hô chết, như có thể thấy ở mẫu vật được bảo quản trong cồn ethanol này. (Fiorella Vásquez/UCR; Breedy et al., ZooKeys, 2026)",
+     "w": 599,
+     "h": 604
+    },
+    {
+     "src": "img/2026-10-17/b8efb3d293fa-2.jpg",
+     "caption": "Robot ROV SuBastian đang thu thập mẫu vật loài Laurinque. (ROV SuBastian /Schmidt Ocean Institute/Breedy et al., ZooKeys, 2026)",
+     "w": 600,
+     "h": 466
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong vùng biển tối sâu thẳm của Đông Thái Bình Dương, có một cảnh tượng kỳ diệu được tìm thấy trên một núi ngầm ngoài khơi bờ biển Costa Rica."
+    },
+    {
+     "t": "p",
+     "text": "Khi chiếc tàu lặn tự động SuBastian lướt qua một mỏm đá được phủ một lớp màu hồng mờ kỳ lạ, điểm xuyết bởi những miếng bọt biển trắng sáng hình giỏ, một hình thù màu vàng tráng lệ bỗng hiện ra từ bóng tối."
+    },
+    {
+     "t": "p",
+     "text": "Nó trông như một cái cây bằng vàng, màu vàng rực rỡ đến mức bạn có thể tưởng tượng nó đang phát sáng."
+    },
+    {
+     "t": "p",
+     "text": "Rồi khi camera lại gần hơn, bạn có thể thấy lớp hồng mờ ấy đang chuyển động - đó là một tấm thảm dày đặc những ngôi sao, từ đó cái cây vàng kia mọc lên."
+    },
+    {
+     "t": "p",
+     "text": "Những \"ngôi sao\" đó tất nhiên không phải là sao thật, mà là vô số loài sao giòn (brittle star) màu hồng; còn cái \"cây vàng\" kia cũng không phải cây thật."
+    },
+    {
+     "t": "p",
+     "text": "Thay vào đó, đây là một loài san hô tám ngăn (octocoral) chưa từng được các nhà khoa học nhìn thấy trước đây - kỳ lạ đến mức người ta phải tạo ra cả một nhánh hoàn toàn mới trên cây sự sống để xếp loại nó."
+    },
+    {
+     "t": "p",
+     "text": "Trong một bài báo mô tả loài này, nhóm nghiên cứu do Odalisca Breedy thuộc Đại học Costa Rica dẫn đầu đã đặt tên cho loài san hô là Laurinque elenya - cái tên bắt nguồn từ tiếng Quenya, ngôn ngữ Elf trong các tác phẩm của Tolkien, có nghĩa là \"cây vàng của các vì sao\"."
+    },
+    {
+     "t": "p",
+     "text": "Bạn có thể tự mình chiêm ngưỡng khu rừng san hô vàng này qua đoạn phim ghi lại chuyến lặn của SuBastian, bắt đầu từ khoảng phút thứ 20 trong video bên dưới."
+    },
+    {
+     "t": "p",
+     "text": "San hô - dù rất nhiều loài trông giống như thực vật - thực chất là động vật, và chúng mang nhiều hình dạng khác nhau để thích nghi với cuộc sống dưới làn nước sâu."
+    },
+    {
+     "t": "p",
+     "text": "San hô tám ngăn (octocoral) là một nhóm riêng biệt gồm hơn 3.000 loài, được đặt tên theo tính đối xứng tám cánh của những polyp nhỏ xếp dọc theo các nhánh của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Chúng là một nhóm rất đa dạng, và trong số đó có cả những tập đoàn kỳ lạ không kém – vì vậy khi loài Laurinque được tìm thấy ở độ sâu 360 đến 529 mét trong các đợt lặn năm 2019 và 2023, các nhà khoa học cũng không bất ngờ khi phát hiện nó có vài điểm khác thường."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Laurinque không chỉ là một \"bà dì lập dị\" khác trong một gia đình vốn đã toàn những thành viên kỳ quặc."
+    },
+    {
+     "t": "p",
+     "text": "Các tập đoàn của loài này có thể cao hơn một mét và rộng tới 1,2 mét, với cấu trúc phân nhánh dày đặc được bao phủ bởi những polyp dài bất thường – đó là những sinh vật nhỏ xíu cùng nhau tạo nên một tập đoàn san hô."
+    },
+    {
+     "t": "p",
+     "text": "Những polyp này có thể thu một phần vào bên trong các nhánh, và các cấu trúc xương siêu nhỏ nâng đỡ san hô, gọi là sclerite, lại có hình dạng vô cùng đa dạng và đặc biệt."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tất cả những đặc điểm này – vốn chỉ xuất hiện riêng lẻ ở các nhóm san hô tám tua (octocoral) khác nhau, chứ chưa từng cùng xuất hiện ở một loài duy nhất như thế này – khiến việc xếp Laurinque vào bất kỳ họ san hô tám tua nào đã biết trở nên khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Và ADN của nó chỉ càng làm cho bí ẩn thêm rắc rối."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã phân tích ba dấu hiệu di truyền (genetic marker) từ ADN của san hô này, so sánh chúng với trình tự gen của các loài san hô tám tua khác để xem mẫu vật bí ẩn của họ thuộc về đâu trên cây tiến hóa."
+    },
+    {
+     "t": "p",
+     "text": "Họ tìm được một kết quả khớp trên một gen ty thể (mitochondrial gene)."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, họ lại tìm được một kết quả khớp khác trên gen ty thể còn lại."
+    },
+    {
+     "t": "p",
+     "text": "Thông thường, đây sẽ là tin tốt – một kết quả chắc chắn giúp xếp một loài khó xác định vào đúng nhóm của nó một cách rõ ràng."
+    },
+    {
+     "t": "p",
+     "text": "Thật không may, cả hai mã di truyền đánh dấu lại trùng khớp với hai họ san hô tám tay (octocoral) khác nhau. Một mã cho thấy nó thuộc họ Incrustatidae rất rõ ràng. Mã khác lại cho kết quả thuộc họ Eunicellidae cũng rõ ràng không kém."
+    },
+    {
+     "t": "p",
+     "text": "Và họ cũng không thể dùng mã di truyền thứ ba – ADN ribosome (ribosomal DNA) – để phân định, vì kết quả của nó cực kỳ mơ hồ, chẳng nghiêng về bên nào."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, sau nhiều năm không tìm ra câu trả lời, các nhà khoa học phải dùng đến \"vũ khí hạng nặng\" – thu thập thêm mẫu vật mới, rồi phân tích hàng trăm vùng gene từ loài san hô Laurinque. Và cuối cùng, cách này đã cho ra kết quả."
+    },
+    {
+     "t": "p",
+     "text": "Breedy và các đồng nghiệp phát hiện rằng loài san hô này có quan hệ gần với họ Eunicellidae – nhưng vẫn khác biệt với họ đó. Đây là loài đầu tiên được biết đến thuộc họ san hô mới: Laurinqueidae."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi nhìn thấy khu vườn san hô tám tay này lần đầu vào năm 2019, và tôi đã bị ấn tượng bởi vẻ đẹp của cảnh quan nơi đây, điều này sau đó đã gợi cảm hứng để đặt cho loài này một cái tên mang âm hưởng tiếng Elf (elvish). Tôi từng nghĩ loài này có thể thuộc về một họ và chi đã biết, nhưng sau khi phân tích sơ bộ về hình thái, tôi nhận ra đây là một thứ rất khác biệt, không khớp với bất kỳ nhóm phân loại nào đã được biết đến,\" Breedy chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "\"Năm 2023, chúng tôi thu thập thêm nhiều mẫu vật, và nhờ những phân tích phân tử (molecular analysis) kỹ lưỡng của các đồng nghiệp là Cathy McFadden, Catalina Murillo và Andrea Quattrini, chúng tôi đã có thể xác định được vị trí phân loại của loài tuyệt đẹp này, tại một trong những nơi bí ẩn nhất.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nhưng phát hiện này không chỉ đơn giản là tìm ra một họ san hô hoàn toàn mới."
+    },
+    {
+     "t": "p",
+     "text": "Những khu vườn san hô vàng này mọc lên trong vùng nước có nồng độ oxy cực thấp, ở nhiệt độ từ 8 đến 11 độ C."
+    },
+    {
+     "t": "p",
+     "text": "Những điều kiện này đáng lẽ sẽ không phù hợp cho nhiều loài sinh vật, nhưng loài Laurinque vẫn tạo nên những khu rừng dưới nước tinh xảo như huyền thoại, với các nhánh san hô vươn lên trên một đáy biển gần như bị che phủ hoàn toàn bởi loài sao biển dễ gãy (brittle star)."
+    },
+    {
+     "t": "p",
+     "text": "Những khu vườn san hô như vậy là môi trường sống quan trọng ở vùng biển sâu. Cấu trúc ba chiều phức tạp của chúng tạo nơi trú ẩn, kiếm ăn và sinh sống cho các loài động vật khác, giúp duy trì sự đa dạng sinh học ở một môi trường vô cùng khắc nghiệt."
+    },
+    {
+     "t": "p",
+     "text": "Và Laurinque có thể không chỉ xuất hiện ở Costa Rica. Các nhà nghiên cứu cho biết có thể đã có người nhìn thấy loài này ở Panama và quần đảo Galápagos, nhưng những lần nhìn thấy đó vẫn chưa được xác nhận."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, cây vàng của những vì sao vẫn là một lời nhắc nhở đầy xúc động và kỳ diệu về việc còn rất nhiều sinh vật trên Trái Đất mà chúng ta chưa khám phá ra – ngay cả ở những nơi mà sự sống tưởng như gần như không thể tồn tại."
+    }
+   ]
+  },
+  {
+   "id": "a7ed423ab2d6",
+   "order": 2,
+   "slug": "nho-be-nhung-du-dan",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Nhỏ bé nhưng dữ dằn",
+   "sapo": "Một loài mèo nhỏ mới đã được xác định. Nó được gọi là tilcayo. Các nhà khoa học công bố loài này trong một nghiên cứu vào ngày 17 tháng 9. Phát hiện này rất thú vị. Đây là loài mèo hoang mới đầu tiên được tìm thấy trong hơn 100 năm qua. Loài…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g2/small-but-fierce-g2/",
+   "published": "2026-10-16T13:30:25+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 172,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Small but Fierce",
+   "images": [
+    {
+     "src": "img/2026-10-17/a7ed423ab2d6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một loài mèo nhỏ mới đã được xác định. Nó được gọi là tilcayo. Các nhà khoa học công bố loài này trong một nghiên cứu vào ngày 17 tháng 9. Phát hiện này rất thú vị. Đây là loài mèo hoang mới đầu tiên được tìm thấy trong hơn 100 năm qua. Nghiên cứu này xoay quanh một con mèo tên là Tigrino. Nó sống tại Khu bảo tồn động vật hoang dã Senda Verde, ở Bolivia. Mọi người từng cho rằng nó thuộc loài oncilla. Nhưng nó nhỏ hơn. Những đốm trên lông của nó cũng khác. Vì vậy các nhà khoa học đã nghiên cứu DNA của nó. Họ nhận ra Tigrino là một loài mèo hoàn toàn mới."
+    },
+    {
+     "t": "p",
+     "text": "Marcelo Levy là người đồng sáng lập Senda Verde. Ông hy vọng phát hiện này sẽ giúp mọi người quan tâm hơn đến các loài mèo hoang dã. \"Nó là một con vật rất nhỏ,\" Levy nói về Tigrino. \"Và nó đã trở thành một điều vô cùng quan trọng.\""
+    }
+   ]
+  },
+  {
+   "id": "b67cd8c514c6",
+   "order": 3,
+   "slug": "viec-do-bo-dap-dang-giup-ca-tro-lai-khap-vung-dong-bac-nuoc",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Việc dỡ bỏ đập đang giúp cá trở lại khắp vùng đông bắc nước Mỹ, từng rào chắn nhỏ một",
+   "sapo": "Trong khi việc phá dỡ các đập lớn ở miền Tây nhận được nhiều sự chú ý hơn, nhiều công trình cản nước đã lỗi thời này cũng đang được dỡ bỏ khỏi các con suối và dòng sông ở vùng đông bắc—và cá trích đang quay trở lại từng đàn lớn",
+   "author": "REPRINT AUTHOR PLACEHOLDER",
+   "source_name": "Smithsonian",
+   "source_url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+   "published": "2026-10-16T17:15:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 3344,
+   "translated": true,
+   "translated_from": "Smithsonian",
+   "title_original": "Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time",
+   "images": [
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-0.jpg",
+     "caption": "Đập chặn dòng chảy của sông để giữ nước trong hồ chứa, phục vụ cho nông nghiệp, giải trí, sinh hoạt gia đình hoặc công nghiệp. Dòng nước chảy qua đập có thể tạo ra thủy điện. Những con đập cũ kỹ đang bị tháo dỡ khắp cả nước, giúp khôi phục dòng chảy tự nhiên của các con sông. Jukka Jantunen / Shutterstock",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-1.jpg",
+     "caption": "Đập Talbot Mills ở Billerica, Massachusetts—trong bức ảnh chụp năm 1908 này—đã gây khó chịu cho các nhà bảo vệ môi trường, nông dân và các loài cá bản địa trong suốt nhiều thế kỷ. Ảnh thuộc phạm vi công cộng, qua Thư viện công cộng Billerica",
+     "w": 1072,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-2.jpg",
+     "caption": "Sau khi đập này và các đập khác bị dỡ bỏ khỏi sông Elwha ở bang Washington, các loài cá hồi vắng bóng từ lâu đã ồ ạt quay trở lại. Trish Drury / Alamy Stock Photo",
+     "w": 1072,
+     "h": 718
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-3.jpg",
+     "caption": "Cá trích alewife đã chịu nhiều thiệt hại khi những người định cư mở rộng sự hiện diện của họ ở Bắc Mỹ. Schuchart / Shutterstock",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-4.jpg",
+     "caption": "Nathan Furey, nhà sinh học về cá tại Đại học New Hampshire, đang tìm cách đo lường số lượng cá trích alewife và các loài cá khác quay trở lại các dòng sông vùng New England sau khi đập bị dỡ bỏ. Ben Goldfarb",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-5.jpg",
+     "caption": "Một con cá trích đang di cư. Cami Johnson / Shutterstock",
+     "w": 1072,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-17/b67cd8c514c6-6.jpg",
+     "caption": "Một số người dân và những người yêu thích lịch sử từng lập luận nên giữ lại và sửa chữa đập Mill Pond đang xuống cấp trên sông Oyster của New Hampshire, nhưng cuối cùng lý do về sinh thái và tài chính để phá bỏ đập đã chiến thắng. Ben Goldfarb",
+     "w": 1072,
+     "h": 804
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ben Goldfarb, bioGraphic"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm 1859, một nhóm nông dân ở Billerica, Massachusetts, vì quá bực bội với một con đập trên sông Concord, đã thuê một người đo đạc để tìm lý do chính đáng cho việc phá bỏ nó. Con đập này cung cấp năng lượng cho một nhà máy dệt thuộc sở hữu của nhà công nghiệp tên Charles Talbot, và được cho là đang gây ngập ruộng đồng và làm hỏng cỏ khô của họ; giờ đây họ muốn bức tường chắn và hồ chứa của nó biến mất. Họ hy vọng bằng chứng của người đo đạc sẽ thuyết phục được tòa án ra lệnh phá hủy nó. Người đo đạc—một người có tiếng tốt, cẩn trọng và có bộ râu rậm—bắt đầu công việc đo đáy sông Concord, đo các cây cầu và xem xét các vết nước cao. Thực ra, ông không thích công việc này lắm, và từng gọi việc đo đạc là \"công việc nhàm chán\" trong các trang nhật ký của mình. Đam mê thực sự của Henry David Thoreau, tất nhiên, không phải là đo đạc đất đai, mà là viết về nó."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài tiền công, tác giả nổi tiếng này còn có một động lực khác để nhận công việc ở sông Concord: Ông rất ghét đập Talbot Mills. Mười năm trước đó, Thoreau đã xuất bản cuốn du ký A Week on the Concord and Merrimack Rivers, trong đó ông lên tiếng phản đối con đập vì đã ngăn cản đường di cư của các loài cá đẻ trứng, đặc biệt là cá shad Mỹ. \"Cá shad tội nghiệp! Ngươi tìm đâu công lý?\" Thoreau viết. Mặc dù các khảo sát của Thoreau ủng hộ lý lẽ của nông dân, nhưng khi kháng cáo, bang Massachusetts vẫn cho phép con đập tồn tại. Điều này chắc không làm Thoreau bất ngờ, vì ông hiểu rằng các con đập là những đối thủ khó lòng khuất phục. \"Có lẽ, sau vài nghìn năm, nếu các loài cá chịu kiên nhẫn và tạm trú ở nơi khác trong mùa hè, thiên nhiên cuối cùng sẽ san bằng đập Billerica,\" ông viết."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, với nhiều con đập cản đường cá, hóa ra không cần đến \"vài nghìn năm\" để san bằng chúng. Từ năm 1912, hơn 2.300 con đập đã bị loại bỏ khỏi các tuyến đường nước ở Hoa Kỳ, phần lớn trong một phần tư thế kỷ gần đây. Phong trào dỡ bỏ đập đạt đỉnh điểm vào năm 2024, khi theo thống kê của tổ chức phi lợi nhuận American Rivers, việc dỡ bỏ các con đập đã kết nối lại hơn 4.000 km đường nước từng bị chia cắt. Vụ phá dỡ đập lớn nhất và được công bố rộng rãi nhất trong năm diễn ra trên sông Klamath, nơi việc tháo dỡ bốn con đập thủy điện cũ đã mở ra hơn 640 km môi trường sinh sản ở California và Oregon cho cá hồi chinook, loài đã tái định cư lưu vực sông này nhanh đến mức các nhà bảo tồn gọi sự hồi sinh này là \"kỳ diệu\". Trước Klamath, việc dỡ đập lớn nhất của cả nước diễn ra trên sông Elwha ở bang Washington, nơi hai bức tường chặn cá đã bị phá bỏ để cứu cá hồi chinook, coho, steelhead và các loài cá hồi khác."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nhưng sẽ là sai lầm nếu nghĩ rằng việc dỡ bỏ đập chủ yếu mang lại lợi ích cho các dòng sông cá hồi ở miền Tây. Mặc dù thường có quy mô nhỏ hơn và ít được chú ý hơn, phần lớn các vụ dỡ đập lại diễn ra ở các bang miền Đông. Năm 2024, đập Blake Higgins đã bị phá bỏ ở Vermont, đập Edes Falls biến mất khỏi sông Crooked ở Maine, và đập Kimball Brook cũng không còn tồn tại ở New Hampshire. Năm đó, Pennsylvania đã dỡ bỏ 27 rào chắn lỗi thời, không cái nào cao hơn khoảng 6 mét. Ngay cả đập Talbot Mills có tuổi đời ba thế kỷ từng làm Thoreau phiền lòng cũng có thể sẽ sớm bị dỡ bỏ."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng ta đang ở trong thời kỳ phục hưng của việc dỡ bỏ đập, khi lần đầu tiên trong lịch sử, số rào chắn bị loại bỏ nhiều hơn số được xây mới,\" Nathan Furey, nhà sinh học về cá tại Đại học New Hampshire, cho biết. Tuy nhiên, theo một bản kiểm kê, vẫn còn ít nhất 35.000 con đập đang cắt ngắn các tuyến di cư của cá ở vùng đông bắc, trong đó có hơn 3.000 đập ở Massachusetts, 5.000 đập ở Connecticut và 9.000 đập ở New York."
+    },
+    {
+     "t": "p",
+     "text": "Những con số: Việc dỡ bỏ đập trên sông Klamath"
+    },
+    {
+     "t": "p",
+     "text": "Dự án trị giá 500 triệu đô la nhằm dỡ bỏ bốn con đập trên sông Klamath ở California và Oregon đã diễn ra trong khoảng hai năm, và đến tháng 8 năm 2024 thì dòng sông đã chảy tự do. Công việc này đã mở ra 640 km môi trường sống cho cá hồi, và hàng nghìn con cá đã đi qua vị trí đập cũ trong cả năm 2024 và 2025."
+    },
+    {
+     "t": "p",
+     "text": "Trong số các bang đang phá dỡ đập, dù diễn ra từ từ, có New Hampshire, và vào một sáng cuối tháng Tư, tôi đã lên xe cùng Furey để đi tham quan vài con sông vừa được khôi phục dòng chảy tự do. Furey đến bang Granite này vào năm 2018 với tư cách là người mới trong lĩnh vực dỡ bỏ đập, vì phần lớn nghiên cứu sau đại học của ông được thực hiện trên các dòng sông cá hồi Thái Bình Dương tương đối ít bị tác động ở British Columbia. \"Nhưng khi bạn là chuyên gia về cá ở Đại học New Hampshire, người ta muốn bạn cho họ biết điều gì sẽ xảy ra khi một con đập bị dỡ bỏ,\" ông nói khi lái xe qua những con phố rợp bóng cây của Durham. \"Có rất nhiều người đang mong chờ câu trả lời từ bạn.\""
+    },
+    {
+     "t": "p",
+     "text": "Khu vực Furey phụ trách là lưu vực Great Bay, một cửa sông chịu ảnh hưởng thủy triều, được nuôi dưỡng bởi mạng lưới bảy con sông chính. Trước đây, những dòng sông này đầy ắp nhiều loài cá di cư (diadromous fishes) - những loài sống một phần đời ở nước ngọt và một phần ở biển. Trong số đó có cá hồi Đại Tây Dương, cá shad, cá lamprey biển, lươn Mỹ, cá tomcod, cá tầm, và đông nhất là cá alewife và cá blueback, một cặp loài cá bạc dài khoảng 30cm, gọi chung là cá trích sông (river herring). Cá mập, cá vược sọc, cá tuyết, hải cẩu, chim biển và nhiều loài săn mồi khác thường ăn thịt cá trích sông khi chúng tiến vào cửa sông mỗi mùa xuân, và cá hồi Đại Tây Dương con thậm chí có thể đã canh thời điểm rời sông ra biển trùng với lúc cá alewife quay về. Trong khi chim cốc và rái cá mải mê ăn cá alewife, thì cá hồi con lại lặng lẽ trôi xuôi dòng mà không bị phát hiện. Số đông mang lại sự an toàn, và cá alewife từng có số lượng nhiều đến mức, trước khi sụp đổ, một nhà sử học đã gọi chúng là \"bồ câu viễn khách của biển cả\"."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Giống như loài chim cùng tên gọi ví von đó, cá alewife cũng gặp vận rủi thảm khốc trong thời kỳ thực dân hóa Bắc Mỹ. Bắt đầu từ thế kỷ 17, những người thực dân ở miền đông đã ồ ạt xây đập, ngăn dòng và khai thác sức nước để quay bánh xe nước, vận hành các nhà máy - nhà máy xay để nghiền ngô, xưởng cưa để xẻ gỗ, nhà máy giấy để nghiền bột gỗ, nhà máy dệt để quay sợi vải. Đến giữa thế kỷ 19, hơn 65.000 nhà máy đã chặn ngang các con suối ở miền đông, gây ra hậu quả thảm khốc. Các nhà khoa học tính toán rằng trong suốt bốn thế kỷ qua, các con đập ở New England đã khiến hệ sinh thái nơi đây mất đi gần 9 tỷ kg cá alewife - tương đương trọng lượng của khoảng 300.000 con cá voi lưng gù."
+    },
+    {
+     "t": "p",
+     "text": "Để cho tôi thấy điều gì xảy ra khi một trong những bức tường chặn cá đó bị dỡ bỏ, Furey đưa tôi đến sông Bellamy, nơi dòng nước sủi bọt từng bị một khu nhà gạch rộng lớn - trụ sở cũ của nhà máy dệt len Sawyer - án ngữ ngang qua. Nhà máy dệt này đã ngừng hoạt động từ lâu và được cải tạo thành căn hộ vào thập niên 1980, nhưng hai con đập của nó vẫn còn đó, ép dòng sông Bellamy chảy qua một đường ống hẹp chặn cá. Khi ngày càng cũ kỹ, các con đập này còn trở thành mối nguy gây lũ lụt, và vào năm 2019 và 2020, một liên minh gồm các cơ quan nhà nước, tổ chức phi lợi nhuận và chủ sở hữu khu căn hộ đã phá dỡ chúng. Giờ đây, dòng sông được giải phóng cuồn cuộn chảy bên dưới tòa nhà gạch khổng lồ, xối qua lòng sông đã được tạo lại hình dạng với những hồ nước và hốc đá lổn nhổn."
+    },
+    {
+     "t": "p",
+     "text": "Những con đập đã biến mất từ lâu, nhưng liệu cá trích có thể vượt qua chướng ngại vật mà chúng để lại hay không? \"Cá alewife không phải cá hồi - chúng không thể nhảy,\" Furey giải thích giữa tiếng ầm ào của sông Bellamy. \"Chúng không phải loài bơi khỏe, mạnh mẽ như cá tầm; cũng không phải loài lươn có thể trèo và bò.\" Sau khi các con đập bị dỡ bỏ, bang đã cố gắng đếm số cá alewife quay về bằng cách quan sát trực tiếp - nói cách khác là đứng nhìn dòng sông và đếm cá, một phương pháp rõ ràng là thiếu chính xác. \"Chúng tôi hoàn toàn không biết có bao nhiêu con cá quay về đây,\" Furey nói."
+    },
+    {
+     "t": "p",
+     "text": "Furey được giao nhiệm vụ trả lời câu hỏi đó. Anh và các sinh viên của mình sẽ bắt cá alewife khi chúng vào sông Bellamy và cấy vào chúng các thiết bị theo dõi, trong đó có những con chip nhỏ cỡ hạt gạo gọi là thẻ PIT (passive integrated transponder - bộ phát đáp tích hợp thụ động), để tìm hiểu xem bao nhiêu phần trăm số cá trích quay về có thể len lỏi qua được đoạn ghềnh thác. Chúng tôi đi bộ qua khu căn hộ rồi ngược dòng để xem các thành viên trong phòng thí nghiệm của Furey lắp đặt máy đọc thẻ PIT, thiết bị sẽ ghi nhận từng con cá. Một hộp kim loại chứa pin và máy ghi được xích vào một thân cây gần bờ sông; từ đó, một sợi cáp chạy ra đoạn nước xiết, sẵn sàng ghi lại số serial của bất kỳ con cá alewife nào đã được gắn thẻ bơi qua: một công nghệ hiện đại để giám sát một loài cá cổ xưa."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trong lúc các đồng nghiệp của Furey loay hoay lắp đặt hệ thống đọc thẻ PIT, họ được những cư dân của khu căn hộ Sawyer Mills tò mò quan sát, nhiều người trong số đó đã mang bữa trưa ra ngoài để tận hưởng ngày xuân ấm áp. Trong khi những cuộc di cư khác của động vật hoang dã, như những chuyến bay xuyên bán cầu của chim nhạn biển Bắc Cực, diễn ra phần lớn ngoài tầm mắt con người, thì các loài cá di cư ở New England lại thường đi qua ngay giữa các khu dân cư và sân sau nhà người ta. \"Chúng không cần môi trường hoang sơ, nguyên vẹn - chúng có thể sống ngay tại đây,\" Furey nói."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều đàn cá hồi ở bờ Tây nước Mỹ đã sụp đổ chỉ trong vòng đời một con người có thể nhớ được, nhưng các con sông ở New England đã bị chặn đứng từ lâu đến mức ít cư dân nào còn biết rằng chúng từng lấp lánh ánh bạc của cá blueback, cá alewife và cá shad. \"Thật khó để nói chuyện với mọi người về những loài cá này, vì họ chẳng còn chút ký ức văn hóa nào về chúng,\" Furey nói. Vì vậy, sự suy giảm của các loài cá thường trở thành một vòng luẩn quẩn tự củng cố: cá càng ít, công chúng càng ít quan tâm đến chúng - một vòng phản hồi mà hai nhà sinh vật học John Waldman và Karin Limburg gọi là tình trạng \"phi chuẩn mực sinh thái - xã hội\" (eco-social anomie)."
+    },
+    {
+     "t": "p",
+     "text": "Việc dỡ đập thường được gọi là đưa sông trở lại hoang dã, nhưng nó cũng giải phóng trí tưởng tượng của con người. Trong một bài báo năm 2014, nhà sinh thái học Loren McClenachan và các đồng nghiệp đã công bố những cuộc phỏng vấn với người dân Maine sống dọc các con sông nơi đàn cá trích hồi (alewife) đã được phục hồi, trong đó có sông Sebasticook, nơi gần hai triệu con cá trích đã bơi lên ngay sau khi một con đập được dỡ bỏ vào năm 2008. Những người được McClenachan phỏng vấn đều vui mừng: Sự trở lại của đàn cá trích đã khơi dậy niềm tự hào, tạo ra thu nhập từ đánh cá và du lịch, và củng cố các mối gắn kết xã hội khi trẻ em và những người đánh bắt tôm hùm cùng tụ tập xem cá ngược dòng. Nếu tình trạng \"lãng quên sinh thái - xã hội\" miêu tả việc cả một xã hội quên đi điều gì đó, thì việc dỡ đập lại tạo ra điều ngược lại — một \"sự nhớ lại chung\", như cách McClenachan gọi, giúp chữa chứng mất trí nhớ tập thể và điều chỉnh lại những \"điểm chuẩn\" mà chúng ta vẫn quen coi là bình thường."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Việc phá bỏ các con đập lớn trên dòng chính mang lại kết quả ấn tượng, nhưng còn rất nhiều vật cản nhỏ hơn cũng cần được xử lý. Năm 2025, 12 năm sau khi hai con đập bị phá bỏ, một con số đáng kinh ngạc là sáu triệu con cá trích sông đã trở lại sông Penobscot của Maine — gấp đôi con số chỉ hai năm trước đó. Nhưng mặc dù đoạn hạ lưu của dòng chính con sông đã chảy tự do suốt 64 km, hệ thống các nhánh sông nhỏ như mao mạch của nó vẫn còn \"bị bỏ quên phần nào\", theo lời Joshua Royte, nhà khoa học bảo tồn cấp cao tại tổ chức Nature Conservancy. Dù bộ lạc Penobscot Nation và nhiều tổ chức khác đã dỡ bỏ không ít rào cản, nhưng hàng chục con đập cối xay cũ và những cống ngầm quá nhỏ vẫn đang làm nghẽn các nhánh đầu nguồn chằng chịt của lưu vực, cản trở các loài cá di cư tiếp cận một số khu vực quan trọng nhất về sinh thái của lưu vực này — bãi đẻ của cá lamprey biển và cá hồi, những nơi trú ẩn nước lạnh cho cá hồi suối, hay những hang hốc rợp bóng lá cây nuôi dưỡng các loài không xương sống dưới nước."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu bạn bảo vệ và kết nối những mạng lưới rộng lớn của các vùng đầu nguồn này, bạn có thể duy trì sự trù phú trên suốt dòng chảy xuống hạ lưu,\" Royte nói. \"Một nhánh sông nước lạnh chỉ dài chừng 400 mét cũng có thể vô cùng quan trọng.\""
+    },
+    {
+     "t": "p",
+     "text": "Hãy xem trường hợp của suối Sedgeunkedunk, một nhánh của sông Penobscot, nơi việc dỡ đập đã mở lại khoảng 4,5 km suối và giúp tăng số lượng cá lamprey biển bản địa. Cá lamprey biển, giống như cá hồi Thái Bình Dương, tích lũy nitơ và phốt pho trong thời gian sống ở biển, rồi chết sau khi di cư vào sông để sinh sản. Xác của chúng là thức ăn cho các loài động vật như rùa cắn và gấu mèo, và những chất dinh dưỡng có nguồn gốc từ biển trong cơ thể chúng giúp bón phân cho tảo và rừng cây. Nhà sinh thái học Steve Coghlan, người nghiên cứu sự phục hồi của cá lamprey ở Sedgeunkedunk, từng kể với tôi về cảnh ông quan sát loài cá có hình dáng như lươn này đẻ trứng, chúng dùng miệng ngoạm từng viên đá một và đặt chúng vào vị trí hết sức cẩn thận trong ổ đẻ của mình. Phía sau đám cá lamprey đang \"yêu nhau\" ấy là từng đàn cá shiner, dace và fallfish lượn lờ chờ đợi như đang xếp hàng chờ ăn buffet, chờ trứng cá và những con côn trùng nước bị cá lamprey khuấy động trôi ra — một mối quan hệ cộng sinh tinh tế đã trỗi dậy khi một bức tường đổ xuống."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, dù những con sông chảy tự do mang nhiều lợi ích, nhiều người dân New England vẫn gắn bó với những con đập của họ như thời của nhà văn Thoreau. Sau khi dừng chân ở sông Bellamy, Furey đưa tôi đến sông Oyster, nơi một bức tường có tuổi đời cả trăm năm gọi là đập Mill Pond đã làm dòng sông loang rộng ra và chảy chậm lại — chỉ là một trong một loạt các con đập đã chặn dòng sông này từ những năm 1600. Nước tràn qua mép đập một cách duyên dáng và sủi bọt ở phía dưới, một cảnh tượng mà tôi phải thừa nhận là rất đẹp. Chúng tôi đi xem đường cho cá (fishway), một đường dốc mà qua đó cá trích sông và các loài khác có thể vượt qua đập — tuy nhiên, Furey chỉ ra rằng những loài cá lớn như cá tầm có lẽ không thể vượt qua các góc hẹp của đường cho cá này, hay thậm chí không lọt qua được lòng kênh hẹp của nó. Đường cho cá cũng không ngăn được việc ao nước trở thành một vũng nước ấm, thiếu oxy vào mùa hè, hay ngăn được các loài chim diệc và những kẻ săn mồi khác bắt những con cá trích con đang di cư ra biển khi chúng vật vã bơi qua vùng nước tù của ao."
+    },
+    {
+     "t": "p",
+     "text": "Con đập đã không còn phục vụ mục đích công nghiệp nào trong nhiều thập kỷ. Nhưng không phải ai cũng muốn phá bỏ nó. Trên một bãi cỏ bên kia mặt nước lặng như gương của sông Oyster, một tấm biển viết toàn chữ in hoa khẳng khái: \"HÃY GIÚP CỨU ĐẬP MILL POND.\" Hàng chục dự án dỡ đập đã bị ngăn cản hoặc trì hoãn bởi những người dân địa phương yêu thích con đập của mình, đôi khi được gọi là NOOMBY — viết tắt của \"Không Phải Ở Ngoài Sân Sau Nhà Tôi\" (Not Out of My Backyard). Nhiều người theo trường phái NOOMBY coi những con đập địa phương là mối liên kết không thể thiếu với lịch sử của cộng đồng mình; ở Billerica, một số quan chức thành phố đã phản đối việc phá bỏ đập Talbot Mills với lý do rằng \"nó từ lâu đã là biểu tượng của Cách mạng Công nghiệp\" và vẫn \"chắc chắn là một trong những điểm nhấn quan trọng nhất của khu vực.\" Các con đập và hồ chứa nước cũng mang lại giá trị giải trí: Chúng là khung cảnh đẹp, với mặt nước lặng, nơi người ta chèo thuyền kayak, cho vịt ăn và dạy con mình câu cá sunfish."
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "7c4a12a960c2",
+   "order": 4,
+   "slug": "con-gai-bien-ho-chieu-cua-cha-qua-co-thanh-tac-pham-nghe-thu",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Con gái biến hộ chiếu của cha quá cố thành tác phẩm nghệ thuật",
+   "sapo": "Không muốn cuốn hộ chiếu của người cha đã mất bị lãng quên, nữ họa sĩ Radhika Chitalia vẽ lên những trang giấy còn trống, tiếp nối giấc mơ du lịch vòng quanh thế giới của ông.",
+   "author": "Mai Phương (",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/con-gai-bien-ho-chieu-cua-cha-qua-co-thanh-tac-pham-nghe-thuat-5133144.html",
+   "published": "2026-10-16T17:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 798,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/7c4a12a960c2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-17/7c4a12a960c2-0.jpg",
+     "caption": "Bức vẽ đè lên dấu mộc, thị thực trong hộ chiếu. Ảnh: Radhika Chitalia",
+     "w": 1020,
+     "h": 735
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Không muốn cuốn hộ chiếu của người cha đã mất bị lãng quên, nữ họa sĩ Radhika Chitalia vẽ lên những trang giấy còn trống, tiếp nối giấc mơ du lịch vòng quanh thế giới của ông."
+    },
+    {
+     "t": "p",
+     "text": "Dự án P455P0RT - Painting on a Passport của họa sĩ Radhika Chitalia, sống tại Copenhagen, Đan Mạch, được các trang nghệ thuật tại Mỹ, Ấn Độ và Pháp giới thiệu từ tháng 8 đến tháng 9. Những bức tranh được thực hiện trên cuốn hộ chiếu cũ của cha cô, kết hợp dấu xuất nhập cảnh từ các chuyến đi trước đây với những hình ảnh tượng trưng cho các hành trình ông chưa kịp thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Gần 10 năm sau khi cha qua đời, Radhika Chitalia, họa sĩ minh họa gốc Ấn Độ sống tại Copenhagen, Đan Mạch, cùng gia đình sắp xếp lại những đồ vật ông để lại. Trong số đó có cuốn hộ chiếu đã hết hạn, được cất trong hộp suốt nhiều năm, lưu giữ những chuyến đi trước đây của cha cô, với nhiều thị thực và dấu xuất nhập cảnh. Xen giữa những trang giấy đã được sử dụng là các khoảng trống, gợi nhắc về những hành trình ông chưa kịp thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Cha của Radhika vốn yêu thích du lịch. Ông và vợ từng lên kế hoạch dành những năm tháng nghỉ hưu để cùng nhau khám phá thế giới. Tuy nhiên, ông qua đời trước khi hai người có thể thực hiện dự định."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong bài đăng trên Instagram cá nhân ngày 31/7, Radhika cho biết cô không nỡ bỏ đi cuốn hộ chiếu bởi nó gợi nhớ tình yêu du lịch của cha, những lời hứa về các chuyến phiêu lưu khi nghỉ hưu và những địa điểm ông chưa từng đặt chân đến. Radhika mang cuốn hộ chiếu về Đan Mạch, tìm cách biến nó thành một kỷ vật có ý nghĩa với gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Từ bức vẽ đầu tiên, dự án dần mở rộng đến 16 trang hộ chiếu. Cô vẽ trực tiếp lên hộ chiếu bằng màu gouache, loại màu nước có độ che phủ cao, phù hợp với những hình ảnh nhiều chi tiết. Những nét vẽ xuất hiện trên các trang còn trống, xen giữa dấu xuất nhập cảnh và thị thực cũ."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, nữ họa sĩ không có ý định giới thiệu tác phẩm rộng rãi. Cô thực hiện dự án chủ yếu cho bản thân, mẹ và chị hoặc em gái, để cả gia đình có một kỷ vật thay vì chỉ giữ lại tập giấy tờ cũ."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi chia sẻ quá trình sáng tác trên Instagram, Radhika nhận được hàng trăm nghìn lượt tương tác từ người xem. Không ít người kể về những đồ vật họ giữ lại sau khi mất người thân, như giấy tờ, thư từ hoặc vật dụng cá nhân. Một số cho biết câu chuyện truyền cảm hứng để họ tìm cách lưu giữ các kỷ vật của gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Nữ họa sĩ cho biết việc không phải đáp ứng yêu cầu của khách hàng hay thời hạn hoàn thành giúp cô tự do thử nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi trang hộ chiếu gần giống một trang nhật ký, thể hiện suy nghĩ và cảm xúc cá nhân\", nữ họa sĩ nói."
+    },
+    {
+     "t": "p",
+     "text": "Dự án cũng thôi thúc cô tiếp tục sáng tác trên những giấy tờ khác của cha, trong đó có học bạ và các loại chứng nhận cũ. Những tài liệu vốn mang tính hành chính được biến thành tác phẩm hội họa, nhưng vẫn giữ lại dấu vết của chủ nhân."
+    },
+    {
+     "t": "p",
+     "text": "Radhika là nhà thiết kế đồ họa kiêm họa sĩ minh họa, đã sinh sống và làm việc tại Copenhagen khoảng 13 năm. Bên cạnh các dự án thiết kế thương mại, cô thường khai thác chủ đề ký ức, tâm lý, cảm xúc và mối liên hệ giữa con người với những vật dụng quen thuộc."
+    },
+    {
+     "t": "p",
+     "text": "Đối với nữ họa sĩ, cuốn hộ chiếu không đơn thuần là chất liệu hội họa. Những thị thực và dấu mộc lưu lại các điểm đến trong quá khứ, còn hình ảnh được vẽ thêm là cách cô tưởng tượng về những hành trình chưa từng diễn ra."
+    },
+    {
+     "t": "p",
+     "text": "\"Cuốn hộ chiếu trở thành nhiều hơn một bề mặt để vẽ. Nó vốn đã mang trong mình lịch sử của cha tôi, và những bức tranh dần trở thành cách lấp đầy các trang giấy bằng những câu chuyện mới\", Radhika nói."
+    },
+    {
+     "t": "p",
+     "text": "Dù không thể đưa cha đến những nơi ông từng mong ước, Radhika đã tìm được cách tiếp nối niềm đam mê du lịch của ông, bằng những hành trình được kể qua tranh vẽ."
+    },
+    {
+     "t": "p",
+     "text": "Mai Phương ( Theo Colossal, The Indian Express )"
+    }
+   ]
+  },
+  {
+   "id": "6bf68aeb0fbe",
+   "order": 5,
+   "slug": "dung-vi-khuan-bien-cat-roi-thanh-vat-lieu-xay-dung",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Dùng vi khuẩn biến cát rời thành vật liệu xây dựng",
+   "sapo": "Nhóm nghiên cứu tại Thụy Sĩ dùng vi khuẩn tạo chất kết dính giữa các hạt cát, kết hợp in 3D để làm vật liệu xây dựng có hình dạng theo thiết kế.",
+   "author": "HOÀNG THI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/dung-vi-khuan-bien-cat-roi-thanh-vat-lieu-xay-dung-100261015121222116.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 538,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/6bf68aeb0fbe-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/6bf68aeb0fbe-0.jpg",
+     "caption": "Cánh tay robot lần lượt phun vi khuẩn, các chất tạo khoáng và cát lên bề mặt để tạo vật liệu từng lớp - Ảnh: ETH ZURICH",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-17/6bf68aeb0fbe-1.jpg",
+     "caption": "Tấm vách được chế tạo bằng cách kết hợp in 3D với quá trình vi khuẩn tạo khoáng chất gắn kết các hạt cát - Ảnh: ETH ZURICH",
+     "w": 1280,
+     "h": 640
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ những hạt cát rời, các nhà nghiên cứu tại Viện Công nghệ Liên bang Thụy Sĩ tại Zurich (ETH Zurich) đã làm được một tấm vách rộng 1m², có các đường uốn lượn và lỗ rỗng. Tấm vách được ghép từ 16 bộ phận, trải qua các bước in tạo hình, ngâm trong dung dịch rồi để khô."
+    },
+    {
+     "t": "p",
+     "text": "Thứ giữ những hạt cát lại với nhau là khoáng chất hình thành nhờ vi khuẩn . Bà Karen Antorveza Paez - vừa hoàn thành tiến sĩ tại khoa kiến trúc của ETH Zurich - cùng cộng sự tìm cách điều khiển quá trình này để tạo ra các bộ phận dùng trong công trình."
+    },
+    {
+     "t": "p",
+     "text": "ETH Zurich giới thiệu hai cách nhóm đang phát triển, một là trộn vi khuẩn vào vật liệu để in 3D và hai là dùng cánh tay robot phun từng lớp lên bề mặt."
+    },
+    {
+     "t": "p",
+     "text": "Với cách thứ nhất, nhóm trộn cát và vi khuẩn sống vào một hỗn hợp gel, tạo thành \"mực in\". Máy đùn hỗn hợp ra từng lớp theo bản thiết kế. Lúc mới in xong, sản phẩm vẫn mềm, cần thêm thời gian để cứng lại."
+    },
+    {
+     "t": "p",
+     "text": "Sản phẩm được ngâm trong dung dịch chứa urê và canxi clorua. Vi khuẩn Sporosarcina pasteurii có trong hỗn hợp tạo ra enzyme phân giải urê, giúp hình thành canxi cacbonat, khoáng chất có trong đá vôi."
+    },
+    {
+     "t": "p",
+     "text": "Các tinh thể khoáng nhỏ xuất hiện giữa những hạt cát, đan cài vào nhau, giữ chúng thành một khối. Khoáng chất cũng hình thành ở chỗ tiếp giáp giữa các lớp in, giúp các lớp bám vào nhau tốt hơn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo ETH Zurich, giai đoạn tạo khoáng kéo dài 2-5 ngày, tùy độ bền mong muốn. Nhóm thay dung dịch mỗi ngày để vi khuẩn có đủ chất cần cho phản ứng. Sau đó, sản phẩm được để khô và vi khuẩn không còn hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "Vật liệu cứng lại ở nhiệt độ phòng , không cần nung ở nhiệt độ cao như trong sản xuất xi măng. Nhóm hướng tới việc làm tấm che nắng, vách ngăn."
+    },
+    {
+     "t": "p",
+     "text": "Dù có thể tạo hình theo thiết kế, nhóm vẫn phải tính toán để sản phẩm đứng vững trong lúc in. Những phần nhô ra quá xa có thể sụp vì hỗn hợp còn mềm. Các lỗ rỗng cũng cần thông nhau để dung dịch đi sâu vào bên trong, giúp khoáng chất hình thành đều hơn."
+    },
+    {
+     "t": "p",
+     "text": "Riêng cách thứ hai bỏ qua bước ngâm trong bể. Cánh tay robot lần lượt phun vi khuẩn, các chất tạo khoáng và cát lên bề mặt. Chu trình lặp lại khiến vật liệu dày lên từng lớp. Nhóm lấy ý tưởng từ đá stromatolite, loại đá có cấu trúc phân lớp hình thành nhờ hoạt động của vi sinh vật."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, vật liệu này chưa sẵn sàng dùng cho kết cấu chịu lực. Độ bền lâu dài vẫn cần được kiểm chứng."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình tạo khoáng còn sinh ra amoni có thể gây hại môi trường. Chị Antorveza Paez cho biết trong thời gian tới, nhóm sẽ phải tính cả việc xử lý chất này trước khi đánh giá vật liệu có lợi cho môi trường đến mức nào."
+    }
+   ]
+  },
+  {
+   "id": "34fbfda11c19",
+   "order": 6,
+   "slug": "doc-dao-trinh-dien-3d-mapping-tren-cay-da-co-ben-ho-guom",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Độc đáo trình diễn 3D Mapping trên cây đa cổ bên Hồ Gươm",
+   "sapo": "Ra mắt vào tối 10-10, đúng dịp kỷ niệm Ngày Giải phóng Thủ đô, chương trình trình diễn nghệ thuật ánh sáng “Mạch thiêng Hồ Gươm” ứng dụng công nghệ 3D Mapping trên không gian cây đa cổ bên hồ Hoàn Kiếm đã mang đến nhiều trải nghiệm mới cho người dân và du",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/doc-dao-trinh-dien-3d-mapping-tren-cay-da-co-ben-ho-guom-1761390.html",
+   "published": "2026-10-16T02:23:17+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1392,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/34fbfda11c19-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-10-17/34fbfda11c19-0.jpg",
+     "caption": "Chương trình trình diễn nghệ thuật ánh sáng “Mạch thiêng Hồ Gươm” ứng dụng công nghệ 3D Mapping trên không gian cây đa cổ bên hồ Hoàn Kiếm. Ảnh: H.L",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-17/34fbfda11c19-1.jpg",
+     "caption": "Lần đầu tiên, hình ảnh cây đa cổ, một phần thân thuộc của cảnh quan và ký ức văn hóa bên Hồ Gươm được thể hiện bằng nghệ thuật thị giác. Ảnh: H.L",
+     "w": 1280,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-17/34fbfda11c19-2.jpg",
+     "caption": "Thông qua công nghệ 3D Mapping với hiệu ứng ánh sáng chuyển động, cây đa dường như được đánh thức, chuyển mình và cất lên câu chuyện của riêng mình. Ảnh: H.L",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-17/34fbfda11c19-3.jpg",
+     "caption": "Dự án góp phần tăng trải nghiệm cho du khách về đêm. Ảnh: H.L",
+     "w": 1280,
+     "h": 721
+    },
+    {
+     "src": "img/2026-10-17/34fbfda11c19-4.jpg",
+     "caption": "Ngay khi ra mắt, chương trình thu hút nhiều du khách. Ảnh: H.L",
+     "w": 1280,
+     "h": 711
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Với sự kết hợp giữa nghệ thuật thị giác, ánh sáng, âm thanh và công nghệ trình chiếu hiện đại, chương trình mở ra cách tiếp cận mới trong việc kể những câu chuyện lịch sử, văn hóa của Hà Nội, góp phần thúc đẩy phát triển kinh tế đêm sáng tạo gắn với công nghệ số tại khu vực Hồ Gươm, làm phong phú trải nghiệm của người dân và du khách tại không gian di sản."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Đưa cây đa cổ trở thành nhân vật kể chuyện về Hà Nội"
+    },
+    {
+     "t": "p",
+     "text": "Chương trình “Mạch thiêng Hồ Gươm” do UBND phường Hoàn Kiếm phối hợp với Sở Văn hóa, Thể thao và Du lịch Hà Nội tổ chức, hướng tới mục tiêu ứng dụng công nghệ trình diễn ánh sáng hiện đại vào không gian văn hóa công cộng, góp phần thúc đẩy phát triển kinh tế đêm sáng tạo, làm mới trải nghiệm tham quan, thưởng thức văn hóa của người dân và du khách tại khu vực Hồ Gươm."
+    },
+    {
+     "t": "p",
+     "text": "Lần đầu tiên, hình ảnh cây đa cổ, một phần thân thuộc của cảnh quan và ký ức văn hóa bên hồ Gươm, được thể hiện bằng ngôn ngữ nghệ thuật thị giác. Từ hình dáng tự nhiên của thân, cành cây đến những câu chuyện gắn với vùng đất Thăng Long - Hà Nội, không gian quen thuộc được khai thác theo phương thức thể hiện mới, đưa các giá trị văn hóa, lịch sử đến gần hơn với công chúng bằng hình ảnh trực quan, sinh động và giàu cảm xúc."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ là một chương trình trình diễn ánh sáng, “Mạch thiêng Hồ Gươm” được xây dựng như một hành trình khám phá chiều sâu văn hóa của không gian Hồ Gươm thông qua sự kết hợp giữa nghệ thuật thị giác, ánh sáng, âm thanh và công nghệ trình chiếu kỹ thuật số. Lấy cảm hứng từ vẻ đẹp Hà Nội qua dòng chảy thời gian và sức sống của cây cổ thụ giữa lòng đô thị, chương trình gồm hai tác phẩm nghệ thuật chính: “Bốn mùa Kinh kỳ” và “Thần mộc thức giấc”. Mỗi tác phẩm khai thác một khía cạnh của vẻ đẹp Thủ đô, từ sự chuyển mình của thiên nhiên, nhịp sống đô thị đến những lớp ký ức văn hóa được lưu giữ qua thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Mở đầu hành trình nghệ thuật là tác phẩm “Bốn mùa Kinh kỳ”, tái hiện vẻ đẹp Hà Nội qua nhịp chuyển mùa. Từ những sắc màu đặc trưng của bốn mùa đến cảnh sắc thiên nhiên và nhịp sống đô thị, tác phẩm khắc họa sự giao hòa giữa thiên nhiên, con người và không gian của vùng đất nghìn năm văn hiến. Thông qua hình ảnh, màu sắc và chuyển động ánh sáng, cây đa trở thành điểm hội tụ của những sắc thái Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp nối hành trình ấy, “Thần mộc thức giấc” đưa khán giả bước vào thế giới nghệ thuật giàu tính biểu cảm, lấy cảm hứng từ hình tượng cây cổ thụ và những câu chuyện văn hóa gắn với Hồ Gươm. Cây đa được xây dựng như một chứng nhân của thời gian, lưu giữ những lớp ký ức về vùng đất Thăng Long - Hà Nội."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Thông qua công nghệ 3D Mapping với hiệu ứng ánh sáng chuyển động, cây đa dường như được đánh thức, chuyển mình và cất lên câu chuyện của riêng mình. Theo Ban Tổ chức, các hình ảnh trình chiếu được thiết kế riêng theo cấu trúc thực tế của cây, tạo nên trải nghiệm thị giác đặc biệt, khuyến khích người dân và du khách dừng chân, cảm nhận không gian Hồ Gươm theo một cách khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Việc lựa chọn cây đa cổ làm không gian trình diễn cũng mở ra hướng tiếp cận mới trong khai thác giá trị văn hóa của cảnh quan đô thị. Thay vì chỉ sử dụng những bề mặt trình chiếu quen thuộc, chương trình đưa công nghệ hiện đại vào cấu trúc tự nhiên của cây, tạo sự kết nối giữa di sản, thiên nhiên và sáng tạo đương đại, góp phần xây dựng hình ảnh Hà Nội sáng tạo, hiện đại nhưng vẫn giàu bản sắc."
+    },
+    {
+     "t": "h",
+     "text": "Tăng trải nghiệm văn hóa về đêm từ công nghệ"
+    },
+    {
+     "t": "p",
+     "text": "Để hiện thực hóa ý tưởng nghệ thuật, dự án ứng dụng công nghệ 3D Mapping với hệ thống máy chiếu chuyên dụng cao cấp, đáp ứng yêu cầu trình chiếu hình ảnh trên bề mặt có cấu trúc phức tạp và trong điều kiện ngoài trời. Hệ thống được thiết kế đồng bộ với giải pháp xử lý hình ảnh, căn chỉnh nội dung theo hình khối tự nhiên của cây đa và hệ thống âm thanh, nhằm bảo đảm hiệu quả thị giác, tính đồng bộ và chất lượng trải nghiệm nghệ thuật."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh yêu cầu về chất lượng trình chiếu, phương án kỹ thuật cũng chú trọng khả năng vận hành thường xuyên trong không gian công cộng. Hệ thống được tích hợp các giải pháp bảo vệ thiết bị ngoài trời, gồm kết cấu bảo vệ chuyên dụng, giải pháp chống bụi, chống ẩm và các điều kiện bảo vệ phù hợp với đặc tính kỹ thuật của thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Phương án lắp đặt và bảo vệ được tính toán nhằm hạn chế tác động của môi trường, nâng cao độ ổn định, độ bền và khả năng vận hành liên tục của hệ thống. Đây là những yếu tố quan trọng để chương trình có thể được giới thiệu định kỳ, phục vụ nhu cầu thưởng thức nghệ thuật của người dân và du khách."
+    },
+    {
+     "t": "p",
+     "text": "Điểm nổi bật của giải pháp là khả năng vận hành tự động theo lịch trình được cài đặt trước. Hệ thống điều khiển cho phép thiết lập thời gian khởi động, phát nội dung trình chiếu, đồng bộ âm thanh và kết thúc chương trình theo các khung giờ đã xác định. Sau khi được cấu hình, kiểm tra và nghiệm thu, chương trình có thể vận hành theo lịch định kỳ mà không cần nhân sự trực tiếp điều khiển từng suất trình chiếu."
+    },
+    {
+     "t": "p",
+     "text": "Về ý nghĩa văn hóa, việc ứng dụng 3D Mapping trên cây đa cổ góp phần mở rộng phương thức tiếp cận di sản trong đời sống đương đại. Công nghệ không chỉ tạo hiệu ứng thị giác mà còn trở thành phương tiện truyền tải những câu chuyện gắn với lịch sử, văn hóa và cảnh quan Hà Nội bằng hình thức trực quan, sinh động, giàu cảm xúc."
+    },
+    {
+     "t": "p",
+     "text": "Với “Mạch thiêng Hồ Gươm”, công nghệ trình chiếu được ứng dụng trực tiếp trên hình thể tự nhiên của cây đa, tạo nên sự kết hợp giữa cảnh quan quen thuộc và hình thức biểu đạt nghệ thuật hiện đại. Qua đó, chương trình góp phần đa dạng hóa sản phẩm văn hóa, du lịch về đêm tại khu vực Hồ Gươm và phố cổ, đồng thời tạo thêm trải nghiệm miễn phí, dễ tiếp cận trong không gian công cộng cho người dân và du khách."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Sau chương trình ra mắt chính thức, “Mạch thiêng Hồ Gươm” dự kiến được giới thiệu phục vụ công chúng vào các tối thứ Bảy và Chủ nhật hằng tuần, với hai khung giờ 20h và 21h tại khu vực cây đa cổ bên Hồ Gươm, đối diện số 5 phố Hàng Khay."
+    },
+    {
+     "t": "p",
+     "text": "Người dân và du khách được khuyến khích đến sớm để lựa chọn vị trí quan sát phù hợp, đồng thời tuân thủ hướng dẫn của lực lượng chức năng, giữ gìn vệ sinh môi trường và bảo đảm trật tự tại khu vực hồ."
+    },
+    {
+     "t": "p",
+     "text": "Với cách tiếp cận kết hợp giữa nghệ thuật trình diễn ánh sáng và công nghệ 3D Mapping, “Mạch thiêng Hồ Gươm” hướng tới làm mới trải nghiệm tại không gian văn hóa công cộng, mở rộng khả năng truyền tải các câu chuyện lịch sử, văn hóa của Hà Nội, đồng thời góp phần thúc đẩy phát triển kinh tế đêm sáng tạo gắn với công nghệ số tại khu vực Hồ Gươm, ứng dụng công nghệ trong sáng tạo nghệ thuật và quảng bá giá trị di sản của Thủ đô."
+    }
+   ]
+  },
+  {
+   "id": "9020843d4cc8",
+   "order": 7,
+   "slug": "nguoi-hoa-si-an-cu-cung-con-meo-mang-ten-danh-hoa-lam-trien",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Người họa sĩ ẩn cư cùng con mèo mang tên danh họa, làm triển lãm toàn tranh mèo",
+   "sapo": "Những năm qua họa sĩ Phan Hiền Nhân sống trên căn gác nhỏ ở trung tâm Hà Nội cùng con mèo tai cụp Egon mà anh đặt theo tên danh họa người Áo Egon Schiele và say mê vẽ rất nhiều tranh mèo.",
+   "author": "THIÊN ĐIỂU",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nguoi-hoa-si-an-cu-cung-con-meo-mang-ten-danh-hoa-lam-trien-lam-toan-tranh-meo-100261015194557353.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 549,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/9020843d4cc8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/9020843d4cc8-0.jpg",
+     "caption": "Hiếm thấy một triển lãm toàn tranh vẽ mèo của một họa sĩ như CHATS - Ảnh: THIÊN ĐIỂU",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-17/9020843d4cc8-1.jpg",
+     "caption": "Nữ du khách nước ngoài thích thú với những chú mèo của Phan Hiền Nhân - Ảnh: THIÊN ĐIỂU",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-17/9020843d4cc8-2.jpg",
+     "caption": "Những chú mèo của Phan Hiền Nhân cho người xem nhìn ra những chân dung người - Ảnh: THIÊN ĐIỂU",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-17/9020843d4cc8-3.jpg",
+     "caption": "Muôn vẻ mèo trong tranh Phan Hiền Nhân - Ảnh: THIÊN ĐIỂU",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-17/9020843d4cc8-4.jpg",
+     "caption": "Một chú mèo rực rỡ sắc màu của Phan Hiền Nhân - Ảnh: THIÊN ĐIỂU",
+     "w": 1280,
+     "h": 851
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện của họa sĩ Phan Hiền Nhân khiến những người yêu mèo và yêu mỹ thuật thấy thật thú vị. Hơn 50 tác phẩm vẽ mèo của Phan Hiền Nhân đang được trưng bày tại Bảo tàng Mỹ thuật Việt Nam, thu hút nhiều người quan tâm."
+    },
+    {
+     "t": "p",
+     "text": "Thêm một điều đặc biệt nữa, toàn bộ số tranh mèo này được Phan Hiền Nhân vẽ từ năm 2022, đã được bác sĩ Đỗ Vũ Anh sưu tập. Chính nhà sưu tập tổ chức triển lãm CHATS này để đưa những bức tranh mèo trên căn gác nhỏ phố Phan Bội Châu (Hà Nội) của họa sĩ ra với công chúng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Chân dung mèo - chân dung con người"
+    },
+    {
+     "t": "p",
+     "text": "Hơn 50 tác phẩm trong CHATS , chủ yếu được sáng tác bằng acrylic trên canvas, không vẽ mèo theo lối tả thực, mà phảng phất phong cách trừu tượng, biểu hiện. Hình thể được giản lược, đường nét được biến đổi, những mảng màu nguyên với sắc độ mạnh như xanh, đỏ, vàng, lam, tím, hồng… nhuộm rực rỡ phòng tranh."
+    },
+    {
+     "t": "p",
+     "text": "Chân dung những chú mèo (mà thực ra đều chỉ từ một \"người mẫu\" duy nhất là chú mèo Egon) rất sinh động, với nhiều sắc thái tình cảm, như nội tâm phong phú và luôn biến đổi của con người. Nhiều bức trong số đó khiến người xem nhìn ra như những chân dung đàn ông, đàn bà."
+    },
+    {
+     "t": "p",
+     "text": "Mèo là rất nhiều trong cuộc sống \"ẩn cư\" của Phan Hiền Nhân, nhưng mèo cũng chỉ là cái cớ để người họa sĩ vẽ chính nội tâm mình và những suy tư của anh về cuộc sống và cái đẹp."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Mối duyên tình đặc biệt với mèo của người họa sĩ ẩn cư"
+    },
+    {
+     "t": "p",
+     "text": "Chọn triển lãm cá nhân thứ hai toàn là các bức tranh mèo, nhưng Phan Hiền Nhân vẽ rất đa dạng đề tài chứ không phải chỉ vẽ mèo. Tuy vậy, không thể phủ nhận mối duyên tình đặc biệt của người họa sĩ ẩn cư với loài mèo. Ngay cả triển lãm cá nhân, người họa sĩ ấy cũng chọn giấu mặt."
+    },
+    {
+     "t": "p",
+     "text": "Sinh năm 1981 tại Ninh Bình, tốt nghiệp khoa kiến trúc và quy hoạch Đại học Xây dựng Hà Nội, Phan Hiền Nhân từng làm kiến trúc, âm nhạc và những năm tháng ở Pháp."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng từ năm 2014, anh chọn hội họa làm con đường chính và dành toàn bộ thời gian cho việc vẽ."
+    },
+    {
+     "t": "p",
+     "text": "Nơi căn gác nhỏ, anh sống cùng những chú mèo, đàn mèo có lúc lên tới cả chục con, được anh đặt tên theo những danh họa thế giới anh yêu thích."
+    },
+    {
+     "t": "p",
+     "text": "Với tính cách hướng nội, ưa suy tư và trầm lặng, Phan Hiền Nhân quan sát rất kỹ những người bạn của mình, thuộc từng thói quen, tập tính, dáng điệu của loài mèo."
+    },
+    {
+     "t": "p",
+     "text": "Một ngày anh cầm bút vẽ những người bạn thân gần với mình nhất ấy. Đầu tiên là những bức phác thảo, rồi những tác phẩm tiếp nối hoàn thành."
+    },
+    {
+     "t": "p",
+     "text": "Những tưởng tranh mèo ấy chỉ ở với anh và những người bạn bốn chân dễ thương, không ngờ lại gặp tri âm tri kỷ. Để rồi chúng sớm được đưa ra với công chúng trong một triển lãm thú vị."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "4c3ca8f391b9",
+   "order": 8,
+   "slug": "tu-tho-duc-kim-loai-nam-sinh-tro-thanh-thu-khoa-dai-hoc",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từ thợ đúc kim loại, nam sinh trở thành thủ khoa đại học",
+   "sapo": "TPO - Sau ba năm làm việc trong xưởng đúc kim loại ở Nhật Bản, Hoàng Việt Anh trở về Việt Nam, bắt đầu lại việc học ở tuổi 22 và tốt nghiệp thủ khoa ngành Ngôn ngữ Nhật, Trường Đại học FPT, với GPA 3,51/4.",
+   "author": "Hà Linh",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/tu-tho-duc-kim-loai-nam-sinh-tro-thanh-thu-khoa-dai-hoc-post1885735.tpo",
+   "published": "2026-10-16T04:43:56+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 996,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/4c3ca8f391b9-lead.jpg",
+     "caption": "",
+     "w": 789,
+     "h": 484
+    },
+    {
+     "src": "img/2026-10-17/4c3ca8f391b9-0.jpg",
+     "caption": "Việt Anh khi còn làm việc trong xưởng đúc ở Nhật Bản (ảnh: nhân vật cung cấp)",
+     "w": 1222,
+     "h": 968
+    },
+    {
+     "src": "img/2026-10-17/4c3ca8f391b9-1.jpg",
+     "caption": "Việt Anh trong lễ tốt nghiệp ĐH.",
+     "w": 789,
+     "h": 484
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Tuổi 19 nghĩ đơn giản là kiếm tiền"
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm 2018, tốt nghiệp THPT, Hoàng Việt Anh quyết định chọn hướng xuất khẩu lao động với suy nghĩ đơn giản là đi làm, kiếm tiền. Anh rời quê Phú Thọ sang Nhật Bản theo chương trình thực tập sinh kỹ năng ngành đúc kim loại. Nhận nhiệm vụ làm việc tại xưởng đúc, mỗi ngày, công việc của Việt Anh là làm khuôn bằng cát, tháo sản phẩm và mài phần kim loại thừa."
+    },
+    {
+     "t": "p",
+     "text": "Công việc nặng nhọc, môi trường nóng bức, bụi bẩn và tiếng ồn nhưng đều như vắt tranh, bắt đầu từ sáng sớm đến đêm vì tăng ca."
+    },
+    {
+     "t": "p",
+     "text": "Việt Anh chia sẻ, hằng ngày anh phải bốc xếp các sản phẩm kim loại nặng 30 - 40 kg. Quá trình nung, đúc diễn ra trong điều kiện nhiệt độ cao với nhiều ca làm việc khiến bản thân mệt mỏi đến mức nhiều khi không nuốt nổi cơm."
+    },
+    {
+     "t": "p",
+     "text": "“Sau một năm, tôi giảm từ 95 kg xuống còn 69 kg”, Việt Anh nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Những ngày tháng ở Nhật Bản công việc lặp đi lặp lại khiến anh nhiều đêm tự hỏi, liệu 5 hay 10 năm nữa mình còn đủ sức làm những việc như thế này hay không và tương lai sẽ đi về đâu?"
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến anh lo lắng không chỉ là sự mệt mỏi về thể chất, bào mòn sức khỏe mà còn là cảm giác giẫm chân tại chỗ. Anh nhận thấy nếu tiếp tục làm việc ở trong xưởng có thể mang lại thu nhập trước mắt nhưng lâu dài, cơ hội phát triển bản thân gần như không có."
+    },
+    {
+     "t": "p",
+     "text": "Nghĩ vậy, anh quyết định quay trở về Việt Nam quyết tâm học đại học để tìm cơ hội mới. Với lợi thế có vốn tiếng Nhật tích lũy từ những năm tháng làm việc, Việt Anh đăng ký học ngành Ngôn ngữ Nhật, chuyên ngành hẹp Công nghệ thông tin (IT), tại Trường Đại học FPT. Tuổi 22, Việt Anh bước vào giảng đường, bắt đầu một hành trình mà trước đó anh chưa từng hình dung."
+    },
+    {
+     "t": "h",
+     "text": "Hành trình bắt đầu lại từ con số 0"
+    },
+    {
+     "t": "p",
+     "text": "Trở lại học tập sau 3 năm gián đoạn không đơn giản là việc ngồi vào lớp và tiếp tục những kiến thức còn dang dở. Việt Anh thú nhận, “rất khó khăn” khi phải làm quen lại với tư duy logic, lý thuyết chuyên ngành."
+    },
+    {
+     "t": "p",
+     "text": "Khối lượng bài tập dồn dập, kiến thức mới và nỗi lo đi chậm hơn người khác có lúc khiến anh hoài nghi quyết định của bản thân. Có thời điểm, anh tự hỏi liệu lựa chọn quay lại học đại học có thực sự đúng đắn, thậm chí nghĩ đến việc bỏ cuộc."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh thừa nhận, khoảng cách tuổi tác so với bạn bè đồng lứa cũng tạo ra những rào cản tâm lý nhất định, bởi trong khi bạn bè cùng tuổi đã dần ổn định sự nghiệp thì anh mới bắt đầu lại từ con số 0."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cũng nhờ những ngày làm việc ở môi trường nặng nhọc ở Nhật Bản khiến nam sinh cảm thấy, so với những thử thách ấy, áp lực học tập vẫn dễ chịu hơn và từng bước thích nghi."
+    },
+    {
+     "t": "p",
+     "text": "Anh đã chủ động học hỏi, trao đổi với bạn bè và sẵn sàng thừa nhận những điều chưa biết để được chỉ bảo. Việt Anh lập kế hoạch theo tuần, ghi chép chỉn chu, xây dựng danh sách kiểm tra kiến thức nhằm hạn chế sai sót do bất cẩn. Tất cả mọi việc trong quá trình học tập, anh đều áp dụng những kỹ năng tích lũy được khi ở Nhật Bản một cách triệt để."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả, Việt Anh có 5 học kỳ đạt danh hiệu Sinh viên xuất sắc, đạt chứng chỉ tiếng Nhật N2 và tốt nghiệp thủ khoa đầu ra ngành Ngôn ngữ, Trường Đại học FPT, với GPA 3,51/4."
+    },
+    {
+     "t": "p",
+     "text": "“Mình không đặt mục tiêu thủ khoa nhưng có lẽ nhờ tính kiên trì, kỷ luật bản thân và tính tỉ mỉ được duy trì đều đặn trong suốt 4 học đã mang lại hiệu quả”, Việt Anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tốt nghiệp, Việt Anh làm chuyên viên thiết kế CAD bản vẽ nhà dân dụng Nhật Bản. Công việc đòi hỏi kiến thức chuyên môn, khả năng xử lý bản vẽ và sự chính xác cao, khác đáng kể so với lao động chân tay trong xưởng đúc trước đây."
+    },
+    {
+     "t": "p",
+     "text": "Anh chia sẻ, gia đình và chính mình cảm thấy cuộc đời rẽ sang trang mới mà chính tấm bằng thủ khoa và nền tảng kiến thức đại học đã mở ra cơ hội nghề nghiệp tốt hơn. Tuy vậy, anh xem 3 năm làm việc tại nước ngoài chưa bao giờ là lãng phí, bởi chính nó đã tạo sự am hiểu sâu sắc về tác phong làm việc, tinh thần kỷ luật, sự tỉ mỉ chuẩn văn hóa Nhật Bản và khả năng chịu áp lực cao."
+    },
+    {
+     "t": "p",
+     "text": "“Sự kết hợp giữa tư duy chuyên môn đại học và trải nghiệm thực tế khắt khe từ quá khứ đã trở thành lợi thế cạnh tranh lớn, giúp tôi hoàn thành công việc hiệu quả và tạo dựng được niềm tin vững chắc với cấp trên và đồng nghiệp”, Việt Anh tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Với các bạn trẻ đang phân vân giữa các ngã rẽ, Việt Anh muốn nhắn nhủ: \"Đi làm sớm cho bạn sự va vấp, nhưng tri thức cho bạn nhiều cơ hội. Đừng sợ bắt đầu lại hay đi chậm hơn người khác, miễn là mỗi bước đi đều hướng về phiên bản tốt hơn của chính mình\"."
+    },
+    {
+     "t": "h",
+     "text": "Hà Nội có 37 thủ khoa thi học sinh giỏi"
+    },
+    {
+     "t": "h",
+     "text": "Tìm thấy đam mê, giành thủ khoa môn học từng nghĩ không phải sở trường"
+    },
+    {
+     "t": "h",
+     "text": "Hơn 1,4 tỷ đồng học bổng đồng hành cùng sinh viên"
+    }
+   ]
+  },
+  {
+   "id": "95c5740e9aa1",
+   "order": 9,
+   "slug": "nu-sinh-hang-hai-dat-gpa-3-9-theo-duoi-nghien-cuu-tu-bai-toa",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nữ sinh hàng hải đạt GPA 3,9 theo đuổi nghiên cứu từ bài toán thực tế",
+   "sapo": "Ngoài kết quả học tập đạt GPA 3,9/4, Phan Phương Hà, sinh viên Trường ĐH Hàng hải Việt Nam, còn ghi dấu ấn với đề tài hệ thống trạm cấp liệu thông minh.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nu-sinh-hang-hai-dat-gpa-39-theo-duoi-nghien-cuu-tu-bai-toan-thuc-te-185261014134647025.htm",
+   "published": "2026-10-16T06:13:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 997,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/95c5740e9aa1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/95c5740e9aa1-0.jpg",
+     "caption": "Phương Hà nghiên cứu khoa học cấp trường",
+     "w": 1280,
+     "h": 988
+    },
+    {
+     "src": "img/2026-10-17/95c5740e9aa1-1.jpg",
+     "caption": "Nhóm của Hà đang thực hiện nghiên cứu hệ thống trạm cấp liệu",
+     "w": 1280,
+     "h": 891
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Vận dụng từ khảo sát thực tế vào công trình nghiên cứu"
+    },
+    {
+     "t": "p",
+     "text": "Hà lựa chọn ngành quản lý kỹ thuật công nghiệp vì quan tâm đến cách vận hành và cải tiến hệ thống sản xuất. Với những bất cập như thao tác thủ công, thời gian chờ đợi hay bố trí công việc chưa hợp lý đều có thể ảnh hưởng đến năng suất và điều kiện làm việc của người lao động. Đây cũng là động lực để Hà tìm hiểu nghiên cứu khoa học, với mong muốn vận dụng kiến thức chuyên ngành giải quyết những vấn đề cụ thể."
+    },
+    {
+     "t": "p",
+     "text": "Hà muốn đưa kiến thức chuyên ngành vào thực tiễn. Trong quá trình tìm hiểu môi trường doanh nghiệp, nhóm của Hà có cơ hội quan sát cách thức vận hành, những thao tác mà người lao động phải thực hiện và các yêu cầu đặt ra đối với một hệ thống cấp liệu hiệu quả."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Để cân bằng giữa việc học tập và hoạt động cộng đồng, Hà thường xác định những nhiệm vụ quan trọng theo từng tuần, sau đó chia nhỏ công việc theo thời hạn cụ thể. \"Những nhiệm vụ học tập và nghiên cứu cần nhiều thời gian, mình cố gắng hoàn thành từng phần sớm thay vì đợi đến sát hạn. Mình cũng học cách xác định việc nào cần ưu tiên và chủ động điều chỉnh lịch khi có công việc phát sinh\", Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Từ khảo sát thực tế, nhóm của Hà phát triển ý tưởng đề tài \"Hệ thống trạm cấp liệu thông minh\", hướng đến kết hợp các giải pháp như Karakuri, AGV, cảm biến và IoT nhằm hỗ trợ cấp liệu, giảm thao tác thủ công và cải thiện hiệu quả vận hành. Nhóm đồng thời chú trọng thiết kế theo mô-đun, sử dụng linh kiện tiêu chuẩn và bảo đảm khả năng mở rộng hệ thống."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó, nhóm xây dựng hai hồ sơ sở hữu trí tuệ, gồm hồ sơ đăng ký kiểu dáng công nghiệp \"Trạm cấp liệu thông minh\" và hồ sơ đăng ký sáng chế \"Hệ thống trạm cấp liệu thông minh\". Cả hai hồ sơ được Cục Sở hữu trí tuệ chấp nhận hợp lệ, đánh dấu bước tiến trong quá trình phát triển ý tưởng của nhóm."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo Hà, khó khăn lớn nhất là chuyển ý tưởng trên bản vẽ thành giải pháp có tính khả thi. Ngoài yêu cầu kỹ thuật, nhóm phải xem xét độ an toàn, tính ổn định, chi phí, khả năng bảo trì và mức độ phù hợp với quy trình sản xuất hiện có. Vì vậy, các thành viên trong nhóm liên tục tìm hiểu tài liệu, trao đổi với thầy cô, phân tích phương án và điều chỉnh thiết kế."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình này giúp Hà hiểu rằng nghiên cứu không chỉ cần sáng tạo mà còn đòi hỏi tư duy phản biện, sự kiên trì và khả năng tiếp nhận những góp ý để hoàn thiện giải pháp. Về ý nghĩa của công trình này giúp Hà nhận ra kiến thức chuyên ngành có thể được vận dụng để giải quyết những vấn đề cụ thể trong doanh nghiệp. Hệ thống được nghiên cứu với định hướng hỗ trợ cấp liệu, giảm các thao tác thủ công không cần thiết, hạn chế việc di chuyển và chờ đợi, đồng thời hướng đến cải thiện an toàn và hiệu quả làm việc."
+    },
+    {
+     "t": "h",
+     "text": "Đạt các giải thưởng về công trình nghiên cứu"
+    },
+    {
+     "t": "p",
+     "text": "Sau quá trình nghiên cứu và hoàn thiện, công trình đã đạt: giải Ba - Giải thưởng Khoa học và Công nghệ cấp bộ; có công trình, giải pháp, sản phẩm sáng tạo, sáng kiến tiêu biểu toàn quốc cấp Trung ương và giải Nhất cuộc thi Ý tưởng sáng tạo khởi nghiệp VMU STARTUP 2026, nhận bằng độc quyền sở hữu trí tuệ về kiểu dáng công nghiệp của Bộ Khoa học và Công nghệ; bằng độc quyền sở hữu trí tuệ về sáng chế quốc gia đã được chấp nhận đơn hợp lệ của Bộ Khoa học và Công nghệ."
+    },
+    {
+     "t": "p",
+     "text": "Khi hai hồ sơ được chấp nhận hợp lệ, Hà vui mừng vì những nỗ lực của cả nhóm đã có kết quả bước đầu. \"Mình biết ơn đối với thầy cô hướng dẫn, các thành viên và những đơn vị tạo điều kiện để nhóm tiếp cận môi trường sản xuất\", Hà vui mừng nói."
+    },
+    {
+     "t": "p",
+     "text": "Hà mong muốn trau dồi thêm kiến thức về tự động hóa, thiết kế kỹ thuật và quản lý sản xuất, đồng thời học hỏi trực tiếp tại doanh nghiệp để hiểu rõ hơn yêu cầu khi triển khai giải pháp. Nữ sinh kỳ vọng tiếp tục tham gia các dự án nghiên cứu, đổi mới sáng tạo có giá trị thực tiễn, góp phần nâng cao năng suất và cải thiện điều kiện làm việc."
+    },
+    {
+     "t": "p",
+     "text": "Tiến sĩ Phạm Minh Ngọc, Phó trưởng bộ môn Quản lý kỹ thuật công nghiệp, Trường ĐH Hàng hải Việt Nam, cho biết Phương Hà là sinh viên có ý thức học tập tốt, tinh thần cầu tiến và thái độ nghiêm túc trong học tập, nghiên cứu khoa học cũng như các hoạt động rèn luyện. Em đạt kết quả học tập nổi bật với điểm trung bình các học kỳ là 3,9/4,0. Bên cạnh đó, Hà thể hiện khả năng chủ động tìm tòi, vận dụng kiến thức chuyên ngành vào giải quyết các vấn đề thực tiễn, đặc biệt trong lĩnh vực quản lý kỹ thuật công nghiệp và cải tiến hệ thống sản xuất."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi mong em sẽ có thêm cơ hội tiếp cận môi trường doanh nghiệp, trực tiếp tìm hiểu các bài toán về quản lý sản xuất, tự động hóa và cải tiến quy trình, từ đó từng bước hoàn thiện năng lực chuyên môn cũng như tư duy giải quyết vấn đề\", tiến sĩ Minh Ngọc nói."
+    }
+   ]
+  },
+  {
+   "id": "50f5a06c97f2",
+   "order": 10,
+   "slug": "nguoi-phu-nu-mong-hoc-chu-o-tuoi-lay-chong-det-them-co-hoi-c",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Người phụ nữ Mông học chữ ở tuổi lấy chồng, 'dệt' thêm cơ hội cho chị em",
+   "sapo": "Không chấp nhận số phận phụ nữ Mông phải lấy chồng sớm, không biết chữ, Vàng Thị Cầu bắt đầu học lớp 1 ở tuổi 17, rồi lấy hai bằng đại học. Chị còn tạo sinh kế từ nghề dệt lanh, giúp phụ nữ Mông khẳng định vị thế trong gia đình và xã hội.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nguoi-phu-nu-mong-hoc-chu-o-tuoi-lay-chong-det-them-co-hoi-cho-chi-em-185261010154432404.htm",
+   "published": "2026-10-16T02:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1482,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-0.jpg",
+     "caption": "Chị Cầu dệt lanh và tạo sinh kế cho chị em phụ nữ",
+     "w": 960,
+     "h": 638
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-1.jpg",
+     "caption": "Chị Cầu cùng chị em phụ nữ vẽ sáp ong lên vải lanh",
+     "w": 1280,
+     "h": 1206
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-2.jpg",
+     "caption": "Không khí làm việc của chị em phụ nữ tại HTX",
+     "w": 722,
+     "h": 938
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-3.jpg",
+     "caption": "Chị em phụ nữ Mông thu hoạch lanh ngoài ruộng",
+     "w": 528,
+     "h": 864
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-4.jpg",
+     "caption": "Chị Cầu (bìa phải) mang vải lanh giới thiệu tại một hội thảo",
+     "w": 1152,
+     "h": 1418
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-5.jpg",
+     "caption": "HTX Lanh Trắng tạo việc làm cho hàng chục chị em phụ nữ",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-17/50f5a06c97f2-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 307
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Quyết tâm học chữ ở tuổi lấy chồng"
+    },
+    {
+     "t": "p",
+     "text": "Ở xã Sà Phìn, tỉnh Tuyên Quang, Vàng Thị Cầu, Chủ tịch Hội Liên hiệp phụ nữ xã, được nhiều chị em biết đến bởi câu chuyện vượt qua tập tục lạc hậu để tìm con chữ. Từ người phụ nữ bắt đầu học lớp 1 ở tuổi 17, chị vươn lên bằng tri thức, rồi tìm cách tạo sinh kế từ nghề dệt lanh để giúp phụ nữ Mông có thêm cơ hội tự chủ cuộc sống."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sinh năm 1974 trong một gia đình đông anh chị em, Vàng Thị Cầu lớn lên giữa tập tục trọng việc học của con trai hơn con gái. Theo quan niệm phổ biến ở địa phương thời bấy giờ, con gái khoảng 14 - 15 tuổi phải lấy chồng, còn chuyện đến trường gần như không được đặt ra."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Cầu không muốn cuộc đời mình chỉ quanh quẩn với những lối mòn đã định sẵn. Năm 17 tuổi, chị trốn bố đi học lớp 1. Trong vòng 4 năm, chị hoàn thành chương trình tiểu học và THCS, sau đó theo học hệ 9+1 ngành sư phạm tiểu học. Vừa làm việc, vừa chăm lo gia đình, chị tiếp tục thi vào Khoa Mầm non, Trường đại học Sư phạm Hà Nội. Chưa dừng lại ở đó, chị còn học thêm văn bằng 2 ngành lịch sử Đảng khi đã có con nhỏ và nhiều công việc phải cáng đáng."
+    },
+    {
+     "t": "p",
+     "text": "Với chị Cầu, học chữ không chỉ để biết đọc, biết viết, mà còn mở ra một cách nhìn khác về cuộc sống và khả năng tự quyết định tương lai của mình."
+    },
+    {
+     "t": "p",
+     "text": "Sau này, chị về công tác phụ nữ tại huyện Đồng Văn (trước khi sáp nhập), từng đảm nhiệm cương vị Phó chủ tịch Hội Liên hiệp phụ nữ huyện. Những chuyến đi cơ sở giúp chị hiểu rõ hơn những khó khăn mà phụ nữ ở vùng cao phải đối mặt, nhất là khi không có việc làm và thu nhập riêng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "“Tôi được đi cơ sở và nhận thấy có rất nhiều chị em phụ nữ có hoàn cảnh khó khăn, không có việc làm. Không làm ra tiền, chị em phụ nữ không có tiếng nói trong gia đình, nhiều chị em bị chồng bạo hành mà không biết cầu cứu ai”, chị Cầu chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ trải nghiệm của bản thân và những câu chuyện tận mắt chứng kiến, chị nhận ra muốn phụ nữ thay đổi vị thế thì không thể chỉ động viên họ vươn lên. Điều quan trọng là giúp họ có công việc, thu nhập và cơ hội tham gia quyết định những việc liên quan đến cuộc sống của mình."
+    },
+    {
+     "t": "h",
+     "text": "Gây dựng sinh kế từ nghệ dệt lanh"
+    },
+    {
+     "t": "p",
+     "text": "Với người Mông, vải lanh không đơn thuần là chất liệu may mặc mà còn gắn với đời sống văn hóa, phong tục và những quan niệm được truyền qua nhiều thế hệ. Trước đây, vải lanh được coi là vật quý trong gia đình, ít khi mang ra bán. Trong khi đó, nghề dệt lanh vốn quen thuộc với phụ nữ Mông lại có thể mở ra cơ hội tạo thu nhập nếu sản phẩm tìm được đầu ra phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Chị Cầu nhận thấy nhiều du khách yêu thích vải lanh bởi đặc tính ấm vào mùa đông, mát vào mùa hè. Thay vì vận động chị em học một nghề hoàn toàn mới, chị chọn phát huy kỹ năng mà nhiều người đã được mẹ truyền dạy từ nhỏ. Cách làm này vừa tận dụng được vốn nghề truyền thống, vừa tạo điều kiện để phụ nữ khó khăn tham gia sản xuất."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Năm 2017, chị vận động 10 phụ nữ thành lập Hợp tác xã (HTX) Lanh Trắng, đồng thời tổ chức các lớp dạy nghề dệt lanh cho chị em trong khu vực huyện Đồng Văn. Từ những sản phẩm vải lanh truyền thống, HTX từng bước phát triển thêm các mặt hàng thủ công, quà lưu niệm phục vụ du khách đến cao nguyên đá Đồng Văn."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, số thành viên HTX tăng lên 30 người. Gần 150 phụ nữ tại các xã lân cận tham gia những tổ sản xuất vải lanh thô và bán lại cho HTX với giá cao hơn thị trường 20.000 đồng/kg. Nhờ đó, hoạt động sản xuất không chỉ tạo việc làm tại HTX mà còn giúp nhiều phụ nữ có thể làm nghề ngay tại địa phương."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Năm 2018, đề án “Phát triển các sản phẩm dệt thổ cẩm từ lanh tự nhiên” do chị Cầu thực hiện đoạt giải nhất cuộc thi Ý tưởng phụ nữ khởi nghiệp do Hội Liên hiệp phụ nữ Việt Nam tổ chức. HTX được hỗ trợ 100 triệu đồng để mở rộng sản xuất. Năm 2020, một số sản phẩm của HTX được chứng nhận OCOP 3 sao, trong đó có vỏ gối."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Để sản phẩm vừa giữ được nét truyền thống vừa đáp ứng nhu cầu thị trường, chị Cầu động viên chị em tham gia các lớp học nâng cao tay nghề, sáng tạo thêm mẫu mã như túi xách, vỏ gối với hoa văn tinh tế hơn. Khâu nhuộm màu cũng được chú trọng: HTX sử dụng các nguyên liệu tự nhiên như củ nâu để tạo màu nâu, nghệ tạo màu vàng, lá chè tạo màu xanh, thay vì dùng màu tổng hợp."
+    },
+    {
+     "t": "p",
+     "text": "Những thay đổi ấy cho thấy nghề truyền thống có thể tiếp tục phát triển khi người làm nghề tìm được cách thích ứng với nhu cầu mới. Quan trọng hơn, phụ nữ không chỉ có thêm thu nhập mà còn có cơ hội gìn giữ những kỹ năng gắn với văn hóa của cộng đồng mình."
+    },
+    {
+     "t": "h",
+     "text": "Có thu nhập, thêm tiếng nói trong gia đình"
+    },
+    {
+     "t": "p",
+     "text": "Với chị Cầu, HTX Lanh Trắng không chỉ tạo ra sản phẩm mà còn giúp phụ nữ khó khăn có việc làm, thu nhập, từng bước tự chủ cuộc sống. Chị cho biết, nhiều gia đình lâm vào cảnh túng quẫn khi người chồng đi làm ăn xa bị lừa mất tiền, rồi sa vào rượu chè, bạo hành vợ."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hầu Thị Vá từng thường xuyên bị chồng đánh đập, có lần gãy chân. Thấy vậy, chị Cầu đưa chị Vá 500.000 đồng để trồng lanh. Vài tháng sau, chị Vá mang lanh đến nhờ bán. Sau đó, chị Cầu vận động chị tham gia HTX để có công việc ổn định hơn, từng bước cải thiện cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Sùng Thị Si, giám đốc HTX, thành viên sáng lập, cũng từng chịu cảnh chồng rượu chè, bạo hành sau khi bị lừa mất tiền lúc đi làm ăn xa. “Biết chuyện của tôi, chị Cầu đã vận động tôi tham gia HTX để tự chủ công việc bản thân, có tiếng nói trong gia đình. Không chỉ vậy, tôi cũng vận động chồng cùng đến HTX làm việc. Hiện nay, cuộc sống của vợ chồng tôi rất ổn định, yêu thương nhau”, chị Si chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Ngoài tạo sinh kế, HTX Lanh Trắng còn phối hợp với Hội Liên hiệp phụ nữ xã chăm lo, nuôi dạy gần 50 trẻ em có hoàn cảnh đặc biệt, như mồ côi cha mẹ, gia đình đông con hoặc có cha mẹ đi làm xa."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, trên con đường dẫn vào dinh họ Vương, gian hàng giới thiệu sản phẩm của HTX Lanh Trắng luôn tấp nập khách ra vào. Họ đến không chỉ mua lanh, trải nghiệm văn hóa mà còn để nghe chị Cầu kể về những công đoạn làm ra vải lanh cũng như ý chí vươn lên học tập, xóa bỏ bất bình đẳng giới của chị em người dân tộc Mông trên cao nguyên đá Đồng Văn."
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "8a1913f645f8",
+   "order": 11,
+   "slug": "cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-mua-nuoc-noi-mang",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Mùa nước nổi mang sinh kế về cho người dân",
+   "sapo": "Trứng nước, còn gọi là con đỏ - một loài giáp xác nước ngọt nhỏ, là thức ăn cho cá bột và cá cảnh. Nghề kéo trứng nước không phải đầu tư nhiều vốn mà vẫn có thu nhập khá, có ngày người dân kiếm khoảng 1 triệu đồng.",
+   "author": "Y MINH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-mua-nuoc-noi-mang-sinh-ke-ve-cho-nguoi-dan-100261016161412444.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 312,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/8a1913f645f8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/8a1913f645f8-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 417
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mùa nước nổi mang sinh kế về cho người dân - Tác giả: Y MINH"
+    },
+    {
+     "t": "p",
+     "text": "Rất nhiều người ở đây đã gắn bó với nghề này hàng chục năm. Như ông Võ Giáp chẳng hạn. Ông đã có thâm niên trên 30 năm với nghề. Cứ đến mùa nước nổi ông và một vài người thân lại cùng nhau đi làm nghề. Dụng cụ cũng đơn giản, chỉ cần mùng lưới vài hơn chục mét may bằng vải mỏng, miệng lưới khoảng 3m, giữa lưới có một giàn lược, để ngăn rong lọt vào, một cái vợt thủ trứng nước thì có thể đi làm nghề kiếm cơm cho cả nhà."
+    },
+    {
+     "t": "p",
+     "text": "Trứng nước được người đân trong tỉnh cũng như các tỉnh lân cận đến những cánh đồng nước nổi ở đầu nguồn tỉnh Đồng Tháp khai thác, khoảng từ tháng 7 đến tháng 10 âm lịch hàng năm. Khi các cánh đồng xả lũ nước dâng cao đến ngang thắt lưng, ngang ngực. Năm nay, con nước lớn, người dân làm nghề này làm ăn cũng dễ dàng hơn và chiến lợi phẩm thu được cũng kha khá."
+    },
+    {
+     "t": "p",
+     "text": "Người dân nơi đây đi thu hoạch trứng nước từ 11 giờ khuya đến tờ mờ sáng, bởi đây là thời điểm trứng nước nổi lên nhiều. Một nhóm kéo trứng nước có từ 5 đến 7 người. Công việc rất đơn giản, nhưng lại rất cực công, khi phải trầm mình nhiều giờ trong nước."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi mẻ lưới thường thu được khoảng chục ký trứng nước. Trứng nước được đong thành từng lít và cho vào túi ni-lông giữ lạnh trong thùng xốp. Năm nay con nước lớn nên trứng nước nhiều hơn. Mỗi ký trứng nước được bán cho thương lái từ 5.000 đến 6.000 đồng tùy loại. Mỗi ngày, hai người kéo giỏi thu nhập khoảng hơn 1 triệu đồng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    }
+   ]
+  },
+  {
+   "id": "3c17b1688c19",
+   "order": 12,
+   "slug": "bi-an-tuong-phat-500-tuoi-tu-thoi-nha-minh-bi-chon-ven-duong",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Bí ẩn tượng Phật 500 tuổi từ thời nhà Minh bị chôn ven đường ở Úc",
+   "sapo": "Bức tượng Phật 500 năm tuổi được tìm thấy ven đường tại Úc đã được trao trả cho Trung Quốc, song vẫn còn bí ẩn về nguồn gốc xuất hiện của cổ vật này tại xứ sở chuột túi.",
+   "author": "DƯƠNG KHANG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/bi-an-tuong-phat-500-tuoi-tu-thoi-nha-minh-bi-chon-ven-duong-o-uc-100261016113128769.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 491,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/3c17b1688c19-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/3c17b1688c19-0.jpg",
+     "caption": "Bức tượng được phát hiện bị chôn ven đường ở bang Tây Úc - Ảnh: ABC",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo Đài ABC (Úc), bức tượng Phật được làm bằng đồng, cao 15cm, đã chính thức được bàn giao cho các đại diện lãnh sự Trung Quốc trong một buổi lễ diễn ra tại thị trấn ven biển Denham, vịnh Shark vào hôm 13-10."
+    },
+    {
+     "t": "p",
+     "text": "Cổ vật này sẽ được đưa về Trung Quốc để tiếp tục giám định nhằm xác định nguồn gốc lịch sử, trước khi được trưng bày tại một bảo tàng ở Bắc Kinh."
+    },
+    {
+     "t": "p",
+     "text": "Hai người phát hiện bức tượng là ông Leon Deschamps và ông Shayne Thomson đã khai quật cổ vật này vào năm 2018 khi đang thử nghiệm thiết bị dò kim loại trong khu vực."
+    },
+    {
+     "t": "p",
+     "text": "Kể từ thời điểm đó, cả hai luôn bày tỏ nguyện vọng trao trả bức tượng cho phía Trung Quốc như một cử chỉ thể hiện thiện chí."
+    },
+    {
+     "t": "p",
+     "text": "Ông Simon Wu, Chủ tịch Hội Hữu nghị Úc - Trung bang Tây Úc, đánh giá việc trao trả này là một hành động vô cùng hào hiệp."
+    },
+    {
+     "t": "p",
+     "text": "“Sự kiện hôm nay là minh chứng cho thấy chúng ta có thể gắn kết các nền văn hóa, quốc gia và con người lại với nhau chỉ thông qua một đồ vật nhỏ bé. Điều này thể hiện sự tôn trọng và thiện chí\" - ông Wu nói."
+    },
+    {
+     "t": "p",
+     "text": "Bức tượng này được cho là cổ vật Trung Quốc lâu đời nhất từng được phát hiện tại Úc. Chuyên gia nghệ thuật châu Á Lee Young đã giám định bức tượng là cổ vật nguyên bản thuộc thời nhà Minh (1368-1644). Tuy nhiên, nguyên do cổ vật này trôi dạt đến Úc vẫn là một dấu hỏi lớn."
+    },
+    {
+     "t": "p",
+     "text": "Một số phương tiện truyền thông suy đoán rằng bức tượng có thể đã được mang theo trên hạm đội kho báu của nhà hàng hải nổi tiếng thế kỷ 15 Trịnh Hòa. Dẫu vậy, không có bất kỳ bằng chứng lịch sử nào cho thấy ông từng đặt chân đến Úc."
+    },
+    {
+     "t": "p",
+     "text": "Một giả thuyết có tính thuyết phục cao hơn cho rằng bức tượng đã đến Úc cùng với những người thợ lặn ngọc trai và ngư dân gốc Hoa vào thế kỷ 19, theo báo South China Morning Post."
+    },
+    {
+     "t": "p",
+     "text": "Vịnh Shark từng là nơi khởi nguồn của ngành công nghiệp khai thác ngọc trai tại Tây Úc, một ngành nghề phụ thuộc rất lớn vào lực lượng lao động là người Mã Lai, người Hoa và thổ dân Úc."
+    },
+    {
+     "t": "p",
+     "text": "Đài ABC cho biết bức tượng Phật sẽ được đưa trở lại Trung Quốc cùng với một ít đất đỏ đặc trưng của vịnh Shark và một chiếc vỏ ngọc trai vàng."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, vào năm 2023, Chính phủ Úc cũng đã trao trả một lô di vật văn hóa có giá trị cho Trung Quốc, bao gồm các hiện vật bị hải quan tịch thu, cũng như các tác phẩm do Phòng trưng bày quốc gia Úc và một cá nhân hiến tặng."
+    }
+   ]
+  },
+  {
+   "id": "9639bfd6f15f",
+   "order": 13,
+   "slug": "dap-xe-vi-dieu-tot-dep",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Đạp xe vì điều tốt đẹp",
+   "sapo": "Vào ngày 19 tháng 6, Sarah Ruggins đã đến được đích: Nordkapp, Na Uy. Cô đã đạp xe xuyên châu Âu từ đầu này đến đầu kia (xem bản đồ) nhanh hơn bất kỳ ai từng làm trước đó. Ruggins bắt đầu đạp xe sau khi một căn bệnh khiến việc chạy bộ trở nên khó khăn. Những chuyến đi của cô giúp…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g34/cycling-for-good-g3/",
+   "published": "2026-10-16T11:48:30+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 320,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Cycling for Good",
+   "images": [
+    {
+     "src": "img/2026-10-17/9639bfd6f15f-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-17/9639bfd6f15f-0.jpg",
+     "caption": "Một bản đồ vẽ tuyến đường xuyên châu Âu, từ miền nam Tây Ban Nha đến miền bắc Na Uy, với la bàn chỉ hướng được tạo hình như bánh răng xe đạp.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vào ngày 19 tháng 6, Sarah Ruggins đã đến được đích: Nordkapp, Na Uy. Cô đã đạp xe xuyên châu Âu từ đầu này đến đầu kia (xem bản đồ) nhanh hơn bất kỳ ai từng làm trước đó."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ruggins bắt đầu đạp xe sau khi một căn bệnh khiến việc chạy bộ trở nên khó khăn. Những chuyến đi của cô giúp nhiều người khác có xe đạp để sử dụng."
+    },
+    {
+     "t": "h",
+     "text": "Một chặng đường gập ghềnh"
+    },
+    {
+     "t": "p",
+     "text": "Năm 15 tuổi, Ruggins được chẩn đoán mắc một chứng bệnh hiếm gặp khiến cô không thể đi lại. Việc hồi phục mất rất nhiều năm. Cô không thể tham gia các cuộc thi chạy. Vì vậy, cô chuyển sang đạp xe."
+    },
+    {
+     "t": "p",
+     "text": "Ruggins mua chiếc xe đạp đầu tiên của mình vào năm 2023. Cô tập luyện bằng cách nâng tạ và làm việc cùng các huấn luyện viên. Việc chuẩn bị, theo cô chia sẻ với TFK, giống như \"một công việc toàn thời gian\"."
+    },
+    {
+     "t": "p",
+     "text": "Ruggins bắt đầu hành trình One Way North của mình tại Tarifa, Tây Ban Nha. Cô đạp xe cả ngày và đêm qua chín quốc gia. Cô mất 13 ngày, 20 giờ và 27 phút để đến được mũi đất cực bắc của châu Âu. Lần ngủ lâu nhất của cô là bốn giờ. Hầu hết các đêm, cô chỉ ngủ 90 phút."
+    },
+    {
+     "t": "p",
+     "text": "Các cuộc đua của Ruggins gây quỹ cho tổ chức phi lợi nhuận World Bicycle Relief. Tổ chức này trao xe đạp cho những người sống ở các vùng xa xôi, hẻo lánh (remote: xa xôi, cách biệt với nơi đông dân cư), không có xe buýt hay tàu hỏa. Việc này giúp chống lại tình trạng nghèo khó về khả năng di chuyển (mobility: liên quan đến khả năng đi lại). Năm 2025, tổ chức đã trao gần 100.000 chiếc xe đạp. Một số chiếc giúp trẻ em đến trường dễ dàng hơn."
+    }
+   ]
+  },
+  {
+   "id": "27671a98eead",
+   "order": 14,
+   "slug": "pha-pit-stop-trong-f1-gop-phan-cuu-song-nhieu-benh-nhan",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Pha pit stop trong F1 góp phần cứu sống nhiều bệnh nhân",
+   "sapo": "Một lần thay lốp và tiếp nhiên liệu trong chưa đầy 7 giây của đội đua McLaren đã truyền cảm hứng cho các bác sĩ Anh cải tiến quy trình cấp cứu, giúp giảm sai sót và tiết kiệm thời gian cứu chữa bệnh nhân.",
+   "author": "Hà Đồ",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/pha-pit-stop-trong-f1-gop-phan-cuu-song-nhieu-benh-nhan-5132909.html",
+   "published": "2026-10-16T05:33:54+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1383,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/27671a98eead-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-17/27671a98eead-0.jpg",
+     "caption": "Bác sỹ Martin Elliott của Bệnh viện Great Ormond Street, London, Anh.",
+     "w": 1020,
+     "h": 394
+    },
+    {
+     "src": "img/2026-10-17/27671a98eead-1.jpg",
+     "caption": "Vai trò của các nhân viên kỹ thuật mỗi khi xe F1 vào pit. Ảnh: McLaren",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-17/27671a98eead-2.jpg",
+     "caption": "Một pha vào pit của đội đua McLaren năm 2025.",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một lần thay lốp và tiếp nhiên liệu trong chưa đầy 7 giây của đội đua McLaren đã truyền cảm hứng cho các bác sĩ Anh cải tiến quy trình cấp cứu, giúp giảm sai sót và tiết kiệm thời gian cứu chữa bệnh nhân."
+    },
+    {
+     "t": "p",
+     "text": "Tại Grand Prix Tây Ban Nha năm 2001, đội kỹ thuật McLaren chỉ mất chưa đầy bảy giây để tiếp nhiên liệu, thay lốp và truyền đạt thông tin cho tay đua. Với họ, đó đơn thuần là công việc thường ngày trong một chặng đua F1."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cách đó khoảng 1.100 km, trong phòng nghỉ của Bệnh viện Great Ormond Street (GOSH) tại London (Anh), bác sĩ Martin Elliott cùng các đồng nghiệp đang theo dõi màn thay lốp ấy sau khi vừa hoàn thành ca phẫu thuật cứu sống một bệnh nhi."
+    },
+    {
+     "t": "p",
+     "text": "Những giây ngắn ngủi trên màn hình truyền hình đã mở ra hướng tiếp cận mới trong chăm sóc bệnh nhân. Từ bàn giao người bệnh sau phẫu thuật, cấp cứu trẻ sơ sinh đến rút ngắn thời gian phản ứng của trực thăng cứu thương, những sáng kiến từ F1 dần chứng tỏ giá trị vượt xa đường đua."
+    },
+    {
+     "t": "p",
+     "text": "Bệnh viện học cách làm việc từ đội đua F1"
+    },
+    {
+     "t": "p",
+     "text": "Sau lần tình cờ chứng kiến màn vào pit kể trên, nhóm bác sĩ GOSH đã đến nhà máy Ferrari ở Maranello, Italy, để nghiên cứu cách đội đua phân công nhiệm vụ, trao đổi thông tin và phối hợp trong những tình huống đòi hỏi tốc độ lẫn độ chính xác tuyệt đối."
+    },
+    {
+     "t": "p",
+     "text": "Họ nhận ra rằng quy trình đưa bệnh nhân từ phòng mổ sang khu chăm sóc tích cực (ICU) có nhiều điểm tương đồng với một lần pit stop. Cả hai đều đòi hỏi nhiều người phối hợp chặt chẽ, thực hiện hàng loạt công việc trong thời gian ngắn, trong khi bất kỳ sai sót nào cũng có thể dẫn đến hậu quả nghiêm trọng."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó, các bác sĩ và điều dưỡng bắt đầu áp dụng bảng kiểm trước mỗi quy trình, xác định rõ nhiệm vụ của từng người. Cách làm này giúp hạn chế sai sót do con người và bảo đảm không bỏ sót những công việc quan trọng. Toàn bộ thông tin về bệnh nhân cũng được chuyển giao đầy đủ từ phòng mổ sang đơn vị chăm sóc tích cực."
+    },
+    {
+     "t": "p",
+     "text": "Những bất cập trong quá trình thực hiện được ghi nhận, phân tích và khắc phục. Các buổi diễn tập lặp đi lặp lại giúp đội ngũ y tế hoàn thiện khả năng phối hợp, tương tự cách đội kỹ thuật F1 luyện tập thay lốp hàng trăm lần để tiết kiệm từng phần giây."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ đó, quy trình bàn giao bệnh nhân sau phẫu thuật trở nên khoa học và hiệu quả hơn. Một nghiên cứu năm 2007 của các nhà khoa học tại GOSH và Đại học Oxford cho thấy mô hình lấy cảm hứng từ F1 giúp giảm lỗi kỹ thuật, hạn chế bỏ sót thông tin và rút ngắn thời gian bàn giao bệnh nhân."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại dự án, bác sĩ Elliott, khi đó là chuyên gia phẫu thuật tim lồng ngực nhi tại GOSH, cho rằng môi trường làm việc của bác sĩ luôn tiềm ẩn nguy hiểm ở mọi công đoạn."
+    },
+    {
+     "t": "p",
+     "text": "\"Đó cũng là lý do F1 tìm mọi cách để không mắc sai lầm\", ông nói với hãng tin BBC . \"Họ xây dựng một môi trường đòi hỏi độ chính xác tuyệt đối, không chỉ trong kỹ thuật mà cả quy trình vận hành. Họ đơn giản là không thể chấp nhận sai sót, dù xét về tài chính hay kết quả thi đấu\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo Elliott, dù là một chiếc xe đua hay bệnh nhân nằm trên cáng, nguyên tắc quan trọng nhất vẫn là thực hiện chính xác từng công đoạn. \"Thứ quý giá nằm trên cáng cũng giống như thứ quý giá trong chiếc xe đua. Bạn phải bảo đảm mọi bước đều được thực hiện đúng\", ông nhấn mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình này sau đó được nhiều nhóm nhân viên y tế khác áp dụng."
+    },
+    {
+     "t": "p",
+     "text": "Từ đường đua đến phòng cấp cứu trẻ sơ sinh"
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 15 năm trước, đội đua Williams hợp tác với Bệnh viện Đại học Wales nhằm cải thiện quy trình hồi sức cho trẻ sơ sinh."
+    },
+    {
+     "t": "p",
+     "text": "Gemma Fisher, cựu chuyên gia nghiên cứu hiệu suất con người của Williams, nhận thấy cách đội kỹ thuật F1 sắp xếp thiết bị để tránh lãng phí thời gian hoàn toàn có thể áp dụng trong bệnh viện."
+    },
+    {
+     "t": "p",
+     "text": "Thông qua phân tích video, nhóm nghiên cứu phát hiện những tình huống cấp cứu thường diễn ra khá hỗn loạn. Nhiều nhân viên y tế nói cùng lúc, trong khi thiết bị không được bố trí đúng vị trí, gây chậm trễ vào những thời điểm quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Để khắc phục, nhóm dự án chuẩn hóa nhiệm vụ của từng thành viên, từ vị trí đứng, thời điểm cần truyền đạt thông tin đến nơi đặt thiết bị. Nhờ đó, quá trình xử lý cấp cứu trở nên nhanh chóng và hiệu quả hơn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau mỗi tình huống, các nhân viên y tế cùng đánh giá lại quá trình phối hợp để rút kinh nghiệm và tìm cách cải thiện. Phương pháp này còn khuyến khích các bác sĩ trẻ mạnh dạn nêu ý kiến, chỉ ra nguy cơ hoặc sai sót mà không lo bị quy trách nhiệm."
+    },
+    {
+     "t": "p",
+     "text": "Sự hợp tác giữa Williams và ngành y tế không chỉ dừng ở cải tiến quy trình mà còn mở rộng sang lĩnh vực kỹ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Williams sau đó cùng công ty Advanced Healthcare Technology phát triển Babypod, thiết bị vận chuyển trẻ sơ sinh làm bằng sợi carbon, được thiết kế để chịu được lực va đập tương đương 20 lần gia tốc trọng trường (20G)."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị này giúp tăng khả năng bảo vệ trẻ sơ sinh trong quá trình vận chuyển bằng xe cứu thương đến bệnh viện."
+    },
+    {
+     "t": "p",
+     "text": "Tiết kiệm 90 giây có thể tạo nên khác biệt sống còn"
+    },
+    {
+     "t": "p",
+     "text": "F1 tiếp tục tìm kiếm những cách thức mới để đưa kinh nghiệm từ đường đua vào lĩnh vực cấp cứu."
+    },
+    {
+     "t": "p",
+     "text": "Tại chặng đua Silverstone năm nay, một dự án hợp tác với lực lượng trực thăng cứu thương Cornwall, Anh, cho thấy khả năng rút ngắn đáng kể thời gian phản ứng trong các tình huống khẩn cấp."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ áp dụng những nguyên tắc tương tự đội kỹ thuật F1, thời gian chuẩn bị cất cánh của trực thăng cứu thương giảm từ năm phút xuống còn ba phút rưỡi, tức tiết kiệm 90 giây."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả này đến từ việc tổ chức quy trình khởi động nhanh và khoa học, chuẩn bị sẵn thiết bị cùng cơ chế trao đổi thông tin rõ ràng giữa các thành viên."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "David Richards, Chủ tịch Liên đoàn Motorsport UK - cơ quan quản lý và điều hành toàn bộ các hoạt động thể thao tốc độ của Vương quốc Anh, đồng thời là cựu lãnh đội BAR và Benetton, cho rằng một phút rưỡi tưởng chừng không đáng kể nhưng có thể mang ý nghĩa rất lớn với người đang chờ được cứu."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong bức tranh tổng thể, bạn có thể không nhận thấy một phút rưỡi. Nhưng nếu đang nằm bên đường sau tai nạn, ngã ngựa hoặc rơi xuống vách đá và bị thương, từng ấy thời gian hẳn dài như nhiều năm đối với nạn nhân\", ông nói."
+    },
+    {
+     "t": "p",
+     "text": "Richards khẳng định các bên sẽ tiếp tục hợp tác để tìm thêm giải pháp rút ngắn thời gian ứng cứu."
+    },
+    {
+     "t": "p",
+     "text": "25 năm sau khoảnh khắc bác sĩ Elliott tình cờ chứng kiến màn pit stop của McLaren, những bài học từ F1 vẫn tiếp tục được ứng dụng trong y tế. Từ chăm sóc trẻ sơ sinh đến cấp cứu khẩn cấp, môn thể thao tốc độ đang cho thấy giá trị không chỉ nằm ở những chiến thắng trên đường đua."
+    },
+    {
+     "t": "p",
+     "text": "Trong F1, một phần giây có thể quyết định thắng thua. Còn trong bệnh viện, khoảng thời gian ấy đôi khi tạo nên ranh giới giữa sự sống và cái chết."
+    },
+    {
+     "t": "p",
+     "text": "Hà Đồ (theo BBC Sport )"
+    }
+   ]
+  },
+  {
+   "id": "b9a9702eddce",
+   "order": 15,
+   "slug": "tran-thi-cam-tu-thang-nghet-tho-vao-chung-ket-giai-karate-th",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Trần Thị Cẩm Tú thắng nghẹt thở, vào chung kết giải karate thế giới",
+   "sapo": "Vượt qua đối thủ Colombia với tỷ số sít sao 3-2, võ sĩ Trần Thị Cẩm Tú giành quyền vào chung kết kumite nữ hạng -59 kg tại Giải Vô địch Karate thanh thiếu niên và U21 thế giới 2026, thắp lên hy vọng giành Huy chương vàng cho karate Việt Nam.",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/tran-thi-cam-tu-thang-nghet-tho-vao-chung-ket-giai-karate-the-gioi-1761480.html",
+   "published": "2026-10-16T12:04:40+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 493,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/b9a9702eddce-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-10-17/b9a9702eddce-0.jpg",
+     "caption": "Võ sĩ Trần Thị Cẩm Tú (trái) thắng sít sao võ sĩ Colombia để giành quyền vào chung kết. Ảnh: TTVN",
+     "w": 842,
+     "h": 561
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tại Giải Vô địch Karate thanh thiếu niên và U21 thế giới 2026 diễn ra ở Bielsko-Biała (Ba Lan), Trần Thị Cẩm Tú đã tạo dấu ấn nổi bật khi vượt qua đối thủ mạnh đến từ Colombia ở bán kết kumite nữ hạng -59 kg. Chiến thắng với cách biệt chỉ một điểm cho thấy bản lĩnh và sự tập trung của nữ võ sĩ Việt Nam trong thời khắc quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Trận bán kết diễn ra căng thẳng khi hai võ sĩ liên tục cạnh tranh điểm số. Trước đối thủ có khả năng phản công tốt, Cẩm Tú vẫn duy trì thế trận chắc chắn, tận dụng cơ hội để giành chiến thắng 3-2, qua đó ghi tên mình vào trận chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả này đưa Cẩm Tú trở thành niềm hy vọng đáng chú ý của karate Việt Nam tại giải đấu năm nay. Ngày 17-10, nữ võ sĩ sẽ đối đầu Scarfone của Pháp trong trận tranh Huy chương vàng. Đây là cơ hội để đại diện Việt Nam chinh phục đỉnh cao tại sân chơi quy tụ những võ sĩ trẻ hàng đầu thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Việc góp mặt ở trận đấu cuối cùng cho thấy Cẩm Tú đã thể hiện phong độ ổn định qua các vòng đấu. Ở hạng cân -59 kg nữ, nơi các võ sĩ đều có tốc độ, kỹ thuật và khả năng kiểm soát cự ly tốt, mỗi tình huống đều có thể quyết định kết quả. Bởi vậy, chiến thắng sát nút trước đại diện Colombia không chỉ mang ý nghĩa về mặt tỷ số mà còn khẳng định bản lĩnh thi đấu của võ sĩ Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi Cẩm Tú hướng đến trận chung kết, võ sĩ Bùi Ngọc Nhi đã khép lại hành trình ở nội dung kata cá nhân nữ U21. Ở vòng đầu, nữ võ sĩ 19 tuổi giành chiến thắng 5-0 trước đối thủ Bosnia với bài quyền Kururunfa. Tuy nhiên, tại vòng hai, Ngọc Nhi để thua đại diện Slovakia với tỷ số 2-3 khi trình diễn bài quyền Tomari Bassai, qua đó dừng bước tại giải."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần đầu Ngọc Nhi tranh tài ở nhóm tuổi U21 tại giải vô địch thế giới. Dù chưa thể tái lập thành tích huy chương ở lứa U18, giải đấu vẫn là cơ hội để nữ võ sĩ tích lũy kinh nghiệm, tiếp tục hoàn thiện chuyên môn sau những dấu ấn đáng nhớ tại Đại hội Thể thao châu Á lần thứ 20 ở Nagoya (Nhật Bản)."
+    },
+    {
+     "t": "p",
+     "text": "Tại Á vận hội vừa qua, Ngọc Nhi giành Huy chương đồng kata cá nhân nữ, trước khi cùng đội kata nữ Việt Nam đoạt Huy chương vàng và bảo vệ thành công ngôi vô địch. Thành tích cá nhân cũng đưa cô trở thành nữ võ sĩ karate thứ hai của Việt Nam giành huy chương ASIAD ở nội dung kata, sau Nguyễn Hoàng Ngân."
+    }
+   ]
+  },
+  {
+   "id": "bf42a5f6d493",
+   "order": 16,
+   "slug": "sang-che-robot-be-bang-hat-gao-de-dieu-tri-nhiem-trung-tim",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Sáng chế robot bé bằng hạt gạo để điều trị nhiễm trùng tim",
+   "sapo": "(Dân trí) - Thay vì những ca mổ mở đau đớn và kéo dài, các kỹ sư đại học Johns Hopkins vừa tạo ra bước ngoặt khi điều khiển cặp robot siêu nhỏ bằng hạt gạo",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/sang-che-robot-be-bang-hat-gao-de-dieu-tri-nhiem-trung-tim-20261016004358232.htm",
+   "published": "2026-10-16T02:56:28+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 745,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/bf42a5f6d493-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/bf42a5f6d493-0.jpg",
+     "caption": "Các kỹ sư tại đại học Johns Hopkins phát triển hệ thống hai robot siêu nhỏ (kích thước cỡ đầu bút chì và hạt gạo) nhằm điều trị viêm nội tâm mạc nhiễm khuẩn mà không cần phẫu thuật mở xâm lấn (Ảnh: ZME).",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-17/bf42a5f6d493-1.jpg",
+     "caption": "Robot không dùng pin hay động cơ bên trong mà được dẫn đường và vận hành hoàn toàn bằng từ trường ngoài tương tự nguyên lý MRI, kết hợp cùng thị giác máy tính (Ảnh: ZME).",
+     "w": 864,
+     "h": 1536
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Thay vì những ca mổ mở đau đớn và kéo dài, các kỹ sư đại học Johns Hopkins vừa tạo ra bước ngoặt khi điều khiển cặp robot siêu nhỏ bằng hạt gạo thâm nhập mô tim."
+    },
+    {
+     "t": "p",
+     "text": "Nhiễm trùng nội tâm mạc từ lâu đã trở thành nỗi ám ảnh lớn trong ngành tim mạch. Căn bệnh này khởi phát khi vi khuẩn xâm nhập vào dòng máu rồi bám chặt vào lớp màng trong hoặc các van tim, tạo nên những ổ nhiễm khuẩn dai dẳng vô cùng khó loại bỏ."
+    },
+    {
+     "t": "p",
+     "text": "Nếu không được can thiệp kịp thời, ổ bệnh có thể phá hủy van tim, gây suy tim cấp tính hoặc làm phát tán các mảnh nhiễm trùng vào hệ tuần hoàn dẫn đến đột quỵ."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, các bác sĩ thường buộc phải chỉ định bệnh nhân truyền kháng sinh liên tục qua đường tĩnh mạch suốt nhiều tuần, thậm chí phải mổ hở xâm lấn để cắt lọc tổn thương nếu thuốc không phát huy tác dụng."
+    },
+    {
+     "t": "p",
+     "text": "Thách thức nan giải nhất là làm sao đưa một lượng thuốc đủ mạnh tới đích mà không gây độc hại cho các cơ quan khác trên cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, một nhóm kỹ sư tại đại học Johns Hopkins đã tìm ra lời giải mang tính đột phá thông qua công trình công bố trên tạp chí Advanced Materials Technologies: sử dụng cặp robot siêu nhỏ phối hợp nhịp nhàng ngay bên trong quả tim."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mỗi cỗ máy tí hon này chỉ có kích thước bề ngang tương đương đầu bút chì và chiều dài xấp xỉ một hạt gạo. Điểm đặc biệt là chúng hoạt động theo cơ chế phân chia nhiệm vụ vô cùng chặt chẽ."
+    },
+    {
+     "t": "p",
+     "text": "Cỗ máy đầu tiên, được gọi là mô-đun kim, sở hữu đầu ngạnh nhỏ giúp găm chắc vào mô tim và đóng vai trò như một trạm tiếp nhận cố định. Cỗ máy thứ hai là mô-đun thuốc, mang theo lượng dược chất cần thiết, tự định hướng bơi đến trạm neo đậu, kết nối nhờ lực từ rồi từ từ giải phóng thuốc lỏng."
+    },
+    {
+     "t": "p",
+     "text": "Khi hoàn tất nhiệm vụ hoặc cần bổ sung liều lượng mới, mô-đun thuốc có thể tự tách ra để nhường chỗ cho một thiết bị thay thế khác."
+    },
+    {
+     "t": "p",
+     "text": "Khác hoàn toàn với các thế hệ robot truyền thống, những cỗ máy tí hon này không hề gắn pin hay động cơ bên trong thân. Toàn bộ hoạt động di chuyển và kết nối đều được định hướng từ xa thông qua hệ thống cuộn dây điện từ đặt bên ngoài cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Cơ chế này vận hành tương tự kỹ thuật chụp cộng hưởng từ, nhưng thay vì dựng hình ảnh nội tạng, lực từ trường được dùng để dẫn dắt robot đi kèm sự hỗ trợ của thị giác máy tính và hệ thống định vị tự động."
+    },
+    {
+     "t": "p",
+     "text": "Giáo sư Axel Krieger, tác giả cấp cao của nghiên cứu, nhấn mạnh rằng công nghệ từ tính cho phép đưa thuốc đến chính xác đích đến một cách an toàn, hạn chế tối đa nguy cơ nhiễm trùng hay mất máu mà không cần bác sĩ phải trực tiếp phẫu thuật."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong các thử nghiệm tại phòng thí nghiệm với mô hình tim nhân tạo làm từ vật liệu dạng gel có dòng chất lỏng mô phỏng mạch máu đập, cặp robot đã di chuyển thành công ngược dòng chảy."
+    },
+    {
+     "t": "p",
+     "text": "Khi tiến hành trên mô tim lợn, tỷ lệ cập bến từ tính đạt độ chính xác tuyệt đối 100%, trong khi tỷ lệ tách rời đạt 93%. Thiết bị đã giải phóng trọn vẹn 22 microlit thuốc trong vòng ba giờ, một thể tích nhỏ hơn cả một giọt nước thông thường nhưng mang lại hiệu quả tập trung cao."
+    },
+    {
+     "t": "p",
+     "text": "Dù chưa được thử nghiệm trên người và chưa trực tiếp tiêu diệt vi khuẩn trên cơ thể sống, nghiên cứu này mở ra tiềm năng thay đổi hoàn toàn phác đồ y khoa hiện đại."
+    },
+    {
+     "t": "p",
+     "text": "Trợ lý giáo sư Anuruddha Bhattacharjee tại đại học Alabama ở Birmingham, tác giả thứ nhất của công trình, nhận định phương pháp này có thể rút ngắn thời gian điều trị từ bốn đến sáu tuần xuống chỉ còn một ngày hoặc ít hơn."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đang tiếp tục hoàn thiện thử nghiệm trên các mô hình mô phỏng nhịp co bóp thực tế của quả tim."
+    }
+   ]
+  },
+  {
+   "id": "597681a153ef",
+   "order": 17,
+   "slug": "tau-voyager-1-sap-cach-trai-dat-1-ngay-anh-sang-ngoai-vu-tru",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tàu Voyager 1 sắp cách Trái Đất \"1 ngày ánh sáng\", ngoài vũ trụ có gì?",
+   "sapo": "(Dân trí) - Tàu vũ trụ Voyager 1 của NASA đang chuẩn bị thiết lập một cột mốc lịch sử mới. Vào lúc 5h16 ngày 18/11 (giờ EST), nó sẽ trở thành vật thể nhân",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/tau-voyager-1-sap-cach-trai-dat-1-ngay-anh-sang-ngoai-vu-tru-co-gi-20261016005637215.htm",
+   "published": "2026-10-15T23:58:13+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1368,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/597681a153ef-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/597681a153ef-0.jpg",
+     "caption": "Tàu Voyager 1 (Ảnh: NASA).",
+     "w": 1215,
+     "h": 810
+    },
+    {
+     "src": "img/2026-10-17/597681a153ef-1.jpg",
+     "caption": "Những vòng xoáy và dòng chảy trong khí quyển của sao Mộc được tàu Voyager 1 ghi lại vào tháng 3/1979 (Ảnh: NASA).",
+     "w": 521,
+     "h": 383
+    },
+    {
+     "src": "img/2026-10-17/597681a153ef-2.jpg",
+     "caption": "Trái Đất (trong hình tròn) được tàu Voyager 1 chụp ở khoảng cách 6 tỷ km (Ảnh: NASA).",
+     "w": 680,
+     "h": 445
+    },
+    {
+     "src": "img/2026-10-17/597681a153ef-3.jpg",
+     "caption": "Tàu Voyager mang theo đĩa vàng gửi thông điệp từ Trái Đất (Ảnh: NASA).",
+     "w": 680,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Tàu vũ trụ Voyager 1 của NASA đang chuẩn bị thiết lập một cột mốc lịch sử mới. Vào lúc 5h16 ngày 18/11 (giờ EST), nó sẽ trở thành vật thể nhân tạo đầu tiên bay cách Trái Đất đúng một ngày ánh sáng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ở khoảng cách kỷ lục 25,9 tỷ km (gấp hơn bốn lần quãng đường từ Mặt Trời đến sao Diêm Vương), một lệnh vô tuyến gửi từ mặt đất sẽ mất trọn vẹn 24 giờ để đến được con tàu và cần thêm một ngày nữa để các nhà khoa học nhận được tín hiệu hồi đáp."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 5/9/1977, tàu Voyager 1 được phóng từ Mũi Canaveral (Mỹ). Theo thời gian, Voyager 1 đã liên tục phá vỡ các giới hạn không gian suốt gần nửa thế kỷ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1998, nó vượt qua tàu Pioneer 10 để trở thành vật thể nhân tạo bay xa nhất Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2012, Voyager 1 trở thành thiết bị đầu tiên rời khỏi phạm vi bảo vệ của Hệ Mặt Trời, mở đường tiến vào không gian liên sao."
+    },
+    {
+     "t": "h",
+     "text": "Đại hành trình qua các hành tinh khí"
+    },
+    {
+     "t": "p",
+     "text": "Đầu thập niên 1970, chưa có bất kỳ phương tiện nhân tạo nào tiến xa hơn sao Hỏa. Khi đó, sự kiện hội tụ quỹ đạo hiếm hoi giữa các hành tinh lớn - hiện tượng chỉ lặp lại vào năm 2150 - đã mang lại cơ hội có một không hai: Tận dụng lực hấp dẫn hỗ trợ từ sao Mộc, sao Thổ, sao Thiên Vương và sao Hải Vương để rút ngắn thời gian thám hiểm liên hành tinh xuống dưới 15 năm."
+    },
+    {
+     "t": "p",
+     "text": "Để dự phòng rủi ro, NASA phóng hai tàu thăm dò Pioneer vào năm 1972 và 1973 nhằm tìm hiểu lộ trình trước khi chính thức đưa Voyager 1 và Voyager 2 vào quỹ đạo."
+    },
+    {
+     "t": "p",
+     "text": "Những chuyến bay ngang qua quỹ đạo các hành tinh đã mở ra một kỷ nguyên dữ liệu mang tính bước ngoặt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Voyager 1 và Voyager 2 liên tục ghi lại những hiện tượng chưa từng thấy như các cơn bão khí quyển khổng lồ trên sao Mộc, cấu trúc vành đai phức tạp bao quanh sao Thổ, hình ảnh bề mặt đầy miệng hố của mặt trăng Callisto; cùng hệ thống vành đai, với hàng chục mặt trăng mới của sao Thiên Vương và sao Hải Vương."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, vào tháng 3/1979, bốn ngày sau khi tiếp cận sao Mộc ở khoảng cách gần nhất, nhà thiên văn học Linda Morabito (JPL) đã phát hiện một cấu trúc bất thường nhô cao 250km ở rìa mặt trăng Io."
+    },
+    {
+     "t": "p",
+     "text": "Io là mặt trăng gần Sao Mộc nhất trong số 4 vệ tinh lớn do Galileo Galilei phát hiện năm 1610. Nhóm vệ tinh Galileo gồm: Io, Europa, Ganymede, Callisto."
+    },
+    {
+     "t": "p",
+     "text": "Đó là một cột khói núi lửa đang phun trào - bằng chứng đầu tiên về hoạt động địa chất ngoài Trái Đất. Bề mặt loang lổ như \"bánh pizza\" của Io xóa bỏ hoàn toàn giả định trước đó rằng vùng ngoài Hệ Mặt Trời chỉ là những khối đá băng lạnh lẽo, vô hồn."
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện này mở đường cho các sứ mệnh kế tiếp điển hình như tàu Galileo (1995-2003) tìm thấy dấu vết đại dương ngầm trên Europa và tàu Cassini (2004-2017) xác nhận các mạch nước ngầm phun trào vào không gian từ mặt trăng Enceladus của sao Thổ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Năm 1990, khi Voyager 1 ở cự ly khoảng 6 tỷ km, nhà thiên văn học Carl Sagan đã đề xuất quay ngược ống kính để chụp bức ảnh gia đình Hệ Mặt Trời lần cuối."
+    },
+    {
+     "t": "p",
+     "text": "Trong khung hình ấy, Trái Đất chỉ là một \"chấm xanh nhạt\" lơ lửng trong tia nắng. Sau khoảnh khắc lịch sử đó, camera của Voyager 1 được ngắt nguồn hoàn toàn để tiết kiệm năng lượng cho các thiết bị đo đạc vật lý."
+    },
+    {
+     "t": "h",
+     "text": "Vượt qua ranh giới nhật mãn"
+    },
+    {
+     "t": "p",
+     "text": "Trong suốt 35 năm đầu tiên, tàu Voyager 1 di chuyển bên trong nhật quyển - bong bóng plasma khổng lồ do các hạt tích điện từ gió mặt trời thổi ra - che chắn hệ hành tinh khỏi bức xạ vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, ranh giới ngoài cùng nơi gió mặt trời va chạm và cân bằng với áp suất của môi trường liên sao được gọi là \"nhật mãn\"."
+    },
+    {
+     "t": "p",
+     "text": "Về mặt vật lý plasma, đây được xem là rìa của Hệ Mặt Trời, dù lực hấp dẫn của Mặt Trời vẫn còn vươn xa hơn nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 8/2012, các cảm biến trên Voyager 1 ghi nhận bức xạ tia vũ trụ tăng vọt đồng thời mật độ hạt gió mặt trời giảm mạnh, dấu hiệu cho thấy tàu đã thoát ra ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, hướng từ trường khi đó lại chưa đảo chiều như dự tính lý thuyết, khiến cộng đồng khoa học tranh cãi suốt nhiều tháng."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị đo plasma trực tiếp trên tàu đã hỏng từ trước, nhưng may mắn đã xuất hiện vào tháng 4/2013, một vụ phun trào nhật hoa mạnh từ Mặt Trời tạo ra làn sóng áp suất truyền ra ngoài, kích thích các electron xung quanh tàu dao động."
+    },
+    {
+     "t": "p",
+     "text": "Dựa trên tần số dao động này, các nhà khoa học tính toán được mật độ plasma và xác nhận tàu Voyager 1 đã chính thức vượt qua nhật mãn vào ngày 25/8/2012 - ở khoảng cách 18 tỷ km (gấp 120 lần khoảng cách Trái Đất - Mặt Trời)."
+    },
+    {
+     "t": "h",
+     "text": "Không gian liên sao không hoàn toàn tĩnh lặng"
+    },
+    {
+     "t": "p",
+     "text": "Những gì Voyager 1 ghi nhận ngoài nhật mãn đang thách thức nhiều mô hình vật lý thiên văn. Mặc dù nhiệt độ plasma giảm, tốc độ hạt chậm lại và mật độ bụi giảm một nửa so với bên trong nhật quyển, vùng không gian này không hoàn toàn phẳng lặng."
+    },
+    {
+     "t": "p",
+     "text": "Từ năm 2012 đến nay, các nhà khoa học đã ghi nhận bốn đợt tăng đột biến về cường độ từ trường và mật độ hạt xung quanh tàu. Kể từ đợt biến động thứ tư vào giữa năm 2020, các chỉ số này vẫn duy trì ở mức cao bất thường mà chưa rõ nguyên nhân."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhà vật lý Jeewoo Park tại Trung tâm Không gian Goddard của NASA, ranh giới giữa Hệ Mặt Trời và không gian liên sao không sắc nét hay mỏng như dự đoán; Voyager 1 dường như vẫn đang chịu tác động từ các đợt sóng xung kích lan tỏa từ các vụ bùng nổ của Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Hình dạng thực sự của nhật quyển - dù là thuôn dài như đuôi sao chổi, hình cầu, hay uốn cong như sừng bò - hiện vẫn là câu hỏi mở."
+    },
+    {
+     "t": "p",
+     "text": "Dữ liệu từ tàu thám hiểm IBEX (phóng năm 2008) và tàu IMAP (phóng năm 2025) đang được kết hợp cùng các phép đo trực tiếp của Voyager để giải mã cấu trúc này."
+    },
+    {
+     "t": "p",
+     "text": "Hiện các nguồn phát điện đồng vị phóng xạ (RTG) trên hai tàu Voyager đang suy giảm công suất qua từng năm. Các nhà khoa học ước tính nguồn điện vận hành các thiết bị đo sẽ cạn kiệt trong vòng 10 đến 15 năm tới, thời điểm việc thu nhận tín hiệu từ tàu sẽ chính thức khép lại."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong khoảng 42.000 năm nữa, Voyager 2 sẽ bay ngang qua ngôi sao lùn đỏ Ross 248 ở khoảng cách 700 ngày ánh sáng. Khoảng 44.000 năm sau đó, Voyager 1 sẽ tiếp cận ngôi sao Gliese 445 ở cự ly tương tự."
+    },
+    {
+     "t": "p",
+     "text": "Trên thân mỗi con tàu đều mang theo một \"chiếc đĩa vàng\" - chứa thông điệp gửi tới nền văn minh ngoài Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Chiếc đĩa lưu trữ sơ đồ vị trí Hệ Mặt Trời, hình ảnh địa danh, lời chào bằng hàng chục ngôn ngữ, âm thanh tự nhiên của tiếng sóng, tiếng cá voi, tiếng cười, cùng các tác phẩm âm nhạc từ cổ điển..."
+    },
+    {
+     "t": "p",
+     "text": "Khi năng lượng tắt hẳn, hai tàu Voyager sẽ tiếp tục trôi dạt vô tận giữa các vì sao như những viên nang thời gian lưu giữ dấu ấn của nền văn minh loài người."
+    }
+   ]
+  },
+  {
+   "id": "fa8fd1a79cca",
+   "order": 18,
+   "slug": "cong-ty-trung-quoc-ra-robot-hinh-nguoi-cao-4-met",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Công ty Trung Quốc ra robot hình người cao 4 mét",
+   "sapo": "Mẫu robot hình người Neo1 của NeodraDynamics có kích thước \"khổng lồ\", hướng đến các công việc lắp ráp nặng, khai thác mỏ, lĩnh vực công nghiệp nguy hiểm.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/cong-ty-trung-quoc-ra-robot-hinh-nguoi-cao-4-met-5132747.html",
+   "published": "2026-10-15T23:44:04+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 670,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/fa8fd1a79cca-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-17/fa8fd1a79cca-0.jpg",
+     "caption": "Robot Neo1 của NeodraDynamics. Ảnh: NeodraDynamics",
+     "w": 1020,
+     "h": 574
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mẫu robot hình người Neo1 của NeodraDynamics có kích thước \"khổng lồ\", hướng đến các công việc lắp ráp nặng, khai thác mỏ, lĩnh vực công nghiệp nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Ra mắt tại sự kiện China International Industry Fair (CIIF) 2026 đang diễn ra 12-16/10 tại Thượng Hải, Neo1 sử dụng hệ thống khớp 41 bậc tự do chủ động trên toàn thân, cho phép thực hiện các chuyển động phức tạp. Trong đó, 39 khớp dùng bộ truyền động thủy lực kỹ thuật số thu nhỏ được NeodraDynamics tự phát triển. Hai khớp còn lại ở hai cẳng tay, dùng động cơ điện thường thấy trên robot hình người cỡ nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Theo Interesting Engineering , hệ thống khớp thủy lực được đánh giá có thể giúp máy móc đạt sức mạnh lớn trong thiết kế nhỏ gọn, nhưng đồng thời cũng đặt ra những thách thức về kỹ thuật. Các kỹ sư phải quản lý áp suất chất lỏng, độ kín, nhiệt độ và độ phức tạp của hệ thống điều khiển."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Neo1 hiện kết hợp lực từ hệ thống thủy lực với điều khiển servo điện giúp cân bằng khả năng chịu tải và độ chính xác định vị. Nói với Global Times , NeodraDynamics cho biết mỗi bộ truyền động thủy lực trên robot nặng khoảng 1 kg nhưng có thể tạo ra lực đẩy liên tục \"tính bằng tấn\", riêng tải trọng kết hợp của hai cánh tay đạt xấp xỉ 500 kg, cao hơn nhiều so với mức dưới 100 kg của hầu hết robot hình người thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Dù tập trung vào \"sức mạnh thô\", Neo1 cũng nhắm đến các nhiệm vụ đòi hỏi độ chính xác cao. NeodraDynamics tuyên bố robot đạt độ chính xác định vị lặp lại ±0,0002 inch, phù hợp với các công việc lắp ráp đòi hỏi khắt khe, cần chuyển động được kiểm soát dưới tải trọng nặng."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện NeodraDynamics cho biết, Neo1 hướng đến những công việc \"vượt ngoài phạm vi nhà máy truyền thống\", gồm đảm nhiệm lắp ráp các linh kiện nặng, vận chuyển hàng hóa tại cảng công nghiệp, khu vực chịu nhiều va đập, ô nhiễm hoặc điều kiện khắc nghiệt. Đặc biệt, chúng có thể triển khai cho các cơ sở hạt nhân, nhờ mô-đun thủy lực chịu bức xạ có thể hỗ trợ xử lý nhiên liệu hạt nhân và bảo trì thiết bị; hay hoạt động trong các vùng biển sâu vốn chịu áp lực nước lớn."
+    },
+    {
+     "t": "p",
+     "text": "Thành lập năm 2024 ở Bắc Kinh, NeodraDynamics là công ty robot Trung Quốc chuyên tập trung vào công nghệ truyền động kết hợp thủy lực và điện, thay vì chỉ phát triển robot sử dụng động cơ điện như hầu hết hãng robot hình người khác. Công ty có ba nhà đồng sáng lập từng tốt nghiệp Đại học Thanh Hoa, gồm Zhang Jianwei, chuyên gia AI và viện sĩ Viện Hàn lâm Kỹ thuật Trung Quốc; Wang Jian, chuyên gia động cơ và điều khiển servo; và Yang Tao, chuyên gia điều khiển tự động, được giới thiệu là người phát minh công nghệ thủy lực số."
+    },
+    {
+     "t": "p",
+     "text": "Trong một phỏng vấn với China Daily đầu năm nay, nhà đồng sáng lập Yang Tao cho biết mục tiêu của NeodraDynamics không chỉ dừng lại ở việc sao chép cấu trúc giải phẫu của con người. Ông lập luận, robot \"nên vượt trội con người về khả năng thể chất\", cũng như \"thực hiện các thao tác mà con người không thể làm một cách an toàn\"."
+    },
+    {
+     "t": "li",
+     "text": "Robot hình người tự nhảy vào lò nung thép"
+    },
+    {
+     "t": "li",
+     "text": "Những robot hình người đi làm 'công nhân'"
+    },
+    {
+     "t": "li",
+     "text": "Tại sao tay robot không thể khéo léo như tay người"
+    },
+    {
+     "t": "li",
+     "text": "Nhà máy 'robot sản xuất robot' đi vào hoạt động"
+    },
+    {
+     "t": "li",
+     "text": "Robot hình người tự nhảy vào lò nung thép"
+    },
+    {
+     "t": "li",
+     "text": "Những robot hình người đi làm 'công nhân'"
+    },
+    {
+     "t": "li",
+     "text": "Tại sao tay robot không thể khéo léo như tay người"
+    },
+    {
+     "t": "li",
+     "text": "Nhà máy 'robot sản xuất robot' đi vào hoạt động"
+    }
+   ]
+  },
+  {
+   "id": "32721181122e",
+   "order": 19,
+   "slug": "chip-sieu-nho-dung-ai-san-tim-dau-hieu-su-song-ngoai-trai-da",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Chip siêu nhỏ dùng AI săn tìm dấu hiệu sự sống ngoài Trái đất",
+   "sapo": "Các nhà khoa học quốc tế phát triển một cảm biến điện tử có khả năng phát hiện dấu hiệu sự sống ngoài Trái đất, giúp đơn giản hóa các phương pháp phát hiện người ngoài hành tinh hiện nay.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chip-sieu-nho-dung-ai-san-tim-dau-hieu-su-song-ngoai-trai-dat-100261016104551214.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 481,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-17/32721181122e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-17/32721181122e-0.jpg",
+     "caption": "Công nghệ đã được kiểm tra trên các mẫu đất sa mạc Atacama, Chile - Ảnh: CHRISTOPHER E. CARR",
+     "w": 800,
+     "h": 600
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu do Đại học Osaka (Nhật Bản) dẫn đầu đã phát triển phương pháp phân tích axit amin bằng một khe hẹp giữa hai dây nano vàng."
+    },
+    {
+     "t": "p",
+     "text": "Axit amin là thành phần cấu tạo nên protein, đồng thời tồn tại ở hai dạng đối xứng qua gương gọi là dạng L và dạng D."
+    },
+    {
+     "t": "p",
+     "text": "Tỉ lệ giữa hai dạng này có thể cung cấp manh mối về nguồn gốc của mẫu vật, do các quá trình sinh học trên Trái đất thường ưu tiên sử dụng axit amin dạng L."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, đặc điểm này không tự nó chứng minh sự tồn tại của sự sống, do các quá trình phi sinh học cũng có thể tạo ra axit amin."
+    },
+    {
+     "t": "p",
+     "text": "Theo trang ScienceAlert ngày 16-10, trong thiết bị mới, hai dây nano vàng được đặt cách nhau một khoảng cực nhỏ, cho phép electron xuyên qua khe nhờ hiệu ứng đường hầm lượng tử."
+    },
+    {
+     "t": "p",
+     "text": "Khi dung dịch chứa axit amin tiếp xúc với khe, dòng điện thay đổi theo cách có thể đo được."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu sử dụng trí tuệ nhân tạo để phân tích các tín hiệu điện, từ đó phân biệt dạng L và dạng D với độ chính xác hơn 80%."
+    },
+    {
+     "t": "p",
+     "text": "Theo các nhà khoa học, đây là lần đầu tiên phân biệt được tính chất đối xứng của axit amin ở cấp độ đơn phân tử nhờ phương pháp này."
+    },
+    {
+     "t": "p",
+     "text": "Hiện nay, các kỹ thuật sử dụng để phân tích axit amin thường cần thiết bị cồng kềnh, lượng mẫu tương đối lớn và nhiều bước xử lý hóa học."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, cảm biến mới có tiềm năng thu nhỏ, giảm lượng mẫu cần thiết và đơn giản hóa quá trình phân tích, phù hợp hơn với các thiết bị thăm dò không gian."
+    },
+    {
+     "t": "p",
+     "text": "Để kiểm tra công nghệ, nhóm nghiên cứu đã phân tích mẫu từ thiên thạch Murchison ở Úc và đất tại sa mạc Atacama, Chile. Kết quả cho thấy phương pháp mới có thể nhận diện những đặc điểm chính trong thành phần axit amin tương tự các kỹ thuật truyền thống."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, cảm biến vẫn cần được thử nghiệm thêm, đặc biệt là khả năng nhận diện những phân tử chưa có trong dữ liệu huấn luyện của trí tuệ nhân tạo."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị cũng chưa thể phát hiện sự sống từ xa mà phải tiếp xúc trực tiếp với mẫu vật."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu kỳ vọng công nghệ này sẽ được phát triển để tích hợp lên tàu thăm dò và xe tự hành , hỗ trợ phân tích vật chất trên sao Hỏa hoặc các vệ tinh có môi trường tiềm năng cho sự sống."
+    },
+    {
+     "t": "p",
+     "text": "Đây có thể là một công cụ mới trong hành trình tìm kiếm dấu hiệu sinh học ngoài Trái đất."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu công bố trên tạp chí Nature Communications."
+    }
+   ]
+  },
+  {
+   "id": "f1d3f2b84f64",
+   "order": 20,
+   "slug": "toi-la-artemis-allison-mjoen",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tôi là Artemis: Allison Mjoen",
+   "sapo": "Khi nhiên liệu siêu lạnh đổ vào tầng lõi và tên lửa SLS (Hệ thống Phóng Không gian) của NASA gầm lên, Allison Mjoen cùng gia đình đứng nhìn",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+   "published": "2026-10-16T14:24:29+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 998,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "I Am Artemis: Allison Mjoen",
+   "images": [
+    {
+     "src": "img/2026-10-17/f1d3f2b84f64-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1918
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khi nhiên liệu siêu lạnh đổ vào tầng lõi và tên lửa SLS (Hệ thống Phóng Không gian - Space Launch System) của NASA gầm lên, Allison Mjoen cùng gia đình đứng nhìn trong niềm kinh ngạc và tự hào. Mjoen là quản lý điều hành của Chương trình Hệ thống Mặt đất Thăm dò (Exploration Ground Systems Program) thuộc NASA, bà đã góp phần xây dựng các hệ thống và hoạt động mặt đất để một ngày nào đó đưa con người trở lại Mặt Trăng. Trong suốt 20 năm làm việc tại Trung tâm Vũ trụ Kennedy của NASA ở Florida, bà đã hỗ trợ các nhiệm vụ của Chương trình Tàu con thoi, Trạm Vũ trụ Quốc tế, và giờ đây bà đang áp dụng kinh nghiệm đó cho chương trình Artemis."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 1 tháng 4 năm 2026 là một ngày nắng đẹp, trời trong xanh dọc Bờ biển Vũ trụ Florida. Ánh nắng như làm cho mọi màu sắc nơi đường chân trời trở nên rực rỡ hơn. Khi Mjoen và các con bà đếm ngược và tiếng reo hò của đám đông vang lên quanh họ, tiếng gầm của tên lửa SLS càng lúc càng mạnh dưới chân họ. Với các con bà, đây là cơ hội để tận mắt thấy những gì mẹ mình đã góp phần làm nên. Còn với Mjoen, đó là khoảnh khắc bà sẽ không bao giờ quên."
+    },
+    {
+     "t": "p",
+     "text": "Khoảnh khắc đó cũng là lúc để bà nhìn lại những công việc đã đưa mình đến đây. Với vai trò quản lý hoạt động ngoại tuyến của tàu vũ trụ (spacecraft offline operations manager), Mjoen phụ trách điều phối các công việc diễn ra từ rất lâu trước ngày phóng. Bằng việc hỗ trợ ông Matt Czech, quản lý cấp cao về hoạt động phương tiện của hệ thống mặt đất, bà xây dựng các kế hoạch tích hợp và giám sát hoạt động mặt đất cho quá trình xử lý phương tiện Artemis, tập trung vào hoạt động của tên lửa đẩy và tàu vũ trụ Orion."
+    },
+    {
+     "t": "p",
+     "text": "Mjoen bắt đầu sự nghiệp của mình với vai trò kỹ sư hệ thống tổ bay (flight crew systems engineer) tại công ty United Space Alliance, hỗ trợ Chương trình Tàu con thoi. Nhóm của bà phụ trách việc bố trí cabin theo từng nhiệm vụ cụ thể, bao gồm thức ăn, bộ đồ vũ trụ, hàng hóa và các thiết bị mà các nhà du hành cần mang theo trên tàu con thoi."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi Chương trình Tàu con thoi kết thúc, bà chuyển sang hỗ trợ Chương trình Trạm Vũ trụ Quốc tế với vai trò kỹ sư tích hợp tải trọng (payload integration engineer). Ở vị trí này, bà là cầu nối giữa các nhà nghiên cứu thực hiện thí nghiệm với các tổ chức phát triển thiết bị cho họ. Sau đó, bà làm việc tại Văn phòng Dự án trong Hợp đồng Hỗ trợ Thử nghiệm và Vận hành, trước khi gia nhập Văn phòng Kỹ thuật Dự án Vận hành của NASA, nơi bà giữ vai trò trưởng nhóm Tích hợp và Phát triển Tải trọng Tàu vũ trụ (Spacecraft Payloads Integration and Evolution Element) cho nhiệm vụ Artemis I."
+    },
+    {
+     "t": "h",
+     "text": "\"Lúc đầu, tôi nghĩ mọi quyết định đều phải hoàn hảo, nhưng thực ra mọi việc đều là một cơ hội để học hỏi, đặc biệt là những công việc tưởng như chẳng liên quan gì vào thời điểm đó. Điều quan trọng là luôn giữ sự tò mò, làm việc chăm chỉ, xây dựng các mối quan hệ, và tin rằng mỗi bước đi đều đang chuẩn bị cho bước tiếp theo.\""
+    },
+    {
+     "t": "p",
+     "text": "Allison Mjoen"
+    },
+    {
+     "t": "p",
+     "text": "Quản lý điều hành, Chương trình Hệ thống Mặt đất Thăm dò của NASA"
+    },
+    {
+     "t": "p",
+     "text": "Sự chuẩn bị đó mang một ý nghĩa mới khi bà lần đầu hỗ trợ hoạt động tại phòng điều khiển tích hợp (integrated firing room) với vai trò kỹ sư dự án vận hành được cấp chứng chỉ trong nhiệm vụ Artemis I. Đạt được chứng chỉ này là một cột mốc quan trọng. Nhưng khi áp dụng nó vào hoạt động thực tế theo thời gian thật, bà phải đối mặt với một mức độ trách nhiệm hoàn toàn mới."
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi quyết định và mỗi lần trao đổi thông tin đều trực tiếp ảnh hưởng đến khả năng của cả nhóm tích hợp trong việc thực hiện công việc an toàn và đúng theo quy trình thử nghiệm,\" Mjoen chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Làm việc tại bàn điều khiển tích hợp đã cho thấy rõ tầm quan trọng của sự chuẩn bị, sự hợp tác và niềm tin — những bài học mà cô mang theo trong công việc điều phối giữa các nhóm ngày nay."
+    },
+    {
+     "t": "h",
+     "text": "“Tôi được hợp tác mỗi ngày với những con người vô cùng tài năng và tận tâm, tất cả đều hướng về cùng một mục tiêu. Điều đặc biệt ý nghĩa là biết rằng những nỗ lực chung của chúng tôi trực tiếp góp phần vào sự thành công của sứ mệnh.”"
+    },
+    {
+     "t": "p",
+     "text": "Allison Mjoen"
+    },
+    {
+     "t": "p",
+     "text": "Quản lý vận hành, Hệ thống mặt đất phục vụ khám phá của NASA (Exploration Ground Systems)"
+    },
+    {
+     "t": "p",
+     "text": "Với Mjoen, trải nghiệm được chia sẻ cùng nhau chính là một phần lý do khiến Artemis trở nên quan trọng. Khi chương trình Artemis tiếp tục, cô mong chờ một khoảnh khắc khác mà các gia đình sẽ được cùng nhau chứng kiến, khi các phi hành gia trở lại bề mặt Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "“Khoảnh khắc duy nhất đó đã thu hút trí tưởng tượng của mọi người trên toàn thế giới và cho thấy điều gì là có thể khi chúng ta cùng nhau hướng tới một mục tiêu lớn lao,” cô nói về lần đổ bộ Mặt Trăng đầu tiên của tàu Apollo. “Artemis đang tạo ra một khoảnh khắc như thế cho một thế hệ hoàn toàn mới, và lần này là để ở lại.”"
+    }
+   ]
+  }
+ ]
+}
