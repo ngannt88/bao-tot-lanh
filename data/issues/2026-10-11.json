@@ -1,0 +1,2854 @@
+{
+ "date": "2026-10-11",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-11T21:18:26+07:00",
+ "sections": [
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  }
+ ],
+ "articles": [
+  {
+   "id": "b7b4a60c4c6e",
+   "order": 1,
+   "slug": "chang-trai-mac-hoi-chung-tics-tro-thanh-nha-sang-tao-noi-dun",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chàng trai mắc hội chứng Tics trở thành nhà sáng tạo nội dung số triệu view",
+   "sapo": "Dù mắc hội chứng Tics, Đinh Viết Tường vẫn vượt qua nghịch cảnh để theo đuổi đam mê ca hát, lan tỏa nghị lực sống và được vinh danh Thanh niên sống đẹp năm 2026.",
+   "author": "Thanh Hùng",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/chang-trai-mac-hoi-chung-tics-tro-thanh-nha-sang-tao-noi-dung-so-trieu-view-2563598.html",
+   "published": "2026-10-11T03:03:24+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 682,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/b7b4a60c4c6e-lead.jpg",
+     "caption": "",
+     "w": 1055,
+     "h": 553
+    },
+    {
+     "src": "img/2026-10-11/b7b4a60c4c6e-0.jpg",
+     "caption": "Đinh Viết Tường - chàng trai mắc hội chứng Tics chia sẻ hành trình nghị lực tại lễ trao Giải thưởng Thanh niên sống đẹp năm 2026. Ảnh: Thanh Hùng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/b7b4a60c4c6e-1.jpg",
+     "caption": "Đinh Viết Tường (thứ ba từ trái sang) được trao Giải thưởng Thanh niên sống đẹp năm 2026.",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-11/b7b4a60c4c6e-2.jpg",
+     "caption": "15 cá nhân được vinh danh Thanh niên sống đẹp năm 2026",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/b7b4a60c4c6e-3.jpg",
+     "caption": "3 nữ sinh cùng lớp THPT trở thành bác sĩ nội trú Đại học Y Hà Nội",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/b7b4a60c4c6e-4.jpg",
+     "caption": "Cô giáo bị xe tải cán khi lao ra cứu học sinh nhận Giải thưởng Thanh niên sống đẹp",
+     "w": 1280,
+     "h": 851
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Xuyên suốt buổi gala trao Giải thưởng Thanh niên sống đẹp năm 2026, chốc lát mọi người lại nghe thấy những âm thanh ngắn đột ngột được phát ra không thể kiểm soát, và rồi thực sự nể phục nghị lực và tinh thần của Đinh Viết Tường khi anh bước lên sân khấu chia sẻ dù liên tục co giật, giao tiếp khó khăn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mắc hội chứng Tics (Tourette), từng bị kỳ thị và bắt nạt, Đinh Viết Tường (sinh năm 2002, quê Quảng Trị) vẫn vượt qua nghịch cảnh, theo đuổi đam mê nghệ thuật. Năm 2025, Tường gây xúc động tại chương trình truyền hình thực tế về âm nhạc “Tân binh toàn năng” và vào top 100, được chú ý với khả năng hát, nhảy. Năm 2026, Tường đảm nhận vai Nhân - một nạn nhân khuyết tật bị cuốn vào đường dây lừa đảo nơi biên giới, trong phim \"Trại buôn người\" - để góp phần cảnh báo nạn buôn người đang diễn ra rất nhức nhối tại nhiều quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Anh còn được biết đến là nhà sáng tạo nội dung số có sức ảnh hưởng tích cực, sở hữu kênh TikTok chạm mốc 1 triệu người theo dõi và 27 triệu lượt thích. Đây là nơi Tường lan tỏa câu chuyện nghị lực sống tới các bạn trẻ, đặc biệt là thanh niên khuyết tật. Anh còn tham gia nhiều chương trình âm nhạc, truyền hình và tích cực tham gia các hoạt động của Hội Liên hiệp thanh niên Việt Nam. Năm 2025, anh được Trung ương Hội Liên hiệp thanh niên Việt Nam tuyên dương tại chương trình “Tỏa sáng Nghị lực Việt”."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 9 vừa qua, Tường cũng có thêm vai trò mới khi trở thành Ủy viên Ủy ban Trung ương Hội Liên hiệp Thanh niên Việt Nam khóa IX. Anh được giới thiệu với tư cách nhà sáng tạo nội dung, thanh niên khuyết tật tiêu biểu và là gương “Tỏa sáng Nghị lực Việt” năm 2025."
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, Đinh Viết Tường là một trong 15 gương mặt tiêu biểu được Hội Liên hiệp Thanh niên Việt Nam lựa chọn trao Giải thưởng Thanh niên sống đẹp năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Clip Đinh Viết Tường chia sẻ tinh thần và nghị lực vượt nghịch cảnh dù rất khó khăn trong giao tiếp:"
+    },
+    {
+     "t": "p",
+     "text": "Viết Tường chia sẻ rất vui và hạnh phúc khi được mọi người yêu mến, đón nhận và động viên. “Được đứng ở lễ trao giải thưởng Thanh niên sống đẹp là niềm vinh hạnh rất lớn với bản thân tôi. Cảm xúc lớn nhất của tôi là sự biết ơn vì mình được sống, được sinh ra, được cống hiến, dấn thân và được chia sẻ hành trình của chính mình”, Tường nói."
+    },
+    {
+     "t": "p",
+     "text": "Tường hy vọng câu chuyện của mình có thể góp phần thể hiện tinh thần của thanh niên Việt Nam dám nghĩ, dám làm."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chàng trai muốn gửi tới mọi người thông điệp mà bản thân luôn tâm đắc: “Nếu không có những tháng ngày “ngụp lặn trong những vũng bùn” thì chúng ta sẽ không biết được những thứ đẹp đẽ như hoa sen vốn được mọc ra từ đó. Không có một chặng đường nào dẫn tới thành công trải đầy hoa hồng, song cũng không có khó khăn nào sẽ kéo dài mãi mãi. Khi chúng ta tin vào bản thân mình, tự tin vào giá trị bản thân và không ngừng cố gắng, một ngày nào đó, nỗ lực sẽ được đền đáp”."
+    },
+    {
+     "t": "p",
+     "text": "Viết Tường cho rằng, có thể bản thân chưa có một thành tựu nào lớn, nhưng ít nhất bản thân đã dám làm và bước ra khỏi vùng an toàn của chính mình. Chàng trai mong rằng câu chuyện, hành trình của bản thân có thể tiếp thêm động lực cho các bạn trẻ trong cuộc sống. “Nếu ngày hôm nay quá mệt mỏi, hãy cho phép bản thân đi ngủ một chút và tiếp tục cố gắng vào ngày mai, bởi phía trước là bầu trời”, Tường nói."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "7762c7f6cad1",
+   "order": 2,
+   "slug": "hoa-si-nhi-cherry-ban-tranh-gop-tien-giup-benh-nhi-kho-khan",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "‘Họa sĩ nhí’ Cherry bán tranh, góp tiền giúp bệnh nhi khó khăn",
+   "sapo": "Với Cherry, hội họa không chỉ là niềm đam mê, mà đó còn là cách để cô bé 11 tuổi lan tỏa những thông điệp nhân văn đến những người bạn kém may mắn.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/hoa-si-nhi-cherry-ban-tranh-gop-tien-giup-benh-nhi-kho-khan-185261010205731574.htm",
+   "published": "2026-10-10T14:41:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 490,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/7762c7f6cad1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/7762c7f6cad1-0.jpg",
+     "caption": "Cherry được gia đình ủng hộ khi phát triển niềm đam mê hội họa",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-11/7762c7f6cad1-1.jpg",
+     "caption": "Những tác phẩm mới là góc nhìn trong trẻo của cô bé 11 tuổi về cuộc sống xung quanh",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cherry tên thật là Phan Ngọc Minh, đến từ TP.HCM. Cô bé được biết đến là một họa sĩ nhí có niềm đam mê hội họa và tích cực tham gia các hoạt động thiện nguyện. Bắt đầu cầm cọ từ năm 3 tuổi, Cherry dần xem hội họa như một phần tự nhiên trong cuộc sống. Với sự động viên, ủng hộ của gia đình, đến nay, em đã hoàn thành hơn 200 bức tranh mang phong cách tự do, phóng khoáng và giàu màu sắc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thế giới tranh của Cherry không bị bó buộc trong những khuôn mẫu. Từ cây cối, động vật, con người đến những cảnh vật quen thuộc, cô bé 11 tuổi đều thể hiện qua góc nhìn riêng, hồn nhiên, giàu trí tưởng tượng và ngập tràn màu sắc."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi bức tranh là một câu chuyện nhỏ được kể bằng sắc màu. Nhưng điều khiến hành trình của Cherry trở nên đặc biệt không chỉ là niềm đam mê hay khả năng hội họa, mà còn ở mong muốn dùng chính những tác phẩm của mình để giúp đỡ người khác, lan tỏa yêu thương đến những em nhỏ có hoàn cảnh khó khăn."
+    },
+    {
+     "t": "h",
+     "text": "Từ niềm đam mê đến hành trình sẻ chia"
+    },
+    {
+     "t": "p",
+     "text": "Từ tháng 8.2024 đến tháng 11.2025, Cherry đã phối hợp với một quỹ thiện nguyện bán hơn 51 bức tranh, thu về hơn 530 triệu đồng. Toàn bộ số tiền này được cô bé cùng quỹ sử dụng để hỗ trợ chi phí cho 53 ca phẫu thuật của trẻ em có hoàn cảnh khó khăn tại Bệnh viện Nhi đồng 1 và Bệnh viện Nhi đồng 2 (TP.HCM)."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong tháng 10 và 11.2026, Cherry tiếp tục giới thiệu 93 tác phẩm tại các không gian ở TP.HCM. Theo thông tin từ chương trình, 80% doanh thu bán tranh sẽ được trích vào quỹ để hỗ trợ những em nhỏ có hoàn cảnh khó khăn, cần được giúp đỡ. Qua đó, cô bé tiếp tục nối dài hành trình sẻ chia mà mình đã bắt đầu từ trước."
+    },
+    {
+     "t": "p",
+     "text": "Ngay trong ngày đầu tiên, 84 bức tranh đã tìm được chủ nhân, mang về tổng doanh thu 555 triệu đồng. Kết quả này cho thấy sức lan tỏa của những tác phẩm hội họa khi được kết nối với một mục đích nhân văn: từ niềm đam mê của một cô bé, những bức tranh có thể góp phần mang đến cơ hội điều trị cho các bệnh nhi khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 14.10 tới, Cherry sẽ cùng quỹ thiện nguyện đến Bệnh viện Nhi đồng 1 trao những phần quà được gửi gắm từ nguồn thu bán tranh đến các em nhỏ mắc bệnh hiểm nghèo. Với cô bé, nghệ thuật không chỉ là những nét vẽ hay sắc màu, mà còn là nhịp cầu kết nối những tấm lòng, để yêu thương được sẻ chia và hy vọng được tiếp thêm."
+    }
+   ]
+  },
+  {
+   "id": "a996b448fa21",
+   "order": 3,
+   "slug": "ca-gia-dinh-cung-len-san-khau-nhan-bang-thac-si-nhan-vat-nhi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cả gia đình cùng lên sân khấu nhận bằng thạc sĩ, nhân vật nhí gây chú ý",
+   "sapo": "Trong lễ tốt nghiệp tại ĐH Kinh tế TP.HCM, vợ chồng Thúy Nhiên cùng nhận bằng thạc sĩ. Đặc biệt, cậu con trai 4 tuổi cũng diện lễ phục giống ba mẹ và cùng bước lên sân khấu. Đằng sau khoảnh khắc ấy là hành trình đầy nỗ lực của đôi vợ chồng trẻ.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ca-gia-dinh-cung-len-san-khau-nhan-bang-thac-si-nhan-vat-nhi-gay-chu-y-185261011140901965.htm",
+   "published": "2026-10-11T07:23:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1022,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/a996b448fa21-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/a996b448fa21-0.jpg",
+     "caption": "Cả gia đình nhỏ cùng diện lễ phục lên sân khấu nhận bằng thạc sĩ",
+     "w": 1280,
+     "h": 797
+    },
+    {
+     "src": "img/2026-10-11/a996b448fa21-1.jpg",
+     "caption": "Vợ chồng Thúy Nhiên và Thế Anh cùng nhận bằng thạc sĩ ngành quản trị kinh doanh",
+     "w": 1280,
+     "h": 983
+    },
+    {
+     "src": "img/2026-10-11/a996b448fa21-2.jpg",
+     "caption": "Đôi bạn trẻ chụp ảnh cùng người thân trong ngày tốt nghiệp thạc sĩ",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/a996b448fa21-3.jpg",
+     "caption": "Từ bạn đời, đồng nghiệp đến bạn học, vợ chồng Nhiên luôn đồng hành, hỗ trợ nhau",
+     "w": 1280,
+     "h": 1356
+    },
+    {
+     "src": "img/2026-10-11/a996b448fa21-4.jpg",
+     "caption": "Vợ chồng trẻ vừa đi làm, chăm con vừa cùng nhau chinh phục tấm bằng thạc sĩ",
+     "w": 1280,
+     "h": 956
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Cả nhà cùng lên sân khấu trong ngày đặc biệt"
+    },
+    {
+     "t": "p",
+     "text": "Trong lễ tốt nghiệp tại ĐH Kinh tế TP.HCM diễn ra ngày 10.10, sự xuất hiện của một gia đình ba người trong những bộ lễ phục giống nhau khiến nhiều người chú ý. Đó là gia đình của Lê Thúy Nhiên và Dương Thế Anh (cùng 26 tuổi, sống tại Đồng Nai)."
+    },
+    {
+     "t": "p",
+     "text": "Sau hai năm cùng theo học chương trình thạc sĩ quản trị kinh doanh, đôi vợ chồng trẻ đã có một ngày tốt nghiệp đặc biệt khi không chỉ nhận bằng cùng nhau mà còn có cậu con trai 4 tuổi bên cạnh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhiên kể, hai vợ chồng học cùng lớp, đến kỳ làm luận văn dù khác giảng viên hướng dẫn nhưng lại được xếp bảo vệ trước cùng một hội đồng. Cả hai đều bảo vệ thành công và kịp tốt nghiệp chung đợt, số thứ tự nhận bằng cũng gần nhau."
+    },
+    {
+     "t": "p",
+     "text": "Vì muốn lưu giữ dấu mốc đáng nhớ của gia đình, Nhiên nảy ra ý tưởng đưa con trai cùng lên sân khấu và tự đặt mua cho bé một bộ lễ phục thạc sĩ giống ba mẹ. Dù vậy, đến sát ngày tốt nghiệp, cô vẫn có chút ngại ngùng. \"Ban đầu mình cũng ngại, nhưng chồng nói đời có một lần nên quyết định 'chơi luôn'\", Nhiên vui vẻ kể."
+    },
+    {
+     "t": "p",
+     "text": "Không ngờ, sự xuất hiện của thành viên nhỏ tuổi nhất lại khiến khoảnh khắc nhận bằng của hai vợ chồng thêm đặc biệt. Nhìn xuống hội trường, thấy mọi người mỉm cười, vỗ tay chúc mừng, Nhiên vừa vui vừa xúc động. Những đêm thức khuya làm bài, những lần tất bật giữa công việc và chăm con như được đền đáp bằng khoảnh khắc cả gia đình đứng cạnh nhau trên sân khấu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Khoảnh khắc đó mình cảm thấy biết ơn, tự hào và hạnh phúc vì hành trình nỗ lực của hai vợ chồng cuối cùng cũng gặt hái được thành quả\", Nhiên chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Là người trực tiếp chứng kiến khoảnh khắc đặc biệt ấy, Nguyễn Ngọc Trâm (26 tuổi), bạn học cùng lớp thạc sĩ với vợ chồng Nhiên, cho biết cô không khỏi xúc động khi thấy cả gia đình cùng bước lên sân khấu. Theo Trâm, hình ảnh cậu bé ngoan ngoãn đứng cạnh ba mẹ đã tạo nên một khoảnh khắc đẹp, khiến những người chứng kiến vui lây."
+    },
+    {
+     "t": "p",
+     "text": "\"Cả hội trường lúc ấy vang lên những tràng pháo tay ấm áp, mọi người xung quanh đều mỉm cười. Mình cảm thấy rất trân trọng sự cố gắng bền bỉ của vợ chồng Nhiên, bởi vừa chăm sóc con nhỏ, vừa hoàn thành chương trình cao học là điều không dễ dàng\", Trâm chia sẻ."
+    },
+    {
+     "t": "h",
+     "text": "Những đêm vừa chăm con ốm, vừa làm bài tập cuối kỳ"
+    },
+    {
+     "t": "p",
+     "text": "Trước khi trở thành vợ chồng, Nhiên và Thế Anh gặp nhau trong Chiến dịch tình nguyện Mùa hè xanh năm 2019. Hai năm sau, họ cùng bạn khởi nghiệp với trung tâm Anh ngữ. Năm 2022, cả hai cùng tốt nghiệp đại học và đến năm 2024 lại tiếp tục đăng ký học thạc sĩ chung lớp."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Từ những người bạn đồng hành trong cuộc sống, công việc, cả hai trở thành bạn học, cùng chia sẻ những áp lực trên giảng đường."
+    },
+    {
+     "t": "p",
+     "text": "Để theo đuổi việc học, vợ chồng Nhiên phải sắp xếp thời gian giữa công việc điều hành trung tâm, chăm sóc con nhỏ và những chuyến đi từ Biên Hòa lên TP.HCM. Năm đầu, cả hai chọn lịch học cuối tuần để thuận tiện di chuyển. Sau đó, lịch học chuyển sang các buổi tối trong tuần."
+    },
+    {
+     "t": "p",
+     "text": "Ban ngày, khi con đến trường, hai vợ chồng tranh thủ làm việc, chủ yếu quản lý trung tâm từ xa. Buổi tối, nếu Nhiên bận, Thế Anh sẽ chăm con, có ông bà hỗ trợ. Khi xong việc, cô lại dành thời gian chơi với con, cho con ngủ để chồng tiếp tục công việc còn dang dở."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Dẫu cố gắng sắp xếp, không phải lúc nào mọi chuyện cũng diễn ra thuận lợi. Nhiên kể vất vả nhất là những đợt con bị ốm đúng lúc hai vợ chồng phải hoàn thành bài tập cuối kỳ. Có những đêm, cả hai vừa thức chăm con, vừa tranh thủ làm bài, mệt mỏi vì thiếu ngủ nhưng vẫn phải cố gắng để không chậm tiến độ học tập."
+    },
+    {
+     "t": "p",
+     "text": "\"Những lúc đó vừa lo cho con, vừa áp lực bài vở. Nhưng hai vợ chồng cùng động viên, thay nhau chăm sóc con rồi cũng vượt qua hết\", Nhiên kể."
+    },
+    {
+     "t": "p",
+     "text": "Với Thế Anh, điều giúp cả hai đi đến ngày tốt nghiệp không chỉ là sự cố gắng của mỗi người mà còn là cách vợ chồng san sẻ trách nhiệm. \"Quan trọng nhất không phải là chia đều mọi việc, mà là biết chia sẻ và linh hoạt gánh vác cùng nhau. Nhìn lại, tôi thấy may mắn vì cả hai luôn có nhau đồng hành\", anh bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đôi vợ chồng cũng biết ơn ông bà hai bên đã giúp chăm sóc con trong những ngày cả hai bận học, cùng người bạn thân đã hỗ trợ công việc tại trung tâm để họ có thêm thời gian hoàn thành chương trình thạc sĩ. Sau hai năm vừa học, vừa làm và chăm con, điều Nhiên và Thế Anh có được không chỉ là hai tấm bằng thạc sĩ mà còn là một kỷ niệm đặc biệt của gia đình nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Với Thế Anh, bức ảnh cả ba cùng mặc lễ phục trên sân khấu sẽ là điều anh muốn con trai nhìn lại khi lớn lên. Còn Nhiên mong con hiểu rằng trên hành trình theo đuổi mục tiêu của mình, con sẽ luôn có gia đình ở bên."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình mong con trai sau này lớn lên luôn là người có mục tiêu, luôn nỗ lực trên hành trình của con, vì ba mẹ sẽ luôn bên cạnh, đồng hành như cách ông bà đã đồng hành cùng ba mẹ\", Nhiên bày tỏ."
+    }
+   ]
+  },
+  {
+   "id": "9d218d898fc3",
+   "order": 4,
+   "slug": "nam-sinh-8-0-ielts-sat-top-1-the-gioi-nhan-hoc-bong-gan-1-ti",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nam sinh 8.0 IELTS, SAT top 1% thế giới nhận học bổng gần 1 tỉ đồng",
+   "sapo": "Với loạt thành tích học thuật và chăm tham gia hoạt động ngoại khoá, Nguyễn Hoàng Lâm, 18 tuổi, được trường ĐH cùng chính phủ New Zealand trao nhiều học bổng với tổng giá trị 65.000 NZD (975 triệu đồng).",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nam-sinh-80-ielts-sat-top-1-the-gioi-nhan-hoc-bong-gan-1-ti-dong-185261011112322439.htm",
+   "published": "2026-10-11T04:43:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1280,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/9d218d898fc3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/9d218d898fc3-0.jpg",
+     "caption": "Nguyễn Hoàng Lâm phát biểu tại lễ trao học bổng chính phủ New Zealand hôm 10.10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9d218d898fc3-1.jpg",
+     "caption": "Nguyễn Minh Khôi nhận chứng nhận học bổng từ đại diện chính phủ New Zealand",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9d218d898fc3-2.jpg",
+     "caption": "Ông Scott James, Tổng lãnh sự kiêm Tham tán Thương mại New Zealand tại TP.HCM, phát biểu chào mừng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9d218d898fc3-3.jpg",
+     "caption": "Các chủ nhân học bổng NZUA và NZUA năm 2026",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Mong muốn đền đáp cho cộng đồng"
+    },
+    {
+     "t": "p",
+     "text": "Cơ quan Giáo dục New Zealand (ENZ) ngày 10.10 tổ chức lễ trao học bổng chính phủ New Zealand bậc trung học (NZSS) và ĐH (NZUA) cho 18 học sinh Việt Nam trong đó có Nguyễn Hoàng Lâm, cựu học sinh Trường THPT Phan Châu Trinh (Đà Nẵng) và chuẩn bị trở thành tân sinh viên ĐH Otago (New Zealand). Đại diện phát biểu, Hoàng Lâm chia sẻ một trong những điều thử thách nhất khi ứng tuyển là quay video theo yêu cầu của chương trình học bổng."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi nhớ mình đã dành khá nhiều thời gian để lên ý tưởng, quay và chỉnh sửa video bởi tôi muốn video đó thực sự thể hiện được con người mình và lý do mình muốn học tập tại New Zealand\", Lâm nói."
+    },
+    {
+     "t": "p",
+     "text": "Bên lề, Lâm kể với Thanh Niên rằng bạn từng đạt 8.0/9.0 IELTS và 1.580/1.600 SAT - thuộc top 1% thí sinh điểm cao nhất thế giới. Ngoài ra, chàng trai tới từ Đà Nẵng cũng liên tục \"đổi màu\" huy chương trong các cuộc thi học thuật, từ giải nhì, ba thi học sinh giỏi cấp trường lớp 10, 11 đến giải nhất học sinh giỏi cấp thành phố vào lớp 12 - tất cả đều ở môn tiếng Anh - cùng điểm trung bình chạm mức 9,4."
+    },
+    {
+     "t": "p",
+     "text": "Chưa kể, trong những năm THPT, Lâm còn cùng bạn bè khởi nghiệp một dự án về bán nến thơm, nơi các bạn tự chủ động tất cả mọi khâu từ đi tìm nguồn hàng, tiếp thị tới vận chuyển cho khách hàng. Theo Lâm, mục tiêu chính của dự án không phải là tìm kiếm lợi nhuận mà là để những người bạn cùng lớp chung đam mê kinh doanh như em có thể làm quen, cọ xát với công việc bán hàng thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh cũng thường tham gia các hoạt động xã hội, như gần đây nhất là cùng bạn bè tới một điểm trường ở tỉnh miền núi Sơn La để hỗ trợ vật chất và tinh thần cho các học sinh. Đây cũng là một trong những bước ngoặt giúp Lâm vững tin chọn theo đuổi ngành tài chính và phân tích kinh doanh, với mục tiêu hình thành một mô hình tài chính bền vững để có thể đáp đền tiếp nối cho cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Lâm kể thêm, ban đầu bạn dự định nộp hồ sơ vào các trường Mỹ và Phần Lan để ứng tuyển và cạnh tranh học bổng. Nhưng vì lo chính sách thay đổi, bạn chuyển hướng vào phút chót và quyết định chọn New Zealand làm \"bến đỗ\" mới vì ấn tượng với vẻ bình yên, thân thiện \"rất gần gũi với quê hương\" song song với chất lượng đào tạo."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi hy vọng trong tương lai có thể hợp tác với bạn bè từ nhiều quốc gia khác nhau để mở đường quảng bá cho các sản phẩm của Việt Nam tiến ra thế giới\", nam sinh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tương tự Nguyễn Hoàng Lâm, Nguyễn Minh Khôi, cựu học sinh Trường TH-THCS-THPT Quốc tế Việt Úc (TP.HCM), cũng đạt các học bổng từ ĐH Otago và chính phủ New Zealand với tổng giá trị 65.000 NZD. ENZ thông tin đây là 2 trường hợp đầu tiên đạt mức học bổng cao gần 1 tỉ đồng nhờ cơ chế cộng dồn - cho phép ứng viên tích lũy giá trị học bổng NZUA, vốn ở mức 15.000 NZD (218 triệu đồng), với các học bổng khác do trường cung cấp."
+    },
+    {
+     "t": "p",
+     "text": "Khôi cho Thanh Niên hay sẽ học ngành công nghệ sinh học với hy vọng phát triển các giống cây trồng phù hợp với môi trường Việt Nam, nhất là khi nước ta đang ngày càng chịu ảnh hưởng rõ rệt bởi biến đổi khí hậu. Ý định này xuất phát từ câu chuyện thực tế khi Khôi có dịp nghe các bác nông dân chia sẻ về việc mùa màng gặp khó khăn do hạn hán và lũ lụt trong thời gian gần đây."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều đó khiến tôi trăn trở nhiều và muốn tìm cách hỗ trợ vì Việt Nam cũng là nước có thế mạnh nông nghiệp\", nam sinh kể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Lời khuyên chinh phục học bổng"
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, chính phủ New Zealand tăng suất học bổng NZUA cho Việt Nam - tuy nhiên, số ứng viên đạt được học bổng lại giảm so với năm trước, tập trung ở 3 trường ĐH là Waikato, Otago và Auckland."
+    },
+    {
+     "t": "p",
+     "text": "Ông Ben Burrowes, Giám đốc khu vực Bắc Á và Đông Nam Á của ENZ, chia sẻ với Thanh Niên rằng việc này xuất phát từ 2 nguyên nhân. Thứ nhất, NZUA là chương trình học bổng khá cạnh tranh và đánh giá ứng viên một cách toàn diện chứ không chỉ dựa vào một yếu tố đơn lẻ như điểm số. Thứ hai, có những ứng viên cũng cân nhắc nộp hồ sơ cho nhiều chương trình và nhiều quốc gia khác nhau chứ không chỉ dồn sức cho mỗi NZUA."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi rất hài lòng với chất lượng hồ sơ của các chủ nhân học bổng năm nay. Tài năng, sức sáng tạo lẫn lòng quyết tâm của các bạn học sinh Việt luôn truyền cảm hứng cho chúng tôi. Mỗi hồ sơ đều kể một câu chuyện về khát vọng, nghị lực, khiến quá trình xét duyệt vừa là thử thách vừa là niềm vui to lớn. Chúng tôi sẽ tiếp tục triển khai NZUA vào năm tới, và cả những năm tiếp theo\", ông Burrowes chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Vị giám đốc cho biết thêm để chinh phục NZUA, học sinh nên xác định rõ lộ trình học tập, thể hiện được mình muốn phát triển những kiến thức, kỹ năng gì để xây dựng sự nghiệp và nền giáo dục New Zealand có thể giúp hiện thực hóa điều đó ra sao. \"Chúng tôi muốn hiểu rõ các mục tiêu, định hướng dài hạn của ứng viên, thế nên các bạn nên chủ động khám phá từ sớm dẫu điều này có thể hơi thử thách với độ tuổi trung học\", ông nhận định."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Gửi lời khuyên đến các chủ nhân học bổng, Tổng lãnh sự kiêm Tham tán Thương mại New Zealand tại TP.HCM Scott James dặn dò \"đừng chỉ đến lớp rồi về nhà\" mà hãy thực sự dấn thân. Hãy gặp gỡ những người mới, thử những điều mới, khám phá cộng đồng nơi các bạn sinh sống, đặt câu hỏi, kết bạn, chia sẻ văn hóa Việt Nam vì chính New Zealand cũng mong được học hỏi từ chính các bạn."
+    },
+    {
+     "t": "p",
+     "text": "\"Hãy mang theo văn hóa Việt Nam, những trải nghiệm, góc nhìn, ý tưởng của các bạn. Các trường trung học, ĐH và cộng đồng New Zealand sẽ trở nên phong phú hơn khi có sự hiện diện của các bạn. Và khi trở về Việt Nam hay tiếp tục hành trình của mình ở bất cứ nơi đâu, tôi hy vọng các bạn cũng sẽ mang theo một phần New Zealand trong hành trang của mình\", ông James nhắn nhủ."
+    },
+    {
+     "t": "p",
+     "text": "NZUA và NZSS là 2 chương trình học bổng của chính phủ New Zealand dành riêng cho học sinh Việt Nam. Sự kiện năm nay là lần đầu tiên cả hai thế hệ nhận học bổng cùng hiện diện trong một lễ vinh danh, thể hiện cam kết mạnh mẽ của chính phủ New Zealand trong việc liên tục mở rộng cơ hội tiếp cận nền giáo dục chất lượng cao cho học sinh Việt Nam ở nhiều cấp học, theo ENZ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "9c52822c1576",
+   "order": 5,
+   "slug": "ho-canxi-xanh-ngoc-nhu-ruong-bac-thang-trong-hang-dong-dai-h",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km",
+   "sapo": "(Dân trí) - Sâu trong lòng hang Over ở Vườn Quốc gia Phong Nha - Kẻ Bàng (Quảng Trị), những hồ canxi xếp tầng nối tiếp nhau hết sức độc đáo. Hồ càng trở nên",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/ho-canxi-xanh-ngoc-nhu-ruong-bac-thang-trong-hang-dong-dai-hon-3km-20261010162139760.htm",
+   "published": "2026-10-11T01:03:48+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 567,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/9c52822c1576-0.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-1.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-2.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-3.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-4.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-5.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-6.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-7.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-8.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-9.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-10.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9c52822c1576-11.jpg",
+     "caption": "Hồ canxi xanh ngọc như ruộng bậc thang trong hang động dài hơn 3km - 12",
+     "w": 1120,
+     "h": 747
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Nằm trong hệ thống hang Vòm ở Vườn Quốc gia Phong Nha - Kẻ Bàng (Quảng Trị), hang Over có chiều dài hơn 3km, cửa hang rộng khoảng 30m, cao 25m."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong hang Over có không gian mở rộng, một số vị trí lên đến 125m, tạo nên không gian kỳ vĩ giữa lòng núi đá vôi."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sâu trong hang Over, các hồ canxi nằm nối tiếp nhau thành từng tầng giữa nền đá vôi, tạo nên cảnh tượng tựa những thửa ruộng bậc thang thu nhỏ. Khi được nước lấp đầy vào mùa mưa, các mặt hồ hiện lên với màu xanh trong, làm nổi bật những đường gờ đá tự nhiên hình thành qua thời gian dài."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nền hang Over xuất hiện nhiều hồ và thềm canxi với các đường gờ tự nhiên xếp nối tiếp. Những cấu trúc này được hình thành khi nước mang khoáng chất chảy qua đá vôi, sau đó kết tủa và bồi đắp từng lớp. Qua thời gian dài, quá trình ấy tạo nên địa hình phân tầng đặc biệt, khác với nền đá thông thường trong hang động."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Vẻ đẹp của những hồ canxi thay đổi theo lượng nước trong hang. Sau các đợt mưa, nước thấm qua những tầng đá, len theo khe nứt rồi chảy xuống nền hang, lấp đầy các hố và thềm canxi. Khi mặt nước phủ lên những bậc đá, các hồ nhỏ liên tiếp hiện ra, tạo nên cảnh quan xanh ngọc hiếm gặp."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Những đường viền bao quanh hồ là kết quả của quá trình khoáng chất kết tủa và tích tụ theo dòng nước. Qua thời gian, các lớp canxi tạo thành những bờ ngăn tự nhiên, phân chia nền hang thành nhiều hố và bậc khác nhau. Đây là dạng cấu trúc địa chất góp phần tạo nên diện mạo riêng của hang Over."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Không phải thời điểm nào những hồ canxi ở hang Over cũng đầy nước. Khi mực nước hạ xuống, các hố khô và bậc đá lộ ra, cho thấy rõ cấu trúc phân tầng trên nền hang. Sự thay đổi này khiến cùng một khu vực có thể mang diện mạo khác nhau tùy theo điều kiện thủy văn."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh những hồ canxi, hang Over còn có hệ thống thạch nhũ đa dạng, được tạo nên trong quá trình kiến tạo hang động."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Hang Over là một phần của tuyến khám phá Hang Đại Ả - Over - Pygmy, nơi thu hút những người yêu thích trải nghiệm thiên nhiên và địa hình hang động. Hành trình tham quan đòi hỏi du khách tuân thủ lộ trình và hướng dẫn an toàn của đơn vị khai thác du lịch để tránh gây tác động đến hang động."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có ở hang Over, các hồ canxi còn là nét đặc biệt tại một số khu vực thuộc hệ thống hang động ở Phong Nha - Kẻ Bàng. Trong ảnh là khung cảnh tuyệt đẹp như cung điện tại hang Hung Thoòng."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Phong Nha - Kẻ Bàng đã ghi nhận là hơn 470 hang động, tổng chiều dài trên 250km, đưa khu vực này trở thành một trong những vùng karst có hệ thống hang động phong phú và độc đáo bậc nhất thế giới."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Hang Over nằm sâu trong rừng nguyên sinh tại Vườn Quốc gia Phong Nha - Kẻ Bàng (Ảnh: Google Maps)."
+    }
+   ]
+  },
+  {
+   "id": "218de393e8a6",
+   "order": 6,
+   "slug": "khu-nha-treo-giua-rung-mang-den-duoc-de-cu-giai-thuong-the-g",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới",
+   "sapo": "(Dân trí) - Những căn nhà được dựng trên cây ở Măng Đen đã tạo nên không gian độc đáo, gần gũi với thiên nhiên. Đây cũng là một trong 5 đại diện của Việt",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/khu-nha-treo-giua-rung-mang-den-duoc-de-cu-giai-thuong-the-gioi-20261008143235668.htm",
+   "published": "2026-10-11T05:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 805,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/218de393e8a6-0.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-1.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-2.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-3.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-4.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 5",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-5.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-6.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-7.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-8.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-9.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-10.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/218de393e8a6-11.jpg",
+     "caption": "Khu nhà “treo” giữa rừng Măng Đen được đề cử giải thưởng thế giới - 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Điểm du lịch Măng Đen Treehouse ở xã Măng Đen, tỉnh Quảng Ngãi, thời gian gần đây thu hút nhiều du khách tham quan, trải nghiệm. Điểm đặt biệt của Măng Đen Treehouse là căn nhà được xây dựng một cách khéo léo, vững chắc trên các thân cây cổ thụ hoặc trên cột gỗ cao, ẩn mình dưới cánh rừng xanh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ông Trần Hào Hiệp (SN 1977, trú tại xã Măng Đen), chủ nhân điểm du lịch Măng Đen Treehouse, cho biết thay vì san gạt mặt bằng để xây dựng những khối nhà kiên cố, ông lựa chọn đưa công trình lên cao, thiết kế theo địa hình tự nhiên và giữ lại phần lớn cây xanh hiện hữu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trên quỹ đất thương mại, dịch vụ rộng hơn 15ha, ông Hiệp bắt đầu xây dựng những căn nhà đầu tiên từ năm 2022. Đến nay, điểm du lịch Măng Đen Treehouse đã có 8 căn nhà để phục vụ du khách. Mỗi căn rộng khoảng 40m2, được dựng trên cột gỗ hoặc bố trí bám theo những thân cây lớn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Những căn nhà được thiết kế, thi công luồn qua từng thân cây để hạn chế tối đa việc tác động đến cảnh quan. Toàn bộ vật liệu xây dựng chủ yếu là gỗ, tre, nứa và các vật liệu thân thiện với môi trường, vừa giữ được vẻ mộc mạc đặc trưng của Tây Nguyên và giảm thiểu tác động đến cảnh quan tự nhiên."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Bên trong các căn nhà \"treo\" trên cây, nội thất được làm chủ yếu bằng gỗ, tạo cảm giác ấm cúng. Hệ thống cửa kính lớn mở ra khung cảnh rừng xanh, giúp du khách vừa nghỉ ngơi và tận hưởng không gian gần gũi với thiên nhiên."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Những căn nhà gỗ được bố trí xen giữa các thân cây, tạo nên không gian nghỉ dưỡng độc đáo, gần gũi với thiên nhiên. Thiết kế này giúp du khách tận hưởng không gian xanh và cảm nhận vẻ yên bình giữa núi rừng Măng Đen."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Trần Hào Hiệp, việc xây dựng những căn nhà trên cao đòi hỏi khảo sát và tính toán kết cấu phù hợp với địa hình. Do đó, quá trình thi công cũng gặp nhiều khó khăn khi công nhân phải đưa vật liệu lên cao, lắp đặt kết cấu trong không gian có nhiều cây xanh. Những yêu cầu này khiến thời gian, chi phí nhân công và vật liệu cao hơn so với các công trình được xây dựng trên mặt bằng thông thường."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Những căn nhà được dựng tách biệt với nhau. Lối đi bên trong điểm du lịch Măng Đen Treehouse rợp bóng cây xanh. Du khách thường đạp xe, dạo bộ giữa những hàng thông và thảm dương xỉ mọc dày hai bên đường, tận hưởng không gian yên tĩnh, gần gũi với thiên nhiên."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Giữa không gian nghỉ dưỡng, ông Hiệp còn xây dựng các trò chơi trải nghiệm, vận động trên cao. Người tham gia được trang bị mũ bảo hộ, dây đai an toàn và thử sức với những chướng ngại vật được bố trí giữa các thân cây, quanh khu nhà (Ảnh: Nguyễn Trung)."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ phục vụ khách lưu trú, những căn nhà trên cây còn được chủ nhân sử dụng làm nơi nghỉ ngơi mỗi khi bạn bè, người thân đến Măng Đen. Không gian giữa rừng tạo điều kiện để mọi người thư giãn, hòa mình vào thiên nhiên."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Một góc khu nhà nhìn từ trên cao cho thấy các công trình nằm xen giữa những mảng xanh. Những thân cây lớn được giữ lại tạo thành “mái che” tự nhiên, giúp không gian trở nên mát mẻ và gần gũi hơn."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Tháng 8/2025, UBND tỉnh Quảng Ngãi ban hành quyết định công nhận Măng Đen Treehouse là điểm du lịch. Tháng 6, Cục Du lịch Quốc gia Việt Nam lựa chọn 5 đại diện tham gia giải thưởng “Làng du lịch tốt nhất” do Tổ chức Du lịch Liên Hợp Quốc tổ chức. Đây là giải thưởng nhằm tôn vinh các điểm đến nông thôn tiêu biểu trên thế giới có khả năng bảo tồn và phát huy các giá trị văn hóa, thiên nhiên, đồng thời thúc đẩy phát triển du lịch bền vững."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, Măng Đen Treehouse của tỉnh Quảng Ngãi là một trong những đại diện được đề cử. Cùng tham gia danh sách năm nay còn có Cát Cát (Lào Cai), rừng dừa Bảy Mẫu Cẩm Thanh (Đà Nẵng), làng Lò (Đắk Lắk) và làng Hữu Liên (Lạng Sơn). Kết quả của giải thưởng “Làng du lịch tốt nhất thế giới” dự kiến được công bố trong quý IV/2026."
+    },
+    {
+     "t": "p",
+     "text": "Vị trí Măng Đen Treehouse ở xã Măng Đen, Quảng Ngãi (Ảnh: google Maps)."
+    }
+   ]
+  },
+  {
+   "id": "78588db5a9a1",
+   "order": 7,
+   "slug": "cap-voi-da-1-000-nam-tuoi-o-vung-dat-2-kinh-do",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Cặp voi đá 1.000 năm tuổi ở vùng đất 2 kinh đô",
+   "sapo": "(Dân trí) - Giữa vùng đất từng có 2 kinh đô, cặp voi đá khoảng 1.000 năm tuổi vẫn sừng sững qua thời gian, trở thành biểu tượng văn hóa và điểm tựa tinh",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/cap-voi-da-1000-nam-tuoi-o-vung-dat-2-kinh-do-20261011072127084.htm",
+   "published": "2026-10-11T01:02:21+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 745,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/78588db5a9a1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/78588db5a9a1-0.jpg",
+     "caption": "Tượng voi đực cao 2m, dài 2,4m, nặng khoảng 800kg (Ảnh: Doãn Công).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/78588db5a9a1-1.jpg",
+     "caption": "Tượng voi cái nhỏ hơn, cao 1,76m, dài 2,2m, nặng khoảng 750kg (Ảnh: Doãn Công).",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-11/78588db5a9a1-2.jpg",
+     "caption": "Trên trán tượng voi cái là vương miện hình hoa sen (Ảnh: Doãn Công).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Giữa vùng đất từng có 2 kinh đô, cặp voi đá khoảng 1.000 năm tuổi vẫn sừng sững qua thời gian, trở thành biểu tượng văn hóa và điểm tựa tinh thần của người dân địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Tại khu vực cổng thành Đồ Bàn (xã Nhơn Hậu, thị xã An Nhơn, tỉnh Bình Định cũ), nay thuộc phường An Nhơn, tỉnh Gia Lai, cặp voi đá gồm một voi đực và một voi cái vẫn đứng chầu đối xứng. Hai pho tượng được xác định có niên đại thế kỷ XII-XIII, thuộc phong cách nghệ thuật Tháp Mẫm."
+    },
+    {
+     "t": "p",
+     "text": "Hai tượng voi đá được Thủ tướng Chính phủ công nhận bảo vật quốc gia đầu năm 2023."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo hồ sơ di tích, đây là những hiện vật gốc, độc bản của nghệ thuật điêu khắc Chăm Pa. Hai tượng được tạc từ đá sa thạch nguyên khối, tạo hình voi trong tư thế chuyển động, thay vì dáng đứng tĩnh thường thấy."
+    },
+    {
+     "t": "p",
+     "text": "Tượng voi đực cao 2m, dài 2,4m, nặng khoảng 800kg. Pho tượng đứng trên bệ đá liền khối, 2 chân bên trái được tạo dáng như đang bước về phía trước. Đầu voi ngẩng cao, vòi buông xuống như đang dùng vòi nhổ cây, một mô típ phổ biến trong nghệ thuật tạc tượng voi Chăm Pa."
+    },
+    {
+     "t": "p",
+     "text": "Phần cổ voi được trang trí bằng dải hoa văn hình ô trám, tạo điểm nhấn trên khối tượng lớn."
+    },
+    {
+     "t": "p",
+     "text": "Tượng voi cái cao 1,76m, dài 2,2m, nặng khoảng 750kg, được tạo tác với dáng đang bước đi, thân thẳng và các chân liên kết với bệ đá."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điểm gây chú ý ở pho tượng này là hệ thống trang sức được chạm khắc khá cầu kỳ. Trên trán là vương miện hình hoa sen kết dải, phần cổ đeo yếm rộng với các vòng lục lạc hình quả trám và nửa quả trám xen kẽ."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, vòi voi cái được tạo hình quấn vào một cọng sen. Chi tiết mềm mại này tạo sự tương phản với khối đá lớn, cho thấy khả năng xử lý hình khối và tạo chuyển động của nghệ nhân Chăm Pa."
+    },
+    {
+     "t": "p",
+     "text": "Cặp voi đá hiện nằm trong không gian thành Hoàng Đế, công trình được nhà Tây Sơn xây dựng trên cơ sở kinh thành Đồ Bàn của Chăm Pa và mở rộng về phía Đông."
+    },
+    {
+     "t": "p",
+     "text": "Thành Đồ Bàn hay còn gọi là Vijaya là kinh đô của vương quốc Chăm Pa trong thời kỳ có quốc hiệu là Chiêm Thành tồn tại thế kỷ X-XV. Đến thời Tây Sơn, trên nền thành cũ, Nguyễn Nhạc cho xây dựng lại và mở rộng thêm thành làm sở chỉ huy của nghĩa quân, gọi tên là thành Hoàng Đế."
+    },
+    {
+     "t": "p",
+     "text": "Qua nhiều biến động lịch sử, phần lớn dấu tích của kinh đô Chăm Pa xưa đã bị mai một. Cặp voi đá vì thế trở thành những hiện vật đặc biệt, giúp hình dung phần nào nghệ thuật và không gian kiến trúc của một thời kỳ đã cách nay hơn 1.000 năm."
+    },
+    {
+     "t": "p",
+     "text": "Hai pho tượng từng được đặt trong không gian khu di tích thành Hoàng Đế, lưu truyền nhiều câu chuyện về sự linh thiêng. Vào những dịp lễ, Tết, người dân trong vùng và du khách tìm đến chiêm bái."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, thành Hoàng Đế không chỉ lưu giữ những dấu tích lịch sử mà còn trở thành điểm tham quan, tìm hiểu văn hóa, lịch sử của du khách khi đến Gia Lai."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bà Trần Thị Thanh (58 tuổi, trú tại thôn Tân Thuận Hòa, phường An Nhơn) cho biết bà sinh ra lớn lên ở đây và đã thấy 2 tượng voi đặt ở vị trí này. Người dân tin rằng 2 tượng voi đá đặt ở cổng thành như để che chở cho dân làng."
+    },
+    {
+     "t": "p",
+     "text": "“Cùng với miếu thờ bà, 2 tượng voi đá được người dân tôn kính. Vào ngày rằm, mùng một hằng tháng, người dân đến thắp hương cầu bình an, có người còn mang rượu đến lau tượng”, bà nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông Bùi Tĩnh, Giám đốc Bảo tàng tỉnh Gia Lai, cho biết trước khi sáp nhập, tỉnh Bình Định cũ đã lập phương án quy hoạch tổng thể thành Hoàng Đế, trong đó có hạng mục tôn tạo nơi trưng bày hai tượng voi đá. Tuy nhiên, sau sáp nhập, việc sắp xếp, phân công quản lý khiến kế hoạch chưa thể triển khai như dự kiến."
+    }
+   ]
+  },
+  {
+   "id": "9a1f9f49b330",
+   "order": 8,
+   "slug": "doi-bong-viet-nam-ghi-28-ban-thang-gianh-ve-du-vck-chau-a",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Đội bóng Việt Nam ghi 28 bàn thắng, giành vé dự VCK châu Á",
+   "sapo": "U17 nữ Việt Nam xuất sắc đánh bại Kyrgyzstan 2-0 ở trận quyết đấu, qua đó giành vé dự vòng chung kết U17 nữ châu Á 2027 và được VFF thưởng nóng 500 triệu đồng.",
+   "author": "Thiên Bình",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/doi-bong-viet-nam-ghi-28-ban-thang-gianh-ve-du-vck-chau-a-2110055.html",
+   "published": "2026-10-11T14:03:33+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 250,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 681
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-0.jpg",
+     "caption": "U17 nữ Việt Nam thể hiện sức mạnh áp đảo ở bảng D - Ảnh: VFF",
+     "w": 1280,
+     "h": 935
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-1.jpg",
+     "caption": "Các thành viên của U17 nữ Việt Nam chụp ảnh sau trận đấu - Ảnh: VFF",
+     "w": 1280,
+     "h": 795
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-2.jpg",
+     "caption": "Đội bóng của HLV Park Hang Seo 4 trận không thắng ở giải Thái Lan",
+     "w": 1125,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-3.jpg",
+     "caption": "Tuyển Việt Nam: Cuộc đua đầy thách thức của HLV Kim Sang Sik",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-4.jpg",
+     "caption": "Hoàng Đức ghi bàn, Ninh Bình rơi chiến thắng trên sân Thiên Trường",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-5.jpg",
+     "caption": "HAGL thắng trận đầu tiên ở V-League 2026/27",
+     "w": 1280,
+     "h": 866
+    },
+    {
+     "src": "img/2026-10-11/9a1f9f49b330-6.jpg",
+     "caption": "V-League trở lại: Những thuyền trưởng nào nguy cơ... bay ghế?",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bước vào lượt trận cuối bảng D vòng loại U17 nữ châu Á 2027, thầy trò HLV Okiyama Masahiko nắm lợi thế khi dẫn đầu với 6 điểm, hiệu số +26. Trong khi đó, Kyrgyzstan cũng có 6 điểm nhưng xếp sau do hiệu số kém hơn."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ cần hòa để giành vé đi tiếp, U17 nữ Việt Nam vẫn chủ động tấn công ngay từ đầu. Sau nhiều cơ hội, đội chủ nhà khai thông thế bế tắc ở phút 25."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ pha đi bóng bên cánh trái của Hà Vy, Huyền Trang nhận đường căng ngang thuận lợi trước khi dứt điểm cận thành, mở tỷ số 1-0."
+    },
+    {
+     "t": "p",
+     "text": "Có bàn thắng dẫn trước, các cô gái Việt Nam tiếp tục kiểm soát thế trận, liên tục gây sức ép khiến hàng phòng ngự Kyrgyzstan gặp nhiều khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Sang hiệp hai, Hà Vy tiếp tục tỏa sáng. Phút 55, cầu thủ mang áo số 19 chọn vị trí thông minh, bật cao đánh đầu hiểm hóc, nhân đôi cách biệt cho U17 nữ Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian còn lại, đội khách không thể tạo nên bất ngờ. Chiến thắng 2-0 giúp U17 nữ Việt Nam kết thúc vòng loại với 9 điểm tuyệt đối, ghi 28 bàn và không để thủng lưới."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, thành tích ấn tượng này giúp thầy trò HLV Okiyama Masahiko nhận thưởng nóng 500 triệu đồng từ VFF, tạo động lực hướng tới vòng chung kết U17 nữ châu Á 2027."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "bc49a070ee0d",
+   "order": 9,
+   "slug": "ban-tay-robot-cam-kim-theu-lua",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Bàn tay robot cầm kim thêu lụa",
+   "sapo": "Trung Quốc Bàn tay robot của công ty Agilink có thể se chỉ luồn kim và thêu lụa nhờ 21 bậc tự do và cảm biến thị giác - xúc giác ở đầu ngón, giúp phát hiện tiếp xúc qua biến dạng bề mặt.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ban-tay-robot-cam-kim-theu-lua-5130497.html",
+   "published": "2026-10-11T00:56:06+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 817,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/bc49a070ee0d-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    },
+    {
+     "src": "img/2026-10-11/bc49a070ee0d-0.jpg",
+     "caption": "Bàn tay robot xâu kim. Ảnh: Agilink",
+     "w": 750,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trung Quốc Bàn tay robot của công ty Agilink có thể se chỉ luồn kim và thêu lụa nhờ 21 bậc tự do và cảm biến thị giác - xúc giác ở đầu ngón, giúp phát hiện tiếp xúc qua biến dạng bề mặt."
+    },
+    {
+     "t": "p",
+     "text": "Theo Interesting Engineering, công ty khởi nghiệp robot Agilink của Trung Quốc sử dụng bàn tay robot để thực hiện kỹ thuật thêu cơ bản trên lụa. Trong buổi trình diễn giữa tuần này, bàn tay robot OmniHand 3 tách chỉ tơ tằm, xâu kim, căng vải qua khung, xoắn chỉ và thêu kiểu Tô Châu."
+    },
+    {
+     "t": "p",
+     "text": "Kỹ thuật thêu Tô Châu đòi hỏi xử lý chính xác miếng lụa vốn có thể uốn cong, trôi tuột và biến dạng dưới tác động lực nhỏ. Ở đầu buổi trình diễn, nghệ nhân thêu Fu Xianghong dạy robot cách thao tác với vật liệu. Một trong những bước chủ chốt là tách một sợi chỉ tơ tằm thành 16 sợi nhỏ hơn. Robot sử dụng một ngón tay để tách sợi trong khi các ngón khác duy trì độ căng."
+    },
+    {
+     "t": "p",
+     "text": "Bàn tay vừa phải giữ cho các đầu ngón luôn chạm vào lụa, vừa phải để sợi tơ có thể xoay tự do khi se chỉ. Việc xỏ kim và khâu vá đòi hỏi khả năng kiểm soát tốt hơn nữa về vị trí, lực tác động và phối hợp ngón. Lụa không có hình dạng cố định mà phụ thuộc lực ngón tay. Điều này biến thêu thùa thành một thử thách về phần cứng và điều khiển cùng nhau. Bàn tay truyền động trực tiếp với 21 bậc tự do và cảm biến thị giác - xúc giác ở đầu mỗi ngón phát hiện tiếp xúc qua biến dạng bề mặt."
+    },
+    {
+     "t": "p",
+     "text": "Theo Agilink, quá trình huấn luyện kết hợp dữ liệu điều khiển từ xa và học tăng cường. Trong nhiệm vụ cuối, robot thực hiện thao tác liên tục bao gồm xoắn và nhặt chỉ. Vì sợi chỉ rơi ở vị trí khác nhau mỗi lần, nhiệm vụ đòi hỏi robot điều chỉnh chuyển động không theo trình tự cố định nào."
+    },
+    {
+     "t": "p",
+     "text": "Theo New Atlas , OmniHand 3 Ultra có kích thước tương đương tay người và nặng 630 gram. Nó sử dụng kiến trúc truyền động trực tiếp, với động cơ kết nối thẳng với khớp thay vì sử dụng dây chằng hoặc cơ chế truyền động trung gian."
+    },
+    {
+     "t": "p",
+     "text": "Nó có thể cầm vật nặng 3 kg và nâng 8 kg, đồng thời nắm và xòe trong khoảng 0,3 giây và độ lặp vị trí (khả năng quay trở lại cùng vị trí và hướng thiết lập trước đó trong nhiều lần liên tiếp) khoảng 0,2 mm."
+    },
+    {
+     "t": "p",
+     "text": "Cảm biến chạm là một phần quan trọng của bàn tay. Agilink cho biết cảm biến có thể đo lực trong ba chiều và phát hiện biến dạng nhỏ đến 0,08 mm. Lòng bàn tay cũng tích hợp một cảm biến xúc giác 300 điểm. Chỉ tơ tằm là trường hợp đặc biệt khó khăn vì hình dạng và vị trí của nó có thể thay đổi trong quá trình tiếp xúc."
+    },
+    {
+     "t": "p",
+     "text": "Buổi trình diễn nêu bật một nút thắt đối với robot hình người. Nếu không có khả năng điều khiển lực tinh tế, máy móc có thể nhìn và di chuyển nhưng không thể hành động mà không làm hỏng đồ vật hoặc gây thương tích cho ai đó. Phát triển bàn tay cơ khí khéo léo có thể là yếu tố thúc đẩy quan trọng giúp đưa robot hình người vào môi trường gia đình, dù điều này có thể không cần thiết với phần lớn công việc trong nhà máy."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thông qua buổi trình diễn, Agilink thể hiện độ khéo léo của bàn tay khi thực hiện các nhiệm vụ đòi hỏi điều chỉnh liên tục về lực và vị trí ngón. Cách tiếp cận này khác với những hệ thống robot được thiết kế chủ yếu cho hoạt động công nghiệp lặp đi lặp lại, nơi chuyển động dễ dự đoán hơn."
+    },
+    {
+     "t": "p",
+     "text": "Agilink tách ra từ công ty Agibot vào tháng 1/2026 và số lượng sản phẩm giao đi của họ đã vượt 15.000 bàn tay robot. Dòng OmniHand đã tham gia 8 sự kiện tại Thế vận hội Robot hình người Thế giới vào tháng 8/2026, giành 7 huy chương vàng, 4 huy chương bạc và 3 huy chương đồng."
+    },
+    {
+     "t": "p",
+     "text": "Các công ty khác cũng đang phát triển bàn tay robot khéo léo với ưu tiên thiết kế khác nhau. Bàn tay Linker Hand L30 Pro của LinkerBot sử dụng 5 ngón tay truyền động bằng dây chằng cho tốc độ nhanh và chuyển động lặp lại. Boston Dynamics thiết kế bàn tay Atlas mới nhất với 4 ngón và nhắm tới ứng dụng công nghiệp như xử lý dụng cụ khoan và hàn."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "7167283132f0",
+   "order": 10,
+   "slug": "cac-nha-khoa-hoc-thu-thap-da-tu-day-bien-sau-chung-tu-boc-ch",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Các nhà khoa học thu thập đá từ đáy biển sâu. Chúng tự bốc cháy trong phòng thí nghiệm.",
+   "sapo": "Các nhà khoa học nghiên cứu khả năng có một \"cơn sốt vàng\" ở đáy biển vừa vô tình chạm phải một \"quả bom nổ chậm\" không ai ngờ tới.",
+   "author": "Carly Cassella",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/scientists-collected-deep-sea-rocks-they-spontaneously-caught-fire-in-the-lab",
+   "published": "2026-10-11T00:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1050,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Scientists Collected Deep-Sea Rocks. They Spontaneously Caught Fire in The Lab.",
+   "images": [
+    {
+     "src": "img/2026-10-11/7167283132f0-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-11/7167283132f0-0.jpg",
+     "caption": "Robot điều khiển từ xa (ROV) Jason của Viện Hải dương học Woods Hole thu thập mẫu khoáng vật từ đáy biển tại rãnh Escanaba năm 2022. (ROV Jason/Viện Hải dương học Woods Hole)",
+     "w": 1280,
+     "h": 718
+    },
+    {
+     "src": "img/2026-10-11/7167283132f0-1.jpg",
+     "caption": "Hình ảnh cận cảnh khối sulfua khối hạt mịn ở đáy biển dưới ánh đèn cực tím (ultraviolet), cho thấy các khoáng chất phát sáng dưới ánh đèn này. (Peter Pearsall/USGS)",
+     "w": 1280,
+     "h": 732
+    },
+    {
+     "src": "img/2026-10-11/7167283132f0-2.jpg",
+     "caption": "Amy Gartman, nhà hải dương học nghiên cứu của USGS và trưởng nhóm khoa học của chuyến khảo sát rãnh Escanaba, đang quan sát một mẫu khoáng vật bằng kính lúp cầm tay. (Peter Pearsall/USGS)",
+     "w": 1280,
+     "h": 944
+    },
+    {
+     "src": "img/2026-10-11/7167283132f0-3.jpg",
+     "caption": "Một robot điều khiển từ xa thu thập hai mẫu khoáng vật từ đáy biển Escanaba. (ROV Jason/Viện Hải dương học Woods Hole)",
+     "w": 1280,
+     "h": 718
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các nhà khoa học nghiên cứu khả năng có một \"cơn sốt vàng\" ở đáy biển vừa vô tình chạm phải một \"quả bom nổ chậm\" không ai ngờ tới."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tại Cơ quan Khảo sát Địa chất Hoa Kỳ (United States Geological Survey - USGS) hiện đang cảnh báo rằng một số loại khoáng vật ở đáy biển sâu có thể tự bốc cháy khi được đưa lên mặt nước."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, điều này đã xảy ra với hai mẫu đá sulfua kim loại được thu thập từ đáy biển sâu."
+    },
+    {
+     "t": "p",
+     "text": "Sự việc này đã khiến nhiệt độ trong phòng thí nghiệm tăng lên trên 100 độ C và làm oxy hóa hoàn toàn các mẫu đá ban đầu."
+    },
+    {
+     "t": "p",
+     "text": "Một bài báo về phát hiện này, được công bố trên tạp chí Scientific Reports, đang được chia sẻ sớm, trước khi hoàn tất biên tập đầy đủ, để công chúng có thể tiếp cận nhanh hơn với nghiên cứu mới."
+    },
+    {
+     "t": "p",
+     "text": "Theo USGS, đây là một \"nguy cơ tiềm ẩn cần được xem xét đặc biệt nếu việc khai thác khoáng sản ở đáy biển sâu đối với các mỏ sulfua khối lớn tiếp tục được triển khai\"."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc sinh nhiệt thông qua các phản ứng tỏa nhiệt chưa được nghiên cứu ở các mỏ sulfua khối lớn dưới đáy biển, nhưng nó có khả năng gây ra các vụ cháy bùng phát nhanh trên tàu,\" bài báo gần đây cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Những tảng đá dễ cháy này được USGS thu thập vào năm 2022, trong một chuyến khảo sát biển sâu tại rãnh Escanaba, với sự hợp tác của Cục Quản lý Năng lượng Đại dương (Bureau of Ocean Energy Management - BOEM) và Cơ quan Quản lý Khí quyển và Đại dương Quốc gia (National Oceanic and Atmospheric Administration - NOAA)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Rãnh Escanaba nằm trong Vùng Đặc quyền Kinh tế (Exclusive Economic Zone - EEZ) của Hoa Kỳ, ngoài khơi biên giới giữa Oregon và California, nơi hoạt động thủy nhiệt đã tạo ra các mỏ khoáng vật đáy biển sâu giàu kim loại như đồng, kẽm và sắt."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng một robot điều khiển từ xa, các nhà nghiên cứu đã thu thập được 57 mẫu đá thủy nhiệt từ bốn khu vực trong rãnh này."
+    },
+    {
+     "t": "p",
+     "text": "Hầu hết các mẫu đá này chứa khoáng chất sunfua kim loại (metal sulfide) là thành phần chính."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, khi các nhà nghiên cứu đông khô và nghiền nát chúng trong phòng thí nghiệm, hai mẫu đã tự bốc cháy."
+    },
+    {
+     "t": "p",
+     "text": "Việc phát hiện ra rằng một số loại đá từ đáy biển sâu có thể tự bốc cháy khi đưa lên đất liền đến vào một thời điểm quan trọng."
+    },
+    {
+     "t": "p",
+     "text": "Cơ quan Quản lý Đáy biển Quốc tế (International Seabed Authority, ISA) đã cấp các hợp đồng thăm dò khoáng chất sunfua tại hai dãy núi ngầm dưới biển sâu, là Dãy núi giữa Đại Tây Dương phía Bắc (Northern Mid-Atlantic Ridge) và Dãy núi giữa Ấn Độ Dương phía Tây Nam (Southwest Indian Ridge)."
+    },
+    {
+     "t": "p",
+     "text": "Việc khai thác vẫn chưa diễn ra, nhưng khi nó bắt đầu, có lý do để các nhà khai thác phải thật cẩn trọng."
+    },
+    {
+     "t": "p",
+     "text": "Khoáng chất sunfua rất đặc biệt vì chúng có thể chứa các kim loại quý, như vàng, bạc, đồng hoặc kẽm."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng chúng cũng có thể tự bốc cháy."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chẳng hạn, sự lắng đọng trầm tích dày ở đáy biển sâu có thể thúc đẩy sự hình thành dầu mỏ có nguồn gốc từ nhiệt dịch (hydrothermal)."
+    },
+    {
+     "t": "p",
+     "text": "Loại vật chất này sau đó có thể bị ẩn giấu trong các khoáng chất sunfua kim loại, và khi được đưa lên đất liền, nó có khả năng tự nóng lên."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "\"Nghiên cứu mới cho thấy một số loại đá sunfua khối lớn ở đáy biển (seafloor massive sulfide) có những đặc tính vật lý và hóa học có thể khiến chúng có cách hoạt động rất khác so với các mỏ khoáng chất tương tự được khai thác trên đất liền,\" một thông cáo báo chí của Cơ quan Khảo sát Địa chất Hoa Kỳ (USGS) cảnh báo."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm hiểu điều gì khiến những tảng đá dễ bốc cháy này trở nên đặc biệt, các nhà nghiên cứu đã so sánh thành phần khoáng vật, cấu tạo hóa học và đặc tính nhiệt của các mẫu đá mà họ thu thập được vào năm 2022."
+    },
+    {
+     "t": "p",
+     "text": "Nhựa đường và dầu mỏ dường như không phải là nguyên nhân. Thay vào đó, các nhà nghiên cứu phát hiện những tảng đá tự bốc cháy này chủ yếu được tạo thành từ marcasite dạng tinh thể nano (nanocrystalline marcasite)."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một dạng sắt sulfide có vẻ đặc biệt không bền khi tiếp xúc với oxy."
+    },
+    {
+     "t": "p",
+     "text": "Việc thêm nhiệt và các tác động cơ học như nghiền, bẻ vỡ, mài có thể cung cấp năng lượng để khởi động quá trình oxy hóa."
+    },
+    {
+     "t": "p",
+     "text": "Khi mẫu đá này bị oxy hóa, nó có thể dẫn đến hiện tượng tự nóng lên."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Điều này không có nghĩa là mọi tảng đá chứa marcasite trên đáy biển đều nguy hiểm, nhưng đây là một nguy cơ tiềm ẩn có thể giúp định hình các quy định an toàn cho một ngành công nghiệp mới."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu việc khai thác các khối sulfide khổng lồ ở đáy biển (seafloor massive sulfide) diễn ra, những tảng đá được đưa lên mặt nước sẽ gặp phải điều kiện khác hoàn toàn so với ở đáy biển, bao gồm việc tiếp xúc với oxy và những thay đổi về nhiệt độ, áp suất và độ ẩm,\" Cơ quan Khảo sát Địa chất Hoa Kỳ (USGS) giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Những thay đổi như vậy có thể ảnh hưởng đến cách các khoáng chất sulfide phản ứng và lượng nhiệt mà chúng sinh ra.\""
+    },
+    {
+     "t": "p",
+     "text": "Khai thác đáy biển sâu đi kèm với nhiều cảnh báo, không chỉ về an toàn cho con người."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều nhà bảo vệ môi trường lo ngại rằng ngành công nghiệp mới nổi này có thể là giọt nước tràn ly đối với các hệ sinh thái đại dương quý giá, vốn đã đang gặp nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Nếu chúng ta không cẩn thận, những hậu quả này có thể gây ra rắc rối lớn cho chính chúng ta."
+    }
+   ]
+  },
+  {
+   "id": "7e5bcda6b4de",
+   "order": 11,
+   "slug": "loai-sieu-bang-moi-manh-gap-10-lan-gan-bang-do-cung-cua-be-t",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Loại \"siêu băng\" mới mạnh gấp 10 lần, gần bằng độ cứng của bê tông",
+   "sapo": "Trong Thế chiến thứ hai, Hải quân Hoàng gia Anh đã từng thử nghiệm ý tưởng dùng băng gia cường bằng bột gỗ để chế tạo tàu sân bay.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+   "published": "2026-10-11T08:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 938,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete",
+   "images": [
+    {
+     "src": "img/2026-10-11/7e5bcda6b4de-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-11/7e5bcda6b4de-0.jpg",
+     "caption": "Một mẫu băng mới. (Chen Adar)",
+     "w": 600,
+     "h": 549
+    },
+    {
+     "src": "img/2026-10-11/7e5bcda6b4de-1.jpg",
+     "caption": "Hình ảnh chụp bằng kính hiển vi điện tử quét (scanning electron microscope) trên các mẫu đông khô cho thấy mạng lưới được tạo bởi những tinh thể cellulose cực nhỏ. Hàng trên là hình ảnh phóng to 40 lần, hàng dưới phóng to 90 lần. (Yulia Baron và Dr. Liat Bahari)",
+     "w": 600,
+     "h": 366
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong Thế chiến thứ hai, Hải quân Hoàng gia Anh đã từng thử nghiệm ý tưởng dùng băng gia cường bằng bột gỗ để chế tạo tàu sân bay."
+    },
+    {
+     "t": "p",
+     "text": "Vật liệu tổng hợp này được gọi là Pykrete, được cho là chắc như bê tông, miễn là nó được giữ ở trạng thái đông lạnh."
+    },
+    {
+     "t": "p",
+     "text": "Con tàu khi đó thực chất sẽ là một tảng băng trôi nổi được làm cứng theo yêu cầu, để máy bay có thể cất cánh và hạ cánh trên đó. Nhưng vì chi phí tăng cao và có nhiều lựa chọn tốt hơn xuất hiện, dự án cuối cùng đã bị bỏ dở."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, các nhà nghiên cứu do một nhóm từ Đại học Hebrew ở Jerusalem, Israel, dẫn đầu đã phát triển ý tưởng từ những năm 1940 đó để tạo ra thứ họ gọi là BioPykrete."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách thêm các tinh thể có nguồn gốc từ thực vật và một loại protein được thiết kế riêng vào băng, họ đã tạo ra một vật liệu mạnh hơn băng thường tới 10 lần và có thể hấp thụ năng lượng nhiều hơn 70 lần trước khi vỡ."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu về vật liệu mới này đã được công bố trên tạp chí Colloids and Surfaces B: Biointerfaces, và nhóm nghiên cứu hy vọng một ngày nào đó nó có thể được dùng làm vật liệu xây dựng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi muốn làm nhiều hơn là chỉ đơn giản trộn sợi vào băng, mà muốn kiểm soát cách các vật liệu khác nhau liên kết với nhau ở cấp độ phân tử,\" nhà hóa sinh học Ido Braslavsky, từ Đại học Hebrew ở Jerusalem, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Kết quả không chỉ làm thay đổi độ cứng của băng, mà còn thay đổi cách nó vỡ ra. Thay vì vỡ vụn ngay lập tức, nó có thể hấp thụ nhiều năng lượng hơn và biến dạng từ từ.\""
+    },
+    {
+     "t": "p",
+     "text": "Lần này, ứng dụng dự kiến không phải là cho tàu sân bay, mà là cho các công trình xây dựng ở những vùng xa xôi, lạnh giá, nơi các phương pháp xây dựng thông thường khó áp dụng, như vùng Bắc Cực và Nam Cực."
+    },
+    {
+     "t": "p",
+     "text": "Vì không cần dùng bê tông hay thép, với thành phần chính là băng và cellulose có nguồn gốc từ thực vật, đây có thể trở thành một loại vật liệu xây dựng có lượng khí thải carbon thấp và cũng có thể phân hủy sinh học."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong khi ngành xây dựng là nền tảng của kinh tế toàn cầu, nó vẫn là một trong những ngành gây ô nhiễm môi trường nhiều nhất, chịu trách nhiệm cho lượng khí thải carbon lớn và tiêu hao rất nhiều tài nguyên,\" các nhà nghiên cứu viết trong bài báo công bố."
+    },
+    {
+     "t": "p",
+     "text": "\"Công nghệ sinh học (biotechnology) mang đến một hướng đi mang tính đột phá để giảm nhẹ tác động này, bằng cách phát triển các vật liệu sinh học bền vững, mới.\""
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, sẽ còn phải chờ một thời gian nữa trước khi BioPykrete có thể được dùng làm vật liệu xây dựng. Nghiên cứu này mới chỉ là một thử nghiệm chứng minh ý tưởng (proof-of-concept) ở quy mô nhỏ, và cần thêm nhiều nghiên cứu để xem BioPykrete chịu đựng ra sao trong thời gian dài và trong các điều kiện thay đổi."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì dùng các sợi bột gỗ lớn và sắp xếp lộn xộn, lần này các nhà nghiên cứu sử dụng các tinh thể nano cellulose (cellulose nanocrystals)."
+    },
+    {
+     "t": "p",
+     "text": "Cellulose là vật liệu cấu trúc chính trong thực vật, và ở dạng tinh thể nano, nó có thể đóng vai trò như một chất làm bền ở cấp độ siêu nhỏ cho các vật liệu khác, kể cả băng - về cơ bản là ngăn các vết nứt lan rộng dễ dàng."
+    },
+    {
+     "t": "p",
+     "text": "Loại protein được sử dụng ở đây có tên là CBM3a-AFPIII, là sự kết hợp giữa một loại protein chống đông (antifreeze protein - AFP) và một mô-đun liên kết carbohydrate (carbohydrate-binding module - CBM). Nhiệm vụ của nó là hoạt động như chất keo, giữ cho các tinh thể nano cellulose và băng liên kết chặt với nhau."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đây là một cách làm thông minh, và các nhà nghiên cứu cho rằng bằng việc điều chỉnh các thành phần và phương pháp, họ có thể cải thiện \"siêu băng\" của mình hơn nữa."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc tối ưu hóa động học quá trình đông cứng và các quy trình làm lạnh, cùng với việc phát triển nhiều biến thể AFP-CBM khác nhau, có thể tạo ra những vật liệu tổng hợp có độ bền còn cao hơn nữa,\" các nhà nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh việc tiếp tục kiểm tra độ bền của vật liệu, các nhà nghiên cứu cũng muốn tìm hiểu kỹ hơn cách các vết nứt lan truyền qua BioPykrete, để xác nhận rằng cơ chế làm bền bên dưới đúng như họ nghĩ."
+    },
+    {
+     "t": "p",
+     "text": "Về lâu dài, cách tiếp cận này có thể mở ra cả một chân trời hoàn toàn mới cho các vật liệu dùng trong đóng gói, xây dựng và nhiều lĩnh vực khác: sử dụng một loại protein được thiết kế riêng để kết hợp hai chất tưởng như không thể hòa hợp - băng và cellulose."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách kết hợp thiết kế protein tái tổ hợp (recombinant protein) với kỹ thuật cấu trúc, chúng tôi đã phát triển một loại vật liệu hiệu suất cao, được thiết kế riêng để chịu đựng những điều kiện khắc nghiệt nhất trên thế giới,\" các nhà nghiên cứu viết."
+    }
+   ]
+  },
+  {
+   "id": "183043fe3220",
+   "order": 12,
+   "slug": "cau-ca-bang-de-bat-hat-neutrino-vu-tru",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Câu cá băng để bắt hạt neutrino vũ trụ",
+   "sapo": "",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+   "published": "2026-10-11T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 251,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Ice Fishing for Cosmic Neutrinos",
+   "images": [
+    {
+     "src": "img/2026-10-11/183043fe3220-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-11/183043fe3220-0.jpg",
+     "caption": "Một sợi dây cáp màu đen chạy xuống một lỗ băng sâu được khoan sẵn. Lỗ băng này sâu đến mức biến mất vào trong bóng tối. Hãy xem phần giải thích để biết thêm thông tin chi tiết.",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học đang khoan tan những lỗ băng ở điểm cực tận cùng của Trái Đất. Trên thực tế, gần 100 lỗ băng được khoan tan gần Nam Cực hiện đang được dùng làm một trạm quan sát thiên văn. Các nhà thiên văn học của Đài quan sát Neutrino IceCube đã thả một sợi dây dài có buộc các đầu dò ánh sáng cỡ quả bóng rổ xuống từng \"hồ nước\" thẳng đứng này. Nước trong mỗi lỗ sẽ nhanh chóng đóng băng lại. Các đầu dò gắn trên dây rất nhạy với ánh sáng xanh phát ra trong lớp băng trong suốt xung quanh. Ánh sáng này sinh ra từ các hạt thứ cấp di chuyển rất nhanh, được giải phóng khi các hạt neutrino năng lượng cao - phát ra từ những quá trình mạnh mẽ ngoài vũ trụ - va chạm với các phân tử băng. Đến nay, IceCube đã phát hiện được rất nhiều hạt neutrino phát sáng như vậy. Trong ảnh chụp năm 2010, một trong những sợi dây đầu dò cuối cùng của IceCube đang được thả xuống vực sâu băng giá, biến IceCube thành máy dò neutrino lớn nhất từng được tạo ra. Để ghi nhận những phát hiện chưa từng có này, đầu tuần này người ta đã thông báo rằng một trong những người lãnh đạo sáng lập của Hợp tác IceCube sẽ được trao Giải Nobel Vật lý. Ảnh ngày mai: Các mặt trăng của một hành tinh"
+    }
+   ]
+  },
+  {
+   "id": "f347227ab79f",
+   "order": 13,
+   "slug": "ho-canxi-xanh-nhu-ngoc-bich-trong-hang-dong-o-quang-tri",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Hồ canxi xanh như ngọc bích trong hang động ở Quảng Trị",
+   "sapo": "Những hồ canxi xanh ngọc bích tựa ruộng bậc thang nằm sâu trong hang Over, trên tuyến khám phá hang Pygmy ở Phong Nha - Kẻ Bàng, tạo nên cảnh quan kỳ thú dưới lòng đất.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/ho-canxi-xanh-nhu-ngoc-bich-trong-hang-dong-o-quang-tri-post1688977.html",
+   "published": "2026-10-11T09:03:40+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 604,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/f347227ab79f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-0.jpg",
+     "caption": "hồ canxi,  hang động ảnh 1",
+     "w": 1280,
+     "h": 958
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-1.jpg",
+     "caption": "hồ canxi,  hang động ảnh 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-2.jpg",
+     "caption": "hồ canxi,  hang động ảnh 3",
+     "w": 1280,
+     "h": 925
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-3.jpg",
+     "caption": "hồ canxi,  hang động ảnh 4",
+     "w": 1280,
+     "h": 958
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-4.jpg",
+     "caption": "hồ canxi,  hang động ảnh 5",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-5.jpg",
+     "caption": "hồ canxi,  hang động ảnh 6",
+     "w": 1280,
+     "h": 1703
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-6.jpg",
+     "caption": "hồ canxi,  hang động ảnh 7",
+     "w": 1280,
+     "h": 958
+    },
+    {
+     "src": "img/2026-10-11/f347227ab79f-7.jpg",
+     "caption": "hồ canxi,  hang động ảnh 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Những hồ canxi xanh ngọc bích tựa ruộng bậc thang nằm sâu trong hang Over, trên tuyến khám phá hang Pygmy ở Phong Nha - Kẻ Bàng, tạo nên cảnh quan kỳ thú dưới lòng đất."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hang Over thuộc hệ thống hang Vòm, nằm trên tuyến khám phá hang Pygmy do công ty Jungle Boss khai thác độc quyền tại Vườn quốc gia Phong Nha - Kẻ Bàng (tỉnh Quảng Trị ). Với chiều dài hơn 3.200 m, hang đưa du khách xuyên qua lòng núi, chiêm ngưỡng những khối thạch nhũ kỳ ảo trước khi đến hang Pygmy được xếp hạng hang động lớn thứ 4 thế giới."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có không gian rộng lớn và hệ thống thạch nhũ đa dạng, hang Over còn nổi bật với những hồ canxi xanh ngọc bích, có hình dáng tựa các thửa ruộng bậc thang nối tiếp nhau."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các đường gờ bao quanh hồ hình thành khi khoáng chất trong nước kết tủa, tích tụ qua thời gian. Quá trình này tạo nên những tầng gờ canxi nối tiếp nhau, khiến nền hang trông như một hệ thống ruộng bậc thang nằm sâu dưới lòng đất."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cảnh sắc những hồ canxi xanh ngọc bích phụ thuộc vào lượng nước trong hang, thường đạt mức lý tưởng vào mùa mưa hoặc sau nhiều ngày mưa lớn liên tiếp."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Hành trình khám phá hang Over đòi hỏi du khách trekking (đi bộ đường dài) xuyên rừng. Bên trong hang, du khách có thể chiêm ngưỡng những khối thạch nhũ, măng đá với hình dáng độc đáo và chụp ảnh tại vòm đá khổng lồ."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Du khách cần tuân thủ hướng dẫn của trưởng đoàn để tránh ảnh hưởng đến quá trình hình thành và phát triển của hệ thống thạch nhũ, hồ canxi."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Với du khách yêu thích trekking, khám phá hang động và chiêm ngưỡng hồ canxi vào mùa nước đẹp, ngoài hang Over thì Hung Thoòng và hang Thắng cũng là 2 hành trình đáng trải nghiệm tại Phong Nha, nổi bật với các hồ canxi có cấu trúc tự nhiên độc đáo."
+    },
+    {
+     "t": "p",
+     "text": "Vườn quốc gia Phong Nha - Kẻ Bàng nằm tại tỉnh Quảng Trị, có diện tích hơn 123.300 ha và được UNESCO công nhận là Di sản thiên nhiên thế giới. Khu vực nổi bật với hệ thống núi đá vôi hàng triệu năm tuổi, mạng lưới hang động phong phú và hệ sinh thái đa dạng."
+    },
+    {
+     "t": "p",
+     "text": "Nơi đây có nhiều hang động nổi tiếng như Sơn Đoòng, được giới thiệu là hang động lớn nhất thế giới và động Phong Nha với hệ thống sông ngầm, thạch nhũ và măng đá."
+    },
+    {
+     "t": "p",
+     "text": "Tại lễ trao giải World Travel Awards 2026 khu vực châu Á, châu Đại Dương và Ấn Độ Dương, diễn ra tại Maldives tối 27/9, Vườn quốc gia Phong Nha - Kẻ Bàng nhận 2 giải thưởng gồm \"Điểm đến thiên nhiên hàng đầu Việt Nam\" và \"Vườn quốc gia hàng đầu châu Á\"."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    }
+   ]
+  },
+  {
+   "id": "f3cecde1e3b6",
+   "order": 14,
+   "slug": "cac-nha-khoa-hoc-phat-hien-muc-bien-duoc-bao-phu-boi-cac-te",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Các nhà khoa học phát hiện mực biển được bao phủ bởi các tế bào giống lông, giống đáng ngạc nhiên với những tế bào trong tai người",
+   "sapo": "Da của mực biển, một cách bất ngờ, có nhiều điểm chung với một cơ quan nằm trong tai bạn.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/scientists-find-squid-are-covered-in-hair-like-cells-remarkably-similar-to-the-ones-in-human-ears",
+   "published": "2026-10-11T02:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1113,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Scientists Find Squid Are Covered in Hair-Like Cells Remarkably Similar to The Ones in Human Ears",
+   "images": [
+    {
+     "src": "img/2026-10-11/f3cecde1e3b6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-11/f3cecde1e3b6-0.jpg",
+     "caption": "Các chùm lông trên bề mặt của mực biển, và các kết nối thần kinh của chúng. (Wang và cộng sự, Current Biology, 2026)",
+     "w": 600,
+     "h": 427
+    },
+    {
+     "src": "img/2026-10-11/f3cecde1e3b6-1.jpg",
+     "caption": "Ảnh chụp từ kính hiển vi điện tử quét cho thấy một số \"lông\" cảm nhận chuyển động trên da của mực biển. (Wang và cộng sự, Current Biology, 2026)",
+     "w": 1020,
+     "h": 1206
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Da của mực biển, một cách bất ngờ, có nhiều điểm chung với một cơ quan nằm trong tai bạn."
+    },
+    {
+     "t": "p",
+     "text": "Theo một nghiên cứu mới được công bố trên tạp chí Current Biology, các nhà khoa học phát hiện ra rằng mực biển được bao phủ bởi những tế bào có cấu trúc nhỏ giống lông, tương tự như những tế bào bên trong tai người, giúp phát hiện thông tin được mang theo bởi các con sóng đi qua."
+    },
+    {
+     "t": "p",
+     "text": "Ở người, những chiếc lông nhỏ này giúp chúng ta hiểu được các sóng âm từ một bản nhạc, một giọng nói, hay tiếng bíp còi bực bội của một người lái xe."
+    },
+    {
+     "t": "p",
+     "text": "Còn ở mực biển, đó là tất cả những chi tiết nhỏ được mang theo bởi chuyển động của nước: cái giật mình của con mồi ở gần, tiếng ầm ì của một bờ biển ở xa, hay lực kéo của một dòng hải lưu."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến bây giờ, các nhà khoa học vẫn chưa biết rằng mực biển lại được bao phủ dày đặc bởi những tế bào lông này - và phát hiện này có thể giúp chúng ta hiểu thêm điều gì đó về bộ phận nghe của chính mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Brian McDermott từ Đại học Case Western Reserve là một bác sĩ tai mũi họng (otolaryngologist) - một nhà khoa học nghiên cứu về tai trong, mũi và họng."
+    },
+    {
+     "t": "p",
+     "text": "Là một nhà nghiên cứu y khoa, ông bắt đầu bằng việc tìm hiểu về khả năng nghe và điếc ở người. Nhưng bằng cách lần theo nguồn gốc của những tế bào lông đặc biệt mang âm nhạc đến với tai chúng ta, ông đã đi đến với loài mực biển vây dài (Doryteuthis pealeii): một loài vật cách con người hàng trăm triệu năm tiến hóa."
+    },
+    {
+     "t": "p",
+     "text": "\"Mực biển là động vật thân mềm chân đầu (cephalopod) có một tập hợp đa dạng các tế bào lông trên bề mặt cơ thể, điều này có thể mang lại những hiểu biết không chỉ về cách những loài vật kỳ thú này phát hiện chuyển động của nước để sinh tồn, mà còn về cách khả năng nghe và điếc xảy ra ở con người,\" McDermott nói."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi đi xa hơn, có lẽ cần lưu ý rằng những tế bào lông mà chúng ta đang nói đến ở đây không liên quan gì đến loại lông mọc từ các nang lông trên da bạn. Ở tất cả các loài động vật có xương sống, trừ cá, tế bào lông chỉ tồn tại trong các cơ quan nằm trong tai chúng ta (hãy nhớ phần về cá - chúng ta sẽ nói lại sau)."
+    },
+    {
+     "t": "p",
+     "text": "Đối với các loài động vật có xương sống sống trên đất liền, tế bào lông đóng vai trò quan trọng đối với khả năng nghe. Chúng xếp dọc theo mặt trong của ốc tai (cochlea), một cơ quan hình xoắn ốc, chứa đầy dịch, mà nhìn từ bên ngoài trông giống như một con sên."
+    },
+    {
+     "t": "p",
+     "text": "Khi ai đó nghe thấy một âm thanh, đó thường là vì các sóng trong không khí đã truyền vào tai họ, làm rung màng nhĩ và một chuỗi xương nhỏ, sau đó biến chuyển động này thành các sóng trong dịch ốc tai (cochlear fluid)."
+    },
+    {
+     "t": "p",
+     "text": "Chính những sóng dịch này là thứ mà các tế bào lông (hair cells) trong tai người cảm nhận được. Khi các \"sợi lông\" đó dao động trong dịch ốc tai, chuyển động của chúng được tế bào chuyển thành một tín hiệu để gửi lên não. Đây là lúc chúng ta cảm nhận được âm thanh."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong tai người, không phải tế bào lông nào cũng giống nhau. Một số có chùm lông dài, giúp bắt âm thanh có cao độ thấp tốt hơn, còn một số có lông ngắn, phù hợp với tần số cao."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lúc loài cá xuất hiện trong câu chuyện. Khác với nhiều loài động vật có xương sống khác, cá có tế bào lông ở bên ngoài cơ thể, trong một cơ quan gọi là đường bên (lateral line)."
+    },
+    {
+     "t": "p",
+     "text": "Các sinh vật biển khác - kể cả mực - cũng có đường bên. Khi bạn sống cả đời dưới nước, các sóng xung quanh bạn đã được truyền qua dịch (fluid) sẵn rồi."
+    },
+    {
+     "t": "p",
+     "text": "Khác với chúng ta - những sinh vật sống trên cạn, động vật biển không cần chuyển đổi sóng từ không khí sang dịch: tế bào lông của chúng có thể bắt chuyển động đó trực tiếp từ nguồn."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng ở cá, các \"sợi lông\" có độ dài tương đối giống nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, mực dường như đã tiến hóa ra các tế bào lông đa dạng, chuyên biệt, giống như tế bào lông của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "McDermott và nhóm của ông đã lập bản đồ toàn bộ cơ thể của một số con mực mới nở bằng kỹ thuật hiển vi tấm sáng (light-sheet microscopy), phương pháp giúp các tế bào lông của mực phát sáng trong ảnh chụp."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều bất ngờ là chúng tôi đã xác định được các chùm lông được sắp xếp theo hai kiểu: kiểu dãy thẳng đã được mô tả trước đây, và những vùng rộng mà trước nay chưa được báo cáo rõ ràng ở mực hay cá, chúng tôi gọi đó là các vùng đường bên (lateral line fields),\" nhóm nghiên cứu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Vị trí giải phẫu và sự khác nhau về độ dài các chùm lông tương ứng cho thấy một số đường bên có thể phát hiện những kích thích khác nhau.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ví dụ, trên lớp áo (mantle) của mực, các chùm lông rất ngắn so với các chùm lông ở đường bên trên đầu."
+    },
+    {
+     "t": "p",
+     "text": "\"Kết quả của chúng tôi cho thấy toàn bộ bề mặt của con mực được trang trí tinh vi bằng nhiều loại đường bên khác nhau, có thể dùng để ghi nhận các kiểu chuyển động nước cục bộ riêng biệt,\" nhóm nghiên cứu kết luận."
+    },
+    {
+     "t": "p",
+     "text": "Đây là điều khá thú vị, nhưng mối quan tâm của McDermott chủ yếu nằm ở y học. Ông tin rằng mực có thể là mô hình hữu ích để hiểu cách thức hoạt động của thính giác con người, hoặc trong một số trường hợp, vì sao nó không hoạt động."
+    },
+    {
+     "t": "p",
+     "text": "\"Thường thì khi một trẻ sinh ra đã bị điếc, hoặc một người đang nghe được bị mất thính lực, chính chùm lông đó đã bị tổn hại,\" McDermott nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Vì vậy, việc nghiên cứu chùm lông của mực hứa hẹn giúp chúng ta hiểu được vì sao tình trạng mất thính lực xảy ra.\""
+    }
+   ]
+  },
+  {
+   "id": "179463ffbfee",
+   "order": 15,
+   "slug": "loai-ran-doc-so-huu-rang-nanh-dai-nhat-the-gioi",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Loài rắn độc sở hữu răng nanh dài nhất thế giới",
+   "sapo": "(Dân trí) - Rắn lục Gaboon (Bitis gabonica) được ghi nhận là loài rắn độc có răng nanh dài nhất thế giới, với chiều dài có thể vượt 5cm.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/loai-ran-doc-so-huu-rang-nanh-dai-nhat-the-gioi-20261010032518975.htm",
+   "published": "2026-10-10T07:24:53+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1188,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/179463ffbfee-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/179463ffbfee-0.jpg",
+     "caption": "Răng nanh là thứ “vũ khí” cực kỳ quan trọng của các loài rắn độc (Ảnh: IDT).",
+     "w": 1280,
+     "h": 388
+    },
+    {
+     "src": "img/2026-10-11/179463ffbfee-1.jpg",
+     "caption": "Răng nanh của rắn lục Gaboon rất dài và được gấp gọn vào trong miệng (Ảnh: Britannica).",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-10-11/179463ffbfee-2.jpg",
+     "caption": "Rắn lục Gaboon có cơ thể to lớn, đuôi ngắn, nhiều hoa văn đối xứng nhau (Ảnh: Totes Scelotes).",
+     "w": 1280,
+     "h": 786
+    },
+    {
+     "src": "img/2026-10-11/179463ffbfee-3.jpg",
+     "caption": "Trên đầu rắn lục Gaboon có cặp vảy cứng nhô lên giống như sừng (Ảnh: cleobourdon).",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Rắn lục Gaboon (Bitis gabonica) được ghi nhận là loài rắn độc có răng nanh dài nhất thế giới, với chiều dài có thể vượt 5cm."
+    },
+    {
+     "t": "p",
+     "text": "Cặp răng nanh lớn giúp loài rắn này đưa lượng nọc độc đáng kể vào cơ thể con mồi khi tấn công."
+    },
+    {
+     "t": "h",
+     "text": "Rắn lục Gaboon có răng nanh dài nhất thế giới"
+    },
+    {
+     "t": "p",
+     "text": "Răng nanh giúp rắn độc đưa nọc độc vào cơ thể con mồi hoặc đối tượng bị cắn. Ở nhiều loài, răng nanh có cấu tạo chuyên biệt, kết nối với hệ thống dẫn nọc độc. Một số loài rắn độc có khả năng cắn và truyền nọc độc ngay từ khi còn non."
+    },
+    {
+     "t": "p",
+     "text": "Răng nanh của rắn độc được thay thế định kỳ trong quá trình phát triển. Ở một số loài, răng nanh mới hình thành phía sau răng nanh đang hoạt động và dần thay thế chiếc răng cũ khi răng này rụng hoặc bị hư hại."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cơ chế thay răng giúp rắn duy trì khả năng săn mồi và tự vệ trong suốt vòng đời."
+    },
+    {
+     "t": "p",
+     "text": "Chiều dài răng nanh khác nhau đáng kể giữa các loài rắn độc, phụ thuộc vào cấu tạo hàm và phương thức đưa nọc độc vào con mồi. Các loài rắn thuộc họ rắn lục thường có răng nanh dài, có thể gập vào trong miệng khi không sử dụng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Rắn hổ chúa là một trong những loài rắn độc dài nhất thế giới, nhưng không sở hữu cặp răng nanh dài như rắn lục Gaboon."
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon ( Bitis gabonica ) thuộc chi Bitis , gồm nhiều loài rắn lục phân bố tại châu Phi. Một số loài trong chi này có khả năng phát ra tiếng thở mạnh khi bị đe dọa, nên được gọi là rắn lục phì."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon là một trong những loài rắn lục có kích thước lớn nhất. Cá thể trưởng thành có thể dài hơn 1,5m, thân hình nặng nề và hoa văn đặc trưng giúp ngụy trang dưới lớp lá rụng."
+    },
+    {
+     "t": "p",
+     "text": "Điểm nổi bật của loài này là cặp răng nanh rất dài. Theo Tổ chức Kỷ lục Guinness Thế giới, một cá thể rắn lục Gaboon dài 1,83m từng được ghi nhận có răng nanh dài 5,08cm, lập kỷ lục về chiều dài răng nanh ở rắn độc."
+    },
+    {
+     "t": "p",
+     "text": "Răng nanh của rắn lục Gaboon có thể gập vào trong miệng khi hàm khép lại. Khi tấn công, rắn mở hàm và sử dụng cặp răng nanh để đưa nọc độc vào cơ thể con mồi."
+    },
+    {
+     "t": "h",
+     "text": "Rắn lục Gaboon có cách di chuyển độc đáo"
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon có đầu lớn, hình tam giác, phân biệt rõ với phần cổ. Trên chóp mũi có hai vảy cứng nhô lên giống như sừng, nhưng kích thước nhỏ hơn cặp vảy sừng ở rắn lục tê giác, một loài khác thuộc chi Bitis ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Thân rắn mập, đuôi ngắn. Trên lưng là các hoa văn hình chữ nhật màu sáng xen kẽ những hình tam giác đậm màu, tạo thành họa tiết đối xứng chạy dọc cơ thể."
+    },
+    {
+     "t": "p",
+     "text": "Dù có hoa văn nổi bật, màu sắc của rắn lục Gaboon vẫn giúp chúng ngụy trang hiệu quả giữa lớp lá khô trên nền rừng. Khả năng ẩn mình này hỗ trợ rắn phục kích con mồi và tránh bị phát hiện."
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon chủ yếu sống trên mặt đất và có kiểu di chuyển khác biệt so với hình ảnh rắn trườn uốn mình thường thấy. Trong một số tình huống, chúng sử dụng kiểu di chuyển thẳng, còn gọi là chuyển động kiểu sâu đo, nhờ sự phối hợp của các cơ và vảy bụng để đưa cơ thể về phía trước."
+    },
+    {
+     "t": "p",
+     "text": "Khi cần di chuyển nhanh hơn hoặc vượt địa hình phức tạp, rắn có thể chuyển sang kiểu trườn uốn mình. Chúng cũng có khả năng bơi khi cần thiết."
+    },
+    {
+     "t": "h",
+     "text": "Môi trường sống và thức ăn của rắn lục Gaboon"
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon phân bố tại một số khu vực ở Trung và Tây Phi, chủ yếu trong các môi trường rừng nhiệt đới. Phạm vi phân bố cụ thể thay đổi theo khu vực và điều kiện sinh cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Loài rắn này thường sống trong những khu rừng có lớp lá rụng dày, nơi chúng có thể ẩn mình để phục kích con mồi. Một số cá thể cũng có thể xuất hiện ở khu vực rừng thứ sinh hoặc vùng đất bị tác động bởi hoạt động của con người."
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon chủ yếu hoạt động vào ban đêm. Thức ăn của chúng gồm động vật gặm nhấm, chim và một số động vật có xương sống nhỏ khác."
+    },
+    {
+     "t": "p",
+     "text": "Phương thức săn mồi đặc trưng của loài này là phục kích. Rắn nằm bất động giữa lớp lá khô, chờ con mồi đến gần rồi bất ngờ tung cú cắn."
+    },
+    {
+     "t": "p",
+     "text": "Khác với một số loài rắn thường cắn rồi nhả con mồi để chờ nọc độc phát huy tác dụng, rắn lục Gaboon có thể giữ chặt con mồi sau khi cắn."
+    },
+    {
+     "t": "h",
+     "text": "Rắn lục Gaboon nguy hiểm đến mức nào?"
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon có tuyến nọc độc lớn và khả năng đưa một lượng nọc độc đáng kể vào cơ thể con mồi. Mức độ nọc độc được truyền vào trong mỗi cú cắn có thể khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Nọc độc của loài rắn này chứa các thành phần ảnh hưởng đến quá trình đông máu và gây tổn thương mô. Người bị cắn có thể xuất hiện đau dữ dội, sưng nề, xuất huyết, rối loạn đông máu và tổn thương mô tại vị trí vết cắn. Trường hợp nặng có thể dẫn đến tụt huyết áp, tổn thương thận và các biến chứng nguy hiểm khác."
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon không phải loài rắn di chuyển nhanh trong điều kiện thông thường, nhưng có thể tung cú cắn trong thời gian ngắn. Khả năng ngụy trang tốt khiến chúng khó được phát hiện khi nằm giữa lớp lá rụng, làm tăng nguy cơ con người vô tình giẫm phải hoặc đến quá gần."
+    },
+    {
+     "t": "p",
+     "text": "Do đó, khi đi trong khu vực có thể có rắn độc, mọi người cần quan sát kỹ đường đi, tránh chạm hoặc bắt rắn. Nếu bị rắn cắn, cần hạn chế cử động, cố định chi bị cắn ở tư thế phù hợp và nhanh chóng đến cơ sở y tế. Không tự rạch vết thương, hút nọc độc hoặc garô chặt chi bị cắn."
+    },
+    {
+     "t": "p",
+     "text": "Rắn lục Gaboon chịu tác động từ việc mất môi trường sống và hoạt động săn bắt của con người. Da của loài này có thể bị khai thác để làm đồ da, trong khi sự suy giảm sinh cảnh ảnh hưởng đến khả năng tồn tại của quần thể."
+    },
+    {
+     "t": "p",
+     "text": "Theo đánh giá của Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN), tình trạng bảo tồn của loài cần được xem xét dựa trên hồ sơ đánh giá chính thức và thời điểm cập nhật. Việc xác định chính xác nhóm nguy cấp nên căn cứ vào danh mục IUCN hiện hành."
+    }
+   ]
+  },
+  {
+   "id": "f057012e55b0",
+   "order": 16,
+   "slug": "bat-duoc-ga-loi-trang-quy-hiem-khi-di-ray",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Bắt được gà lôi trắng quý hiếm khi đi rẫy",
+   "sapo": "Hà Tĩnh Trong lúc đi làm trên rẫy, ông Thái Văn Diệu ở xã Vũ Quang phát hiện một con gà lôi trắng đầu đỏ và chủ động giao cho cơ quan chức năng.",
+   "author": "Đức Hùng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/bat-duoc-ga-loi-trang-quy-hiem-khi-di-ray-5130971.html",
+   "published": "2026-10-11T11:01:32+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 396,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/f057012e55b0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-11/f057012e55b0-0.jpg",
+     "caption": "Ông Diệu giao nộp gà lôi trắng cho cơ quan chức năng, ngày 11/10. Ảnh: Công an cung cấp",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hà Tĩnh Trong lúc đi làm trên rẫy, ông Thái Văn Diệu ở xã Vũ Quang phát hiện một con gà lôi trắng đầu đỏ và chủ động giao cho cơ quan chức năng."
+    },
+    {
+     "t": "p",
+     "text": "Sáng 11/0, ông Diệu, 54 tuổi, đi làm rẫy ở thôn Hương Đại, xã Vũ Quang và thấy con gà lôi trắng nên bắt về nhà. Do được tuyên truyền trước đó, ông biết đây là loài động vật hoang dã quý hiếm cần bảo vệ nên báo chính quyền địa phương để xử lý."
+    },
+    {
+     "t": "p",
+     "text": "Công an xã sau đó phối hợp với Hạt Kiểm lâm Vũ Quang kiểm tra, xác minh và tiếp nhận cá thể động vật này. Con vật được bàn giao cho Vườn quốc gia Vũ Quang chăm sóc, cứu hộ và thả về môi trường tự nhiên theo quy định."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Gà lôi trắng ( Lophura nycthemera ) là loài chim thuộc họ trĩ, phân bố ở rừng núi Đông Nam Á và Trung Quốc, với 15 phân loài. Chim trống trưởng thành có bộ lông trắng, mào đen, bụng xanh đen hoặc trắng, chim mái lông nâu ôliu suốt đời. Kích thước chim trống dài 80-127 cm, chim mái 56-71 cm, trọng lượng 1-2 kg. Mùa sinh sản từ tháng 2 đến 6, mỗi lứa 4-10 trứng."
+    },
+    {
+     "t": "p",
+     "text": "Theo Thông tư 27/2025 của Bộ Nông nghiệp và Môi trường có hiệu lực từ 1/7, gà lôi trắng thuộc nhóm nguy cấp, quý, hiếm, phải được bảo tồn tại chỗ hoặc chuyển đến cơ sở được cấp phép để nuôi phục vụ nghiên cứu, bảo tồn, du lịch sinh thái. Các hoạt động khai thác, nuôi, kinh doanh phải có nguồn gốc hợp pháp, không gây hại đến quần thể tự nhiên. Việc nuôi sinh sản thương mại chỉ áp dụng với thế hệ F2 đã được CITES Việt Nam xác nhận."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Thái Khắc Thành, 45 tuổi, trú Nghệ An, bị TAND Khu vực 5, tỉnh Hưng Yên, tuyên phạt 6 năm tù về tội Vi phạm quy định bảo vệ động vật nguy cấp, quý, hiếm do nuôi và bán gà lôi trắng. Ngày 17/10/2025, TAND tỉnh Hưng Yên xét xử phúc thẩm, tuyên miễn trách nhiệm hình sự và tiền phạt bổ sung cho bị cáo, do thay đổi chính sách pháp luật khiến hành vi không còn nguy hiểm cho xã hội."
+    }
+   ]
+  },
+  {
+   "id": "f7aa0f04b8b9",
+   "order": 17,
+   "slug": "khach-san-trang-tri-bang-13-000-chai-nhua-4-000-lop-xe-cu-o",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Khách sạn trang trí bằng 13.000 chai nhựa, 4.000 lốp xe cũ ở Phú Thọ",
+   "sapo": "Từ những món đồ bị bỏ đi, một người đàn ông ở Bắc Ninh dành 2 năm để tạo nên không gian nghỉ dưỡng giữa đồi chè Long Cốc, Phú Thọ.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/khach-san-trang-tri-bang-13000-chai-nhua-4000-lop-xe-cu-o-phu-tho-post1688173.html",
+   "published": "2026-10-11T03:00:58+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1243,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/f7aa0f04b8b9-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tháng 9, giữa những đồi chè xanh ở Long Cốc (Phú Thọ), anh Nguyễn Văn Thơ (43 tuổi, quê Bắc Ninh) hoàn thiện \"giấc mơ xanh\" mà mình đã theo đuổi nhiều năm. Không gian nghỉ dưỡng mới của anh được tạo nên từ hàng nghìn món đồ cũ, phế liệu và vật liệu từng xuất hiện trong đời sống."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, anh Thơ vốn là hướng dẫn viên du lịch và hiện vẫn hoạt động trong lĩnh vực này, bên cạnh kinh doanh quán cà phê. Tình yêu với nghệ thuật, chế tạo và những món đồ cũ đến với anh từ nhỏ. Tuy nhiên, phải đến năm 2018, sở thích ấy mới được anh biến thành một công trình cụ thể khi bắt đầu làm quán cà phê bằng vật liệu tái chế ở Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Đến tháng 9 năm nay, anh tiếp tục đưa ý tưởng ấy lên một quy mô khác với Vietnam Recycling Home (xã Minh Đài, tỉnh Phú Thọ) trong quần thể đồi chè Long Cốc."
+    },
+    {
+     "t": "p",
+     "text": "\"Vật liệu tôi có được từ việc nhặt, xin và mua. Tôi tìm chúng ngoài đường, dưới sông, các cửa hàng phế liệu cho đến bãi rác. Phần lớn là những món đồ không quá quý giá nên việc thu gom không quá khó. Riêng một số nông cụ, khí cụ hoặc đồ đặc biệt, tôi phải nhờ anh em, bạn bè tìm và sưu tầm giúp\", anh Thơ nói với Tri Thức - Znews ."
+    },
+    {
+     "t": "p",
+     "text": "Khu homestay ở đồi chè Long Cốc của anh Thơ."
+    },
+    {
+     "t": "h",
+     "text": "\"Bảo tàng tái chế sống\""
+    },
+    {
+     "t": "p",
+     "text": "Anh Thơ không bắt đầu công việc với một bản thiết kế hoàn chỉnh."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều món đồ được đưa về trước, sau đó hình dáng, kích thước và chất liệu của chúng quyết định chúng sẽ trở thành gì. Một cánh cửa cũ có thể trở thành một phần của trần hoặc vách. Lốp xe được biến thành bàn ghế, lối đi hay vật trang trí. Những chai thủy tinh tưởng như chỉ có thể bỏ đi lại được xếp thành tường, rèm, chấn song và đèn."
+    },
+    {
+     "t": "p",
+     "text": "\"Phần lớn những thứ này không có khuôn mẫu. Tôi tự thiết kế, sáng tạo rồi nhờ một số anh em thợ hỗ trợ thực hiện\", anh kể."
+    },
+    {
+     "t": "p",
+     "text": "Trong số những vật liệu được sử dụng, có những con số cho thấy quy mô của việc thu gom."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 13.000 chai nhựa được dùng cho các hạng mục trang trí, trần và giàn hoa. 9.000 cây chè khô được đưa lên trần và vào nội thất, tạo hiệu ứng ánh sáng khi kết hợp với hệ thống đèn."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 10.000 chai thủy tinh xuất hiện ở nhiều vị trí, từ tường, vách trang trí đến rèm, chấn song và đèn. 4.000 lốp xe máy, ôtô được tái sử dụng cho bàn ghế, lối đi, đèn và các hạng mục cảnh quan."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý nhất là hơn 3.000 cánh cửa cũ được ghép thành những mảng trần, vách và trang trí. Mỗi cánh cửa mang theo một màu sắc, hình dáng và dấu vết riêng của thời gian, trước khi được đưa vào một không gian hoàn toàn mới."
+    },
+    {
+     "t": "p",
+     "text": "Công trình cũng sử dụng nhiều vật liệu khác như nhôm, đồng, sắt, kim loại phế liệu, gỗ, composite, sợi thủy tinh, cao su, nhạc cụ cũ, nông cụ, khí cụ và các vật dụng gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Khắp các \"ngóc ngách\" đều có sự xuất hiện của những vật liệu tái chế."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt là những món đồ này không chỉ được đặt vào không gian để khách tham quan. Chúng tiếp tục được sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể ngồi trên những chiếc ghế làm từ lốp xe, sử dụng bàn được tạo nên từ vật liệu cũ, nghỉ trong những căn phòng có trần và vách làm từ đồ tái chế."
+    },
+    {
+     "t": "p",
+     "text": "Theo cách đó, công trình được xây dựng theo một vòng đời khá đơn giản: tái chế, tái sử dụng, đưa vào công năng rồi để con người trực tiếp trải nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là lý do anh Thơ gọi nơi này là một \"bảo tàng tái chế sống\"."
+    },
+    {
+     "t": "h",
+     "text": "\"Gã nghệ sĩ điên\""
+    },
+    {
+     "t": "p",
+     "text": "Trong quãng thời gian làm công trình, một trong những hạng mục khiến anh Thơ nhớ nhất là tác phẩm được tạo nên từ hàng nghìn chai thủy tinh. Ban đầu, anh chỉ dự định dùng khoảng 500 chai, nhưng sau khi đăng ý tưởng lên mạng xã hội, số chai được mọi người gửi tới tăng lên hơn 10.000."
+    },
+    {
+     "t": "p",
+     "text": "Xử lý lượng vật liệu lớn không đơn giản, bởi chai thủy tinh vừa khó chế tác vừa tiềm ẩn nguy hiểm. Thay vì bỏ đi, anh quyết định tìm cách biến chúng thành một phần của công trình. Với anh, điều đáng giá nằm ở việc những thứ vốn bị xem là phế thải vẫn có thể bước vào một vòng đời mới."
+    },
+    {
+     "t": "p",
+     "text": "Vật liệu tưởng bỏ đi được anh Thơ tái chế lại thành những chiếc bàn, ghế hay cả giường."
+    },
+    {
+     "t": "p",
+     "text": "Suốt khoảng 2 năm thực hiện, anh nhiều lần xuất hiện với bộ dạng lấm lem, gầy đi vì công việc. Người thân không ít lần thắc mắc về việc anh dành quá nhiều thời gian và tiền bạc cho những món đồ cũ."
+    },
+    {
+     "t": "p",
+     "text": "\"Có những câu hỏi như làm cái này để làm gì, tôi phải trả lời đến hàng trăm lần. Người dân địa phương thậm chí gọi tôi là gã nghệ sĩ điên\", anh nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Trên diện tích khoảng 1,6 ha, công trình hoàn thiện gồm đồi chè, hồ nước, 13 bungalow, 2 nhà sàn cùng các khu vực sinh hoạt, vui chơi. Chai nhựa, chai thủy tinh, lốp xe, cánh cửa cũ, cây chè khô, nhôm, đồng, sắt, gỗ, gốm sứ, nhạc cụ, nông cụ và đồ gia dụng... được thu gom, xử lý rồi tiếp tục được sử dụng trong kiến trúc, nội thất."
+    },
+    {
+     "t": "p",
+     "text": "Anh Thơ ngồi cùng các vị khách Tây trong công trình tái chế của mình."
+    },
+    {
+     "t": "p",
+     "text": "Đây là công trình tái chế thứ 2 của anh Thơ, sau Hidden Gem Cafe Hanoi (phường Hoàn Kiếm, Hà Nội) thực hiện năm 2018. Anh cho biết cả hai đã được đưa vào danh sách kỷ lục Việt Nam. Công trình tại Long Cốc được định hướng trở thành khu nghỉ dưỡng sử dụng nhiều đồ tái chế nhất Việt Nam và được đề xuất cho một kỷ lục thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, anh cho rằng điều quan trọng nhất không nằm ở những con số. Anh kỳ vọng du khách đến đây không chỉ để nhìn ngắm những món đồ cũ được biến thành nội thất, mà còn trải nghiệm một kỳ nghỉ theo hướng sống xanh."
+    },
+    {
+     "t": "p",
+     "text": "Công trình hiện đã hoàn tất các yêu cầu về phòng cháy, chữa cháy và được cấp phép an toàn PCCC, theo chia sẻ của anh."
+    },
+    {
+     "t": "p",
+     "text": "Điều anh Thơ muốn du khách mang về sau chuyến đi cũng khá đơn giản: một cách nhìn khác về những thứ thường bị gọi là rác. Một chai nhựa, chiếc lốp xe hay cánh cửa cũ có thể chưa phải là điểm kết thúc của chúng, nếu được trao thêm một cơ hội."
+    },
+    {
+     "t": "p",
+     "text": "Học kỹ năng sống từ những cuốn cẩm nang sinh tồn"
+    },
+    {
+     "t": "p",
+     "text": "Sách “Cẩm nang sinh tồn”, “100 kỹ năng sinh tồn”, “Sống sót” là câu chuyện của những phượt thủ, nhà thám hiểm về cách thoát hiểm và sinh tồn."
+    }
+   ]
+  },
+  {
+   "id": "9b6ec2070e93",
+   "order": 18,
+   "slug": "tac-gia-naruto-tro-lai-sau-12-nam",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Tác giả Naruto trở lại sau 12 năm",
+   "sapo": "Tại sự kiện New York Comic Con, thương hiệu Naruto công bố loạt dự án mới, tiếp tục mở rộng thế giới ninja gắn liền với tên tuổi tác giả Masashi Kishimoto.",
+   "author": "MAI NGUYỆT",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tac-gia-naruto-tro-lai-sau-12-nam-100261011173053402.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 724,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/9b6ec2070e93-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/9b6ec2070e93-0.jpg",
+     "caption": "Manga mới Naruto: Shadow Rising được công bố cùng loạt hình ảnh về Naruto và các thành viên Đội 7 - Ảnh: @elias_silver",
+     "w": 596,
+     "h": 335
+    },
+    {
+     "src": "img/2026-10-11/9b6ec2070e93-1.jpg",
+     "caption": "Anime kết hợp Naruto × Ninku gồm 4 tập với cốt truyện nguyên bản - Ảnh: Studio Pierrot",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Teaser Naruto: Shadow Rising"
+    },
+    {
+     "t": "p",
+     "text": "Sau 12 năm kể từ khi manga Naruto kết thúc vào năm 2014, tác giả Masashi Kishimoto trở lại với một dự án manga mới thuộc thương hiệu này. Thông tin được công bố tại sự kiện New York Comic Con ngày 10-10, thu hút sự chú ý của người hâm mộ bộ truyện ninja nổi tiếng của Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Theo Oricon , tác phẩm mới mang tên Naruto: Shadow Rising , được giới thiệu thông qua một đoạn teaser tại chương trình sân khấu đặc biệt về tương lai của Naruto. Video lần lượt hé lộ hình ảnh Naruto, Sasuke, Sakura và Kakashi, trước khi công bố tên dự án."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh manga mới, một dự án anime kết hợp giữa Naruto và Ninku cũng được công bố. Anime gồm bốn tập, khai thác câu chuyện nguyên bản đưa các nhân vật của hai bộ truyện vào cùng một thế giới, dưới sự giám sát của Masashi Kishimoto và Koji Kiriyama."
+    },
+    {
+     "t": "h",
+     "text": "Manga mới hé lộ Naruto và các thành viên Đội 7"
+    },
+    {
+     "t": "p",
+     "text": "Video giới thiệu Naruto: Shadow Rising lần lượt xuất hiện hình ảnh Naruto giơ chiếc mũ Hokage, Kakashi nở nụ cười, Sasuke đứng với vẻ nghiêm nghị và Sakura trìu mến nhìn một em bé. Những hình ảnh này gợi lại các nhân vật quen thuộc trong Naruto, đồng thời có cảnh Naruto đối đầu Sasuke."
+    },
+    {
+     "t": "p",
+     "text": "Một chi tiết khác trong video là những bức tượng đá khắc gương mặt sáu Hokage tiền nhiệm tại làng Lá. Tượng của Hokage thứ bảy đang trong quá trình xây dựng, trước khi tên manga mới Naruto: Shadow Rising xuất hiện ở cuối đoạn giới thiệu."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, thông tin ban đầu chưa tiết lộ nội dung cụ thể, thời điểm phát hành hay hình thức đăng tải của manga. Những thông tin tiếp theo dự kiến được công bố tại Jump Festa 2027, sự kiện diễn ra trong hai ngày 19 và 20-12 tại trung tâm triển lãm Makuhari Messe, tỉnh Chiba, Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Naruto do Masashi Kishimoto sáng tác, đăng dài kỳ trên tạp chí Weekly Shonen Jump của Nhà xuất bản Shueisha từ năm 1999 đến 2014."
+    },
+    {
+     "t": "p",
+     "text": "Tác phẩm đã phát hành hơn 250 triệu bản truyện tranh trên toàn thế giới. Anime truyền hình bắt đầu lên sóng năm 2002, sau đó tiếp nối bằng Naruto Shippuden từ năm 2007 đến tháng 3-2017. Thương hiệu còn mở rộng sang phim điện ảnh, trò chơi và nhiều sản phẩm giải trí khác."
+    },
+    {
+     "t": "h",
+     "text": "Masashi Kishimoto xem Ninku là nguồn cảm hứng cho Naruto"
+    },
+    {
+     "t": "p",
+     "text": "Dự án anime Naruto × Ninku gồm 4 tập, với cốt truyện mới đưa các nhân vật của hai tác phẩm gặp gỡ. Theo phần giới thiệu, Naruto, Sasuke và Sakura nhận nhiệm vụ từ Kakashi. Do có việc riêng, Kakashi giao Naruto đảm nhiệm vai trò đội trưởng thay thế."
+    },
+    {
+     "t": "p",
+     "text": "Hào hứng nhận nhiệm vụ, Naruto dẫn Sasuke và Sakura lên đường. Tuy nhiên, cả ba bất ngờ lạc vào một thế giới khác và gặp Fusuke, nhân vật chính của Ninku . Từ đây, các ninja của làng Lá bước vào một cuộc phiêu lưu với những thử thách chưa từng xuất hiện trong câu chuyện gốc."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng kết hợp xuất phát từ mong muốn của Kishimoto được xem phần tiếp theo của Ninku. Tác giả cho biết ông sáng tác Naruto một phần vì muốn tiếp tục khám phá thế giới của bộ truyện này."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu không có Ninku, sẽ không có Naruto\", Masashi Kishimoto chia sẻ. Ông ví Fusuke như người thầy gián tiếp của Naruto và cho biết từ lâu đã mong muốn đưa mối liên hệ giữa hai nhân vật vào chính câu chuyện."
+    },
+    {
+     "t": "p",
+     "text": "Teaser Naruto × Ninku"
+    },
+    {
+     "t": "p",
+     "text": "Sau khi được Koji Kiriyama đồng ý, ý tưởng hợp tác đã trở thành hiện thực. Tác giả Naruto gọi đây là giấc mơ thành hiện thực và cho biết dự án giúp ông thực hiện điều mình mong đợi từ lâu: tạo ra một phần tiếp nối thực sự cho Ninku ."
+    },
+    {
+     "t": "p",
+     "text": "Koji Kiriyama cũng bày tỏ sự hào hứng khi hai thế giới truyện giao thoa. Ông cho biết cảm thấy vinh dự trước sự trân trọng mà Masashi Kishimoto dành cho Ninku , đồng thời mong khán giả theo dõi chuyến phiêu lưu của Naruto và Fusuke."
+    }
+   ]
+  },
+  {
+   "id": "032448d31249",
+   "order": 19,
+   "slug": "mot-thap-ky-cung-ve-pho",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Một thập kỷ cùng vẽ phố",
+   "sapo": "Suốt 10 năm qua, vào mỗi buổi chiều chủ nhật bên những góc phố, nhóm Ký họa đô thị Hà Nội - Urban Sketchers Hanoi đã rủ hàng nghìn người cùng ngồi xuống, quan sát và vẽ phố.",
+   "author": "nhipsonghanoi.hanoimoi.vn",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/mot-thap-ky-cung-ve-pho-1760515.html",
+   "published": "2026-10-11T00:16:01+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1078,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/032448d31249-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/032448d31249-0.jpg",
+     "caption": "Nhóm Ký họa đô thị Hà Nội chia sẻ về hành trình 10 năm thành lập. Ả nh: USH",
+     "w": 900,
+     "h": 606
+    },
+    {
+     "src": "img/2026-10-11/032448d31249-1.jpg",
+     "caption": "Hoạt động hằng tuần của nhóm Ký họa đô thị Hà Nội. Tranh: Nguyễn Công Bằng",
+     "w": 900,
+     "h": 641
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhiều công trình kiến trúc, góc phố, hàng cây, nếp sinh hoạt thường ngày đến những gánh hàng rong và thức quà thân thuộc hiện lên qua từng nét vẽ. Hành trình ấy góp phần lưu giữ những lát cắt của Hà Nội đang chuyển động, đồng thời gieo tình yêu và ý thức gìn giữ giá trị di sản đô thị trong cộng đồng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "10 năm yêu phố"
+    },
+    {
+     "t": "p",
+     "text": "Từ những lần gặp nhau khi đi vẽ phố, tháng 9-2016, nhóm Ký họa đô thị Hà Nội - Urban Sketchers Hanoi ra đời với 4 thành viên sáng lập đều là kiến trúc sư: Đinh Hải, Chu Quốc Bình, Nguyễn Hoàng Lâm, Trần Thị Thanh Thủy. Kiến trúc sư Đinh Hải chia sẻ, nhóm hoạt động theo tinh thần phi lợi nhuận, để những người yêu Hà Nội và yêu ký họa có thể cùng nhau vẽ, đồng thời kết nối với cộng đồng Urban Sketchers trên thế giới, với mục tiêu nâng cao thẩm mỹ cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm kết nối thông qua mạng xã hội Facebook. Mỗi chiều chủ nhật, mọi người hẹn nhau ở một địa điểm, cùng ngồi xuống, quan sát, cảm nhận rồi vẽ phố. Không có khoảng cách giữa người đã biết vẽ và người mới bắt đầu. Có trẻ em 5 - 6 tuổi, sinh viên, người làm văn phòng, kiến trúc sư, họa sĩ, người cao tuổi; có cả những người bạn quốc tế cùng tham gia."
+    },
+    {
+     "t": "p",
+     "text": "Kiến trúc sư Trần Thị Thanh Thủy, Trưởng nhóm Ký họa đô thị Hà Nội nhớ lại, những buổi đầu nhóm chỉ có vài kiến trúc sư và sinh viên, chủ yếu tìm đến các công trình cũ, những góc phố đẹp. Nhưng càng ngồi lâu, họ càng nhận ra phía sau một mái nhà, một cửa hàng hay một con phố luôn có những câu chuyện về con người. “Bác Oanh rung chuông” là một trong những câu chuyện như thế. Bác không cất tiếng rao hàng, chỉ rung chiếc chuông nhỏ, như một người nghệ sĩ đường phố. Hay anh Toàn ở phố Hàng Thiếc, giữa những cửa hàng đồ kim loại, nỗ lực giữ nghề làm cốm truyền thống và tạo thành điểm đến ở phố cổ cho du khách... Những con người bình dị ấy khiến nhóm nhận ra rằng, ký họa phố cần có cả những câu chuyện của người sống trong phố."
+    },
+    {
+     "t": "p",
+     "text": "Từ vài người ban đầu, cộng đồng Urban Sketchers Hanoi nay đã có hơn 28.000 thành viên. Trong 10 năm, nhóm tổ chức hàng trăm buổi ký họa cộng đồng, các triển lãm, lớp hướng dẫn miễn phí và hơn 70 chuyến hành trình ký họa trong nước, quốc tế. Điều giữ mọi người ở lại vẫn là tình yêu với thành phố và niềm vui được cùng nhau quan sát."
+    },
+    {
+     "t": "p",
+     "text": "Kiến trúc sư Trần Thị Thanh Thủy ví nhóm như một “máy làm kẹo bông”, cứ đi trên phố, gặp thêm người, lại “quấn” thêm vào cộng đồng. Có nhiều cậu bé, cô bé từ các tỉnh, thành phố lân cận đều đặn tham gia; có những gia đình ba thế hệ cùng ngồi vẽ; có người dân nhìn thấy chính ngôi nhà của mình trong một bức ký họa và lần đầu nhận ra vẻ đẹp vốn quen thuộc đến mức lâu nay ít để ý..."
+    },
+    {
+     "t": "p",
+     "text": "Lưu giữ những giá trị di sản của Thủ đô"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ cùng nhau vẽ, nhóm Ký họa đô thị Hà Nội còn tổ chức triển lãm, biên soạn sách để lan tỏa những hình ảnh, câu chuyện về Hà Nội. Sau 10 năm, nhóm đã thực hiện và góp bút vào hàng chục cuốn sách, ghi lại nhiều diện mạo của Thủ đô qua các chủ đề khác nhau. Tiêu biểu như “Tập thể cũ Hà Nội - Ký họa và hồi ức” - được trao Giải thưởng Bùi Xuân Phái - Vì tình yêu Hà Nội lần thứ 12; “Phố cổ Hà Nội - Ký họa và hồi ức” - được trao giải Khuyến khích Giải thưởng toàn quốc về Thông tin Đối ngoại; “Ấn tượng Hà Nội - Từ ký họa những công trình thời Pháp”..."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cuốn sách mới nhất “Hương vị phố cổ Hà Nội - Ký họa và tùy bút” ra mắt trong tháng 10, đúng dịp kỷ niệm 10 năm thành lập nhóm. Với hơn 150 bức ký họa và gần 30 bài viết được chắt lọc từ những cuộc rong ruổi nhiều năm của các tác giả, cuốn sách mang đến góc nhìn sống động, chân thực và giàu cảm xúc về di sản văn hóa ẩm thực đường phố của Thủ đô."
+    },
+    {
+     "t": "p",
+     "text": "Từ những món ăn như cốm, phở, bún chả, bún thang, chả cá đến hàng quà, quán ăn, chợ phố; từ ngõ Cấm Chỉ, chợ Thanh Hà, ngõ Đồng Xuân đến những gánh hàng, hàng nước, quán cà phê..., một Hà Nội được cảm nhận bằng nhiều giác quan hiện lên qua từng trang sách. Có những món ăn, âm thanh, mùi vị vẫn hiện diện trong đời sống; cũng có những thứ đã lùi vào ký ức, nay được lưu giữ qua ký họa và trang viết."
+    },
+    {
+     "t": "p",
+     "text": "Là đồng chủ biên cuốn sách, kiến trúc sư Phạm Vũ Thương Nhung cho biết, những người làm kiến trúc muốn cảm nhận thành phố từ nhiều chiều kích, vượt ra ngoài hình hài của đường phố và công trình. Ẩm thực là cánh cửa gần gũi để bước vào “di sản sống”, kết nối không gian, đường phố và đời sống. “Phía sau một món ăn không chỉ có công thức, mà còn có mùa vụ, nguồn nguyên liệu, căn bếp gia đình, hình ảnh của những người phụ nữ Hà Nội đã qua rất nhiều cách thức cầu kỳ để giữ lại hương vị món ăn. Và đặc biệt, chúng ta cũng nhìn thấy rất nhiều người làm nghề, những người tạo nên bản sắc của phố” - kiến trúc sư Phạm Vũ Thương Nhung nhận định."
+    },
+    {
+     "t": "p",
+     "text": "Qua 10 năm, từ một nhóm nhỏ cùng nhau ngồi vẽ ở phố, Ký họa đô thị Hà Nội đã trở thành một cộng đồng rộng lớn với một kho tư liệu giàu giá trị về thành phố. Họ đã góp phần xây dựng tình yêu Hà Nội một cách tự nhiên, giúp mỗi người dân thêm gắn kết và chủ động gìn giữ nét đẹp không gian sống quanh mình."
+    }
+   ]
+  },
+  {
+   "id": "07d289d0e8f1",
+   "order": 20,
+   "slug": "voi-camera-cua-dien-thoai-nu-giang-vien-di-tim-ve-dep-cua-th",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Với camera của điện thoại, nữ giảng viên đi tìm vẻ đẹp của Thiên Di",
+   "sapo": "Triển lãm Thiên Di của Cas - thạc sĩ Nguyễn Lâm Trâm Anh - giới thiệu 30 tác phẩm nhiếp ảnh đen trắng chụp bằng điện thoại tại Noirfoto Gallery, TP.HCM.",
+   "author": "MAI VINH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/voi-camera-cua-dien-thoai-nu-giang-vien-di-tim-ve-dep-cua-thien-di-100261010211711508.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 6,
+   "words": 577,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-0.jpg",
+     "caption": "Tác phẩm Thiên Di - Ảnh: Cas",
+     "w": 1280,
+     "h": 532
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-1.jpg",
+     "caption": "Tác giả Cas - Nguyễn Lâm Trâm Anh, giảng viên khoa luật - Trường đại học Sài Gòn - Ảnh: T.A.",
+     "w": 992,
+     "h": 1494
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-2.jpg",
+     "caption": "Không gian triển lãm \"Thiên Di\" - Ảnh: T.A.",
+     "w": 1280,
+     "h": 696
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-3.jpg",
+     "caption": "Tác phẩm Bạn đến chơi nhà - Ảnh: Cas",
+     "w": 1280,
+     "h": 2133
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-4.jpg",
+     "caption": "Tác phẩm Nhà hàng xóm - Ảnh: Cas",
+     "w": 1280,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-5.jpg",
+     "caption": "Tác phẩm Phố bên đồi - Ảnh: Cas",
+     "w": 1280,
+     "h": 873
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-6.jpg",
+     "caption": "Tác phẩm Duy mỹ - Ảnh: Cas",
+     "w": 1280,
+     "h": 1940
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-7.jpg",
+     "caption": "Tác phẩm Lăn tăn - Ảnh: Cas",
+     "w": 648,
+     "h": 1066
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-8.jpg",
+     "caption": "Tác phẩm Nắng 1 - Ảnh: Cas",
+     "w": 548,
+     "h": 1288
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-9.jpg",
+     "caption": "Tác phẩm Một mảnh đơn côi - Ảnh: Cas",
+     "w": 1280,
+     "h": 1803
+    },
+    {
+     "src": "img/2026-10-11/07d289d0e8f1-10.jpg",
+     "caption": "Tác phẩm Vạt nắng - Ảnh: Cas",
+     "w": 1280,
+     "h": 2133
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chiều 10-10, tại Noirfoto Gallery (TP.HCM), triển lãm nhiếp ảnh \"Thiên Di\" của tác giả Cas chính thức ra mắt công chúng. Ba mươi bức ảnh đen trắng, khiêm nhường về kích thước, lặng lẽ trong cách thể hiện, dẫn người xem vào một thế giới nơi thời gian dường như được phép trôi chậm hơn."
+    },
+    {
+     "t": "p",
+     "text": "Cas là nghệ danh của thạc sĩ Nguyễn Lâm Trâm Anh, giảng viên khoa luật - Trường đại học Sài Gòn . Ở giảng đường, chị làm việc với những điều khoản cần chính xác đến từng câu chữ. Rời bục giảng, chị thuộc về những chuyến đi không định trước, nơi một vệt nắng trên bức tường vôi cũng đủ níu bước chân."
+    },
+    {
+     "t": "p",
+     "text": "Trâm Anh Cas không khởi đầu với máy ảnh chuyên nghiệp. Chiếc điện thoại là thứ gần nhất, nhanh nhất để giữ lại những rung động thoáng qua, thứ mà nếu chần chừ chuẩn bị, có khi đã tan mất."
+    },
+    {
+     "t": "p",
+     "text": "Cas chịu ảnh hưởng sâu đậm từ Fan Ho, bậc thầy nhiếp ảnh với quan niệm chụp bằng bản năng: để đời sống tự cất tiếng, và để trực giác quyết định khoảnh khắc nào được ở lại."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Gác lại sự e dè về thiết bị, chị gửi những bức ảnh chụp bằng điện thoại đến Noirfotocontest 2025 với chủ đề \"Nắng\" và nhận giải \"Tác giả Triển vọng\". \" Thiên Di \" là kết quả của một năm Noirfoto Gallery đồng hành cùng chị sau giải thưởng ấy."
+    },
+    {
+     "t": "p",
+     "text": "Theo Cas, tên triển lãm gợi đến lẽ vô thường trong triết lý phương Đông: vạn vật sinh rồi diệt, đổi thay không ngừng."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng ảnh của Cas không vương nỗi buồn tiếc nuối. Ở đó, sự hữu hạn hiện lên như một lời mời gọi dịu dàng: hãy chậm lại mà nhìn."
+    },
+    {
+     "t": "p",
+     "text": "Bóng đổ là nhân vật trở đi trở lại trong ảnh của chị. Một vệt nắng vắt ngang khung cửa gỗ, một mảng tối nằm yên trên bậc thềm."
+    },
+    {
+     "t": "p",
+     "text": "Cas không săn tìm chúng, chỉ đón nhận như một cái duyên tình cờ. Khi nguồn sáng dịch chuyển, chiếc bóng cũng đổi dáng hình - mong manh, nhưng vẹn toàn trong chính khoảnh khắc nó tồn tại."
+    },
+    {
+     "t": "p",
+     "text": "Con người vắng mặt, hoặc gần như thế. Họ chỉ để lại dấu vết: chiếc áo sơ mi phơi hờ, bộ bàn ghế cũ, chiếc xe đạp dựng nghiêng bên hiên. Chính sự vắng mặt ấy lại khiến hơi ấm của đời sống đọng lại rõ hơn, như thể ai đó vừa rời đi và kỷ niệm vẫn còn nán lại."
+    },
+    {
+     "t": "p",
+     "text": "Từ khoảng ba nghìn bức ảnh, 30 tác phẩm được tuyển chọn. Cách trưng bày cũng chứa đựng dụng ý: ảnh in khổ nhỏ, đặt giữa khoảng giấy trắng rộng, gợi nhắc màn hình điện thoại. Mỗi tác phẩm mang chữ ký tay, tựa một trang nhật ký khép lại một chặng đường."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Lời nhắn của \"Thiên Di\" giản dị: thời gian vẫn trôi, điều duy nhất ta có thể làm là hiện diện trọn vẹn trong từng khoảnh khắc. Và chính vì hữu hạn, mỗi phút giây hiện tại mới trở nên vô giá."
+    },
+    {
+     "t": "p",
+     "text": "Triển lãm \"Thiên Di\" diễn ra từ ngày 10-10 tại Noirfoto Gallery (131 Dương Văn An, phường Bình Trưng, TP.HCM), mở cửa từ 12-10 đến 1-11, khung giờ 10h - 18h, từ thứ Hai đến thứ Bảy."
+    },
+    {
+     "t": "p",
+     "text": "Tuổi Trẻ giới thiệu một số tác phẩm trong triển lãm \"Thiên Di\" của Cas."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    }
+   ]
+  }
+ ]
+}

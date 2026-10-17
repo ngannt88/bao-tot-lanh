@@ -1,0 +1,2472 @@
+{
+ "date": "2026-10-09",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-09T08:45:36+07:00",
+ "sections": [
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  }
+ ],
+ "articles": [
+  {
+   "id": "e1a47082193b",
+   "order": 1,
+   "slug": "rua-nui-vang-cuc-ky-nguy-cap-cung-4-loai-quy-hiem-xuat-hien",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Rùa núi vàng cực kỳ nguy cấp cùng 4 loài quý hiếm xuất hiện ở Chư Mom Ray",
+   "sapo": "(Dân trí) - Vườn quốc gia Chư Mom Ray (Quảng Ngãi) đã công bố bổ sung 5 loài động, thực vật quý hiếm. Trong đó có rùa núi vàng thuộc nhóm cực kỳ nguy cấp.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/rua-nui-vang-cuc-ky-nguy-cap-cung-4-loai-quy-hiem-xuat-hien-o-chu-mom-ray-20261007154459638.htm",
+   "published": "2026-10-08T04:45:46+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 640,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/e1a47082193b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/e1a47082193b-0.jpg",
+     "caption": "Rùa đất Sê-pôn (bên trái) và rùa núi vàng (Ảnh: Vườn quốc gia Chư Mom Ray).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/e1a47082193b-1.jpg",
+     "caption": "Ba ba da trơn và cua bay Kon Tum (Ảnh: Vườn quốc gia Chư Mom Ray).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/e1a47082193b-2.jpg",
+     "caption": "Lan hài đài cuốn trong Vườn quốc gia Chư Mom Ray (Ảnh: Vườn quốc gia Chư Mom Ray).",
+     "w": 689,
+     "h": 459
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Vườn quốc gia Chư Mom Ray (Quảng Ngãi) đã công bố bổ sung 5 loài động, thực vật quý hiếm. Trong đó có rùa núi vàng thuộc nhóm cực kỳ nguy cấp."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 7/10, ông Đào Xuân Thủy, Giám đốc Ban Quản lý Vườn quốc gia Chư Mom Ray (xã Sa Thầy, tỉnh Quảng Ngãi), cho biết đơn vị đã ban hành quyết định công bố bổ sung 5 loài động, thực vật mới ghi nhận trên lâm phần thuộc Vườn quốc gia Chư Mom Ray."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Thủy, qua hệ thống bẫy ảnh và hoạt động tuần tra, lực lượng chức năng đã phát hiện 5 loài động, thực vật gồm: rùa núi vàng, rùa đất Sê-pôn, ba ba da trơn, cua bay Kon Tum và lan hài đài cuốn. Các loài động, thực vật được công bố bổ sung đều thuộc diện nguy cấp, quý hiếm hoặc được ưu tiên bảo vệ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Rùa núi vàng (tên khoa học Indotestudo elongata) thuộc lớp Bò sát. Loài này có tên trong Sách Đỏ Việt Nam, thuộc nhóm cực kỳ nguy cấp và được bảo vệ nghiêm ngặt."
+    },
+    {
+     "t": "p",
+     "text": "Rùa núi vàng sống trên cạn, thường xuất hiện tại các khu vực rừng khộp, rừng tre nứa và hoạt động chủ yếu vào ban ngày."
+    },
+    {
+     "t": "p",
+     "text": "Tại Việt Nam, loài này được ghi nhận phân bố ở nhiều địa phương, trong đó có Quảng Ngãi, Đắk Lắk, Lâm Đồng, Đồng Nai..."
+    },
+    {
+     "t": "p",
+     "text": "Rùa đất Sê-pôn (tên khoa học Cyclemys oldhamii) thuộc lớp Bò sát. Loài này có tên trong Sách Đỏ Việt Nam, thuộc nhóm nguy cấp và được ưu tiên bảo vệ."
+    },
+    {
+     "t": "p",
+     "text": "Loại này thường sống trong các khu rừng nhiệt đới ẩm, gần sông, suối, khe nước hoặc đầm lầy có nền đất bùn và nhiều lá mục. Chúng kiếm ăn chủ yếu vào ban ngày và có khả năng khép một phần cơ thể vào trong mai khi bị đe dọa."
+    },
+    {
+     "t": "p",
+     "text": "Ba ba da trơn (tên khoa học Pelodiscus sinensis) thuộc lớp Bò sát và được xếp vào nhóm sẽ nguy cấp. Loài này sinh sống tại sông, hồ, ao, đầm lầy và kênh rạch có dòng chảy chậm."
+    },
+    {
+     "t": "p",
+     "text": "Ba ba da trơn chủ yếu hoạt động vào ban đêm. Ban ngày, chúng thường vùi mình dưới bùn hoặc cát. Loài này được ghi nhận phân bố tại nhiều tỉnh, thành ở Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cua bay Kon Tum (tên khoa học Cheirotonus gestroi) thuộc lớp Côn trùng. Loài này có tên trong Sách Đỏ Việt Nam, có giá trị trong nghiên cứu và bảo tồn đa dạng sinh học."
+    },
+    {
+     "t": "p",
+     "text": "Cua bay Kon Tum thường sống trong các khu rừng ẩm nhiệt đới ở độ cao 1.000-1.700m. Tại Việt Nam, loài này được ghi nhận ở Quảng Trị, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk và Lâm Đồng."
+    },
+    {
+     "t": "p",
+     "text": "Loài thực vật được công bố bổ sung là lan hài đài cuốn (tên khoa học Paphiopedilum appletonianum) thuộc bộ Măng tây. Đây là loài có tên trong Sách Đỏ Việt Nam và được ưu tiên bảo vệ."
+    },
+    {
+     "t": "p",
+     "text": "Lan hài đài cuốn thường sống trong rừng xanh nhiệt đới, nơi đất giàu mùn, độ ẩm cao, trên sườn dốc hoặc vách đá dưới tán rừng tự nhiên. Loài này phân bố ở độ cao 900-1.900m."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Cũng theo Giám đốc Ban Quản lý Vườn quốc gia Chư Mom Ray, việc ghi nhận và công bố bổ sung 5 loài động, thực vật quý hiếm góp phần cập nhật danh mục đa dạng sinh học tại Vườn quốc gia Chư Mom Ray."
+    },
+    {
+     "t": "p",
+     "text": "Đây là cơ sở để đơn vị tăng cường quản lý, bảo vệ các loài nguy cấp, quý hiếm và sinh cảnh tự nhiên. Đơn vị sẽ tiếp tục rà soát, cập nhật các loài đang sinh sống trong vườn để phục vụ công tác nghiên cứu và bảo tồn."
+    }
+   ]
+  },
+  {
+   "id": "49ab51ff65ab",
+   "order": 2,
+   "slug": "cay-bang-ba-hon-400-nam-tuoi-o-can-tho-30-nguoi-dang-tay-moi",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Cây 'bàng bà' hơn 400 năm tuổi ở Cần Thơ, 30 người dang tay mới ôm hết gốc",
+   "sapo": "Giữa sân đình Phụng Tường ở Cần Thơ, cây bàng đá cao hơn 40m, tán xanh mướt, bộ rễ nổi dài hơn 20m, được người dân gọi là 'bàng bà' và gìn giữ qua nhiều thế hệ.",
+   "author": "CA LINH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cay-bang-ba-hon-400-nam-tuoi-o-can-tho-30-nguoi-dang-tay-moi-om-het-goc-100261007160032269.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 485,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-0.jpg",
+     "caption": "Cây \"bàng bà\" hàng trăm năm tuổi tại đình thần Phụng Tường - Ảnh: CA LINH",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-09/49ab51ff65ab-5.jpg",
+     "caption": "Cây bàng sừng sững trong sân đình Phụng Tường, được xem như \"nhân chứng\" của lịch sử đình qua nhiều thế hệ - Ảnh: CA LINH",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tại đình thần Phụng Tường (xã Nhơn Mỹ, TP Cần Thơ ), cây bàng đá cổ thụ được người dân địa phương gọi là cây \"bàng bà\" sừng sững giữa sân đình từ bao đời nay."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người dân ở đây cho rằng cây đã hơn 400 năm tuổi, trở thành một phần đặc biệt của không gian đình và là điểm khiến nhiều người tìm đến chiêm ngưỡng."
+    },
+    {
+     "t": "p",
+     "text": "Cây \"bàng bà\" cao hơn 40m, chu vi thân trên 10m, bộ rễ nổi dài hơn 20m, tạo thành một tán lá xanh mướt che phủ cả một góc sân đình. Để bao quanh bộ đế (gồm phần gốc và rễ cây), cần khoảng 30 người đứng dang tay nối nhau."
+    },
+    {
+     "t": "p",
+     "text": "Ông Đỗ Văn Chọn, người trông coi và quản lý đình thần Phụng Tường, cho hay: \"Hiện chưa có tài liệu ghi chép cụ thể về tuổi chính xác của cây, chủ yếu được truyền lại qua nhiều thế hệ. Ông nội của tôi hiện đã hơn 100 tuổi và ông nói rằng từ khi còn nhỏ đã nhìn thấy cây bàng này lớn sừng sững trong sân đình\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Gốc và thân cây bàng khá to - Ảnh: CA LINH"
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Chọn, trước đây đình còn một cây bàng khác được gọi là cây \"bàng ông\", có tuổi đời tương đương cây \"bàng bà\". Tuy nhiên, cây đã chết hơn 10 năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Đây từng là cây có hình dáng rất đẹp nhưng bị sâu, thân cây rỗng do tồn tại hàng trăm năm. Ngoài ra, trong quá trình làm đường, khu vực quanh cây bị ứ nước khiến cây suy kiệt. Địa phương từng tìm cách cứu chữa nhưng không thành công."
+    },
+    {
+     "t": "p",
+     "text": "\"Cây \"bàng ông\" chết đi tiếc lắm. Hồi đó, cây này có dáng rất đẹp\", ông Chọn nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Đối với cây \"bàng bà\" còn lại, đình thường xuyên chăm sóc, bón phân và cắt tỉa tầm gửi nhằm hạn chế nguy cơ cây bị ảnh hưởng, giúp cây phát triển xanh tốt."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Lá cây phát triển xanh tốt - Ảnh: CA LINH"
+    },
+    {
+     "t": "p",
+     "text": "Ông Trần Văn Hai (63 tuổi, người dân địa phương) bày tỏ: \"Hồi nhỏ tôi đã thấy hai cây bàng trong sân đình. Cách đây vài năm, một cây chết đi, người dân rất tiếc. Cây bàng là hình ảnh quen thuộc đối với người dân trong vùng\"."
+    },
+    {
+     "t": "p",
+     "text": "Một số người còn kể rằng ngày xưa, người dân đi trên sông, nhìn thấy hai cây bàng cao to là định vị được hướng để chèo ghe."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Hằng năm, đình thần Phụng Tường tổ chức các lễ hạ điền và thượng điền vào tháng 3 và tháng 11 âm lịch, thu hút đông người dân, du khách đến cúng bái. Dịp này, nhiều người cũng dành thời gian tham quan, chiêm ngưỡng cây bàng cổ thụ được xem như \"nhân chứng\" của lịch sử đình qua nhiều thế hệ."
+    }
+   ]
+  },
+  {
+   "id": "439a4f3a302f",
+   "order": 3,
+   "slug": "lien-tiep-rua-bien-trong-sach-do-len-dao-hon-cau-de-trung",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Liên tiếp rùa biển trong Sách đỏ lên đảo Hòn Cau đẻ trứng",
+   "sapo": "Sau một đêm mưa lớn, tổ tuần tra phát hiện vích mẹ nặng 80-90 kg lên Bãi Tàu đẻ 82 trứng. Đây là lần thứ 6 trong năm Hòn Cau ghi nhận rùa biển lên đảo sinh sản.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/lien-tiep-rua-bien-trong-sach-do-len-dao-hon-cau-de-trung-post1688395.html",
+   "published": "2026-10-08T10:07:32+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 792,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/439a4f3a302f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/439a4f3a302f-0.jpg",
+     "caption": "rùa biển,  Hòn Cau ảnh 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/439a4f3a302f-1.jpg",
+     "caption": "rùa biển,  Hòn Cau ảnh 2",
+     "w": 1280,
+     "h": 1473
+    },
+    {
+     "src": "img/2026-10-09/439a4f3a302f-2.jpg",
+     "caption": "rùa biển,  Hòn Cau ảnh 3",
+     "w": 1280,
+     "h": 1556
+    },
+    {
+     "src": "img/2026-10-09/439a4f3a302f-3.jpg",
+     "caption": "rùa biển,  Hòn Cau ảnh 4",
+     "w": 1280,
+     "h": 1581
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau một đêm mưa lớn, tổ tuần tra phát hiện vích mẹ nặng 80-90 kg lên Bãi Tàu đẻ 82 trứng. Đây là lần thứ 6 trong năm Hòn Cau ghi nhận rùa biển lên đảo sinh sản."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một góc ở Khu bảo tồn biển Hòn Cau, tỉnh Lâm Đồng, sáng 8/10."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 8/10, đại diện Ban Quản lý (BQL) Khu bảo tồn biển Hòn Cau (tỉnh Lâm Đồng) cho biết tổ tuần tra phát hiện một rùa mẹ lên Bãi Tàu đẻ trứng sau đêm mưa lớn. Rùa mẹ đẻ 82 trứng trong đêm 7/10, toàn bộ được chuyển về khu ấp gần trạm kiểm soát, có rào chắn bảo vệ."
+    },
+    {
+     "t": "p",
+     "text": "Qua dấu vết và hình dáng quan sát được, lực lượng bảo tồn xác định đây là vích (Chelonia mydas), ước nặng 80-90 kg, nằm trong Sách đỏ Việt Nam. Trứng vích thường nở sau khoảng 45-60 ngày, tùy nhiệt độ. Khi rùa con chui khỏi ổ, lực lượng bảo tồn sẽ tiếp tục theo dõi và hỗ trợ chúng trở về biển."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần thứ 6 trong năm Hòn Cau ghi nhận rùa biển lên đảo sinh sản. Lần gần nhất, tối 11/9, một vích mẹ nặng khoảng 90 kg lên đảo, liên tục đào 2-3 vị trí khác nhau trước khi chọn chỗ đẻ 101 trứng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Rùa mẹ lên Bãi Tàu, Khu bảo tồn biển Hòn Cau, đẻ 82 trứng tối 7/10."
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu năm đến nay, khu bảo tồn ghi nhận rùa biển lên sinh sản tại 3 bãi gồm Bãi Nhất, Bãi Tàu và Bãi Ba Hòn. Trong đó, 3 lượt rùa đẻ tại khu vực an toàn nên trứng được giữ nguyên tại bãi. 3 lượt phải di dời trứng về khu ấp để bảo vệ."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện BQL Khu bảo tồn biển Hòn Cau nhận định vích tiếp tục trở lại đảo sinh sản là tín hiệu tích cực đối với công tác bảo tồn. Các bãi biển tại đây vẫn có điều kiện tương đối an toàn, phù hợp để rùa biển lên đẻ trứng. Sự trở lại của vích cũng cho thấy môi trường sống tại khu vực đang được duy trì và hệ sinh thái biển được bảo vệ."
+    },
+    {
+     "t": "p",
+     "text": "Khu bảo tồn biển Hòn Cau thuộc xã Liên Hương, tỉnh Lâm Đồng, có tổng diện tích khoảng 12.500 ha, trong đó đảo Hòn Cau rộng 140 ha. Đây là một trong những khu vực rùa biển thường tìm về sinh sản, chủ yếu từ tháng 5 đến tháng 10 hàng năm."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Dấu vết rùa mẹ lên Bãi Tàu, Khu bảo tồn biển Hòn Cau, đẻ trứng tối 7/10."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động theo dõi rùa sinh sản đã được thực hiện nhiều năm tại Hòn Cau. Năm 2013, khu bảo tồn ghi nhận ổ vích đầu tiên với 154 trứng. Năm 2017, có 15 cá thể lên đảo, đẻ tổng cộng 1.389 trứng. Đến năm 2024, khu vực ghi nhận 6 lượt rùa lên bãi đẻ."
+    },
+    {
+     "t": "p",
+     "text": "Rùa xanh, thường gọi là vích (Chelonia mydas), là một trong 7 loài rùa biển được ghi nhận tại Việt Nam. Loài này chủ yếu xuất hiện và sinh sản tại đặc khu Côn Đảo (TP.HCM)."
+    },
+    {
+     "t": "p",
+     "text": "Theo các tài liệu khoa học, trọng lượng tối đa của vích biển khoảng 46-50 kg. Tuy nhiên, tại các vùng biển phía Nam, ngư dân từng phát hiện và thả về biển những cá thể vích có kích thước bất thường, thường nặng 100-120 kg."
+    },
+    {
+     "t": "p",
+     "text": "7 loài rùa biển được ghi nhận gồm vích (rùa xanh - Chelonia mydas), quản đồng (Caretta caretta), rùa mai phẳng (Natator depressus), đồi mồi (Eretmochelys imbricata), rùa da (Dermochelys coriacea), đồi mồi dứa (đú) (Lepidochelys olivacea) và rùa Kemp's ridley (Lepidochelys kempi). Các loài này đều thuộc danh sách động vật hoang dã nguy cấp theo Công ước về thương mại quốc tế các loài động, thực vật hoang dã nguy cấp (CITES)."
+    },
+    {
+     "t": "p",
+     "text": "Ngoại trừ rùa mai phẳng, 6 loài còn lại đều có trong Phụ lục I và II của Công ước về Bảo tồn các loài động vật hoang dã di cư (CMS)."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    },
+    {
+     "t": "p",
+     "text": "Châu Sa"
+    }
+   ]
+  },
+  {
+   "id": "236a85590f48",
+   "order": 4,
+   "slug": "tu-200-ca-the-dau-tien-den-ky-quan-vinpearl-safari-phu-quoc",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Từ 200 cá thể đầu tiên đến kỳ quan Vinpearl Safari Phú Quốc",
+   "sapo": "Sau hơn một thập kỷ, khoảng 200 động vật hoang dã được đưa về Phú Quốc bằng chuyên cơ đã phát triển thành quần thể hơn 4.000 cá thể tại Vinpearl Safari.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/tu-200-ca-the-dau-tien-den-ky-quan-vinpearl-safari-phu-quoc-post1688400.html",
+   "published": "2026-10-08T10:05:08+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1149,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/236a85590f48-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/236a85590f48-0.jpg",
+     "caption": "Vinpearl Safari Phú Quốc ảnh 1",
+     "w": 720,
+     "h": 718
+    },
+    {
+     "src": "img/2026-10-09/236a85590f48-1.jpg",
+     "caption": "Vinpearl Safari Phú Quốc ảnh 2",
+     "w": 1080,
+     "h": 1619
+    },
+    {
+     "src": "img/2026-10-09/236a85590f48-2.jpg",
+     "caption": "Vinpearl Safari Phú Quốc ảnh 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/236a85590f48-3.jpg",
+     "caption": "Vinpearl Safari Phú Quốc ảnh 4",
+     "w": 800,
+     "h": 533
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau hơn một thập kỷ, khoảng 200 động vật hoang dã được đưa về Phú Quốc bằng chuyên cơ đã phát triển thành quần thể hơn 4.000 cá thể tại Vinpearl Safari."
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm 2015, khoảng 200 cá thể thuộc gần 20 loài hoang dã được đưa từ Mỹ, châu Âu và Nam Phi đến Phú Quốc trên ba chuyến chuyên cơ. Sau hơn 10 năm, nhiều “hành khách” đã sinh sản, gây dựng quần thể nhiều thế hệ, góp phần đưa Vinpearl Safari Phú Quốc đạt quy mô hơn 4.000 cá thể thuộc khoảng 200 loài."
+    },
+    {
+     "t": "h",
+     "text": "Từ 12 “hành khách quá khổ” đến gia đình hươu cao cổ ba thế hệ"
+    },
+    {
+     "t": "p",
+     "text": "12 cá thể hươu cao cổ đầu tiên tới Phú Quốc năm 2015 thuộc nhóm “hành khách” đặc biệt nhất. Với chiều cao vượt trội và cấu trúc cơ thể nhạy cảm, việc vận chuyển loài động vật này đòi hỏi quy trình chuyên biệt, từ thiết kế không gian đến theo dõi sức khỏe xuyên suốt hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi thích nghi với môi trường sống tại Vinpearl Safari Phú Quốc, các “hành khách quá khổ” bắt đầu sinh sản, hình thành quần thể nhiều thế hệ. Một trong những câu chuyện đáng nhớ nhất là sự ra đời của Hero, cá thể hươu cao cổ từng trải qua ca sinh đầy thử thách."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đàn hươu cao cổ tại Vinpearl Safari Phú Quốc hiện có 36 cá thể thuộc nhiều thế hệ."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc vượt cạn kéo dài 4 giờ, khi hươu mẹ bắt đầu kiệt sức, hai chân hươu non vẫn nằm sai tư thế, buộc các bác sĩ thú y và chuyên viên phải can thiệp. Hero cuối cùng chào đời an toàn với trọng lượng khoảng 60 kg."
+    },
+    {
+     "t": "p",
+     "text": "Từ khoảnh khắc sinh tử ấy, Hero lớn lên giữa một đàn hươu ngày càng đông đúc. Riêng trong hai năm 2025-2026, Safari đón thêm 10 thành viên mới, nâng tổng đàn lên 36 cá thể. Hơn 20 cá thể trong số đó được sinh ra và trưởng thành ngay tại Phú Quốc, tạo nên quần thể hươu cao cổ nhiều thế hệ."
+    },
+    {
+     "t": "h",
+     "text": "Bốn hổ con giống Bengal và 2.600 giờ chăm sóc"
+    },
+    {
+     "t": "p",
+     "text": "Với hổ Bengal, hành trình nhân giống bắt đầu chỉ vài tháng sau khi hai cá thể C8 và C9 đặt chân tới Vinpearl Safari Phú Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 14/2/2016, hai cá thể được ghép đôi, sau 102 ngày mang thai, đúng ngày 1/6, C9 sinh hai hổ con Phú và Quốc, đến 8 ngày sau, C8 tiếp tục sinh Hiếu và Thảo."
+    },
+    {
+     "t": "p",
+     "text": "Bốn cái tên ghép lại thành “Phú Quốc - Hiếu Thảo”, đánh dấu lứa hổ Bengal F1 đầu tiên tại Vinpearl Safari."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các thế hệ hổ Bengal sinh trưởng tại Phú Quốc góp phần mở rộng quần thể của loài tại Safari."
+    },
+    {
+     "t": "p",
+     "text": "Trong những tuần đầu tiên, chúng được cho bú sữa chuyên dụng ba giờ một lần và theo dõi sức khỏe liên tục cả ngày lẫn đêm. Tổng cộng khoảng 2.600 giờ chăm sóc đặc biệt đã được dành cho bốn cá thể nhỏ, với sự phối hợp chặt chẽ của đội ngũ chuyên viên và bác sĩ thú y."
+    },
+    {
+     "t": "p",
+     "text": "Từ những sinh linh nhỏ bé cần được chăm sóc từng giờ, Phú, Quốc, Hiếu và Thảo dần trưởng thành, góp phần mở rộng đàn hổ Bengal tại Phú Quốc. Hai cá thể C8 và C9 từng là những “hành khách” đầu tiên, nay đã để lại dấu ấn qua nhiều thế hệ hổ sinh ra ngay tại Vinpearl Safari."
+    },
+    {
+     "t": "h",
+     "text": "Từ “F1” Hakuna Matata đến 25 tê giác trắng chào đời tại Safari"
+    },
+    {
+     "t": "p",
+     "text": "Sự mở rộng của quần thể tê giác trắng lại là dấu ấn rõ nét nhất, minh chứng cho năng lực bảo tồn, chăm sóc và phát triển động vật hoang dã của Vinpearl Safari Phú Quốc. Trên thế giới, tỷ lệ nhân giống thành công loài tê giác trắng là rất hiếm hoi do sự phức tạp của môi trường sống và các yếu tố sinh học khắt khe."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 3/4/2019, Hakuna Matata chào đời, đánh dấu lần đầu tiên tê giác trắng sinh con thành công tại Vinpearl Safari Phú Quốc. Là con của cặp tê giác đầu tiên “định cư” tại đây, Hakuna Matata trở thành một trong những cá thể F1 đầu tiên, mở ra bước tiến mới trong công tác nhân giống."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, 25 cá thể tê giác trắng đã chào đời tại Vinpearl Safari Phú Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ 17 ngày sau khi Hakuna Matata chào đời, Vinpearl Safari Phú Quốc tiếp tục đón thêm Cà Phê. Trong vòng 16 tháng, 4 tê giác con liên tiếp được sinh ra, cho thấy sự thích nghi và phát triển của đàn trong môi trường sống mới."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, Vinpearl Safari đã ghi nhận 25 cá thể tê giác trắng chào đời thành công, riêng từ đầu năm 2026 có thêm 3 thành viên mới. Cùng với việc mở rộng đàn, công tác theo dõi huyết thống, kiểm soát sinh sản và quản lý ghép đàn được triển khai nghiêm ngặt, nhằm duy trì sự đa dạng di truyền và sức khỏe của quần thể."
+    },
+    {
+     "t": "h",
+     "text": "Từ 200 “hành khách” đến hơn 4.000 “cư dân” hoang dã"
+    },
+    {
+     "t": "p",
+     "text": "Tê giác trắng, hươu cao cổ và hổ Bengal chỉ là ba lát cắt trong bộ sưu tập động vật hoang dã được gây dựng tại Vinpearl Safari Phú Quốc suốt hơn một thập kỷ qua."
+    },
+    {
+     "t": "p",
+     "text": "Từ khoảng 200 cá thể thuộc gần 20 loài trên những chuyến chuyên cơ năm 2015, Vinpearl Safari Phú Quốc hiện chăm sóc hơn 4.000 cá thể thuộc khoảng 200 loài. Chỉ từ đầu năm 2026, nơi đây ghi nhận thêm 220 cá thể non chào đời, tiếp tục làm giàu các quần thể động vật đang sinh sống."
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau hành trình từ những chuyến chuyên cơ xuyên lục địa đến các thế hệ động vật sinh ra và lớn lên tại Phú Quốc là sự đầu tư bài bản của Vinpearl vào quy trình vận chuyển, chăm sóc, thú y và quản lý sinh sản. Thành quả ấy góp phần tạo nên quy mô hàng đầu thế giới và dấu ấn riêng của “kỳ quan hoang dã” lớn nhất Việt Nam giữa lòng đảo ngọc."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 20/4/2024, World Records Union - WorldKings chính thức công nhận Vinpearl Safari Phú Quốc là “Safari trên đảo bảo tồn số lượng cá thể động vật thuộc nhiều loài lớn nhất thế giới”. Trước đó, Vinpearl Safari Phú Quốc cũng trở thành vườn thú đầu tiên tại Việt Nam nhận chứng chỉ của Hiệp hội Vườn thú Đông Nam Á - SEAZA về công tác bảo tồn và phúc trạng động vật. “Kỷ lục kép” của Vinpearl Safari Phú Quốc không chỉ khó vượt qua mà còn góp phần tạo vị thế vững chắc cho Việt Nam trên bản đồ Safari toàn cầu."
+    }
+   ]
+  },
+  {
+   "id": "e09858c4c4dd",
+   "order": 5,
+   "slug": "chang-trai-tung-nang-120-kg-va-hanh-trinh-doat-huy-chuong-va",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chàng trai từng nặng 120 kg và hành trình đoạt huy chương vàng thể hình",
+   "sapo": "Từng nặng 120 kg và mang tiền sử bệnh hen suyễn, Tạ Đình Khôi (18 tuổi, TP.HCM) đã lột xác ngoạn mục để giành huy chương vàng thể hình quốc gia.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/chang-trai-tung-nang-120-kg-va-hanh-trinh-doat-huy-chuong-vang-the-hinh-185261007143153781.htm",
+   "published": "2026-10-09T01:18:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 724,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/e09858c4c4dd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/e09858c4c4dd-0.jpg",
+     "caption": "Khôi thời điểm còn thừa cân",
+     "w": 1242,
+     "h": 1656
+    },
+    {
+     "src": "img/2026-10-09/e09858c4c4dd-1.jpg",
+     "caption": "Khôi miệt mài luyện tập với tạ nặng tại phòng gym, rèn luyện thể lực cho các đấu trường thể hình",
+     "w": 1280,
+     "h": 1068
+    },
+    {
+     "src": "img/2026-10-09/e09858c4c4dd-2.jpg",
+     "caption": "Khôi duy trì cường độ tập luyện nghiêm ngặt tại phòng gym",
+     "w": 1280,
+     "h": 1070
+    },
+    {
+     "src": "img/2026-10-09/e09858c4c4dd-3.jpg",
+     "caption": "Khôi xuất sắc giành huy chương vàng tại Giải vô địch thể hình trẻ quốc gia năm 2026",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Vượt qua giới hạn để đến với thể hình"
+    },
+    {
+     "t": "p",
+     "text": "Khôi kể, bước vào độ tuổi 14, trong những tháng ngày giãn cách xã hội vì dịch Covid-19, cơ thể chạm mốc 120 kg với chiều cao khoảng 1,77 m. Khôi nói, do thói quen ăn uống quá độ rồi nằm, cậu tăng liền hơn 20 kg. Thể trạng quá khổ kết hợp với tiền sử hen suyễn khiến việc di chuyển trở nên khó khăn và cơ thể thường xuyên rơi vào trạng thái mệt mỏi, khó thở."
+    },
+    {
+     "t": "p",
+     "text": "Khôi cho biết ban đầu chỉ định tập để rèn luyện sức khỏe, nhưng rồi những khối cơ bắp rắn rỏi của các vận động viên trên mạng đã nhen nhóm trong cậu một niềm đam mê lớn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Lúc đầu mình hơi lười, vì người còn nặng cân nên chỉ muốn ở nhà ăn uống nghỉ ngơi thôi. May mắn là có huấn luyện viên cá nhân sát sao hối thúc, mình mới ép bản thân duy trì được nhịp độ tập luyện\", Khôi chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo Khôi, những buổi đầu tập luyện với thân hình quá khổ khiến cơ thể cậu ê ẩm, thở dốc và đối mặt với vô vàn mệt mỏi. Thế nhưng, vượt qua sự trì trệ ban đầu nhờ sự đồng hành của huấn luyện viên, từng bước một, chàng trai ép mình vào guồng quay vận động để tìm lại sự nhẹ nhõm cho cơ thể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Khôi kể, kiên trì từng chút một, sau ba tháng, trọng lượng cơ thể hạ xuống mốc 100 kg, giúp những bước di chuyển dần trở nên nhẹ nhàng hơn và “nhen nhóm” ngọn lửa đam mê thể hình."
+    },
+    {
+     "t": "h",
+     "text": "Kỷ luật \"thép\" chạm tay vào đỉnh cao thể hình trẻ quốc gia"
+    },
+    {
+     "t": "p",
+     "text": "Đến năm 16 tuổi, khi đang tập trung cho đam mê thi đấu, Khôi gặp phải chấn thương giãn dây chằng đầu gối do đẩy tạ nặng trong tình trạng thiếu dinh dưỡng và khởi động chưa kỹ. Thế nhưng, thử thách lớn nhất đối với cậu học trò cuối cấp không chỉ nằm ở những chấn thương hay giáo án tập luyện nặng nhọc, mà là bài toán cân bằng giữa thời gian học tập và cường độ siết cơ khắc nghiệt."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chuẩn bị cho Giải vô địch thể hình quốc gia năm 2026, Khôi cho biết phải duy trì lịch trình tập luyện 2 buổi mỗi ngày, kết hợp đi bộ 2 tiếng đồng hồ. “Sáng đi học, trưa tranh thủ nhét vội hộp cơm tự chuẩn bị giữa giờ ra chơi, chiều tối lại miệt mài trong phòng tập đến tận đêm khuya”, Khôi nói."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh nói thêm có những giai đoạn siết cân căng thẳng, áp lực ôn thi tốt nghiệp THPT cùng việc tự tay chuẩn bị 6 bữa ăn mỗi ngày khiến kiệt sức, thậm chí ngủ gật trên lớp."
+    },
+    {
+     "t": "p",
+     "text": "\"Có những ngày mệt quá, mình ngủ gục trên lớp luôn. Lúc đó người lúc nào cũng ở trạng thái thiếu đường, học bài tiếp thu không nhanh nhạy như người bình thường được\", Khôi nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "\"Trái ngọt\" cho sự đánh đổi ấy là chuỗi thành tích ấn tượng. Khôi lần lượt giành huy chương đồng tại Giải thể hình Long An mở rộng năm 2024, tiếp nối bằng huy chương bạc tại Giải vô địch thể hình trẻ TP.HCM năm 2026, và đỉnh cao là tấm huy chương vàng hạng mục bodybuilding đến 18 tuổi (80 kg) tại Giải vô địch thể hình trẻ quốc gia năm 2026."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trở lại với cuộc sống thường nhật sau khi thi đấu và tốt nghiệp THPT, Khôi hiện làm huấn luyện viên cá nhân, nuôi dưỡng khát vọng dài lâu trên con đường chinh phục những đỉnh cao mới ở bộ môn thể hình."
+    },
+    {
+     "t": "p",
+     "text": "Nhận xét về cậu học trò trẻ tuổi, huấn luyện viên Trần Hoàng Duy Phúc, huấn luyện viên đội tuyển thể hình TP.HCM, đánh giá rất cao ý chí và tinh thần kỷ luật của Khôi."
+    },
+    {
+     "t": "p",
+     "text": "Theo HLV Duy Phúc, việc vừa đảm bảo việc học vừa tuân thủ giáo án tập luyện khắc nghiệt hai cử mỗi ngày là điều không dễ dàng. Sự lột xác từ một thiếu niên 120 kg đến tấm huy chương vàng quốc gia chính là minh chứng rõ ràng nhất cho nỗ lực của Khôi."
+    }
+   ]
+  },
+  {
+   "id": "783954b86e9d",
+   "order": 6,
+   "slug": "chang-trai-lao-dung-tieng-viet-noi-cau-huu-nghi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chàng trai Lào dùng tiếng Việt nối cầu hữu nghị",
+   "sapo": "Chanthaphone Kittilat, lưu học sinh Lào, không chỉ vượt qua rào cản ngôn ngữ mà còn trở thành cầu nối kết nối sinh viên Việt - Lào. Hành trình chinh phục tiếng Việt của anh mang đến nhiều cơ hội cho 126 lưu học sinh Lào tại Trường Đại học Quảng Nam.",
+   "author": "THÚY HIỀN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chang-trai-lao-dung-tieng-viet-noi-cau-huu-nghi-1002610070856276.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 860,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/783954b86e9d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/783954b86e9d-0.jpg",
+     "caption": "Chanthaphone (bìa phải) hỗ trợ hướng dẫn, phiên dịch trong hoạt động kết nối Việt - Lào - Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/783954b86e9d-1.jpg",
+     "caption": "Chanthaphone hiện đã tự tin, lưu loát khi dùng tiếng Việt giao tiếp cùng sinh viên Việt - Ảnh: THÚY HIỀN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/783954b86e9d-2.jpg",
+     "caption": "Chanthaphone (cầm giấy khen) đoạt giải nhì cuộc thi Hùng biện tiếng Việt miền Trung - Ảnh: NVCC",
+     "w": 1280,
+     "h": 959
+    },
+    {
+     "src": "img/2026-10-09/783954b86e9d-3.jpg",
+     "caption": "Với sự kết nối của Chanthaphone (bìa phải), các cựu chiến binh Chiên Đàn cùng lưu học sinh Lào ôn lại ký ức chiến tranh, vun đắp tình hữu nghị Việt - Lào - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-09/783954b86e9d-4.jpg",
+     "caption": "Chanthaphone trở thành \"sợi dây\" kết nối 4 tỉnh Nam Lào với Trường đại học Phan Thiết trong ký kết biên bản hợp tác giáo dục - Ảnh: NVCC",
+     "w": 1280,
+     "h": 628
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tiếng Việt từng là trở ngại lớn với Chanthaphone Kittilat, khi chàng trai Lào đặt chân đến Việt Nam du học lúc mới 18 tuổi. Nhưng bằng nỗ lực học tập, giao lưu và không ngại nói sai để sửa, chàng sinh viên Lào dần biến ngôn ngữ thành “cây cầu” kết nối những người trẻ hai nước."
+    },
+    {
+     "t": "h",
+     "text": "Tiếng Việt không chỉ là một môn học"
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra trong gia đình có truyền thống ba thế hệ từng học tập tại Việt Nam, Chanthaphone Kittilat (sinh viên năm 4 ngành bảo vệ thực vật, Trường đại học Quảng Nam ) vinh dự tiếp bước truyền thống ấy. Tuy nhiên vì là du học sinh tự túc, hành trang trước khi sang Việt Nam của chàng trai đến từ Attapeu chỉ vỏn vẹn 12 ngày học bảng chữ cái và vài câu chào hỏi cơ bản."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chanthaphone bộc bạch: “Thời gian đầu mình thấy bản thân rất tệ, giảng viên hỏi gì cũng không biết. Mình thấy tiếng Việt khó nhất ở cách phát âm dùng dấu và từ vựng phong phú, đa nghĩa. Trên lớp học một kiểu, ra ngoài giao tiếp thực tế lại một kiểu khác vì mỗi vùng miền đều có cách nói riêng”."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì bỏ cuộc, chàng sinh viên Lào vạch ra một kế hoạch học tập nghiêm ngặt."
+    },
+    {
+     "t": "p",
+     "text": "“Tới tháng thứ tư, mình quyết tâm thay đổi. 20h, ăn uống xong, mình mang vở ra hành lang cầu thang viết từ vựng. Mỗi ngày bắt buộc bản thân phải thuộc 20 từ, học đến hơn 23h mới nghỉ, 5h30 sáng lại dậy chạy bộ và chuẩn bị đi học”, nam sinh nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Sự nỗ lực ấy đã mang lại quả ngọt. Từ chỗ gần như kém nhất lớp, Chanthaphone xuất sắc giành giải nhì cuộc thi Hùng biện tiếng Việt miền Trung năm 2025. Ngôn ngữ cũng là bệ phóng giúp bạn đoạt giải ba toàn quốc Euréka 2024 (mô hình trồng hoa tam giác mạch tại Tam Kỳ) và giải nhì nghiên cứu khoa học cấp trường năm học 2025 - 2026."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đối với Chanthaphone, hành trình chinh phục chữ Việt đã mang một sứ mệnh lớn lao: “Tiếng Việt của mình không chỉ là một môn học để giao tiếp, sinh sống tại Việt Nam nữa, mà nó đã trở thành sợi dây kết nối tình cảm sinh viên Lào - Việt”."
+    },
+    {
+     "t": "h",
+     "text": "Mỗi lưu học sinh Lào là một cây cầu nhỏ"
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, với vai trò Trưởng Ban Quản lý lưu học sinh Lào, Chủ tịch Công đoàn Lào tại Trường đại học Quảng Nam, Chanthaphone đang hỗ trợ đời sống và học tập cho 126 sinh viên. Chàng trai không chỉ chăm lo từng bữa ăn, giấc ngủ, đôn đốc việc lên lớp mà còn trực tiếp tham mưu các định hướng giao lưu văn hóa, thể thao nhằm tạo môi trường học tập gắn kết."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chanthaphone đã chủ động đưa sinh viên Lào hòa nhập với cộng đồng địa phương qua việc kết nối thi đấu với Câu lạc bộ Bi sắt xã Tam Anh Nam, giao lưu với Hội Cựu chiến binh xã Chiên Đàn, Ban Chỉ huy Quân sự và lực lượng Công an Đà Nẵng…"
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, từ một cuộc trò chuyện tình cờ với giảng viên Việt Nam tại sân ký túc xá, bằng kỹ năng giao tiếp lưu loát và uy tín của mình, Chanthaphone đã trực tiếp kết nối 4 tỉnh Nam Lào (Attapeu, Sekong, Salavan, Champasak) ký kết biên bản hợp tác giáo dục với Trường đại học Phan Thiết, mang về cơ hội học bổng lớn cho sinh viên quê nhà."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về lý do luôn nhiệt huyết với phong trào dù lịch học bận rộn, Chanthaphone tâm sự: “Mình luôn nghĩ mỗi giây phút trôi qua đều rất ý nghĩa, không nên bỏ lỡ. Mình phải làm gì để thanh xuân để lại dấu ấn, để sau này khi về nước, người ta vẫn nhớ tới một Chanthaphone năng nổ ở xứ Quảng, góp phần vào sự phát triển của địa phương này”."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian tới, Chanthaphone muốn tiếp tục tổ chức các hoạt động giao lưu văn hóa, văn nghệ, thể thao và trao đổi học tập giữa sinh viên hai nước; đồng thời kết nối thêm sự hỗ trợ từ nhà trường, chính quyền và các đơn vị liên quan để giúp lưu học sinh Lào yên tâm học tập."
+    },
+    {
+     "t": "p",
+     "text": "Anh Đinh Quang Lĩnh, Bí thư Đoàn thanh niên, Chủ tịch Hội Sinh viên Trường đại học Quảng Nam, nhận xét:"
+    },
+    {
+     "t": "p",
+     "text": "“Chanthaphone Kittilat là sinh viên chăm chỉ, có ý thức học tập tốt, tinh thần trách nhiệm cao và tích cực tham gia các hoạt động Đoàn - Hội, nghiên cứu khoa học, khởi nghiệp của nhà trường."
+    },
+    {
+     "t": "p",
+     "text": "Bạn có nhiều đóng góp trong công tác tập hợp, hỗ trợ và kết nối lưu học sinh Lào; chủ động nắm bắt tâm tư, hỗ trợ các bạn trong học tập, sinh hoạt và hoạt động tập thể, góp phần xây dựng môi trường đoàn kết, thân thiện giữa sinh viên Việt Nam và Lào”."
+    }
+   ]
+  },
+  {
+   "id": "cb619ec979bc",
+   "order": 7,
+   "slug": "hai-nam-sinh-lop-11-lam-du-an-minh-bach-dong-tien-tu-thien-u",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Hai nam sinh lớp 11 làm dự án minh bạch dòng tiền từ thiện ứng dụng công nghệ Blockchain",
+   "sapo": "Không còn phụ thuộc vào những bản kê khai Excel dễ chỉnh sửa hay niềm tin truyền miệng, dòng tiền đóng góp cho các quỹ nhóm, quỹ từ thiện giờ đây có thể được giám sát theo thời gian thực nhờ công nghệ chuỗi khối (Blockchain). Đó là Fundy – giải pháp Trần Bảo Minh và Trần Gia Hưng, hai nam sinh lớp 11 Trường THCS - THPT Newton lên ý tưởng và phát triển. Dự án vừa giành ngôi Quán quân (First Prize) tại cuộc thi đổi mới sáng tạo học sinh THPT NEXUS – High School Innovation Challenge 2026 (N-HSIC 2026).",
+   "author": "P.V",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/hai-nam-sinh-lop-11-lam-du-an-minh-bach-dong-tien-tu-thien-ung-dung-cong-nghe-blockchain-post1883453.tpo",
+   "published": "2026-10-08T09:54:38+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 860,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/cb619ec979bc-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/cb619ec979bc-0.jpg",
+     "caption": "Trần Bảo Minh và Trần Gia Hưng Học sinh lớp 11 Trường THCS & THPT Newton Hà Nội",
+     "w": 1280,
+     "h": 1275
+    },
+    {
+     "src": "img/2026-10-09/cb619ec979bc-1.jpg",
+     "caption": "Dự án FUNDY đã giành giải Quán quân (First Prize) tại cuộc thi đổi mới sáng tạo học sinh THPT NEXUS – High School Innovation Challenge 2026 (N-HSIC 2026).",
+     "w": 1080,
+     "h": 1080
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Khắc phục “lỗ hổng niềm tin” trong thu chi thiện nguyện"
+    },
+    {
+     "t": "p",
+     "text": "Các chiến dịch thiện nguyện và quỹ cộng đồng tại Việt Nam luôn nhận được sự ủng hộ mạnh mẽ từ xã hội. Tuy nhiên, kiểm soát thu chi và minh bạch tài chính vẫn là nỗi trăn trở lớn: làm thế nào để người đóng góp biết chính xác từng đồng tiền của mình đã đi đâu, có được chi đúng mục đích hay không? Ở quy mô nhỏ hơn như quỹ lớp hay hội nhóm, việc thủ quỹ ghi chép thủ công trên bảng tính cũng dễ dẫn đến sai sót, thất lạc dữ liệu hoặc nghi ngại lẫn nhau."
+    },
+    {
+     "t": "p",
+     "text": "Nhận thấy cốt lõi của vấn đề là thiếu một hệ thống ghi chép công khai và chống làm giả dữ liệu, hai nam sinh đã bắt tay xây dựng Fundy với tuyên ngôn: “Money you can trace, not just trust” (Dòng tiền kiểm chứng được, không chỉ dựa vào niềm tin)."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm chia sẻ: “Tính minh bạch tài chính không nên là đặc quyền riêng của các tổ chức lớn, mà cần hiện diện từ một quỹ lớp học 10 người cho đến các quỹ từ thiện cộng đồng hàng nghìn người tham gia.”"
+    },
+    {
+     "t": "h",
+     "text": "Cầu nối thông minh giữa ngân hàng nội địa và Blockchain"
+    },
+    {
+     "t": "p",
+     "text": "Rào cản lớn nhất của các ứng dụng Web3/Blockchain với người dùng đại chúng là sự phức tạp của ví tiền số và tiền mã hóa. Để giải quyết triệt để vấn đề này, hai bạn trẻ chọn cách tiếp cận thực tế: giữ nguyên thói quen chuyển khoản ngân hàng quen thuộc, nhưng đưa toàn bộ dữ liệu ghi nhận lên chuỗi khối công khai. Người dùng không cần ví tiền điện tử, cũng không cần hiểu gì về blockchain."
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống hoạt động theo quy trình khép kín:"
+    },
+    {
+     "t": "li",
+     "text": "Không giữ tiền trung gian (non-custodial): Fundy hoàn toàn không giữ tiền của bất kỳ ai. Tiền quyên góp đi thẳng vào tài khoản ngân hàng của chủ quỹ thông qua mã QR được khởi tạo riêng cho từng chiến dịch."
+    },
+    {
+     "t": "li",
+     "text": "Ghi nhận tự động lên on-chain: Ngay khi tài khoản ngân hàng nhận được tiền, hệ thống tự động phát hiện biến động số dư và ghi nhận giao dịch lên mạng blockchain Polygon tức thì, không cần bất kỳ thao tác thủ công nào."
+    },
+    {
+     "t": "li",
+     "text": "Minh bạch tuyệt đối: Mọi giao dịch trên quỹ được cập nhật, lưu trữ cố định trên chuỗi khối và hiển thị công khai tức thì."
+    },
+    {
+     "t": "li",
+     "text": "Bằng chứng vĩnh viễn, chống can thiệp: Dữ liệu đã đưa lên blockchain sẽ tồn tại vĩnh viễn và công khai. Ngay cả đội ngũ sáng lập Fundy hay chủ quỹ cũng không có quyền sửa đổi hay xóa bỏ các giao dịch này. Bất kỳ ai cũng có thể tự kiểm tra và đối soát độc lập."
+    },
+    {
+     "t": "h",
+     "text": "Tự học công nghệ sâu và ứng dụng AI phát triển sản phẩm"
+    },
+    {
+     "t": "p",
+     "text": "Dù mới học lớp 11, hai nam sinh đã tìm hiểu sâu và làm chủ một khối lượng kiến trúc kỹ thuật đáng nể: xây dựng backend bằng Flask, phát triển hợp đồng thông minh (smart contract) bằng ngôn ngữ Solidity trên mạng thử nghiệm Polygon Amoy, và tích hợp giải pháp đồng bộ biến động số dư tài khoản ngân hàng theo thời gian thực."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, nhóm đã tận dụng hiệu quả các công cụ trí tuệ nhân tạo (AI-assisted development) để hỗ trợ tìm lỗi (debugging), tái cấu trúc mã nguồn (refactoring) và hoàn thiện giao diện. Mọi quy trình logic hợp đồng và kiến trúc hệ thống đều do hai bạn trực tiếp thiết kế và phát triển."
+    },
+    {
+     "t": "p",
+     "text": "Xuất phát từ 2 học sinh giỏi trong đội tuyển Vật Lý của trường, cả 2 bạn đều có chung 1 niềm đam mê về công nghệ và kinh doanh, đó chính là cầu nối, sức hút để 2 bạn luôn đồng hành, cùng nhau sáng tạo và hiện thực hóa những ý tưởng có tính trí tuệ nhân văn cao, có giá trị đóng góp cho cộng đồng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Bước lên bục cao nhất N-HSIC 2026"
+    },
+    {
+     "t": "p",
+     "text": "Trong phần hỏi đáp, khi ban giám khảo so sánh Fundy với các nền tảng ngân hàng, thanh toán đã có tính năng quỹ chung, nhóm đã làm rõ: Fundy không giữ hay quản lý tiền của người dùng, mà chỉ ghi lại và hiển thị dữ liệu để bất kỳ ai cũng tự kiểm chứng được. Theo Ban tổ chức, chính sự đơn giản đó khiến ý tưởng có tính thực tiễn cao, với lộ trình rõ ràng để mở rộng sang các quỹ cộng đồng và từ thiện quy mô lớn."
+    },
+    {
+     "t": "p",
+     "text": "Vượt qua hàng loạt đề tài sáng tạo tại N-HSIC 2026, Fundy đã thuyết phục hoàn toàn hội đồng giám khảo chuyên môn để bước lên bục cao nhất. Thành tích không chỉ là phần thưởng cho tinh thần tự học, say mê công nghệ của hai nam sinh, mà còn cho thấy tiềm năng to lớn của thế hệ trẻ trong việc dùng công nghệ để giải quyết những vấn đề thiết thực của cộng đồng."
+    }
+   ]
+  },
+  {
+   "id": "f179b9a326bb",
+   "order": 8,
+   "slug": "nuoi-ong-du-thao-duoc-o-vung-bay-nui",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Nuôi ong dú thảo dược ở vùng Bảy Núi",
+   "sapo": "Từ 10 đàn ong dú ban đầu, gần 7 năm sau, anh Nguyễn Trung Thành (36 tuổi, ngụ P.Thới Sơn, An Giang) và cộng sự đã thuần dưỡng, nhân giống lên khoảng 1.000 đàn, xây dựng mô hình nuôi ong gắn với cây dược liệu vùng Bảy Núi.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nuoi-ong-du-thao-duoc-o-vung-bay-nui-185261007194344474.htm",
+   "published": "2026-10-08T04:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1195,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/f179b9a326bb-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/f179b9a326bb-0.jpg",
+     "caption": "Anh Nguyễn Trung Thành bên những thùng ong dú trong vườn nhà",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/f179b9a326bb-1.jpg",
+     "caption": "Dự án khởi nghiệp nuôi ong dú thảo dược của anh Nguyễn Trung Thành đạt giải 3 cuộc thi \"Dự án khởi nghiệp Thanh niên nông thôn năm 2026\" do T.Ư Đoàn tổ chức",
+     "w": 1280,
+     "h": 814
+    },
+    {
+     "src": "img/2026-10-09/f179b9a326bb-2.jpg",
+     "caption": "Mô hình nuôi ong dú thảo dược do anh Nguyễn Trung Thành hỗ trợ đã giúp nhiều gia đình nghèo ở P.Thới Sơn, tỉnh An Giang phát triển kinh tế",
+     "w": 1280,
+     "h": 668
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Từ 10 đàn ong rừng đến \"tài sản sinh học\""
+    },
+    {
+     "t": "p",
+     "text": "Buổi sáng ở vùng Bảy Núi, dưới những tán cây xanh, hàng chục \"ngôi nhà ong\" bằng gỗ nằm im lìm, đến gần mới nghe tiếng ong vo ve. Khác với ong mật, ong dú nhỏ con, không có ngòi đốt nên khá an toàn với người nuôi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dừng chân trước một thùng ong, anh Nguyễn Trung Thành, Giám đốc điều hành Công ty TNHH nuôi ong thảo dược Mekong Bee (Công ty Mekong Bee), cẩn thận kiểm tra từng ngôi nhà ong để thăm sức khỏe đàn ong. Anh Thành cho biết sinh ra và lớn lên ở vùng Bảy Núi, từ nhỏ anh đã quen với ong dú, loài ong bản địa sống trong các hốc cây, khe đá. Lớn lên, anh nhận thấy loài ong này đặc biệt thích những nguồn hoa từ các loại cây thảo dược nên ý tưởng nuôi ong trong vườn dược liệu hình thành."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2017, sau khi anh tốt nghiệp đại học ngành quản trị kinh doanh, ý tưởng khởi nghiệp từ nguồn tài nguyên bản địa càng lớn. Năm 2019, anh Thành và cộng sự bắt đầu với 10 đàn ong dú tự nhiên. Không có sẵn quy trình, những người trẻ phải vừa nuôi vừa quan sát, ghi chép, thử nghiệm. Tập tính của ong, cách tách đàn, thời điểm nhân giống, nguồn thức ăn, cách thu mật..., tất cả đều trở thành những bài toán phải giải."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì mua thêm ong để tăng nhanh số lượng, anh Thành chọn cách giữ lại những đàn mới để nhân giống. Từ 10 đàn ong, qua từng năm, số lượng tăng dần theo cấp số nhân, đến năm 2026 nhóm của Thành có khoảng 1.000 đàn ong được thuần dưỡng. \"Đàn ong đó là tài sản sinh học. Có nguồn giống nền thì mình mới có thể nhân đàn, cung cấp giống cho người dân và xây dựng mạng lưới sản xuất\", anh Thành nói."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, mô hình nuôi ong dú kết hợp cây ăn trái và cây thảo dược tại vùng núi Tịnh Biên do anh Thành làm thành viên chính được Sở KH-CN tỉnh An Giang công nhận là sáng kiến khoa học - công nghệ cấp cơ sở. Từ mô hình, anh bắt đầu nghĩ đến một bài toán lớn hơn là làm sao để con ong không chỉ tạo ra mật, mà trở thành một phần của sinh kế nông thôn."
+    },
+    {
+     "t": "h",
+     "text": "Đưa ong về với những hộ nghèo"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, hai dự án nuôi ong dú bằng thảo dược từ chương trình mục tiêu quốc gia giảm nghèo bền vững được triển khai ở P.Thới Sơn, với tổng nguồn lực hơn 1,2 tỉ đồng. Đến nay, qua 1 năm triển khai, đã có 32 hộ tham gia mô hình. Công ty Mekong Bee của anh Thành giữ vai trò cung cấp giống, chuyển giao kỹ thuật, xây dựng tiêu chuẩn, kiểm soát chất lượng và kết nối thị trường tiêu thụ. Người dân nuôi ong, phát triển vùng dược liệu theo quy trình và tham gia chuỗi tiêu thụ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Thành, lợi thế của ong dú là không cần diện tích lớn, an toàn với người chăm sóc và có thể kết hợp với vườn cây sẵn có. Cây dược liệu tạo nguyên liệu; ong cho mật, phấn, keo ong và đàn giống; hoạt động thụ phấn tạo thêm giá trị cho hệ sinh thái."
+    },
+    {
+     "t": "p",
+     "text": "Một tổ ong dú có thể cho thu hoạch khoảng 2 lần/năm, tùy sức đàn và điều kiện nguồn hoa, với sản lượng khoảng 1 lít mật mỗi lần theo mô hình mà nhóm đang triển khai. Với giá bán mật ong và tổ giống dao động khoảng 2 - 2,5 triệu đồng/lít, sau 3 năm, mô hình mang lại tổng lợi nhuận khoảng 100 - 120 triệu đồng/hộ, giúp các hộ nuôi thoát nghèo."
+    },
+    {
+     "t": "p",
+     "text": "Sản phẩm được tiêu thụ tại địa phương, nhà thuốc Đông y, Tây y, doanh nghiệp sản xuất mỹ phẩm và qua các kênh thương mại điện tử, mạng xã hội . Từ Bảy Núi, mô hình tiếp tục được thử nghiệm tại những vùng sản xuất hữu cơ ở tỉnh Vĩnh Long và TP.Đồng Nai. Tại các vườn dừa, cao su và những vùng cây trồng khác, ong dú được kỳ vọng vừa tạo thêm thu nhập cho người dân, vừa tham gia thụ phấn và cung cấp dữ liệu sinh học về hệ sinh thái canh tác."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu người dân có ít đất vẫn có thể nuôi ong, có thêm thu nhập thì mình làm được điều có ý nghĩa hơn một sản phẩm thương mại. Và nếu được tổ chức thành chuỗi, hàng ngàn đàn ong có thể trở thành một sinh kế mới cho người dân\", anh Thành nói."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, dự án nuôi ong dú thảo dược của anh Thành đạt giải nhất cuộc thi Khởi nghiệp tỉnh An Giang và cá nhân anh nhận giải thưởng Lương Định Của."
+    },
+    {
+     "t": "h",
+     "text": "Nghe đàn ong \"nói\" bằng AI"
+    },
+    {
+     "t": "p",
+     "text": "Anh Thành từng được T.Ư Đoàn cử đi học tập mô hình Smart Farm tại Hàn Quốc vào tháng 3.2026. Xuất phát từ những kiến thức về nông nghiệp công nghệ cao, trí tuệ nhân tạo (AI) và IoT (internet vạn vật) học được, anh và các cộng sự thực hiện dự án \"Ứng dụng cảm biến và AI trong giám sát đàn ong không ngòi đốt (Meliponini) và phát triển chuỗi giá trị mật ong dược liệu tại vùng Bảy Núi, tỉnh An Giang\" thông qua ứng dụng tích hợp thiết bị, AI vào những thùng ong giữa vườn cây ở Bảy Núi."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo đó, các cảm biến theo dõi nhiệt độ, độ ẩm; micro thu âm tần số cao ghi nhận âm thanh của đàn ong. Những dữ liệu này được đưa vào hệ thống phân tích, kết hợp thuật toán học máy để nhận diện những thay đổi bất thường trong đàn như: cảnh báo sớm khi đàn có dấu hiệu thiếu thức ăn, gặp vấn đề về sức khỏe, chuẩn bị chia đàn hoặc bị thiên địch tấn công."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh việc theo dõi đàn ong, dự án còn xây dựng vùng nguyên liệu dược liệu bản địa. Những loại cây như xuyên tâm liên, cam thảo đất, húng quế, rau dền gai cùng các nguồn hoa bản địa được nghiên cứu đưa vào vùng nuôi."
+    },
+    {
+     "t": "p",
+     "text": "Đồng thời, định hướng phát triển chuỗi sản phẩm gồm mật ong, phấn ong, keo ong và các sản phẩm chế biến sâu. Với một số dòng mật ong cao cấp, mỗi chai được gắn mã QR để truy xuất vùng nuôi, thông tin đàn ong và dữ liệu liên quan, để từng bước chuyển từ câu chuyện \"mật ong thảo dược\" mang tính cảm nhận sang sản phẩm có thông tin khoa học, kiểm nghiệm và truy xuất nguồn gốc. Qua đó, dự án khởi nghiệp do anh Thành và các cộng sự triển khai đã đạt giải 3 tại cuộc thi Dự án khởi nghiệp Thanh niên nông thôn năm 2026 do T.Ư Đoàn tổ chức."
+    }
+   ]
+  },
+  {
+   "id": "3a40621317da",
+   "order": 9,
+   "slug": "anh-cong-nhan-viet-nam-tro-thanh-tho-thep-manh-nhat-nhat-ban",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Anh công nhân Việt Nam trở thành 'thợ thép mạnh nhất Nhật Bản'",
+   "sapo": "Lương Đức Quý, công nhân Việt Nam 33 tuổi, trở thành người nước ngoài đầu tiên vô địch Tetsu-1 Grand Prix, cuộc thi tìm thợ thép giỏi nhất Nhật Bản.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/anh-cong-nhan-viet-nam-tro-thanh-tho-thep-manh-nhat-nhat-ban-10026100817411939.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 732,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/3a40621317da-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/3a40621317da-0.jpg",
+     "caption": "Công nhân Việt Nam Lương Đức Quý chiến thắng cuộc thi mang màu sắc thể thao trong ngành thép - Ảnh: YABAI",
+     "w": 1215,
+     "h": 939
+    },
+    {
+     "src": "img/2026-10-09/3a40621317da-1.jpg",
+     "caption": "Anh Quý sau khi hoàn thành phần thi - Ảnh: KENSETSU NEWS",
+     "w": 640,
+     "h": 502
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cuộc thi nói trên mang tên Testsu-1 Grand Prix, mang màu sắc thể thao , kết hợp giữa yếu tố vận động, tốc độ, sức mạnh và kỹ năng chuyên môn trong lĩnh vực công nghiệp. Người chiến thắng là công nhân Việt Nam Lương Đức Quý."
+    },
+    {
+     "t": "p",
+     "text": "Theo mô tả của truyền thông Nhật Bản , anh Quý hoàn thành phần thi trong 46 phút 45 giây, nhanh nhất giải, trước sự chứng kiến của vợ con."
+    },
+    {
+     "t": "p",
+     "text": "Theo báo Kensetsu Tsushin Shimbun , đây là lần tổ chức giải thứ 6 diễn ra trong tuần này, tại Trung tâm đào tạo Fuji, thành phố Fujinomiya, tỉnh Shizuoka."
+    },
+    {
+     "t": "p",
+     "text": "Lương Đức Quý làm việc tại Công ty Tamura Kogyo, đại diện Kantetsu Kyoryokukai, giành giải thưởng Bộ trưởng Đất đai, Hạ tầng, Giao thông và Du lịch dành cho người vô địch."
+    },
+    {
+     "t": "p",
+     "text": "Truyền thông Nhật Bản mô tả anh đã trở thành \"thợ thép mạnh nhất nước Nhật\" nhờ vào chức vô địch thú vị này."
+    },
+    {
+     "t": "p",
+     "text": "Danh xưng “thợ thép mạnh nhất” ở đây được hiểu qua cuộc tranh tài tay nghề kết hợp với sức mạnh thể thao: người thi phải lắp ráp cốt thép nhanh và chính xác. Theo thể lệ của Hiệp hội Thi công cốt thép toàn Nhật Bản, thứ hạng được quyết định bằng tổng điểm độ chính xác và thời gian thao tác."
+    },
+    {
+     "t": "p",
+     "text": "Đề thi dựa trên bài kiểm tra kỹ năng lắp ráp cốt thép cấp 1 quốc gia, bổ sung một tầng thanh cốt thép. Thời gian tiêu chuẩn là 80 phút; người vượt quá 100 phút sẽ bị dừng thi và loại. Đọc sai bản vẽ, chẳng hạn nhầm hướng cột, dầm, hoặc sử dụng sai vật liệu cũng dẫn đến bị loại."
+    },
+    {
+     "t": "p",
+     "text": "Với thành tích 46 phút 45 giây, anh Quý hoàn thành sớm hơn thời gian chuẩn 33 phút 15 giây, tương đương khoảng 42%. Tuy nhiên tốc độ không phải yếu tố duy nhất: nếu tổng điểm bằng nhau, thể lệ ưu tiên người có điểm độ chính xác cao hơn, sau đó mới xét tuổi."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điều kiện dự thi cũng cho thấy đây là sân chơi dành cho thợ có trình độ: ứng viên phải vượt qua kỳ kiểm tra kỹ năng thi công cốt thép cấp 1 ít nhất hai năm và không quá 45 tuổi vào ngày thi. Các tổ chức thành viên được lựa chọn đại diện; giải cũng có diện tham gia thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Anh Quý đã sống tại Nhật 11 năm và dành hai tuần trước giải để tập luyện. Đây là lần đầu anh dự thi, nhưng mục tiêu đặt ra là chức vô địch."
+    },
+    {
+     "t": "p",
+     "text": "Theo Kensetsu Tsushin Shimbun , sau khi vô địch, anh nói cảm ơn gia đình, đồng nghiệp và những người đã giúp mình học nghề, tinh thần trách nhiệm cùng giá trị của sự nỗ lực."
+    },
+    {
+     "t": "p",
+     "text": "“Dù khác quốc gia, tình cảm dành cho tay nghề vẫn giống nhau”, trang báo Nhật Bản dẫn lời người công nhân 33 tuổi Việt Nam. Thành công của anh mang thêm ý nghĩa khi cuộc thi năm nay có ba thí sinh nước ngoài thuộc diện lao động kỹ năng đặc định tham gia."
+    },
+    {
+     "t": "p",
+     "text": "Trong cuộc phỏng vấn trước giải với Japan Metal Daily , Trưởng ban tổ chức Shoyu Niitsuma giải thích cuộc thi giúp công chúng nhìn thấy một nghề thường bị khuất khỏi tầm mắt."
+    },
+    {
+     "t": "p",
+     "text": "Khi công trình hoàn thành, cốt thép đã nằm bên trong bê tông; người xem khó hình dung công sức và kỹ thuật tạo nên chúng. Những người thợ như vậy vừa phải giỏi kỹ năng, vừa phải có sức khỏe cực tốt."
+    },
+    {
+     "t": "p",
+     "text": "Ông cho biết từ kỳ đầu năm 2015 đã có người hoàn thành dưới một giờ. Qua các lần tổ chức, thời gian trung bình tiếp tục giảm, trong khi độ chính xác tăng lên. Việc công bố trước đề thi giúp thí sinh có thể luyện tập và chuẩn bị phương án thao tác."
+    },
+    {
+     "t": "p",
+     "text": "Theo Niitsuma , cuộc tranh tài còn là dịp để gia đình thấy công việc hằng ngày của người thợ, khuyến khích thanh niên tìm hiểu nghề cốt thép. Ông mong giải trở thành nơi những người làm nghề tại Nhật có thể thể hiện năng lực bất kể quốc tịch, đồng thời giúp người chiến thắng được công nhận và thêm tự hào về công việc."
+    }
+   ]
+  },
+  {
+   "id": "def833e6439a",
+   "order": 10,
+   "slug": "duong-da-co-hon-100-nam-tuoi-giua-nui-rung-tay-bac",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Đường đá cổ hơn 100 năm tuổi giữa núi rừng Tây Bắc",
+   "sapo": "Trải qua hơn một thế kỷ, tuyến đường đá cổ Pavie từng là huyết mạch giao thương ở vùng Tây Bắc nay trở thành điểm trekking được nhiều người yêu thiên nhiên tìm đến.",
+   "author": "Anh Duy",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/duong-da-co-hon-100-nam-tuoi-giua-nui-rung-tay-bac-5128977.html",
+   "published": "2026-10-08T04:34:34+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 828,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/def833e6439a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-09/def833e6439a-0.jpg",
+     "caption": "Con đường phủ rêu xuyên qua nhiều cánh rừng già. Ảnh: Sơn Tùng",
+     "w": 1020,
+     "h": 1355
+    },
+    {
+     "src": "img/2026-10-09/def833e6439a-1.jpg",
+     "caption": "Một vận động viên tham gia giải chạy \"Bước chân trên mây\" ngày 4/10 trên con đường đá cổ. Ảnh: Thanh Tâm",
+     "w": 1020,
+     "h": 765
+    },
+    {
+     "src": "img/2026-10-09/def833e6439a-2.jpg",
+     "caption": "Con đường đá thu hút đông người đi bộ, chạy trail. Ảnh: Huy Nguyễn",
+     "w": 1020,
+     "h": 710
+    },
+    {
+     "src": "img/2026-10-09/def833e6439a-3.jpg",
+     "caption": "Phong cảnh Tây Bắc nhìn từ con đường đá cổ. Ảnh: Đức Anh",
+     "w": 1020,
+     "h": 574
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trải qua hơn một thế kỷ, tuyến đường đá cổ Pavie từng là huyết mạch giao thương ở vùng Tây Bắc nay trở thành điểm trekking được nhiều người yêu thiên nhiên tìm đến."
+    },
+    {
+     "t": "p",
+     "text": "Đường đá cổ Pavie được khởi dựng từ năm 1920, dưới thời Pháp thuộc, dài gần 100 km từng là tuyến giao thông quan trọng nối Lai Châu với Lào Cai. Tuyến đường do Thống đốc Auguste Jean-Marie Pavie khảo sát và chỉ đạo xây dựng, nhằm phục vụ việc vận chuyển lương thực, nông sản và kiểm soát vùng biên viễn Tây Bắc. Tên gọi Pavie cũng bắt nguồn từ công trình này."
+    },
+    {
+     "t": "p",
+     "text": "Đường được lát hoàn toàn bằng đá, rộng khoảng 3 m, đủ cho người đi bộ và ngựa thồ di chuyển. Dọc tuyến, người Pháp bố trí hệ thống đồn bốt phục vụ tuần tra, đồng thời xây dựng một sân bay gần bản Nhìu Cồ San để hỗ trợ vận chuyển hàng hóa trong điều kiện địa hình hiểm trở."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, phía sau công trình này là câu chuyện về những dân phu bản địa phải lao động trong điều kiện khắc nghiệt. Giữa rừng sâu, núi cao và thời tiết lạnh giá, nhiều người đã bỏ mạng vì kiệt sức trong quá trình mở đường."
+    },
+    {
+     "t": "p",
+     "text": "Qua chiến tranh và thời gian, con đường đá vẫn còn tồn tại. Hiện khoảng 17 km đường cổ vẫn giữ được hình dáng tương đối nguyên trạng, trở thành dấu tích đặc biệt giữa núi rừng Tây Bắc."
+    },
+    {
+     "t": "p",
+     "text": "Trong nhiều thập kỷ, người dân địa phương sử dụng tuyến đường để đi lại giữa các bản vùng cao. Những năm gần đây, tuyến đường dần được nhiều du khách biết đến và trở thành một sản phẩm du lịch trekking."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình trekking đường đá cổ Pavie thường bắt đầu từ sáng sớm. Du khách được khuyến cáo thuê người dân địa phương dẫn đường và hỗ trợ mang đồ, chuẩn bị thức ăn và xác định các điểm nghỉ trên hành trình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ bản xã Sin Suối Hồ, tỉnh Lai Châu, đoạn đường khoảng 5 km đầu tương đối dễ đi, không quá dốc và nằm gần khu dân cư. Người dân vẫn sử dụng đường để đi lại, chăn thả gia súc nên những phiến đá qua thời gian trở nên nhẵn bóng."
+    },
+    {
+     "t": "p",
+     "text": "Càng đi sâu vào núi, dấu chân người thưa dần. Những đoạn đường lát đá cổ hiện ra rõ nét hơn, nhiều phiến đá phủ rêu xanh. Vẻ cổ kính của tuyến đường cũng đi kèm thử thách, bởi bề mặt đá có thể trơn, đặc biệt vào những ngày ẩm ướt. Người trekking cần sử dụng giày có độ bám tốt."
+    },
+    {
+     "t": "p",
+     "text": "Bù lại, cảnh quan hai bên đường tạo nên sức hút lớn. Rừng già nối tiếp những nương thảo quả xanh. Hệ thực vật thay đổi theo độ cao, từ những cây cổ thụ thân xù xì, tán rộng như dổi, dẻ, sếu táu đến những khu vực trồng thảo quả. Ánh sáng xuyên qua tán rừng, tạo thành những khoảng sáng tối đan xen trên mặt đường đá."
+    },
+    {
+     "t": "p",
+     "text": "Càng lên cao càng yên tĩnh, chỉ còn nghe tiếng bước chân trên những phiến đá, tiếng nước chảy và tiếng gió xuyên qua tán cây."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Buổi trưa, du khách có thể nghỉ chân tại Đèo Gió, ở độ cao 2.100 m so với mực nước biển, nơi có cột mốc đánh dấu điểm cao nhất của con đường. Khu vực này là ranh giới tự nhiên giữa hai tỉnh Lai Châu và Lào Cai. Với nhiều người trekking, Đèo Gió không quá khó để chinh phục."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi nghỉ tại Đèo Gió, hành trình tiếp tục qua những đoạn rừng nguyên sinh, các con suối nhỏ và những khu vực trồng thảo quả. Đoạn cuối hành trình dài hơn 20 km, với điểm kết thúc là bản Nhìu Cồ San, tỉnh Lào Cai."
+    },
+    {
+     "t": "p",
+     "text": "Với người dân địa phương, đường đá cổ Pavie không chỉ là điểm đến của du khách mà vẫn giữ vai trò là một lối đi giữa các bản vùng cao của Lai Châu và Lào Cai. Nhờ tuyến đường này, người dân có thể sang khu vực thuộc tỉnh bên cạnh trong vài giờ. Nếu di chuyển bằng ôtô theo các tuyến đường vòng qua núi, thời gian có thể kéo dài tới hàng chục giờ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ông Trần Quang Kháng, Phó giám đốc Sở Văn hóa, Thể thao và Du lịch Lai Châu cho biết tỉnh sở hữu nhiều ngọn núi thuộc top đầu Việt Nam như Pusilung, Putaleng, Kỳ Quan San, Bạch Mộc Lượng Tử, là thiên đường cho người thích leo núi. Con đường đá cổ Pavi cũng là một điểm đến hấp dẫn, ngày càng thu hút đông du khách. Thời gian qua tỉnh Lai Châu và các đơn vị tổ chức nhiều giải chạy bộ tại đây, thu hút hàng nghìn vận động viên."
+    }
+   ]
+  },
+  {
+   "id": "1b11535d231d",
+   "order": 11,
+   "slug": "quoc-gia-duy-nhat-nao-tren-the-gioi-dang-o-nam-2083",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Quốc gia duy nhất nào trên thế giới đang ở năm 2083?",
+   "sapo": "Du khách đến quốc gia này có thể ngạc nhiên khi hạn sử dụng thực phẩm in năm 2083, tức đi trước hầu hết các quốc gia khác gần 60 năm. Bạn có biết đó là quốc gia nào?",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/quoc-gia-duy-nhat-nao-tren-the-gioi-dang-song-o-nam-2083-2563038.html",
+   "published": "2026-10-08T22:05:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 507,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/1b11535d231d-lead.jpg",
+     "caption": "",
+     "w": 900,
+     "h": 580
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Quốc gia duy nhất nào trên thế giới đang ở năm 2083?"
+    },
+    {
+     "t": "li",
+     "text": "Ethiopia 0% Maroc 0% Nepal 0% Argentina 0% Chính xác Thế giới đang ở năm 2026 nhưng người dân Nepal lại sống trong năm 2083 theo hệ thống lịch chính thức của đất nước này. Người Nepal dùng lịch Bikram Sambat. Đây là lịch được sử dụng trong các văn bản chính phủ, báo chí, chứng từ hành chính và giáo dục. Khác với Dương lịch, Bikram Sambat là lịch âm dương kết hợp giữa chu kỳ Mặt Trăng để xác định các ngày lễ hội và chu kỳ Mặt Trời để xác định mùa vụ nông nghiệp. Vì bắt đầu khoảng năm 57 trước Công nguyên, lịch truyền thống của Nepal luôn đi trước Dương lịch hơn nửa thế kỷ. 2. Năm mới nước này thường rơi vào tháng mấy Dương lịch? 1 0% 4 0% 7 0% 11 0% Chính xác Một tháng trong lịch Bikram Sambat có thể kéo dài từ 29 đến 32 ngày, tùy theo các tính toán thiên văn hàng năm. Điều này khiến việc theo dõi ngày tháng ở Nepal không thể dựa vào thói quen, mà phải tra cứu lịch cập nhật do cơ quan chuyên môn công bố. Năm mới của Nepal, gọi là Naya Barsha, thường rơi vào ngày 13 hoặc 14 tháng 4 Dương lịch, đánh dấu thời điểm chuyển giao từ mùa xuân sang mùa hè và mở đầu một chu kỳ canh tác mới. 3. Quốc kỳ nước này hình gì? Hình vuông 0% Hình tam giác 0% Hình chữ nhật 0% Hình tròn 0% Chính xác Nepal là nước duy nhất trên thế giới có quốc kỳ không phải hình vuông hay hình chữ nhật mà bao gồm 2 hình tam giác xếp chồng lên nhau. Trên quốc kỳ nước này có hai biểu trượng: Tam giác phía trên có hình Mặt Trăng và tam giác phía dưới có hình Mặt Trời. Hai biểu tượng này phản ánh lịch sử, tôn giáo tại Nepal. 4. Đất nước này nổi tiếng với đỉnh núi nào? Everest 0% K2 0% Cook 0% Phú Sĩ 0% Chính xác Đỉnh Everest là một trong những đỉnh núi cao nhất thế giới, với độ cao gần 9.000m so với mực nước biển. Everest nằm ở biên giới Nepal - Trung Quốc thuộc dãy Himalaya. Ngoài đỉnh Everest, Lhotse cũng là ngọn núi cao top đầu thế giới với chiều cao khoảng 8.500m. Ngọn núi này cũng nằm ở biên giới Nepal - Trung Quốc thuộc dãy Himalaya, rất gần đỉnh Everest. 5. Đất nước này sở hữu 8 ngọn núi cao nhất thế giới, đúng hay sai? Đúng 0% Sai 0% Chính xác Khoảng 75% địa hình Nepal là núi, với 8 trong 10 ngọn núi cao nhất thế giới nằm dọc biên giới đất nước. Trong đó có ngọn núi cao nhất thế giới là đỉnh Everest và ngọn núi cao thứ ba thế giới là đỉnh Kanchenjunga. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "c0d4ac69daad",
+   "order": 12,
+   "slug": "cau-thu-arsenal-duoc-vinh-danh-3-ky-luc-guinness",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Cầu thủ Arsenal được vinh danh 3 kỷ lục Guinness",
+   "sapo": "Tài năng trẻ Max Dowman vừa được trao ba giấy chứng nhận kỷ lục Guinness thế giới, đánh dấu những cột mốc đáng nhớ trong sự nghiệp của cầu thủ 16 tuổi này.",
+   "author": "An Nhi",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/cau-thu-arsenal-duoc-vinh-danh-3-ky-luc-guinness-2562315.html",
+   "published": "2026-10-08T10:35:06+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 360,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 536
+    },
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-0.jpg",
+     "caption": "Dowman khoe 3 chứng nhận kỷ lục Guinness - Ảnh: AFC",
+     "w": 1024,
+     "h": 732
+    },
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-1.jpg",
+     "caption": "Mikel Arteta ký hợp đồng lương cao kỷ lục với Arsenal",
+     "w": 878,
+     "h": 585
+    },
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-2.jpg",
+     "caption": "Arsenal thất bại bẽ bàng trên sân Brighton",
+     "w": 1041,
+     "h": 694
+    },
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-3.jpg",
+     "caption": "Nhận định Brighton vs Arsenal: Pháo thủ vượt chông gai",
+     "w": 1095,
+     "h": 730
+    },
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-4.jpg",
+     "caption": "Arsenal 'đánh cắp' tài năng trẻ sáng giá nhất Liverpool",
+     "w": 1092,
+     "h": 728
+    },
+    {
+     "src": "img/2026-10-09/c0d4ac69daad-5.jpg",
+     "caption": "Arsenal đại thắng nhờ 2 tuyệt phẩm của cầu thủ 16 tuổi",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dowman chính thức được công nhận là cầu thủ trẻ nhất ghi bàn tại Premier League, cầu thủ trẻ nhất vô địch Ngoại hạng Anh và cầu thủ trẻ nhất ra sân trong lịch sử Champions League."
+    },
+    {
+     "t": "p",
+     "text": "Max Dowman ra mắt Premier League khi vào sân từ ghế dự bị trận gặp Leeds hồi tháng 8/2025, lúc mới 15 tuổi 235 ngày. Anh nhanh chóng trở thành gương mặt được người hâm mộ Pháo thủ yêu mến."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, Dowman vượt qua kỷ lục của Youssoufa Moukoko, tiền đạo thuộc biên chế Borussia Dortmund để trở thành cầu thủ trẻ nhất từng ra sân tại Champions League, ở tuổi 15 và 208 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Bàn đầu tiên tại giải Ngoại hạng Anh vào lưới Everton, khi mới 16 tuổi 73 ngày, giúp Dowman lập thêm kỷ lục cầu thủ trẻ nhất ghi bàn trong lịch sử giải đấu."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp đó, anh trở thành cầu thủ trẻ nhất vô địch Ngoại hạng Anh ở tuổi 16 và 144 ngày, sau khi Arsenal chấm dứt 22 năm chờ đợi danh hiệu."
+    },
+    {
+     "t": "p",
+     "text": "Dowman vừa chụp ảnh cùng ba giấy chứng nhận bên ngoài trung tâm huấn luyện Arsenal , mở màn cho chương trình “Class of ’27” của Guinness World Records."
+    },
+    {
+     "t": "p",
+     "text": "Tom Beckerlegge, biên tập viên cấp cao của ấn phẩm Guinness World Records Football Edition 2027, dành lời khen cho bước tiến vượt bậc của Dowman trong bóng đá chuyên nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Những thành tích trên sân cỏ của tài năng trẻ này càng đáng chú ý khi anh vẫn chưa ký hợp đồng chuyên nghiệp chính thức với Arsenal, mà hiện chỉ gắn bó với câu lạc bộ bằng hợp đồng đào tạo trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Dowman cũng đứng trước cơ hội kiếm khoản thu nhập lớn. Cha mẹ anh thành lập công ty quản lý bản quyền hình ảnh riêng cho con trai."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi bản hợp đồng với mức lương 35.000 bảng mỗi tuần đã được chuẩn bị, chờ Dowman tròn 17 tuổi vào tháng 12."
+    },
+    {
+     "t": "p",
+     "text": "Ngay trong mùa giải này, Dowman tiếp tục để lại dấu ấn với 2 bàn thắng tại Carabao Cup và được triệu tập vào đội U19 Anh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    }
+   ]
+  },
+  {
+   "id": "26967776139b",
+   "order": 13,
+   "slug": "messi-viet-tam-thu-chia-tay-doi-tuyen-argentina",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Messi viết tâm thư chia tay đội tuyển Argentina",
+   "sapo": "(Dân trí) - Sau trận đấu cuối cùng cho tuyển Argentina, Lionel Messi viết tâm thư chia tay, gửi lời tri ân gia đình, đồng đội, HLV và người hâm mộ sau hành",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/messi-viet-tam-thu-chia-tay-doi-tuyen-argentina-20261008085937436.htm",
+   "published": "2026-10-08T02:05:25+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 895,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/26967776139b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/26967776139b-0.jpg",
+     "caption": "Messi thi đấu trận đấu cuối cùng trong màu áo tuyển Argentina ở trận gặp Benin (Ảnh: Getty).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-09/26967776139b-1.jpg",
+     "caption": "Messi khép lại hành trình với tuyển Argentina sau 208 trận đấu (Ảnh: Getty).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Sau trận đấu cuối cùng cho tuyển Argentina, Lionel Messi viết tâm thư chia tay, gửi lời tri ân gia đình, đồng đội, HLV và người hâm mộ sau hành trình hơn 20 năm đầy vinh quang nhưng cũng lắm nước mắt."
+    },
+    {
+     "t": "p",
+     "text": "Lionel Messi đã chính thức khép lại hành trình hơn hai thập kỷ gắn bó với đội tuyển quốc gia Argentina. Quyết định được đưa ra một ngày sau trận đấu cuối cùng trong màu áo Albiceleste, nơi anh tỏa sáng rực rỡ với một bàn thắng và hai pha kiến tạo, góp phần vào chiến thắng 3-0 trước Benin trên sân Monumental vào sáng 7/8 (giờ Việt Nam)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong một tâm thư đầy xúc động, Messi gửi lời tri ân sâu sắc đến gia đình, đồng đội, huấn luyện viên, các câu lạc bộ, huyền thoại Diego Maradona và người hâm mộ. Anh viết: \"Hôm qua là trận đấu cuối cùng của tôi và tôi đã bắt đầu nhớ cảm giác được khoác lên mình màu áo xanh - trắng. Tôi biết mình đang đưa ra quyết định đúng đắn. Đó là một hành trình tuyệt vời, đầy ắp niềm vui nhưng cũng có những nỗi buồn, nhưng tôi hiểu rằng từng bước mình đã đi đều hoàn toàn xứng đáng."
+    },
+    {
+     "t": "p",
+     "text": "Và tôi vẫn còn rất nhiều điều muốn nói. Thật khó để diễn tả hết những gì tôi cảm nhận chỉ bằng vài lời hay một bài viết. Hành trình này sẽ không thể có được nếu thiếu gia đình tôi, những người luôn ở bên và ủng hộ tôi, đặc biệt là trong những thời điểm khó khăn, khi tôi cần họ nhất. Bạn bè, tất cả những đồng đội và các HLV tôi từng làm việc cùng, cũng như ban huấn luyện của họ, đều là những người không thể thiếu trong hành trình này."
+    },
+    {
+     "t": "p",
+     "text": "Tôi cũng không muốn quên Diego Maradona, người đã đưa đất nước chúng ta trở lại đúng vị thế mà Argentina xứng đáng có được và như tôi vẫn luôn nói, tôi biết rằng Diego đã giúp đỡ chúng tôi, cả khi còn ở đây bên cạnh mọi người và từ trên thiên đường, trong từng bước đi mà chúng tôi đã thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Cảm ơn những CLB mà tôi từng thi đấu, vì luôn tôn trọng tình cảm của tôi và cho phép tôi cống hiến cho đất nước mỗi khi đến lúc khoác lên mình chiếc áo đội tuyển quốc gia. Và tất nhiên, cảm ơn Chúa: nếu không có sự dẫn dắt và ý nguyện của Người, có lẽ chúng tôi thậm chí đã không thể mơ đến việc đi được xa như thế này. Tôi là một người biết ơn. Tôi yêu mọi người rất nhiều, tôi sẽ nhớ mọi người và mãi mãi biết ơn vì mọi người đã ở bên chúng tôi, và cá nhân tôi”."
+    },
+    {
+     "t": "p",
+     "text": "Trận đấu với Benin là lần thứ 208 và cũng là lần cuối cùng Messi khoác áo đội tuyển Argentina. Anh rời Albiceleste với tư cách là cầu thủ khoác áo nhiều nhất và ghi bàn nhiều nhất trong lịch sử đội tuyển, với tổng cộng 126 pha lập công. Ở tuổi 39, Messi vẫn để lại dấu ấn đậm nét trong trận chia tay, trực tiếp tham gia vào cả ba bàn thắng của đội nhà."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hành trình của Messi với Argentina là một câu chuyện đầy cảm xúc, với nhiều thăng trầm. Anh lần đầu khoác áo đội tuyển vào năm 2005 và phải trải qua nhiều thất bại đau đớn, bao gồm các trận chung kết Copa Amarica và World Cup 2014. Đã có lúc, anh từng tuyên bố chia tay đội tuyển sau thất bại tại Copa America 2016."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến khi Messi đã 34 tuổi. Copa America 2021 là danh hiệu lớn đầu tiên anh giành được cùng đội tuyển Argentina. Một năm sau, ở tuổi 35, Messi cuối cùng đã hoàn thành mục tiêu lớn nhất sự nghiệp quốc tế khi cùng Argentina vô địch World Cup 2022 tại Qatar, ghi 7 bàn và giành Quả bóng vàng World Cup."
+    },
+    {
+     "t": "p",
+     "text": "Sau World Cup, Messi tiếp tục cùng Argentina vô địch Copa America 2024. Như vậy, anh đã giành bốn danh hiệu lớn cùng đội tuyển quốc gia. Trước đó, anh còn cùng các đội tuyển trẻ Argentina vô địch U20 World Cup 2005 và giành HCV Olympic 2008."
+    },
+    {
+     "t": "p",
+     "text": "Trong 7 kỳ Copa America tham dự, từ 2007 đến 2024, Messi đã chơi 39 trận, ghi 14 bàn và giữ kỷ lục cầu thủ ra sân nhiều nhất lịch sử giải đấu. Hành trình ấy bắt đầu bằng thất bại ở chung kết năm 2007 và kết thúc bằng hai chức vô địch liên tiếp vào năm 2021 và 2024."
+    },
+    {
+     "t": "p",
+     "text": "Trên bình diện World Cup, Messi đã dự 6 kỳ liên tiếp, bắt đầu từ ở Đức năm 2006 đến giải đấu năm 2026. Sau thất bại ở chung kết năm 2014, anh đã cùng Argentina nâng cao chiếc cúp vàng danh giá tại Qatar 2022, chấm dứt cơn khát danh hiệu World Cup kéo dài từ năm 1986 của người Argentina. Argentina tiếp tục vào chung kết World Cup 2026, nhưng chỉ có thêm một lần về nhì, khép lại một giai đoạn đặc biệt của Messi với đội tuyển quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "51ff124aebac",
+   "order": 14,
+   "slug": "nasa-cong-bo-anh-binh-minh-xanh-ky-ao-tren-sao-hoa",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA công bố ảnh bình minh xanh kỳ ảo trên sao Hỏa",
+   "sapo": "Bức ảnh NASA vừa công bố cho thấy ánh bình minh xanh phủ lên những vách đá 3 tỉ năm tuổi trên sao Hỏa, tạo khung cảnh kỳ ảo.",
+   "author": "TTXVN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nasa-cong-bo-anh-binh-minh-xanh-ky-ao-tren-sao-hoa-100261008075735891.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 449,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-09/51ff124aebac-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-09/51ff124aebac-0.jpg",
+     "caption": "Hình ảnh bề mặt sao Hỏa do tàu Curiosity của NASA chụp vào ngày 11-8-2026 - Ảnh: NASA",
+     "w": 842,
+     "h": 462
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cơ quan Hàng không và Vũ trụ Mỹ (NASA) vừa công bố bức ảnh ấn tượng ghi lại khoảnh khắc bình minh trên sao Hỏa do tàu thăm dò Curiosity chụp lại. Bức ảnh phản chiếu ánh nắng ban mai bao phủ lên những vách đá nhấp nhô được hình thành từ hàng tỉ năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Curiosity đáp xuống Hố thiên thạch Gale vào năm 2012. Từ năm 2014, robot 6 bánh này bắt đầu hành trình leo núi Sharp, ngọn núi cao 5.000m vươn lên từ đáy hố. Bức ảnh được máy ảnh Mastcam ghi lại khoảng 1 giờ sau khi Mặt trời mọc, thu trọn khung cảnh những vách đá nhấp nhô phía xa do gió bào mòn qua hàng eon (hàng triệu đến hàng tỉ năm)."
+    },
+    {
+     "t": "p",
+     "text": "Nhà khoa học Ashwin Vasavada thuộc Phòng Thí nghiệm Sức đẩy Hỏa lực (JPL) của NASA cho biết: \"Những đỉnh đá nhấp nhô rực sáng phía xa là một lớp đá có hình thái khác biệt hoàn toàn so với những nơi tàu từng đi qua. Chúng tôi cho rằng đây từng là trầm tích do gió thổi tới, cát hoặc tro bụi núi lửa. Trải qua thời gian dài bị bào mòn, lớp đá này biến thành các dải gờ nhấp nhô gọi là yardang\"."
+    },
+    {
+     "t": "p",
+     "text": "Lớp yardang này dài khoảng 16km, được hình thành khoảng 3 tỉ năm trước, cùng thời điểm với phần còn lại của Núi Sharp nhưng được bồi đắp muộn hơn một chút trên một \"khoảng hẫng địa tầng\" (unconformity). Trong hành trình leo dốc, Curiosity đã vượt thêm hơn 1.000m độ cao, kỷ lục chinh phục độ cao lớn nhất của một thiết bị tự hành trên sao Hỏa."
+    },
+    {
+     "t": "p",
+     "text": "Núi Sharp được tạo thành từ nhiều lớp đá, lưu giữ vết tích thời kỳ sao Hỏa còn ẩm ướt và ấm áp với nhiều sông hồ. NASA kỳ vọng Curiosity sẽ tiếp cận trực tiếp lớp yardang vào năm 2027 hoặc 2028 để phân tích địa chất sâu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Curiosity có nhiệm vụ nghiên cứu khí hậu, địa chất và tìm kiếm dấu vết sự sống vi sinh vật cổ đại. Đây là một trong hai tàu thăm dò của NASA đang hoạt động trên sao Hỏa, bên cạnh Perseverance ở Hố thiên thạch Jezero."
+    },
+    {
+     "t": "p",
+     "text": "Nói về bức ảnh bình minh kỳ ảo, ông Vasavada chia sẻ: \"Khung cảnh hoang sơ này gợi nhớ đến Thung lũng Monument ở Arizona. Bạn gần như cảm nhận được sự im lặng vô tận dưới bầu trời. Nhưng điểm khác biệt là bầu trời ở đây sắc cam và ánh bình minh lại ngả xanh dương. Rất giống Trái đất, nhưng chắc chắn đó là sao Hỏa\"."
+    }
+   ]
+  },
+  {
+   "id": "233c7e3309a6",
+   "order": 15,
+   "slug": "hanh-tinh-phuong-hoang-nong-ruc-co-the-giai-ma-vu-an-thien-v",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Hành tinh \"phượng hoàng\" nóng rực có thể giải mã vụ án thiên văn bí ẩn suốt ba thập kỷ",
+   "sapo": "Sau khi ra đời chủ yếu từ khí hydro và heli, chỉ khoảng 14 tỷ năm sau, Vũ trụ đã đầy rẫy những hành tinh kỳ lạ với vô số kiểu dáng, hình thể và kích cỡ khác nhau. Mà thôi, có lẽ không phải \"hình thể\", vì hành tinh nào cũng tròn trịa cả – đó là một phần trong định nghĩa của hành tinh. Thế nhưng một số hành tinh thực sự kỳ dị, kể cả những \"gã lập dị\" đặc như sắt, hay những \"người láng giềng\" tí hon khiến sao Kim bình thường của chúng ta trông như một gã khổng lồ. Và giờ đây, mức độ kỳ lạ còn được đẩy lên cao hơn nữa: các nhà thiên văn vừa công bố một hành tinh ngoài hệ Mặt Trời (exoplanet) nghi vấn chưa từng có tiền lệ, cả trong thiên văn học lẫn trong truyền thuyết – một \"hành tinh phượng hoàng\" không hồi sinh từ chính đống tro tàn của mình, mà từ",
+   "author": "Ivan Farkas",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/more-might-be-out-there-a-scorching-phoenix-planet-may-solve-a-3-decade-old-astronomical-cold-case",
+   "published": "2026-10-08T13:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1521,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A Scorching Phoenix Planet May Solve a 3-Decade-Old Astronomical Cold Case",
+   "images": [
+    {
+     "src": "img/2026-10-09/233c7e3309a6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-09/233c7e3309a6-0.jpg",
+     "caption": "Hình minh họa của họa sĩ về hành tinh thế hệ thứ hai đã hình thành quanh sao lùn trắng HS 0209+0832. (Tiến sĩ Snehalata Sahu/Đại học Warwick)",
+     "w": 1280,
+     "h": 904
+    },
+    {
+     "src": "img/2026-10-09/233c7e3309a6-1.jpg",
+     "caption": "Các vạch quang phổ của sao lùn trắng trong nghiên cứu này. (NASA/ESA/Leah Hustak, STScI)",
+     "w": 600,
+     "h": 370
+    },
+    {
+     "src": "img/2026-10-09/233c7e3309a6-2.jpg",
+     "caption": "Dòng thời gian minh họa cách một hệ hành tinh nghi vấn như vậy có thể đã hình thành. (NASA/ESA/Leah Hustak, STScI)",
+     "w": 600,
+     "h": 338
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau khi ra đời chủ yếu từ khí hydro và heli, chỉ khoảng 14 tỷ năm sau, Vũ trụ đã đầy rẫy những hành tinh kỳ lạ với vô số kiểu dáng, hình thể và kích cỡ khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Mà thôi, có lẽ không phải \"hình thể\", vì hành tinh nào cũng tròn trịa cả – đó là một phần trong định nghĩa của hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng một số hành tinh thực sự kỳ dị, kể cả những \"gã lập dị\" đặc như sắt, hay những \"người láng giềng\" tí hon khiến sao Kim bình thường của chúng ta trông như một gã khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "Và giờ đây, mức độ kỳ lạ còn được đẩy lên cao hơn nữa: các nhà thiên văn vừa công bố một hành tinh ngoài hệ Mặt Trời (exoplanet) nghi vấn chưa từng có tiền lệ, cả trong thiên văn học lẫn trong truyền thuyết – một \"hành tinh phượng hoàng\" không hồi sinh từ chính đống tro tàn của mình, mà từ đống tro tàn của ngôi sao mẹ đã lụi tàn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau gần ba thập kỷ mơ hồ, một nhóm nghiên cứu do các nhà khoa học của Đại học Warwick dẫn đầu cuối cùng đã xác định được đặc điểm của một vật thể có thể là hành tinh thế hệ thứ hai đầu tiên từng được phát hiện quanh một sao lùn trắng (white dwarf) – có tên HS 0209+0832, chỉ cách chúng ta 270 năm ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Sao lùn trắng là phần lõi đang nguội dần của những ngôi sao từng giống Mặt Trời nhưng đã cạn kiệt nhiên liệu hạt nhân. Trước khi \"chết\", chúng phình to lên như bắp rang và phun lớp vỏ ngoài ra ngoài không gian."
+    },
+    {
+     "t": "p",
+     "text": "Trong một sự trùng hợp vũ trụ vô cùng hiếm gặp, những lớp vật chất này dường như đã bị lực hấp dẫn giữ lại và nén chặt thành một hành tinh mới."
+    },
+    {
+     "t": "p",
+     "text": "Đó là một hành tinh thế hệ thứ hai, ra đời từ sự già cỗi của một ngôi sao, khác với những hành tinh thế hệ thứ nhất như Trái Đất của chúng ta, được sinh ra từ đám mây sơ khai đã tạo nên Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Để nhắc lại kính viễn vọng Hubble đã phục vụ chúng ta trung thành bao lâu: nó từng quan sát ngôi sao đã chết này từ thế kỷ trước, vào năm 1999, phát hiện khoảng 100 vạch quang phổ (dấu vân tay dựa trên ánh sáng) mà các nhà thiên văn khi đó không thể xác định được là gì."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu lại hiện đại đã hé lộ dấu vân tay hóa học gồm kẽm, đồng, và một nguyên tố đặc biệt nổi bật: niobi, với hàm lượng cao hơn 1.000 lần so với trong Mặt Trời của chúng ta."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nguyên tố niobium này – có ứng dụng trên Trái Đất trong trang sức và các thiết bị chụp ảnh y tế – chính là dấu hiệu quang phổ bí ẩn đã giúp các nhà khoa học phá giải \"vụ án nguội\" kéo dài hàng chục năm, đánh dấu một cột mốc quan trọng trong ngành thiên văn học:"
+    },
+    {
+     "t": "p",
+     "text": "\"Khi [tác giả chính] Jamie hỏi tôi về niobium liên quan đến nghiên cứu này, tôi thực sự rất sốc, vì nguyên tố đó chưa từng được ghi nhận ở bất kỳ sao lùn trắng nào được phân tích trước đây,\" Boris Gänsicke, giáo sư tại Khoa Vật lý của Đại học Warwick và đồng tác giả nghiên cứu, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi chúng tôi nhận ra nó có ở đó, mọi thứ bỗng trở nên rõ ràng.\""
+    },
+    {
+     "t": "p",
+     "text": "Nó giống như một bản báo cáo khám nghiệm tử thi của ngành thiên văn, theo một cách khá rùng rợn."
+    },
+    {
+     "t": "p",
+     "text": "\"Mô hình các nguyên tố này là dấu hiệu đặc trưng của 'quá trình s' (s-process), một phản ứng hạt nhân tạo ra các nguyên tố nặng bên trong những ngôi sao đang chết trong giai đoạn sao khổng lồ đỏ phình to của chúng,\" Nicholas Stone, nhà vật lý thiên văn lý thuyết tại Đại học Wisconsin-Madison và đồng tác giả nghiên cứu, giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một dấu hiệu hóa học mà không một hành tinh bình thường, 'thế hệ đầu tiên' nào nên có, điều đó cho chúng tôi biết rằng hành tinh mới này là một thứ gì đó khác biệt.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã tìm hiểu các đặc điểm của hệ này bằng nhiều đài quan sát trên mặt đất và trong không gian, trong đó có Vệ tinh Khảo sát Ngoại hành tinh bằng phương pháp quá cảnh (TESS) của NASA."
+    },
+    {
+     "t": "p",
+     "text": "Những biến đổi độ sáng theo dạng sóng của sao lùn trắng mẹ cho thấy hành tinh phượng hoàng nghi vấn có thể là một hành tinh khí khổng lồ cỡ Sao Mộc, quay quanh ngôi sao \"đã chết\" này mỗi 4,4 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Quỹ đạo sát sao này, gần hơn 25 lần so với quỹ đạo của Trái Đất quanh Mặt Trời, có thể đã khiến hành tinh này bị khóa thủy triều (tidal locking), khiến một mặt của hành tinh luôn hướng về sao lùn trắng, còn mặt kia thì chìm trong màn đêm vĩnh cửu."
+    },
+    {
+     "t": "p",
+     "text": "Dù được gọi là \"đã chết,\" sao lùn trắng này lại nóng đến khó tin, với nhiệt độ hiệu dụng khoảng 35.000 độ C (63.000 độ F). Với tuổi đời chỉ mới 5 triệu năm, \"tàn tích\" sao trẻ này vẫn chưa kịp nguội đi."
+    },
+    {
+     "t": "p",
+     "text": "Vậy nó gần như đang \"sấy khô\" người bạn đồng hành của mình, mà ngôi sao này có thể đang mất khoảng một tỷ kilôgam khối lượng mỗi giây, có lẽ dưới dạng một cái đuôi giống sao chổi rồi rơi vào sao lùn trắng."
+    },
+    {
+     "t": "p",
+     "text": "Tất nhiên, đây chính là chất liệu được tạo ra và bắn ra từ cơn hấp hối của sao lùn trắng, hoàn thành một Vòng Tuần Hoàn Sự Sống kiểu Vua Sư Tử (Lion King) trong thiên văn học."
+    },
+    {
+     "t": "p",
+     "text": "Dù hệ sao này là độc nhất, quá trình này thì không hề hiếm. Khi các ngôi sao giống Mặt Trời tắt dần, chúng có thể xé nát và nuốt chửng các hành tinh của mình, theo một mô-típ thần thoại ghê rợn có thể báo trước số phận của Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ đó, khí quyển của một sao lùn trắng có thể lưu giữ bằng chứng hóa học về những hành tinh đã bị nghiền nát, giống như những bữa ăn được tìm thấy trong bụng hóa thạch của khủng long."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều đáng kinh ngạc về hành tinh quay quanh HS 0209+0832 là nó không phải là một hành tinh từ nơi khác đến, cũng không phải một hành tinh sống sót từ khi hệ sao này ra đời,\" Gänsicke giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Có vẻ như nó được tạo ra từ chính chất liệu mà ngôi sao của nó phun ra khi chết. Theo một nghĩa nào đó, hệ sao này đã sinh ra một thế giới mới từ nền tảng của thế giới cũ.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Có thể coi đây là một sự trùng hợp đầy chất thơ kiểu cổ điển: sao lùn trắng đang ăn một hành tinh được tạo ra từ chính tro tàn hạt nhân của nó. Đặc biệt là khi trước đó nó có thể đã \"ăn\" một ngôi sao bạn đồng hành, chính là thứ đã giúp hành tinh phượng hoàng này hình thành ngay từ đầu."
+    },
+    {
+     "t": "p",
+     "text": "Theo góc nhìn của mô-típ thần thoại nói trên, thì ngay cả thần Kronos cuồng quyền lực và hoang tưởng cũng chỉ nuốt chửng thế hệ con đầu tiên của mình mà thôi."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng có một tin vui."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu hành tinh thế hệ thứ hai này thực sự ở đó, tôi nghĩ nhiều khả năng nó sẽ tồn tại được. Cuối cùng, sao lùn trắng sẽ nguội đi và duy trì một nhiệt độ ổn định, với hành tinh nằm trong vùng có thể sống được ổn định của nó trong hàng triệu năm,\" Jamie Williams, nhà thiên văn học tại Đại học Warwick và tác giả chính của nghiên cứu, dự đoán."
+    },
+    {
+     "t": "p",
+     "text": "Cuối cùng, nghiên cứu này góp phần vào việc tìm kiếm những thiên thể khác trong tương lai có thể cũng trải qua một lần \"sinh ra\" thứ hai, cho thấy rằng cái chết của một ngôi sao giống như một lời mở đầu hơn là một hồi kết – và đặt số phận của chính hệ Mặt Trời chúng ta vào một câu chuyện tái sinh, như Gänsicke kết luận:"
+    },
+    {
+     "t": "p",
+     "text": "\"Việc tìm ra ví dụ này đặt ra câu hỏi rằng còn bao nhiêu hành tinh như vậy ngoài kia, và liệu chính hệ Mặt Trời của chúng ta có thể sinh ra một hành tinh thế hệ thứ hai, hình thành từ tro tàn của Mặt Trời hay không.\""
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được kiểm chứng bởi Fiona MacDonald và biên tập bởi Fiona MacDonald. Dù luôn cố gắng làm việc cẩn thận, chúng tôi cũng chỉ là con người. Nếu phát hiện sai sót, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "16ddf8fa366b",
+   "order": 16,
+   "slug": "nhung-dau-hieu-nay-co-the-cho-thay-su-song-tren-cac-hanh-tin",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Những dấu hiệu này có thể cho thấy sự sống trên các hành tinh khác",
+   "sapo": "Các khí và màu sắc trên những hành tinh xa xôi có thể là dấu tích hoạt động của sinh vật ngoài hành tinh. Nếu đúng vậy, những \"người ngoài hành tinh\" đó có lẽ chỉ là những sinh vật đơn bào nhỏ bé.",
+   "author": "Douglas Fox",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/clues-life-venus-mars",
+   "published": "2026-10-08T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1222,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "These clues might point to life on other worlds",
+   "images": [
+    {
+     "src": "img/2026-10-09/16ddf8fa366b-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhiệt độ trên bề mặt sao Kim nóng đến mức có thể làm chảy cả chì, khiến sự sống như chúng ta biết trở nên bất khả thi ở đó. Nhưng các nhà khoa học đã phát hiện một số chất hóa học kỳ lạ trong các lớp mây phía trên bề mặt hành tinh này. Ở độ cao đó, nhiệt độ và áp suất lại khá giống với Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Những lớp mây này nằm ở độ cao từ 48 đến 60 km so với bề mặt sao Kim. Trong đó đã xuất hiện những dấu vết có thể là khí oxy, khí methane và khí phosphine. Điều này khiến một số nhà khoa học nghi ngờ rằng các lớp mây có thể là nơi trú ngụ của vi khuẩn. Nhưng những sinh vật đơn bào đó sẽ phải sống sót qua những điều kiện khắc nghiệt mỗi khi chúng rơi xuống các lớp khí quyển thấp hơn và nóng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2021, các nhà nghiên cứu tại Viện Công nghệ Massachusetts (MIT), ở Cambridge, đã đưa ra giả thuyết về cách vi khuẩn có thể sống sót trong các lớp mây cao phía trên sao Kim. Chúng chỉ cần chịu đựng việc bị khô đi trong một thời gian ngắn mỗi khi rơi xuống các lớp mây nóng hơn. Sau đó, khi bị cuốn trở lại lên các lớp mây mát và ẩm hơn, các tế bào có thể hồi sinh. Noelle Bryan, Sara Seager và các đồng nghiệp của họ đã đề xuất ý tưởng này."
+    },
+    {
+     "t": "p",
+     "text": "Bryan có lý do để nghĩ rằng điều này có thể xảy ra. Nhiều năm trước, bà đã thu thập được các vi khuẩn từ tầng bình lưu (stratosphere) của Trái Đất. Đây là một vùng khắc nghiệt nằm ở độ cao hàng chục km phía trên bề mặt hành tinh chúng ta. Những vi khuẩn bà tìm thấy có vẻ như đã sống sót qua tình trạng khô hạn cực độ khi ở trên đó — gần giống như cách vi khuẩn trên sao Kim sẽ phải sống sót qua việc bị khô đi."
+    },
+    {
+     "t": "p",
+     "text": "Những gì Bryan học được về các tế bào sống ở độ cao lớn đó giờ đây có thể dẫn đường cho việc tìm kiếm sự sống ngoài hành tinh ở các hệ hành tinh xa xôi cách chúng ta nhiều năm ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Chẳng hạn, một số loại vi khuẩn trên Trái Đất tạo ra các chất màu (pigment) đầy màu sắc. Những phân tử này có thể bảo vệ tế bào khỏi tia cực tím (UV) có hại. Việc tìm thấy chúng trên các thế giới khác có thể là dấu hiệu cho thấy sự sống ở đó. Các tế bào ngoài hành tinh cũng có thể dùng những chất màu tương tự để tự bảo vệ mình khỏi tia UV."
+    },
+    {
+     "t": "p",
+     "text": "Các kính viễn vọng trong tương lai khi quan sát các hành tinh quay quanh những ngôi sao xa xôi có thể phát hiện được màu sắc của những chất màu đó. Điều này có thể hé lộ sự sống của vi khuẩn đang tồn tại trong các lớp mây của những thế giới xa xăm, theo Lígia Coelho. Bà là một nhà sinh vật học vũ trụ (astrobiologist), làm việc tại Đại học Cornell ở Ithaca, New York."
+    },
+    {
+     "t": "p",
+     "text": "Coelho gần đây đã phân tích các chất màu trong vi khuẩn tầng bình lưu mà Bryan thu được. Bà phát hiện ra rằng những chất màu này hấp thụ hoặc phản xạ những bước sóng ánh sáng nhất định. Bà hy vọng sẽ tìm kiếm những kiểu ánh sáng và màu sắc tương tự trên các hành tinh xa xôi."
+    },
+    {
+     "t": "h",
+     "text": "Lần tìm những \"người sao Hỏa\" tí hon"
+    },
+    {
+     "t": "p",
+     "text": "Việc gần đây phát hiện ra vi khuẩn trong tầng bình lưu của Trái Đất có lẽ liên quan nhiều nhất đến việc tưởng tượng về sự sống trên sao Hỏa. Suy cho cùng, các tế bào ở độ cao lớn phía trên Trái Đất phải chịu đựng những điều kiện tương tự như trên bề mặt Hành tinh Đỏ."
+    },
+    {
+     "t": "p",
+     "text": "Andrew Schuerger đã dành nhiều năm để tìm kiếm những vi khuẩn trên Trái Đất có thể sống sót được trên sao Hỏa. Ông làm việc tại Đại học Florida ở Gainesville. Gần đây, ông hợp tác với Rachel Harris. Bà là một nhà sinh vật học vũ trụ (astrobiologist) tại NASA và Đại học Harvard ở Cambridge, Massachusetts. Năm ngoái, hai người đã tìm ra một loại vi khuẩn có vẻ đáp ứng được nhiều điều kiện cần thiết để tồn tại trên sao Hỏa."
+    },
+    {
+     "t": "p",
+     "text": "Tên của nó khá dài và khó đọc: Methanosarcina barkeri (Mê-tha-nô-sác-xi-na bác-kơ-ri). Nó lấy năng lượng bằng cách biến khí carbon dioxide và khí hydro thành khí methane."
+    },
+    {
+     "t": "p",
+     "text": "M. barkeri thường sống trong nước thải, bãi rác, ruộng lúa nước và đáy hồ. Những môi trường bị chôn kín đó chẳng giống chút nào với lớp không khí mỏng và khô của sao Hỏa. Nhưng khác với các vi khuẩn sống ở tầng bình lưu (stratosphere) của Trái Đất, M. barkeri có thể sống mà không cần oxy, loại khí không có trên sao Hỏa. Và ngay cả ở áp suất thấp giống như trên sao Hỏa, M. barkeri vẫn có thể tạo ra khí methane, theo nghiên cứu của Schuerger và Harris."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một tin quan trọng, vì các tàu vũ trụ bay quanh sao Hỏa và các xe tự hành đã phát hiện khí methane len lỏi vào bầu khí quyển của hành tinh này."
+    },
+    {
+     "t": "p",
+     "text": "Đáng tiếc là, những sinh vật tạo ra khí methane trên sao Hỏa có thể sẽ rất khó tìm thấy. Chúng có thể cần phải ẩn sâu dưới lòng đất để sống sót qua áp suất khí quyển thấp của hành tinh này."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng việc phát hiện ra M. barkeri vẫn hoạt động được ở áp suất thấp cho thấy sự sống có thể tồn tại khá gần với bề mặt Hành Tinh Đỏ, Schuerger cho biết. Một xe tự hành có thể chỉ cần khoan sâu 20 xăng-ti-mét (8 inch) là đã chạm tới những sinh vật sao Hỏa đơn bào — nếu chúng thực sự tồn tại."
+    },
+    {
+     "t": "p",
+     "text": "Bất kỳ \"túi\" vi khuẩn nào gần bề mặt sao Hỏa có thể rất nhỏ và chỉ tồn tại trong thời gian ngắn, theo Lynn Rothschild. Bà là nhà sinh vật học vũ trụ tại Trung tâm Nghiên cứu Ames của NASA. Trung tâm này nằm ở Mountain View, California. Bà hình dung rằng vi khuẩn sử dụng bề mặt sao Hỏa giống như cách các loài bay cao dường như sử dụng tầng bình lưu của Trái Đất. Đó sẽ là một nơi khắc nghiệt mà chúng chỉ chịu đựng trong thời gian ngắn khi di chuyển từ nơi này sang nơi khác."
+    },
+    {
+     "t": "p",
+     "text": "Nếu bà đúng, thì các cơn bão bụi trên sao Hỏa có thể cuốn theo không chỉ bụi, mà cả sự sống của sao Hỏa. Vi khuẩn có thể đang \"trôi lững lờ trong không khí, chỉ để tìm một nơi có thể hạ cánh [và] sống sót được\", bà nói. Nếu đúng vậy, thì một xe tự hành có thể bắt được sự sống giống như cách một hàng rào giữ lại những chiếc lá bị gió thổi tới."
+    }
+   ]
+  },
+  {
+   "id": "bf8f6d1521f8",
+   "order": 17,
+   "slug": "chiec-dong-ho-pha-ky-luc-dat-chuan-chinh-xac-moi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Chiếc đồng hồ phá kỷ lục đạt chuẩn chính xác mới",
+   "sapo": "Cách đo thời gian của đồng hồ đeo tay hay điện thoại của bạn có thể đủ dùng cho cuộc sống hằng ngày, nhưng các nhà khoa học lại tham vọng hơn nhiều về độ chính xác, và họ dùng đồng hồ nguyên tử (atomic clock) để đo những khoảng thời gian cực nhỏ một cách chuẩn xác nhất có thể.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/the-most-accurate-clock-in-the-world-atomic-clock-just-set-a-new-world-record",
+   "published": "2026-10-08T20:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 912,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Record-Breaking Clock Just Set a New Standard For Accuracy",
+   "images": [
+    {
+     "src": "img/2026-10-09/bf8f6d1521f8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-09/bf8f6d1521f8-0.jpg",
+     "caption": "Các nhà nghiên cứu (từ trái qua) Murray Barrett, Michael Lee và Kyle Arnold cùng chiếc đồng hồ nguyên tử của họ. (Đại học Quốc gia Singapore)",
+     "w": 600,
+     "h": 337
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cách đo thời gian của đồng hồ đeo tay hay điện thoại của bạn có thể đủ dùng cho cuộc sống hằng ngày, nhưng các nhà khoa học lại tham vọng hơn nhiều về độ chính xác, và họ dùng đồng hồ nguyên tử để đo những khoảng thời gian cực nhỏ một cách chuẩn xác nhất có thể."
+    },
+    {
+     "t": "p",
+     "text": "Những chiếc đồng hồ này hoạt động dựa trên các \"tiếng tích tắc\" của sóng ánh sáng hoặc sóng vi ba (microwave), được tạo ra khi các electron chuyển đổi mức năng lượng lúc bị kích thích bởi nguồn năng lượng bên ngoài. Vì sự chuyển đổi này xảy ra ở một tần số cụ thể, đã biết trước đối với mỗi loại nguyên tố, nên chỉ cần một nguyên tử của nguyên tố đó cũng có thể giúp đảm bảo các tiếng tích tắc diễn ra chính xác."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, chúng ta có một chiếc đồng hồ nguyên tử mới được cho là vượt qua mọi kỷ lục trước đó về độ chính xác. Đồng hồ này dùng nguyên tố lutetium, và đo một giây với mức sai số dưới một phần mười tỷ tỷ giây, chính xác gấp khoảng bốn lần so với bất kỳ kỷ lục nào từng được ghi nhận trước đây."
+    },
+    {
+     "t": "p",
+     "text": "Nói cách khác, nếu để chiếc đồng hồ này chạy liên tục trong 300 tỷ năm (tức khoảng mười tỷ tỷ giây), nó cũng chỉ sai lệch chưa đầy một giây. Các nhà nghiên cứu tạo ra chiếc đồng hồ này, thuộc Đại học Quốc gia Singapore, đã công bố công trình của họ trên tạp chí Nature."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi tin chắc rằng chiếc đồng hồ chúng tôi có hiện nay là chính xác nhất trên thế giới,\" nhà vật lý Murray Barrett nói. \"Trong tương lai, tôi không thấy có cách nào để vượt qua được chiếc đồng hồ này.\""
+    },
+    {
+     "t": "p",
+     "text": "Từ trước đến nay, đồng hồ nguyên tử thường dùng nguyên tố cesium làm chuẩn tham chiếu, nhưng những năm gần đây, các nhà khoa học cũng đã thử nghiệm với những nguyên tố khác, trong đó có strontium. Những nguyên tố này dao động nhanh hơn cesium, nghĩa là có nhiều tiếng tích tắc hơn trong mỗi giây."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã tìm hiểu khả năng dùng lutetium trong suốt một thập kỷ qua, và đến nay họ là nhóm duy nhất nhận ra được tiềm năng đo thời gian của nguyên tố này."
+    },
+    {
+     "t": "p",
+     "text": "Điểm mạnh thực sự của nguyên tố này nằm ở sự ổn định. Cấu trúc nguyên tử của lutetium giúp nó được bảo vệ rất tốt trước nhiệt độ, từ trường và sự chuyển động - những yếu tố có thể gây xáo trộn quá trình chuyển đổi mức năng lượng của electron."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Những đặc tính tốt này có nghĩa là độ chính xác cao vẫn có thể đạt được trong rất nhiều môi trường khác nhau,\" Barrett cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Chiếc đồng hồ lutetium vẫn sẽ hoạt động ổn định cho dù bạn mang nó từ nơi nóng nhất từng được ghi nhận trên Trái Đất là Thung lũng Chết, đến nơi lạnh nhất là cao nguyên Nam Cực.\""
+    },
+    {
+     "t": "p",
+     "text": "Để kiểm tra độ chính xác của đồng hồ nguyên tử, các nhà nghiên cứu đã chế tạo thêm một chiếc đồng hồ thứ hai, cũng dựa trên nguyên tố lutetium. Sau khi điều chỉnh theo thuyết tương đối rộng (general relativity) của Einstein (vì hai chiếc đồng hồ không đặt đúng cùng một vị trí), họ đã so sánh hai thiết bị này với nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trong suốt 200 giờ đo đạc, kéo dài tổng cộng 12 ngày, sự khác biệt giữa hai chiếc đồng hồ nhỏ đến mức có thể coi như bằng không."
+    },
+    {
+     "t": "p",
+     "text": "\"Có một câu nói hài hước rằng 'người có một cái đồng hồ thì biết chính xác mấy giờ, còn người có hai cái đồng hồ thì chẳng bao giờ chắc chắn'\", nhà vật lý Kyle Arnold cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều đó cho thấy cách duy nhất để kiểm tra độ chính xác của một chuẩn đo là so sánh các đồng hồ với nhau và chứng minh được kết quả có thể lặp lại.\""
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ là một điểm mốc cực kỳ chuẩn xác để biết giờ, những chiếc đồng hồ siêu chính xác này còn vô cùng quý giá cho một số nghiên cứu nền tảng, quy mô lớn trong vật lý học - chẳng hạn như đo lường sự thay đổi của lực hấp dẫn trên khắp Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Để phát triển công nghệ đồng hồ nguyên tử hơn nữa, nhóm nghiên cứu muốn thu nhỏ kích thước của nó (hiện tại nó chiếm cả một phòng thí nghiệm), để có thể di chuyển từ nơi này đến nơi khác. Điều này có nghĩa là nó có thể được kiểm tra độ chính xác ở nhiều địa điểm hơn, và có thể dùng cho các ứng dụng thực tế (như theo dõi dung nham ngầm dưới đất)."
+    },
+    {
+     "t": "p",
+     "text": "Một lần nữa, lutetium có những đặc tính có thể giúp ích cho việc này. Nguyên tố này sử dụng các loại laser có sẵn, không chiếm quá nhiều không gian, và hoạt động ở nhiệt độ phòng mà không cần hệ thống làm lạnh cồng kềnh."
+    },
+    {
+     "t": "p",
+     "text": "\"Bước tiếp theo là đưa chiếc đồng hồ cỡ phòng thí nghiệm này thu nhỏ lại thành một hệ thống có thể mang đi được\", nhà vật lý Michael Lee nói."
+    }
+   ]
+  },
+  {
+   "id": "bc9fa6700145",
+   "order": 18,
+   "slug": "kinh-vien-vong-spherex-cua-nasa-phat-hien-ca-mot-vuon-thu-sa",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Kính viễn vọng SPHEREx của NASA phát hiện cả một \"vườn thú\" sao lùn nâu",
+   "sapo": "Kính viễn vọng không gian SPHEREx của NASA (Máy đo quang phổ nghiên cứu lịch sử vũ trụ, thời kỳ tái ion hóa và băng) đang hé lộ nhiều điều về các sao lùn nâu",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+   "published": "2026-10-08T18:22:48+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1344,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+   "images": [
+    {
+     "src": "img/2026-10-09/bc9fa6700145-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Kính viễn vọng không gian SPHEREx của NASA (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer - Máy đo quang phổ nghiên cứu lịch sử vũ trụ, thời kỳ tái ion hóa và băng) đang hé lộ nhiều điều về các sao lùn nâu, những thiên thể nằm ở ranh giới mơ hồ giữa ngôi sao và hành tinh ngoài hệ Mặt Trời. Những phát hiện mới được công bố trên tạp chí The Astrophysical Journal cho thấy các thế giới tối tăm, đầy mây này có bầu khí quyển giàu chất hóa học, không khác mấy so với các hành tinh khổng lồ trong hệ Mặt Trời của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Được phát hiện lần đầu vào thập niên 1990, sao lùn nâu hình thành từ các đám mây khí sụp đổ, giống như cách các ngôi sao ra đời, nhưng chúng không đủ lớn để duy trì phản ứng tổng hợp hydro trong lõi. Những quả cầu khí ấm phát sáng mờ nhạt này cũng có nhiều đặc điểm giống Sao Mộc và Sao Thổ. Tuy nhiên, khác với phần lớn các hành tinh, sao lùn nâu trôi dạt trong bóng tối, không bị chi phối bởi một ngôi sao chủ nào và tự tỏa nhiệt hoàn toàn từ bên trong."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng khá là 'u tối',\" Zafar Rustamkulov, tác giả chính của nghiên cứu mới, nhà khoa học tại IPAC - trung tâm khoa học và dữ liệu của Caltech ở Pasadena, California, cho biết. \"Khác với các hành tinh ngoài hệ Mặt Trời, sao lùn nâu trôi tự do là những thiên thể hoàn toàn độc lập, sẽ dần mờ nhạt đi trong cô độc mãi mãi. Chúng tôi vẫn đang tìm hiểu xem chúng phức tạp đến mức nào.\""
+    },
+    {
+     "t": "p",
+     "text": "Chỉ mới có vài chục \"kẻ lang thang bóng tối\" này được nghiên cứu chi tiết bằng kính viễn vọng không gian. Các nhà thiên văn học muốn quan sát thêm nhiều sao lùn nâu ngoài tự nhiên hơn, bởi phần lớn hiểu biết của chúng ta về thành phần cấu tạo, mức độ hỗn loạn và quá trình tiến hóa của chúng hiện vẫn chủ yếu dựa trên các mô hình lý thuyết."
+    },
+    {
+     "t": "p",
+     "text": "Đây chính là lúc kính viễn vọng không gian hồng ngoại SPHEREx của NASA vào cuộc. SPHEREx được phóng lên vào tháng 3 năm 2025 và do Phòng thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory) của cơ quan này ở miền nam California quản lý."
+    },
+    {
+     "t": "p",
+     "text": "Các tác giả nghiên cứu đã phân tích dữ liệu quan sát của SPHEREx đối với 37 sao lùn nâu ở gần, trải dài toàn bộ dải nhiệt độ của loại thiên thể này, từ khoảng 2.200 độ C đến âm 20 độ C. Kính viễn vọng đo độ sáng của chúng ở 102 màu sắc khác nhau, từ màu đỏ sẫm nhất mà mắt người có thể nhìn thấy cho đến ánh sáng hồng ngoại vô hình mang theo nhiệt, từ đó tạo ra một quang phổ (spectrum). Những quang phổ này cho các tác giả nghiên cứu thấy bầu khí quyển giàu hóa chất, chứa nước, khí carbon dioxide, khí carbon monoxide và khí methane."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đang quan sát được dấu hiệu của những phân tử này và cách chúng thay đổi từ thiên thể này sang thiên thể khác, trên toàn bộ dải nhiệt độ,\" đồng tác giả nghiên cứu J. Davy Kirkpatrick, nhà khoa học tại IPAC của Caltech, cho biết. \"Bài báo của chúng tôi chỉ tập trung vào 36 thiên thể, nhưng chúng tôi còn có hàng nghìn dữ liệu khác đang trong quá trình phân tích. Tôi thực sự muốn biết vũ trụ giới hạn sự đa dạng của sao lùn nâu đến mức nào.\""
+    },
+    {
+     "t": "p",
+     "text": "\"Từ quỹ đạo, SPHEREx có thể thu được những bước sóng ánh sáng gần như không thể quan sát bằng kính viễn vọng đặt trên mặt đất, vì hơi nước trong khí quyển Trái Đất hấp thụ mất chúng,\" Rustamkulov nói. \"Chúng tôi đang thu nhận ánh sáng từ những đám mây đỏ thẫm sâu thẳm của các sao lùn nâu trên khắp bầu trời.\""
+    },
+    {
+     "t": "h",
+     "text": "Điểm ngọt"
+    },
+    {
+     "t": "p",
+     "text": "Việc tìm kiếm sao lùn nâu chỉ là một dự án phụ của SPHEREx. Kính viễn vọng không gian này chụp khoảng 3.600 bức ảnh riêng biệt mỗi ngày để ghép lại thành bản đồ toàn bộ bầu trời. Biết được hàng trăm triệu thiên hà phân bố như thế nào trong vũ trụ sẽ giúp các nhà khoa học dựng lại những gì đã xảy ra trong một phần tỷ tỷ tỷ giây đầu tiên sau vụ nổ Big Bang. Trong lúc quét qua bầu trời, kính viễn vọng này cũng đang tìm kiếm các thành phần hóa học của sự sống và phát hiện băng liên sao, loại băng mà một ngày nào đó có thể gieo mầm cho các đại dương trên những thế giới xa xôi."
+    },
+    {
+     "t": "p",
+     "text": "Trong nhiều năm qua, các sao lùn nâu đã được những đài quan sát khác phát hiện, bao gồm kính viễn vọng không gian James Webb và kính viễn vọng không gian Spitzer đã ngừng hoạt động của NASA. Nhưng nhờ khả năng bao phủ quang phổ của mình, SPHEREx giờ đây đang chụp ảnh hàng nghìn sao lùn nâu lần đầu tiên trong một vùng giàu dữ liệu của phổ điện từ, trải dài từ ánh sáng đỏ sẫm đến bước sóng hồng ngoại."
+    },
+    {
+     "t": "p",
+     "text": "Ở những bước sóng đó, các phân tử tạo ra những dấu vết hấp thụ ánh sáng đặc trưng khi ánh sáng chiếu ra ngoài không gian. Những dấu vết này thay đổi khi các sao lùn nâu già đi và nguội dần. Một số sao lùn nâu mà SPHEREx quan sát được đang ở giai đoạn biến đổi mạnh mẽ, khi những đám mây kỳ lạ của chúng mỏng dần đi, nhường chỗ cho bầu khí quyển giàu khí mê-tan (methane)."
+    },
+    {
+     "t": "p",
+     "text": "\"Các mô hình hiện đại nhất đang nắm bắt được xu hướng hóa học chung, nhưng khi nói đến những giai đoạn chuyển đổi của mây như thế này, các mô hình đang gặp khó khăn để khớp với dữ liệu thực tế,\" Rustamkulov cho biết. \"Không có hai sao lùn nâu nào giống nhau. Ngay cả ở cùng một nhiệt độ, quang phổ của chúng cũng trông khá khác biệt.\""
+    },
+    {
+     "t": "p",
+     "text": "\"Những phát hiện này là lời kêu gọi hành động để khám phá thêm nhiều thế giới tối tăm như vậy,\" Kirkpatrick nói. \"Hành trình này đã biến nhiều người trong chúng tôi thành những nhà khí tượng học bất đắc dĩ. Chúng tôi biết việc dự báo thời tiết trên chính hành tinh của mình đã khó đến mức nào, và chúng tôi nhận ra rằng việc giải thích những hiện tượng mà chúng tôi thấy ở những thiên thể lạnh lẽo, kỳ lạ này cũng sẽ khó khăn không kém.\""
+    },
+    {
+     "t": "h",
+     "text": "Thêm thông tin về SPHEREx"
+    },
+    {
+     "t": "p",
+     "text": "Nhiệm vụ này do JPL quản lý, thuộc Phòng Vật lý thiên văn (Astrophysics Division) trong Ban Giám đốc Sứ mệnh Khoa học tại Washington của NASA. Kính viễn vọng và thân tàu vũ trụ được chế tạo bởi BAE Systems. Việc phân tích khoa học dữ liệu của SPHEREx đang được thực hiện bởi một nhóm các nhà khoa học tại 13 cơ quan trên khắp nước Mỹ, Hàn Quốc và Đài Loan, do nhà nghiên cứu chính Jamie Bock dẫn đầu, người đang công tác tại Caltech với vị trí kiêm nhiệm tại JPL, và nhà khoa học dự án Olivier Doré của JPL. Dữ liệu được xử lý và lưu trữ tại IPAC, thuộc Caltech ở Pasadena. Caltech quản lý JPL cho NASA. Bộ dữ liệu của SPHEREx được cung cấp miễn phí cho các nhà khoa học và công chúng."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về nhiệm vụ SPHEREx, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/mission/spherex/"
+    },
+    {
+     "t": "p",
+     "text": "Calla Cofield, Phòng Thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory), Pasadena, California. Điện thoại: 626-808-2469. Email: calla.e.cofield@jpl.nasa.gov"
+    },
+    {
+     "t": "p",
+     "text": "Tác giả: Sally Younger"
+    },
+    {
+     "t": "p",
+     "text": "2026-069"
+    }
+   ]
+  },
+  {
+   "id": "0cac03c28d91",
+   "order": 19,
+   "slug": "kinh-vien-vong-webb-do-khoang-cach-toi-chop-song-vo-tuyen-nh",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Kính viễn vọng Webb đo khoảng cách tới chớp sóng vô tuyến nhanh xa nhất, gợi ý về nguồn gốc của nó",
+   "sapo": "Được phát hiện lần đầu năm 2007, các chớp sóng vô tuyến nhanh (fast radio burst) là những đợt phát sóng vô tuyến bí ẩn, chỉ kéo dài một phần nghìn giây, đến từ vũ trụ xa xôi. Nguồn gốc của chúng vẫn",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+   "published": "2026-10-08T18:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1392,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+   "images": [
+    {
+     "src": "img/2026-10-09/0cac03c28d91-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1115
+    },
+    {
+     "src": "img/2026-10-09/0cac03c28d91-0.jpg",
+     "caption": "Một vùng trời đầy những thiên hà nhỏ với nhiều hình dạng khác nhau, nổi bật trên nền đen của không gian. Vài ngôi sao sáng trắng có 8 tia sáng nhiễu xạ rõ rệt. Một thiên hà nhỏ ở góc dưới bên phải được đánh dấu bằng một khung trắng. Một hình tam giác mờ kéo dài lên tới các góc của một khung lớn hơn, cho thấy ảnh phóng to của vùng này. Hai đốm sáng xanh nhạt, mờ nằm ở giữa, với một đốm lớn và sáng hơn ở phía trên. Ngay trên đốm sáng phía trên là một dấu chữ thập trắng cho biết vị trí phát hiện ra chớp sóng vô tuyến nhanh.",
+     "w": 1280,
+     "h": 1114
+    },
+    {
+     "src": "img/2026-10-09/0cac03c28d91-1.jpg",
+     "caption": "Một hình đồ họa có tiêu đề \"Thiên hà chủ của chớp sóng vô tuyến nhanh; chớp sóng vô tuyến nhanh xa nhất; phổ kế trường tích hợp NIRSpec.\" Một biểu đồ thể hiện độ sáng của ánh sáng theo bước sóng. Trục y được ghi là độ sáng, với mũi tên hướng lên ghi \"sáng hơn\" và mũi tên hướng xuống ghi \"mờ hơn\". Trục x được ghi \"Bước sóng ánh sáng, micron\" và chạy từ 1,0 đến 5,0 với các mốc chia mỗi 0,5 micron. Một đường trắng gấp khúc đi xuống từ trái sang phải trong khoảng 1,0 đến 2,5 micron, và gần như nằm ngang sau đó. Một đỉnh nổi bật ở mức 1,6 micron được ghi là Oxy, với một dải màu xanh trong mờ theo chiều dọc. Một đỉnh khác ở mức 2,1 micron được ghi là Hydro, với một dải màu đỏ trong mờ theo chiều dọc. Ở góc trên bên phải, một khung chữ ghi \"Độ dịch chuyển đỏ (Redshift) = 2,148\".",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Được phát hiện lần đầu năm 2007, các chớp sóng vô tuyến nhanh là những đợt phát sóng vô tuyến bí ẩn, chỉ kéo dài một phần nghìn giây, đến từ vũ trụ xa xôi. Nguồn gốc của chúng vẫn chưa được xác định rõ, đặc biệt là vì hầu hết chỉ được quan sát một lần rồi không bao giờ xuất hiện lại. Các nhà thiên văn học sử dụng Kính viễn vọng Không gian James Webb của NASA đã xác định được chính xác thiên hà chủ của chớp sóng vô tuyến nhanh (fast radio burst - FRB) xa nhất từng được quan sát cho đến nay. Phát hiện này có ý nghĩa quan trọng đối với việc tìm hiểu loại sự kiện năng lượng nào đã tạo ra các chớp sóng này."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều khiến các chớp sóng vô tuyến nhanh trở nên thú vị là chúng ta không biết điều gì tạo ra chúng. Chúng ta có các giả thuyết về loại vật thể tạo ra chúng, nhưng chưa có bằng chứng xác đáng,\" cô Manisha Caleb thuộc Đại học Sydney, tác giả chính của nghiên cứu công bố hôm thứ Năm trên tạp chí Science, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu MeerTRAP đã sử dụng kính viễn vọng MeerKAT để phát hiện chớp sóng này vào ngày 4 tháng 3 năm 2024, và nó được đặt tên là FRB 20240304B. Dữ liệu sóng vô tuyến từ chớp sóng này cho thấy nó nằm ở khoảng cách rất xa, có thể là chớp sóng xa nhất từng được quan sát cho đến nay. Tuy nhiên, để xác nhận khoảng cách này, các nhà thiên văn cần nghiên cứu thiên hà chủ của nó. Mặc dù họ biết rất chính xác vị trí của FRB, các kính viễn vọng mặt đất lớn nhất thế giới vẫn không thể nhìn thấy bất kỳ thiên hà nào ở vị trí đó trên bầu trời. Vì vậy, nhóm nghiên cứu đã chuyển sang sử dụng kính viễn vọng Webb."
+    },
+    {
+     "t": "h",
+     "text": "Hình ảnh: FRB 20240304B (ảnh chụp từ NIRCam)"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị NIRCam (Camera Cận hồng ngoại) của kính Webb đã phát hiện ra một thiên hà đúng ở vị trí đó, và thiết bị NIRSpec (Phổ kế Cận hồng ngoại) đã đo chính xác độ dịch chuyển đỏ của thiên hà này: 2,148, tương ứng với thời điểm chỉ 3 tỉ năm sau vụ nổ lớn (big bang). Phần lớn các FRB được phát hiện cho đến nay xảy ra muộn hơn, hàng tỉ năm sau đó trong lịch sử vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu phát hiện ra rằng thiên hà chủ của FRB 20240304B không giống với các thiên hà khác từng phát ra FRB. Hầu hết các thiên hà có FRB là những thiên hà lớn, đang hình thành nhiều sao, nhưng thiên hà mà họ tìm thấy lại có khối lượng nhỏ hơn 1.000 lần so với dự đoán."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi nghĩ nó sẽ là một thiên hà lớn, hình thành đẹp đẽ với nhiều sao, nhưng thay vào đó lại là một thiên hà lùn nhỏ, tuy vẫn đang tích cực hình thành sao,\" cô Caleb cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Thiên hà chủ này rất khác biệt so với toàn bộ tập hợp các thiên hà mà chúng tôi có. Và nó chắc chắn không phải là điều chúng tôi mong đợi,\" ông Ben Stappers thuộc Đại học Manchester, Vương quốc Anh, đồng tác giả của nghiên cứu, cho biết. \"Việc kết hợp sử dụng dự án MeerTRAP trên kính viễn vọng MeerKAT để phát hiện và xác định vị trí của những chớp sóng xa xôi này, cùng với kính Webb để nghiên cứu thiên hà chủ của chúng, là một điều rất thú vị.\""
+    },
+    {
+     "t": "p",
+     "text": "Thiên hà này tồn tại vào đúng thời kỳ đỉnh điểm của \"buổi trưa vũ trụ\" (cosmic noon) - giai đoạn trong lịch sử vũ trụ khi quá trình hình thành sao đạt mức cao nhất. Tốc độ hình thành sao của thiên hà này cho thấy phần lớn các ngôi sao của nó có thể đã được hình thành chỉ trong vòng 30 triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Điều này có ý nghĩa quan trọng đối với nguồn gốc của các chớp sóng vô tuyến nhanh. Một giả thuyết cho rằng FRB có thể bắt nguồn từ sự sáp nhập của hai sao neutron. Tuy nhiên, quá trình hai sao neutron quay quanh nhau, dần tiến lại gần nhau hơn cho đến khi va chạm, được cho là sẽ mất hàng tỉ năm. Vì vậy, người ta dự đoán rằng các FRB sẽ gắn liền với những thiên hà già hơn, có các quần thể sao đã phát triển hơn."
+    },
+    {
+     "t": "p",
+     "text": "Giả thuyết thứ hai cho rằng một đợt sóng vô tuyến bí ẩn (FRB) có thể bắt nguồn từ một sao neutron (neutron star) đơn lẻ, còn non trẻ, có từ tính rất mạnh được gọi là sao từ (magnetar), thông qua một cơ chế như những cơn \"động đất sao\". Trong trường hợp đó, sau khi một ngôi sao khổng lồ phát nổ thành siêu tân tinh (supernova) và để lại một sao từ, FRB có thể xảy ra tương đối nhanh mà không có sự chậm trễ lớn về thời gian. Do đó, người ta cũng kỳ vọng sẽ tìm thấy các FRB ở những thiên hà còn trẻ hơn, giống như thiên hà chủ của FRB 20240304B."
+    },
+    {
+     "t": "p",
+     "text": "\"Nghiên cứu của chúng tôi cho thấy rất khó có khả năng FRB này được tạo ra bởi một vụ sáp nhập,\" Caleb cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Kết quả của chúng tôi còn cho thấy khả năng đáng kinh ngạc của kính Webb, khi chúng ta có thể vượt xa những giới hạn trước đây,\" đồng tác giả Themiya Nanayakkara, thuộc Đại học Sydney, Úc, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ lập kỷ lục, FRB mới này còn giúp nhóm nghiên cứu hiểu thêm về hàng tỷ năm ánh sáng của khoảng không gian tưởng như trống rỗng nằm giữa đợt sóng này và Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "\"Một đợt sóng vô tuyến nhanh giống như một chiếc đèn pin của vũ trụ. Nó chiếu sáng mọi thứ trên đường đi. Nó mang theo dấu ấn của mọi thứ mà nó đi qua, vì vậy ta có thể dùng nó để lập bản đồ 'mạng lưới vũ trụ' - những vật chất và cấu trúc vô hình mà nó gặp trên đường đi,\" đồng tác giả J. Xavier Prochaska thuộc Đại học California, Santa Cruz, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã phát hiện dấu ấn của hai cấu trúc vũ trụ trong tín hiệu của FRB này - một cụm thiên hà chưa từng được biết đến trước đó ở độ dịch chuyển đỏ (redshift) 0,3 (cách Trái Đất khoảng 3,5 tỷ năm ánh sáng), và Cụm Virgo gần hơn, nằm cách Trái Đất khoảng 54 triệu năm ánh sáng."
+    },
+    {
+     "t": "h",
+     "text": "Hình ảnh: Quang phổ của thiên hà chủ xa nhất chứa đợt sóng vô tuyến nhanh"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong tương lai, nhóm nghiên cứu rất hào hứng với khả năng phát hiện thêm nhiều FRB xa hơn nữa. Họ ước tính kính viễn vọng MeerKAT có thể phát hiện và xác định vị trí vài FRB mỗi năm ở độ dịch chuyển đỏ lớn hơn 1,0, nghĩa là chúng đã tồn tại từ hơn nửa quãng đường trở về thời điểm vũ trụ bắt đầu. Khi các cơ sở và thiết bị kính viễn vọng vô tuyến mới khác đi vào hoạt động, tốc độ phát hiện này có thể còn tăng lên. Kính Webb sẽ đóng vai trò thiết yếu trong việc tìm hiểu đặc điểm của những thiên hà chủ xa xôi đó."
+    },
+    {
+     "t": "p",
+     "text": "Kính viễn vọng không gian James Webb là đài quan sát khoa học vũ trụ hàng đầu thế giới. Webb đang giải mã những bí ẩn trong hệ Mặt Trời của chúng ta, nhìn xa hơn tới những thế giới xa xôi quay quanh các ngôi sao khác, và tìm hiểu những cấu trúc cùng nguồn gốc bí ẩn của vũ trụ cũng như vị trí của chúng ta trong đó. Webb là một chương trình quốc tế do NASA dẫn đầu, cùng với các đối tác là ESA (Cơ quan Vũ trụ châu Âu) và CSA (Cơ quan Vũ trụ Canada)."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về Webb, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/webb"
+    }
+   ]
+  },
+  {
+   "id": "9a6c23fcbde9",
+   "order": 20,
+   "slug": "bua-tiec-thinh-soan-cua-he-thong-sao-tho",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Bữa tiệc thịnh soạn của hệ thống Sao Thổ",
+   "sapo": "",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+   "published": "2026-10-08T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 269,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "The Saturn System Smörgåsbord",
+   "images": [
+    {
+     "src": "img/2026-10-09/9a6c23fcbde9-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 836
+    },
+    {
+     "src": "img/2026-10-09/9a6c23fcbde9-0.jpg",
+     "caption": "Sao Thổ nằm gần trung tâm bức ảnh. Các lớp khí quyển với nhiều màu sắc khác nhau hiện lên rất rõ. Vòng đai lớn của hành tinh này nghiêng so với trục ngang của bức ảnh. Các khoảng trống và những vệt nan hoa trong vòng đai cũng hiện rõ. Một vài mặt trăng của Sao Thổ xuất hiện như những đốm sáng mờ bao quanh hành tinh.",
+     "w": 1280,
+     "h": 836
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống Sao Thổ đã được chụp rõ nét như vậy bằng cách nào? Nhà chụp ảnh thiên văn Tom Williams đã ghi lại những chi tiết tinh xảo này nhờ một đêm có điều kiện khí quyển đặc biệt thuận lợi trên bầu trời nước Anh. Điều này không chỉ đơn giản là một bầu trời không mây. Những túi khí có nhiệt độ và mật độ khác nhau di chuyển và làm bẻ cong ánh sáng khi nó đi qua khí quyển Trái Đất, khiến hình ảnh thiên văn bị méo đi. Hiện tượng này được gọi là \"độ nhìn thấu\" (seeing). Khí quyển ít nhiễu động hơn thì hình ảnh sẽ rõ hơn. Nhà chụp ảnh đã giảm bớt ảnh hưởng của hiện tượng này bằng kỹ thuật chụp ảnh may mắn (lucky imaging): hàng nghìn bức ảnh phơi sáng ngắn được chụp rất nhanh bằng một máy ảnh tốc độ cao, sau đó những bức ảnh rõ nhất được ghép lại với nhau. Trong bữa tiệc thịnh soạn này, vật thể nào khiến em thích thú? Có thể là Titan hay những sọc băng của Enceladus? Hay có thể là các khoảng trống và vệt nan hoa trong vòng đai Sao Thổ? Thời điểm đối lập (opposition) của Sao Thổ, khi Trái Đất đi vào giữa hành tinh này và Mặt Trời, đã diễn ra vào ngày 4 tháng 10. Do hành tinh này ở gần Trái Đất và được Mặt Trời chiếu sáng toàn phần, đây chính là thời điểm tuyệt vời trong năm để quan sát nó! Hình ảnh ngày mai: lồi lõm."
+    }
+   ]
+  }
+ ]
+}

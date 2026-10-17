@@ -1,0 +1,3006 @@
+{
+ "date": "2026-10-10",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-10T11:16:20+07:00",
+ "sections": [
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  }
+ ],
+ "articles": [
+  {
+   "id": "5d13c2f1f44a",
+   "order": 1,
+   "slug": "dam-may-dai-1-600-km-xuat-hien-va-bien-mat-moi-ngay-tren-sao",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Đám mây dài 1.600 km xuất hiện và biến mất mỗi ngày trên Sao Hỏa",
+   "sapo": "Các nhà nghiên cứu phát hiện đám mây dài 1.600-1800 km xuất hiện lặp lại phía trên miệng núi lửa ở hành tinh đỏ hình thành do một quá trình chưa từng thấy trên Trái Đất.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/dam-may-dai-1-600-km-xuat-hien-va-bien-mat-moi-ngay-tren-sao-hoa-5130056.html",
+   "published": "2026-10-09T17:00:00+07:00",
+   "lang": "vi",
+   "score": 9,
+   "words": 776,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/5d13c2f1f44a-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    },
+    {
+     "src": "img/2026-10-10/5d13c2f1f44a-0.jpg",
+     "caption": "Đám mây Arsia Mons Elongated Cloud (AMEC) xuất hiện dọc một trong những núi lửa lớn nhất Sao Hỏa gần như mỗi ngày trong các tháng xuân hè. Ảnh: ESA",
+     "w": 750,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu phát hiện đám mây dài 1.600-1800 km xuất hiện lặp lại phía trên miệng núi lửa ở hành tinh đỏ hình thành do một quá trình chưa từng thấy trên Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Theo Live Science , khối mây bí ẩn mang tên Arsia Mons Elongated Cloud (AMEC), thường xuất hiện phía trên Arsia Mons, núi lửa đã tắt cao 20 km nằm ở vùng Tharsis, phía nam xích đạo Sao Hỏa. AMEC thường dài khoảng 1.600 km, thậm chí có thể kéo dài tới 1.800 km, khoảng 1/12 chu vi Sao Hỏa. Nó xuất hiện gần như mỗi buổi sáng trong suốt mùa xuân và mùa hè trên hành tinh, khi bức xạ mặt trời tăng cường gió mạnh ở mặt đất nhưng nó chỉ tồn tại vài giờ mỗi ngày, sau đó bốc hơi hoàn toàn."
+    },
+    {
+     "t": "p",
+     "text": "Trong bài báo công bố hôm 7/10 trên tạp chí Nature Geoscience , các nhà nghiên cứu sử dụng dữ liệu từ tàu bay quanh quỹ đạo Mars Express của Cơ quan Vũ trụ châu Âu để tạo ra mô phỏng mới nhằm lý giải sự tồn tại của AMEC. Ban đầu, họ gặp khó khăn trong việc tái tạo hiện tượng khó hiểu này. Nhưng sau khi bỏ qua các nguyên tắc khí tượng thông thường, họ đã tìm ra quá trình thúc đẩy AMEC hình thành."
+    },
+    {
+     "t": "p",
+     "text": "Gizmodo cho biết, tàu Mars Express phát hiện AMEC trên Sao Hỏa vào năm 2018. Kể từ sau đó, những đặc điểm kỳ lạ của nó liên tục khiến giới khoa học bối rối. Các quan sát từ vệ tinh cho thấy AMEC là mây địa hình, có nghĩa nó hình thành khi gió mạnh đẩy hơi nước bốc lên và di chuyển qua cấu trúc cao như đồi núi. Loại mây tương tự cũng tồn tại trên Trái Đất, như đám mây Levanter thỉnh thoảng hình thành trên mỏm đá Gibraltar ở miền nam châu Âu. Tuy nhiên, nỗ lực mô phỏng vẫn chưa thể tái tạo chính xác cách AMEC hình thành."
+    },
+    {
+     "t": "p",
+     "text": "Ở Trái Đất, mây hình thành qua một quá trình gọi là kết tinh dị thể, trong đó không khí ẩm lạnh đi và ngưng tụ thành tinh thể băng xung quanh các hạt nhỏ trong khí quyển như bụi, muối, phấn hoa hoặc bồ hóng. Tuy nhiên, dù khí quyển Sao Hỏa có nhiều bụi, quá trình đó không xảy ra. Jorge Hernández-Bernal, nhà khoa học hành tinh ở Đại học Basque Country, Tây Ban Nha, trưởng nhóm nghiên cứu, giải thích đối với AMEC, hơi nước chuyển trực tiếp thành hạt mây băng mà không cần bước trung gian nào. Họ gọi đây là \"kết tinh đồng thể\", quá trình chưa bao giờ gặp trong khí quyển của một hành tinh. Khi Hernández-Bernal và đồng nghiệp tích hợp quá trình kết tinh đồng thể vào mô hình khí tượng của Sao Hỏa, họ đã tái tạo thành công các đặc điểm độc đáo của AMEC."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo Discover Magazine , trước đây, giới nghiên cứu từng dự đoán kết tinh đồng thể có khả năng tồn tại trong tầng thượng quyển của Trái Đất hoặc trên Sao Kim. Tuy nhiên, điều này rất khó xảy ra do đòi hỏi độ ẩm cao gấp khoảng 100.000 lần so với bề mặt Trái Đất và càng không thể xuất hiện trên Sao Hỏa do hành tinh ngày nay gần như không có nước. Nhưng theo dữ liệu từ tàu Mars Express, khi gió thổi lên sườn núi Arsia Mons cao hơn gấp đôi đỉnh Everest, nó tạo ra một làn sóng mạnh đẩy không khí vào tầng thượng quyển với tốc độ lớn."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tính toán nhiệt độ của dòng khí này có thể giảm 30 độ C chỉ trong 10 phút, không chỉ làm cho nó dễ đóng băng mà còn tăng độ ẩm trong làn sóng, tạo điều kiện cho quá trình kết tinh đồng thể diễn ra. Nhóm của Hernández-Bernal cho rằng hơi nước một phần tồn tại trong khí quyển, một phần có thể bắt nguồn từ đỉnh Arsia Mons, được bao phủ bởi một lớp sương dày."
+    },
+    {
+     "t": "p",
+     "text": "Mô phỏng mới đánh dấu bước tiến lớn giúp tăng cường hiểu biết về AMEC và khí tượng Sao Hỏa. Tàu quỹ đạo Mars Express góp phần quan trọng vào phát hiện thông qua sử dụng 3 công cụ để lập bản đồ cách AMEC hình thành và phát triển mỗi ngày. Đây cũng là một trong những tàu vũ trụ Sao Hỏa duy nhất có thể quan sát đỉnh Arsia Mons vào ban ngày."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "aa7061b9de96",
+   "order": 2,
+   "slug": "nhung-cong-trinh-huyen-thoai-o-bach-khoa-ha-noi-70-nam-qua",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Những công trình 'huyền thoại' ở Bách khoa Hà Nội 70 năm qua",
+   "sapo": "Giải pháp rà phá thuỷ lôi và bom từ trường, đường dây 500 kV Bắc Nam hay vòm che máy bay chiến đấu bằng polyme composit là những công trình tiêu biểu đóng góp cho đất nước của Đại học Bách khoa Hà Nội.",
+   "author": "Dương Tâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nhung-cong-trinh-lam-nen-ten-tuoi-dai-hoc-bach-khoa-ha-noi-70-nam-qua-5130506.html",
+   "published": "2026-10-09T15:10:45+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 679,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/aa7061b9de96-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giải pháp rà phá thuỷ lôi và bom từ trường, đường dây 500 kV Bắc Nam hay vòm che máy bay chiến đấu bằng polyme composit là những công trình tiêu biểu đóng góp cho đất nước của Đại học Bách khoa Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Đại học Bách khoa Hà Nội (HUST) ngày 9/10 tổ chức triển lãm Thành tựu Khoa học Công nghệ và Đổi mới sáng tạo, với 180 sản phẩm, công trình tiêu biểu của các thế hệ thầy và trò."
+    },
+    {
+     "t": "p",
+     "text": "Tiêu biểu là công trình nghiên cứu các giải pháp rà phá thuỷ lôi từ tính và bom từ trường do cố GS. TSKH Vũ Đình Cự chủ trì, cùng các nhà khoa học và cộng sự từ Đại học Bách khoa Hà Nội và Bộ Giao thông vận tải."
+    },
+    {
+     "t": "p",
+     "text": "Công trình này được thực hiện vào năm 1972 trong điều kiện khó khăn, nhưng các nhà khoa học đã tìm ra nguyên lý hoạt động, cơ chế gây nổ, từ đó tạo ra nhiều thiết bị rà phá, làm vô hiệu hóa các khí tài này. Năm 1996, công trình được trao Giải thưởng Hồ Chí Minh."
+    },
+    {
+     "t": "p",
+     "text": "Cùng đó là công trình tính toán phục vụ thiết kế đường dây tải điện siêu cao áp 500 kV Bắc - Nam do GS Trần Đình Long, Lã Văn Út cùng các nhà khoa học bộ môn Hệ thống điện thực hiện. Những giải pháp kỹ thuật được đề xuất đã góp phần đưa công trình vào vận hành thành công, đặt dấu ấn Bách khoa trong quá trình xây dựng và phát triển hệ thống điện quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu khác là chế tạo vòm che máy bay bằng polyme composit sợi thuỷ tinh, nhẹ, rẻ, bền tương đương kết cấu thép, bê tông, phục vụ Quân chủng Phòng không Không quân. Công trình này do GS Trần Vĩnh Diệu và Trung tâm nghiên cứu Vật liệu polyme thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "53 mái vòm đã được lắp đặt trong giai đoạn 1995-2000. GS Trần Vĩnh Diệu được tặng danh hiệu Anh hùng Lao động năm 2000."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm công trình nổi bật còn có trạm bơm xăng Trường Sơn phục vụ chiến dịch Đường 9, Nam Lào; nghiên cứu chế tạo vòi phun bơm cao áp cho động cơ diesel; BKAV - Phần mềm diệt virus tiên phong tại Việt Nam; BKED - trình soạn thảo và xử lý tiếng Việt đầu tiên của Việt Nam..."
+    },
+    {
+     "t": "p",
+     "text": "GS Lê Anh Tuấn, Giám đốc Đại học Bách khoa Hà Nội, cho biết triển lãm không thể gói gọn tất cả đóng góp về khoa học công nghệ và đổi mới sáng tạo của trường. Tuy nhiên, những công trình, sản phẩm điển hình, có giá trị đều có mặt."
+    },
+    {
+     "t": "p",
+     "text": "Triển lãm cũng tái hiện công trình nghiên cứu của trường trong giai đoạn gần đây ở nhiều lĩnh vực như Điện, Điện tử, Viễn thông, Tự động hóa, Công nghệ thông tin, Cơ khí chế tạo, Hoá học, Vật liệu, Giáo dục..."
+    },
+    {
+     "t": "p",
+     "text": "\"Các công trình không chỉ đóng góp cho đất nước trong thời kỳ chiến tranh mà còn góp phần thúc đẩy phát triển kinh tế - xã hội thời kỳ hội nhập\", ông Tuấn nói, kỳ vọng các thế hệ sinh viên tiếp tục phát huy truyền thống, đóng góp mạnh mẽ hơn nữa cho sự phát triển đột phá khoa học công nghệ của quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "\"Em tự hào khi các thế hệ đi trước tại Bách khoa Hà Nội có những đóng góp to lớn cho đất nước\", Nguyễn Tuấn Minh, sinh viên năm thứ hai ngành Kỹ thuật Điện tử Viễn thông, chia sẻ. \"Đây là động lực để em sớm tham gia nghiên cứu khoa học nhằm hiểu biết sâu hơn về ngành học của mình\"."
+    },
+    {
+     "t": "p",
+     "text": "Đại học Bách khoa Hà Nội ra đời năm 1956, là trường đại học kỹ thuật đầu tiên của cả nước. Quy mô đào tạo của trường hiện khoảng 38.000 học viên, sinh viên, ở 160 chương trình từ bậc cử nhân đến tiến sĩ."
+    }
+   ]
+  },
+  {
+   "id": "07a755d870bc",
+   "order": 3,
+   "slug": "manga-nhu-one-piece-jojo-xung-dang-co-cho-dung-trong-cac-bao",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Manga như One Piece, Jojo xứng đáng có chỗ đứng trong các bảo tàng nghệ thuật",
+   "sapo": "Với hơn 650 tác phẩm của 10 họa sĩ manga Nhật Bản, triển lãm The Art of Manga tại Bảo tàng Brooklyn (Mỹ) mở ra góc nhìn mới, đồng thời khẳng định giá trị nghệ thuật của những trang vẽ đã chinh phục hàng triệu độc giả trên thế giới.",
+   "author": "TÔ CƯỜNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/manga-nhu-one-piece-jojo-xung-dang-co-cho-dung-trong-cac-bao-tang-nghe-thuat-100261009154026844.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 748,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/07a755d870bc-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/07a755d870bc-0.jpg",
+     "caption": "Tranh của họa sĩ Oda, tác giả manga One Piece, tại Bảo tàng Brooklyn trong khuôn khổ triển lãm The Art of Manga - Ảnh: Crunchyroll",
+     "w": 960,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-10/07a755d870bc-1.jpg",
+     "caption": "Từ những tác phẩm đơn giản đến các trang vẽ có kỹ thuật tinh xảo, manga thể hiện sự đa dạng về phong cách và khả năng biểu đạt, xứng đáng có vị trí trong các bảo tàng - Ảnh: Hirohiko Araki",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-10/07a755d870bc-2.jpg",
+     "caption": "Với hơn 650 tác phẩm gốc, sự kiện không chỉ tôn vinh những họa sĩ đứng sau các bộ truyện nổi tiếng mà còn đặt ra một thông điệp rõ ràng: nghệ thuật kể chuyện bằng hình ảnh không bị giới hạn bởi định dạng hay định kiến, và manga xứng đáng có chỗ đứng trong đời sống nghệ thuật đương đại - Ảnh: Jiro Taniguchi",
+     "w": 960,
+     "h": 692
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Diễn ra tại Bảo tàng Brooklyn đến ngày 31-1-2027, The Art of Manga giới thiệu hành trình sáng tạo của 10 họa sĩ, từ những tên tuổi đặt nền móng cho manga hiện đại trong thập niên 1960 đến các tác giả vẫn đang sáng tác."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì chỉ tập trung vào lịch sử phát triển của ngành truyện tranh Nhật Bản, triển lãm đưa bản vẽ gốc lên vị trí trung tâm, giúp công chúng khám phá kỹ thuật, phong cách kể chuyện và dấu ấn cá nhân của từng nghệ sĩ."
+    },
+    {
+     "t": "p",
+     "text": "Nicole Rousmaniere, giám tuyển chính của triển lãm, đồng thời là Phó giám đốc Bảo tàng Nghệ thuật MOA, cho rằng manga xứng đáng xuất hiện trong các bảo tàng nghệ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Theo bà, định kiến cho rằng truyện tranh không thuộc về không gian trưng bày nghệ thuật vẫn tồn tại ở một số nền văn hóa, nhưng điều đó không làm thay đổi giá trị của loại hình sáng tạo này."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bà kể lại trải nghiệm chứng kiến khách tham quan rơi nước mắt trước những bản vẽ manga tại Bảo tàng de Young ở San Francisco."
+    },
+    {
+     "t": "p",
+     "text": "Khoảnh khắc ấy giúp bà nhận ra sức mạnh cảm xúc của nghệ thuật kể chuyện bằng hình ảnh, đồng thời củng cố niềm tin rằng manga có thể tạo ra những trải nghiệm tương tự các loại hình nghệ thuật truyền thống."
+    },
+    {
+     "t": "h",
+     "text": "Manga và dấu ấn của từng họa sĩ"
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng thực hiện The Art of Manga được Rousmaniere phát triển qua nhiều năm nghiên cứu và tổ chức triển lãm."
+    },
+    {
+     "t": "p",
+     "text": "Sự kiện quy tụ hơn 650 tác phẩm, phần lớn thuộc sở hữu của chính các họa sĩ hoặc gia đình họ. Trong đó riêng Eiichiro Oda, tác giả One Piece , đóng góp 80 bản vẽ. Theo Rousmaniere, đây là cơ hội hiếm có để công chúng tiếp cận số lượng lớn bản vẽ nguyên tác của các tác giả manga trong cùng một không gian."
+    },
+    {
+     "t": "p",
+     "text": "Trailer giới thiệu triển lãm Art of Manga"
+    },
+    {
+     "t": "p",
+     "text": "Joan Cummins, Trưởng bộ phận giám tuyển và giám tuyển cao cấp nghệ thuật châu Á tại Bảo tàng Brooklyn, nhận định bản vẽ gốc mang lại cảm giác ấm áp và cá tính mà phiên bản in khó truyền tải trọn vẹn."
+    },
+    {
+     "t": "p",
+     "text": "Bà so sánh trải nghiệm ngắm những trang vẽ nguyên tác với việc thưởng thức một buổi biểu diễn âm nhạc trực tiếp, thay vì nghe bản thu âm. Cả hai đều có thể truyền tải cùng một tác phẩm, nhưng sự hiện diện của bản gốc đem đến cảm nhận khác biệt về đường nét, kỹ thuật và dấu ấn của người sáng tạo."
+    },
+    {
+     "t": "h",
+     "text": "Danh sách mangaka đồ sộ"
+    },
+    {
+     "t": "p",
+     "text": "Danh sách nghệ sĩ được lựa chọn phản ánh nhiều giai đoạn phát triển của manga. Fujio Akatsuka, nổi tiếng với truyện tranh hài, và Tetsuya Chiba, tác giả dòng truyện kể chuyện, đại diện cho giai đoạn manga định hình bản sắc riêng trong thập niên 1960-1970."
+    },
+    {
+     "t": "p",
+     "text": "Tác phẩm Ashita no Joe của Chiba và nhà văn Asao Takamori từng phản ánh tinh thần thời đại, những biến động xã hội và khát vọng của giới trẻ Nhật Bản."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các không gian còn lại lần lượt giới thiệu Rumiko Takahashi, Jiro Taniguchi, Mari Yamazaki, Hirohiko Araki, Fumi Yoshinaga, Gengoroh Tagame, Kazumi Yamashita và Eiichiro Oda ."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, triển lãm cho thấy manga không chỉ là sản phẩm giải trí mà còn có thể trở thành phương tiện lưu giữ ký ức lịch sử và di sản. Kazumi Yamashita, tác giả LAND, từng sử dụng truyện tranh để ghi lại quá trình vận động bảo tồn một tòa nhà cổ ở Setagaya, Tokyo. Công trình này được chuyển đổi thành không gian trưng bày manga, quán cà phê và cửa hàng vào năm 2024."
+    },
+    {
+     "t": "p",
+     "text": "Dù tương lai của The Art of Manga tại các bảo tàng khác vẫn chưa được xác nhận, hai giám tuyển hy vọng triển lãm sẽ giúp công chúng nhìn nhận manga bằng góc nhìn rộng mở hơn."
+    },
+    {
+     "t": "p",
+     "text": "Với Cummins và Rousmaniere, giá trị của manga nằm ở khả năng kết hợp hình ảnh, ngôn ngữ và cảm xúc để kể những câu chuyện có sức sống lâu dài. Từ các tác phẩm hài hước, phiêu lưu đến những câu chuyện về lịch sử, gia đình và bản dạng, triển lãm cho thấy sự phong phú của một loại hình nghệ thuật đã vượt khỏi biên giới Nhật Bản."
+    }
+   ]
+  },
+  {
+   "id": "8bea6efe7244",
+   "order": 4,
+   "slug": "tra-cho-doi-mot-sac-xanh",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Trả cho đời một sắc xanh",
+   "sapo": "Vượt qua biến cố, cựu chiến binh Nguyễn Thương chọn cách cống hiến bằng hành trình cần mẫn nhặt rác. Với ông, đó vừa là cách chiến thắng bệnh tật, vừa là hành trình thực hiện chữ “nghĩa” với quê hương.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tra-cho-doi-mot-sac-xanh-185260929103620861.htm",
+   "published": "2026-10-09T02:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1555,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/8bea6efe7244-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/8bea6efe7244-0.jpg",
+     "caption": "Chiếc xe đẩy tự chế cùng những thông điệp bảo vệ môi trường đã đồng hành cùng cựu chiến binh Nguyễn Thương trong nhiều năm liền",
+     "w": 1280,
+     "h": 959
+    },
+    {
+     "src": "img/2026-10-10/8bea6efe7244-1.jpg",
+     "caption": "Cựu chiến binh Nguyễn Thương đã dành 10 năm nhặt rác, bảo vệ môi trường ở Hội An",
+     "w": 1280,
+     "h": 807
+    },
+    {
+     "src": "img/2026-10-10/8bea6efe7244-2.jpg",
+     "caption": "Tấm biển mang thông điệp bảo vệ môi trường của cựu chiến binh Nguyễn Thương đặt dọc tuyến đường Cửa Đại",
+     "w": 1280,
+     "h": 1470
+    },
+    {
+     "src": "img/2026-10-10/8bea6efe7244-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 307
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dọc tuyến đường Cửa Đại (Hội An) dẫn ra biển, người đi đường dễ bắt gặp những tấm biển mang thông điệp bảo vệ môi trường: “Vì môi trường xanh. Chúng ta cùng chung tay giữ gìn môi trường xanh - sạch - đẹp. For a green environment, we join hands to preserve the environment” hay “Để chúng ta và con cháu được tận hưởng cuộc sống thiên nhiên trong lành. So that we and our children can enjoy a fresh natural life. Lời kêu gọi - Nguyễn Thương”."
+    },
+    {
+     "t": "p",
+     "text": "Sự tò mò về người dựng những tấm biển ấy thôi thúc chúng tôi tìm đến đường Phù Đổng Thiên Vương, nơi có căn nhà cấp bốn của ông Nguyễn Thương, cựu chiến binh đã dành 10 năm nhặt rác , góp phần giữ gìn môi trường ở Hội An ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Căn nhà nhỏ gây chú ý với những tấm biển xanh treo trước cổng. Bên hông cửa là chiếc xe đẩy nhặt rác đã cũ."
+    },
+    {
+     "t": "p",
+     "text": "Vợ ông Thương, bà Lê Thị Bảy, cho biết thời gian gần đây bệnh cũ của ông tái phát, có lúc đau đến mức gần như nằm liệt giường, đi lại rất khó khăn. May mắn là khi chúng tôi đến, sức khỏe ông đã có phần tốt hơn. Ông gượng dậy, chậm rãi bước từng bước rồi tìm bộ quần áo màu xanh đã cũ - bộ đồ quen thuộc ông thường mặc trong những lần rong ruổi nhặt rác ở Cửa Đại, An Bàng."
+    },
+    {
+     "t": "p",
+     "text": "Khoác lên mình màu áo ấy, người đàn ông gầy gò như lấy lại vẻ tự tin quen thuộc."
+    },
+    {
+     "t": "h",
+     "text": "Vượt lên nghịch cảnh"
+    },
+    {
+     "t": "p",
+     "text": "Ông Thương sinh năm 1960 tại Cửa Đại. Tháng 10.1978, ông lên đường nhập ngũ, thuộc Tiểu đoàn 70, Lữ đoàn 173, Bộ Chỉ huy Quân sự tỉnh Quảng Nam cũ, đóng quân tại đảo Cù Lao Chàm. Năm 1982, ông xuất ngũ trở về quê. Đến năm 1995, ông gia nhập Hội Cựu chiến binh phường."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2016, biến cố xảy đến. Khi đang làm phụ bếp tại khách sạn Sunrise, ông bất ngờ mệt mỏi rồi sốt cao. Nghĩ chỉ là cảm mạo thông thường, ông uống thuốc và tiếp tục đi làm. Nhưng bệnh không thuyên giảm, hai tai bắt đầu ù, đầu óc quay cuồng, chân tay tê liệt. Ông được xác định bị tai biến."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó, bệnh viện trở thành nơi ông gắn bó trong gần nửa năm. Khi gia đình đưa ông về nhà chăm sóc, niềm hy vọng gần như cạn kiệt."
+    },
+    {
+     "t": "p",
+     "text": "Trong những ngày ấy, câu nói của bác sĩ khiến ông nhớ mãi: “Nếu nằm một chỗ, chân tay sẽ bị liệt hoàn toàn”."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không muốn đầu hàng bệnh tật, ông bắt đầu tập luyện. Từ tập đứng, tập đi đến tập cầm nắm những vật nhỏ, ông kiên trì từng ngày. Sức khỏe dần hồi phục, đôi chân có thể bước đi, đôi tay bắt đầu cầm nắm trở lại."
+    },
+    {
+     "t": "p",
+     "text": "Khi sức khỏe khá lên, ông bắt đầu nghĩ đến việc nhặt rác. Nhìn những con đường còn nhiều rác thải, ông tự hỏi: “Tại sao mình không nhặt rác, vừa đi nhiều có sức khỏe, vừa bảo vệ môi trường?”."
+    },
+    {
+     "t": "p",
+     "text": "Ý nghĩ ấy trở thành lựa chọn gắn bó với ông suốt 10 năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu, ông không dám nói với người thân vì sợ mọi người lo lắng, ngăn cản. Khi trời còn chưa sáng, ông lặng lẽ ra khỏi nhà, xách bao đi dọc các con đường, nhặt từng túi ni lông, vỏ chai..."
+    },
+    {
+     "t": "p",
+     "text": "Rồi chuyện ông đi nhặt rác lan ra khắp xóm. Có người nghi ngờ di chứng của trận bệnh khiến ông không còn bình thường. Lời ra tiếng vào đến tai gia đình. Vợ và ba người con gái nhiều lần khuyên ông dừng lại vì lo sức khỏe."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng ông vẫn muốn tiếp tục. Ông tự nhủ còn sức thì còn cống hiến, rồi thuyết phục gia đình để được làm điều mình đã chọn."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ lại những ngày đầu, bà Bảy ngồi bên cạnh, kể rằng nhìn chồng vừa trải qua bệnh tật nhưng sáng sớm đã xách bao đi nhặt rác, bà và các con rất xót xa. Tuy nhiên, thấy ông kiên trì, sức khỏe dần tốt lên nhờ vận động và nhận ra đó là việc ông thực sự muốn làm, gia đình từ phản đối chuyển sang thấu hiểu, ủng hộ."
+    },
+    {
+     "t": "h",
+     "text": "Giữ trọn chữ \"nghĩa\" với quê hương"
+    },
+    {
+     "t": "p",
+     "text": "Có sự đồng hành của gia đình, sự động viên của chính quyền địa phương và Hội Cựu chiến binh , ông Thương càng yên tâm với công việc mình chọn."
+    },
+    {
+     "t": "p",
+     "text": "Từ khi bắt đầu nhặt rác, sinh hoạt của ông cũng thay đổi. Ông thường đi ngủ lúc 19 giờ và thức dậy lúc 2 giờ sáng để bắt đầu chuyến đi. Từ nhà, ông đạp xe đến khu vực khách sạn Victoria rồi xuống tận kè biển, nhặt những túi rác người dân bỏ lại từ chiều hôm trước, để sáng ra con đường sạch sẽ hơn."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 4 giờ sáng, ông trở về nhà phụ nấu nước, quét vườn, lau bàn ghế cho con gái bán cà phê. Đến tối, ông lại tiếp tục đẩy chiếc xe tự chế đi nhặt rác."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, ông đi khoảng 4 ngày mỗi tuần. Sau này, thấy môi trường sạch hơn, ông đi từ thứ hai đến thứ bảy. Chủ nhật là ngày nghỉ, nhưng nếu thấy khỏe, ông vẫn đi để gửi thông điệp bảo vệ môi trường đến mọi người."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tiền bán vỏ chai, vỏ lon thu gom được, ông dành dụm để làm chiếc xe đạp và chiếc xe đẩy phục vụ việc nhặt rác."
+    },
+    {
+     "t": "p",
+     "text": "Biết hoàn cảnh gia đình ông còn khó khăn, chính quyền địa phương từng đề nghị hỗ trợ kinh phí, trợ cấp hằng tháng cho công việc này. Ông từ chối, cho biết mình làm việc xuất phát từ cái tâm và mong muốn rèn luyện sức khỏe. Còn sức lực nào, ông muốn dành sức lực ấy để cống hiến cho quê hương, không muốn trở thành gánh nặng hay nhận sự ưu ái về tiền bạc từ Nhà nước."
+    },
+    {
+     "t": "p",
+     "text": "Sự kiên trì của ông qua năm tháng dần tạo nên thay đổi quanh mình. Từ tò mò, thậm chí có lúc mỉa mai, người dân và các tiểu thương dọc tuyến đường ra biển Cửa Đại bắt đầu thay đổi cách ứng xử với rác."
+    },
+    {
+     "t": "p",
+     "text": "Họ không còn tiện tay vứt rác ra đường. Nhiều người chủ động gom chai nhựa, vỏ lon để riêng cho ông. Khi thấy ông đi qua, thay vì xì xào, họ mỉm cười chào hỏi; có người còn nhắc nhở con cháu cùng giữ gìn vệ sinh chung."
+    },
+    {
+     "t": "p",
+     "text": "“Hai chiếc xe này sẽ cùng tôi đi hết khoảng đời còn lại. Khi nào còn sức khỏe thì tôi vẫn còn đi nhặt rác”, ông Thương nói, mắt nhìn về phía chiếc xe đẩy đang đứng trong sân."
+    },
+    {
+     "t": "p",
+     "text": "Sau 10 năm, những chuyến đi của người cựu chiến binh ấy vẫn tiếp tục. Không ồn ào, ông chọn cách góp sức cho quê hương bằng một công việc giản dị: nhặt lại những thứ người khác bỏ đi và trả cho phố phường một khoảng sạch hơn."
+    },
+    {
+     "t": "p",
+     "text": "C ựu chiến binh Nguyễn Thương đã nhận được nhiều biểu dương, khen thư ở ng:"
+    },
+    {
+     "t": "li",
+     "text": "Năm 2020: Thủ tướng Chính phủ tặng bằng khen \"Đã có thành tích xuất sắc trong lĩnh vực an sinh xã hội và tích cực tham gia các hoạt động vì cộng đồng, góp phần vào sự nghiệp xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc\"."
+    },
+    {
+     "t": "li",
+     "text": "Bộ Lao động - Thương binh và Xã hội trao tặng cúp biểu trưng \"Những gương sáng thầm lặng vì cộng đồng\"."
+    },
+    {
+     "t": "li",
+     "text": "Chủ tịch UBND TP.Hội An tặng giấy khen \"Đã có thành tích trong việc lãnh đạo, tham mưu và triển khai thực hiện phong trào thi đua Dân vận khéo giai đoạn 2009-2024\"."
+    },
+    {
+     "t": "li",
+     "text": "Ban Chấp hành Hội Cựu chiến binh tỉnh Quảng Nam tặng bằng khen \"Đã có thành tích xuất sắc trong thực hiện công tác hội và phong trào thi đua \"Cựu chiến binh gương mẫu\" giai đoạn 2019 – 2024\"; cùng nhiều khen thưởng khác."
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "33cad8f20ffa",
+   "order": 5,
+   "slug": "cau-be-15-tuoi-lay-bang-tien-si-muon-tao-co-quan-nhan-tao-de",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cậu bé 15 tuổi lấy bằng tiến sĩ, muốn tạo cơ quan nhân tạo để ông bà sống lâu hơn",
+   "sapo": "Thần đồng Laurent Simons với IQ 145 đã nhận bằng cử nhân lúc 11 tuổi và bảo vệ tiến sĩ lúc 15 tuổi. Từ nhỏ, cậu đã muốn tạo ra các bộ phận cơ thể nhân tạo để giúp những người mắc bệnh tim như ông bà mình.",
+   "author": "HOÀNG THI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cau-be-15-tuoi-lay-bang-tien-si-muon-tao-co-quan-nhan-tao-de-ong-ba-song-lau-hon-100261009172617953.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 929,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/33cad8f20ffa-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/33cad8f20ffa-0.jpg",
+     "caption": "Laurent Simons vào năm 10 tuổi - Ảnh: DE MORGEN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/33cad8f20ffa-1.jpg",
+     "caption": "Laurent Simons và cha mẹ - Ảnh: CNN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/33cad8f20ffa-2.jpg",
+     "caption": "Laurent Simons khi thực tập tại Đức năm 2022 - Ảnh: MAX PLANCK",
+     "w": 1280,
+     "h": 827
+    },
+    {
+     "src": "img/2026-10-10/33cad8f20ffa-3.jpg",
+     "caption": "Laurent Simons ở tuổi 15, có bằng tiến sĩ đầu tiên - Ảnh: DE STANDAARD",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tháng 5 vừa qua, thần đồng Laurent Simons (sinh năm 2009) có tên trong nhóm tác giả một nghiên cứu đăng trên tạp chí Nature , dùng AI phân tích ảnh toàn cơ thể chuột để tìm hiểu những thay đổi liên quan đến béo phì."
+    },
+    {
+     "t": "p",
+     "text": "Đây là bước tiếp theo trên hành trình nghiên cứu của Simons. Sau khi bảo vệ tiến sĩ vật lý tại Đại học Antwerp (Bỉ), Laurent đang làm nghiên cứu tiến sĩ thứ hai về y học tại Đức, tiếp tục tìm hiểu cơ thể con người."
+    },
+    {
+     "t": "h",
+     "text": "Ông bà nhận ra khả năng 'thần đồng' của cháu"
+    },
+    {
+     "t": "p",
+     "text": "Thuở nhỏ, Laurent sống với ông bà tại Ostend, thành phố ven biển của Bỉ, do cha mẹ bận đi làm ở Hà Lan. Cha cậu là nha sĩ, mẹ làm trợ lý nha khoa . Chính ông bà là người đầu tiên nói cháu có khả năng học khác thường."
+    },
+    {
+     "t": "p",
+     "text": "Cha mẹ ban đầu nghĩ ông bà nói quá, nhưng đến khi Laurent đi học, giáo viên cũng bất ngờ. Cậu làm được rất nhanh những bài kiểm tra dành cho học sinh lớn hơn. Thầy cô bắt đầu thêm kiến thức theo khả năng tiếp thu của cậu."
+    },
+    {
+     "t": "p",
+     "text": "Laurent vào tiểu học lúc 4 tuổi, hoàn thành chương trình khi 6 tuổi rồi học tiếp trung học. Đến năm 2019, cậu bé 9 tuổi đã ngồi trên giảng đường Đại học Công nghệ Eindhoven (Hà Lan), học kỹ thuật điện."
+    },
+    {
+     "t": "p",
+     "text": "Khi trả lời Reuters tháng 11 năm ấy, Laurent ôm chú chó con Sammy rồi giải thích dự án đang tham gia, gồm các công đoạn mô phỏng một phần não trên chip, bố trí các tế bào thần kinh và kết nối để xem chúng phản ứng với thuốc ra sao."
+    },
+    {
+     "t": "p",
+     "text": "Cậu nói muốn học tiến sĩ, học thêm y. Ngoài giờ học, Laurent thích dắt chó đi dạo và chơi trò chơi điện tử. Khi được hỏi vì sao muốn làm các bộ phận cơ thể nhân tạo, cậu trả lời ông bà mình mắc bệnh tim."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Khả năng học nhanh khiến Laurent được một số báo gọi là \"Einstein nhí\". Trong bài viết năm 2022, Viện Quang học lượng tử Max Planck ghi cậu có IQ ít nhất 145. Cũng theo viện, Laurent đã dự khoảng 10 kỳ thi thạc sĩ trong ba tháng trước đó."
+    },
+    {
+     "t": "p",
+     "text": "Gia đình phải thu xếp lại cuộc sống để đi cùng con. Năm 2019, cha mẹ nói đang bán phòng khám tại Rotterdam để dành thời gian cho Laurent. Cậu có thể hiểu kiến thức đại học , nhưng vẫn cần người đưa đón mỗi ngày."
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm ấy, báo chí chờ tin Laurent nhận bằng trước sinh nhật 10 tuổi. Nhưng cậu rời Đại học Công nghệ Eindhoven khi chưa tốt nghiệp. Nhà trường nói cậu còn phải làm thêm vài kỳ thi, đề nghị kéo dài lịch học đến giữa năm 2020. Gia đình không chấp nhận."
+    },
+    {
+     "t": "p",
+     "text": "Laurent chuyển sang học vật lý tại Đại học Antwerp. Tháng 7-2021, cậu nhận bằng cử nhân lúc 11 tuổi với điểm 85%, mức xếp loại cao nhất. Số tín chỉ đã học ở đại học cũ giúp cậu được rút ngắn chương trình khi sang trường mới."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian ấy, Laurent cũng học thêm một số môn thạc sĩ. Năm 2022, cậu nhận bằng thạc sĩ ở tuổi 12."
+    },
+    {
+     "t": "h",
+     "text": "Muốn giúp cả ông bà của những đứa trẻ khác"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với Laurent, học tiếp là cách tìm hiểu sâu hơn những điều mình còn muốn biết. Trong cuộc phỏng vấn với Hãng tin EFE năm 2021, cậu giải thích muốn học nhiều ngành để kết nối kiến thức, tìm cách tạo ra những bộ phận có thể thay thế bộ phận cơ thể người."
+    },
+    {
+     "t": "p",
+     "text": "Do ông bà mình mắc bệnh tim, Laurent nghĩ đến ông bà của những đứa trẻ khác, muốn các bạn ấy có thể sống an vui lâu hơn với ông bà của mình. Laurent gọi mục tiêu ấy là \"bất tử\", dù thừa nhận chưa biết sẽ đạt được bằng cách nào."
+    },
+    {
+     "t": "p",
+     "text": "Khi 11 tuổi, cậu đã thực tập tại Munich (Đức), tìm hiểu cách chuẩn bị mẫu, phân tích thành phần phân tử trong máu bằng quang phổ hồng ngoại và công nghệ laser phục vụ y học. Kết thúc đợt thực tập, cậu nói muốn ở lại lâu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 1-2025, Laurent bắt đầu học tiến sĩ thứ hai về y học, trong khi vẫn hoàn thành luận án vật lý. Tháng 11 cùng năm, cậu bảo vệ thành công tiến sĩ tại Antwerp, lúc 15 tuổi. Trước đó, Laurent đã đứng tên đầu một bài nghiên cứu đăng trên Physical Review Research ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình làm tiến sĩ, cậu còn giảng cho sinh viên thạc sĩ lớn tuổi hơn mình. Khi báo Khrono hỏi có hồi hộp không, Laurent giải thích mình nắm được nội dung nên không lo. Cậu thấy việc giảng dạy thú vị."
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi ấy, Laurent vẫn đang niềng răng, thích lái xe kart, chơi game và xem phim hành động cùng gia đình. Cha mẹ giúp thu xếp các chuyến đi. Cậu có thể đi máy bay một mình, nhưng cần người đón ở sân bay."
+    },
+    {
+     "t": "p",
+     "text": "Thời COVID-19, Laurent và bạn bè gọi video, mỗi người ở nhà rồi cùng bấm bắt đầu một bộ phim."
+    },
+    {
+     "t": "p",
+     "text": "Và cậu vẫn chờ các bạn hết bài tập, thi cử để chơi cùng. Những cuộc hẹn ấy vẫn diễn ra theo... giờ học của bạn bè, dù Laurent đã học trước các bạn nhiều năm."
+    }
+   ]
+  },
+  {
+   "id": "a9c043258745",
+   "order": 6,
+   "slug": "tu-duong-nguoc-chieu-den-hanh-trinh-tro-ve-danh-thuc-gia-tri",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từ 'đường ngược chiều' đến hành trình trở về đánh thức giá trị bản làng",
+   "sapo": "Tôi biết đến Chảo Yến qua cuốn Đường ngược chiều - Từ bản người Dao đến học bổng Erasmus và ấn tượng với nghị lực của cô gái người Dao Tuyển đã vượt qua nhiều giới hạn để tìm đến tri thức. Dõi theo Yến sau những năm tháng du học, tôi càng trân trọng lựa chọn trở về, dùng điều đã học để kết nối và lan tỏa những giá trị của bản làng.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tu-duong-nguoc-chieu-den-hanh-trinh-tro-ve-danh-thuc-gia-tri-ban-lang-18526100921303764.htm",
+   "published": "2026-10-10T01:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1597,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/a9c043258745-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/a9c043258745-0.jpg",
+     "caption": "Cuốn Đường ngược chiều - Từ bản người Dao đến học bổng Erasmus của tác giả Chảo Yến, kể về hành trình vượt khó tìm đến tri thức của cô gái người Dao Tuyển đưa tôi đến với câu chuyện đầy nghị lực của Yến",
+     "w": 1080,
+     "h": 1720
+    },
+    {
+     "src": "img/2026-10-10/a9c043258745-1.jpg",
+     "caption": "Chảo Yến đóng quýt gửi tới người tiêu dùng, hiện thực hóa mong muốn kết nối nông sản “từ bản đến bàn”",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-10/a9c043258745-2.jpg",
+     "caption": "Yến tại chương trình Giao lưu hữu nghị thanh niên và giao lưu kinh tế thương mại doanh nghiệp trẻ giữa tỉnh Lào Cai (VN) và châu Hồng Hà (Trung Quốc)",
+     "w": 1280,
+     "h": 1472
+    },
+    {
+     "src": "img/2026-10-10/a9c043258745-3.jpg",
+     "caption": "Yến cùng các học viên trong chương trình tập huấn áp dụng công nghệ số trong nông nghiệp tại Sa Pa, Lào Cai",
+     "w": 1280,
+     "h": 1265
+    },
+    {
+     "src": "img/2026-10-10/a9c043258745-4.jpg",
+     "caption": "Bằng khen của T.Ư Đoàn ghi nhận những đóng góp của Chảo Thị Yến trong khởi nghiệp, lập nghiệp và phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số, miền núi năm 2025",
+     "w": 1280,
+     "h": 1077
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Cô gái dám đi ngược chiều để chạm tới bầu trời"
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra trong gia đình đông con người Dao Tuyển ở vùng cao Bát Xát, Lào Cai, tuổi thơ Chảo Yến gắn với cái nghèo và những ngày đến trường đầy nhọc nhằn. Trường lớp xa xôi, con đường đi học phải trèo đèo, lội suối, trong khi cuộc sống gia đình còn bộn bề thiếu thốn khiến việc học trở thành hành trình không dễ theo đuổi đến cùng. Anh chị em của Yến lần lượt phải bỏ học, còn cô cũng có 3 năm rời xa trường lớp, tưởng như con đường học hành sẽ dừng lại giữa những ngọn núi quê mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Yến không chấp nhận để việc học kết thúc như một điều đã được định sẵn. Cô thuyết phục gia đình cho mình trở lại trường, bắt đầu lại sau 3 năm dang dở. Với tôi, \"đường ngược chiều\" của Yến bắt đầu từ chính lựa chọn ấy: khi hoàn cảnh đẩy mình rời xa lớp học, cô tìm cách quay trở lại; khi cái nghèo và những giới hạn quanh mình có thể khiến một cô gái vùng cao bằng lòng với con đường quen thuộc, cô lại muốn đi xa hơn bằng tri thức."
+    },
+    {
+     "t": "p",
+     "text": "Từ những ngày phải giành lấy cơ hội được học, Yến từng bước vào ĐH rồi giành học bổng Erasmus Mundus trị giá 50.000 USD để học thạc sĩ tại châu Âu. Trong sách, câu nói của người bạn tên Hoàng: \"Đừng tự hào mình nghèo mà học giỏi, mà hãy tự hỏi vì sao mình học giỏi mà vẫn nghèo\" đã khiến Yến nghĩ về \"tri thức sống\" - kiến thức không chỉ nằm trong điểm số mà phải tạo ra những thay đổi thực sự cho cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Trước chuyến bay sang châu Âu, Yến viết: \"Chỉ cần tôi bước lên máy bay, con đường tôi đi sẽ không còn là đường ngược chiều nữa, mà nó là bầu trời\". Tôi nhớ mãi câu ấy, bởi phía sau chuyến bay không chỉ là một suất học bổng, mà là thành quả của biết bao năm Yến kiên trì lựa chọn một lối đi không dễ dàng. Từ cô bé người Dao Tuyển nơi vùng cao Bát Xát đến ngày bước lên chuyến bay thực hiện ước mơ là một hành trình dài. Và có lẽ chính sự bền bỉ không chịu khuất phục ấy đã đưa Yến từ \"đường ngược chiều\" chạm tới bầu trời."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Mang tri thức về bản"
+    },
+    {
+     "t": "p",
+     "text": "Sau thời gian học tập ở châu Âu , Chảo Yến trở về VN, làm những công việc liên quan đến phát triển cộng đồng, con người và thiên nhiên, rồi thử sức với du lịch sinh thái. Những trải nghiệm ấy cũng khiến cô nghĩ nhiều hơn về việc mình có thể làm gì cho quê hương."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, sau khi tham dự Hội nghị Thủ tướng Chính phủ đối thoại với nông dân, Yến tự hỏi: Tại sao những người khác có thể nâng tầm sản phẩm của đồng bào dân tộc thiểu số, còn mình, một người sinh ra từ chính cộng đồng ấy, lại không làm được?"
+    },
+    {
+     "t": "p",
+     "text": "Tháng 7.2023, Yến trở thành Giám đốc Hợp tác xã Tri thức - Bản địa Goong. \"Goong\" trong tiếng Dao có nghĩa là \"tốt đẹp\". Khởi đầu với 9 hộ gia đình bản địa, hợp tác xã hướng đến các sản phẩm gắn với nông sản , dược liệu, thuốc Nam và vốn tri thức của người Dao. Miến sâm đất, mật ong rừng, lá tắm, các sản phẩm thảo dược… từ bản làng được tìm thêm những con đường để đến gần người tiêu dùng."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Yến tự học quay phim, dựng video, livestream để giới thiệu sản phẩm, đồng thời hướng dẫn một số bạn trẻ địa phương sử dụng công nghệ phục vụ công việc và mưu sinh. Tri thức không còn chỉ giúp cô bước ra thế giới, mà trở thành phương tiện kết nối sản vật quê hương với những cơ hội mới."
+    },
+    {
+     "t": "p",
+     "text": "Cái tên \"Tri thức - Bản địa\" cũng gợi đúng hướng đi ấy: một bên là kiến thức, kỹ năng Yến tích lũy qua những năm tháng đi xa; một bên là kinh nghiệm, cây thuốc, sản vật và vốn sống của người dân. Những giá trị vốn có của bản làng, khi được kết nối bằng những cách làm mới, có thêm cơ hội bước ra ngoài những ngọn núi."
+    },
+    {
+     "t": "p",
+     "text": "Ngày trước, Yến học để mở đường cho mình. Sau những năm tháng đi xa, tri thức lại theo cô trở về bản. Và từ thực tế, cô dần hiểu rằng muốn tạo giá trị cho cộng đồng, điều quan trọng không chỉ là mình biết gì, mà còn là người dân thực sự cần gì."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Để giá trị bản làng đi xa"
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến tôi chú ý ở Chảo Yến còn là cách cô thay đổi sau những va chạm với thực tế. Từng tập huấn chuyển đổi số cho nông dân, Yến cũng tin đưa nông sản lên sàn thương mại điện tử sẽ mở thêm cơ hội. Nhưng càng tiếp xúc, cô càng nhận ra người dân đã có thế mạnh: hiểu đất, hiểu cây, hiểu mùa vụ và làm ra sản phẩm tốt. Trong khi đó, vận hành gian hàng, xử lý đơn, phí sàn, thuế phí lại là những việc không phải ai cũng phù hợp. \"Đưa lên để làm gì?\", Yến tự hỏi. Không muốn \"tô màu\" cho những điều chưa phù hợp thực tế, cô quyết định không tiếp tục đứng những lớp như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Yến vẫn dùng công nghệ để giới thiệu sản phẩm, nhưng không cho rằng người nông dân phải tự làm tất cả mới là bắt kịp thời đại. \"Đừng cố bắt con cá leo cây\", cô ví von. Người giỏi trồng cây hãy làm ra sản phẩm tốt, người có khả năng kết nối tìm đầu ra, người biết truyền thông kể câu chuyện sản phẩm. Mỗi người phát huy thế mạnh của mình rồi kết nối với nhau. Tôi thích cách nghĩ ấy bởi đó không chỉ là phương pháp làm việc, mà còn là sự tôn trọng giá trị của mỗi người."
+    },
+    {
+     "t": "p",
+     "text": "Từ cách làm đó, Yến dùng hình ảnh, video, mạng xã hội để đưa sản vật đến gần người tiêu dùng và kể câu chuyện về con người, vùng đất phía sau chúng. Cùng với nông sản, những nét văn hóa của người Dao Tuyển từ trang phục, ẩm thực đến phong tục, đời sống cũng được giới thiệu rộng rãi hơn. Điều đi ra khỏi bản vì thế không chỉ là sản phẩm mà còn là những giá trị văn hóa và tri thức bản địa."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Hiệu quả không chỉ nằm ở việc sản phẩm có thêm cơ hội tiếp cận thị trường, mà còn là các hộ dân có thêm kênh kết nối đầu ra, một số bạn trẻ địa phương được tiếp cận kỹ năng công nghệ phục vụ công việc và mưu sinh, sản vật và văn hóa người Dao có thêm cơ hội được biết đến. Người dân không phải rời bỏ điều mình giỏi để chạy theo một mô hình mới; chính thế mạnh của họ trở thành điểm xuất phát để tạo thêm giá trị."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 11.2025, Chảo Thị Yến được T.Ư Đoàn tặng bằng khen vì có thành tích xuất sắc, tiêu biểu trong khởi nghiệp, lập nghiệp, góp phần phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi. Sự ghi nhận ấy là một dấu mốc, nhưng điều khiến tôi trân trọng hơn là cách Yến lựa chọn tạo giá trị: không làm thay, không áp đặt, mà để mỗi người phát huy điều mình làm tốt."
+    },
+    {
+     "t": "p",
+     "text": "Từ một cô gái vùng cao nỗ lực tìm con đường thay đổi cuộc đời mình, Chảo Yến hôm nay đang dùng tri thức, trải nghiệm và khả năng kết nối để tạo thêm giá trị cho quê hương. Điều đáng quý trong hành trình ấy không chỉ là đi được bao xa hay đạt được những gì, mà là sau những thành công của riêng mình, Yến vẫn chọn trở về, lắng nghe người dân, trân trọng thế mạnh của mỗi người và góp sức để những sản vật, tri thức, văn hóa bản địa được biết đến nhiều hơn. Có lẽ sống đẹp đôi khi bắt đầu giản dị như thế."
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    }
+   ]
+  },
+  {
+   "id": "a03ce7774f7b",
+   "order": 7,
+   "slug": "tu-giang-vien-tuoi-19-den-cuoc-dau-tri-voi-bom-tu-truong-cua",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Từ giảng viên tuổi 19 đến 'cuộc đấu trí' với bom từ trường của Mỹ",
+   "sapo": "Năm 19 tuổi, GS Nguyễn Nguyên Phong trở thành một trong những giảng viên trẻ nhất Đại học Bách khoa Hà Nội. 15 năm sau, ông cùng cộng sự bước vào cuộc chạy đua khoa học.",
+   "author": "VietNamNet News",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/tu-giang-vien-tuoi-19-den-cuoc-dau-tri-voi-bom-tu-truong-cua-my-2563384.html",
+   "published": "2026-10-10T00:30:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1115,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/a03ce7774f7b-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-10/a03ce7774f7b-0.jpg",
+     "caption": "GS Nguyễn Nguyên Phong, nguyên giảng viên của Đại học Bách khoa Hà Nội. Ảnh: Phạm Hải",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/a03ce7774f7b-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 895
+    },
+    {
+     "src": "img/2026-10-10/a03ce7774f7b-2.jpg",
+     "caption": "Xác bom từ trường Mỹ. Ảnh: Phạm Hải",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/a03ce7774f7b-3.jpg",
+     "caption": "",
+     "w": 500,
+     "h": 356
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Năm 1957, sau khi tốt nghiệp chuyên ngành Vật lý của trường Sư phạm, ở tuổi 19, chàng trai trẻ Nguyễn Nguyên Phong về công tác tại Đại học Bách khoa Hà Nội. Gắn bó với trường gần bốn thập kỷ, ông là thế hệ cán bộ giảng dạy Vật lý đầu tiên tại Bách khoa."
+    },
+    {
+     "t": "p",
+     "text": "Những năm đầu công tác, ông có cơ hội tiếp cận với nền khoa học tiên tiến thông qua các chuyến học tập và nghiên cứu ở nước ngoài. Giai đoạn 1961-1963, ông được cử sang Liên Xô thực tập. Từ năm 1966-1970, ông làm cộng tác viên khoa học tại Viện Liên hiệp Nghiên cứu Hạt nhân Dubna, một trung tâm nghiên cứu vật lý hạt nhân hàng đầu thời bấy giờ. Trở về nước năm 1970, ông tham gia xây dựng bộ môn Kỹ thuật Hạt nhân tại Đại học Bách khoa Hà Nội."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm 1972, Mỹ tiến hành phong tỏa cảng Hải Phòng cùng nhiều cửa sông, cửa biển trọng yếu ở miền Bắc bằng thủy lôi từ tính và bom từ trường."
+    },
+    {
+     "t": "p",
+     "text": "Trước tình hình đó, Bộ trưởng Giao thông Vận tải Phan Trọng Tuệ phối hợp với Bộ trưởng Đại học và Trung học chuyên nghiệp Tạ Quang Bửu tập hợp lực lượng trí thức, nhà khoa học để nghiên cứu, tìm giải pháp đối phó với các loại vũ khí công nghệ cao của Mỹ."
+    },
+    {
+     "t": "p",
+     "text": "Cuối tháng 5/1972, tổ nghiên cứu đặc nhiệm GK1 được thành lập tại Đại học Bách khoa Hà Nội, do GS Vũ Đình Cự làm tổ trưởng. Nhóm quy tụ các chuyên gia thuộc nhiều lĩnh vực như vật lý, vô tuyến điện tử và tự động hóa, trong đó có GS Nguyễn Nguyên Phong và PGS Nguyễn Xuân Chánh."
+    },
+    {
+     "t": "p",
+     "text": "“Khi ấy, mật danh GK1 được đặt nhằm bảo đảm bí mật cho nhiệm vụ, trong đó 'G' là Giao thông, 'K' là Bách khoa. Yêu cầu đặt ra với nhóm là phải nghiên cứu được nguyên lý hoạt động của thủy lôi từ tính và bom từ trường, từ đó tìm ra phương án chế tạo thiết bị rà phá hiệu quả”, GS Phong nhớ lại."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, lực lượng rà phá đã xử lý được nhiều quả bom, thủy lôi nhưng chưa nắm chắc cơ chế hoạt động. Muốn hạn chế thương vong, các nhà khoa học phải hiểu rõ cách thức những loại vũ khí này phát hiện mục tiêu và kích nổ."
+    },
+    {
+     "t": "p",
+     "text": "“Đồng đội của tôi phá bom từ trường, ngày hôm trước còn đang thảo luận với nhau, ngày hôm sau có thể đã hy sinh, thậm chí chỉ tìm được… hai chiếc răng. Trước tình thế ấy, làm sao chúng tôi có thể ngồi yên”, ông kể."
+    },
+    {
+     "t": "p",
+     "text": "Sáu thành viên đầu tiên của nhóm được giao thực hiện công việc trong điều kiện thời chiến, với sự hỗ trợ đặc biệt từ Bộ trưởng Tạ Quang Bửu. Theo GS Phong, Bộ trưởng cho phép nhóm sử dụng thiết bị của bất kỳ trường đại học nào nếu cần thiết cho nghiên cứu."
+    },
+    {
+     "t": "p",
+     "text": "Dù được tạo điều kiện huy động phương tiện, các nhà khoa học vẫn phải làm việc trong hoàn cảnh vô cùng thiếu thốn."
+    },
+    {
+     "t": "p",
+     "text": "“Có giai đoạn, chúng tôi ba đêm liền không ngủ, làm việc rất nghiêm chỉnh vì hiểu những gì mình đang làm liên quan đến tính mạng con người. Vì thế cái gì không hiểu, chúng tôi nghiên cứu đến tận cùng."
+    },
+    {
+     "t": "p",
+     "text": "Chúng tôi thường đùa với nhau, đây là cuộc đấu trí, đấu khoa học kỹ thuật, nhưng điều kiện nghiên cứu giữa hai bên quá chênh lệch”, GS Phong nhớ lại."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Dẫu vậy, nhóm vẫn kiên trì tìm nguyên lý hoạt động. Sau ba tháng nghiên cứu khẩn trương, nhóm đã nắm được cơ bản cơ chế hoạt động của thủy lôi từ tính và bom từ trường."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm ra cách vô hiệu hóa các loại vũ khí, nhóm tiến hành phân tích những quả bom, thủy lôi được đưa từ Hải Phòng về Hà Nội, nghiên cứu cơ chế gây nổ, đồng thời tổ chức thực nghiệm tại Hải Phòng và sân bóng Đại học Bách khoa Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Từ kết quả nghiên cứu, nhóm thiết kế và chế tạo nhiều loại khí tài, trong đó có thiết bị tạo xung từ trường để kích nổ bom mìn từ xa, máy gây nhiễu nhằm vô hiệu hóa cơ chế kích nổ của bom từ trường và ca nô không người lái phục vụ rà phá."
+    },
+    {
+     "t": "p",
+     "text": "Các thiết bị đó nhanh chóng được đưa vào sử dụng và phát huy hiệu quả trong việc rà phá bom từ trường, tránh được thương vong ở cảng Hải Phòng, góp phần phá vỡ âm mưu phong tỏa miền Bắc của Mỹ trong những năm 1972-1973."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1996, công trình được trao Giải thưởng Hồ Chí Minh, ghi nhận những đóng góp của các nhà khoa học trong việc vận dụng tri thức, sáng tạo kỹ thuật để giải quyết một nhiệm vụ cấp bách của đất nước trong chiến tranh."
+    },
+    {
+     "t": "p",
+     "text": "Con đường nghiên cứu khoa học của GS Nguyễn Nguyên Phong không chỉ dừng lại ở GK1. Năm 1976, khi Viện Năng lượng Nguyên tử Việt Nam được thành lập, ông được giao nhiệm vụ Trưởng phòng Lò phản ứng và Điện hạt nhân đầu tiên. Ông cũng là một trong những cán bộ khoa học đầu tiên tham gia khảo sát thực địa lò phản ứng TRIGA-MARK II tại Đà Lạt sau khi công trình được tiếp quản từ quân đội."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1995, sau khi nghỉ hưu tại Việt Nam, GS Nguyễn Nguyên Phong nhận lời mời của Chính phủ Angola sang làm chuyên gia cao cấp cho Bộ Khoa học và Công nghệ nước này, đồng thời đảm nhiệm vị trí Giáo sư Thực thụ tại Đại học Quốc gia Agostinho Neto (1995-2019)."
+    },
+    {
+     "t": "p",
+     "text": "Tại quốc gia châu Phi này, ông tham gia xây dựng ngành đào tạo Vật lý Hạt nhân ứng dụng, hỗ trợ phát triển các dự án ứng dụng bức xạ phục vụ đời sống và góp sức giúp Angola trở thành thành viên chính thức của Cơ quan Năng lượng Nguyên tử Quốc tế (IAEA)."
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong thời gian làm việc tại Angola, ông trực tiếp hướng dẫn, đào tạo các tiến sĩ vật lý hạt nhân cho nước bạn. Trong số những người từng được ông hướng dẫn có bà Maria Cândida Pereira Teixeira, người sau này đảm nhiệm cương vị Bộ trưởng Bộ Khoa học và Công nghệ, rồi Bộ trưởng Bộ Giáo dục Angola, cùng TS Pedro, Giám đốc Cơ quan Pháp quy Hạt nhân Angola."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "0f8593e35f07",
+   "order": 8,
+   "slug": "bo-nghe-ky-su-ve-que-khoi-nghiep-voi-ca-phe-sach",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Bỏ nghề kỹ sư, về quê khởi nghiệp với cà phê sạch",
+   "sapo": "Từ một kỹ sư cơ khí có công việc thu nhập ổn định tại TP.HCM, Lê Văn Thương (33 tuổi) trở về Quảng Ngãi khởi nghiệp với cà phê. Sau gần 8 năm, anh xây dựng Xanh Cà Phê với hơn 300 điểm nhượng quyền thương hiệu.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/bo-nghe-ky-su-ve-que-khoi-nghiep-voi-ca-phe-sach-185261009211724884.htm",
+   "published": "2026-10-10T03:15:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1080,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/0f8593e35f07-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/0f8593e35f07-0.jpg",
+     "caption": "Anh Lê Văn Thương đặt mục tiêu phát triển doanh nghiệp theo hướng bền vững",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "\"Không vội kết luận mình không làm được\""
+    },
+    {
+     "t": "p",
+     "text": "Trước khi khởi nghiệp, anh Lê Văn Thương làm kỹ sư cơ khí tại TP.HCM với công việc và thu nhập ổn định . Một biến cố gia đình khiến anh trở về Quảng Ngãi."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Lúc mới về, tôi khá loay hoay. Rời một công việc ổn định nhưng về quê thì bắt đầu từ đâu, khởi nghiệp với sản phẩm gì, làm như thế nào… Tôi đặt cho mình rất nhiều câu hỏi\", anh kể."
+    },
+    {
+     "t": "p",
+     "text": "Anh cho biết thời gian làm việc tại TP.HCM, ngay trước chỗ làm có một mô hình cà phê rang xay, pha máy. Từ đó, anh bắt đầu tìm hiểu và nhận thấy tại quê mình khi ấy chưa phổ biến mô hình cà phê hạt rang xay, pha máy từ hạt cà phê nguyên chất. Năm 2019, anh Thương quyết định khởi nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "\"Thời điểm đó, một ly cà phê hạt rang xay pha máy trên thị trường có thể có giá 30.000 - 50.000 đồng. Tôi nghĩ tại sao người dân quê mình không thể uống một ly cà phê rang xay nguyên chất, chất lượng đảm bảo nhưng giá bình dân, dễ tiếp cận hơn\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Tôi thấy may mắn vì có cơ hội quay về quê, bắt đầu lại và thử làm một điều có ích trên chính mảnh đất mình sinh ra. Với tôi, quê hương không chỉ là nơi để trở về, mà cũng có thể là nơi để mình bắt đầu một hành trình mới."
+    },
+    {
+     "t": "p",
+     "text": "Những năm đầu, anh cũng nhiều lần hoài nghi về quyết định của mình khi sản phẩm chưa bán được, đầu tư chưa mang lại kết quả như kỳ vọng, áp lực tài chính và công việc lớn. \"Nhưng khi đó tôi nghĩ, nếu hôm nay mình chưa làm được thì tìm nguyên nhân để sửa, chứ không phải vội kết luận rằng mình không làm được\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Thương, tư duy của một kỹ sư giúp anh tiếp cận công việc theo hướng tìm nguyên nhân, thử giải pháp, đo lường rồi điều chỉnh. Từ đó, tập trung vào cà phê rang xay nguyên chất, hướng đến sản phẩm có nguồn nguyên liệu rõ ràng, chất lượng ổn định và mức giá phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi muốn người uống có thể cảm nhận được giá trị của hạt cà phê bằng cả 5 giác quan. Một ly cà phê ngon không nhất thiết phải là một ly cà phê đắt tiền\", anh Thương nói."
+    },
+    {
+     "t": "h",
+     "text": "Tạo sinh kế cho hàng trăm người"
+    },
+    {
+     "t": "p",
+     "text": "Hiện Xanh Cà Phê kinh doanh cà phê hạt, cà phê bột và các sản phẩm phục vụ gia đình, quán cà phê, mô hình kinh doanh, đồng thời cung cấp máy pha cà phê, thiết bị, dịch vụ lắp đặt, hướng dẫn sử dụng, sửa chữa và bảo trì. Doanh nghiệp kiểm soát nhiều khâu từ nguyên liệu cà phê nhân, rang, làm nguội, kiểm tra, đóng gói đến đưa sản phẩm ra thị trường…"
+    },
+    {
+     "t": "p",
+     "text": "Anh Thương cho biết: \"Chúng tôi không chỉ cung cấp cà phê mà hướng tới giải pháp kinh doanh tương đối trọn vẹn, gồm quầy cà phê mang đi, sản phẩm, máy móc, thiết bị, hỗ trợ kỹ thuật và hướng dẫn vận hành. Hiện doanh nghiệp tạo việc làm trực tiếp cho khoảng 27 lao động và tạo thêm sinh kế, thu nhập cho khoảng 300 chủ quán trong và ngoài tỉnh thông qua hợp tác, phân phối và kinh doanh. Tôi mong muốn những người đồng hành với chúng tôi có thể xây dựng được một công việc tương đối ổn định và có thêm năng lực kinh doanh cho riêng mình\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ chuyên môn cơ khí, anh Thương đưa tư duy kỹ thuật vào sản xuất cà phê. Nhà xưởng hiện có hơn 70% mức độ tự động hóa ở một số công đoạn, như rang, kiểm soát nhiệt, làm nguội và đóng gói."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, doanh nghiệp cũng ứng dụng công nghệ trong bán hàng, quản lý đơn hàng, tồn kho, khách hàng và hoạt động của các điểm kinh doanh, cũng như đưa sản phẩm lên các sàn thương mại điện tử để tiếp cận khách hàng. Về chất lượng, anh cho biết tập trung vào nguồn nguyên liệu, khả năng truy xuất, quá trình rang, làm nguội, đóng gói và bảo quản."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi muốn đi theo hướng minh bạch từ hạt cà phê đến ly cà phê. Người tiêu dùng có quyền biết sản phẩm mình sử dụng được làm từ đâu, được sản xuất như thế nào và doanh nghiệp kiểm soát chất lượng ra sao\", anh Thương nói và cho biết doanh thu hiện nay của Xanh Cà Phê khoảng 700 triệu đến 1 tỉ đồng/năm, lợi nhuận 150 triệu đồng/năm."
+    },
+    {
+     "t": "h",
+     "text": "Nơi để bắt đầu một hành trình mới"
+    },
+    {
+     "t": "p",
+     "text": "Sau khi nhận Giải thưởng Lương Định Của, anh đặt mục tiêu phát triển doanh nghiệp theo hướng bền vững, tiếp tục mở rộng hệ thống điểm bán và đối tác, nâng chất lượng sản phẩm, hoàn thiện quy trình sản xuất và từng bước chủ động hơn về nguồn nguyên liệu."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi thấy may mắn vì có cơ hội quay về quê, bắt đầu lại và thử làm một điều có ích trên chính mảnh đất mình sinh ra. Với tôi, quê hương không chỉ là nơi để trở về, mà cũng có thể là nơi để mình bắt đầu một hành trình mới\", anh nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "Theo chị Y Việt Sa, Phó bí thư Tỉnh đoàn, Chủ tịch Hội Liên hiệp thanh niên Việt Nam tỉnh Quảng Ngãi, Lê Văn Thương là người trẻ năng động, có ý chí khởi nghiệp, lập nghiệp, tích cực tham gia hoạt động Đoàn, Hội, an sinh xã hội…"
+    },
+    {
+     "t": "p",
+     "text": "\"Thương cũng kết nối, nhiệt tình hỗ trợ những bạn trẻ có cùng hướng đi, có mong muốn khởi sự kinh doanh. Thương không chỉ chú trọng sản xuất, kinh doanh, nâng cao chất lượng sản phẩm mà còn chủ động kết nối vùng nguyên liệu, người dân để phát triển cà phê. Quá trình khởi nghiệp của Thương cho thấy hình ảnh một người trẻ năng động, chịu khó kết nối, có ý chí và từng bước xây dựng được thương hiệu riêng ngay từ quê hương\", chị Sa nói."
+    },
+    {
+     "t": "p",
+     "text": "Anh Lê Văn Thương vừa được T.Ư Đoàn trao Giải thưởng Lương Định Của."
+    }
+   ]
+  },
+  {
+   "id": "a4fb62782918",
+   "order": 9,
+   "slug": "ban-ta-phinh-mua-nuoc-ngap",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Bản Tà Phình mùa nước ngập",
+   "sapo": "Sơn La Từ giữa hè đến cuối thu, thung lũng Tà Phình ở xã Tân Yên ngập nước, chỉ còn những hàng cây lớn nhô lên giữa mặt hồ được núi đá vây quanh.",
+   "author": "Thanh Thu",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ban-ta-phinh-mua-nuoc-ngap-5124736.html",
+   "published": "2026-10-09T08:22:08+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 946,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/a4fb62782918-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-2.jpg",
+     "caption": "",
+     "w": 667,
+     "h": 999
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 725
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-10/a4fb62782918-10.jpg",
+     "caption": "Bản Tà Phình mùa nước ngập",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Bản Tà Phình mùa nước ngập"
+    },
+    {
+     "t": "p",
+     "text": "Sơn La Từ giữa hè đến cuối thu, thung lũng Tà Phình ở xã Tân Yên ngập nước, chỉ còn những hàng cây lớn nhô lên giữa mặt hồ được núi đá vây quanh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thung lũng Tà Phình nằm ở bản Tà Phình, xã Tân Yên, tỉnh Sơn La, cách trung tâm Mộc Châu khoảng 25 km và Hà Nội khoảng 200 km."
+    },
+    {
+     "t": "p",
+     "text": "Thung lũng rộng khoảng 300 ha, với12 hộ dân sinh sống, trồng lúa và ngô. Từ giữa mùa hè đến cuối thu, mưa lớn khiến thung lũng ngập nước, tạo nên vùng lòng chảo rộng giữa núi đồi, nên người dân và du khách thường gọi là \"hồ\"."
+    },
+    {
+     "t": "p",
+     "text": "Thung lũng Tà Phình nằm ở bản Tà Phình, xã Tân Yên, tỉnh Sơn La, cách trung tâm Mộc Châu khoảng 25 km và Hà Nội khoảng 200 km."
+    },
+    {
+     "t": "p",
+     "text": "Thung lũng rộng khoảng 300 ha, với12 hộ dân sinh sống, trồng lúa và ngô. Từ giữa mùa hè đến cuối thu, mưa lớn khiến thung lũng ngập nước, tạo nên vùng lòng chảo rộng giữa núi đồi, nên người dân và du khách thường gọi là \"hồ\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bao quanh bản là núi đá. Khi nước dâng, vùng đất thấp chìm trong nước, chỉ còn những hàng cây lớn nhô lên giữa mặt nước. Nhà 12 hộ dân trong bản cũng bị ngập."
+    },
+    {
+     "t": "p",
+     "text": "Anh Vàng A Giảng, sinh năm 1989, cung cấp dịch vụ du lịch tại bản Tà Phình, cho biết mùa nước ngập thường rơi vào tháng 9-10 và tùy tình hình mưa bão mỗi năm thung lũng sẽ bị ngập sâu hay nông."
+    },
+    {
+     "t": "p",
+     "text": "Gia súc, gia cầm không bị thiệt hại nhiều do được người dân đưa vào các hang đá trú ẩn."
+    },
+    {
+     "t": "p",
+     "text": "Bao quanh bản là núi đá. Khi nước dâng, vùng đất thấp chìm trong nước, chỉ còn những hàng cây lớn nhô lên giữa mặt nước. Nhà 12 hộ dân trong bản cũng bị ngập."
+    },
+    {
+     "t": "p",
+     "text": "Anh Vàng A Giảng, sinh năm 1989, cung cấp dịch vụ du lịch tại bản Tà Phình, cho biết mùa nước ngập thường rơi vào tháng 9-10 và tùy tình hình mưa bão mỗi năm thung lũng sẽ bị ngập sâu hay nông."
+    },
+    {
+     "t": "p",
+     "text": "Gia súc, gia cầm không bị thiệt hại nhiều do được người dân đưa vào các hang đá trú ẩn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc trưng của nơi này là những mỏm đá tự nhiên với nhiều hình thù nhô lên giữa các bãi cỏ, nên người dân địa phương còn gọi là làng Đá Dựng."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc trưng của nơi này là những mỏm đá tự nhiên với nhiều hình thù nhô lên giữa các bãi cỏ, nên người dân địa phương còn gọi là làng Đá Dựng."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Nằm trên cung đường vào thung lũng mận Nà Ka, Tà Phình vẫn chưa được nhiều du khách biết đến."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu bản, du khách có thể thuê thuyền để di chuyển vào khu vực ngập nước bên trong, với giá khoảng 40.000 đồng/lượt. Lưu ý yêu cầu chủ thuyền trang bị áo phao trong suốt hành trình."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu bản, du khách có thể thuê thuyền để di chuyển vào khu vực ngập nước bên trong, với giá khoảng 40.000 đồng/lượt. Lưu ý yêu cầu chủ thuyền trang bị áo phao trong suốt hành trình."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Mùa mưa, các cánh đồng và thảm cỏ ở Tà Phình trở thành nơi để các đàn vịt bơi lội."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Bản hiện chưa có nhiều dịch vụ du lịch, phù hợp với du khách muốn cắm trại tự túc vào mùa khô hoặc đi bộ khám phá. Du khách có thể tìm hiểu đời sống của người dân sống những ngôi nhà gỗ và trải nghiệm một số hoạt động văn hóa địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Người H'Mông ở Tà Phình được nhận xét thân thiện, hiếu khách, thường mời du khách thưởng thức rượu ngô hoặc tham gia các trò chơi dân gian như ném còn, đánh quay."
+    },
+    {
+     "t": "p",
+     "text": "Bản hiện chưa có nhiều dịch vụ du lịch, phù hợp với du khách muốn cắm trại tự túc vào mùa khô hoặc đi bộ khám phá. Du khách có thể tìm hiểu đời sống của người dân sống những ngôi nhà gỗ và trải nghiệm một số hoạt động văn hóa địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Người H'Mông ở Tà Phình được nhận xét thân thiện, hiếu khách, thường mời du khách thưởng thức rượu ngô hoặc tham gia các trò chơi dân gian như ném còn, đánh quay."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Từ Tà Phình, du khách có thể kết hợp tham quan đồi chè Trái tim, thung lũng mận Nà Ka và Hang Táu ở Mộc Châu. Du khách có thể bắt xe khách Hà Nội - Mộc Châu với giá 100.000 đồng."
+    },
+    {
+     "t": "p",
+     "text": "Đường vào Tà Phình có nhiều đoạn gập ghềnh, hố nước, phù hợp với ôtô gầm cao hai cầu. Du khách cần cẩn trọng nếu đi xe máy. Đến đây vào mùa khô, du khách sẽ bắt gặp những cánh đồng hoa cải và tam giác mạch nở rộ."
+    },
+    {
+     "t": "p",
+     "text": "Từ Tà Phình, du khách có thể kết hợp tham quan đồi chè Trái tim, thung lũng mận Nà Ka và Hang Táu ở Mộc Châu. Du khách có thể bắt xe khách Hà Nội - Mộc Châu với giá 100.000 đồng."
+    },
+    {
+     "t": "p",
+     "text": "Đường vào Tà Phình có nhiều đoạn gập ghềnh, hố nước, phù hợp với ôtô gầm cao hai cầu. Du khách cần cẩn trọng nếu đi xe máy. Đến đây vào mùa khô, du khách sẽ bắt gặp những cánh đồng hoa cải và tam giác mạch nở rộ."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Thung lũng Tà Phình, tỉnh Sơn La mùa nước ngập. Video: Quang Kiên"
+    },
+    {
+     "t": "p",
+     "text": "Thanh Thu Ảnh: Quang Kiên"
+    }
+   ]
+  },
+  {
+   "id": "d678c1bd3d73",
+   "order": 10,
+   "slug": "du-khach-nghe-hat-then-thuong-tra-tren-chuyen-tau-di-san-tha",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên",
+   "sapo": "(Dân trí) - Chuyến tàu di sản \"Hành trình về với xứ trà\" mang đến cho du khách trải nghiệm văn hóa bản địa độc đáo, từ thưởng thức trà đến lắng nghe những",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/du-khach-nghe-hat-then-thuong-tra-tren-chuyen-tau-di-san-thai-nguyen-20261009124242295.htm",
+   "published": "2026-10-09T12:17:56+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 853,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-0.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-1.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-2.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-3.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-4.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-5.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-6.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-7.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-8.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-9.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-10.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/d678c1bd3d73-11.jpg",
+     "caption": "Du khách nghe hát then, thưởng trà trên chuyến tàu di sản Thái Nguyên - 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Sáng 9/10, chuyến tàu đặc biệt mang tên Hành trình về với xứ trà , thuộc khuôn khổ Festival Trà quốc tế - Thái Nguyên năm 2026, đã được đưa vào chạy thử nghiệm, khởi hành từ ga Hà Nội (phường Văn Miếu - Quốc Tử Giám, Hà Nội)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đúng 6h, đông đảo đại biểu và du khách đã có mặt trong không khí hào hứng, sẵn sàng khởi hành trên chuyến tàu di sản, bắt đầu hành trình khám phá vùng đất và văn hóa trà Thái Nguyên."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chuyến tàu di sản tuyến Hà Nội - Thái Nguyên gồm 6 toa, trong đó có một toa cộng đồng dành cho các hoạt động văn nghệ, giao lưu văn hóa và 5 toa phục vụ hành khách, mang đến không gian trải nghiệm đa dạng cho du khách trên hành trình."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Điểm nhấn của chuyến tàu nằm ở toa cộng đồng, nơi diễn ra các hoạt động biểu diễn nghệ thuật dân gian xuyên suốt hành trình 2 tiếng."
+    },
+    {
+     "t": "p",
+     "text": "Tại đây, du khách được tìm hiểu văn hóa trà, thưởng thức các loại hình di sản văn hóa phi vật thể đặc trưng của Thái Nguyên, đồng thời trải nghiệm thưởng trà và khám phá tiềm năng du lịch địa phương."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Các tiết mục hát then đệm đàn tính, múa bát và độc tấu sáo Mông do đoàn nghệ thuật Trung tâm Văn hóa tỉnh Thái Nguyên biểu diễn đã mang đến cho du khách những trải nghiệm văn hóa dân gian đặc sắc, góp phần tạo nên hành trình khám phá xứ trà đậm đà bản sắc địa phương."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Thanh Bình (SN 2004) bày tỏ niềm tự hào khi được trình diễn điệu múa bát cổ truyền trên chuyến tàu di sản."
+    },
+    {
+     "t": "p",
+     "text": "“Mình rất vui khi được góp mặt trong hành trình đặc biệt này, qua đó lan tỏa giá trị di sản văn hóa phi vật thể quốc gia đến đông đảo du khách”, Bình chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh các tiết mục văn nghệ, màn trình diễn hầu đồng – nghi lễ thuộc tín ngưỡng thờ Mẫu Tam phủ của người Việt, cũng thu hút sự chú ý của hành khách. Nhiều du khách hào hứng theo dõi, giao lưu và tìm hiểu nét văn hóa truyền thống ngay trên chuyến tàu."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, tại toa cộng đồng, du khách còn được tìm hiểu các sản phẩm trà tiêu biểu của Thái Nguyên, trong đó có những sản phẩm đạt chứng nhận OCOP 3-4 sao. Không gian trưng bày cũng giới thiệu các sản phẩm chế biến từ trà do các hợp tác xã địa phương sản xuất, như kẹo lạc trà xanh, bánh khảo,... góp phần quảng bá sự đa dạng của đặc sản xứ trà."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Dù đã đến Thái Nguyên nhiều lần, Đỗ Linh (SN 2000, Hà Nội) cho biết đây là lần đầu tiên cô được thưởng thức trà cùng kẹo lạc trên một chuyến tàu di sản."
+    },
+    {
+     "t": "p",
+     "text": "“Mình bất ngờ trước sự thân thiện của những người làm du lịch trên tàu. Không gian văn hóa trà cũng để lại ấn tượng đặc biệt, giúp mình hiểu thêm về các sản phẩm được chế biến từ trà”, Linh cho biết."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Do không gian cộng đồng có giới hạn, nghệ nhân Thanh Lịch mang tiếng sáo Mông đến biểu diễn tại các toa hành khách khác, đưa âm hưởng núi rừng đến gần hơn với du khách. Tiếng sáo réo rắt vang lên giữa hành trình, tạo nên không khí giao lưu gần gũi, sôi nổi, đồng thời góp phần lan tỏa nét đẹp văn hóa dân tộc đến đông đảo hành khách trên chuyến tàu di sản."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Kết thúc hành trình khoảng 2 tiếng, du khách xuống tàu tại ga Lưu Xá (tỉnh Thái Nguyên), tiếp tục khám phá vùng đất xứ trà thông qua các hoạt động trải nghiệm thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Điểm mới đáng chú ý của Festival Trà quốc tế - Thái Nguyên năm 2026 là kết nối chuyến tàu di sản với 5 chương trình khám phá theo các chủ đề khác nhau. Từ ga Lưu Xá, du khách có thể tiếp tục hành trình khám phá văn hóa trà, di sản và các điểm đến đặc trưng của địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Bà Vũ Thị Thu Hường, Phó Giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Thái Nguyên, nhấn mạnh chương trình nhằm phát triển sản phẩm du lịch gắn với văn hóa trà và tuyến giao thông đường sắt Hà Nội - Thái Nguyên, qua đó tăng cường xúc tiến, hợp tác đầu tư và kết nối thị trường du lịch giữa Thái Nguyên và Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Từ ngày 30/10 đến 7/11, Festival Trà quốc tế - Thái Nguyên 2026 diễn ra tại nhiều không gian của tỉnh, từ Quảng trường Võ Nguyên Giáp, phố đi bộ phường Phan Đình Phùng đến những vùng chè nổi tiếng như Tân Cương, Đồng Hỷ, La Bằng, Vô Tranh, Đồng Phúc. Chuỗi hoạt động được thiết kế theo hướng kết hợp văn hóa, đối ngoại, thương mại, du lịch và trải nghiệm thực tế."
+    }
+   ]
+  },
+  {
+   "id": "85bf53ea4f21",
+   "order": 11,
+   "slug": "chuyen-tau-khach-dai-nhat-the-gioi-noi-hai-thanh-pho-nao",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Chuyến tàu khách dài nhất thế giới nối hai thành phố nào?",
+   "sapo": "Hành trình đường sắt này trải qua hành trình dài hàng nghìn km, kéo dài hơn một tuần, nối hai thủ đô thuộc châu Á và châu Âu. Bạn biết gì về chuyến tàu đặc biệt này?",
+   "author": "Hoàng Linh",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/chuyen-tau-khach-dai-nhat-the-gioi-noi-hai-thanh-pho-nao-2563149.html",
+   "published": "2026-10-09T22:10:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 537,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/85bf53ea4f21-lead.jpg",
+     "caption": "",
+     "w": 816,
+     "h": 427
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Hành trình tàu khách trực tiếp dài nhất thế giới nối hai thành phố nào?"
+    },
+    {
+     "t": "li",
+     "text": "Moscow (Nga) - Vladivostok (Nga) 0% Moscow (Nga) - Bình Nhưỡng (Triều Tiên) 0% Bắc Kinh (Trung Quốc) - Lhasa (Trung Quốc) 0% Toronto (Canada) - Vancouver (Canada) 0% Chính xác Theo Guinness World Records , hành trình đường sắt trực tiếp dài nhất thế giới nối Moscow, thủ đô Nga, với Bình Nhưỡng, thủ đô Triều Tiên, có chiều dài khoảng 10.214 km. Chuyến tàu đi qua phần lớn lãnh thổ Nga trước khi đến Triều Tiên, với thời gian dự kiến là 7 ngày 20 giờ 25 phút. Tuyến này sử dụng toa khách chạy suốt hành trình, dù toa có thể được ghép vào các đoàn tàu khác nhau dọc đường. Dịch vụ đường sắt trực tiếp giữa hai thủ đô được khôi phục từ tháng 6/2025 sau thời gian gián đoạn vì đại dịch Covid-19. 2. Chuyến tàu này mỗi tháng chạy bao nhiêu chuyến? 1 0% 2 0% 3 0% 4 0% Chính xác Theo thông tin do phía Nga công bố vào tháng 6/2025, tuyến tàu khách Moscow - Bình Nhưỡng hoạt động hai chuyến mỗi tháng. Vé được mở bán trước khoảng 60 ngày so với ngày khởi hành. Dịch vụ này được khôi phục từ ngày 17/6/2025, sau khi tạm dừng từ tháng 2/2020 do đại dịch Covid-19. 3. Vì sao hành khách có thể đi từ Moscow đến Bình Nhưỡng mà không phải đổi toa, dù đoàn tàu có thể thay đổi dọc đường? Vì toàn bộ hành trình chỉ sử dụng một đầu máy duy nhất. 0% Vì toa khách được nối vào các đoàn tàu khác nhau trên từng chặng. 0% Vì tàu chạy trên một đường ray riêng xuyên suốt từ Nga đến Triều Tiên. 0% Vì tàu không dừng tại bất kỳ nhà ga nào giữa hai thủ đô. 0% Chính xác Điểm đặc biệt của hành trình Moscow - Bình Nhưỡng là hành khách có thể đi suốt tuyến mà không phải chuyển sang toa khách khác, dù đoàn tàu có thể thay đổi trong quá trình di chuyển. Theo Reuters , toa khách chạy tuyến Moscow - Bình Nhưỡng được nối vào các đoàn tàu khác nhau trên từng chặng, trong đó có đoàn tàu chạy tuyến Moscow - Vladivostok của Nga. Vì vậy, “không đổi tàu” ở đây không có nghĩa là sử dụng cùng một đầu máy hoặc một đoàn tàu từ đầu đến cuối, mà là hành khách không phải chuyển sang toa khách khác để hoàn thành hành trình. 4. Phần lớn các hành trình tàu khách dài nhất thế giới tập trung ở quốc gia nào sau đây? Trung Quốc 0% Nga 0% Canada 0% Mỹ 0% Chính xác Nga có diện tích khoảng 17,1 triệu km², lớn nhất thế giới, trải rộng trên cả châu Âu và châu Á. Lãnh thổ rộng lớn cùng khoảng cách hàng nghìn km giữa các thành phố tạo điều kiện hình thành nhiều hành trình đường sắt dài. Tuyến Moscow - Vladivostok, dài khoảng 9.300 km, là một ví dụ tiêu biểu về những hành trình xuyên Siberia. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "95383778557f",
+   "order": 12,
+   "slug": "ruc-ro-sac-mau-le-ruoc-y-trang-kate-2026-giua-man-mua",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Rực rỡ sắc màu lễ rước y trang Katê 2026 giữa màn mưa",
+   "sapo": "Dù trời mưa, đồng bào Chăm và Raglai ở Khánh Hòa vẫn tưng bừng tham gia lễ rước y trang nữ thần Pô Inư Nưgar, nghi thức mở đầu lễ hội Katê 2026.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ruc-ro-sac-mau-le-ruoc-y-trang-kate-2026-giua-man-mua-185261009171206282.htm",
+   "published": "2026-10-09T12:09:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 792,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/95383778557f-0.jpg",
+     "caption": "Chiều 9.10, lễ rước y trang tại thôn Hữu Đức đã mở đầu cho lễ hội Katê 2026",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-10.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/95383778557f-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chiều 9.10, lễ rước y trang nữ thần Pô Inư Nưgar chính thức mở đầu mùa Katê 2026, lễ hội lớn nhất trong năm của đồng bào Chăm theo đạo Bà La Môn tại Khánh Hòa."
+    },
+    {
+     "t": "p",
+     "text": "Các chức sắc, chức việc cùng đồng bào Chăm ở xã Phước Hữu (trước đây thuộc H.Ninh Phước, tỉnh Ninh Thuận) mang lễ vật lên xã Phước Hà, nơi cộng đồng Raglai đang lưu giữ y trang nữ thần. Sau lễ cúng kính, đoàn rước đưa y trang về đền ở thôn Hữu Đức."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, lễ rước y trang diễn ra trong mưa. Tuy nhiên, đông đảo người dân vẫn theo chân đoàn rước, trong khi những bộ trang phục truyền thống tiếp tục nổi bật giữa không gian lễ hội."
+    },
+    {
+     "t": "p",
+     "text": "Những bộ trang phục truyền thống của thiếu nữ Chăm, Raglai vẫn nổi bật giữa màn mưa. Tiếng trống ginăng, paranưng hòa cùng tiếng kèn saranai, tạo nhịp điệu rộn ràng cho những điệu múa chào đón đoàn rước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tại lễ rước, y trang sẽ được đặt trang trọng lên trên kiệu để các thanh niên trai tráng khiêng đi"
+    },
+    {
+     "t": "p",
+     "text": "Theo Sở VH-TT-DL tỉnh Khánh Hòa, lễ rước y trang là một trong những nghi thức quan trọng của lễ hội Katê. Với cộng đồng Chăm, y trang không đơn thuần là trang phục dùng trong nghi lễ mà còn là vật thiêng gắn với các vị thần được thờ phụng, mang ý nghĩa tâm linh sâu sắc."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Dù trời mưa, lễ rước y trang tại Katê 2026 vẫn rộn ràng sắc màu"
+    },
+    {
+     "t": "p",
+     "text": "Trong tâm thức người Chăm, nữ thần Pô Inư Nưgar được tôn kính là Mẹ xứ sở. Theo truyền thuyết, bà dạy người dân trồng lúa, trồng bông, dệt vải và phát triển đời sống. Theo các nhà nghiên cứu văn hóa Chăm tại Bảo tàng tỉnh Khánh Hòa, nghi lễ rước y trang mỗi mùa Katê không chỉ thể hiện niềm tin tâm linh mà còn gửi gắm lòng biết ơn, đạo lý uống nước nhớ nguồn được gìn giữ qua nhiều thế hệ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Nhiều hoạt động văn hóa, văn nghệ đặc sắc với những điệu múa truyền thống, biểu diễn trang phục dân tộc tại lễ rước y trang"
+    },
+    {
+     "t": "h",
+     "text": "Sợi dây gắn kết văn hóa Chăm - Raglai"
+    },
+    {
+     "t": "p",
+     "text": "Nét riêng của nghi lễ là sự gắn bó giữa hai cộng đồng Chăm và Raglai. Theo truyền thuyết, người Chăm được xem là chị cả, còn người Raglai là em út. Theo tập quán mẫu hệ, con gái út có vai trò quan trọng trong việc giữ tài sản và đảm nhận việc thờ cúng. Vì vậy, cộng đồng Raglai được giao gìn giữ y trang và trao lại cho người Chăm vào các dịp lễ lớn."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, đền Pô Inư Nưgar ở làng Hữu Đức là nơi duy trì nghi lễ tiếp nhận y trang từ người Raglai. Bộ y trang được dòng họ Chamalea ở xã Phước Hà gìn giữ qua nhiều thế hệ. Mỗi cộng đồng đảm nhận một vai trò riêng: người Raglai gìn giữ và trao y trang, người Chăm đón nhận và thực hành nghi lễ thờ phụng."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Các thiếu nữ chăm duyên dáng trong điệu múa chào mừng đoàn rước y trang"
+    },
+    {
+     "t": "p",
+     "text": "Katê là lễ hội truyền thống quan trọng của đồng bào Chăm theo đạo Bà La Môn, được tổ chức hằng năm vào ngày cuối của tháng 6 và ngày đầu của tháng 7 Chăm lịch hằng năm. Năm 2017, lễ hội được đưa vào Danh mục di sản văn hóa phi vật thể quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Dù mưa, rất đông người dân, du khách vẫn nán lại xem hết các tiết mục văn nghệ"
+    },
+    {
+     "t": "p",
+     "text": "Chính lễ sẽ diễn ra sáng 10.10. Từ 6 giờ 30, Hội đồng Chức sắc và Ban Phong tục đồng loạt thực hiện nghi thức tại tháp Pô Klong Garai (phường Đô Vinh), tháp Pô Rômê (thôn Hậu Sanh) và đền Pô Inư Nưgar (thôn Hữu Đức, xã Phước Hữu). Các nghi thức gồm lễ rước y trang, mở cửa đền tháp, tắm tượng thần, mặc y trang cho thần và đại lễ."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh phần lễ, nhiều hoạt động văn hóa cũng được tổ chức nhằm tạo không gian giao lưu, giới thiệu bản sắc dân tộc. Sáng 10.10, tại khu vực tháp Pô Klong Garai sẽ diễn ra hội thi trò chơi thể thao dân gian và hội thi viết chữ Chăm. Ngày 11.10, tại xã Ninh Phước, hội thảo khoa học về bảo tồn và phát huy giá trị nghệ thuật làm gốm của người Chăm sẽ được tổ chức. Đây là di sản được UNESCO ghi danh vào danh sách di sản văn hóa phi vật thể cần bảo vệ khẩn cấp."
+    }
+   ]
+  },
+  {
+   "id": "76345629f0e8",
+   "order": 13,
+   "slug": "ngoi-lang-90-cu-dan-bat-dong-o-nhat-ban",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Ngôi làng 90% cư dân bất động ở Nhật Bản",
+   "sapo": "Thoạt nhìn, làng Nagoro trên đảo Shikoku có thể trông giống bất kỳ vùng nông thôn nào ở Nhật Bản cho đến khi du khách đến gần.",
+   "author": "Anh Minh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ngoi-lang-90-cu-dan-bat-dong-o-nhat-ban-5130043.html",
+   "published": "2026-10-09T02:45:43+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 827,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/76345629f0e8-lead.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 562
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-0.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 666
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-1.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 681
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-2.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 681
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-3.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 666
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1800
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-5.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 681
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-6.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 681
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-7.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 666
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-8.jpg",
+     "caption": "",
+     "w": 749,
+     "h": 1083
+    },
+    {
+     "src": "img/2026-10-10/76345629f0e8-9.jpg",
+     "caption": "",
+     "w": 900,
+     "h": 600
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Ngôi làng 90% cư dân bất động ở Nhật Bản"
+    },
+    {
+     "t": "p",
+     "text": "Thoạt nhìn, làng Nagoro trên đảo Shikoku có thể trông giống bất kỳ vùng nông thôn nào ở Nhật Bản cho đến khi du khách đến gần."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trẻ em tập trung trong hội trường trường học, các bà mẹ chăm sóc khu vườn, còn người lớn tuổi kiên nhẫn chờ xe buýt tại các điểm dừng. Đó là những hình ảnh đầu tiên du khách nhìn thấy khi đến thăm làng Nagoro, thuộc vùng núi tỉnh Tokushima, miền tây Nhật Bản. Tuy nhiên, khi nhìn kỹ, sự bất thường sẽ hiện ra: những ánh mắt vô hồn, tay chân bất động và sự tĩnh lặng bao trùm ngôi làng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nagoro còn nổi tiếng với tên \"làng Bù nhìn\" vì số bù nhìn ở đây nhiều hơn con người. Những hình nhân bằng vải được tạo ra với nhiều kích cỡ, mô phỏng người lớn và trẻ nhỏ đang làm công việc thường ngày như làm đồng, trò chuyện bên giếng."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Làn sóng di cư đến các đô thị và tình trạng già hóa dân số khiến Nagoro chỉ còn khoảng 30 cư dân. Trong khi đó, số bù nhìn trong làng lên tới khoảng 350."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Những hình nhân này bắt đầu xuất hiện khoảng 30 năm trước khi Tsukimi Ayano (ảnh), cư dân địa phương, làm bù nhìn cho cánh đồng lúa của gia đình. Thay vì dùng rơm, bà cho hình nhân mặc quần áo của bố. Do hình nhân thường bị nhầm với người thật, bà tiếp tục tạo thêm nhiều con khác với trang phục và tư thế đa dạng."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, những cư dân khác cũng tham gia. Ngày nay, các hình nhân có mặt khắp ngôi làng, từ đường phố, cánh đồng đến những góc sinh hoạt thường ngày."
+    },
+    {
+     "t": "p",
+     "text": "\"Làm búp bê là sở thích của tôi. Tôi chưa bao giờ nghĩ sở thích của mình lại trở thành như thế này\", bà Tsukimi Ayano nói."
+    },
+    {
+     "t": "p",
+     "text": "Những hình nhân này bắt đầu xuất hiện khoảng 30 năm trước khi Tsukimi Ayano (ảnh), cư dân địa phương, làm bù nhìn cho cánh đồng lúa của gia đình. Thay vì dùng rơm, bà cho hình nhân mặc quần áo của bố. Do hình nhân thường bị nhầm với người thật, bà tiếp tục tạo thêm nhiều con khác với trang phục và tư thế đa dạng."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, những cư dân khác cũng tham gia. Ngày nay, các hình nhân có mặt khắp ngôi làng, từ đường phố, cánh đồng đến những góc sinh hoạt thường ngày."
+    },
+    {
+     "t": "p",
+     "text": "\"Làm búp bê là sở thích của tôi. Tôi chưa bao giờ nghĩ sở thích của mình lại trở thành như thế này\", bà Tsukimi Ayano nói."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trên ảnh, một bù nhìn đang được đặt ngồi dưới tán hoa anh đào trong làng."
+    },
+    {
+     "t": "p",
+     "text": "Theo Tổ chức Xúc tiến Du lịch đảo Shikoku (Tourism Shikoku), mỗi hình nhân trong làng đều được ghi vào một sổ đăng ký với các thông tin như tên, tính cách và câu chuyện riêng."
+    },
+    {
+     "t": "p",
+     "text": "Trên ảnh, một bù nhìn đang được đặt ngồi dưới tán hoa anh đào trong làng."
+    },
+    {
+     "t": "p",
+     "text": "Theo Tổ chức Xúc tiến Du lịch đảo Shikoku (Tourism Shikoku), mỗi hình nhân trong làng đều được ghi vào một sổ đăng ký với các thông tin như tên, tính cách và câu chuyện riêng."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Làng còn có một trường tiểu học đã đóng cửa do thiếu học sinh. Những căn phòng từng có tiếng trẻ nay chỉ còn các hình nhân ngồi tại bàn học."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Du khách có thể bắt gặp những hình nhân đủ kích cỡ, độ tuổi, được mặc trang phục phù hợp với vai trò. Trên cánh đồng là các \"nông dân\" đội mũ, mặc quần yếm, trong khi trẻ em cầm đồ chơi hoặc ngồi trên xe ba bánh."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Nagoro nhận hơn 1.000 đánh giá trên Google. Nhiều du khách nhận xét đây là một trong những điểm đến độc đáo trên đảo Shikoku. Một số người cho biết không gian yên tĩnh của ngôi làng đôi khi tạo cảm giác rợn người, đặc biệt vào những ngày mưa."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Xung quanh làng Bù nhìn còn nhiều điểm đến nổi bật du khách có thể ghé thăm như cầu dây leo đôi (ảnh), núi Tsurugi, hẻm núi Oboke và làng cổ Ochiai."
+    },
+    {
+     "t": "p",
+     "text": "Cầu dây leo đôi Oku-Iya gồm hai cầu Nam và Nữ, được gọi chung là cầu Vợ Chồng. Tương truyền, cầu do Heike, một trong 4 gia tộc quý tộc hùng mạnh nhất thời Heian (794–1185), xây dựng."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Trên ảnh là Tsurugi, ngọn núi cao thứ hai ở miền tây Nhật Bản với chiều cao hơn 1.900 m. Du khách có thể đi thang máy dành cho người leo núi rồi đi bộ khoảng một giờ lên đỉnh. Ngày trời quang, từ đây, du khách có thể nhìn thấy Thái Bình Dương, biển nội địa Seto và bán đảo Kii."
+    },
+    {
+     "t": "p",
+     "text": "Anh Minh (Theo DM )"
+    }
+   ]
+  },
+  {
+   "id": "4f29d6a0b8f4",
+   "order": 14,
+   "slug": "ronaldo-ghi-ban-thu-980",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ronaldo ghi bàn thứ 980",
+   "sapo": "Arab Saudi Cristiano Ronaldo nâng tổng số bàn thắng trong sự nghiệp lên 980, sau khi mở tỷ số trong trận Al Nassr thắng Al Diriyah 3-0 ở vòng 8 Saudi Pro League.",
+   "author": "Xuân Bình",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ronaldo-ghi-ban-thu-980-5130578.html",
+   "published": "2026-10-09T19:56:25+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 486,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/4f29d6a0b8f4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-10/4f29d6a0b8f4-0.jpg",
+     "caption": "Cristiano Ronaldo giơ tay ăn mừng sau khi ghi bàn trong trận Al Nassr gặp Al Diriyah ở vòng 8 Saudi Pro League trên sân Al Awwal Park, thành phố Riyadh, Arab Saudi tối 9/10/2026. Ảnh: Al Nassr",
+     "w": 1020,
+     "h": 612
+    },
+    {
+     "src": "img/2026-10-10/4f29d6a0b8f4-1.jpg",
+     "caption": "Bàn mở tỷ số của Ronaldo.",
+     "w": 1080,
+     "h": 659
+    },
+    {
+     "src": "img/2026-10-10/4f29d6a0b8f4-2.jpg",
+     "caption": "Thống kê 980 bàn thắng của Ronaldo. Đồ họa: Xuân Bình (AI hỗ trợ)",
+     "w": 1020,
+     "h": 1275
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Arab Saudi Cristiano Ronaldo nâng tổng số bàn thắng trong sự nghiệp lên 980, sau khi mở tỷ số trong trận Al Nassr thắng Al Diriyah 3-0 ở vòng 8 Saudi Pro League."
+    },
+    {
+     "t": "p",
+     "text": "Phút 23, từ cú sút xa của Kingsley Coman vào giữa cầu môn, thủ môn 40 tuổi Waleed Abdullah bắt không dính. Bóng bật ra, đúng tầm Ronaldo lao xuống đệm cận thành vào lưới trống. Sadio Mane ở thế việt vị, nhưng không kịp dứt điểm nên bàn thắng được công nhận cho Al Nassr."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ronaldo trong ngày nhuộm lại tóc màu đen, tỏ ra vui mừng khi ghi bàn. Anh chạy về góc sân và nhảy xoay, trong lúc khán giả sân Al-Awwal Park đồng loạt hô lên \"siuuu\". Sau đó, thủ quân Al Nassr chỉ tay về phía Mane và Coman để tri ân."
+    },
+    {
+     "t": "p",
+     "text": "Trong lúc Ronaldo trở về phần sân nhà, khán giả Al Nassr đồng loạt hô vang tên anh như để tri ân. Siêu sao 41 tuổi có phần bất ngờ, quay về phía CĐV, rồi mỉm cười và chỉ tay lên. Anh đang đối mặt với những bất ổn liên quan đến đội tuyển Bồ Đào Nha. Thủ quân Bồ Đào Nha vừa rời trại tập trung sau mâu thuẫn với HLV Jorge Jesus, khiến tương lai của tiền đạo 41 tuổi ở đội tuyển trở thành dấu hỏi."
+    },
+    {
+     "t": "p",
+     "text": "Bàn thắng vào lưới Al Diriyah là pha lập công thứ 980 trong sự nghiệp của Ronaldo, đưa anh tiến gần hơn đến cột mốc 1.000 bàn. Ngay cả khi không lên tuyển, Ronaldo vẫn có nhiều cơ hội chạm cột mốc ngay ở mùa giải này. Bởi mùa trước, anh ghi tới 28 bàn thắng riêng tại Saudi Pro League . Mùa này, Al Nassr còn chơi ở nhiều đấu trường khác như King's Cup, Siêu Cup Saudi hay AFC Champions League Elite."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ ghi bàn, Ronaldo còn tạo ra tới ba cơ hội cho đồng đội ở trận gặp Al Diriyah. Trong đó, có hai cơ hội được thống kê Fotmob coi là \"ngon ăn\". Tuy nhiên, các đồng đội là Mane và Samu không thể ghi bàn, khiến Ronaldo mất hai đường kiến tạo. Dù vậy, anh vẫn được đánh giá là Cầu thủ hay nhất trận, với 8,6 điểm."
+    },
+    {
+     "t": "p",
+     "text": "Al Diriyah là tân binh Saudi Pro League, đứng thứ 1.000 thế giới theo chỉ số sức mạnh Opta, kém Al Nassr tới 857 bậc. Vị trí của Al Diriyah thậm chí thấp hơn CLB Công An Hà Nội (827)."
+    },
+    {
+     "t": "p",
+     "text": "Sau bàn mở tỷ số của Ronaldo, Al Nassr còn ghi thêm hai bàn nữa nhờ công Samu và Coman. Chiến thắng 3-0 giúp đoàn quân Ange Postecoglou vươn lên nhì bảng Saudi Pro League với 19 điểm qua 8 vòng đấu. Ở trận tiếp theo, Al Nassr tiếp Neftchi Fergana (Uzbekistan) ở lượt hai AFC Champions League Elite tối 12/10."
+    },
+    {
+     "t": "img",
+     "i": 3
+    }
+   ]
+  },
+  {
+   "id": "78a00411e134",
+   "order": 15,
+   "slug": "nasa-thu-nghiem-cong-nghe-tam-chan-nhiet-the-he-moi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA thử nghiệm công nghệ tấm chắn nhiệt thế hệ mới",
+   "sapo": "NASA đang thử nghiệm những tấm chắn nhiệt có thể giúp các nhà du hành vũ trụ an toàn khi trở về từ Mặt Trăng và Sao Hỏa, bằng một cách rất đặc biệt: đổ rác.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+   "published": "2026-10-09T16:59:24+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1190,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+   "images": [
+    {
+     "src": "img/2026-10-10/78a00411e134-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "NASA đang thử nghiệm những tấm chắn nhiệt có thể giúp các nhà du hành vũ trụ an toàn khi trở về từ Mặt Trăng và Sao Hỏa, bằng một cách rất đặc biệt: đổ rác."
+    },
+    {
+     "t": "p",
+     "text": "Khi tàu chở hàng thứ 24 của Northrop Grumman thực hiện nhiệm vụ tiếp vận cho NASA tách khỏi Trạm Vũ trụ Quốc tế, nó đã mang theo một nhóm 12 viên nang nhỏ, thử nghiệm, được thiết kế để kiểm tra các vật liệu bảo vệ nhiệt thế hệ mới, có thể trở thành nền tảng cho các tấm chắn nhiệt trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Thử nghiệm này mang tên Kentucky Reentry Probe Experiment (KREPE-3), là thử nghiệm thứ ba trong một loạt nhiệm vụ chi phí thấp nhưng mang lại hiệu quả cao, tận dụng những giây phút cuối cùng của tàu chở hàng để thu thập dữ liệu quý giá."
+    },
+    {
+     "t": "p",
+     "text": "Thử nghiệm này là sự hợp tác giữa Đại học Kentucky, bang Kentucky, Chương trình Thúc đẩy Nghiên cứu Cạnh tranh của NASA (EPSCoR), một số trung tâm của NASA, cùng các đối tác liên bang và doanh nghiệp khác."
+    },
+    {
+     "t": "p",
+     "text": "\"KREPE-3 là một ví dụ tuyệt vời cho mục tiêu của chương trình EPSCoR của NASA,\" ông David Berger, quản lý chương trình EPSCoR tại Trụ sở NASA ở Washington, cho biết. \"Chúng tôi đang hỗ trợ thế hệ nhà khoa học và kỹ sư tiếp theo khi họ phát triển những dự án độc đáo, vừa có lợi cho việc học của họ vừa phục vụ mục tiêu nhiệm vụ của NASA.\""
+    },
+    {
+     "t": "p",
+     "text": "Biến rác thành báu vật"
+    },
+    {
+     "t": "p",
+     "text": "Trước khi tàu Cygnus XL của nhiệm vụ này rời trạm vũ trụ, các nhà du hành đã chất đầy rác vào tàu và kích hoạt 12 viên nang nhỏ bên trong. Được thiết kế bởi sinh viên Đại học Kentucky, các viên nang này có các cảm biến đo nhiệt độ, áp suất, chuyển động, từ trường và ánh sáng trong quá trình quay trở lại khí quyển."
+    },
+    {
+     "t": "p",
+     "text": "Khi con tàu vỡ ra một cách an toàn trong khí quyển Trái Đất theo đúng lộ trình đã định, các viên nang sẽ bung ra và bắt đầu thu thập dữ liệu về cách từng loại vật liệu chắn nhiệt thử nghiệm hoạt động. Tín hiệu vệ tinh sẽ truyền dữ liệu trực tiếp đến các nhà nghiên cứu, giúp họ hiểu rõ hơn cách những tấm chắn nhiệt lớn hơn có thể bảo vệ hàng hóa hoặc con người trong các chuyến bay tương lai."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một cách thông minh để thu thập dữ liệu bay cho các vật liệu vẫn còn đang trong quá trình phát triển,\" ông Keith Peterson, kỹ sư vật liệu tại Trung tâm Nghiên cứu Ames của NASA ở Silicon Valley, California, cho biết. \"Chúng tôi thực chất đang 'đi nhờ' một con tàu đã có sẵn lịch trình quay về Trái Đất.\""
+    },
+    {
+     "t": "p",
+     "text": "Hâm nóng sự đổi mới"
+    },
+    {
+     "t": "p",
+     "text": "Các khoang tàu sẽ mang theo nhiều bộ phận bảo vệ nhiệt khác nhau, bao gồm những công nghệ đã được kiểm chứng như vật liệu gạch gốm dùng trên tàu con thoi. Một số khoang khác sẽ thử nghiệm những lựa chọn mới, chẳng hạn như lớp chắn nhiệt in 3D (3D-printed) từ dự án Chế tạo bồi đắp hệ thống bảo vệ nhiệt (Additive Manufacturing of Thermal Protective Systems) được phát triển tại NASA Johnson và Phòng thí nghiệm Quốc gia Oak Ridge."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tại NASA Ames đang góp nhiều vật liệu cho KREPE-3, trong đó có hai khoang tàu sẽ mang theo một thế hệ vật liệu bảo vệ mới có tên Vật liệu được thiết kế cho quá trình quay lại bầu khí quyển bằng kỹ thuật dệt kim sáng tạo (Materials Engineered for Re-entry using Innovative Needling Operations, viết tắt là MERINO). Được làm từ nhiều lớp sợi carbon và sợi phenolic dệt lại với nhau giống như nỉ, những vật liệu này linh hoạt hơn, sản xuất nhanh hơn và rẻ hơn so với các vật liệu bảo vệ truyền thống — khiến chúng trở thành ứng cử viên đầy hứa hẹn cho các sứ mệnh sao Hỏa. Nhờ khí quyển sao Hỏa mỏng hơn, các sứ mệnh đổ bộ lên Hành tinh Đỏ chịu lượng nhiệt thấp hơn, cho phép dùng lớp bảo vệ nhẹ hơn."
+    },
+    {
+     "t": "p",
+     "text": "Khoang tàu thứ ba sẽ kết hợp những lớp bảo vệ đó với các thành phần khác. Thí nghiệm siêu thanh hình nón gắn thiết bị đo của Kentucky (Kentucky Instrumented Conical Hypersonic Experiment) sẽ sử dụng hình dạng hai nón. Nó kết hợp một đầu mũi bằng vonfram (tungsten) gắn vào một hình nón được bọc nhiều lớp sợi carbon và sợi nhựa chịu nhiệt, cùng một hình nón phía sau được bọc vật liệu MERINO. Thiết kế độc đáo này sẽ giúp kiểm chứng các mô hình máy tính bằng dữ liệu thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Một khoang tàu khác có hình dạng giống lớp vỏ khí động học bảo vệ (aeroshell) sẽ bảo vệ sứ mệnh Dragonfly sắp tới của NASA khi tàu này đến mặt trăng Titan của sao Thổ, và sẽ thử nghiệm độ ổn định động học của thiết kế. Nó được bọc bằng vật liệu Phenolic Impregnated Carbon Ablator, một vật liệu được phát triển tại NASA Ames có ứng dụng cho các phương tiện thương mại, và đã từng được dùng trong các sứ mệnh Stardust, Mars Science Laboratory, và Mars 2020 của NASA."
+    },
+    {
+     "t": "p",
+     "text": "Một khoang tàu sẽ thử nghiệm lớp chắn nhiệt có thể bung ra gọi là Công nghệ đổ bộ và triển khai bằng thiết bị bay vào có thể bung ra và điều chỉnh được (Adaptable Deployable Entry and Placement Technology), có hình dạng như một cây dù để tăng diện tích bề mặt và làm chậm quá trình hạ xuống. Ở kích thước thật, thiết kế này có thể gấp lại được, nên rất phù hợp để đưa những khối hàng lớn hơn cả tên lửa phóng chúng vào không gian."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi một số khoang tàu đang thử nghiệm vật liệu mới để phục vụ các sứ mệnh tới sao Hỏa, những khoang khác đang thử nghiệm hình dạng và thiết kế mới, giúp mở rộng nghiên cứu và hiểu biết về mô hình máy tính cũng như thiết kế cảm biến — những công nghệ có thể mở ra một thế hệ mới trong việc đổi mới thiết kế quay lại bầu khí quyển."
+    },
+    {
+     "t": "p",
+     "text": "Các khoang tàu khác do các đối tác trong nước và quốc tế phát triển sẽ thử nghiệm nhiều loại vật liệu, cả cũ và mới, trong đó có một cảm biến đo luồng nhiệt (heat flux sensor) được phát triển tại Đại học Stuttgart ở Đức, giúp các nhà nghiên cứu đo cách nhiệt di chuyển qua bề mặt trong quá trình quay lại bầu khí quyển."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đang mở rộng giới hạn của những gì lớp chắn nhiệt có thể làm được,\" Peterson nói. \"Và chúng tôi đang thử nghiệm chúng theo cách nhanh, tiết kiệm chi phí và vô cùng hiệu quả.\""
+    }
+   ]
+  },
+  {
+   "id": "640efc83d92b",
+   "order": 16,
+   "slug": "ben-trong-duong-ham-duoi-long-dat-giup-tokyo-thoat-canh-ngap",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Bên trong đường hầm dưới lòng đất giúp Tokyo thoát cảnh ngập nước",
+   "sapo": "Nằm dưới những cánh đồng lúa phía bắc Tokyo là 'Thánh đường' bằng bê tông chống ngập nước, một đường hầm dài 6,3 km và bốn máy bơm có thể bơm 200 tấn nước mỗi giây. Tokyo đã xây dựng công trình này như thế nào?",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ben-trong-duong-ham-duoi-long-dat-giup-tokyo-thoat-canh-ngap-nuoc-185261009170904807.htm",
+   "published": "2026-10-10T02:01:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1030,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/640efc83d92b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/640efc83d92b-0.jpg",
+     "caption": "Hình ảnh nước đọng dưới đáy giếng khổng lồ số 1 của hệ thống đường hầm ngầm thoát lũ Tokyo",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-10/640efc83d92b-1.jpg",
+     "caption": "Không gian rộng lớn và những cột trụ khổng lồ của bể chứa khiến du khách trở nên nhỏ bé",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/2026-10-10/640efc83d92b-2.jpg",
+     "caption": "Đường ống dẫn nước vào bể điều áp, giúp ngăn ngừa ngập lụt tại lưu vực sông Nakagawa/Ayase",
+     "w": 1200,
+     "h": 799
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tokyo ngăn chặn lũ lụt bằng cách dẫn nước đến một nơi khác nằm sâu dưới lòng đất thông qua G-Cans - tên chính thức là Kênh xả ngầm vùng ngoại ô khu vực đô thị (Metropolitan area outer underground discharge channel). Khi các con sông ở phía bắc thành phố tràn bờ, lượng nước dư thừa sẽ chảy xuống năm giếng khổng lồ, đi qua một đường hầm dài 6,3 km nằm sâu khoảng 50 mét dưới lòng đất, rồi được bơm ra một con sông lớn hơn có đủ khả năng tiếp nhận lượng nước này. Hệ thống máy bơm có thể di chuyển tới 200 tấn nước mỗi giây."
+    },
+    {
+     "t": "p",
+     "text": "Công trình này trông giống như một \"thánh đường\", nhưng hoạt động như một hệ thống thoát nước mưa kỳ vĩ."
+    },
+    {
+     "t": "h",
+     "text": "Tại sao Tokyo lại hay bị ngập lụt?"
+    },
+    {
+     "t": "p",
+     "text": "Vùng đô thị Tokyo được xây dựng trên một vùng đồng bằng sông ngòi bằng phẳng, nơi đây thường hứng chịu lượng mưa cực lớn chỉ trong vài giờ do các cơn bão và những trận mưa không ngớt."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khu vực phía bắc thành phố, quanh vùng Kasukabe thuộc tỉnh Saitama, là nơi chịu ảnh hưởng nặng nề nhất. Khu vực này nằm trong một lòng chảo trũng thấp, có hình dạng giống lòng đĩa, với các con sông nhỏ như sông Naka và sông Kuramatsu chảy qua. Nước từ khắp nơi đổ dồn về đây nhưng lại không có lối thoát nhanh chóng. Khi đất nông nghiệp dần chuyển thành các khu ngoại ô, bê tông và mái nhà đã thay thế những cánh đồng lúa vốn có khả năng thấm hút nước mưa, hệ quả là lượng nước đổ vào các con sông trở nên nhiều hơn và nhanh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Các con sông lớn lân cận, đặc biệt là sông Edo, có khả năng tải một lượng nước lớn hơn nhiều. Vấn đề đặt ra là làm thế nào để dẫn nước lũ từ các con sông nhỏ sang con sông lớn này."
+    },
+    {
+     "t": "h",
+     "text": "G-Cans hoạt động như thế nào?"
+    },
+    {
+     "t": "p",
+     "text": "Hãy hình dung nó giống như năm lỗ thoát nước khổng lồ của bồn tắm được nối với nhau bằng một đường ống cực lớn."
+    },
+    {
+     "t": "p",
+     "text": "Có năm giếng bê tông nằm cạnh các con sông nhỏ. Mỗi giếng sâu khoảng 65 mét và rộng 32 mét - đủ sâu để chứa trọn vẹn Tượng Nữ thần Tự do (không tính phần bệ tượng) bên trong. Khi mực nước sông dâng cao vượt mức quy định, nước sẽ tràn qua đập chắn và chảy vào các giếng này."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía dưới, một đường hầm rộng khoảng 10 mét và dài 6,3 km - nằm ở độ sâu khoảng 50 mét dưới lòng đất - sẽ kết nối các giếng chứa lại với nhau. Nước sẽ chảy dọc theo đường hầm này để đến trạm bơm."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trước khu vực đặt máy bơm là một khoang chứa khổng lồ được gọi là bể điều áp: dài 177 mét, rộng 78 mét và cao 25,4 mét. Phần mái của bể được chống đỡ bởi 59 cột bê tông; mỗi cột cao khoảng 18 mét và nặng chừng 500 tấn. Bể chứa này có tác dụng làm giảm tốc độ dòng nước đang chảy xiết và điều hòa dòng chảy, giúp các máy bơm không bị hư hại do áp lực đột ngột từ những đợt nước dâng mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Bốn máy bơm khổng lồ, mỗi máy có công suất vận chuyển 50 mét khối nước mỗi giây, sẽ bơm nước ra ngoài và xả vào sông Edo. Tổng công suất đạt 200 mét khối mỗi giây."
+    },
+    {
+     "t": "p",
+     "text": "Toàn bộ hệ thống có thể chứa khoảng 670.000 mét khối nước cùng lúc. Khi hoạt động hết công suất bơm, hệ thống có thể xả cạn toàn bộ lượng nước này trong chưa đầy một giờ."
+    },
+    {
+     "t": "p",
+     "text": "Trung bình, hệ thống vận hành khoảng bảy hoặc tám lần mỗi năm."
+    },
+    {
+     "t": "p",
+     "text": "Theo các báo cáo, thiệt hại do lũ lụt trong lưu vực - được đo lường dựa trên số lượng nhà cửa và diện tích bị ngập - đã giảm khoảng hai phần ba kể từ khi hệ thống đi vào hoạt động. Nó không ngăn chặn được mọi trận lũ, nhưng giúp giảm bớt đỉnh lũ - nguyên nhân chính gây ra phần lớn thiệt hại."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Tại sao Nhật Bản lại xây dựng nó dưới lòng đất?"
+    },
+    {
+     "t": "p",
+     "text": "Vì không còn đủ không gian trên mặt đất."
+    },
+    {
+     "t": "p",
+     "text": "Các biện pháp thông thường để ngăn sông tràn bờ bao gồm mở rộng lòng sông, đắp đê cao hơn hoặc đào hồ điều tiết lớn để chứa nước lũ. Cả ba phương án này đều cần quỹ đất. Tuy nhiên, khu vực quanh Tokyo đã bị bao phủ bởi nhà cửa, đường sá và hệ thống đường sắt. Thu hồi đất sẽ đồng nghĩa với việc phải di dời hàng ngàn người dân và tốn kém hàng thập kỷ thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Công trình tiêu tốn khoảng 230 tỉ yen (hơn 37.000 tỉ đồng) và 13 năm thi công, kéo dài từ năm 1993 đến năm 2006, theo EngineeringUncle ."
+    },
+    {
+     "t": "p",
+     "text": "Công trình lớn tiếp theo đang được triển khai sẽ chạy bên dưới Đường vành đai số 7 (Loop Road 7) - tuyến đường bao quanh các quận phía tây thành phố. Bể điều tiết ngầm Kanda River/Loop Road 7 đang được kết nối vào một hệ thống đường hầm dài 13,1 km với sức chứa khoảng 1,43 triệu mét khối, lớn hơn gấp đôi so với hệ thống G-Cans. Công trình được thiết kế để giúp trung tâm Tokyo ứng phó với lượng mưa 75 mm mỗi giờ, đồng thời các nhà quy hoạch đang nghiên cứu phương án xả nước ra vịnh Tokyo."
+    },
+    {
+     "t": "p",
+     "text": "Đơn vị vận hành thường xuyên tổ chức các chuyến tham quan công khai bể điều áp khi bể đang khô ráo; đây là một trong những công trình cơ sở hạ tầng thu hút khách tham quan nhất tại Nhật Bản. Nơi này cũng từng xuất hiện trong các bộ phim điện ảnh, phim truyền hình và video âm nhạc. Tất nhiên, các chuyến tham quan sẽ không được tổ chức khi có bão."
+    }
+   ]
+  },
+  {
+   "id": "70c72835d889",
+   "order": 17,
+   "slug": "gian-du-hay-so-hai-cho-co-the-doc-duoc-cam-xuc-tren-mat-ban",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Giận dữ hay sợ hãi? Chó có thể đọc được cảm xúc trên mặt bạn",
+   "sapo": "Những hình ảnh chụp não cho thấy bằng chứng đầu tiên rằng chó có thể nhận biết một số biểu cảm trên mặt người.",
+   "author": "Meghan Rosen",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+   "published": "2026-10-09T10:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 735,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Anger or fear? Dogs may be able to read it on your face",
+   "images": [
+    {
+     "src": "img/2026-10-10/70c72835d889-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-10/70c72835d889-0.jpg",
+     "caption": "LAURA V. CUAYA",
+     "w": 575,
+     "h": 383
+    },
+    {
+     "src": "img/2026-10-10/70c72835d889-1.jpg",
+     "caption": "LAURA V. CUAYA",
+     "w": 575,
+     "h": 383
+    },
+    {
+     "src": "img/2026-10-10/70c72835d889-2.jpg",
+     "caption": "LAURA V. CUAYA",
+     "w": 575,
+     "h": 383
+    },
+    {
+     "src": "img/2026-10-10/70c72835d889-3.jpg",
+     "caption": "LAURA V. CUAYA",
+     "w": 575,
+     "h": 383
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nếu bạn có một con chó, có thể bạn đã biết những con vật này rất tinh nhạy trong việc nhận ra các dấu hiệu nhỏ. Chỉ cần lắc chùm chìa khóa hay cầm cái dây dắt chó lên, nhiều chú chó đã hiểu ngay là đến giờ đi ra ngoài. Nhưng người bạn trung thành nhất của con người có thể còn hiểu cảm xúc của chúng ta hơn cả chúng ta nghĩ. Một nghiên cứu mới cho thấy chó có thể phân biệt được một số cảm xúc chỉ bằng cách nhìn vào mặt chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả này mở ra một cái nhìn mới về những gì đang diễn ra trong não loài chó. Điều đó có thể giúp các nhà khoa học hiểu thêm về cách khả năng cảm nhận cảm xúc của chó đã phát triển qua thời gian, theo Laura Cuaya. Bà là nhà thần kinh học tại Đại học Vienna ở Áo. Bà cũng nói rằng phát hiện này cho chúng ta thêm một lý do để mỉm cười với bất kỳ chú chó nào gặp trên đường. Có thể chúng thực sự hiểu đấy."
+    },
+    {
+     "t": "p",
+     "text": "Các nghiên cứu trước đây đã cho thấy chó có thể nhận biết được khuôn mặt một người đang mang biểu cảm tích cực hay tiêu cực. Hai loại cảm xúc này dường như kích hoạt hoạt động ở những vùng khác nhau trong não chó. Nhưng vẫn còn nhiều câu hỏi chưa có lời giải. Liệu chó có thể phân biệt được giữa hai cảm xúc tiêu cực, chẳng hạn như giận dữ và sợ hãi? Và để đọc được những cảm xúc đó, khuôn mặt có cần phải quen thuộc với con chó không?"
+    },
+    {
+     "t": "p",
+     "text": "Để tìm câu trả lời, Cuaya và nhóm của bà bắt đầu bằng việc huấn luyện 14 con chó nhà nằm yên trong máy chụp cộng hưởng từ (MRI). \"Chúng làm rất, rất tốt nhiệm vụ này,\" Cuaya nói. Chiếc máy sau đó sẽ theo dõi hoạt động não của những con chó."
+    },
+    {
+     "t": "h",
+     "text": "Ai là cậu chó ngoan nào?"
+    },
+    {
+     "t": "p",
+     "text": "Odin và Kun-Kun (bên phải) là hai \"người tham gia\" trong một nghiên cứu khảo sát hoạt động trong não chó. Các nhà nghiên cứu đã huấn luyện những chú chó này ngồi yên trong máy MRI khi nhìn vào các hình ảnh khuôn mặt người. Não của những con chó sáng lên theo những cách khác nhau tùy vào cảm xúc mà khuôn mặt đó thể hiện. Hãy xem thử Kun-Kun ngoan đến mức nào."
+    },
+    {
+     "t": "li",
+     "text": "LAURA V. CUAYA"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "li",
+     "text": "LAURA V. CUAYA"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "li",
+     "text": "LAURA V. CUAYA"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "li",
+     "text": "LAURA V. CUAYA"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong một thí nghiệm, những con chó được xem ảnh của những khuôn mặt lạ với vẻ vui vẻ hoặc bình thường. Những khuôn mặt vui vẻ làm sáng lên một vùng thưởng (reward region) trong não của chúng nhiều hơn so với khuôn mặt bình thường. Trong một thí nghiệm khác, các nhà nghiên cứu thử nghiệm với nhiều cảm xúc tiêu cực. Não của những con chó phản ứng khác nhau giữa khuôn mặt giận dữ hoặc buồn bã so với khuôn mặt sợ hãi."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã công bố những phát hiện này vào ngày 10 tháng 8 trên tạp chí iScience."
+    },
+    {
+     "t": "p",
+     "text": "Đây là bằng chứng đầu tiên cho thấy loài chó có thể phân biệt giữa các cảm xúc tiêu cực trên khuôn mặt chúng ta, theo bà Cuaya. Điều này cho thấy loài chó có thể xử lý thông tin cảm xúc chi tiết hơn những gì các nhà khoa học từng nghĩ."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng bà Cuaya cảnh báo rằng kết quả này có thể không giống nhau ở tất cả các loài chó. Nhóm của bà tập trung nghiên cứu trên chó border collie và golden retriever."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm của bà hiện đang thực hiện một nghiên cứu chụp cộng hưởng từ (MRI) khác trên loài chó. Nghiên cứu này xem xét cách não của chó phản ứng với một loại âm thanh đặc biệt mà chúng tạo ra, được cho là phiên bản tiếng cười của loài chó."
+    },
+    {
+     "t": "p",
+     "text": "Còn mèo thì sao? Nhóm của bà Cuaya không có kế hoạch thực hiện nghiên cứu MRI nào trên mèo. Những người bạn mèo của chúng ta có thể khó dỗ dành hơn để chúng ngồi yên khi chụp quét não."
+    },
+    {
+     "t": "h",
+     "text": "Bạn có câu hỏi khoa học nào không? Chúng tôi có thể giúp bạn!"
+    }
+   ]
+  },
+  {
+   "id": "37289be72b63",
+   "order": 18,
+   "slug": "suyt-tuyet-chung-rua-khong-lo-gio-dong-hon-ca-nguoi-o-seyche",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Suýt tuyệt chủng, rùa khổng lồ giờ đông hơn cả người ở Seychelles",
+   "sapo": "Trước khi các nhà thám hiểm con người xuất hiện, quần đảo Seychelles là nơi trú ẩn an toàn cho các loài vật.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/after-almost-going-extinct-giant-tortoises-now-outnumber-people-in-the-seychelles",
+   "published": "2026-10-09T13:01:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 786,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "After Almost Going Extinct, Giant Tortoises Now Outnumber People in The Seychelles",
+   "images": [
+    {
+     "src": "img/2026-10-10/37289be72b63-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-10/37289be72b63-0.jpg",
+     "caption": "Hình khắc một con \"rùa voi\", nay được gọi là rùa khổng lồ Aldabra. (The Royal Natural History, 1896/Wikimedia Commons)",
+     "w": 1280,
+     "h": 666
+    },
+    {
+     "src": "img/2026-10-10/37289be72b63-1.jpg",
+     "caption": "Ảnh chụp gần đây rùa khổng lồ Aldabra đang gặm cỏ trên một \"bãi cỏ rùa\". (Dennis Hansen)",
+     "w": 766,
+     "h": 412
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trước khi các nhà thám hiểm con người xuất hiện, quần đảo Seychelles là nơi trú ẩn an toàn cho các loài vật."
+    },
+    {
+     "t": "p",
+     "text": "Lịch sử tương đối bình yên của các hòn đảo này, trước Thời đại Khám phá (Age of Exploration), được khắc ghi trong bộ gen của những con rùa khổng lồ Aldabra uy nghi (Aldabrachelys gigantea)."
+    },
+    {
+     "t": "p",
+     "text": "Chiếc mai dày và cứng như áo giáp giúp chúng được bảo vệ khỏi hầu hết mọi rắc rối có thể gặp trên các hòn đảo hẻo lánh, dù vốn chúng cũng có rất ít kẻ thù tự nhiên phải đối mặt."
+    },
+    {
+     "t": "p",
+     "text": "Nguồn thức ăn dồi dào và ít bị săn đuổi giúp chúng sống đến tuổi già nổi tiếng, mà không cần phải nhanh nhẹn hay hung hãn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Rồi đến thế kỷ 15, các nhà thám hiểm châu Âu bắt đầu xuất hiện. Cùng với đó là các thủy thủ. Và có cả cướp biển nữa."
+    },
+    {
+     "t": "p",
+     "text": "Trên những chuyến hải trình dài vượt đại dương, hòn đảo đầy rùa khổng lồ, di chuyển chậm chạp này trở thành nguồn thức ăn quá dễ kiếm."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi khi có thêm một đoàn tàu thủy thủ đến, số lượng rùa khổng lồ Aldabra lại giảm đi. Đến thế kỷ 19, chỉ còn chưa đến một nghìn con rùa sống trên đảo san hô vòng Aldabra."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nhìn vào quần thể rùa trên đảo ngày nay, bạn sẽ khó mà nhận ra điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Các cuộc khảo sát gần đây trên đảo san hô vòng Aldabra cho thấy loài rùa này đã đạt số lượng cao nhất từ trước đến nay sau nhiều thập kỷ được bảo vệ, lần đầu tiên trong nhiều thế kỷ vượt qua số dân người của Seychelles."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả của nghiên cứu quần thể trên toàn đảo san hô vòng này đã được công bố trên tạp chí Ecology and Evolution."
+    },
+    {
+     "t": "p",
+     "text": "\"Hơn 180.000 con rùa khổng lồ đi lại tự do trên đảo của chúng tôi là bằng chứng cho thấy sự cam kết lâu dài với công tác bảo tồn có thể làm được những gì,\" nhà sinh vật học bảo tồn Frauke Fleischer-Dogley, Giám đốc điều hành Quỹ Đảo Seychelles và một trong những tác giả của nghiên cứu, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là tin tuyệt vời cho Seychelles, cho thế giới, và cho tất cả những ai đã nỗ lực bảo vệ Aldabra.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần đầu tiên số lượng của loài này được khảo sát một cách chặt chẽ kể từ những năm 1990. Năm 1981, Aldabra trở thành khu bảo tồn thiên nhiên nghiêm ngặt nhằm hỗ trợ sự hồi phục của loài rùa; đến năm 1982, nơi này được UNESCO công nhận là di sản."
+    },
+    {
+     "t": "p",
+     "text": "\"Chương trình theo dõi rùa khổng lồ ở Aldabra là một trong những chương trình hoạt động lâu nhất trong khu vực, nhưng lớp thảm thực vật dày đặc của đảo khiến việc kiểm đếm rùa ở nhiều nơi thực sự khó khăn,\" nhà sinh vật học về đảo Nancy Bunbury cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách mô hình hóa cả những gì chúng tôi không quan sát được lẫn những gì đã thấy, chúng tôi đã đưa ra số liệu nền đáng tin cậy nhất từ trước đến nay cho loài biểu tượng của Seychelles này, tạo ra một mốc chuẩn để theo dõi số lượng loài này trong nhiều thập kỷ tới.\""
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ không có gì bất ngờ khi người ta ghi nhận rùa tập trung đông đúc ở \"bãi cỏ rùa\" của đảo, những vùng đồng cỏ rộng được duy trì nhờ việc loài bò sát này liên tục gặm cỏ."
+    },
+    {
+     "t": "p",
+     "text": "Rùa có thể tạm thời an toàn trước những thủy thủ đói bụng, nhưng vẫn còn nhiều mối đe dọa khác."
+    },
+    {
+     "t": "p",
+     "text": "Đảo này rất dễ bị ảnh hưởng bởi mực nước biển dâng và hạn hán, khi việc con người sử dụng nhiên liệu hóa thạch vẫn tiếp tục làm biến đổi khí hậu toàn cầu với tốc độ chưa từng có."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, mèo hoang và chuột đen vẫn còn rất nhiều trên đảo, chúng săn trứng và rùa con mới nở."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều quan trọng cần nhớ là những con số này chỉ là điểm khởi đầu để theo dõi, không phải là đích cuối cùng,\" nhà sinh thái học Dave Hudson của Đại học Exeter, Anh, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi hy vọng đã cung cấp cho các nhà quản lý bảo tồn những chứng cứ cần thiết để theo dõi những thay đổi trong tương lai và hành động sớm, khi loài rùa đang phải đối mặt với áp lực ngày càng lớn từ biến đổi khí hậu, hạn hán và các loài sinh vật ngoại lai xâm hại.\""
+    }
+   ]
+  },
+  {
+   "id": "a3d8f4001de2",
+   "order": 19,
+   "slug": "bien-doi-khi-hau-lam-suy-giam-so-luong-chim-canh-cut-o-nam-c",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Biến đổi khí hậu làm suy giảm số lượng chim cánh cụt ở Nam Cực",
+   "sapo": "Hình ảnh từ thiết bị bay không người lái và vệ tinh cho thấy trong khoảng thời gian từ năm 2011-2025, đảo núi lửa Zavodovski đã mất hơn 680.000 con - tương đương 2/3 tổng số chim cánh cụt quai mũ.",
+   "author": "Nguyễn Hằng",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/bien-doi-khi-hau-lam-suy-giam-so-luong-chim-canh-cut-o-nam-cuc-post1140959.vnp",
+   "published": "2026-10-09T04:40:21+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 702,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-10/a3d8f4001de2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-10/a3d8f4001de2-0.jpg",
+     "caption": "Chim cánh cụt ở Nam Cực. (Ảnh: THX/TTXVN phát)",
+     "w": 1000,
+     "h": 701
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hòn đảo Zavodovski hẻo lánh gần Nam Cực đã không còn là nơi cư ngụ của quần thể chim cánh cụt quai mũ lớn nhất thế giới, trong bối cảnh biến đổi khí hậu dẫn đến chuỗi thức ăn đại dương thay đổi có thể khiến số lượng sinh vật từng phát triển mạnh tại đây giảm đột ngột."
+    },
+    {
+     "t": "p",
+     "text": "Đây là kết quả nghiên cứu mới được công bố ngày 7/10 trên tạp chí Current Biology."
+    },
+    {
+     "t": "p",
+     "text": "Theo Cơ quan Khảo sát Nam Cực thuộc Anh (BAS), hình ảnh từ thiết bị bay không người lái và vệ tinh cho thấy trong khoảng thời gian từ năm 2011 - 2025, đảo núi lửa Zavodovski đã mất hơn 680.000 con - tương đương 2/3 tổng số chim cánh cụt quai mũ."
+    },
+    {
+     "t": "p",
+     "text": "Tác giả chính của nghiên cứu, ông Norman Ratcliffe, nhận định đây là mức sụt giảm rất nhanh. Nghiên cứu này dấy lên lo ngại rằng số lượng chim cánh cụt quai mũ trên khắp quần đảo South Sandwich (bao gồm cả đảo Zavodovski) - vốn là nhà của 38% loài này - giảm mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả khảo sát vào năm 2011 cho thấy quần thể chim cánh cụt quai mũ trên khắp quần đảo South Sandwich vẫn ổn định. Tuy nhiên, số lượng của chúng trên đảo Zavodovski đã giảm từ khoảng 1,09 triệu cá thể sinh sản vào tháng 1/2011 xuống chỉ còn 402.000 con vào năm 2025, tương đương giảm 63%."
+    },
+    {
+     "t": "p",
+     "text": "Hòn đảo này cũng là nơi sinh sống của một loài khác là chim cánh cụt Macaroni. Số lượng loài này lại tăng từ khoảng 338.000 con năm 2011 lên 433.000 con vào năm 2025 và hiện vượt số lượng chim cánh cụt quai mũ."
+    },
+    {
+     "t": "p",
+     "text": "Như vậy, đảo Zavodovski có tổng cộng hơn 835.000 con chim cánh cụt quai mũ và Macaroni sinh sống. Với số liệu này, loài chim cánh cụt Adélie tại Mũi Adare, ở phía bên kia của Nam Cực, hiện là quần thể chim cánh cụt lớn nhất thế giới, với hơn 1 triệu con tính đến năm 2018."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Về nguyên nhân dẫn đến thực trạng trên, các nhà nghiên cứu cho rằng núi lửa Mount Curry phun trào trên đảo Zavodovski không phải là tác nhân chính dẫn đến số lượng chim cánh cụt quai mũ giảm đột ngột, mà khả năng là do loài giáp xác, nguồn thức ăn chính của chúng, giảm mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Nước biển ấm lên đã đẩy các loài giáp xác này về phía Nam tới các vùng nước lạnh giá hơn, nơi chim cánh cụt quai mũ khó thích nghi."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Ratcliffe, quần thể chim cánh cụt quai mũ trên đảo đang giảm với tốc độ 7% mỗi năm và biến đổi khí hậu tác động đến mạng lưới thức ăn có thể là nguyên nhân chính dẫn đến sự sụt giảm này. Trong khi đó, chim cánh cụt Macaroni lại gia tăng số lượng trong cùng kỳ nhờ chế độ ăn đa dạng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu kết luận đây là sự biến động mạnh nhất từ trước đến nay đối với thành phần trong cộng đồng chim cánh cụt tại một địa điểm duy nhất ở Nam Cực."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình biến động quần thể này là sự chuyển dịch chế độ do khí hậu gây ra, gây bất lợi cho chim cánh cụt quai mũ vùng biển Nam Cực nhưng lại tạo điều kiện thuận lợi cho chim cánh cụt Macaroni vùng cận Nam Cực."
+    },
+    {
+     "t": "p",
+     "text": "Trước thực trạng đáng báo động này, các nhà nghiên cứu cho rằng Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN) cần xếp loài chim cánh cụt quai mũ vào danh sách các loài động vật nguy cấp, nghiêm trọng hơn so với phân loại \"ít quan ngại\" như hiện nay, tức là chưa phải đối mặt với nguy cơ tuyệt chủng./."
+    },
+    {
+     "t": "h",
+     "text": "Dịch cúm gia cầm đẩy chim cánh cụt châu Phi đến bờ vực tuyệt chủng"
+    },
+    {
+     "t": "p",
+     "text": "Tổ chức Bảo tồn Chim ven biển Nam Phi cho biết, từ tháng 9/2025 đã ghi nhận 23 con chim cánh cụt châu Phi dương tính với cúm gia cầm độc lực cao, trong đó ít nhất 9 trường hợp đã chết."
+    }
+   ]
+  },
+  {
+   "id": "ab948aca0f5d",
+   "order": 20,
+   "slug": "bi-an-cua-meo-muop-cam-cuoi-cung-da-duoc-giai-dap-sau-60-nam",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Bí ẩn của mèo mướp cam cuối cùng đã được giải đáp sau 60 năm tìm kiếm",
+   "sapo": "Nếu bạn từng sống cùng một chú mèo lông cam, chắc bạn đã biết chúng khác biệt thế nào.",
+   "author": "Tessa Koumoundouros",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+   "published": "2026-10-09T10:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1226,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Secret of Orange Cats Finally Revealed After 60-Year Search",
+   "images": [
+    {
+     "src": "img/2026-10-10/ab948aca0f5d-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-10/ab948aca0f5d-0.jpg",
+     "caption": "Một chú mèo con tam thể. (Theresa Donahue McManus/Moment/Getty Images)",
+     "w": 600,
+     "h": 656
+    },
+    {
+     "src": "img/2026-10-10/ab948aca0f5d-1.jpg",
+     "caption": "Một con mèo tam thể đồi mồi. (Yosei G/Unsplash)",
+     "w": 642,
+     "h": 963
+    },
+    {
+     "src": "img/2026-10-10/ab948aca0f5d-2.jpg",
+     "caption": "Một chú mèo con lông cam. (Zelenenka/iStock/Getty Images Plus)",
+     "w": 642,
+     "h": 428
+    },
+    {
+     "src": "img/2026-10-10/ab948aca0f5d-3.jpg",
+     "caption": "Ở những vùng lông cam, nhiễm sắc thể hoạt động (màu đỏ) chứa một đột biến mất đoạn ở gen Arhgap36, làm thay đổi sự biểu hiện của các gen tạo sắc tố (melanogenesis) và sắc tố pheomelanin. Ở những vùng lông đen, nhiễm sắc thể hoạt động (màu đỏ) không chứa đoạn mất này. (Toh et al., Current Biology, 2025)",
+     "w": 600,
+     "h": 333
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nếu bạn từng sống cùng một chú mèo lông cam, chắc bạn đã biết chúng khác biệt thế nào. Hóa ra, xét về mặt di truyền, chúng thật sự khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Lông cam là một trong những đặc điểm dễ nhận biết nhất trong thế giới loài mèo, và cũng là một trong những bí ẩn khó giải nhất của di truyền học mèo."
+    },
+    {
+     "t": "p",
+     "text": "Không giống như hầu hết các màu lông ở động vật có vú, màu cam không tuân theo quy luật di truyền thông thường - và trong hơn 60 năm, gen chính xác gây ra điều này vẫn là một ẩn số."
+    },
+    {
+     "t": "p",
+     "text": "Hai nhóm nghiên cứu độc lập đã phát hiện ra rằng bất kỳ lớp lông màu lửa nào trên những chú mèo có vuốt đáng yêu của chúng ta đều có khả năng là kết quả của một đoạn DNA bị thiếu, nằm ở phần không mã hóa protein trong bộ gen của mèo."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây từng là một bí ẩn di truyền, một câu đố khó giải,\" nhà di truyền học Greg Barsh của Đại học Stanford nói với Sara Reardon của tạp chí Science vào năm 2024, khi các kết quả này lần đầu được chia sẻ trong các nghiên cứu sơ bộ (preprint)."
+    },
+    {
+     "t": "p",
+     "text": "Barsh và các đồng nghiệp phát hiện ra rằng các tế bào da của mèo - nơi lông cam mọc lên - sản sinh ra lượng RNA từ một gen tên là Arhgap36 nhiều gấp 13 lần so với tế bào da của những con mèo không có lông cam."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, các nhà nghiên cứu nghĩ rằng phần mã hóa protein của gen Arhgap36 hoạt động quá mức bị đột biến, nhưng họ bất ngờ phát hiện ra rằng chính đoạn trình tự nằm trước nó mới bị mất, và có lẽ điều này đã ảnh hưởng đến cách phần còn lại của gen được biểu hiện."
+    },
+    {
+     "t": "p",
+     "text": "Đoạn mất dài 5 kilobase này xuất hiện ở tất cả những con mèo lông cam mà các nhà nghiên cứu khảo sát, trong một cơ sở dữ liệu gồm 188 con mèo, bao gồm 145 con lông cam, 6 con tam thể/đồi mồi, và 37 con không có lông cam."
+    },
+    {
+     "t": "p",
+     "text": "Một phát hiện không khiến ai ngạc nhiên. Như đã được dự đoán từ lâu, gen đột biến này nằm trên nhiễm sắc thể X của mèo, điều này giải thích vì sao màu cam lại xuất hiện khác nhau rõ rệt giữa hai giới. Hầu hết mèo lông cam là mèo đực, trong khi hầu hết mèo cái có một phần lông cam thường có bộ lông loang nhiều màu khác nhau."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Khi xem xét tổng thể, những quan sát này cung cấp bằng chứng di truyền và bộ gen vững chắc cho thấy đoạn mất 5 kb chính là nguyên nhân gây ra tính trạng lông cam liên kết với giới tính,\" Barsh và nhóm nghiên cứu viết trong bài báo của họ."
+    },
+    {
+     "t": "p",
+     "text": "Từ khi con người bắt đầu sống cùng với mèo gần 10.000 năm trước, người ta đã thấy một điều lạ lùng: một con mèo đen và một con mèo cam có thể sinh ra những đàn mèo con với đủ loại màu sắc bất ngờ."
+    },
+    {
+     "t": "p",
+     "text": "Mèo con đực từ cặp bố mẹ này thường có màu cam hoặc đen, đúng như dự đoán. Nhưng mèo con cái lại có thể mang bộ lông vá nhiều màu như mèo tam thể gồm đen, cam và trắng, hoặc bộ lông vằn như mai rùa với các đốm cam rải trong nền lông đen."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cả hai nhóm nghiên cứu đều xác nhận đột biến gây ra màu lông cam nằm trên nhiễm sắc thể X (X chromosome), đó là lý do vì sao kiểu hình màu lông lại khác nhau rõ rệt giữa mèo đực và mèo cái."
+    },
+    {
+     "t": "p",
+     "text": "Khác với mèo đực chỉ có một nhiễm sắc thể X duy nhất nên chỉ mang một bản sao của đột biến này, mèo cái có hai nhiễm sắc thể X, mỗi bản sao đến từ một bên bố hoặc mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Ở động vật có vú, mỗi tế bào sẽ ngẫu nhiên vô hiệu hóa một trong hai nhiễm sắc thể X để tránh tạo ra quá nhiều sản phẩm từ nhiễm sắc thể này. Điều đó khiến những con mèo cái mang gen cam có một số vùng mô da đang phát triển với đột biến cam hoạt động, nằm ngay cạnh những tế bào khác mà nhiễm sắc thể X mang gen đột biến lại bị vô hiệu hóa."
+    },
+    {
+     "t": "p",
+     "text": "Trong một số trường hợp hiếm, khi cả hai nhiễm sắc thể X đều mang đột biến, mèo cái sẽ lớn lên với toàn bộ bộ lông màu cam rực như bất kỳ con mèo đực nào."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mèo cam từ lâu có \"tiếng xấu\" hài hước là không được thông minh lắm so với các con mèo khác. Nhưng ngoài những câu chuyện vui miệng, chưa có cơ sở khoa học nào chứng minh mối liên hệ giữa màu lông và trí thông minh của mèo, và đột biến này cũng không gây ra hậu quả xấu nào rõ rệt về sức khỏe hay tinh thần của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Gen Arhgap36 được biết là có thể gây ra các vấn đề phát triển ở nhiều loài động vật khác khi hoạt động quá mạnh hoặc quá yếu. Nhưng ở mèo cam, gen này dường như chỉ được biểu hiện quá mức trong các tế bào sắc tố gọi là tế bào melanin (melanocytes), cả khi chúng còn đang phát triển và khi đã trưởng thành."
+    },
+    {
+     "t": "p",
+     "text": "\"Sự khác biệt giữa mèo vằn mai rùa và mèo tam thể là do mèo tam thể có thêm một đột biến gây đốm trắng, ảnh hưởng đến khả năng sống sót của các tế bào melanin đang di chuyển ra khỏi mào thần kinh (neural crest) trong quá trình phát triển, giúp những dòng tế bào melanin còn sống sót lan rộng ra một vùng lớn hơn trên cơ thể,\" nhóm của Barsh giải thích."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu thứ hai, do nhà di truyền học Hidehiro Toh của Đại học Kyushu dẫn đầu, cũng xác định Arhgap36 chính là gen gây ra màu lông cam ở mèo. Họ phát hiện rằng khi gen này được biểu hiện mạnh hơn, nó sẽ ức chế các gen tạo sắc tố màu, làm chuyển từ sắc tố eumelanin màu nâu sẫm đến đen sang sắc tố pheomelanin màu đỏ cam đến vàng."
+    },
+    {
+     "t": "p",
+     "text": "Dù bí mật phía sau bộ lông màu lửa của chúng là gì, mèo cam vẫn có những người bạn đồng hành đáng nể."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu gần đây trên 93 quốc gia cho thấy những nước có nhiều mèo thường có mức độ hạnh phúc chung cao hơn - dù vậy, giống như mọi so sánh giữa 93 quốc gia, các nhà nghiên cứu cũng là người đầu tiên khẳng định rằng tương quan không đồng nghĩa với nhân quả."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này đã được công bố trên tạp chí Current Biology, ở đây và ở đây."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được kiểm chứng thông tin bởi Fiona MacDonald và biên tập bởi Fiona MacDonald. Dù luôn cố gắng làm việc cẩn thận, chúng tôi cũng có thể mắc sai sót. Nếu bạn phát hiện lỗi, hãy cho chúng tôi biết."
+    }
+   ]
+  }
+ ]
+}

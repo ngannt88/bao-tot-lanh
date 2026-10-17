@@ -1,0 +1,46 @@
+{
+ "engine": "gtts",
+ "dur": 106.58,
+ "parts": [
+  {
+   "p": -2,
+   "f": "efd7b59eaa9b-0.mp3",
+   "dur": 9.31
+  },
+  {
+   "p": -1,
+   "f": "efd7b59eaa9b-1.mp3",
+   "dur": 18.96
+  },
+  {
+   "p": 0,
+   "f": "efd7b59eaa9b-2.mp3",
+   "dur": 7.06
+  },
+  {
+   "p": 1,
+   "f": "efd7b59eaa9b-3.mp3",
+   "dur": 17.33
+  },
+  {
+   "p": 2,
+   "f": "efd7b59eaa9b-4.mp3",
+   "dur": 9.86
+  },
+  {
+   "p": 3,
+   "f": "efd7b59eaa9b-5.mp3",
+   "dur": 23.64
+  },
+  {
+   "p": 4,
+   "f": "efd7b59eaa9b-6.mp3",
+   "dur": 10.82
+  },
+  {
+   "p": 5,
+   "f": "efd7b59eaa9b-7.mp3",
+   "dur": 9.6
+  }
+ ]
+}
