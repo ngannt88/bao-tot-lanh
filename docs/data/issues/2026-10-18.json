@@ -1,0 +1,2416 @@
+{
+ "date": "2026-10-18",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-18T21:09:50+07:00",
+ "sections": [
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  }
+ ],
+ "articles": [
+  {
+   "id": "979809725a3e",
+   "order": 1,
+   "slug": "tho-san-vu-tru-toi-euclid-sap-he-lo-ban-do-hang-ti-thien-ha",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "'Thợ săn vũ trụ tối' Euclid sắp hé lộ bản đồ hàng tỉ thiên hà",
+   "sapo": "Sứ mệnh Euclid của Cơ quan Vũ trụ châu Âu (ESA) đang lập bản đồ hàng tỉ thiên hà nhằm tìm hiểu vật chất tối và năng lượng tối, hai thành phần bí ẩn chiếm khoảng 95% vũ trụ.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tho-san-vu-tru-toi-euclid-sap-he-lo-ban-do-hang-ti-thien-ha-100261016132042178.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 473,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/979809725a3e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/979809725a3e-0.jpg",
+     "caption": "Hình minh họa sứ mệnh Euclid trong không gian - Ảnh: ESA",
+     "w": 800,
+     "h": 400
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dự kiến vào tháng 11-2026, nhóm nghiên cứu của ESA sẽ công bố dữ liệu thô về khoảng 1.900 độ vuông (đơn vị đo góc khối trên mặt cầu) hình ảnh và quang phổ của các vật thể trong vũ trụ ."
+    },
+    {
+     "t": "p",
+     "text": "Đợt công bố dữ liệu khoa học đầu tiên đầy đủ dự kiến diễn ra vào giữa năm 2027, theo trang IFLScience ngày 15-10."
+    },
+    {
+     "t": "p",
+     "text": "Được phóng lên không gian năm 2023, Euclid được thiết kế để quan sát hàng tỉ thiên hà trong phạm vi khoảng 10 tỉ năm ánh sáng, qua đó xây dựng bản đồ cấu trúc quy mô lớn của vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Theo mô hình vũ trụ học hiện nay, vật chất thông thường - cấu thành các ngôi sao, hành tinh và con người - chỉ chiếm khoảng 5% vũ trụ, phần còn lại được cho là vũ trụ tối, gồm vật chất tối và năng lượng tối."
+    },
+    {
+     "t": "p",
+     "text": "Euclid không thể quan sát trực tiếp các thành phần này mà đo tác động của chúng lên những vật thể có thể nhìn thấy."
+    },
+    {
+     "t": "p",
+     "text": "Một phương pháp chủ chốt là thấu kính hấp dẫn yếu: lực hấp dẫn của vật chất tối bẻ cong không - thời gian, khiến ánh sáng từ các thiên hà ở xa bị biến dạng nhẹ. Phân tích những biến dạng này giúp giới khoa học suy ra sự phân bố vật chất tối."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm nghiên cứu, Euclid có thể quan sát một vùng trời rộng gấp 270 lần trường nhìn của kính viễn vọng Hubble chỉ trong vài giờ, với độ phân giải tương đương."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị cũng quan sát ở cả vùng ánh sáng khả kiến và hồng ngoại gần, hỗ trợ phát hiện các chuẩn tinh rất xa, những vùng có lỗ đen siêu nặng đang hoạt động mạnh, phát sáng từ giai đoạn đầu của vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài mục tiêu nghiên cứu vũ trụ tối, dữ liệu Euclid còn có thể giúp phát hiện những thiên thể và cấu trúc chưa từng được biết đến."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu phụ trách sứ mệnh Euclid cũng đang nghiên cứu việc tự động hóa quá trình phát hiện các bất thường bằng công cụ trí tuệ nhân tạo như Method AnomalyMatch."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ đó họ có thể xử lý hình ảnh của khoảng 950 triệu nguồn thiên văn trong vùng trời khảo sát hơn 1.900 độ vuông, phân loại các đối tượng bất thường trong vòng 5 - 10 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Sứ mệnh dự kiến thu thập dữ liệu trong sáu năm."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học kỳ vọng bản đồ vũ trụ chi tiết này sẽ giúp kiểm chứng mô hình vũ trụ học hiện hành và tiến gần hơn đến lời giải cho những bí ẩn lớn nhất về bản chất, sự hình thành và quá trình tiến hóa của vũ trụ."
+    }
+   ]
+  },
+  {
+   "id": "bd7ef2c40754",
+   "order": 2,
+   "slug": "ben-trong-phong-sach-day-nganh-ban-dan-cua-truong-cao-dang-t",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Bên trong 'phòng sạch' dạy ngành bán dẫn của trường cao đẳng tại TP.HCM",
+   "sapo": "Phòng sạch đạt tiêu chuẩn ISO 6 tại Trường CĐ Kỹ thuật Cao Thắng (TP.HCM) được đầu tư nhiều thiết bị, máy móc hiện đại, phục vụ đào tạo ngành công nghệ kỹ thuật bán dẫn và vi mạch.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ben-trong-phong-sach-day-nganh-ban-dan-cua-truong-cao-dang-tai-tphcm-185261016222606095.htm",
+   "published": "2026-10-17T22:45:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 751,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-0.jpg",
+     "caption": "Tại Trường CĐ Kỹ thuật Cao Thắng, phòng sạch được đầu tư theo tiêu chuẩn ISO 6, rộng 125 mét vuông, được trang bị đầy đủ thiết bị phục vụ dạy và học ngành công nghệ kỹ thuật bán dẫn và vi mạch",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-3.jpg",
+     "caption": "Phòng sạch hiện nay là kết quả phối hợp giữa nhà trường với nhiều doanh nghiệp, đơn vị",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-4.jpg",
+     "caption": "Hệ thống phóng to hình ảnh: nếu dùng mắt thường sẽ nhìn không rõ chân linh kiện có được hàn tốt hay không, có bị hở mạch hay không… thông qua hệ thống camera với độ phóng to gấp nhiều lần, độ nét cao, phù hợp với chuẩn công nghiệp, sẽ giúp sinh viên dễ             quan sát hơn",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-5.jpg",
+     "caption": "Kính lúp có đèn có thể zoom lớn các thông số, từ đó việc đọc các thông số, các chi tiết nhỏ trên chip bán dẫn hoặc bo mạch điện tử dễ dàng hơn",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-6.jpg",
+     "caption": "Mô hình về wafer và các sản phẩm gần như là sau cùng của quá trình chế tạo linh kiện bán dẫn",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-7.jpg",
+     "caption": "Máy gắp và thả linh kiện",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-8.jpg",
+     "caption": "Máy hàn (máy hấp bo) là thiết bị chuyên dụng dùng để tháo lắp, đóng cặp, làm chân lại các linh kiện bán dẫn",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-9.jpg",
+     "caption": "Máy hàn chipset bán dẫn (máy đóng chip BGA) là thiết bị chuyên dùng để tháo, lắp và hàn chip bán dẫn lên bảng mạch điện tử",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-10.jpg",
+     "caption": "Phòng rộng 125 mét vuông, được duy trì ở nhiệt độ 24-26 độ C, độ ẩm không khí 50-60%, áp suất 10-15Pa",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-18/bd7ef2c40754-11.jpg",
+     "caption": "Hệ thống xử lý không khí phòng sạch của KASUNAIR chuyên dùng để kiểm soát nhiệt độ, độ ẩm, độ sạch và lưu lượng gió trong các không gian yêu cầu tiêu chuẩn cao",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong 2 ngày 17 và 18.10, Hội Công nghệ vi mạch bán dẫn TP.HCM (HSIA) phối hợp với Trường CĐ Kỹ thuật Cao Thắng mở khóa đào tạo ngắn hạn về bán dẫn và trí tuệ nhân tạo."
+    },
+    {
+     "t": "p",
+     "text": "Khóa học dành cho kỹ sư, sinh viên, học viên cao học, nghiên cứu sinh, doanh nghiệp và các nhà quản lý có quan tâm đến lĩnh vực bán dẫn. Số lượng học viên tham gia lớp đào tạo ngắn hạn này là 40 người."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi khóa học diễn ra, học viên và khách mời tham quan khu vực đào tạo của trường, trong đó có phòng sạch đạt tiêu chuẩn ISO 6 phục vụ giảng dạy ngành công nghệ kỹ thuật bán dẫn và vi mạch."
+    },
+    {
+     "t": "p",
+     "text": "Giới thiệu với PV, tiến sĩ Lê Quang Huy, Trưởng khoa Nhiệt - Kỹ thuật nhiệt lạnh, Trường CĐ Kỹ thuật Cao Thắng, cho biết phòng sạch (cleanroom) là môi trường được kiểm soát nghiêm ngặt, chặt chẽ về nồng độ hạt bụi, vi sinh vật và các điều kiện khí hậu nhằm đáp ứng yêu cầu kỹ thuật của những quy trình sản xuất đặc thù."
+    },
+    {
+     "t": "p",
+     "text": "Công nghệ phòng sạch được ứng dụng trong nhiều lĩnh vực như y dược, thực phẩm, hóa mỹ phẩm, phòng thí nghiệm IVF, điện tử và bán dẫn."
+    },
+    {
+     "t": "p",
+     "text": "Thạc sĩ Võ Xuân Nam, Khoa Điện - Điện tử, Trường CĐ Kỹ thuật Cao Thắng, cho biết với ngành công nghiệp bán dẫn, phòng sạch có vai trò quan trọng trong quá trình chế tạo, lắp ráp và kiểm soát chất lượng linh kiện. Bụi và các hạt ô nhiễm dù rất nhỏ cũng có thể ảnh hưởng đến chất lượng sản phẩm."
+    },
+    {
+     "t": "p",
+     "text": "\"Để đào tạo ngành bán dẫn mà không có phòng sạch thì không đúng bản chất ngành bán dẫn\", tiến sĩ Lê Quang Huy nói."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Buồng tắm khí (Air Shower) là thiết bị dạng buồng kín được lắp đặt tại lối ra vào phòng sạch. Trước khi vào phòng sạch, giảng viên và sinh viên phải đi qua buồng tắm khí, để thiết bị này thổi bay và loại bỏ bụi bẩn, vi khuẩn, tạp chất bám trên quần áo"
+    },
+    {
+     "t": "p",
+     "text": "TS Lê Đình Kha, Hiệu trưởng Trường CĐ Kỹ thuật Cao Thắng, cho biết phòng sạch hiện nay là kết quả phối hợp giữa nhà trường với nhiều doanh nghiệp, đơn vị hoạt động trong lĩnh vực liên quan."
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Kha, để xây dựng phòng sạch đạt tiêu chuẩn, cần sự phối hợp đồng bộ của nhiều hạng mục và sự chung tay của các đơn vị. \"Một tấm panel không thể làm nên phòng sạch, một cái cửa không thể tạo thành phòng sạch… Đây là kết quả của nhiều đơn vị cùng đóng góp. Bất kể hạng mục nào phù hợp với khả năng của doanh nghiệp, họ đều sẵn sàng tài trợ, để sinh viên có cơ sở vật chất thực hành, tiệm cận với thực tế\", TS Kha chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bên trong phòng sạch chuẩn ISO phục vụ ngành bán dẫn tại Trường CĐ Kỹ thuật Cao Thắng"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh sự hỗ trợ trang thiết bị của doanh nghiệp, đội ngũ giảng viên cũng tham gia trực tiếp trong quá trình triển khai, lắp đặt. Nhà trường xác định việc đầu tư phòng sạch không dừng ở xây dựng cơ sở vật chất mà còn hướng đến tiếp nhận, chuyển giao và phải làm chủ công nghệ."
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Kha, hiện nay, đơn vị đã làm chủ công nghệ phòng sạch. Từ nền tảng này, nhiều sinh viên tốt nghiệp trường đã tham gia lắp đặt phòng sạch cho các đơn vị, doanh nghiệp trên cả nước."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "TS Lê Đình Kha cho biết năm học 2026-2027, trường mở ngành công nghệ kỹ thuật bán dẫn và vi mạch. Nhà trường xác định hướng đào tạo trọng tâm là lắp ráp, đóng gói và kiểm thử (ATP - Assembly, Packaging and Testing). Đây là khâu quan trọng trong chuỗi công nghiệp bán dẫn, đồng thời là lĩnh vực cần tập trung chuẩn bị nguồn nhân lực kỹ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Nhà trường vẫn tiếp tục đầu tư, hoàn thiện cơ sở vật chất phù hợp với thực tế doanh nghiệp để sinh viên có môi trường thực tập, thực hành. Việc kết hợp phòng sạch với các thiết bị thực hành chuyên dụng giúp sinh viên có điều kiện làm quen với yêu cầu kỹ thuật của lĩnh vực bán dẫn ngay tại trường."
+    }
+   ]
+  },
+  {
+   "id": "489f21e09d9d",
+   "order": 3,
+   "slug": "2-000-nguoi-mua-xoe-trong-dam-cuoi-ban-muong",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "2.000 người múa xòe trong 'đám cưới bản Mường'",
+   "sapo": "Màn múa xòe Thái với hơn 2.000 người tham gia đem đến câu chuyện tình yêu, văn hóa trong dịp kỷ niệm 5 năm nghệ thuật này được ghi danh di sản UNESCO.",
+   "author": "Phương Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/2-000-nguoi-mua-xoe-trong-dam-cuoi-ban-muong-5133527.html",
+   "published": "2026-10-17T12:53:44+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1337,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/489f21e09d9d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1799
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 798
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 798
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-18/489f21e09d9d-9.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "2.000 người múa xòe trong 'đám cưới bản Mường'"
+    },
+    {
+     "t": "p",
+     "text": "Màn múa xòe Thái với hơn 2.000 người tham gia đem đến câu chuyện tình yêu, văn hóa trong dịp kỷ niệm 5 năm nghệ thuật này được ghi danh di sản UNESCO."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tối 16/10, chương trình nghệ thuật \"Xòe Thái - Trọn một vòng yêu\" được trình diễn trong buổi khai mạc Lễ hội văn hóa, du lịch Mường Lò năm 2026. Năm nay đánh dấu 5 năm kể từ khi nghệ thuật xòe Thái được UNESCO ghi danh vào danh sách Di sản văn hóa phi vật thể đại diện của nhân loại."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình được dàn dựng như một \"siêu đám cưới bản Mường\" với hơn 2.000 người cùng hòa vào vòng, chúc phúc đôi trai gái. Từ vòng tay của hai người yêu nhau, vòng xòe mở rộng, kết nối cả cộng đồng, tạo nên \"Đại cảnh xòe\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Nguyễn Lâm Tới, Phó giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Lào Cai, Mường Lò là vùng đất giàu truyền thống văn hóa các dân tộc, nổi bật với nghệ thuật xòe Thái, trang phục truyền thống, dân ca, truyện thơ và phong tục, tập quán của đồng bào dân tộc Thái."
+    },
+    {
+     "t": "p",
+     "text": "Tối 16/10, chương trình nghệ thuật \"Xòe Thái - Trọn một vòng yêu\" được trình diễn trong buổi khai mạc Lễ hội văn hóa, du lịch Mường Lò năm 2026. Năm nay đánh dấu 5 năm kể từ khi nghệ thuật xòe Thái được UNESCO ghi danh vào danh sách Di sản văn hóa phi vật thể đại diện của nhân loại."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình được dàn dựng như một \"siêu đám cưới bản Mường\" với hơn 2.000 người cùng hòa vào vòng, chúc phúc đôi trai gái. Từ vòng tay của hai người yêu nhau, vòng xòe mở rộng, kết nối cả cộng đồng, tạo nên \"Đại cảnh xòe\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Nguyễn Lâm Tới, Phó giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Lào Cai, Mường Lò là vùng đất giàu truyền thống văn hóa các dân tộc, nổi bật với nghệ thuật xòe Thái, trang phục truyền thống, dân ca, truyện thơ và phong tục, tập quán của đồng bào dân tộc Thái."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Giữa sân vận động, những dãy núi trùng điệp được tái hiện, tạo nên khung cảnh bản Mường, với câu chuyện tình yêu của đôi trai tài, gái sắc. Họ cùng nhau lớn lên, nảy sinh tình cảm, vượt qua nghịch cảnh, kết hôn dưới sự chúc phúc của bản làng."
+    },
+    {
+     "t": "p",
+     "text": "Tổng đạo diễn chương trình Lê Hải Yến cho biết câu chuyện tình yêu như mạch dẫn cảm xúc và là cách để chương trình kể, tôn vinh bản sắc văn hóa của người Thái, từ phong tục, tập quán, những làn điệu dân ca đến sinh hoạt cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Giữa sân vận động, những dãy núi trùng điệp được tái hiện, tạo nên khung cảnh bản Mường, với câu chuyện tình yêu của đôi trai tài, gái sắc. Họ cùng nhau lớn lên, nảy sinh tình cảm, vượt qua nghịch cảnh, kết hôn dưới sự chúc phúc của bản làng."
+    },
+    {
+     "t": "p",
+     "text": "Tổng đạo diễn chương trình Lê Hải Yến cho biết câu chuyện tình yêu như mạch dẫn cảm xúc và là cách để chương trình kể, tôn vinh bản sắc văn hóa của người Thái, từ phong tục, tập quán, những làn điệu dân ca đến sinh hoạt cộng đồng."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Thay vì chọn giới thiệu điệu Xòe bằng những màn biểu diễn rời rạc, năm nay, Lào Cai lấy cảm hứng từ kiệt tác thơ dân gian của người Thái \"Xống chụ xon xao\" làm mạch dẫn."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình kéo dài hơn một tiếng, dẫn dắt khán giả khám phá đời sống của người dân Mường Lò thông qua ba chương: Mầm thương, Sợi nhớ, Vòng yêu."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì chọn giới thiệu điệu Xòe bằng những màn biểu diễn rời rạc, năm nay, Lào Cai lấy cảm hứng từ kiệt tác thơ dân gian của người Thái \"Xống chụ xon xao\" làm mạch dẫn."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình kéo dài hơn một tiếng, dẫn dắt khán giả khám phá đời sống của người dân Mường Lò thông qua ba chương: Mầm thương, Sợi nhớ, Vòng yêu."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chương đầu tiên, \" Mầm thương\", tái hiện Mường Lò thuở khai hoang, dựng bản bằng diễn xuất kết hợp công nghệ 3D mapping. Qua ba cảnh Mầm lúa, Xuân thì và Hẹn ước, hình ảnh cày bừa, gieo mạ, trồng lúa khắc họa hành trình con người gắn bó với đất đai, núi rừng để xây dựng bản Mường trù phú."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trong khung cảnh ấy, những đứa trẻ sinh cùng mùa lúa, lớn lên trong một bản Mường và gắn bó từ thuở ấu thơ. Bên dòng Nậm Thia, hình ảnh những cô gái Thái tuổi xuân thì với mái tóc dài buông bên suối tạo nên bức tranh miền sơn cước thơ mộng."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Nếu \"Mầm thương\" kể về những rung động đầu đời, \"Sợi nhớ\" đưa tình yêu vào thử thách qua các cảnh Thách cưới, Bốn mùa đợi mong, Ngày về, Đón dâu và Đám cưới bản Mường. Chàng trai cùng bà mối mang trầu cau đến dạm ngõ nhưng phải đáp ứng yêu cầu sính lễ của cha cô gái theo phong tục người Thái. Anh hẹn mùa hoa ban sẽ trở về với đầy đủ sính lễ, còn cô gái ở lại bên khung cửi, gửi nỗi nhớ vào từng sợi chỉ thổ cẩm."
+    },
+    {
+     "t": "p",
+     "text": "Qua vòng tuần hoàn của 4 mùa xuân - hạ - thu - đông, những cung đường núi rừng, khung cửi và sợi dây \"xai peng\" (dây tình yêu) trở thành hình ảnh xuyên suốt, kết nối đôi tình nhân cách xa."
+    },
+    {
+     "t": "p",
+     "text": "Nếu \"Mầm thương\" kể về những rung động đầu đời, \"Sợi nhớ\" đưa tình yêu vào thử thách qua các cảnh Thách cưới, Bốn mùa đợi mong, Ngày về, Đón dâu và Đám cưới bản Mường. Chàng trai cùng bà mối mang trầu cau đến dạm ngõ nhưng phải đáp ứng yêu cầu sính lễ của cha cô gái theo phong tục người Thái. Anh hẹn mùa hoa ban sẽ trở về với đầy đủ sính lễ, còn cô gái ở lại bên khung cửi, gửi nỗi nhớ vào từng sợi chỉ thổ cẩm."
+    },
+    {
+     "t": "p",
+     "text": "Qua vòng tuần hoàn của 4 mùa xuân - hạ - thu - đông, những cung đường núi rừng, khung cửi và sợi dây \"xai peng\" (dây tình yêu) trở thành hình ảnh xuyên suốt, kết nối đôi tình nhân cách xa."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Chương cuối \" Vòng yêu\" mở rộng cảm xúc từ hạnh phúc riêng đến niềm vui chung của bản Mường. Các màn Châm lửa, Đội hình vòng xoáy, Cút Piêu, Tà Liêu, Mak Cưởm, hoa ban và vòng tròn đồng tâm được thể hiện bởi 2.026 người dân tộc Thái."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Từ đám cưới đôi trẻ, niềm vui lan tỏa đến họ hàng, làng bản. Ngọn lửa tình yêu được thắp lên, những vòng xòe dần hình thành, quy tụ cộng đồng . Các đội hình múa được dàn dựng kỳ công, tái hiện những hoa văn đặc trưng của người Thái, biến vòng xòe thành ngôn ngữ văn hóa kết nối cộng đồng."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Cảm xúc được đẩy lên cao trào khi chương trình đưa vào hai câu thơ nổi tiếng trong truyện thơ dân gian Thái Xống chụ xon xao : \"Không lấy được nhau mùa hạ, ta sẽ lấy nhau mùa đông/ Không lấy được nhau thời trẻ, ta sẽ tìm nhau khi góa bụa về già\"."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Lễ hội Văn hóa - Du lịch Mường Lò 2026 (15-21/10) diễn ra nhiều hoạt động như Chương trình diễu diễn đường phố, hội chợ Du lịch Tây Bắc năm 2026 và không gian quảng bá, kết nối sản phẩm OCOP gắn với du lịch cấp vùng; không gian Sắc màu văn hóa Tây Bắc; triển lãm ảnh đẹp Du lịch Tây Bắc và Lào Cai."
+    },
+    {
+     "t": "p",
+     "text": "Phương Anh Ảnh: BTC"
+    }
+   ]
+  },
+  {
+   "id": "bfc04ca1d862",
+   "order": 4,
+   "slug": "truyen-thong-quoc-te-viet-nam-se-lam-thay-doi-bang-xep-hang",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Truyền thông quốc tế: 'Việt Nam sẽ làm thay đổi bảng xếp hạng sân vận động thế giới'",
+   "sapo": "Báo Newsis của Hàn Quốc đăng tải bài viết bình luận về sân vận động VinFast - Trống Đồng của Việt Nam đang được xây dựng tại khu đô thị thể thao quốc tế Hà Nội.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/truyen-thong-quoc-te-viet-nam-se-lam-thay-doi-bang-xep-hang-san-van-dong-the-gioi-100261018183542668.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 359,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/bfc04ca1d862-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/bfc04ca1d862-0.jpg",
+     "caption": "Sân vận động VinFast được kỳ vọng sẽ nâng tầm thể thao Việt Nam - Ảnh: D.N.",
+     "w": 1014,
+     "h": 670
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Bản đồ các sân vận động thế giới đang thay đổi, khi Việt Nam xây dựng sân vận động có sức chứa 135.000 chỗ ngồi\", báo Newsis giật tít trong bài báo đăng tải vào cuối tuần này."
+    },
+    {
+     "t": "p",
+     "text": "Trước Newsis , Đài Globo Esporte của Brazil đã đăng tải một bài viết trên trang web chính thức về sân vận động VinFast của Việt Nam và khẳng định đây sẽ là sân vận động lớn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Kế đến là sân vận động Hassan II của Morocco - với sức chứa 115.000 người cũng đang trong quá trình xây dựng, dự kiến hoàn thành vào năm 2029."
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải lần đầu tiên truyền thông quốc tế bày tỏ thái độ trầm trồ với công trình thể thao khổng lồ của Việt Nam. Từ nhiều tháng qua, các trang báo trong khu vực đã liên tục đăng tải thông tin về sân vận động VinFast."
+    },
+    {
+     "t": "p",
+     "text": "Còn trong bài viết mới đây, báo Newsis của Hàn Quốc bình luận: \"Phần kiến trúc bên ngoài sân vận động phản ánh yếu tố văn hóa độc đáo của Việt Nam, nổi bật với mái vòm vàng lấy cảm hứng từ văn hóa trống đồng Đông Sơn."
+    },
+    {
+     "t": "p",
+     "text": "Với sức chứa dự kiến 135.000 người, sân vận động VinFast - Trống Đồng sẽ vượt qua sân vận động Rungrado ở Bình Nhưỡng, Triều Tiên (sức chứa khoảng 114.000 người), hiện là sân vận động bóng đá lớn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả khi gộp chung với các môn thể thao khác, sân vận động này cũng có thể lớn hơn so với sân vận động Narendra Modi của Ấn Độ (khoảng 132.000 người), vốn phục vụ cho môn cricket\"."
+    },
+    {
+     "t": "p",
+     "text": "Cuối bài viết, báo Newsis tin rằng 2 sân vận động VinFast của Việt Nam và Hassan II của Morocco \"sẽ làm thay đổi bảng xếp hạng các sân vận động thế giới\"."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, nhiều trang báo khác của Anh như Daily Mail , Ruck cũng đã bày tỏ sự ấn tượng khi Việt Nam \"sở hữu sân vận động lớn gấp đôi các sân giàu truyền thống của Anh\" (như Anfield, Twickenham)."
+    }
+   ]
+  },
+  {
+   "id": "1e67e36a837d",
+   "order": 5,
+   "slug": "viet-nam-gianh-1-huy-chuong-vang-xep-thu-tu-olympic-vat-ly-q",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Việt Nam giành 1 huy chương vàng, xếp thứ tư Olympic vật lý quốc tế Al-Fergani 2026",
+   "sapo": "Cả 4 học sinh Việt Nam dự thi Olympic vật lý quốc tế Al-Fergani 2026 đều đoạt giải, trong đó có 1 huy chương vàng, 2 huy chương bạc và 1 huy chương đồng.",
+   "author": "NGUYÊN BẢO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/viet-nam-xep-thu-tu-olympic-vat-ly-quoc-te-al-fergani-2026-100261017102427357.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 300,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/1e67e36a837d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/1e67e36a837d-0.jpg",
+     "caption": "Đoàn học sinh Việt Nam tại FiPhO 2026 (từ trái qua phải: PGS.TS Phạm Văn Hải, em Trương Bá Chí Thành, em Lê Bá Tuấn Việt, em Lê Hồng Nhân, em Tăng Hạo Nhiên và PGS.TS Nguyễn Công Toản) - Ảnh: MOET",
+     "w": 1280,
+     "h": 924
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sáng 17-10, Bộ Giáo dục và Đào tạo cho biết 100% học sinh Việt Nam dự thi Olympic vật lý quốc tế Al-Fergani lần thứ hai (2nd Al-Fergani International Physics Olympiad - FIPhO 2026) đoạt giải."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi diễn ra từ ngày 10 đến 17-10 tại thành phố Samarkand (Uzbekistan). Đội tuyển Việt Nam dự thi được tuyển chọn từ những học sinh lớp 11 năm học 2025 - 2026 đã tham dự kỳ thi chọn đội tuyển Olympic vật lý quốc tế năm 2026 của Bộ Giáo dục và Đào tạo."
+    },
+    {
+     "t": "p",
+     "text": "Theo kết quả được công bố tại lễ trao giải, đoàn Việt Nam có thành tích xếp thứ tư toàn đoàn, sau các đoàn Nga, Trung Quốc và nước chủ nhà Uzbekistan."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó học sinh Lê Bá Tuấn Việt (Trường THPT chuyên Khoa học tự nhiên, Trường đại học Khoa học tự nhiên, Đại học Quốc gia Hà Nội) đoạt huy chương vàng."
+    },
+    {
+     "t": "p",
+     "text": "Hai học sinh đoạt huy chương bạc là Trương Bá Chí Thành (Trường THPT chuyên Khoa học tự nhiên, Trường đại học Khoa học tự nhiên, Đại học Quốc gia Hà Nội) và Tăng Hạo Nhiên (Trường THPT chuyên Quốc học Huế)."
+    },
+    {
+     "t": "p",
+     "text": "Huy chương đồng là học sinh Lê Hồng Nhân (Trường THPT chuyên Lam Sơn, tỉnh Thanh Hóa)."
+    },
+    {
+     "t": "p",
+     "text": "Kỳ thi Olympic vật lý quốc tế Al-Fergani với sự tham gia của 107 thí sinh đến từ 15 quốc gia và vùng lãnh thổ."
+    },
+    {
+     "t": "p",
+     "text": "Theo Bộ Giáo dục và Đào tạo, thành tích của học sinh Việt Nam tại FiPhO 2026 thể hiện sự nỗ lực, quyết tâm của các học sinh; sự tận tâm, trách nhiệm của các thầy cô trong công tác bồi dưỡng, hướng dẫn chuyên môn; cùng sự đồng hành, hỗ trợ và động viên từ gia đình, nhà trường."
+    }
+   ]
+  },
+  {
+   "id": "aa08d1049a61",
+   "order": 6,
+   "slug": "tu-be-9-tuoi-den-nguoi-dan-ong-42-tuoi-cung-hien-toc-tang-be",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từ bé 9 tuổi đến người đàn ông 42 tuổi cùng hiến tóc tặng bệnh nhân ung thư",
+   "sapo": "Cô bé 9 tuổi đã nuôi tóc suốt ba năm, người mẹ đưa con vượt đường xa đến ngày hội và người đàn ông kiên trì nuôi tóc gần bốn năm, mỗi người mang đến “Trạm tóc ước mơ” một món quà đặc biệt dành tặng bệnh nhân ung thư.",
+   "author": "DƯƠNG LIỄU",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tu-be-9-tuoi-den-nguoi-dan-ong-42-tuoi-cung-hien-toc-tang-benh-nhan-ung-thu-100261018131919344.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 842,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/aa08d1049a61-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/aa08d1049a61-0.jpg",
+     "caption": "Anh Giang đã dành gần 4 năm để nuôi tóc tặng bệnh nhi ung thư - Ảnh: DƯƠNG LIỄU",
+     "w": 1237,
+     "h": 928
+    },
+    {
+     "src": "img/2026-10-18/aa08d1049a61-1.jpg",
+     "caption": "Những mái tóc được các chiến sĩ cắt tỉa để hiến tặng  - Ảnh: DƯƠNG LIỄU",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-18/aa08d1049a61-2.jpg",
+     "caption": "Ai cũng vui vẻ cắt đi mái tóc dài để dành tặng bệnh nhân ung thư - Ảnh: DƯƠNG LIỄU",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-18/aa08d1049a61-3.jpg",
+     "caption": "Chị Hoàng Thị Diều Thuần cùng bệnh nhi tại ngày hội - Ảnh: DƯƠNG LIỄU",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-18/aa08d1049a61-4.jpg",
+     "caption": "Anh Bùi Ngọc Anh hiến máu tại ngày hội \"Sắc hồng yêu thương\" - Ảnh: BVCC",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 18-10, tại Viện Huyết học - Truyền máu Trung ương , hai ngày hội nhân ái \" Trạm tóc ước mơ \" và \" Sắc hồng yêu thương \" cùng diễn ra, đón những người đến hiến tóc, hiến máu với mong muốn sẻ chia một phần của mình cho những người đang cần giúp đỡ."
+    },
+    {
+     "t": "h",
+     "text": "Người đàn ông nuôi tóc gần bốn năm tặng bệnh nhân"
+    },
+    {
+     "t": "p",
+     "text": "Trong hàng ghế chờ cắt tóc tại \"Trạm tóc ước mơ\", anh Nguyễn Hoàng Giang (42 tuổi, Hà Nội) gây chú ý với mái tóc dài được nuôi suốt gần bốn năm."
+    },
+    {
+     "t": "p",
+     "text": "Từng nhiều lần hiến máu tại viện, anh biết đến hoạt động hiến tóc và quyết định tham gia. Với anh, mái tóc mình có thể là điều bình thường, nhưng với những em nhỏ đang điều trị ung thư, đó có thể là món quà mang lại niềm vui và sự tự tin."
+    },
+    {
+     "t": "p",
+     "text": "Cũng có mặt từ sáng sớm, chị Nguyễn Thị Huệ (xã Văn Giang, tỉnh Hưng Yên) đưa ba con nhỏ đến ngày hội. Hôm nay, chị và cô con gái 9 tuổi cùng cắt tóc để gửi tặng những bệnh nhân ung thư ."
+    },
+    {
+     "t": "p",
+     "text": "Gia đình chị khởi hành từ gần 7h sáng. Dù đường xa, các con vẫn háo hức chờ đến lượt cắt tóc. Với chị Huệ, chuyến đi không chỉ để trao tặng một món quà, mà còn là dịp để các con hiểu hơn về sự sẻ chia."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi muốn cho các con tham quan, gặp gỡ và chia sẻ với các bạn để hiểu vì sao mình nên làm những việc thiện nguyện. Tôi muốn các con biết rằng có nhiều bạn gặp khó khăn, không may mắn và mình có thể chia sẻ từ những điều nhỏ nhất\", chị Huệ kể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Vừa cầm những lọn tóc mới cắt trên tay, A.T. (9 tuổi, Hà Nội) nở nụ cười rạng rỡ. Để có thể tham gia ngày hội, em đã dành ba năm nuôi tóc. \"Con vui lắm ạ. Mong tóc của con sẽ giúp các bạn vui vẻ hơn. Chút nữa về, con sẽ khoe với ông bà, cô và em vì hôm nay đã làm được một điều ý nghĩa\", T. hào hứng nói."
+    },
+    {
+     "t": "p",
+     "text": "Những mái tóc được cắt đi trong ngày hội mang theo nhiều câu chuyện khác nhau. Có người đã kiên trì nuôi tóc suốt nhiều năm, có người đưa con đến để gieo những bài học đầu tiên về lòng nhân ái."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Từ người bệnh đến người trao yêu thương"
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau \"Trạm tóc ước mơ\" là câu chuyện của chị Hoàng Thị Diệu Thuần, người sáng lập chương trình. Chị từng điều trị tại Viện Huyết học - Truyền máu Trung ương từ năm 2005 và may mắn có cơ hội tiếp tục cuộc sống sau ca ghép tế bào gốc thành công."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Từng trải qua những ngày tháng chiến đấu với bệnh tật, chị hiểu những khó khăn mà người bệnh phải đối diện, trong đó có nỗi buồn khi mái tóc rụng đi vì điều trị. Từ trải nghiệm của chính mình, chị mong muốn làm điều gì đó có ý nghĩa cho những bệnh nhân đang ở trong hoàn cảnh mà chị từng trải qua."
+    },
+    {
+     "t": "p",
+     "text": "Chị kết nối với bệnh viện, triển khai chương trình tiếp nhận tóc hiến tặng, làm tóc giả và trao tặng cho người bệnh."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, \"Trạm tóc ước mơ\" đã tiếp nhận hơn 32.000 lượt tóc hiến tặng, với sự chung tay của các nhà hảo tâm, tình nguyện viên và những người sẵn sàng trao đi mái tóc của mình."
+    },
+    {
+     "t": "p",
+     "text": "Tại ngày hội, những bộ tóc mới được trao tận tay các bệnh nhi. Với các em, đó không chỉ là món quà để thay đổi diện mạo, mà còn là cơ hội để trở lại với những sinh hoạt quen thuộc, tự tin hơn khi đi học, đi chơi và gặp gỡ mọi người."
+    },
+    {
+     "t": "h",
+     "text": "Trao đi giọt máu, trao thêm cơ hội sống"
+    },
+    {
+     "t": "p",
+     "text": "Cùng ngày 18-10, chương trình hiến máu tình nguyện \"Sắc hồng yêu thương\" tại Viện Huyết học - Truyền máu Trung ương cũng đón nhiều người đến trao tặng những giọt máu của mình."
+    },
+    {
+     "t": "p",
+     "text": "Anh Bùi Ngọc Anh (36 tuổi, ở Ô Chợ Dừa, Hà Nội) có 74 lần hiến máu và tiểu cầu. Với anh, việc hiến máu không phải điều gì cần được nhiều người biết đến, mà đơn giản là một cách giúp đỡ những người đang cần khi bản thân còn đủ sức khỏe."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Anh cũng từng hai lần được tuyên dương người hiến máu tiêu biểu, vào năm 2020 và năm 2025."
+    },
+    {
+     "t": "p",
+     "text": "Công việc kỹ thuật khá bận rộn trong tuần, vì vậy anh thường tranh thủ những ngày cuối tuần để đến hiến máu theo lịch. Không chỉ tự mình duy trì việc làm này, anh còn vận động bố mẹ cùng tham gia."
+    },
+    {
+     "t": "p",
+     "text": "Với anh Ngọc Anh, khi còn sức khỏe, mỗi người đều có thể góp một phần nhỏ để giúp đỡ người khác."
+    }
+   ]
+  },
+  {
+   "id": "929e8be8c6d0",
+   "order": 7,
+   "slug": "mat-me-va-em-nam-sinh-dan-toc-cham-sup-do-nhung-van-dau-dh-d",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Mất mẹ và em, nam sinh dân tộc Chăm sụp đổ nhưng vẫn đậu ĐH Đà Lạt, đóng học phí xong còn 200.000 đồng",
+   "sapo": "Xích Hoài Nghiệp (Lâm Đồng) mất mẹ và em gái trong hoàn cảnh xé lòng khi đang học lớp 11. Ở tuổi 18, Nghiệp phải tự học cách vượt qua những chông chênh để thay mẹ quán xuyến gia đình.",
+   "author": "HỒNG THẮM",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/mat-me-va-em-nam-sinh-dan-toc-cham-sup-do-nhung-van-dau-dh-da-lat-dong-hoc-phi-xong-con-200000-dong-100261017065234439.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1055,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/929e8be8c6d0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/929e8be8c6d0-0.jpg",
+     "caption": "Không gian sinh hoạt và học tập của Xích Hoài Nghiệp đăng ký ở ký túc xá Trường đại học Đà Lạt - Ảnh: HỒNG THẮM",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-18/929e8be8c6d0-1.jpg",
+     "caption": "Xích Hoài Nghiệp (áo đen đang ngồi) làm bài tập nhóm cùng bạn bè - Ảnh: HỒNG THẮM",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-18/929e8be8c6d0-2.jpg",
+     "caption": "Chiếc vòng là kỷ vật của mẹ, theo Xích Hoài Nghiệp suốt 5 năm nay - Ảnh: HỒNG THẮM",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-10-18/929e8be8c6d0-3.jpg",
+     "caption": "",
+     "w": 730,
+     "h": 491
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giữa những mất mát chưa nguôi, chàng trai người Chăm vẫn nỗ lực học tập, nuôi ước mơ để có thể san sẻ gánh nặng với cha và trở thành chỗ dựa cho em trai. Sau nhiều trúc trắc, Nghiệp nay đã là tân sinh viên ngành toán học, Trường đại học Đà Lạt ."
+    },
+    {
+     "t": "h",
+     "text": "\"Mình cầu nguyện rất nhiều, mẹ và em vẫn ra đi\""
+    },
+    {
+     "t": "p",
+     "text": "Từ khi sinh ra, Nghiệp đã quen hình ảnh mẹ gắn bó với nghề may. Gọi là tiệm may nhưng thực chất chỉ có một chiếc máy may nhỏ, chuyên nhận sửa quần áo của bà con hàng xóm và cắt may trang phục truyền thống của đồng bào Chăm."
+    },
+    {
+     "t": "p",
+     "text": "Nghiệp kể rằng mẹ từng chịu nhiều thiệt thòi. Là chị cả trong gia đình, mẹ phải nghỉ học sớm để lo cho các em được đến trường. Bởi vậy, mẹ luôn dặn Nghiệp phải cố gắng học hành chăm chỉ, có nghề nghiệp để sau này tự lo cho cuộc sống ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Năm 2024, gia đình có thêm niềm vui khi mẹ mang thai em gái. Cả nhà háo hức chờ đón thành viên mới. Để có thêm tiền trang trải cuộc sống, mẹ nhận nhiều việc hơn. Khi mang thai, mẹ còn đi chở than thuê để kiếm tiền mua quần áo sơ sinh cho con."
+    },
+    {
+     "t": "p",
+     "text": "Hôm ấy, Nghiệp đang chuẩn bị đi học thì được cha bảo đi gọi bà nội vì mẹ sắp sinh. Nghiệp chạy đi với niềm vui sướng khi nghĩ rằng gia đình sắp có thêm một em bé gái. Thế nhưng khi trở về, Nghiệp thấy mẹ nằm trong vòng tay cha. Nghiệp gọi mẹ nhưng mẹ không trả lời. Xe cấp cứu đến cũng không cứu được mẹ."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình đã nguyện cầu biết bao nhiêu để mẹ được mẹ tròn con vuông, nhưng cuối cùng mẹ đã đắp khăn trắng rồi. Khi đó mình đứng chôn chân tại chỗ, nước mắt cứ thế rơi\", Nghiệp nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Mẹ và em gái ra đi. Gia đình từ đó vắng hẳn đi những tiếng nói cười rộn rã. Những món đồ mẹ chuẩn bị cho con gái vẫn nằm lặng lẽ trong một góc tủ. Chiếc máy may bên cửa sổ lặng lẽ."
+    },
+    {
+     "t": "p",
+     "text": "\"Chiếc máy may vẫn ở nơi cũ như mẹ vẫn còn ở lại trong nhà với ba cha con\", Nghiệp nói. Biến cố về mẹ quá bất ngờ khiến Nghiệp suy sụp."
+    },
+    {
+     "t": "h",
+     "text": "Gắng gượng đứng dậy làm chỗ dựa cho em và đậu đại học"
+    },
+    {
+     "t": "p",
+     "text": "Cha vẫn phải đi làm thuê để nuôi hai anh em ăn học. Em trai nay mới lên 10 tuổi, chưa thể tự chăm sóc bản thân, Nghiệp dần trở thành người thay mẹ quán xuyến việc nhà."
+    },
+    {
+     "t": "p",
+     "text": "Càng ở nhà, Nghiệp càng thấy những khoảng trống không thể lấp đầy. Em trai Nghiệp còn nhỏ, đôi lúc vẫn hỏi mẹ đâu. Em chưa thể hiểu hết sự mất mát, còn Nghiệp phải học cách chấp nhận rằng từ nay gia đình không còn mẹ bên cạnh."
+    },
+    {
+     "t": "p",
+     "text": "Nghiệp nghĩ đến việc bỏ học để đi làm phụ cha hoặc ở nhà làm việc, chăm sóc em trai. Nhưng cũng tự thấy cần phải có nghề nghiệp để sau này hai anh em có thể chăm sóc, lo toan cho nhau."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sang lớp 12, khi kỳ thi tốt nghiệp đến gần, áp lực càng lớn. Nhìn các bạn cùng lớp được cha mẹ đưa đón, được mẹ nấu cơm và chăm sóc, Nghiệp chạnh lòng."
+    },
+    {
+     "t": "p",
+     "text": "Những lúc ấy, Nghiệp lại nhớ mẹ. Tấm hình hai mẹ con chụp chung đặt trên bàn trở thành nơi Nghiệp gửi gắm nỗi niềm. Nhớ những lời mẹ dặn, nhớ mong muốn của mẹ rằng hai anh em phải học hành đàng hoàng, trưởng thành và có nghề nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Từ những ký ức ấy, Nghiệp tìm lại động lực, tự nhắc mình phải cố gắng, không chỉ vì tương lai của bản thân mà còn vì cha và em trai."
+    },
+    {
+     "t": "p",
+     "text": "Đà Lạt tháng 10 gió thốc khu dốc đá lạnh thấu xương. Ngày Nghiệp nhập học, mưa phố núi chưa dứt, làn khói mỏng bao quanh khu cư xá. Chàng trai gửi chút hành lý vào phòng rồi vội đi tìm việc làm thêm. Bước chân đi về phía trung tâm Đà Lạt khiến tân sinh viên Hoài Nghiệp không còn thấy quá lạnh. \"Mình thấy ấm khi nghĩ có mẹ đang đi cùng trong hoàn cảnh khó khăn\", Nghiệp tâm tình."
+    },
+    {
+     "t": "h",
+     "text": "Thiếu 300.000 đồng đóng tiền ký túc xá"
+    },
+    {
+     "t": "p",
+     "text": "Ngày nhập học đại học, sau khi đóng học phí, trong túi chàng trai chỉ còn đúng 200.000 đồng, còn thiếu 300.000 đồng để đóng tiền ký túc xá."
+    },
+    {
+     "t": "p",
+     "text": "Nhẩm đếm những chi tiêu đắt đỏ tại Đà Lạt, Nghiệp cảm thấy khá cô đơn và lạc lõng. Đứng trước ký túc xá, chàng sinh viên quê nghèo nghẹn ngào."
+    },
+    {
+     "t": "p",
+     "text": "Dù bài toán chi phí vẫn là trở ngại khó vượt qua, Nghiệp bám vào lời dặn dò của mẹ để bình tĩnh. Nghiệp nhìn cha cùng những hy sinh của ông. Nghiệp tự nhìn vào sự yếu đuối của mình cùng trách nhiệm với em trai rồi dặn lòng \"Nghiệp ơi đi học tiếp, đừng dừng lại\"."
+    },
+    {
+     "t": "h",
+     "text": "Lễ trao học bổng Tiếp sức đến trường cho tân sinh viên Tây Nguyên tại Đà Lạt"
+    },
+    {
+     "t": "p",
+     "text": "Sáng 17-10, chương trình Tiếp sức đến trường năm 2026 trao 120 suất học bổng cho tân sinh viên có hoàn cảnh khó khăn đến từ các tỉnh Lâm Đồng, Đắk Lắk, Gia Lai, Quảng Ngãi. Chương trình do báo Tuổi Trẻ , Tỉnh Đoàn Lâm Đồng phối hợp tổ chức. Các suất học bổng do Công ty CP phân bón Bình Điền và bạn đọc báo Tuổi Trẻ tài trợ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2026, chương trình Tiếp sức đến trường dự kiến trao 1.200 suất học bổng với tổng kinh phí hơn 20 tỉ đồng (chưa bao gồm chi phí tổ chức, quà lưu niệm, dụng cụ học tập cho tân sinh viên…) từ sự đóng góp của nhiều doanh nghiệp, nhà hảo tâm, bạn đọc báo Tuổi Trẻ . Mỗi suất học bổng là 15 triệu đồng dành cho tân sinh viên khó khăn; và 25 suất học bổng đặc biệt dành cho tân sinh viên xuất sắc (mỗi suất 50 triệu đồng/4 năm)."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "23113fd65ad9",
+   "order": 8,
+   "slug": "nam-sinh-mat-tay-vi-ung-thu-do-dai-hoc-su-pham",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nam sinh mất tay vì ung thư, đỗ đại học Sư phạm",
+   "sapo": "Lên bàn mổ cắt tay vào ngày khai giảng để chống chọi với ung thư xương, Vì Hùng Cường \"sống lại lần nữa\" khi đỗ trường Sư phạm với gần 26/30 điểm khối A00.",
+   "author": "Dương Tâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nam-sinh-mat-tay-vi-ung-thu-do-dai-hoc-su-pham-5133056.html",
+   "published": "2026-10-17T17:02:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 990,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/23113fd65ad9-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-18/23113fd65ad9-0.jpg",
+     "caption": "Vì Hùng Cường. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 616
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lên bàn mổ cắt tay vào ngày khai giảng để chống chọi với ung thư xương, Vì Hùng Cường \"sống lại lần nữa\" khi đỗ trường Sư phạm với gần 26/30 điểm khối A00."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu tháng 10, trong căn phòng trọ gần trường Đại học Sư phạm Hà Nội 2, Vì Hùng Cường, 19 tuổi, người dân tộc Thái, tân sinh viên ngành Sư phạm Khoa học Tự nhiên, đang nắn nót tập viết từng chữ bằng tay trái. Một năm trước, nam sinh đã mất đi cánh tay phải do căn bệnh ung thư xương (Sarcoma xương)."
+    },
+    {
+     "t": "p",
+     "text": "\"Phát hiện ung thư, rồi được chỉ định phải cắt tay là hai thời khắc mình cảm thấy thế giới này sụp đổ\", Cường nhớ lại. \"Nhưng lúc này, dù gặp vô vàn bất tiện, mình thấy hạnh phúc khi được sống lại lần nữa để chinh phục ước mơ đứng trên bục giảng\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hùng Cường lớn lên ở xã Bao La, Phú Thọ, có mẹ là giáo viên mầm non, bố làm nông. Thấu hiểu sự vất vả của bố mẹ, Cường tập trung học tập. Được nhiều thầy cô truyền cảm hứng, nam sinh cũng nuôi ước mơ trở thành giáo viên từ những ngày đầu học tại trường THPT Mai Châu B. Năm lớp 11, Cường giành giải nhì học sinh giỏi cấp tỉnh môn Hóa học."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 5 năm ngoái, khi chỉ còn cách kỳ thi tốt nghiệp THPT hơn một tháng, Cường thấy sưng đau ở cẳng tay phải nên đi khám. Phát hiện mắc ung thư xương, Cường phải chuyển tới Bệnh viện K cơ sở Tân Triều, Hà Nội để điều trị."
+    },
+    {
+     "t": "p",
+     "text": "Không muốn bỏ lỡ kỳ thi tốt nghiệp, Cường xin bác sĩ cho về quê dự thi nhưng cả bác sĩ lẫn gia đình can ngăn bởi sức khỏe không đảm bảo."
+    },
+    {
+     "t": "p",
+     "text": "\"Bố mẹ khóc, mình cũng khóc, không hiểu vì sao căn bệnh quái ác lại hành hạ mình\", Cường kể, sau đó phải bỏ thi, xin đặc cách tốt nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Chuỗi ngày ở viện kéo dài với vòng lặp - 5 ngày truyền hóa chất, hai ngày nghỉ mỗi tuần. Cơ thể kiệt quệ khiến Cường chỉ có thể nằm một chỗ, ăn vào là nôn ói, tóc rụng, có lúc máu mũi tự tuôn. Nhìn vào gương, chàng trai 18 tuổi không nhận ra chính mình. Nhưng nhìn bố mẹ phải bỏ việc để xuống Hà Nội chăm, vay mượn tiền bạc để trang trải, Cường lại gắng gượng."
+    },
+    {
+     "t": "p",
+     "text": "Tưởng chừng chỉ cần hóa trị bệnh sẽ thuyên giảm, thế giới trong mắt Cường sụp đổ thêm lần nữa khi bác sĩ chỉ định cắt một phần tay phải để loại bỏ khối u."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình không hình dung được sẽ sống thế nào nếu thiếu một tay\", nam sinh nhớ lại. \"Đã có lúc mình nghĩ có chết cũng phải giữ. Mình không muốn làm gánh nặng cho gia đình bởi việc cắt tay cũng không đảm bảo có thể khỏi 100%\"."
+    },
+    {
+     "t": "p",
+     "text": "Mất khoảng một tuần suy nghĩ, được bố mẹ động viên, Cường quyết định phẫu thuật."
+    },
+    {
+     "t": "p",
+     "text": "\"Ngày 5/9 hàng năm đều là ngày mình đi khai giảng năm học mới. Nhưng năm ngoái, đó là ngày mình đi cắt tay\", nam sinh kể."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi loại bỏ khối u, Cường vẫn duy trì việc hóa trị 5 ngày một tuần, trong khoảng 29 tuần. Nam sinh từng phải lên bàn mổ ba lần để ghép da do bị hoại tử xung quanh vị trí cắm kim truyền ở chân. Dù vậy, Cường vẫn khao khát khỏi bệnh để được thi vào trường Sư phạm."
+    },
+    {
+     "t": "p",
+     "text": "Không được học môn Vật lý ở trường, Cường phải tự học để \"lấy lại gốc\" nhằm thi tốt nghiệp THPT tổ hợp A00 (Toán, Lý, Hóa), lấy điểm đăng ký vào ngành Sư phạm Hóa học và Sư phạm Khoa học Tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Sáu tháng trước, Cường vỡ òa vì được xuất viện với lịch khám lại ba tháng một lần."
+    },
+    {
+     "t": "p",
+     "text": "\"Đó là giây phút hạnh phúc nhất kể từ khi mình sinh ra\", Cường nói. Về nhà, ngoài ôn thi, nam sinh tập làm mọi thứ bằng tay trái. Khó nhất là luyện viết. Nhìn những nét chữ nguệch ngoạc trên giấy, Cường nhiều lúc cảm thấy bất lực. Nam sinh bèn lên YouTube tìm kiếm các video hướng dẫn viết tay trái, rồi miệt mài tập theo."
+    },
+    {
+     "t": "p",
+     "text": "Bước vào phòng thi với tâm lý đè nặng sau một năm trầy trật vì bệnh tật, Cường tiếc nuối vì mất điểm ở một số câu hỏi. Với 25,88 điểm, nam sinh lỡ hẹn với nguyện vọng 1 Sư phạm Hóa học, nhưng vừa vặn bước chân vào ngành Sư phạm Khoa học Tự nhiên của trường Đại học Sư phạm Hà Nội 2."
+    },
+    {
+     "t": "p",
+     "text": "Chị Vì Thị Hái, mẹ của Cường, thắt lòng nhớ lại thời điểm đưa con đi thi. Người mẹ chỉ nghĩ cho con toại nguyện chứ không ngờ Cường có thể đỗ."
+    },
+    {
+     "t": "p",
+     "text": "\"Không biết sau này ra sao nhưng gia đình rất hạnh phúc vì cố gắng của con được đền đáp xứng đáng\", chị Hái nói."
+    },
+    {
+     "t": "p",
+     "text": "Trên tờ giấy ra viện, vị bác sĩ đánh dấu \"chưa xác định\" vào ô tình trạng thay vì \"khỏi\", để lại trong lòng chị Hái những nỗi lo. Dẫu vậy, nhìn con trai bước vào giảng đường, chị mong con đi trọn vẹn con đường mình đã chọn."
+    },
+    {
+     "t": "p",
+     "text": "Cường nói vui vì được thầy cô, bạn bè giúp đỡ nhiệt tình, xóa được cảm giác tự ti ban đầu. Chàng trai ở trọ thay vì vào trong ký túc xá để tiện lo cho sức khỏe, cũng như rèn khả năng tự sinh hoạt bằng một tay."
+    },
+    {
+     "t": "p",
+     "text": "\"Được sống, được học đúng ngành và khi ra trường được làm đúng công việc yêu thích, truyền cảm hứng cho thế hệ sau là quá mãn nguyện\", Cường nói."
+    }
+   ]
+  },
+  {
+   "id": "c64057e7bd98",
+   "order": 9,
+   "slug": "mung-tui-gap-nhau-o-le-hoc-bong-em-la-hs-gioi-quoc-gia-anh-b",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Mừng tủi gặp nhau ở lễ học bổng: Em là HS giỏi quốc gia, anh bệnh nặng vẫn lần thứ 2 đến giảng đường",
+   "sapo": "Tại lễ trao học bổng Tiếp sức đến trường cho tân sinh viên các tỉnh Quảng Ngãi, Gia Lai, Đắk Lắk, Lâm Đồng ngày 17-10, có 2 tân sinh viên cùng được tiếp sức là anh em ruột. Người anh mắc bệnh động kinh, còn người em học hành cực giỏi.",
+   "author": "TẤN LỰC",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/mung-tui-gap-nhau-o-le-hoc-bong-em-la-hs-gioi-quoc-gia-anh-benh-nang-van-lan-thu-2-den-giang-duong-100261017064123482.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 856,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/c64057e7bd98-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/c64057e7bd98-0.jpg",
+     "caption": "Gặp nhau ở phố núi Đà Lạt trong lễ trao học bổng Tiếp sức đến trường tại Lâm Đồng, 2 anh em Nguyễn Trung Nguyên, Nguyễn An Phát vô cùng cảm động - Ảnh: TẤN LỰC",
+     "w": 1280,
+     "h": 863
+    },
+    {
+     "src": "img/2026-10-18/c64057e7bd98-1.jpg",
+     "caption": "Chàng trai Nguyễn Trung Nguyên (phải), mắc bệnh động kinh bẩm sinh, xin phục vụ căng tin Trường đại học Quy Nhơn để trang trải chi phí theo học ngành khoa học dữ liệu - Ảnh: TẤN LỰC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-18/c64057e7bd98-2.jpg",
+     "caption": "Trước giờ diễn ra lễ trao học bổng, anh em Nguyên và Phát hỗ trợ ban tổ chức phân loại giấy tờ nhận học bổng cho sinh viên 4 tỉnh - Ảnh: TẤN LỰC",
+     "w": 1280,
+     "h": 881
+    },
+    {
+     "src": "img/2026-10-18/c64057e7bd98-3.jpg",
+     "caption": "Nguyễn An Phát, tân sinh viên ngành khoa học máy tính, Đại học Công nghệ thông tin TP.HCM - Ảnh: TẤN LỰC",
+     "w": 1280,
+     "h": 924
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Gặp nhau tại phố núi Đà Lạt, tỉnh Lâm Đồng, trước giờ trao học bổng Tiếp sức đến trường ngày 17-10, hai anh em mừng mừng tủi tủi, nước mắt rơm rớm. Vượt qua cái nghèo và bệnh động kinh, họ đã vào đại học."
+    },
+    {
+     "t": "p",
+     "text": "Dù cùng nộp hồ sơ đăng ký học bổng một đợt, họ không ngờ rằng cả hai đều được xét trao. Hoàn cảnh khó khăn còn quá nhiều, mà số lượng học bổng lại quá ít."
+    },
+    {
+     "t": "h",
+     "text": "2 lần vào đại học dù bệnh động kinh"
+    },
+    {
+     "t": "p",
+     "text": "Người anh là Nguyễn Trung Nguyên, ngành khoa học dữ liệu, Trường đại học Quy Nhơn. Em trai là Nguyễn An Phát, ngành khoa học máy tính, Đại học Công nghệ thông tin TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Cả hai đến từ thôn Chánh Khoan Tây, xã Bình Dương, tỉnh Gia Lai. Dù cách nhau 2 tuổi, năm nay họ cùng lúc vào đại học ."
+    },
+    {
+     "t": "p",
+     "text": "Với Nguyên, đây là lần thứ 2 cậu vào giảng đường đại học. Lần đầu tiên nhập học ngành kỹ thuật điện, Đại học Tôn Đức Thắng, TP.HCM, bạn sớm phải chia tay mái trường chỉ sau 1 tháng, chỉ vì nhà quá nghèo."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cha mẹ ly hôn khi cả 3 anh em còn rất nhỏ, một mình mẹ bươn chải sớm hôm nuôi đàn con nên người. Những tháng năm lao lực làm bốc vác, buôn ve chai theo hành trình tìm kiếm con chữ của đàn con dần bào mòn sức khỏe người mẹ tội nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Không để mẹ phải khổ tâm hơn nữa, Nguyên nghỉ học bôn ba vào đời lao động kiếm sống nhưng chưa bao giờ tắt giấc mơ giảng đường . Ít ai biết chàng tân sinh viên gầy gò, đen nhẻm ấy là người bệnh nặng. Hằng ngày phải nạp thuốc vào người để chống lại những cơn động kinh bất chợt ập tới."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu bỏ thuốc, cơn động kinh sẽ quay lại bất cứ lúc nào. Tôi rất sợ những lần lên cơn vì nhìn rất khủng khiếp: tay chân quắp lại, toàn thân co giật mất kiểm soát. Nước bọt trong miệng sùi ra như người mắc bệnh dại. Không kiểm soát được ý thức lẫn hành vi!\" - Nguyên kể lại."
+    },
+    {
+     "t": "p",
+     "text": "Từ lúc nghỉ học, Nguyên trở về quê đứng máy tiện cho một xưởng gia công đồ gỗ. Công việc khá nặng nhọc, đổi lại mỗi ngày được trả công 200.000 đồng. Thể trạng vốn không khỏe, cố gắng được 6 tháng, bạn bắt xe ra Đà Nẵng tìm việc khác."
+    },
+    {
+     "t": "p",
+     "text": "Lần này, công việc là thi công bạt che, làm bảng quảng cáo ngoài trời. Tuy nắng nóng nhưng đỡ tốn sức, làm được lâu hơn. Những ngày nghỉ lễ, nghỉ Tết dài ngày, công ty không làm việc, bạn xin đi chạy bàn, làm thời vụ kiếm thêm."
+    },
+    {
+     "t": "p",
+     "text": "Sau 2 năm lao lực vất vả, Nguyên giắt lưng chút vốn còm, thi lại lần 2 và đậu vào đại học. Từ lúc vào trường tới nay, Nguyên xin làm phục vụ tại căng tin của trường, mỗi giờ được trả công 20.000 đồng, còn được bao cơm trưa, cơm tối."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Trung Nguyên từng nghỉ học để lao động kiếm sống nhưng chưa bao giờ tắt giấc mơ giảng đường. Năm nay Nguyên thi lại lần 2 và đậu vào đại học - Video: LÊ TRUNG - QUỲNH NGHI - XUÂN TIÊN"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sau những vất vả, bươn chải đã qua, Nguyên hiểu rằng chỉ có con chữ mới mở ra lối thoát cho cuộc đời mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi bẩm sinh bệnh tật ốm yếu, sức khỏe sút kém, không thể làm nổi việc nặng nhọc. Nghĩ vậy mà tôi quyết tâm thi lại lần hai. Bởi bàn tay cầm bút vẫn đỡ hơn cầm cuốc, cầm cày!\" - Nguyên tâm sự."
+    },
+    {
+     "t": "h",
+     "text": "Em trai học hành siêu giỏi, sở hữu bảng vàng thành tích"
+    },
+    {
+     "t": "p",
+     "text": "Trong khi Nguyên là điển hình cần cù, cậu em trai Nguyễn An Phát là điển hình học giỏi . Ngay từ những năm học cấp 3, cậu đã dùng chất xám kiếm sống và trang trải tiền học từ nghề làm gia sư dạy kèm."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Bảng thành tích học tập của cậu học trò nghèo mọi bề thiếu thốn này vô cùng ấn tượng: Giải nhất, nhì, ba các cuộc thi học sinh giỏi tin học cấp tỉnh và giải khuyến khích cấp quốc gia; các huy chương vàng, bạc, đồng các kỳ thi chuyên tin học khu vực miền Trung - Tây Nguyên và nhiều giải thưởng khủng khác."
+    },
+    {
+     "t": "p",
+     "text": "Phát đam mê tin học cháy bỏng. Nhà không đủ điều kiện học thêm, cậu tự mày mò trên mạng và tìm thêm các sách chuyên môn về tin học nghiền ngẫm. Nhờ vậy, kiến thức về tin học của cậu vượt trội hoàn toàn so với các bạn cùng trang lứa ở trường."
+    },
+    {
+     "t": "p",
+     "text": "Niềm đam mê dẫn lối cho Phát lựa chọn ngành khoa học máy tính với ước mơ trở thành một chuyên gia trong lĩnh vực công nghệ đang phát triển như vũ bão, đóng góp vào sự phát triển của quê hương đất nước."
+    }
+   ]
+  },
+  {
+   "id": "d9f1e0f8b47e",
+   "order": 10,
+   "slug": "afc-dua-quang-hai-len-song-truoc-asian-cup-2027-nhac-lai-ky",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "AFC đưa Quang Hải ‘lên sóng’ trước Asian Cup 2027, nhắc lại ký ức Thường Châu 2018",
+   "sapo": "Ngày 18.10, trang chủ Liên đoàn Bóng đá châu Á, the-AFC.com đã giới thiệu đội trưởng của đội tuyển Việt Nam tiền vệ Nguyễn Quang Hải, trong nhóm những cầu thủ đáng chú ý nhất tại Asian Cup 2027 bên cạnh Son Heung-min và những người khác.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/afc-dua-quang-hai-len-song-truoc-asian-cup-2027-nhac-lai-ky-uc-thuong-chau-2018-185261018132536718.htm",
+   "published": "2026-10-18T06:34:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 794,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/d9f1e0f8b47e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/d9f1e0f8b47e-0.jpg",
+     "caption": "Quang Hải đã trải qua thời điểm đầy khó khăn trong sự nghiệp, nhưng với quyết tâm sắt đá, anh đã tìm lại phong độ đỉnh cao để hướng đến Asian Cup 2027 cùng đội tuyển Việt Nam, trang  web của AFC nhận định",
+     "w": 1280,
+     "h": 917
+    },
+    {
+     "src": "img/2026-10-18/d9f1e0f8b47e-1.jpg",
+     "caption": "Quang Hải hoàn toàn có thể tỏa sáng tại Asian Cup 2027, theo the-AFC.com",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Quang Hải đã tạo nên cú bùng nổ tại Asian Cup 2019 ở UAE"
+    },
+    {
+     "t": "p",
+     "text": "\"Ở tuổi 20, Quang Hải đã ghi bàn thắng quốc tế đầu tiên trong màu áo đội tuyển Việt Nam tại vòng loại Asian Cup 2017 vào lưới đội Campuchia. Tuy nhiên, chính sự xuất hiện của HLV Park Hang-seo - người dẫn dắt cả đội tuyển U.23 lẫn đội tuyển Việt Nam khi đó - đã đưa tên tuổi Quang Hải đến gần hơn với người hâm mộ\", the-AFC.com viết trong bài giới thiệu: \"Cầu thủ đáng chú ý: Nguyễn Quang Hải - đội tuyển Việt Nam tại Asian Cup 2027\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Quang Hải đã tạo nên cú bùng nổ tại Asian Cup 2019 ở UAE và khẳng định vị thế là một trong những cầu thủ xuất sắc nhất mà bóng đá Việt Nam từng sản sinh, dù hành trình đó không thiếu những thăng trầm và trở ngại\", the-AFC.com nhấn mạnh."
+    },
+    {
+     "t": "p",
+     "text": "the-AFC.com giới thiệu chi tiết về Quang Hải. 29 tuổi, có 88 lần khoác áo đội tuyển Việt Nam, ghi 16 bàn. Anh hiện thi đấu cho CLB Công an Hà Nội, đội bóng đang tham dự AFC Champions League Elite."
+    },
+    {
+     "t": "p",
+     "text": "Quang Hải cũng là đội trưởng của đội tuyển Việt Nam tại ASEAN Cup diễn ra trong tháng 7 và 8, khi lên ngôi vô địch lần thứ 2 liên tiếp và thứ 4 trong lịch sử."
+    },
+    {
+     "t": "p",
+     "text": "Tại Asian Cup 2019, giải đấu lớn đầu tiên Quang Hải thi đấu cùng đội tuyển Việt Nam dưới sự dẫn dắt của HLV Park Hang-seo. Đội đã tiến vào đến tứ kết và chỉ chịu dừng bước trước đội tuyển Nhật Bản khi thua với tỷ số sít sao 0-1. Giải này Quang Hải góp 1 bàn thắng trong trận đội tuyển Việt Nam thắng Yemen với tỷ số 2-0 ở vòng bảng. Bàn còn lại do trung vệ Quế Ngọc Hải ghi."
+    },
+    {
+     "t": "p",
+     "text": "AFC nhắc lại thời hoàng kim của Quang Hải, chờ màn tái xuất ở Asian Cup 2027"
+    },
+    {
+     "t": "p",
+     "text": "Đến Asian Cup 2027 tại Ả Rập Xê Út (diễn ra từ ngày 7.1 đến 5.2.2027), đội tuyển Việt Nam sẽ gặp lại Yemen khi nằm cùng bảng E còn có Hàn Quốc và UAE."
+    },
+    {
+     "t": "p",
+     "text": "Đội tuyển Việt Nam ra quân gặp UAE ngày 10.1.2027, sau đó gặp Hàn Quốc ngày 15.1.2027, và trận cuối vòng bảng gặp Yemen ngày 20.1.2027. Cuộc tái ngộ này có thể Quang Hải sẽ tiếp tục cái duyên ghi bàn của mình vào lưới Yemen, để hy vọng giúp đội tuyển Việt Nam tiến vào vòng tiếp theo, the-AFC.com dự đoán."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Ký ức Thường Châu 2018 không phai nhòa của Quang Hải"
+    },
+    {
+     "t": "p",
+     "text": "\"Giải vô địch U.23 châu Á tại Thường Châu, Trung Quốc năm 2018 - diễn ra trong khung cảnh tuyết phủ trắng xóa - chính là giải đấu mà Quang Hải cho cả châu lục thấy tài năng thiên bẩm của mình."
+    },
+    {
+     "t": "p",
+     "text": "Với 5 bàn thắng tại giải đấu, bao gồm cú sút phạt tuyệt đẹp trong trận chung kết gặp U.23 Uzbekistan, Quang Hải đã chứng minh đẳng cấp của một tiền vệ kiến thiết tài hoa, góp công lớn giúp U.23 Việt Nam lần đầu tiên góp mặt trong một trận chung kết cấp châu lục\", the-AFC.com nhấn mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Về Asian Cup 2019 đưa tên tuổi Quang Hải lên tầm châu lục, the-AFC.com viết: \"Sau vòng bảng, Quang Hải tiếp tục tỏa sáng trong chiến thắng của đội tuyển Việt Nam trước Jordan ở vòng 16 đội, cũng như trong trận thua trước Nhật Bản với tỷ số 0-1 tại vòng tứ kết; màn trình diễn ấn tượng đó giúp anh góp mặt trong đội hình tiêu biểu của giải đấu\"."
+    },
+    {
+     "t": "p",
+     "text": "Sau thành công đó, kỳ vọng đặt lên vai cầu thủ sinh ra tại Hà Nội này là rất lớn. Tháng 6.2022, anh chuyển sang thi đấu tại Pháp cho CLB Pau FC (ở giải hạng hai). Tuy nhiên, việc ít được ra sân cùng những chấn thương đã cản trở tham vọng tại châu Âu của anh, dẫn đến quyết định trở về Việt Nam khoác áo CLB Công an Hà Nội một năm sau đó, cũng theo the-AFC.com ."
+    },
+    {
+     "t": "p",
+     "text": "\"Bị bủa vây bởi chấn thương và sự tự tin suy giảm, Quang Hải không còn giữ được phong độ đỉnh cao như trước; anh thường xuyên phải ngồi dự bị thay vì có tên trong đội hình xuất phát của đội tuyển Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, quyết tâm sắt đá nhằm tìm lại phong độ đỉnh cao là điều dễ thấy; Quang Hải đã từng bước khẳng định lại vị trí trong đội hình xuất phát dưới thời HLV Kim Sang-sik, và hoàn toàn có thể tỏa sáng tại Asian Cup 2027\", the-AFC.com kết luận."
+    }
+   ]
+  },
+  {
+   "id": "26c97370662f",
+   "order": 11,
+   "slug": "messi-lap-ky-luc-ghi-ban-va-kien-tao-trong-14-tran-lien-tiep",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Messi lập kỷ lục ghi bàn và kiến tạo trong 14 trận liên tiếp cho Inter Miami",
+   "sapo": "Sáng 18.10, Messi thi đấu rực sáng khi anh ghi cú đúp giúp Inter Miami đánh bại Atlanta United với tỷ số 3-1 trên sân khách ở vòng 30 MLS. Qua đó, siêu sao người Argentina đã xác lập kỷ lục ghi bàn và kiến tạo trong 14 trận liên tiếp.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/messi-lap-ky-luc-ghi-ban-va-kien-tao-trong-14-tran-lien-tiep-cho-inter-miami-185261018091358525.htm",
+   "published": "2026-10-18T02:19:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 764,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/26c97370662f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/26c97370662f-0.jpg",
+     "caption": "Messi lập cú đúp cho Inter Miami, nâng tổng số bàn thắng trong sự nghiệp lên con số 936 ở tuổi 39",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-18/26c97370662f-1.jpg",
+     "caption": "Với phong độ rực sáng, Messi sẽ còn gia tăng kỷ lục bàn thắng của mình",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Messi duy trì hiệu suất ghi bàn và kiến tạo đáng nể ở tuổi 39"
+    },
+    {
+     "t": "p",
+     "text": "Trong các trận gần đây, chuỗi ghi bàn liên tiếp của Messi dừng lại ở trận Inter Miami thắng New York City FC với tỷ số 2-0 ngày 15.10, sau khi anh chỉ góp 1 kiến tạo cho De Paul lập công. Các trận còn lại, danh thủ 39 tuổi này đều đóng góp đều đặn bàn thắng và kiến tạo trong mỗi trận. Trận mới nhất gặp Atlanta United trên sân khách ngày 18.10, Messi còn làm tốt hơn với cú đúp."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cú đúp mới nhất này giúp Messi thống lĩnh danh sách vua phá lưới MLS mùa giải 2026 với 25 bàn, bỏ xa người xếp thứ hai là Petar Musa của FC Dallas ghi 19 bàn."
+    },
+    {
+     "t": "p",
+     "text": "Tính trong 14 trận liên tiếp mà Messi lập kỷ lục ghi bàn và kiến tạo cho Inter Miami , anh đã đạt tổng cộng 23 bàn thắng và kiến tạo, bao gồm thêm 2 bàn thắng ở trận thắng Atlanta United."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến thời điểm hiện tại trong năm 2026, Messi cũng đã có tổng cộng 60 lần góp dấu giày vào bàn thắng (ghi bàn hoặc kiến tạo) sau 43 trận đấu. Anh cũng trở thành cầu thủ đầu tiên trong lịch sử MLS (giải bóng đá nhà nghề Mỹ) lập kỷ lục 3 mùa giải liên tiếp ghi ít nhất từ 20 bàn thắng và có hơn 15 đường kiến tạo."
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, năm 2024 là 20 bàn thắng và 16 kiến tạo; năm 2025 là 29 bàn thắng và 19 kiến tạo; và nay 2026 là 25 bàn thắng và 15 kiến tạo vẫn còn tiếp tục. Messi cũng trở thành cầu thủ ghi 75 bàn thắng nhanh nhất trong lịch sử MLS chỉ sau tổng cộng có 80 trận đấu."
+    },
+    {
+     "t": "p",
+     "text": "Phong độ rực sáng của Messi cũng giúp anh nắm ưu thế gần như tuyệt đối trong cuộc đua giành danh hiệu Cầu thủ xuất sắc nhất mùa giải MLS năm thứ ba liên tiếp, sau 2 lần đoạt giải năm 2024 và 2025."
+    },
+    {
+     "t": "p",
+     "text": "Trong trận Inter Miami thắng Atlanta United với tỷ số 3-1 trên sân Mercedes-Benz, nơi Messi từng giúp đội tuyển Argentina đánh bại đội tuyển Anh với tỷ số 2-1 tại bán kết World Cup 2026, đã tiếp tục chứng kiến màn trình diễn vô cùng ấn tượng của danh thủ này."
+    },
+    {
+     "t": "p",
+     "text": "Trong cả 2 bàn thắng mà Messi ghi cho Inter Miami ở các phút 56 và 60 đều sau các màn độc diễn ngoạn mục, khiến các hậu vệ của Atlanta United không kịp trở tay. Cú đúp của Messi cùng bàn mở tỷ số do tiền đạo Berterame ghi phút 45 sau đường kiến tạo của Suarez, đảm bảo giúp Inter Miami có trận thắng thứ 3 liên tiếp tại MLS. Phía Atlanta United ghi bàn thắng an ủi ở phút 89 từ chấm 11 m do công của Fafa Picault."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Inter Miami đã có suất vào vòng 1 play-off MLS Cup bảo vệ ngôi vô địch (thi đấu trong tháng 11). Trận thắng này giúp họ tiếp tục củng cố vị trí thứ 2 trên bảng xếp hạng miền Đông MLS với 55 điểm sau 30 trận."
+    },
+    {
+     "t": "h",
+     "text": "Messi nâng tổng số bàn thắng trong sự nghiệp lên con số 936"
+    },
+    {
+     "t": "p",
+     "text": "Trong cuộc đua đến cột mốc 1.000 bàn thắng với Ronaldo, Messi đã nâng tổng số bàn thắng trong sự nghiệp của mình lên con số 936 bàn. Anh vẫn còn cần ghi 64 bàn nữa để chạm mốc. Còn Ronaldo hiện ghi 981 bàn, và chỉ còn 19 bàn nữa là hoàn tất."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Ronaldo hiện không thể cùng CLB Al Nassr thi đấu vì cuộc xung đột ở Trung Đông khiến nhiều trận đấu tại Ả Rập Xê Út đang tạm hoãn. Trận sắp tới Al Nassr gặp Neom SC ngày 21.10 cũng chưa chắc được diễn ra. Vì vậy, khả năng Ronaldo sẽ phải tiếp tục chờ đợi để gia tăng kỷ lục ghi bàn của mình."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Messi liên tiếp ghi bàn và kiến tạo cho Inter Miami. Trận sắp tới, danh thủ này vẫn thi đấu trận gặp New York Red Bulls vào ngày 25.10, sau khi đến Tây Ban Nha tham dự lễ trao giải Công chúa Asturias (Princess of Asturias Awards) tổ chức ngày 23.10."
+    },
+    {
+     "t": "p",
+     "text": "Messi vẫn tiếp tục có nhiều cơ hội để rút ngắn cách biệt bàn thắng với Ronaldo, khi hiện nay khoảng cách giữa 2 danh thủ này còn lại là 45 bàn."
+    }
+   ]
+  },
+  {
+   "id": "b6d16509ee33",
+   "order": 12,
+   "slug": "khach-tay-trai-nghiem-di-cho-ha-noi-tu-4h-sang",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Khách Tây trải nghiệm đi chợ Hà Nội từ 4h sáng",
+   "sapo": "Phóng viên National Geographic theo chân đầu bếp địa phương khám phá chợ đầu mối, hàng ăn sáng Hà Nội từ 4h, thưởng thức nhiều món đặc trưng trước khi thành phố bước vào giờ cao điểm.",
+   "author": "Mai Phương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/khach-tay-trai-nghiem-di-cho-ha-noi-tu-4h-sang-5132630.html",
+   "published": "2026-10-17T21:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 860,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/b6d16509ee33-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-18/b6d16509ee33-0.jpg",
+     "caption": "Du khách nước ngoài trải nghiệm tour đi chợ sáng của đầu bếp Phan Duyên. Ảnh: Viator",
+     "w": 1020,
+     "h": 729
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Phóng viên National Geographic theo chân đầu bếp địa phương khám phá chợ đầu mối, hàng ăn sáng Hà Nội từ 4h, thưởng thức nhiều món đặc trưng trước khi thành phố bước vào giờ cao điểm."
+    },
+    {
+     "t": "p",
+     "text": "Trong bài viết đăng ngày 26/9, cây viết Natasha Bazika của tạp chí du lịch National Geographic Traveller (Anh) kể lại trải nghiệm khám phá ẩm thực Hà Nội trước bình minh, thời điểm phần lớn du khách còn ngủ nhưng hoạt động mua bán thực phẩm tại các khu chợ đã diễn ra nhộn nhịp."
+    },
+    {
+     "t": "p",
+     "text": "Người đồng hành cùng cô là Phan Duyên, đầu bếp kiêm giáo viên dạy nấu ăn tại Hà Nội. Chị Duyên bắt đầu tổ chức các tour khám phá ẩm thực sáng sớm từ năm 2017, kết hợp tham quan chợ, tìm hiểu nguyên liệu địa phương và thưởng thức món ăn."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình bắt đầu lúc 4h tại ngõ chợ Đồng Xuân, khi nhiều cửa hàng chưa mở cửa nhưng người bán thực phẩm đã chuẩn bị cho ngày mới. Các quán ăn bắt đầu chuẩn bị bếp, nấu nước dùng, tiểu thương bày hàng phục vụ người mua sỉ và dân địa phương đi chợ sớm."
+    },
+    {
+     "t": "p",
+     "text": "Đi sâu vào ngõ chợ, Bazika bắt gặp cảnh mua bán thịt tươi sống. Các tiểu thương phân loại thịt, nội tạng trên những tấm bạt, xe máy chở hàng liên tục đi qua. Mùi thực phẩm sống khiến cô khó chịu. Đầu bếp Phan Duyên giải thích cho cô đây là nơi nhiều chủ nhà hàng đến lấy nguyên liệu trước giờ phục vụ khách."
+    },
+    {
+     "t": "p",
+     "text": "Bazika tình cờ gặp một gia đình nhiều thế hệ đang nặn bánh trôi phục vụ Tết Hàn thực. Cô thử một viên bánh còn ấm, cảm nhận lớp vỏ dẻo, nhân đường nâu ngọt bên trong."
+    },
+    {
+     "t": "p",
+     "text": "Rời ngõ chợ, Bazika và Duyên người băng qua tuyến đường đông xe để đến chợ đầu mối Long Biên. Từ trên cao, cây viết người Anh quan sát cảnh hàng hóa được vận chuyển bằng ôtô, xe máy, những bao dứa và sọt rau chất đầy lối đi."
+    },
+    {
+     "t": "p",
+     "text": "\"Không khí pha trộn mùi bạc hà, sả và khói xe\", Bazika miêu tả. Khu chợ mang đến cho cô góc nhìn khác về văn hóa ẩm thực Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Tại đây, cô được nghe giới thiệu về các loại rau gia vị như kinh giới, rau ngổ và cách sử dụng trong món ăn Việt. Ở khu bán thủy hải sản, Bazika thử chả mực nóng, ấn tượng với lớp vỏ giòn, phần bên trong dai và những miếng mực có vị ngọt."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ghé chợ Long Biên cũng giúp cây viết tìm hiểu về cuộc sống của tiểu thương, những khó khăn của chợ truyền thống."
+    },
+    {
+     "t": "p",
+     "text": "Khi trời gần sáng, Bazika được dẫn đến một hàng bánh cuốn nhỏ gần phố cổ, \"không gian giống nhà để xe, chỉ kê hai chiếc bàn xanh và vài ghế nhựa\". Chủ quán liên tục tráng bánh, thêm nhân thịt lợn, mộc nhĩ rồi cuộn lại."
+    },
+    {
+     "t": "p",
+     "text": "Bazika nhúng bánh vào nước chấm pha nước mắm, chanh. Vỏ bánh mềm, trơn khiến cô gặp khó khăn khi gắp bằng đũa. Theo giới thiệu của đầu bếp, những hàng ăn nhỏ như vậy thường phục vụ khách địa phương, du khách khó tự tìm thấy nếu không có người hướng dẫn."
+    },
+    {
+     "t": "p",
+     "text": "Điểm dừng tiếp theo là một quán bún chả đông khách. Thịt lợn được nướng trên than hồng, phục vụ cùng bún, rau thơm và nước chấm. Bazika được hướng dẫn nhúng từng phần bún vào bát nước chấm, ăn kèm thịt thay vì cho tất cả nguyên liệu vào cùng lúc."
+    },
+    {
+     "t": "p",
+     "text": "Cây viết thích sự kết hợp giữa thịt nướng nóng, đu đủ muối giòn và rau bạc hà. Dù đã thử nhiều món trước đó, cô vẫn ăn hết phần bún chả."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 7h, Bazika trở lại khu phố cổ. Lúc này, các hàng ăn sáng đã đông khách hơn, nhiều gia đình ngồi trên ghế nhựa bên vỉa hè, thưởng thức những món ăn nóng trước khi bắt đầu ngày làm việc."
+    },
+    {
+     "t": "p",
+     "text": "Bazika tiếp tục thử phở bò, ăn kèm quẩy và thêm tỏi, ớt vào nước dùng. Sau đó, cô thưởng thức thêm xôi thập cẩm, bún mọc và kết thúc bằng cà phê trứng. Việc liên tục thưởng thức các món có khẩu phần tương đối lớn khiến cây viết bất ngờ về thói quen ăn sáng của người Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Khác với kiểu bữa sáng nhẹ thường thấy ở nhiều nước phương Tây, bữa sáng Việt Nam có thể gồm một bát phở, bún hoặc phần xôi đầy đặn, với thịt, nước dùng và nhiều loại rau gia vị."
+    },
+    {
+     "t": "p",
+     "text": "Đến khoảng 8h30, hoạt động tại một số khu chợ và hàng bán sớm đã kết thúc. Những tấm bạt được thu dọn, thùng hàng chuyển đi, trả lại không gian cho nhịp sinh hoạt ban ngày."
+    },
+    {
+     "t": "p",
+     "text": "Trong lúc nhiều du khách mới bắt đầu xếp hàng tại các quán ăn nổi tiếng, Bazika đã hoàn thành hành trình khám phá ẩm thực Hà Nội từ trước bình minh."
+    },
+    {
+     "t": "p",
+     "text": "Mai Phương (Theo Nat Geo )"
+    }
+   ]
+  },
+  {
+   "id": "816abd6dccb1",
+   "order": 13,
+   "slug": "dau-van-tay-2-200-nam-he-lo-nguoi-xay-doi-quan-dat-nung-mo-t",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Dấu vân tay 2.200 năm hé lộ người xây Đội quân đất nung mộ Tần Thủy Hoàng",
+   "sapo": "Trung Quốc Nghiên cứu mới cho thấy phụ nữ và trẻ em có thể tham gia vào quá trình xây dựng đội quân đất nung 2.200 năm canh giữ lăng mộ hoàng đế Tần Thủy Hoàng.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/dau-van-tay-2-200-nam-he-lo-nguoi-xay-doi-quan-dat-nung-mo-tan-thuy-hoang-5133827.html",
+   "published": "2026-10-18T12:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 923,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/816abd6dccb1-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    },
+    {
+     "src": "img/2026-10-18/816abd6dccb1-0.jpg",
+     "caption": "Các chiến binh đất nung ở hố 1 trong lăng mộ hoàng đế Tần Thủy Hoàng. Ảnh: Bảo tàng Lăng mộ Hoàng đế Tần Thủy Hoàng",
+     "w": 750,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trung Quốc Nghiên cứu mới cho thấy phụ nữ và trẻ em có thể tham gia vào quá trình xây dựng đội quân đất nung 2.200 năm canh giữ lăng mộ hoàng đế Tần Thủy Hoàng."
+    },
+    {
+     "t": "p",
+     "text": "Theo nghiên cứu công bố hôm 13/10 trên tạp chí Science Direct, dấu vân tay cổ đại in trên đất sét chỉ ra cả nam giới, phụ nữ và trẻ em đều tham gia chế tác chiến binh đất nung tinh xảo trong lăng mộ hoàng đế Tần Thủy Hoàng. Trước đây, giới khảo cổ suy đoán toàn bộ đội quân được xây dựng bởi những người đàn ông trưởng thành."
+    },
+    {
+     "t": "p",
+     "text": "\"Phát hiện mới thách thức giả định lâu nay cho rằng việc sản xuất đội quân đất nung chỉ dựa vào lao động nam giới thành niên\", nhóm nghiên cứu đứng đầu là nhà khảo cổ Xiaoxi Li ở Bảo tàng Lăng mộ Hoàng đế Tần Thủy Hoàng cho biết. \"Đây là bằng chứng sinh học định lượng đầu tiên về một lực lượng lao động đa dạng bao gồm cả phụ nữ và trẻ em\"."
+    },
+    {
+     "t": "p",
+     "text": "Science Alert cho biết đội quân đất nung được phát hiện lần đầu tiên năm 1974. Nông dân đào giếng cách lăng mộ khoảng 1,5 km đã phát hiện những mảnh vỡ bí ẩn của chiến binh đất sét có kích thước như người thật. Những gì họ đã tình cờ phát hiện là một đội quân khổng lồ dưới lòng đất, mà quy mô đầy đủ của nó sẽ mất nhiều năm để khám phá. Giới nghiên cứu đã tìm thấy hàng nghìn bức tượng kích thước thật gồm khoảng 8.000 chiến binh, 130 cỗ xe, 520 con ngựa và 150 chiến mã nhưng phần lớn lăng mộ rộng lớn vẫn chưa được khai quật."
+    },
+    {
+     "t": "p",
+     "text": "Phần lớn nghiên cứu trước đây về đội quân đất nung chủ yếu tập trung vào quá trình chế tác thay vì tác giả phía sau. Nghiên cứu mới dựa trên 36 chiến binh từ một hố khai quật duy nhất. Kết quả khảo sát ban đầu ghi nhận 91 dấu vân tay, 12 trong số đó bị loại trừ do trùng lặp. Các dấu vân tay bao phủ khắp tượng chiến binh như phần đầu, cánh tay, bàn tay, bàn chân và áo giáp."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu giải thích thợ chế tác vô tình lưu lại dấu vân tay trong quá trình đúc, tạo hình và lắp ráp khi nghệ nhân ấn ngón tay trực tiếp lên bề mặt đất sét ướt. Vị trí tập trung nhiều dấu vân tay nhất là đầu và cánh tay của bức tượng, nơi các nghệ nhân nắm vào bộ phận khi ghép nối và chà mịn. Ngoài ra, Li và đồng nghiệp phát hiện 6 dấu vân tay hình thành trong quá trình người thợ ấn những chi tiết trang trí tạo hình trước như đinh áo giáp và thắt lưng lên bề mặt bức tượng."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhóm nghiên cứu, khi trưởng thành, nam giới thường có khoảng cách giữa các đường vân thuộc dấu vân tay rộng hơn đôi chút so với nữ giới. Phép đo chiều rộng trung bình của đường vân có thể cung cấp manh mối về độ tuổi và giới tính của một người. Thay vì cố gắng phân tích từng dấu vân tay để xác định độ tuổi và giới tính, các nhà nghiên cứu sử dụng thuật toán để ước tính tỷ lệ của những nhóm nhân khẩu học khác nhau thông qua 79 dấu vân tay. Họ cũng điều chỉnh phép đo để bao gồm khác biệt kích thước dấu vân tay giữa từng quần thể cũng như độ co ngót của đất sét trong quá trình phơi khô và nung."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mô hình phân tích hé lộ, chỉ 45% dấu vân tay có khả năng do nam giới trưởng thành lưu lại, 32,7% thuộc về phụ nữ trưởng thành và 22,3% còn lại đến từ trẻ em dưới 15 tuổi. Sự xuất hiện của trẻ em trong lực lượng lao động có thể không phải điều bất thường. Sử sách từ thời Tần từng nhắc tới hệ thống tập sự cho phép thiếu niên học việc dưới sự dìu dắt của những nghệ nhân giàu kinh nghiệm. Nhóm của Li suy đoán những người trẻ được giao công việc tương đối đơn giản như gắn chi tiết trang trí vào áo giáp của chiến binh, trong khi nghệ nhân lớn tuổi đảm nhiệm công việc kỹ thuật hơn."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, nghiên cứu mới có vài điểm hạn chế như 79 dấu vân tay chỉ đến từ 36 chiến binh trong một phần lăng mộ rộng lớn, do đó chúng không nhất thiết phản ánh tỷ lệ các nhóm thợ chế tác. Tuy nhiên, phát hiện cho thấy đội quân đất nung có thể là tác phẩm của đội thợ đa dạng hơn nhiều so với giả thuyết trước đây. Trong tương lai, các nhà nghiên cứu sẽ tập trung vào mở rộng cơ sở dữ liệu dấu vân tay để tạo ra tập mẫu lớn hơn."
+    },
+    {
+     "t": "p",
+     "text": "Theo Global Times , trong một nghiên cứu vào năm 2022, Zhou Ping, phó giám đốc Bảo tàng Lăng mộ Hoàng đế Tần Thủy Hoàng, và đồng nghiệp cũng kết luận 3 dấu vân tay thu được trên bụng bức tượng đất nung đặc biệt có tên Tượng đất nung nhào lộn ở hố K9901 trong lăng mộ có thể thuộc về một thợ thủ công thiếu niên."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "9fbeb5030b25",
+   "order": 14,
+   "slug": "khong-the-ngung-ghi-ban-haaland-lap-ky-luc-kho-xo-do",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Không thể ngừng ghi bàn, Haaland lập kỷ lục khó xô đổ",
+   "sapo": "(Dân trí) - Tiền đạo Erling Haaland đang thể hiện phong độ vô cùng ấn tượng ở giải Ngoại hạng Anh mùa giải này khi ghi 8 bàn sau 7 trận. Điều đó giúp anh",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/khong-the-ngung-ghi-ban-haaland-lap-ky-luc-kho-xo-do-20261018104023573.htm",
+   "published": "2026-10-18T03:42:03+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 418,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/9fbeb5030b25-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/9fbeb5030b25-0.jpg",
+     "caption": "Haaland thể hiện phong độ ấn tượng (Ảnh: Getty).",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-18/9fbeb5030b25-1.jpg",
+     "caption": "Haaland chỉ cần 139 trận để cán cột mốc ghi 100 bàn ở giải Ngoại hạng Anh (Ảnh: Getty).",
+     "w": 740,
+     "h": 495
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Tiền đạo Erling Haaland đang thể hiện phong độ vô cùng ấn tượng ở giải Ngoại hạng Anh mùa giải này khi ghi 8 bàn sau 7 trận. Điều đó giúp anh tạo nên kỷ lục ấn tượng ở giải đấu."
+    },
+    {
+     "t": "p",
+     "text": "Trong trận đấu ở vòng 7 giải Ngoại hạng Anh diễn ra vào tối 17/10 trên sân Etihad, Haaland đã gây ấn tượng khi lập cú đúp, giúp Man City giành chiến thắng với tỷ số 3-2 trước Ipswich Town. Với kết quả này, Man “xanh” vẫn duy trì thành tích toàn thắng trong 7 trận đấu ở mùa giải này."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Haaland đang thể hiện phong độ vô cùng ấn tượng. Sau 7 trận ra quân ở mùa giải này, tiền đạo người Na Uy đã ghi tới 8 bàn. Điều này giúp Haaland dẫn đầu ở cuộc đua Vua phá lưới tại giải Ngoại hạng Anh, bỏ xa những người xếp thứ hai là Joao Pedro của Chelsea và Alexander Isak của Liverpool (cùng 5 bàn)."
+    },
+    {
+     "t": "p",
+     "text": "Không những vậy, với cú đúp vào lưới Ipswich, Haaland còn đi vào lịch sử khi trở thành cầu thủ chạm mốc 100 bàn thắng (không tính phạt đền) nhanh nhất lịch sử giải Ngoại hạng Anh. Tiền đạo sinh năm 2000 chỉ mất 139 trận đấu để làm được điều này."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, ở trận đấu vào tối qua, Haaland cũng khiến người hâm mộ Man City lo lắng khi tập tễnh rời sân. Cầu thủ này dường như bị đau sau tình huống đá trúng phần dưới giày của Jack Clarke."
+    },
+    {
+     "t": "p",
+     "text": "Hiện chưa rõ tình trạng chấn thương của ngôi sao 26 tuổi. Trong hôm nay, anh sẽ được kiểm tra để biết tình trạng của mình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "HLV Enzo Maresca sẽ phải tính toán để Haaland nghỉ ngơi trong thời gian tới. Tính tới thời điểm này, anh đã đá chính 14 trận đấu cho cả CLB lẫn đội tuyển quốc gia. Trước trận đấu với Ipswich, HLV Maresca cũng thừa nhận: “Đến một thời điểm nào đó, có lẽ chúng tôi cần cho Haaland nghỉ ngơi, dành vài ngày để hồi phục”."
+    },
+    {
+     "t": "p",
+     "text": "Ở diễn biến khác, HLV Maresca đã đi vào lịch sử giải Ngoại hạng Anh khi trở thành chiến lược gia đầu tiên toàn thắng trong 7 trận đầu dẫn dắt một CLB ở giải đấu này. Man City cũng là CLB thứ ba cán mốc toàn thắng 7 trận đầu tiên mùa giải sau Chelsea (mùa 2005-2006) và Liverpool (mùa 2019-2020)."
+    }
+   ]
+  },
+  {
+   "id": "955b9ba33218",
+   "order": 15,
+   "slug": "viet-nam-dat-cot-moc-lich-su-o-mon-the-thao-doraemon",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Việt Nam đạt cột mốc lịch sử ở 'môn thể thao Doraemon'",
+   "sapo": "Hầu hết người Việt Nam bắt đầu biết đến môn bóng chày qua bộ truyện tranh Doraemon của Nhật Bản, rồi các bộ phim truyền hình Hàn Quốc. Và ít ai biết được, Việt Nam còn thực sự có một đội tuyển bóng chày vừa vươn lên trong bảng xếp hạng thế giới.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/viet-nam-dat-cot-moc-lich-su-o-mon-the-thao-doraemon-100261017212843599.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 581,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/955b9ba33218-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/955b9ba33218-0.jpg",
+     "caption": "Tuyển bóng chày Việt Nam thi đấu khá đều đặn trên đấu trường quốc tế - Ảnh: THANH ĐỊNH",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo dữ liệu xếp hạng bóng chày nam của Liên đoàn Bóng chày và Bóng mềm thế giới (WBSC) công bố giữa tháng 10, Việt Nam có 17 điểm, đứng thứ 71 trong 85 quốc gia và vùng lãnh thổ của môn thể thao này."
+    },
+    {
+     "t": "p",
+     "text": "So với đợt công bố ngày 8-10, đội tuyển tăng 5 điểm và tiến 4 bậc, đồng hạng với Malaysia. Đây thực sự là cú thăng tiến lịch sử với môn bóng chày tại Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Động lực mới đến trong thời điểm tuyển Việt Nam vừa tạo bất ngờ tại Dream Cup 2026 ở Lào. Trong trận ra quân ngày 8-10, các chày thủ lội ngược dòng thắng chủ nhà 7-6. Cuộc tranh tài có ba đội Việt Nam, Lào và Mông Cổ, được phê chuẩn để kết quả có thể tính điểm xếp hạng quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng càng đáng chú ý khi tại SEA Games 33 cuối năm ngoái, Việt Nam từng thua Lào 0-16. Cũng ở kỳ đại hội ấy, đội đánh bại Malaysia 5-2, giành trận thắng đầu tiên tại SEA Games sau 14 năm. Những kết quả này cho thấy ý nghĩa của việc duy trì tập luyện và có cơ hội cọ xát thường xuyên."
+    },
+    {
+     "t": "p",
+     "text": "Bóng chày Việt Nam đã hiện diện tại đấu trường khu vực từ lâu. Ở SEA Games 2011, đội tuyển đứng thứ tư sau Philippines, Indonesia và Thái Lan. Tuy nhiên, quá trình phát triển sau đó gặp nhiều trở ngại về sân bãi, dụng cụ và lực lượng huấn luyện."
+    },
+    {
+     "t": "p",
+     "text": "Phong trào lớn lên từ những nhóm học sinh, sinh viên tại Hà Nội, TP.HCM, trong đó nhiều người tìm đến bóng chày qua truyện tranh Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người chơi phải tận dụng sân bóng đá, bãi trống, chia sẻ găng tay và học kỹ thuật trên YouTube. Có thời điểm, họ dùng cả đệm ghế cũ làm đồ bảo hộ."
+    },
+    {
+     "t": "p",
+     "text": "Việc Liên đoàn Bóng chày và Bóng mềm Việt Nam ra mắt năm 2021 mở thêm điều kiện tổ chức phong trào. Các giải quốc gia tạo sân chơi cho những đội như Hanoi Archers, Saigon Storm..."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 9 vừa qua, liên đoàn bổ nhiệm Yu Jae Ho, cựu cầu thủ LG Twins của Hàn Quốc, làm huấn luyện viên trưởng tuyển quốc gia với hợp đồng một năm. Dream Cup là một trong những thử thách đầu tiên của nhà cầm quân này."
+    },
+    {
+     "t": "p",
+     "text": "Song song bóng chày truyền thống, Việt Nam còn ghi dấu ở Baseball5. Trong thông báo ngày 23-4-2026, WBSC xác nhận Việt Nam tăng 27 bậc lên vị trí 39 thế giới ở môn này, mức tăng lớn nhất đợt cập nhật gồm 67 quốc gia và vùng lãnh thổ. Bước tiến đến sau thành tích thứ sáu tại Giải Baseball5 châu Á hồi tháng 3 ở Hong Kong, nơi có 9 đội tham dự."
+    },
+    {
+     "t": "p",
+     "text": "Baseball5 là biến thể gọn nhẹ, mỗi đội có năm người trên sân, dùng tay đánh bóng, không cần gậy hay găng. Với yêu cầu ít dụng cụ và diện tích nhỏ hơn, nội dung này mở thêm hướng tiếp cận cho người mới chơi."
+    },
+    {
+     "t": "p",
+     "text": "Từ những buổi tập trên sân mượn đến các trận thắng quốc tế, bóng chày Việt Nam đang tích lũy nền tảng cho chặng đường dài. Hạng 71 thế giới là sự khích lệ dành cho cộng đồng đã bền bỉ giữ lửa với môn thể thao một thời gắn liền với bộ truyện tuổi thơ Doraemon."
+    }
+   ]
+  },
+  {
+   "id": "66006f78ea05",
+   "order": 16,
+   "slug": "nu-vo-si-17-tuoi-gianh-huy-chuong-bac-tai-giai-vo-dich-kumit",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Nữ võ sĩ 17 tuổi giành Huy chương bạc tại giải vô địch kumite trẻ thế giới",
+   "sapo": "Vượt qua 5 đối thủ đến từ Bỉ, Đài Bắc Trung Hoa, Thụy Sĩ, Montenegro và Colombia, Trần Thị Cẩm Tú xuất sắc giành quyền vào chung kết kumite nữ trẻ hạng dưới 59kg, qua đó mang về tấm Huy chương bạc duy nhất cho karate Việt Nam tại Giải vô địch karate thanh",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/nu-vo-si-17-tuoi-gianh-huy-chuong-bac-tai-giai-vo-dich-kumite-tre-the-gioi-1761735.html",
+   "published": "2026-10-18T12:44:18+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 483,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/66006f78ea05-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-10-18/66006f78ea05-0.jpg",
+     "caption": "Trần Thị Cẩm Tú (áo vàng) đem về tấm Huy chương Bạc duy nhất cho karate Việt Nam tại Giải vô địch karate thanh thiếu niên, trẻ và U21 thế giới 2026. Ảnh: TTVN",
+     "w": 1280,
+     "h": 1023
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong trận chung kết diễn ra khuya 17-10 (giờ Việt Nam) tại thành phố Bielsko-Biała (Ba Lan), võ sĩ 17 tuổi Trần Thị Cẩm Tú đối đầu Morgane Scarfone của Pháp. Trước đối thủ có trình độ chuyên môn cao, Cẩm Tú không thể tạo nên bất ngờ, chấp nhận thất bại với tỷ số 0-6 và giành Huy chương bạc nội dung kumite nữ trẻ hạng dưới 59kg."
+    },
+    {
+     "t": "p",
+     "text": "Theo Liên đoàn Karate thế giới (WKF), Morgane Scarfone là đương kim á quân châu Âu, đồng thời từng vô địch giải Karate One Youth League tại Poreč trong năm 2026. Võ sĩ Pháp tiếp tục thể hiện phong độ ấn tượng ở trận tranh Huy chương vàng, không để đại diện Việt Nam ghi điểm."
+    },
+    {
+     "t": "p",
+     "text": "Dù chưa thể bước lên bục cao nhất, thành tích của Cẩm Tú vẫn là dấu ấn đáng chú ý của karate Việt Nam tại giải đấu năm nay. Ở hạng cân có 57 vận động viên tranh tài, nữ võ sĩ sinh năm 2009 đã thể hiện bản lĩnh, sự tự tin và khả năng thi đấu ổn định để tiến đến trận đấu cuối cùng."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình giành quyền vào chung kết của Cẩm Tú ghi dấu bằng 5 chiến thắng liên tiếp. Ở trận mở màn, cô vượt qua Emilie Poskin (Bỉ) với tỷ số 6-2, trước khi đánh bại Wu Hung-hua (Đài Loan, Trung Quốc) 3-2 và Noemi Emma Muehlemann (Thụy Sĩ) 3-1."
+    },
+    {
+     "t": "p",
+     "text": "Tại vòng tiếp theo, võ sĩ Việt Nam giành chiến thắng cách biệt 10-2 trước Katarina Djukic (Montenegro). Đến bán kết, Cẩm Tú tiếp tục thể hiện sự quyết tâm khi vượt qua Maria Jose Rave Rendon (Colombia) với tỷ số sít sao 3-2, qua đó giành vé vào chung kết và bảo đảm tấm Huy chương bạc."
+    },
+    {
+     "t": "p",
+     "text": "Việc vượt qua liên tiếp những đối thủ đến từ nhiều nền karate khác nhau cho thấy sự tiến bộ của nữ võ sĩ trẻ, đồng thời mang đến những tín hiệu tích cực cho lực lượng kế cận của karate Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung kata cá nhân nữ U21, võ sĩ Bùi Ngọc Nhi không thể giành thêm huy chương cho đoàn Việt Nam. Sau chiến thắng 5-0 trước đối thủ Bosnia ở lượt đấu đầu tiên, Ngọc Nhi dừng bước tại vòng hai khi để thua đại diện Slovakia với tỷ số 2-3."
+    },
+    {
+     "t": "p",
+     "text": "Giải vô địch karate thanh thiếu niên, trẻ và U21 thế giới 2026 diễn ra từ ngày 14 đến 18-10 tại thành phố Bielsko-Biała (Ba Lan), quy tụ hơn 2.000 vận động viên đến từ 114 quốc gia và vùng lãnh thổ. Tấm Huy chương bạc của Trần Thị Cẩm Tú là thành quả nổi bật của karate Việt Nam tại sân chơi quốc tế dành cho các võ sĩ trẻ, đồng thời khẳng định tiềm năng phát triển của thế hệ vận động viên kế cận."
+    }
+   ]
+  },
+  {
+   "id": "d4e2b83a8987",
+   "order": 17,
+   "slug": "nghe-bang-am-thanh-nhung-cot-tru-cua-tinh-van-dai-bang",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Nghe bằng âm thanh: Những cột trụ của Tinh vân Đại Bàng",
+   "sapo": "https://www.youtube.com/watch?v=DzrCEm1ZBRY",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+   "published": "2026-10-18T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 238,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Sonified: Eagle Nebula Pillars",
+   "images": [
+    {
+     "src": "img/2026-10-18/d4e2b83a8987-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 576
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đúng vậy, nhưng bạn đã bao giờ \"trải nghiệm\" Tinh vân Đại Bàng bằng tai của mình chưa? Tinh vân nổi tiếng M16 được biết đến nhiều nhất nhờ cảnh tượng tuyệt đẹp mà nó mang lại cho mắt ta, với những ngôi sao trẻ sáng rực hình thành sâu bên trong các cột trụ tối sẫm sững sững. Những cột khí lạnh và bụi dài hàng năm ánh sáng này nằm cách chúng ta khoảng 6.500 năm ánh sáng, hướng về phía chòm sao Xà Phu (Serpens). Bị chạm khắc và xói mòn bởi ánh sáng cực tím mạnh mẽ và những luồng gió dữ dội từ cụm sao khối lượng lớn của M16, chính những cột trụ vũ trụ này cũng đang trên đường bị phá hủy. Nhưng môi trường hỗn loạn của quá trình hình thành sao trong M16 - với những chi tiết ngoạn mục được ghi lại trong bức ảnh kết hợp từ kính Hubble (ánh sáng khả kiến) và kính Chandra (tia X) này - có thể tương tự như môi trường đã từng tạo ra Mặt Trời của chúng ta. Trong video nổi bật này, hãy lắng nghe âm thanh của các ngôi sao và bụi vũ trụ khi đường quét âm thanh (sonification) di chuyển từ trái sang phải, với vị trí theo chiều thẳng đứng quyết định cao độ của âm thanh. Hình ảnh ngày mai sẽ là gì?"
+    }
+   ]
+  },
+  {
+   "id": "2fbbe8e1f871",
+   "order": 18,
+   "slug": "el-nino-dua-ran-bien-doc-ca-nhiet-doi-den-bo-bien-california",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "El Nino đưa rắn biển độc, cá nhiệt đới đến bờ biển California",
+   "sapo": "El Nino mạnh bất thường kéo theo nhiều loài sinh vật nhiệt đới đến California, từ rắn biển có nọc độc đến cá mập và hiện tượng rùa biển làm tổ.",
+   "author": "TTXVN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/el-nino-dua-ran-bien-doc-ca-nhiet-doi-den-bo-bien-california-100261018085515912.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 389,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/2fbbe8e1f871-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/2fbbe8e1f871-0.jpg",
+     "caption": "Các công nhân đô thị tại Long Beach, California, đang đắp một bờ chắn cát tạm thời dọc theo khu dân cư Peninsula để bảo vệ nhà cửa khỏi triều cường và sóng lớn - Ảnh: LA Times",
+     "w": 658,
+     "h": 440
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "El Nino mạnh bất thường trong năm nay đang đưa nhiều loài sinh vật nhiệt đới đến bờ biển California (Mỹ), tạo nên những cảnh tượng hiếm gặp, từ cá nhiệt đới, rùa biển đến rắn biển có nọc độc."
+    },
+    {
+     "t": "p",
+     "text": "El Nino xuất hiện tự nhiên vài năm một lần, đưa dòng nước biển ấm về phía bắc, kéo theo nhiều loài sinh vật vốn thường sống ở vùng biển nhiệt đới. Tháng trước, cá mắt to vây dài lần đầu được phát hiện ngoài khơi California, trong khi những con rùa biển đầu tiên được ghi nhận làm tổ trên các bãi biển tại đây."
+    },
+    {
+     "t": "p",
+     "text": "Rắn biển bụng vàng có nọc độc cũng được nhìn thấy bơi vào bờ. Ngoài khơi, cá mập voi và cá mập đầu búa xuất hiện, cùng những loài khác như cá chuồn và cá đuối manta."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nate Jaros, Phó chủ tịch phụ trách chăm sóc động vật tại Thủy cung Thái Bình Dương ở Long Beach, cho biết nhiều người đang chú ý đến những thay đổi này và mô tả đây là một giai đoạn \"kỳ lạ\"."
+    },
+    {
+     "t": "p",
+     "text": "Trước đợt nóng biển năm nay, California đã trải qua một đợt sóng nhiệt biển bất thường. Hiện tượng này diễn ra cùng thời điểm khu vực phía đông Thái Bình Dương xuất hiện hàng loạt cơn bão, góp phần làm mực nước biển dâng và tạo ra những đợt sóng lớn. Sóng đã phá hủy nhà cửa, cuốn trôi cát tại một số bãi biển ở miền nam California."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, điều kiện biển thay đổi lại mang đến cơ hội kinh doanh cho một số ngư dân. Theo số liệu của một công ty, ngư dân đã câu được 5.000 con cá ngừ vây vàng trong năm nay, so với chỉ 2 con vào năm ngoái. Họ cũng đánh bắt được cá wahoo và cá dorado, còn gọi là mahi-mahi - loài cá có màu xanh lá cây và phần đầu tù."
+    },
+    {
+     "t": "p",
+     "text": "Các chuyên gia dự báo điều kiện biển phần lớn sẽ trở lại bình thường sau khi El Nino kết thúc. Trong ngắn hạn, tảo bẹ có thể là một trong những loài chịu ảnh hưởng lớn nhất, bởi chúng phát triển mạnh ở vùng nước lạnh và tạo môi trường sống cho nhiều loài sinh vật biển."
+    }
+   ]
+  },
+  {
+   "id": "6e84297e608b",
+   "order": 19,
+   "slug": "them-loai-thuc-vat-duoc-dat-theo-ten-messi",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Thêm loài thực vật được đặt theo tên Messi",
+   "sapo": "Một loài thực vật tại Peru được đặt tên theo Lionel Messi, với hoa mang hai màu xanh da trời và trắng gợi nhớ áo đấu tuyển Argentina.",
+   "author": "THANH ĐỊNH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/them-loai-thuc-vat-duoc-dat-theo-ten-messi-100261018142957872.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 338,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/6e84297e608b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-18/6e84297e608b-0.jpg",
+     "caption": "Messi vẫn đang bền bỉ ở tuổi 39 - Ảnh: REUTERS",
+     "w": 770,
+     "h": 513
+    },
+    {
+     "src": "img/2026-10-18/6e84297e608b-1.jpg",
+     "caption": "“Salvia messii” đối diện nguy cơ biến mất - Ảnh: Jean Capcha-Ramos",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo báo La Nacion , các nhà nghiên cứu đã đặt tên “Salvia messii” cho loài cây được xác định tại dãy Andes của Peru. Đây là cách tôn vinh ngôi sao bóng đá Argentina , đồng thời tạo nên sự liên hệ thú vị giữa bóng đá và thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Loài cây này là dạng cây bụi, có thể cao tới 1,5m, sinh trưởng ở độ cao 2.000-2.400m so với mực nước biển."
+    },
+    {
+     "t": "p",
+     "text": "Điểm nổi bật là hoa màu trắng kết hợp xanh da trời nhạt, tương đồng với màu áo quen thuộc của đội tuyển Argentina."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình nhận diện bắt đầu khi kỹ sư nông nghiệp người Argentina Rolando Uria xem những hình ảnh thiên nhiên do người yêu cây chia sẻ. Ông nhận thấy một cây bụi ở vùng núi Peru có đặc điểm không trùng khớp với các loài đã biết."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Uria sau đó phối hợp cùng hai nhà nghiên cứu Peru là Paul Gonzales Arce và Jean Capcha Ramos để tìm hiểu. Nhóm kiểm tra tư liệu, đối chiếu mẫu vật và tổ chức khảo sát thực địa. Kết quả nghiên cứu được công bố trên tạp chí chuyên ngành Phytotaxa."
+    },
+    {
+     "t": "p",
+     "text": "Theo El Comercio, trước “Salvia messii”, tên Messi đã được dùng đặt cho một loài nấm, một loài nhện, một loài thằn lằn cùng hai loài cổ sinh vật. Như vậy, danh sách này có 6 loài sinh vật, chứ không phải 6 loài thực vật như một số thông tin đang lan truyền."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, loài cây mang tên Messi cũng đối diện nguy cơ biến mất. Hiện cây mới được ghi nhận tại vài địa điểm thuộc Lima và Ica của Peru."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đánh giá sơ bộ loài này ở mức nguy cấp, do phạm vi phân bố hạn chế và những tác động từ cháy rừng, mở đường, hạn hán. Bên cạnh câu chuyện tôn vinh Messi, phát hiện còn đặt ra yêu cầu bảo vệ môi trường sống của loài cây đặc biệt này."
+    }
+   ]
+  },
+  {
+   "id": "d4f57f49987d",
+   "order": 20,
+   "slug": "noi-bat-tuan-qua-ho-xong-vao-lang-khien-nguoi-dan-bo-chay-gi",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Nổi bật tuần qua: Hổ xông vào làng khiến người dân bỏ chạy giữa ban ngày",
+   "sapo": "(Dân trí) - Một con hổ bất ngờ xuất hiện giữa ngôi làng ở Ấn Độ, khiến người dân phải bỏ chạy lên nơi cao ẩn nấp. Đoạn video là một trong những hình ảnh",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/noi-bat-tuan-qua-ho-xong-vao-lang-khien-nguoi-dan-bo-chay-giua-ban-ngay-20261017170740740.htm",
+   "published": "2026-10-18T09:54:22+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1384,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-18/d4f57f49987d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Một con hổ bất ngờ xuất hiện giữa ngôi làng ở Ấn Độ, khiến người dân phải bỏ chạy lên nơi cao ẩn nấp. Đoạn video là một trong những hình ảnh động vật nổi bật tuần qua."
+    },
+    {
+     "t": "p",
+     "text": "Hổ ngang nhiên đi vào làng giữa ban ngày"
+    },
+    {
+     "t": "p",
+     "text": "Người dân sống tại ngôi làng gần khu bảo tồn hổ Pilibhit (Ấn Độ) đã phải bỏ chạy lên mái nhà để trốn khi một con hổ đi vào làng giữa ban ngày."
+    },
+    {
+     "t": "p",
+     "text": "Con hổ đi lang thang quanh làng trước khi rời đi mà không gây ra thương vong nào."
+    },
+    {
+     "t": "p",
+     "text": "Đoạn video cho thấy tình trạng người dân có thể phải đụng độ với các loài động vật nguy hiểm tại Ấn Độ do con người xâm lấn môi trường tự nhiên để sinh sống."
+    },
+    {
+     "t": "p",
+     "text": "Khỉ đầu chó trốn trên cây vẫn bị sư tử tóm gọn"
+    },
+    {
+     "t": "p",
+     "text": "Khỉ đầu chó buộc phải trèo lên cây để trốn khi bị hai con sư tử bao vây. Tuy nhiên, sư tử vẫn tìm cách trèo lên cây buộc khỉ đầu chó phải bỏ chạy sang một cây khác, nhưng nó không có thời gian để tìm được cây đủ cao, nên kết cục cuối cùng khỉ đã bị sư tử đoạt mạng."
+    },
+    {
+     "t": "p",
+     "text": "Hà mã con vùng vẫy để tự học bơi ngay sau khi chào đời"
+    },
+    {
+     "t": "p",
+     "text": "Đoạn video ghi lại khoảnh khắc hiếm gặp, khi hà mã cái sinh con dưới nước, buộc con non phải vùng vẫy và tự tập bơi ngay sau khi chào đời. Chính bản năng sinh tồn đã giúp hà mã sơ sinh có thể thực hiện được điều này."
+    },
+    {
+     "t": "p",
+     "text": "Báo cheetah vật lộn để tiêu diệt con mồi cỡ lớn và cái kết"
+    },
+    {
+     "t": "p",
+     "text": "Con báo cheetah đã rất nỗ lực để hạ gục linh dương mặt trắng (linh dương blesbok) cỡ lớn. Có thời điểm báo cheetah đã cắn chặt được vào cổ họng của linh dương và tưởng rằng báo đã có thể hạ gục con mồi."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, kích thước và sức mạnh của linh dương mặt trắng đã giúp con vật thoát ra được nanh vuốt của kẻ đi săn."
+    },
+    {
+     "t": "p",
+     "text": "Báo cheetah (báo săn) là loài động vật chạy nhanh nhất thế giới, nhưng loài báo này lại bị hạn chế về sức mạnh, không cho phép chúng tiêu diệt những con mồi cỡ lớn."
+    },
+    {
+     "t": "p",
+     "text": "Đàn sư tử hợp lực hạ gục trâu rừng cỡ lớn"
+    },
+    {
+     "t": "p",
+     "text": "Trâu rừng châu Phi là con mồi yêu thích của sư tử, vì kích thước của trâu đủ giúp cho cả đàn sư tử có được một bữa ăn no nê. Tuy nhiên, kích thước và sức mạnh của trâu rừng buộc sư tử phải hợp lực của cả đàn mới có thể hạ gục con mồi."
+    },
+    {
+     "t": "p",
+     "text": "Sư tử đực thể hiện sức mạnh, một mình hạ gục trâu rừng"
+    },
+    {
+     "t": "p",
+     "text": "Việc sư tử đơn độc hạ gục trâu rừng châu Phi là điều không dễ dàng, nhưng không phải là không thể xảy ra. Đoạn video ghi lại khoảnh khắc một con sư tử đực sung sức đã lao vào giữa đàn trâu rừng châu Phi để hạ gục con mồi cho thấy lý do tại sao sư tử lại được vinh danh là “chúa tể thảo nguyên”."
+    },
+    {
+     "t": "p",
+     "text": "Chim mổ mù mắt rắn độc trước khi ăn thịt"
+    },
+    {
+     "t": "p",
+     "text": "Một con chim bách thanh bụi đầu xám ( Malaconotus blanchoti ) đã mổ mù cả hai mắt của con rắn cây boomslang ( Dispholidus typus ), loài rắn sở hữu nọc độc cực kỳ nguy hiểm được phân bố tại châu Phi."
+    },
+    {
+     "t": "p",
+     "text": "Việc bị mổ mù cả hai mắt khiến con rắn độc không thể phản kháng cũng như chạy trốn, giúp chim có thể dễ dàng ăn thịt con mồi."
+    },
+    {
+     "t": "p",
+     "text": "Chó hoang châu Phi đại chiến với linh cẩu để giành con mồi"
+    },
+    {
+     "t": "p",
+     "text": "Đàn chó hoang châu Phi trong khi đang thưởng thức con mồi sau chuyến đi săn đã bị đàn linh cẩu lao đến tấn công để tranh giành bữa ăn."
+    },
+    {
+     "t": "p",
+     "text": "Dù chó hoang châu Phi thua kém linh cẩu về ngoại hình, nhưng chúng lại là loài động vật gan lì, không sợ bất kỳ đối thủ nào kể cả sư tử. Đặc biệt, chó hoang châu Phi rất đoàn kết trong việc săn mồi cũng như chống lại kẻ thù, do vậy, đàn chó đã lập tức bao vây và phản công bầy linh cẩu."
+    },
+    {
+     "t": "p",
+     "text": "Đàn chó hoang châu Phi đã áp đảo hoàn toàn bầy linh cẩu, buộc linh cẩu phải rút lui mà chưa kịp cướp đi con mồi."
+    },
+    {
+     "t": "p",
+     "text": "Mèo nhà rình rập, dự định tấn công diều hâu"
+    },
+    {
+     "t": "p",
+     "text": "Khi thấy diều hâu đang ăn thịt con mồi, mèo nhà đã âm thầm tiếp cận và dự định tấn công. Dù mèo nhà là loài động vật đã được thuần hóa, chúng vẫn giữ được bản năng rình rập để săn mồi như các loài động vật hoang dã."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, mèo sau đó đã từ bỏ ý định và rời đi khi nhận ra diều hâu không phải là con vật dễ bị bắt nạt."
+    },
+    {
+     "t": "p",
+     "text": "Nếu xảy ra một cuộc đụng độ giữa mèo nhà và diều hâu, rất khó để biết được con vật nào sẽ giành chiến thắng, nhưng chắc hẳn cả hai đều sẽ bị thương trong cuộc chiến này."
+    },
+    {
+     "t": "p",
+     "text": "Báo hoa mai non tìm mọi cách để kéo xác con mồi cỡ lớn"
+    },
+    {
+     "t": "p",
+     "text": "Bản năng của loài báo hoa mai là sau mỗi chuyến đi săn, chúng sẽ tha xác con mồi lên cây cao rồi mới bắt đầu ăn thịt. Điều này sẽ giúp chúng tránh được những loài động vật ăn thịt khác cướp mất con mồi, đồng thời đề phòng trường hợp báo bị tấn công trong khi đang mải mê thưởng thức bữa ăn."
+    },
+    {
+     "t": "p",
+     "text": "Việc tha xác con mồi cỡ lớn là điều không quá khó với những cá thể báo trưởng thành, nhưng với những con non mới lớn, để tha xác con mồi sau chuyến đi săn là điều không hề dễ dàng, chẳng hạn như trong đoạn video dưới đây."
+    },
+    {
+     "t": "p",
+     "text": "Cá sấu lên bờ bị đàn sư tử tấn công"
+    },
+    {
+     "t": "p",
+     "text": "Sư tử luôn phải dè chừng mỗi khi đặt chân xuống nước, nơi những con cá sấu đang rình rập có thể lao ra bất cứ lúc nào để kết liễu sư tử trong chớp mắt."
+    },
+    {
+     "t": "p",
+     "text": "Ở chiều ngược lại, khi cá sấu lên bờ, con vật cũng có thể bị đàn sư tử bao vây và tấn công. Tuy nhiên, sư tử thường chỉ tìm cách xua đuổi cá sấu ra khỏi lãnh thổ của mình, chứ rất khó để giết chết con vật to lớn và có lớp da dày như cá sấu."
+    },
+    {
+     "t": "p",
+     "text": "Gia đình kinh hãi phát hiện rắn hổ chúa dài 3,3m ẩn mình dưới giường"
+    },
+    {
+     "t": "p",
+     "text": "Một người phụ nữ sống tại huyện Tabanan (Indonesia) đã ngửi thấy mùi lạ trong phòng ngủ của mình nên kiểm tra gầm giường. Bà đã rất kinh hãi khi nhìn thấy con rắn cỡ lớn đang nằm cuộn mình bên dưới. Người này lập tức bỏ chạy ra ngoài và gọi điện cho lực lượng cứu hộ để nhờ giúp đỡ."
+    },
+    {
+     "t": "p",
+     "text": "Các nhân viên cứu hộ đã khống chế con rắn và xác định đây là một cá thể rắn hổ chúa dài khoảng 3,3 mét, sở hữu nọc độc nguy hiểm chết người. Trong quá trình bị bắt giữ, con rắn đã liên tục tung ra những cú mổ để phản kháng, nhưng không trúng vào ai."
+    },
+    {
+     "t": "p",
+     "text": "Chủ nhà cho biết trước đó ít ngày, bà nhìn thấy con rắn trườn ngoài vườn, nhưng không nghĩ rằng con vật sẽ chui vào nhà như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Con rắn sau đó được lực lượng cứu hộ trả về tự nhiên tại khu vực cách xa con người sinh sống."
+    },
+    {
+     "t": "p",
+     "text": "Vẹt dễ dàng xé toạc vỏ quả dừa để uống nước"
+    },
+    {
+     "t": "p",
+     "text": "Dừa là một trong những loại quả có vỏ cứng nhất, tuy nhiên, vẹt có thể sử dụng mỏ để xé toạc vỏ dừa, sau đó thưởng thức nước ở bên trong một cách ngon lành."
+    },
+    {
+     "t": "p",
+     "text": "Những hình ảnh đẹp về tình mẫu tử trong thế giới động vật"
+    },
+    {
+     "t": "p",
+     "text": "Đoạn clip tổng hợp những hình ảnh đẹp về tình mẫu tử trong thế giới động vật khiến nhiều người xem cảm động."
+    }
+   ]
+  }
+ ]
+}
