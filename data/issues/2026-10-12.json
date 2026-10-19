@@ -1,0 +1,1525 @@
+{
+ "date": "2026-10-12",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-12T09:17:25+07:00",
+ "sections": [
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  }
+ ],
+ "articles": [
+  {
+   "id": "4215916a3ba6",
+   "order": 1,
+   "slug": "mot-hanh-tinh-co-trai-dat-co-the-ton-tai-cung-2-mat-troi-chi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Một hành tinh cỡ Trái Đất có thể tồn tại cùng 2 mặt trời, chỉ cách chúng ta 16 năm ánh sáng",
+   "sapo": "Những hành tinh có hai mặt trời đã khiến chúng ta tò mò về vũ trụ từ khi chúng xuất hiện trong một tác phẩm hư cấu nổi tiếng, bối cảnh ở một dải ngân hà xa xôi. Đúng vậy, đó là tiểu thuyết nổi tiếng toàn cầu \"King in Yellow\", xuất bản năm 1895.",
+   "author": "Ivan Farkas",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/an-earth-sized-planet-could-survive-with-2-suns-just-16-light-years-away",
+   "published": "2026-10-12T00:43:40+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1530,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "An Earth-Sized Planet Could Survive With 2 Suns Just 16 Light-Years Away",
+   "images": [
+    {
+     "src": "img/2026-10-12/4215916a3ba6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-12/4215916a3ba6-0.jpg",
+     "caption": "Hình minh họa một hành tinh giống Sao Thổ quay quanh ngôi sao chính trong một hệ sao đôi. (NASA/ESA/CSA/STScI/Robert Hurt/Caltech/IPAC)",
+     "w": 600,
+     "h": 338
+    },
+    {
+     "src": "img/2026-10-12/4215916a3ba6-1.jpg",
+     "caption": "Hình ảnh hệ sao 70 Oph AB, được Đài quan sát Hải quân Hoa Kỳ chụp năm 1937. (US Naval Observatory)",
+     "w": 1280,
+     "h": 1328
+    },
+    {
+     "src": "img/2026-10-12/4215916a3ba6-2.jpg",
+     "caption": "Khả năng tồn tại của hành tinh trong các mô phỏng của nhóm nghiên cứu, theo khoảng cách. (Li và cộng sự, ApJ, 2026)",
+     "w": 1280,
+     "h": 1007
+    },
+    {
+     "src": "img/2026-10-12/4215916a3ba6-3.jpg",
+     "caption": "Các loại quỹ đạo hành tinh quanh các sao đôi. (Phillip D. Hall/Wikimedia Commons/CC BY-SA 4.0)",
+     "w": 1206,
+     "h": 1240
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Những hành tinh có hai mặt trời đã khiến chúng ta tò mò về vũ trụ từ khi chúng xuất hiện trong một tác phẩm hư cấu nổi tiếng, bối cảnh ở một dải ngân hà xa xôi."
+    },
+    {
+     "t": "p",
+     "text": "Đúng vậy, đó là tiểu thuyết nổi tiếng toàn cầu \"King in Yellow\", xuất bản năm 1895. Và tất nhiên, cả \"Star Wars\" nữa."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng liệu những hành tinh có thể sống được thực sự có thể tồn tại trong các hệ sao đôi không?"
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu mới cho thấy câu trả lời là có, hoàn toàn có thể, và trong một thời gian rất dài - đồng thời cũng dập tắt hy vọng về các hành tinh khổng lồ trong hệ sao đứng sau tuyên bố về ngoại hành tinh lâu đời nhất từng được đưa ra."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hệ Mặt Trời của chúng ta khá đặc biệt vì đây là hệ duy nhất mà chúng ta biết có những con robot bay qua lại giữa các hành tinh của nó."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nó cũng đặc biệt vì những lý do thiên văn học khác:"
+    },
+    {
+     "t": "p",
+     "text": "\"Hệ Mặt Trời của chúng ta, chỉ có một ngôi sao, thực ra khá bất thường. Nhiều ngôi sao có các ngôi sao đồng hành,\" Stephen Kane, nhà vật lý thiên văn tại Đại học California, Riverside (UCR) và là một trong các đồng tác giả nghiên cứu, giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Bạn có thể nghĩ rằng ngôi sao thứ hai sẽ lao vào như một quả cầu phá hủy, khiến một hành tinh cỡ Trái Đất không thể tồn tại trong vùng có thể sống được. Nhưng các mô phỏng này cho thấy điều đó không hẳn đúng.\""
+    },
+    {
+     "t": "p",
+     "text": "Một nhóm thiên văn học đông đảo từ hơn chục tổ chức đã tập trung nghiên cứu hệ sao đôi có tên 70 Ophiuchi (70 Oph AB), trong đó hai ngôi sao là sao lùn loại K có khối lượng xấp xỉ 88% và 73% khối lượng Mặt Trời, và có thể vào khoảng 3 tỉ năm tuổi, theo tính toán của nhóm nghiên cứu."
+    },
+    {
+     "t": "p",
+     "text": "Những sao lùn loại K màu cam này ở một nấc thấp hơn Mặt Trời của chúng ta trên \"nấc thang\" các loại sao, vì vậy chúng nhỏ hơn, mờ hơn và lạnh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Những ngôi sao này là mục tiêu hàng đầu trong việc tìm kiếm khả năng sống được, vì chúng điềm tĩnh và ít hoạt động hơn các sao lùn đỏ, và có thể tồn tại lâu gấp bảy lần so với Mặt Trời, với tuổi thọ lên tới 70 tỉ năm."
+    },
+    {
+     "t": "p",
+     "text": "70 Oph AB đặc biệt hấp dẫn vì nó nằm trong vùng lân cận của hệ Mặt Trời chúng ta, chỉ cách khoảng 16 năm ánh sáng, tức xa gấp bốn lần so với các láng giềng gần nhất của chúng ta trong hệ sao Proxima Centauri."
+    },
+    {
+     "t": "p",
+     "text": "Nó cũng đã được biết đến là một hệ sao đôi từ gần 250 năm trước, nhờ công của William Herschel."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, nhóm nghiên cứu đã sử dụng các số liệu đo vận tốc xuyên tâm (radial velocity, viết tắt RV) gần đây và trong quá khứ của cả hai ngôi sao, bao gồm dữ liệu từ tám thiết bị dành cho sao chính, trải qua hơn một thế kỷ quan sát."
+    },
+    {
+     "t": "p",
+     "text": "RV là phương pháp tìm kiếm hành tinh thành công thứ hai trong \"vũ khí\" nghiên cứu vật lý thiên văn của chúng ta, đã giúp phát hiện hơn 1.200 ngoại hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "Phương pháp RV đo những thay đổi rất nhỏ trong vận tốc của một ngôi sao, gây ra bởi lực hấp dẫn kéo nhẹ từ một thiên thể khác, có thể là một hành tinh, một ngôi sao đồng hành, hoặc vật thể khác."
+    },
+    {
+     "t": "p",
+     "text": "Khi ngôi sao đó tiến gần hơn về phía Trái Đất, ánh sáng của nó trở nên hơi ngả sang màu xanh hơn một chút, và ngược lại sẽ ngả sang màu đỏ hơn khi nó đang di chuyển ra xa chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng kinh ngạc là các nhà nghiên cứu đã đạt được độ chính xác đo RV tốt hơn 1 mét mỗi giây."
+    },
+    {
+     "t": "p",
+     "text": "Để dễ hình dung, điều này giống như bạn đang đi bộ thong thả rồi bất ngờ rảo bước nhanh hơn để vượt qua một người đi đường khác, hay nhanh chóng rời khỏi mùi thơm hấp dẫn của tiệm bánh donut gần nhà."
+    },
+    {
+     "t": "p",
+     "text": "Việc các nhà thiên văn học có thể đo được sự thay đổi vận tốc của cả một ngôi sao, một lò phản ứng hạt nhân khổng lồ cách xa hàng nghìn tỉ ki-lô-mét, chính là một minh chứng tuyệt vời cho sức mạnh của khoa học."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, các nhà nghiên cứu đã đưa thêm những tín hiệu hành tinh giả vào kho dữ liệu khổng lồ của mình để xem họ có thể phát hiện được gì. Họ cũng mô phỏng các hành tinh có khối lượng tương đương Trái Đất ở 2.000 khoảng cách khác nhau so với sao chính, theo dõi từng hành tinh trong suốt 10 triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đã tính toán ranh giới của vùng sống được (habitable zone) quanh sao chính. Sau đó tôi kiểm tra xem liệu một hành tinh có khối lượng như Trái Đất có thể duy trì quỹ đạo ổn định ở các khoảng cách khác nhau trong vùng đó hay không,\" Skylar D'Angiolillo, nhà nghiên cứu khoa học Trái Đất và hành tinh tại UCR, đồng tác giả nghiên cứu, giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều chúng tôi phát hiện ra là quỹ đạo ổn định hoàn toàn có thể xảy ra trong vùng sống được của sao chính. Bạn có thể nghĩ rằng ngôi sao thứ hai sẽ làm xáo trộn các quỹ đạo đó, nhưng thực tế không hẳn như vậy.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cũng có thể loại trừ sự tồn tại của các hành tinh ngoài hệ mặt trời (exoplanet) khổng lồ có khối lượng bằng hoặc lớn hơn Sao Mộc quanh hai ngôi sao này, trong phạm vi khoảng 5 đơn vị thiên văn (AU) tính từ sao chính — tức tương đương khoảng cách mà một hành tinh khí khổng lồ cỡ Sao Mộc tồn tại trong Hệ Mặt Trời của chúng ta (gợi ý: chính là Sao Mộc)."
+    },
+    {
+     "t": "p",
+     "text": "Điều này khá thú vị, vì vào năm 1855, nhà thiên văn học người Anh William Jacob từng tuyên bố rằng 70 Oph AB có một hành tinh, khiến nó trở thành ứng cử viên ngoại hành tinh đầu tiên được ghi nhận, theo các nhà nghiên cứu tại Đại học Michigan (U-M)."
+    },
+    {
+     "t": "p",
+     "text": "Tuyên bố của Jacob không đứng vững trước sự kiểm chứng, nhưng các phép đo gần đây hơn lại cho thấy một hiện tượng \"lắc lư\" (wobble) mà vẫn có thể được giải thích là do một hành tinh cỡ Sao Mộc gây ra."
+    },
+    {
+     "t": "p",
+     "text": "Thay vào đó, tín hiệu được cho là của hành tinh này dường như chỉ là do hoạt động bình thường của ngôi sao gây ra — vốn là nỗi ám ảnh của phương pháp đo vận tốc xuyên tâm (RV method)."
+    },
+    {
+     "t": "p",
+     "text": "\"Đó là một cảm giác pha trộn giữa thất vọng và hào hứng,\" Yiting Li, nhà thiên văn học tại U-M, tác giả chính của nghiên cứu, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi phát hiện ra rằng không có hành tinh cỡ Sao Mộc nào ở đó, nhưng chúng tôi cũng đang mở ra chương mới nhất trong câu chuyện của hệ sao lịch sử này.\""
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các hành tinh đá (terrestrial planets) vẫn nằm dưới ngưỡng có thể phát hiện được."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, điều quan trọng là phát hiện này cho thấy các hành tinh có khối lượng tương đương Trái Đất vẫn có thể tồn tại ở đây, vì các nhà nghiên cứu đã mô hình hóa những vị trí mà chúng có khả năng được tìm thấy và ổn định nhất - từ đó đưa ra một khung phân tích có thể áp dụng cho các hệ sao đôi khác."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Và theo NASA, \"Hơn một nửa số sao trên bầu trời có một hoặc nhiều sao đồng hành\", nên điều này có thể mở rộng đáng kể các hoạt động thăm dò của chúng ta trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt là khi các thiết bị quan sát thế hệ tiếp theo (và thế hệ sau nữa) được đưa vào hoạt động, chẳng hạn như Đài quan sát các thế giới có thể sống được (Habitable Worlds Observatory - HWO) đầy hứa hẹn của NASA, được thiết kế đặc biệt để khám phá và chụp ảnh trực tiếp các hành tinh ngoài hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhìn chung, kết quả của chúng tôi cho thấy hệ 70 Oph hoàn toàn có thể chứa các hành tinh trên quỹ đạo kiểu S quay quanh sao chính, bao gồm cả các hành tinh giống Trái Đất trên những quỹ đạo ổn định nằm trong vùng có thể sống được,\" các nhà nghiên cứu kết luận."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu các hệ sao đôi có thể chứa những hành tinh giống Trái Đất, thì 70 Oph là một trong những nơi tốt nhất để tìm kiếm.\""
+    }
+   ]
+  },
+  {
+   "id": "e0ead4243a10",
+   "order": 2,
+   "slug": "san-suong-may-tren-doi-duc-me-mang-den",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Săn sương mây trên đồi Đức Mẹ Măng Đen",
+   "sapo": "Quảng Ngãi Khi bình minh ló dạng, Măng Đen hiện ra dưới vẻ đẹp mờ ảo của làn sương sớm.",
+   "author": "Tuấn Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/san-suong-may-tren-doi-duc-me-mang-den-5130570.html",
+   "published": "2026-10-12T00:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 947,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/e0ead4243a10-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 899
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 899
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1599
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1762
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1800
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1953
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1601
+    },
+    {
+     "src": "img/2026-10-12/e0ead4243a10-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 890
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Săn sương mây trên đồi Đức Mẹ Măng Đen"
+    },
+    {
+     "t": "p",
+     "text": "Quảng Ngãi Khi bình minh ló dạng, Măng Đen hiện ra dưới vẻ đẹp mờ ảo của làn sương sớm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ tháng 10 đến tháng 12, thời tiết Măng Đen se lạnh xen nắng ấm thuận lợi để du khách di chuyển khám phá cảnh quan và săn mây vào sáng sớm. Một trong những điểm ngắm mây được giới nhiếp ảnh yêu thích là khu vực đồi Đức Mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Trong ảnh, khoảnh khắc sương sớm hòa cùng mây trên đồi Đức Mẹ được nhiếp ảnh gia Trần Phương, sống tại TP HCM, ghi lại sáng 5/10."
+    },
+    {
+     "t": "p",
+     "text": "\"Săn sương Măng Đen không khó như Đà Lạt, chỉ cần dậy sớm là được\", nhiếp ảnh gia từng săn bình minh khắp Việt Nam cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Từ tháng 10 đến tháng 12, thời tiết Măng Đen se lạnh xen nắng ấm thuận lợi để du khách di chuyển khám phá cảnh quan và săn mây vào sáng sớm. Một trong những điểm ngắm mây được giới nhiếp ảnh yêu thích là khu vực đồi Đức Mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Trong ảnh, khoảnh khắc sương sớm hòa cùng mây trên đồi Đức Mẹ được nhiếp ảnh gia Trần Phương, sống tại TP HCM, ghi lại sáng 5/10."
+    },
+    {
+     "t": "p",
+     "text": "\"Săn sương Măng Đen không khó như Đà Lạt, chỉ cần dậy sớm là được\", nhiếp ảnh gia từng săn bình minh khắp Việt Nam cho biết."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Măng Đen , thuộc tỉnh Quảng Ngãi , nằm ở độ cao khoảng 1.200 m được ví như \"Đà Lạt thứ hai\" nhờ khí hậu mát mẻ quanh năm. Đồi Đức Mẹ nằm ở đường Trần Nhân Tông, cách trung tâm Măng Đen khoảng 2 km và có thể di chuyển đến bằng xe máy. Thời điểm để ngắm mây, sương đẹp nhất là 5-6h."
+    },
+    {
+     "t": "p",
+     "text": "Từ đỉnh đồi, du khách có thể nhìn thấy đỉnh Ngọc Lễ cao 1.720 m thấp thoáng trong sương và các đồi khác, bao quanh bởi rừng thông."
+    },
+    {
+     "t": "p",
+     "text": "Măng Đen , thuộc tỉnh Quảng Ngãi , nằm ở độ cao khoảng 1.200 m được ví như \"Đà Lạt thứ hai\" nhờ khí hậu mát mẻ quanh năm. Đồi Đức Mẹ nằm ở đường Trần Nhân Tông, cách trung tâm Măng Đen khoảng 2 km và có thể di chuyển đến bằng xe máy. Thời điểm để ngắm mây, sương đẹp nhất là 5-6h."
+    },
+    {
+     "t": "p",
+     "text": "Từ đỉnh đồi, du khách có thể nhìn thấy đỉnh Ngọc Lễ cao 1.720 m thấp thoáng trong sương và các đồi khác, bao quanh bởi rừng thông."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Khoảnh khắc đón ngày mới trên đồi Đức Mẹ sáng 5/10. Lúc này, bình minh ló rạng, sương tan dần, ánh nắng chiếu xuyên qua mây làm lộ các hàng thông xanh mướt trên đồi."
+    },
+    {
+     "t": "p",
+     "text": "Theo người dân địa phương, khoảng một tuần qua, thời tiết ở Măng Đen khô ráo, biển mây xuất hiện dày. Tại đồi Đức Mẹ, đến gần trưa, du khách vẫn có thể thấy biển mây."
+    },
+    {
+     "t": "p",
+     "text": "Khoảnh khắc đón ngày mới trên đồi Đức Mẹ sáng 5/10. Lúc này, bình minh ló rạng, sương tan dần, ánh nắng chiếu xuyên qua mây làm lộ các hàng thông xanh mướt trên đồi."
+    },
+    {
+     "t": "p",
+     "text": "Theo người dân địa phương, khoảng một tuần qua, thời tiết ở Măng Đen khô ráo, biển mây xuất hiện dày. Tại đồi Đức Mẹ, đến gần trưa, du khách vẫn có thể thấy biển mây."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đến khoảng 6h, khi Mặt Trời lên cao, biển mây hiện rõ dưới ánh nắng vàng ban mai. Khoảnh khắc này kéo dài khoảng 10 phút."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đến khoảng 6h, khi Mặt Trời lên cao, biển mây hiện rõ dưới ánh nắng vàng ban mai. Khoảnh khắc này kéo dài khoảng 10 phút."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Sương mây bao phủ trên quốc lộ 24 dưới chân đồi Đức Mẹ Măng Đen."
+    },
+    {
+     "t": "p",
+     "text": "Quốc lộ 24 dài khoảng 225 km, là tuyến huyết mạch nối Quảng Ngãi với phía bắc Tây Nguyên, đi qua Khu du lịch Măng Đen - nơi được tỉnh định hướng trở thành khu du lịch quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Sương mây bao phủ trên quốc lộ 24 dưới chân đồi Đức Mẹ Măng Đen."
+    },
+    {
+     "t": "p",
+     "text": "Quốc lộ 24 dài khoảng 225 km, là tuyến huyết mạch nối Quảng Ngãi với phía bắc Tây Nguyên, đi qua Khu du lịch Măng Đen - nơi được tỉnh định hướng trở thành khu du lịch quốc gia."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Một góc phố Măng Đen khi màn sương tan dần."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phương, ngoài đồi Đức Mẹ, du khách có thể săn mây tại khu 37 hộ, đồi Tiên Nhân, đỉnh Ngọc Lễ và đèo Violak. Du khách cũng có thể chọn các quán cà phê hoặc cơ sở lưu trú gần thung lũng để thuận tiện di chuyển vào sáng sớm."
+    },
+    {
+     "t": "p",
+     "text": "Nhiếp ảnh gia lưu ý du khách không nên đi một mình, nhất là đến những nơi có đường phức tạp như đỉnh Ngọc Lễ hay khu 37 hộ. Trước chuyến đi, du khách nên hỏi người dân địa phương về đường sá và điều kiện thời tiết để đảm bảo an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phương, ngoài đồi Đức Mẹ, du khách có thể săn mây tại khu 37 hộ, đồi Tiên Nhân, đỉnh Ngọc Lễ và đèo Violak. Du khách cũng có thể chọn các quán cà phê hoặc cơ sở lưu trú gần thung lũng để thuận tiện di chuyển vào sáng sớm."
+    },
+    {
+     "t": "p",
+     "text": "Nhiếp ảnh gia lưu ý du khách không nên đi một mình, nhất là đến những nơi có đường phức tạp như đỉnh Ngọc Lễ hay khu 37 hộ. Trước chuyến đi, du khách nên hỏi người dân địa phương về đường sá và điều kiện thời tiết để đảm bảo an toàn."
+    }
+   ]
+  },
+  {
+   "id": "a24b1ff2f80d",
+   "order": 3,
+   "slug": "cham-vao-binh-minh-mui-dien-net-nguyen-so-va-nhip-tho-du-lic",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Chạm vào bình minh Mũi Điện: Nét nguyên sơ và nhịp thở du lịch xanh",
+   "sapo": "Không chỉ là nơi đón ánh bình minh đầu tiên trên đất liền, Mũi Đại Lãnh (Đắk Lắk) còn gây ấn tượng sâu sắc bởi ngọn hải đăng trăm tuổi cùng không gian du lịch văn minh, sạch đẹp và không rác bừa bãi.",
+   "author": "Thanh Phong",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/cham-vao-binh-minh-mui-dien-net-nguyen-so-va-nhip-tho-du-lich-xanh-post1141372.vnp",
+   "published": "2026-10-11T22:10:52+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 207,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/a24b1ff2f80d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nằm ở nơi đón ánh bình minh đầu tiên trên đất liền Tổ quốc, Mũi Đại Lãnh (Đắk Lắk) hay còn được người dân địa phương gọi là Mũi Điện từ lâu đã là điểm hẹn thiêng liêng của những tâm hồn say mê khám phá."
+    },
+    {
+     "t": "p",
+     "text": "Từ tờ mờ sáng, vượt qua những bậc đá quanh co, du khách được đền đáp bằng khoảnh khắc vầng thái dương từ từ nhô lên từ biển Đông, dát vàng lên mặt sóng Bãi Môn và đánh thức ngọn hải đăng hơn 100 năm tuổi sừng sững giữa đất trời."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ mang trong mình vẻ đẹp nguyên sơ, đến với mũi Đại Lãnh ngày nay, du khách còn ngạc nhiên hơn khi nơi đây có một môi trường du lịch văn minh."
+    },
+    {
+     "t": "p",
+     "text": "Mặc dù là rừng núi, nhưng dọc lối đi và tại các điểm dừng chân, hệ thống thùng rác phân loại được bố trí khoa học, giữ cho không gian luôn sạch sẽ, tuyệt nhiên không có cảnh rác thải vứt bừa bãi. Sự sắp xếp hợp lý của đơn vị quản lý và ý thức gìn giữ của cả cộng đồng đang làm cho di sản danh thắng cấp quốc gia này thêm phần tỏa sáng./."
+    }
+   ]
+  },
+  {
+   "id": "f574f00af16a",
+   "order": 4,
+   "slug": "nguoi-viet-chuong-mon-noi-tang-dong-vat-vi-sao-nhieu-nguoi-m",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Người Việt chuộng món nội tạng động vật, vì sao nhiều người Mỹ lại ngại ăn",
+   "sapo": "(Dân trí) - Trong khi lòng lợn, dạ dày, gan hay tim là những nguyên liệu quen thuộc trong ẩm thực Việt Nam, nội tạng động vật lại không xuất hiện thường",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/nguoi-viet-chuong-mon-noi-tang-dong-vat-vi-sao-nhieu-nguoi-my-lai-ngai-an-20261012072726093.htm",
+   "published": "2026-10-12T01:08:43+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 826,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/f574f00af16a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-12/f574f00af16a-0.jpg",
+     "caption": "Lòng lợn là món ăn được nhiều người Việt ưa chuộng dù các chuyên gia y tế có những khuyến cáo về vấn đề sức khỏe (Ảnh minh họa: Food).",
+     "w": 830,
+     "h": 498
+    },
+    {
+     "src": "img/2026-10-12/f574f00af16a-1.jpg",
+     "caption": "Nội tạng động vật là thực phẩm ít xuất hiện trên bàn ăn của người dân Mỹ hay châu Âu (Ảnh: Taste).",
+     "w": 1080,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Trong khi lòng lợn, dạ dày, gan hay tim là những nguyên liệu quen thuộc trong ẩm thực Việt Nam, nội tạng động vật lại không xuất hiện thường xuyên trong bữa ăn của nhiều người Mỹ."
+    },
+    {
+     "t": "p",
+     "text": "Ở Việt Nam, nội tạng động vật được chế biến thành nhiều món ăn quen thuộc, từ lòng luộc, dồi, cháo lòng đến gan xào, tim hầm hay phá lấu. Không ít người xem đây là những món ngon khó bỏ qua, gắn với quán ăn bình dân, bữa cơm gia đình và văn hóa ẩm thực đường phố."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, thói quen này không phổ biến ở nhiều quốc gia phương Tây. Chẳng hạn tại Mỹ, các món như gan xào hành tây, mề gà chiên hay tim gà từng xuất hiện trong bữa ăn của một bộ phận gia đình. Nhưng ngày nay, các món ăn này không còn được nhiều người trẻ ưa chuộng."
+    },
+    {
+     "t": "p",
+     "text": "Theo bài viết đăng trên chuyên trang ẩm thực, dinh dưỡng Today's Dietitian dẫn lại số liệu của Tổ chức Lương thực và Nông nghiệp Liên hợp quốc (FAO), Mỹ đứng thứ 171 trong số 175 quốc gia về mức tiêu thụ nội tạng."
+    },
+    {
+     "t": "p",
+     "text": "Lượng nội tạng trung bình mỗi người Mỹ ăn mỗi năm được nêu ở mức khoảng 440gram. Phần lớn đến từ các sản phẩm chế biến như xúc xích và bánh mì kẹp xúc xích."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những lý do khiến nội tạng ít được ưa chuộng tại Mỹ là do thói quen và cách chế biến. Theo bài viết đăng tải trên Tasting Table, nhiều người Mỹ không biết cách sơ chế, nấu nướng nội tạng động vật. Khi chưa quen ăn một loại thực phẩm, người ta cũng khó biết cách chế biến sao cho ngon miệng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Quan niệm nội tạng là thực phẩm dành cho người có thu nhập thấp cũng góp phần khiến các món ăn này mất đi sức hấp dẫn. Trong lịch sử ẩm thực Mỹ, những nguyên liệu như ruột lợn, gan gà chiên hay đuôi bò thường được xem là phần thịt rẻ tiền, xuất hiện trong các món ăn truyền thống của cộng đồng người Mỹ gốc Phi."
+    },
+    {
+     "t": "p",
+     "text": "Có giai đoạn, chính phủ Mỹ từng khuyến khích người dân sử dụng nội tạng để tận dụng nguồn thực phẩm. Tuy nhiên, với một bộ phận người tiêu dùng, việc ăn nội tạng gắn nhiều hơn với hoàn cảnh thiếu thốn, thay vì lựa chọn do sở thích."
+    },
+    {
+     "t": "p",
+     "text": "Những ký ức gia đình cho thấy nội tạng từng có vị trí nhất định trong bữa ăn của thế hệ trước. Trên diễn đàn Reddit, một người dùng kể rằng cha mình thích gan, mề gà, tim, óc và lòng bò. Những người khác chia sẻ chuyện cha mẹ thường ăn gan xào hành tây hoặc chế biến tim gà chiên."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, những món ăn từng quen thuộc với thế hệ trước, không nhất thiết được thế hệ sau tiếp tục lựa chọn. Khi điều kiện sống thay đổi và thực phẩm phong phú hơn, nhiều người không còn cảm thấy cần phải sử dụng những phần thịt trước đây được xem là tiết kiệm."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, ngoài yếu tố kinh tế, định kiến về nội tạng cũng ảnh hưởng đến cách người Mỹ nhìn nhận loại thực phẩm này."
+    },
+    {
+     "t": "p",
+     "text": "Một số người cho rằng nội tạng có mùi khó chịu, kết cấu không hấp dẫn hoặc đơn giản là không muốn ăn những bộ phận bên trong cơ thể động vật. Trong khi thịt bò, thịt lợn hay thịt gà được xem là thực phẩm thông thường, nội tạng lại dễ tạo cảm giác e ngại."
+    },
+    {
+     "t": "p",
+     "text": "Trái với những e ngại về khẩu vị, nội tạng động vật có thể cung cấp nhiều chất dinh dưỡng."
+    },
+    {
+     "t": "p",
+     "text": "Theo Viện Dinh dưỡng Quốc gia Việt Nam, phần lớn các loại phủ tạng chứa protein và chất béo; tim, gan còn cung cấp sắt và vitamin A. Tuy nhiên, nhược điểm của nhóm thực phẩm này là hàm lượng chất béo và cholesterol cao, đặc biệt ở óc, gan và bầu dục."
+    },
+    {
+     "t": "p",
+     "text": "Theo BS Nguyễn Trọng Hoàng Hiệp, Trung tâm Y học giới tính, Bệnh viện Nam học và Hiếm muộn Hà Nội, nội tạng động vật chứa nhiều chất béo bão hòa và cholesterol hơn so với thịt. Việc thường xuyên ăn nhiều nội tạng có thể làm tăng mỡ máu, gây bất lợi cho sức khỏe tim mạch."
+    },
+    {
+     "t": "p",
+     "text": "Điều này cho thấy nội tạng không đơn thuần là món ăn nên tránh hay thực phẩm có giá trị dinh dưỡng vượt trội. Việc sử dụng loại thực phẩm này cần được cân nhắc dựa trên lượng ăn, tần suất và tình trạng sức khỏe của mỗi người."
+    },
+    {
+     "t": "p",
+     "text": "Sự khác biệt giữa Việt Nam và Mỹ cho thấy, cùng một nguyên liệu có thể được nhìn nhận rất khác nhau ở mỗi quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Theo Taste Table"
+    }
+   ]
+  },
+  {
+   "id": "d3ae686abac5",
+   "order": 5,
+   "slug": "gao-nuoc-nao-o-dong-nam-a-ngon-nhat-the-gioi-nam-2026",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Gạo nước nào ở Đông Nam Á ngon nhất thế giới năm 2026?",
+   "sapo": "Gạo Việt Nam tiếp tục ghi dấu ấn tại cuộc thi “Gạo ngon nhất thế giới”, nhưng ngôi vị cao nhất năm 2026 lại thuộc về một quốc gia Đông Nam Á khác. Bạn có đoán đúng tên nước này?",
+   "author": "Hoàng Linh",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/gao-nuoc-nao-o-dong-nam-a-ngon-nhat-the-gioi-nam-2026-2563251.html",
+   "published": "2026-10-11T22:10:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 482,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/d3ae686abac5-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Gạo nước nào ở Đông Nam Á giành giải ngon nhất thế giới năm 2026?"
+    },
+    {
+     "t": "li",
+     "text": "Myanmar 0% Việt Nam 0% Thái Lan 0% Philippines 0% Chính xác Ngày 9/10/2026, gạo Paw San của Myanmar giành giải nhất cuộc thi “Gạo ngon nhất thế giới 2026”, tổ chức trong khuôn khổ Hội nghị Lúa gạo thế giới tại Manila, Philippines. Đây là lần thứ hai gạo Myanmar giành giải cao nhất, sau lần đầu vào năm 2011. Gạo ST25 nhãn hiệu Gạo Ông Cua của Việt Nam đoạt giải nhì, Philippines giành giải ba, còn Thái Lan và Ấn Độ đồng hạng tư. 2. Gạo ST25 của Việt Nam đã bao nhiêu lần giành giải nhất cuộc thi “Gạo ngon nhất thế giới” tính đến năm 2026? Một lần 0% Hai lần 0% Ba lần 0% Bốn lần 0% Chính xác Gạo ST25 của Việt Nam đã ba lần giành giải nhất vào các năm 2019, 2023 và 2025. Năm 2025, ST25 đồng giải nhất với gạo Phka Romdoul của Campuchia. Ngoài những lần đạt giải cao nhất, ST25 từng giành giải ba năm 2017 và giải nhì năm 2026. 3. Ban giám khảo cuộc thi “Gạo ngon nhất thế giới” đánh giá các mẫu gạo dự thi dựa trên những tiêu chí nào? Dựa vào hình dáng và màu sắc của hạt gạo sống 0% Dựa vào giá bán và sản lượng xuất khẩu 0% Đánh giá cả gạo sống và cơm sau khi nấu, xét độ đồng đều, chiều dài hạt, hương thơm, độ mềm dẻo và hương vị 0% Dựa vào hàm lượng dinh dưỡng và thời gian bảo quản 0% Chính xác Theo thông tin về cuộc thi năm 2026, hội đồng giám khảo gồm các đầu bếp và chuyên gia quốc tế. Các mẫu gạo được đánh giá ở cả trạng thái sống và sau khi nấu thành cơm, dựa trên nhiều tiêu chí như độ đồng đều, chiều dài hạt, hương thơm, độ mềm dẻo và vị. Cách đánh giá này xem xét cả đặc điểm của hạt gạo lẫn chất lượng cơm khi sử dụng, thay vì chỉ căn cứ vào hình thức bên ngoài. 4. Nước nào có loại gạo đắt nhất thế giới? Trung Quốc 0% Việt Nam 0% Nhật Bản 0% Myanmar 0% Chính xác Theo Guinness World Records , gạo Kinmemai Premium của Nhật Bản được ghi nhận là loại gạo đắt nhất thế giới năm 2016, với giá 109 USD/kg. Theo nhà sản xuất, sản phẩm kết hợp năm giống gạo từng đoạt giải thưởng tại Nhật Bản, được ủ hương trong sáu tháng trước khi xay xát bằng công nghệ đánh bóng riêng. Công ty cũng cho biết loại gạo này không cần vo trước khi nấu và có hàm lượng một số thành phần dinh dưỡng cao hơn gạo trắng thông thường. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "5fdc52913141",
+   "order": 6,
+   "slug": "tay-vot-19-tuoi-cua-nhat-ban-vo-dich-giai-bong-ban-danh-gia",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Tay vợt 19 tuổi của Nhật Bản vô địch giải bóng bàn danh giá nhất thế giới",
+   "sapo": "Ở tuổi 19, ngôi sao bóng bàn Nhật Bản đang tiếp tục viết nên lịch sử. Chỉ một tuần sau khi bước lên ngôi số 1 thế giới, anh ghi thêm dấu ấn với chức vô địch đơn nam ở China Smash 2026.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tay-vot-19-tuoi-cua-nhat-ban-vo-dich-giai-bong-ban-danh-gia-nhat-the-gioi-100261011201131964.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 515,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/5fdc52913141-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-12/5fdc52913141-0.jpg",
+     "caption": "Sora Matsushima là viên ngọc quý của làng bóng bàn Nhật Bản - Ảnh: WTT",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tối 11-10, người hâm mộ bóng bàn háo hức chứng kiến \"màn so tài tay trái\" giữa Sora Matsushima - 19 tuổi và Lin Yun-Ju - 25 tuổi, trong trận chung kết đơn nam China Smash."
+    },
+    {
+     "t": "p",
+     "text": "Trừ Olympic và Giải vô địch thế giới, China Smash được xem là giải đấu danh giá nhất trong hệ thống của WTT (công ty tổ chức thuộc Liên đoàn Bóng bàn thế giới - ITTF). Giải thuộc hệ thống Grand Smash (tương tự Grand Slam bên quần vợt), và đặc biệt được coi trọng vì diễn ra tại Trung Quốc - cái nôi của làng bóng bàn."
+    },
+    {
+     "t": "p",
+     "text": "Ở giải năm nay, nước chủ nhà không thể vui nổi khi lần đầu tiên trong lịch sử, Trung Quốc không góp tay vợt nào ở chung kết nội dung đơn nam China Smash. Tại vòng bán kết, Zhou Qihao (Chu Khải Hào) thua Matsushima với tỉ số 2-4."
+    },
+    {
+     "t": "p",
+     "text": "Ở nhánh bên kia, Lin Yun-Ju của Đài Loan (Đài Bắc Trung Hoa) gây ấn tượng mạnh khi liên tiếp quật ngã 2 ứng viên vô địch là Truls Moregard (Thụy Điển) và Hugo Calderano (Brazil)."
+    },
+    {
+     "t": "p",
+     "text": "Trận chung kết biến thành \"cuộc chiến tay trái\", khi cả Matsushima và Lin Yun-Ju đều nổi tiếng với việc cầm vợt bằng tay trái. Không chỉ vậy, cả hai cùng sở hữu lối đánh quyết liệt, biến ảo khôn lường tương tự nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trận chung kết hấp dẫn đúng như kỳ vọng của người hâm mộ. Matsushima được đánh giá nhỉnh hơn và đã vươn lên dẫn 2-0 khi thắng 11-7, 11-9 ở 2 ván đầu tiên."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Lin Yun-Ju cho thấy anh không hề \"dễ xơi\", thắng liên tiếp 3 ván với tỉ số 11-7, 11-8, 11-5 để dẫn lại 3-2 trong sự ngỡ ngàng của người hâm mộ."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng đó cũng là phong cách quen thuộc của Matsushima - tay vợt đánh rất \"bốc\" và luôn có chuỗi ghi điểm - mất điểm khó lường trong những trận đấu lớn. Đến thời khắc quyết định, chàng trai 19 tuổi của Nhật Bản tỏa sáng kịp lúc, thắng liền 2 ván tiếp theo với tỉ số 11-7, 11-9, qua đó thắng chung cuộc 4-3."
+    },
+    {
+     "t": "p",
+     "text": "Một chiến thắng cực đẹp, vô cùng mãn nhãn và đầy cảm xúc, đánh dấu những ngày ngự trị đầu tiên của Matsushima trên vị trí số 1 thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Hồi đầu tháng 10, ngôi sao 19 tuổi Nhật Bản soán ngôi của Wang Chuqin (Vương Sở Khâm), vươn lên vị trí số 1 thế giới bảng xếp hạng của ITTF với 6.930."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, anh đã lập kỷ lục trở thành nhà vô địch Grand Smash trẻ nhất trong lịch sử khi vô địch US Smash (ở Mỹ) lúc 19 tuổi 67 ngày. Và giờ đây, Matsushima cũng giữ luôn kỷ lục nhà vô địch China Smash trẻ nhất - 19 tuổi 165 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Sự nghiệp của ngôi sao bóng bàn Nhật Bản chắc chắn vẫn còn rất rộng mở, đặc biệt trong hoàn cảnh những tay vợt đơn nam Trung Quốc đang khủng hoảng phong độ nặng nề."
+    }
+   ]
+  },
+  {
+   "id": "91fe86ee1087",
+   "order": 7,
+   "slug": "zheng-qinwen-lap-lich-su-tai-trung-quoc-mo-rong",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Zheng Qinwen lập lịch sử tại Trung Quốc Mở rộng",
+   "sapo": "Trung Quốc Zheng Qinwen cứu ba set-point rồi hạ Mirra Andreeva 7-5, 6-4 ngày 11/10, trở thành tay vợt nữ Trung Quốc đầu tiên vô địch giải đấu tại Bắc Kinh.",
+   "author": "Vy Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/zheng-qinwen-lap-lich-su-tai-trung-quoc-mo-rong-5131035.html",
+   "published": "2026-10-11T22:48:01+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 466,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/91fe86ee1087-lead.jpg",
+     "caption": "",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-10-12/91fe86ee1087-0.jpg",
+     "caption": "Zheng Qinwen chụp ảnh với cup sau khi thắng Mirra Andreeva ở chung kết đơn nữ Trung Quốc Mở rộng trên sân Capital Group Diamond, Trung tâm Quần vợt Quốc gia, Bắc Kinh, Trung Quốc, ngày 11/10/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trung Quốc Zheng Qinwen cứu ba set-point rồi hạ Mirra Andreeva 7-5, 6-4 ngày 11/10, trở thành tay vợt nữ Trung Quốc đầu tiên vô địch giải đấu tại Bắc Kinh."
+    },
+    {
+     "t": "p",
+     "text": "Zheng kết thúc trận chung kết bằng một cú ace, rồi đổ người xuống sân trong tiếng reo hò của khán giả nhà. Sau bài phát biểu nhận cup, cô còn hát trước khán đài, khép lại hành trình mà tay vợt số 54 thế giới bắt đầu bằng suất đặc cách."
+    },
+    {
+     "t": "p",
+     "text": "\"Cảm giác thật tuyệt vời. Vô địch tại Bắc Kinh trước khán giả nhà là một trong những giấc mơ của tôi\", Zheng nói. \"Tôi đã trải qua một năm vô cùng khó khăn\"."
+    },
+    {
+     "t": "p",
+     "text": "Danh hiệu WTA 1000 đầu tiên và chức vô địch thứ sáu trong sự nghiệp của Zheng. Chiến thắng chấm dứt hai năm không danh hiệu, sau giai đoạn cô vật lộn với phong độ và thể trạng. Tay vợt Trung Quốc từng phẫu thuật khuỷu tay năm ngoái, rồi gặp khó trong việc tìm lại sức cạnh tranh suốt 12 tháng qua."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trước hạt giống số bốn Andreeva, Zheng bị dẫn 0-2 ở cả hai set nhưng đều đảo ngược tình thế. Bước ngoặt lớn nhất đến cuối set đầu, khi tay vợt Nga dẫn 5-4 và có ba cơ hội thắng set."
+    },
+    {
+     "t": "p",
+     "text": "Zheng cứu cả ba set-point, rồi thắng liền 11 điểm cuối để lấy set đầu 7-5. Từ thế đứng sát thất bại, cô giành lợi thế bằng khả năng giữ bình tĩnh trong những điểm quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Andreeva tiếp tục dẫn điểm đầu set hai nhưng không duy trì được ưu thế. Khi tỷ số cân bằng 4-4, những sai sót của tay vợt 19 tuổi tạo cơ hội để Zheng bứt lên."
+    },
+    {
+     "t": "p",
+     "text": "Khán giả Bắc Kinh cổ vũ cuồng nhiệt, dù đôi lúc gây ảnh hưởng tới trận đấu bằng tiếng động giữa các điểm. Một lỗi kép của Zheng ở giai đoạn cuối làm tăng căng thẳng, nhưng cô không đánh mất lợi thế và khép lại trận đấu bằng giao bóng."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng trước Andreeva là lần thứ 14 Zheng đánh bại một đối thủ top 10, và là lần thứ ba trong mùa này. Chức vô địch dự kiến giúp nhà ĐKVĐ Olympic tăng 31 bậc, lên thứ 23 thế giới khi bảng điểm WTA được cập nhật ngày 12/10. Dù thất bại, Andreeva dự kiến lên số ba thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Trung Quốc Mở rộng thuộc nhóm WTA 1000, cấp độ cao nhất của hệ thống giải nữ thường niên ngoài Grand Slam và WTA Finals. Giải đấu từng chứng kiến nhiều tên tuổi đăng quang như Serena Williams, Maria Sharapova, Caroline Wozniacki và Iga Swiatek, nhưng chưa có tay vợt nữ Trung Quốc nào vô địch trước Zheng."
+    }
+   ]
+  },
+  {
+   "id": "0cf5a43d682d",
+   "order": 8,
+   "slug": "tay-vot-danh-bai-thuy-linh-vo-dich-giai-cau-long-danh-gia-ch",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Tay vợt đánh bại Thùy Linh vô địch giải cầu lông danh giá châu Âu",
+   "sapo": "Mia Blichfeldt đã tạo nên bất ngờ lớn tại giải cầu lông Arctic Open 2026 (Phần Lan) khi đánh bại hạt giống số 1 Ratchanok Intanon trong trận chung kết, qua đó giành một trong những danh hiệu đáng nhớ nhất sự nghiệp.",
+   "author": "ĐỨC KHUÊ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tay-vot-danh-bai-thuy-linh-vo-dich-giai-cau-long-danh-gia-chau-au-100261012055710329.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 6,
+   "words": 400,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/0cf5a43d682d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-12/0cf5a43d682d-0.jpg",
+     "caption": "Mia Blichfeldt đạt một trong những thành tích cao quý nhất sự nghiệp - Ảnh: FLASH",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hôm 11-10, Mia Blichfeldt (Đan Mạch) xuất sắc đánh bại Ratchanok Intanon (Thái Lan) với tỉ số 2-0 (21-17, 21-13) trong trận chung kết đơn nữ giải cầu lông Arctic Open 2026."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng này được xem là một trong những cột mốc đáng nhớ nhất sự nghiệp của tay vợt 29 tuổi người Đan Mạch. Đây mới là lần thứ hai Blichfeldt đăng quang ở một giải đấu thuộc hệ thống BWF World Tour Super 500. Đây là cấp độ cao thứ 4, sau các giải World Tour Finals, Super 1000 và Super 750."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, trước trận chung kết, Blichfeldt từng trải qua 8 lần đối đầu Ratchanok Intanon nhưng đều thất bại. Vì vậy, chiến thắng trước tay vợt đang xếp hạng 5 thế giới càng trở nên đặc biệt."
+    },
+    {
+     "t": "p",
+     "text": "Bước vào trận đấu, Ratchanok Intanon được đánh giá cao hơn nhờ đẳng cấp và kinh nghiệm thi đấu quốc tế. Ngôi sao Thái Lan từng đi vào lịch sử khi trở thành nhà vô địch thế giới trẻ nhất ở tuổi 18 vào năm 2013. Sau đó, cô cũng từng có thời gian giữ vị trí số 1 thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Blichfeldt đã có màn trình diễn xuất sắc để làm lu mờ đối thủ. Ở ván đầu tiên, dù bị dẫn 2-3, tay vợt Đan Mạch nhanh chóng ghi liền 5 điểm để vượt lên 7-3. Kể từ thời điểm đó, cô duy trì lợi thế và giành chiến thắng 21-17."
+    },
+    {
+     "t": "p",
+     "text": "Lối đánh kiên trì cùng khả năng phán đoán tốt giúp tay vợt Đan Mạch nhiều lần hóa giải những tình huống tấn công của đối thủ."
+    },
+    {
+     "t": "p",
+     "text": "Sang ván hai, Ratchanok Intanon nỗ lực tìm lại thế trận và giằng co với Blichfeldt đến tỉ số 11-11. Tuy nhiên, bước ngoặt xuất hiện khi tay vợt Đan Mạch ghi liền 3 điểm để vượt lên 14-11."
+    },
+    {
+     "t": "p",
+     "text": "Từ đây, Ratchanok Intanon có dấu hiệu xuống tinh thần và không thể ngăn cản đối thủ tiến đến chiến thắng 21-13."
+    },
+    {
+     "t": "p",
+     "text": "Chức vô địch Arctic Open là phần thưởng xứng đáng cho màn trình diễn ấn tượng của Blichfeldt. Đáng nói, trên hành trình lên ngôi, Blichfeldt đã đánh bại tay vợt Việt Nam Nguyễn Thùy Linh tại vòng 2."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh Mia Blichfeldt thì ở nội dung đơn nam, một tay vợt khác của Đan Mạch là Anders Antonsen cũng lên ngôi vô địch."
+    }
+   ]
+  },
+  {
+   "id": "fe16fd1894bb",
+   "order": 9,
+   "slug": "mot-con-ca-nho-o-bien-sau-nuot-chung-con-moi-lon-hon-minh-nh",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Một con cá nhỏ ở biển sâu nuốt chửng con mồi lớn hơn mình nhiều lần. Các nhà khoa học đã ghi hình được khoảnh khắc đó.",
+   "sapo": "Dưới biển luôn có con cá to hơn.",
+   "author": "Carly Cassella",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/a-little-fish-in-the-deep-sea-swallowed-a-meal-way-bigger-than-itself-scientists-caught-it-on-camera",
+   "published": "2026-10-11T15:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 785,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A Little Fish in The Deep Sea Swallowed a Meal Way Bigger Than Itself. Scientists Caught It on Camera.",
+   "images": [
+    {
+     "src": "img/2026-10-12/fe16fd1894bb-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-12/fe16fd1894bb-0.jpg",
+     "caption": "Một con cá nuốt đen (Chiasmodon niger) bơi ở độ sâu 1.259 mét trong lúc một thiết bị lặn điều khiển từ xa khảo sát ngoài khơi Trinidad và Tobago. (ROV SuBastian/Viện Hải dương học Schmidt)",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dưới biển luôn có con cá to hơn."
+    },
+    {
+     "t": "p",
+     "text": "Với hầu hết chúng ta, câu nói đó là một lời cảnh báo. Nhưng với một chú cá nhỏ sống ở biển sâu, đó lại là một điều may mắn."
+    },
+    {
+     "t": "p",
+     "text": "Cá nuốt đen (Chiasmodon niger) là một loài sinh vật nhỏ bé, thường chỉ dài khoảng 10 đến 20 cm, không dài hơn một cây thước kẻ của học sinh."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, điều đó không ngăn được nó đặt mục tiêu lớn. Chú cá có vẻ ngoài bình thường này có thể nuốt chửng con mồi nặng gấp tới mười lần cơ thể mình."
+    },
+    {
+     "t": "p",
+     "text": "Đây chắc chắn là một khoảnh khắc của kẻ yếu thế vượt lên, giống như chuyện David đánh bại gã khổng lồ Goliath. Và trong một sự kiện vô cùng hiếm gặp, các nhà khoa học đã quay được cảnh này."
+    },
+    {
+     "t": "p",
+     "text": "Trong một chuyến lặn biển sâu gần đây ở khu vực đảo Trinidad và Tobago, một thiết bị lặn điều khiển từ xa đã chụp được hình ảnh một con cá nuốt đen ở độ sâu 1.259 mét, với cái bụng phình to đến mức trông như đang mang theo một \"thùng phụ\" bên hông."
+    },
+    {
+     "t": "p",
+     "text": "Lớp da của nó căng ra đến mức gần như trong suốt, có thể nhìn thấy rõ các cơ quan nội tạng và ruột bên trong."
+    },
+    {
+     "t": "p",
+     "text": "\"Cá nuốt đen nổi tiếng là rất hiếm gặp trong tự nhiên. Tôi nhìn thấy con đầu tiên gần một thập kỷ trước, ở vịnh Mexico,\" cô Diva Amon từ Viện Hải dương học Schmidt, nhà khoa học trưởng của chuyến khảo sát, chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi chưa từng nghĩ mình sẽ có cơ hội thứ hai. Nhưng chuyến khảo sát này đã mang lại một bất ngờ LỚN.\""
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Amon giải thích rằng cá nuốt đen đã tiến hóa để tận dụng tối đa môi trường sống ở biển sâu, nơi thức ăn vô cùng khan hiếm."
+    },
+    {
+     "t": "p",
+     "text": "Chúng có hàm dưới có thể trật ra và cái dạ dày co giãn như quả bóng bay. Nhờ vậy, nếu thấy một miếng mồi ngon bơi qua, chúng có thể nuốt chửng, dù con mồi to hơn chính mình."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cũng giống như nhiều người trong chúng ta, cá nuốt đen đôi khi \"ăn\" nhiều hơn mức chúng có thể \"nhai\" được."
+    },
+    {
+     "t": "p",
+     "text": "Hầu hết các mẫu vật được tìm thấy đều đã chết, trôi dạt lên mặt biển."
+    },
+    {
+     "t": "p",
+     "text": "Nếu con vật này không tiêu hóa thức ăn đủ nhanh, bữa ăn nằm trong cái dạ dày phình to của nó có thể bắt đầu phân hủy."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình đó sinh ra khí, khiến cơ thể nó bị đẩy lên mặt nước, giống như một quả bóng bay."
+    },
+    {
+     "t": "p",
+     "text": "Trong một trường hợp nổi tiếng năm 2007, người ta tìm thấy một con cá nuốt đen đã chết, chỉ dài 19 cm, ở quần đảo Cayman. Con cá này đã nuốt một con cá thu rắn (Gempylus serpens) dài tới 86 cm."
+    },
+    {
+     "t": "p",
+     "text": "Đó là một bữa ăn lớn gấp 4,5 lần cơ thể nó."
+    },
+    {
+     "t": "p",
+     "text": "Viện Hải dương học Woods Hole mô tả hình ảnh cái dạ dày phình to này giống như \"một chiếc lốp xe dự phòng bán trong suốt treo lủng lẳng dưới bụng chúng\"."
+    },
+    {
+     "t": "p",
+     "text": "Lần quan sát mới này đặc biệt hơn vì con cá đang bơi trong môi trường sống tự nhiên của nó, và dạ dày của nó còn phình to hơn nhiều so với một số đoạn phim quay cá sống khác trước đây."
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng tiếc là ở vùng biển sâu như vậy, không ai có thể biết chính xác con vật này đã ăn gì."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu chúng tôi có máy chụp cắt lớp (CT scanner) ngay trên tàu thì hay biết mấy,\" Amon nói. \"Bí ẩn về việc con cá nhỏ này đã ăn gì có thể sẽ chẳng bao giờ được giải đáp.\""
+    },
+    {
+     "t": "p",
+     "text": "Loài cá khó bắt gặp này cùng cách \"ăn no bụng\" đặc biệt của nó vẫn còn là điều ít được hiểu rõ."
+    },
+    {
+     "t": "p",
+     "text": "Một số nhà khoa học suy đoán rằng con vật này ăn con mồi từ phần đuôi trước, từ từ \"đẩy\" bữa ăn vào bụng mình bằng hàm răng đặc biệt, cong và hướng ngược ra sau."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng đáng tiếc, đó chỉ là suy đoán dựa trên hình dáng bên ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Ai mà biết liệu chúng ta có bao giờ được tận mắt chứng kiến con cá này đi săn hay không."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được kiểm chứng thông tin bởi Rachel Garner và biên tập bởi Peter Dockrill. Mặc dù chúng tôi luôn tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "fd7e6a2df172",
+   "order": 10,
+   "slug": "vuon-thu-trung-quoc-noi-tieng-vi-dong-vat-beo-phi-khong-the",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Vườn thú Trung Quốc nổi tiếng vì động vật béo phì, không thể giảm cân",
+   "sapo": "Một vườn thú ở Trung Quốc thu hút sự chú ý trên mạng xã hội khi nhiều con vật có thân hình béo phì. Nhân viên từng thử giúp chúng giảm cân nhưng không thành công.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/vuon-thu-trung-quoc-noi-tieng-vi-dong-vat-beo-phi-khong-the-giam-can-post1688972.html",
+   "published": "2026-10-12T01:30:41+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 992,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/fd7e6a2df172-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-12/fd7e6a2df172-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-12/fd7e6a2df172-1.jpg",
+     "caption": "Trung Quốc,  béo phì ảnh 1",
+     "w": 1280,
+     "h": 1852
+    },
+    {
+     "src": "img/2026-10-12/fd7e6a2df172-2.jpg",
+     "caption": "Trung Quốc,  béo phì ảnh 2",
+     "w": 1280,
+     "h": 1596
+    },
+    {
+     "src": "img/2026-10-12/fd7e6a2df172-3.jpg",
+     "caption": "Trung Quốc,  béo phì ảnh 3",
+     "w": 1280,
+     "h": 1154
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một vườn thú ở Trung Quốc thu hút sự chú ý trên mạng xã hội khi nhiều con vật có thân hình béo phì. Nhân viên từng thử giúp chúng giảm cân nhưng không thành công."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Báo hoa mai gây sốt mạng xã hội với thân hình mập mạp, dáng vẻ uể oải."
+    },
+    {
+     "t": "p",
+     "text": "Đầu tháng 10, hình ảnh những con vật có thân hình tròn trịa tại vườn thú ở thành phố Phàn Chi Hoa , tỉnh Tứ Xuyên, Trung Quốc, bất ngờ lan truyền trên mạng xã hội. Cư dân mạng đùa rằng nơi đây nuôi động vật \"như nuôi lợn\", \"gần như không tìm thấy con vật nào gầy\" trong cả khuôn viên, theo The Paper ."
+    },
+    {
+     "t": "p",
+     "text": "Nổi bật trong các hình ảnh là một con báo hoa mai gần 20 tuổi, có thân hình mập mạp và dáng vẻ uể oải. Con vật được cư dân mạng đặt biệt danh \"cảnh sát báo\" vì ngoại hình gợi liên tưởng đến nhân vật Clawhauser trong phim hoạt hình Zootopia ( Phi vụ động trời )."
+    },
+    {
+     "t": "p",
+     "text": "Một con gấu đen trong vườn thú cũng thu hút sự chú ý vì thân hình tròn trịa, phần cổ gần như bị che khuất. Con vật có vệt lông trắng hình chữ V trên ngực, giống biểu tượng của thương hiệu thể thao Nike, nên được gọi đùa là \"gấu Nike\". Nó thường nằm ngửa khi nghỉ ngơi, tạo nên những hình ảnh khiến người xem bật cười."
+    },
+    {
+     "t": "p",
+     "text": "Các con vật khác cũng trở thành chủ đề bàn luận gồm: chim công \"béo như gà tây\", cá Koi được ví như những chiếc \"tàu ngầm\", trong khi một số người cho rằng hình dáng của kền kền cũng thay đổi. Nhiều cư dân mạng ví khu nuôi động vật như phiên bản đời thực của Zootopia ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Gấu đen và chim công béo đến mức không thể giảm cân."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 4/10, trả lời Jiupai News , nhân viên vườn thú xác nhận một số con vật có thể trạng khá béo, trong đó có con báo hoa mai nổi tiếng trên mạng xã hội. Cơ sở từng thử nhiều cách giúp động vật kiểm soát cân nặng nhưng chưa đạt kết quả như mong muốn."
+    },
+    {
+     "t": "p",
+     "text": "Theo đại diện vườn thú, các con vật được người chăm sóc và bác sĩ thú y kiểm tra sức khỏe định kỳ. Kết quả kiểm tra cho thấy các chỉ số sức khỏe vẫn bình thường, chúng duy trì hoạt động tốt và chưa có biểu hiện rõ rệt về vấn đề sức khỏe do tăng cân."
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện thu hút nhiều bình luận hài hước. Một số người đùa rằng toàn bộ tiền bán vé vào cửa đều được dùng để cho động vật ăn, còn trong khuôn viên rộng lớn, người gầy nhất lại là nhân viên chăm sóc."
+    },
+    {
+     "t": "p",
+     "text": "Tình trạng động vật có thân hình quá khổ từng được ghi nhận tại nhiều vườn thú khác ở Trung Quốc. Một người dùng mạng từng đăng bài nhận xét các con vật tại khu động vật hoang dã Thần Điêu Sơn, thuộc khu vực Tây Hà Khẩu, thành phố Uy Hải, tỉnh Sơn Đông, đều có thân hình mập mạp. Hình ảnh cá sấu, linh cẩu, hổ, gấu mèo và sư tử tròn trịa thu hút nhiều bình luận."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2023, một con cáo tại vườn thú hoang dã Vân Nam gây chú ý trên mạng vì béo đến mức bị ví như bình gas. Năm 2020, hai con gấu trúc lớn tại vườn thú động thực vật hoang dã Hải Nam cũng được nhận xét có thân hình mũm mĩm, khiến vườn thú triển khai kế hoạch giảm cân."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cá Koi được ví như \"tàu ngầm\"."
+    },
+    {
+     "t": "p",
+     "text": "Các chuyên gia khuyến cáo vườn thú có thể kiểm soát khẩu phần và xây dựng chế độ ăn phù hợp với từng loài. Cơ sở nuôi nhốt cũng cần mở rộng không gian sống, tăng thời gian vận động và thiết kế các hoạt động hoặc trò chơi để khuyến khích động vật di chuyển nhiều hơn."
+    },
+    {
+     "t": "p",
+     "text": "Các con vật cần được khám sức khỏe định kỳ. Khi phát hiện cân nặng vượt ngưỡng phù hợp, người chăm sóc cần có biện pháp điều chỉnh tương ứng."
+    },
+    {
+     "t": "p",
+     "text": "Chuyên gia cũng đề nghị tăng cường tuyên truyền để khách tham quan hiểu rằng cho động vật ăn tùy tiện có thể khiến chúng tăng cân và ảnh hưởng đến sức khỏe. Du khách không nên tự ý cho ăn, qua đó góp phần bảo vệ các con vật."
+    },
+    {
+     "t": "p",
+     "text": "Công viên Phàn Chi Hoa nằm dưới chân núi Cảnh Thạch, thuộc khu Bỉnh Thảo Cương. Sau hơn 20 năm xây dựng, nơi đây có các khu tham quan như đài tưởng niệm anh hùng, vườn cây thiết mộc lan và vườn thú."
+    },
+    {
+     "t": "p",
+     "text": "Công viên được phát triển theo mô hình không gian miền núi mở, kết hợp nghỉ ngơi và giải trí, và được xếp hạng điểm du lịch quốc gia cấp 3A vào năm 2014. Các khu nuôi động vật thu vé riêng, khoảng 2 nhân dân tệ mỗi khu."
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    }
+   ]
+  },
+  {
+   "id": "a111d499bd79",
+   "order": 11,
+   "slug": "ngay-nao-cung-tim-me-trong-mua-gio-o-mieu-hoang-nu-sinh-dau",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Ngày nào cũng tìm mẹ trong mưa gió, ở miếu hoang, nữ sinh đậu đại học cả xóm Trà Bồng che chở",
+   "sapo": "Nhận giấy báo trúng tuyển đại học, Hà Thị Thu Hiền vội cất đi. Cô định tạm nghỉ học, đi làm vài năm, kiếm tiền rồi khi có điều kiện sẽ học lại. 'Đi học ai mà chẳng muốn. Nhưng tôi sinh ra có nỗi khổ thì phải chậm lại' - Hiền nói.",
+   "author": "TRẦN MAI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ngay-nao-cung-tim-me-trong-mua-gio-o-mieu-hoang-nu-sinh-dau-dai-hoc-ca-xom-tra-bong-che-cho-100261011225854942.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 1370,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-12/a111d499bd79-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-0.jpg",
+     "caption": "Hiền nghẹn ngào khi nhắc về những ngày tháng đã qua - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-1.jpg",
+     "caption": "Mẹ bệnh tâm thần nên mỗi ngày Hiền phải đi tìm - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-2.jpg",
+     "caption": "Điều khiến Hiền cảm thấy an ủi là sợi dây mẫu tử giúp mẹ nhận ra con và chịu đi về nhà - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-3.jpg",
+     "caption": "Giọt nước mắt của Hiền là sự uất nghẹn vì phải gồng lên quá lâu - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-4.jpg",
+     "caption": "Hiền mong sau này ra trường sẽ có một căn nhà và có cuộc sống ổn định để lo cho mẹ - Ảnh: TRẦN MAI",
+     "w": 628,
+     "h": 442
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-5.jpg",
+     "caption": "Quá nhiều người cần Hiền chăm sóc, cô gái lặng lẽ nỗ lực mỗi ngày - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 843
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-6.jpg",
+     "caption": "Cuộc sống quá khốn khổ, Hiền không than vãn mà nỗ lực mỗi ngày với một nghị lực lớn - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 909
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-7.jpg",
+     "caption": "Ngày nào Hiền cũng giặt ít nhất hai thau đồ lớn - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 896
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-8.jpg",
+     "caption": "Dù vất vả, Hiền vẫn cố gắng chăm đàn gà, đây là tài sản lớn với Hiền - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 901
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-9.jpg",
+     "caption": "Khổ từ bé nên Hiền thấy chẳng có gì đáng sợ trong đời mình, cô bảo rồi sẽ qua - Ảnh: TRẦN MAI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-12/a111d499bd79-10.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hà Thị Thu Hiền - tân sinh viên Trường đại học Yersin Đà Lạt - có tuổi thơ nhiều bất hạnh vì không có cha và mẹ mắc bệnh, cô lớn lên phải nỗ lực hơn người."
+    },
+    {
+     "t": "h",
+     "text": "Ngày mưa hay nắng đều đi tìm... vì sợ mất mẹ"
+    },
+    {
+     "t": "p",
+     "text": "Hiền sống cùng mẹ trong căn nhà tứ bề là núi, nằm cuối cùng ở thôn Phú Tài (xã Đông Trà Bồng , Quảng Ngãi ). Đây là nhà của người cậu ruột, bởi từ khi cô sinh ra, hai mẹ con chưa bao giờ có một mái nhà riêng."
+    },
+    {
+     "t": "p",
+     "text": "Mẹ Hiền, bà Hà Thị Sanh, 49 tuổi, mang nỗi u uất tình duyên, sinh con ra bà dần ngây dại và bệnh tâm thần. Bà thường xuyên đi lang thang ngoài đường, vì vậy từ khi còn nhỏ, Hiền đã quen với những buổi chiều đứng trước cửa ngóng mẹ, rồi khi trời tối dần Hiền lại phải đi tìm cho ra mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Có lần trời tối đen, mưa như trút nước, sấm sét ầm ầm, Hiền vẫn lao ra đường tìm mẹ ở một cái miếu hoang trong thôn."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi sợ sấm sét, nhưng phải chạy đi tìm, đưa mẹ về. Mẹ ở ngoài đó, chẳng may bị sét đánh thì tôi sẽ chẳng còn mẹ\", Hiền kể nghe đầy xót xa. Những lần như thế khiến một đứa trẻ từ sợ hãi trở thành quen với nỗi sợ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Không có cha, mẹ bệnh, ông bà ngoại mất"
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 19 năm trước, mẹ Hiền vào TP.HCM làm công nhân may rồi gặp cha cô. Khi Hiền dần hình thành trong bụng mẹ, người cha bảo bà về quê sinh con rồi ông sẽ về. Nhưng Hiền ra đời, cha không về."
+    },
+    {
+     "t": "p",
+     "text": "Năm Hiền 3 tuổi, bà ngoại qua đời. Cô bé chứng kiến mẹ nhiều lần mất kiểm soát giữa đêm, đập phá đồ đạc, xé sách vở, còn mình chỉ biết co ro khóc vì sợ. Những lúc ấy, ông ngoại là người duy nhất vỗ về cô."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nghiệt ngã thay năm Hiền 12 tuổi, ông ngoại cũng mất. \"Lúc còn ông, tôi còn được quyền khóc nhè và được vỗ về. Ông ngoại mất, tôi chẳng khóc nữa, khóc cũng chẳng ai quan tâm\", Hiền nói."
+    },
+    {
+     "t": "p",
+     "text": "Câu nói chứa đựng cam chịu đến đau lòng, cô gái nhỏ ấy đã phải tự học cách lớn lên, bởi những người từng che chở lần lượt không còn. Không ai nói với cô rằng \"từ nay phải làm người lớn\", nhưng cuộc sống buộc cô phải trở thành người lớn khi tuổi đời còn quá nhỏ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Mỗi ngày sống là một cuộc chiến quá sức"
+    },
+    {
+     "t": "p",
+     "text": "Trong căn nhà của người cậu, ngoài mẹ Hiền còn có người mợ mắc bệnh nặng và bốn đứa trẻ. Đứa lớn 10 tuổi, đứa nhỏ nhất mới 4 tháng. Cậu thương mẹ con Hiền lắm nhưng cuộc sống của cậu cũng khó khăn. Mỗi ngày 4h sáng cậu đã đi làm thuê đến khoảng 20h mới trở về. Hiền ở nhà phải quán xuyến tất cả những việc còn lại."
+    },
+    {
+     "t": "p",
+     "text": "Hiền giặt quần áo cho 8 người, nấu cơm cho người lớn, nấu cháo cho trẻ nhỏ. Những người hàng xóm bảo lúc cậu vừa thức dậy lên rẫy thì Hiền cũng lục đục làm việc nhà, một ngày của cô bé vị thành niên dường như dài hơn rất nhiều so với chúng bạn."
+    },
+    {
+     "t": "p",
+     "text": "\"Tội lắm. Ở đây ai cũng thương con bé cả. Nó làm lụng nhiều lắm\", bà Nguyễn Thị Tuyết Nhung, hàng xóm chứng kiến những nỗ lực của Hiền, kể lại."
+    },
+    {
+     "t": "p",
+     "text": "Bà Nhung bảo cả đời Hiền chưa biết đi làm thêm vì núi công việc trong nhà đã đủ khiến cô bé mệt lả."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Vẫn đi học giữa nhọc nhằn, và đi tìm mẹ"
+    },
+    {
+     "t": "p",
+     "text": "Nhà cách trường khoảng 8km, không có xe nên nhiều năm Hiền chỉ có thể đi bộ hoặc đứng bên đường xin \"quá giang\" xe người khác để đến lớp."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm lớp 11, trong một lần \"quá giang\", cô Đinh Thị Thúy Hoa, Hiệu trưởng Trường THCS Trà Bồng, dừng xe chở Hiền. Cuộc trò chuyện ngắn đủ để cô Hoa cảm phục. Người giáo viên nhân từ lấy tiền nhà, vận động bạn bè mua cho Hiền một chiếc xe máy 50cc."
+    },
+    {
+     "t": "p",
+     "text": "Có xe nhưng Hiền vẫn nhiều lần phải đi bộ vì không có tiền đổ xăng. Người làng biết chuyện dặn \"hết xăng thì ra các cô cho tiền\". Bà Đỗ Thị Kiều Oanh, chủ một tiệm cơm trên tỉnh lộ, nhiều lần chủ động gọi Hiền lại cho tiền đổ xăng, nói \"bé nó có ý chí nên chúng tôi muốn giúp cháu\"."
+    },
+    {
+     "t": "p",
+     "text": "Những đồng tiền xăng nhỏ bé ấy còn giúp Hiền tiếp tục… đi tìm mẹ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Có lần mẹ đi nhiều ngày không về, Hiền tìm mãi không thấy, đến lúc bất lực cô bật khóc, rồi những người trong làng thương cô lại cùng tỏa đi tìm."
+    },
+    {
+     "t": "p",
+     "text": "Đến nửa đêm, mọi người nhận được tin bà Sanh đã đi tận xã Bình Sơn, cách nhà khoảng 30km. Công an xã hỗ trợ đưa bà về tận nhà và bàn giao cho gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc sống của Hiền cứ như vậy: mẹ đi, cô tìm. Cô tìm không thấy, người làng tìm cùng. Tìm được mẹ, đưa bà về nhà, rồi sáng hôm sau cô lại tiếp tục đi học, làm việc và đi tìm mẹ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "h",
+     "text": "Đậu đại học như một kỳ tích, xóm nghèo giúp đóng học phí kỳ đầu"
+    },
+    {
+     "t": "p",
+     "text": "Rồi Hiền đậu Trường đại học Yersin Đà Lạt, ngành thiết kế nội thất, một kết quả mà những người hàng xóm xem là kỳ tích, bởi họ từng chỉ mong Hiền có thể học hết lớp 12."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khi tờ giấy báo trúng tuyển nằm trong tay, thực tế \"vùi dập\" niềm vui: tiền học ở đâu, tiền ăn ở thế nào và nếu đi học xa thì ai sẽ chăm mẹ?"
+    },
+    {
+     "t": "p",
+     "text": "Hiền định cất giấy báo đi. \"Đi học ai mà chẳng muốn. Nhưng tôi phải chậm lại, bởi cuộc đời tôi sinh ra đã vậy, phải chấp nhận từ từ\", Hiền nói."
+    },
+    {
+     "t": "p",
+     "text": "Cả làng, cả xã biết chuyện và không thể quay lưng với cô bé đáng thương. UBND xã Đông Trà Bồng đã liên hệ Trung tâm Bảo trợ xã hội tỉnh Quảng Ngãi và bước đầu đơn vị này đồng ý tiếp nhận, chăm sóc bà Sanh cho Hiền có thể yên tâm đi học."
+    },
+    {
+     "t": "p",
+     "text": "Nghe mọi người tính toán để mình có thể đi học, Hiền khóc rất nhiều."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng chuyện cổ tích ở xóm nghèo này chưa hết. Bà Nguyễn Thị Hằng, Chủ tịch Ủy ban MTTQ Việt Nam xã Đông Trà Bồng, cho biết lãnh đạo xã và người dân địa phương đã kêu gọi hỗ trợ tiền học phí kỳ đầu cho Hiền."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "h",
+     "text": "Mong báo Tuổi Trẻ tiếp sức đến trường cho Hiền"
+    },
+    {
+     "t": "p",
+     "text": "Bà Nguyễn Thị Hằng, Chủ tịch Ủy ban MTTQ Việt Nam xã Đông Trà Bồng, cũng gửi lời nhắn nhủ đến báo Tuổi Trẻ : \"Hiền vào đại học đã là chuyện cổ tích. Người dân chúng tôi cố gắng tiếp sức cho con bước đầu nhưng tiềm lực cũng có hạn. Chúng tôi mong báo Tuổi Trẻ và các nhà hảo tâm hãy tiếp sức đến trường giúp cháu, cháu xứng đáng được yêu thương\"."
+    },
+    {
+     "t": "p",
+     "text": "Trước nhà Hiền là núi Đá Lớn, băng qua đó là núi Hòn Ngang, những dãy núi trùng điệp dường như giống chính cuộc đời cô. Vượt qua con dốc này lại đến đỉnh núi khác. Hiền muốn chinh phục thế giới bên ngoài nỗi đau và giới hạn đời mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỉ cần mẹ được chăm sóc, tôi có tiền nộp học phí nhập học. Tôi sẽ cố gắng làm thêm. Làm bao nhiêu việc tôi cũng làm, tôi sẽ không phụ tấm lòng của những ai đã và đang giúp tôi\", Hiền nói."
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng trân trọng nhất trong câu chuyện của Hiền chính là trong một cuộc đời có quá nhiều lý do để dừng lại, cô gái ấy vẫn tìm được một lý do để bước tiếp, một cách dũng cảm và tha thiết."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    }
+   ]
+  }
+ ]
+}

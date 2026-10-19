@@ -1,0 +1,2539 @@
+{
+ "date": "2026-10-19",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-19T09:52:49+07:00",
+ "sections": [
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  }
+ ],
+ "articles": [
+  {
+   "id": "3ce7ffbc61c6",
+   "order": 1,
+   "slug": "ngoai-dan-nghi-hoc-ngoai-tu-mat-nam-sv-can-tho-phu-bep-rang",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Ngoại dặn ‘nghỉ học ngoại từ mặt’, nam SV Cần Thơ phụ bếp ráng trả 11 triệu đồng vay nhập học",
+   "sapo": "Ngôi nhà nhỏ lọt thỏm giữa bốn bề nước ngập quanh năm, tuổi thơ Phong gắn với những ngày thiếu hụt. Dẫu vậy, bà ngoại hay gằn giọng: “Nghỉ học là bà ngoại từ mặt!”, nên Phong vừa làm lụng vừa đi học.",
+   "author": "LAN NGỌC",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ngoai-dan-nghi-hoc-ngoai-tu-mat-nam-sv-can-tho-phu-bep-rang-tra-11-trieu-dong-vay-nhap-hoc-100261019044032605.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1018,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-0.jpg",
+     "caption": "Tuổi thơ được mẹ và bà ngoại cõng trên lưng, nay Phong trở thành tân sinh viên nuôi ước mơ đổi đời bằng con chữ - Ảnh: LAN NGỌC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-1.jpg",
+     "caption": "Phong tháo vát phụ việc nhà cho mẹ và bà - Ảnh: LAN NGỌC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-2.jpg",
+     "caption": "Khoảng hơn một năm qua, ngoại Phong sức khỏe yếu nên đi đứng khó khăn. Những lúc ở nhà, Phong và em trai thường tự tay chăm sóc cho bà và mong bà khỏe mạnh nhìn cháu thành công - Ảnh: LAN NGỌC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-3.jpg",
+     "caption": "Ngày lên trung tâm thành phố Cần Thơ nhập học, Phong mang theo ý chí quyết tâm lấy tấm bằng cao đẳng, thoát khỏi cảnh lội nước bì bõm quanh năm - Ảnh: LAN NGỌC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-4.jpg",
+     "caption": "Mẹ Phong tần tảo vất vả nhiều năm để lo cho con cái ăn học - Ảnh: LAN NGỌC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-10-19/3ce7ffbc61c6-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Vũ Phong (quê phường Ngã Năm, TP Cần Thơ , khu vực tỉnh Sóc Trăng trước đây) sinh ra không biết mặt cha, sống nhờ tình thương của mẹ và ngoại, nay là tân sinh viên ngành công nghệ kỹ thuật điện - điện tử của Trường cao đẳng Công Thương Việt Nam."
+    },
+    {
+     "t": "h",
+     "text": "2,7 triệu tiền ‘có công’ của bà ngoại là chiếc phao cho 4 người"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Căn nhà tình nghĩa của bà Võ Thị Hoa (79 tuổi, bà ngoại Phong) được địa phương xây dựng hơn hai năm trước thay cho căn nhà ọp ẹp suốt nhiều năm. Gia đình bà thuộc diện gia đình chính sách có công với cách mạng vì ông ngoại Phong là liệt sĩ. Phong lớn lên giữa những nhọc nhằn địa lý khi tứ phía toàn là nước."
+    },
+    {
+     "t": "p",
+     "text": "\"Ngày Phong còn nhỏ, tôi với mẹ nó thay nhau cõng nó từ nhà ra tới đường lộ mới đi học được. Nhà nằm giữa vùng trũng nước ngập, có bữa nước dâng hơn đầu gối người lớn."
+    },
+    {
+     "t": "p",
+     "text": "Đoạn đường dài chừng hơn 30m mà mỗi lần đưa cháu đi phải lội từng bước, vừa cõng cháu vừa giữ cho sách vở khỏi ướt. Đến được mặt lộ rồi mới thả cháu xuống đi bộ\", bà ngoại Phong kể."
+    },
+    {
+     "t": "p",
+     "text": "Bà Nguyễn Thị Cà (47 tuổi, mẹ ruột Phong) tâm sự Phong chưa bao giờ biết mặt cha. Từ nhỏ, Phong chỉ sống với mẹ và bà ngoại."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "\"Lúc tôi mang thai Phong chưa lâu thì cha nó bỏ đi. Từ đó biệt tăm. Tôi cắn răng chịu đựng, mang bụng bầu đi rửa chén, giặt đồ, quét nhà thuê cho người ta. Nó coi như không có cha. Cha vô danh, tôi buộc phải làm giấy khai sinh cho Phong theo họ mẹ để con có giấy tờ đi học\", mẹ Phong nghẹn ngào."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó mẹ Phong đi bước nữa, mong tìm được một chỗ dựa cho cuộc đời. Nhưng rồi một lần nữa tình duyên không thành."
+    },
+    {
+     "t": "p",
+     "text": "Mẹ Phong làm thuê bữa có bữa không, với 150.000 đồng/ngày làm thuê không đủ đâu vào đâu nuôi bốn miệng ăn. Những năm qua, bà ngoại Phong nhận trợ cấp hằng tháng 2,7 triệu đồng từ chính quyền địa phương."
+    },
+    {
+     "t": "p",
+     "text": "\"Cả nhà phải bám víu vào số tiền đó để mua gạo. Hết tiền, mẹ tôi lại chạy đi mượn hàng xóm rồi đến ngày nhận 2,7 triệu đồng thì trả lại. Cứ mượn rồi trả, trả rồi lại mượn, cái vòng quay ấy đã nuôi lớn hai anh em tôi\", Phong trầm giọng kể."
+    },
+    {
+     "t": "h",
+     "text": "Nam sinh 12 năm học sách mượn, lớp 9 đi phụ bếp kiếm tiền"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cái nghèo cứ bám riết lấy gia đình. Có lần Phong định nghỉ học, đi làm kiếm tiền đỡ đần mẹ. Bà ngoại gằn giọng dọa từ mặt cháu. \"Tôi đòi từ mặt nó không phải vì nó ngỗ nghịch. Nghèo khó mấy tôi cũng ráng lo cho nó học. Tôi chỉ muốn nó có cái nghề như người ta\", bà Hoa nói với giọng chắc nịch."
+    },
+    {
+     "t": "p",
+     "text": "Còn mẹ Phong quanh năm lam lũ nhưng vẫn không khá nổi. Thấy hoàn cảnh của cậu trò nghèo, cô Hè (hàng xóm của Phong) tìm cách giúp. Mỗi năm học, cô mượn một bộ sách giáo khoa cũ cho Phong dùng. Hết năm, Phong trả lại, cô lại tìm một bộ khác cho năm học mới. Những bộ sách cũ lần lượt qua tay nhưng cũng nhờ vậy mà Phong học hết 12 năm phổ thông với thành tích học tập khá giỏi."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi bắt đầu đi phụ quán, phụ bếp từ hè lớp 9. Mỗi ngày làm được khoảng 150.000 đồng, tôi dành dụm để lo chuyện học hành, phần còn lại phụ mẹ mua gạo. Có bao nhiêu làm bấy nhiêu, miễn sao vừa học được vừa đỡ đần mẹ\", Phong nói."
+    },
+    {
+     "t": "p",
+     "text": "Đến ngày chọn nguyện vọng đại học, Phong đắn đo mãi rồi quyết định học cao đẳng để giảm bớt gánh nặng học phí. Phong dự định sau này đi làm, có thu nhập ổn định sẽ tiếp tục học liên thông đại học. Với Phong, con đường đến giảng đường có thể đi chậm hơn nhưng nhất định không dừng lại."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhà nghèo, tôi không dám mơ ngay đến cánh cửa đại học. Nhưng tôi vẫn chọn học liên thông. Chỉ cần còn được đi học thì khó mấy tôi cũng không nản chí\", ánh mắt Phong ánh lên nét kiên định."
+    },
+    {
+     "t": "h",
+     "text": "Tiếp tục phụ bếp để trả 11 triệu đồng vay đóng học phí"
+    },
+    {
+     "t": "p",
+     "text": "Hiện Phong vừa học cao đẳng vừa xin đi phụ bếp trong một nhà hàng ở trung tâm thành phố Cần Thơ. Mỗi ngày làm thêm được trả khoảng 150.000 đồng. Phong đang chắt chiu từng đồng để trả khoản nợ hơn 11 triệu đồng mẹ vay mượn cho cậu đóng học phí học kỳ đầu tiên."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "h",
+     "text": "Dù thiếu tình cha, học trò tôi rất mạnh mẽ"
+    },
+    {
+     "t": "p",
+     "text": "Cô Lý Ngọc Diện - giáo viên Trường THPT Mai Thanh Thế (phường Ngã Năm, Cần Thơ) và là giáo viên chủ nhiệm lớp 12 của Phong - cho biết Phong là học sinh ngoan và học tốt. Tuy gia cảnh khó khăn, không có tình yêu thương của cha nhưng có ý chí nghị lực vượt khó mạnh mẽ."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi tin rằng sự giúp sức của chương trình học bổng Tiếp sức đến trường có thể hỗ trợ cho cậu học trò nghèo của tôi tốt hơn\"."
+    },
+    {
+     "t": "h",
+     "text": "1.200 suất học bổng Tiếp sức đến trường"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2026, chương trình Tiếp sức đến trường dự kiến trao 1.200 suất học bổng với tổng kinh phí hơn 20 tỉ đồng (chưa bao gồm chi phí tổ chức, quà lưu niệm, dụng cụ học tập cho tân sinh viên…) từ sự đóng góp của nhiều doanh nghiệp, nhà hảo tâm, bạn đọc báo Tuổi Trẻ. Mỗi suất học bổng là 15 triệu đồng dành cho tân sinh viên khó khăn; và 25 suất học bổng đặc biệt dành cho tân sinh viên xuất sắc (mỗi suất 50 triệu đồng/4 năm)."
+    },
+    {
+     "t": "img",
+     "i": 6
+    }
+   ]
+  },
+  {
+   "id": "ac209f38f501",
+   "order": 2,
+   "slug": "du-hoc-sinh-viet-tot-nghiep-xuat-sac-o-bac-kinh-ve-que-lam-o",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Du học sinh Việt tốt nghiệp xuất sắc ở Bắc Kinh, về quê làm ở khu công nghiệp",
+   "sapo": "Từng giành học bổng toàn phần sang Trung Quốc, sau đó tốt nghiệp loại xuất sắc với GPA 4.0, Được lại quyết định trở về Việt Nam, làm trong khu công nghiệp gần nhà.",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/du-hoc-sinh-viet-tot-nghiep-xuat-sac-o-bac-kinh-ve-que-lam-o-khu-cong-nghiep-2566135.html",
+   "published": "2026-10-19T02:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 994,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/ac209f38f501-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-19/ac209f38f501-0.jpg",
+     "caption": "Ngô Bá Được theo học ngành Giáo dục Hán ngữ Quốc tế tại Trường Đại học Ngôn ngữ Bắc Kinh. Ảnh: NVCC",
+     "w": 1280,
+     "h": 889
+    },
+    {
+     "src": "img/2026-10-19/ac209f38f501-1.jpg",
+     "caption": "Được tốt nghiệp với GPA 4.0, nằm trong top 5 toàn khóa. Ảnh: NVCC",
+     "w": 835,
+     "h": 621
+    },
+    {
+     "src": "img/2026-10-19/ac209f38f501-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ sinh viên chật vật với tiếng Trung đến tốt nghiệp xuất sắc ở Bắc Kinh"
+    },
+    {
+     "t": "p",
+     "text": "Ngô Bá Được, sinh năm 2001, quê Quảng Ninh, từng theo học ngành Ngôn ngữ Trung tại Trường Đại học Hạ Long. Thời điểm mới học ngoại ngữ này, Được không có nhiều lợi thế so với các bạn cùng lớp."
+    },
+    {
+     "t": "p",
+     "text": "“Có những bạn tiếp xúc với tiếng Trung từ rất sớm, thậm chí có chứng chỉ HSK 5. Trong khi đó, em mới chỉ biết đến ngôn ngữ này qua những bộ phim như Tây du ký, Thủy hử”, Được nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau một thời gian, Được nhận thấy kết quả học tập của mình chưa tốt. Đúng lúc dịch Covid-19 bùng phát, việc học trực tuyến càng khiến nam sinh khó theo kịp chương trình."
+    },
+    {
+     "t": "p",
+     "text": "Một lần, Được nghe cô giáo chủ nhiệm giới thiệu về học bổng du học Trung Quốc. Nghĩ rằng muốn giỏi tiếng Trung thì cần được học tập trong môi trường sử dụng ngôn ngữ này hàng ngày, Được bắt đầu tìm hiểu quy trình ứng tuyển."
+    },
+    {
+     "t": "p",
+     "text": "Với sự giúp đỡ của cô giáo, Được nhanh chóng thi chứng chỉ HSK đầu tiên, đủ điều kiện ứng tuyển học bổng toàn phần ngành Giáo dục Hán ngữ Quốc tế tại Trường Đại học Ngôn ngữ Bắc Kinh."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, để thuyết phục gia đình đồng ý cho đi du học cũng không dễ dàng. Bố mẹ Được lo lắng vì chưa hình dung rõ con đường học tập ở nước ngoài và những khó khăn con trai sẽ đối mặt. Sau một thời gian dài thuyết phục, bố mẹ mới chấp nhận cho Được du học."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dù đã có chứng chỉ HSK4, nhưng khi đặt chân tới Bắc Kinh, nam sinh gần như không hiểu những gì người xung quanh nói. Điều ấy khiến Được nhận ra kiến thức trong giáo trình và việc giao tiếp thực tế vẫn là một khoảng cách."
+    },
+    {
+     "t": "p",
+     "text": "“Muốn giao tiếp tốt, người học không thể chỉ ghi nhớ từ vựng, ngữ pháp mà cần thường xuyên tiếp xúc, thực hành và hiểu cách sử dụng ngôn ngữ trong từng hoàn cảnh”, Được nói."
+    },
+    {
+     "t": "p",
+     "text": "Trong những năm tháng học tại Bắc Kinh, Được duy trì sự nghiêm túc và tính kỷ luật, dành khoảng 12-14 giờ mỗi ngày cho việc học."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ vậy, nam sinh tốt nghiệp với GPA 4.0, nằm trong top 5 toàn khóa. Kết quả này với Được, là sự ghi nhận cho những nỗ lực trong suốt quá trình học tập."
+    },
+    {
+     "t": "p",
+     "text": "“Với thành tích này, em đã có rất nhiều kỳ vọng về công việc sau khi ra trường”, Được nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Quyết định làm nhân viên thu mua trong khu công nghiệp"
+    },
+    {
+     "t": "p",
+     "text": "Khi còn ngồi trên giảng đường, Được từng hình dung mình sẽ trở thành giáo viên tiếng Trung, phiên dịch hoặc làm công việc liên quan trực tiếp đến chuyên ngành đã học.“Nhưng cuộc sống không phải lúc nào cũng đi theo kế hoạch”, Được nói."
+    },
+    {
+     "t": "p",
+     "text": "Trở về Việt Nam, Được từng làm phiên dịch, thử sức với lĩnh vực kinh doanh trước khi trở thành nhân viên thu mua tại một doanh nghiệp Trung Quốc ở khu công nghiệp gần nhà."
+    },
+    {
+     "t": "p",
+     "text": "Công việc khác với những gì từng hình dung khiến Được nhiều lần tự hỏi liệu mình có đang đi lệch mục tiêu ban đầu."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, trải nghiệm thực tế dần khiến Được thay đổi cách nhìn. “Em nhận ra một công việc phù hợp không nhất thiết phải gắn với thành phố lớn hay chức danh nổi bật. Điều quan trọng là môi trường đó có giúp mình phát huy năng lực, học hỏi thêm kiến thức và tích lũy kinh nghiệm hay không”, Được nói."
+    },
+    {
+     "t": "p",
+     "text": "Khi cân nhắc công việc gần nhà, Được quan tâm đến cơ hội sử dụng tiếng Trung, khả năng phát triển chuyên môn, môi trường làm việc và sự phù hợp với cuộc sống cá nhân. Khu công nghiệp nơi Được làm việc có nhiều doanh nghiệp Trung Quốc đầu tư, tạo điều kiện để Được vận dụng ngoại ngữ và tìm hiểu thêm về sản xuất, thu mua, vận hành doanh nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "“Giờ đây, em không còn nghĩ những năm tháng học tập tại Trung Quốc của mình bị lãng phí”, Được nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bước vào môi trường doanh nghiệp, Được phải học lại nhiều thứ từ đầu. “Nếu bài tập trên giảng đường thường có yêu cầu rõ ràng và tiêu chí đánh giá cụ thể, công việc thực tế lại đặt ra những vấn đề không có sẵn một đáp án duy nhất”, Được nói."
+    },
+    {
+     "t": "p",
+     "text": "Với công việc thu mua, biết tiếng Trung là một lợi thế, nhưng chưa đủ. Được còn phải làm quen với quy trình nội bộ, thông tin sản phẩm, yêu cầu của nhà cung cấp, giá cả, thời gian giao hàng và cách phối hợp giữa các phòng ban."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh nhìn nhận tấm bằng xuất sắc vẫn có giá trị, nhưng không phải sự bảo đảm rằng một người có đủ năng lực để xử lý mọi vấn đề thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Trong tương lai, Được muốn tiếp tục tích lũy kinh nghiệm ở lĩnh vực thu mua, đồng thời phát triển định hướng chia sẻ, giảng dạy tiếng Trung phục vụ công việc."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại hành trình của mình, Được cho rằng thay đổi lớn nhất là cách nhìn nhận về thành công. Nếu trước đây, Được thường đánh giá sự tiến bộ qua điểm số và kết quả học tập thì hiện tại, Được quan tâm nhiều hơn đến những kỹ năng tích lũy, khả năng giải quyết vấn đề và giá trị có thể tạo ra trong công việc."
+    },
+    {
+     "t": "p",
+     "text": "“Em từng nghĩ học tốt tiếng Trung và tốt nghiệp xuất sắc sẽ giúp mình có một con đường nghề nghiệp tương đối rõ ràng. Bây giờ, em hiểu rằng đó mới chỉ là điểm khởi đầu”, Được chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    }
+   ]
+  },
+  {
+   "id": "5fd574d69616",
+   "order": 3,
+   "slug": "4-chau-be-bi-bo-roi-duoc-nha-chua-cuu-mang",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "4 cháu bé bị bỏ rơi được nhà chùa cưu mang",
+   "sapo": "Bị bỏ lại trên ghế đá trong sân chùa giữa đêm mưa, 4 cháu bé gồm: 2 trai, 2 gái được các nhà sư chùa Diệu Giác, TP.HCM cưu mang, chăm sóc. Ở nơi xa lạ, các bé dần làm quen với cuộc sống mới, được các bảo mẫu (mẹ nuôi trẻ em) ân cần lo từng bữa ăn, giấc ngủ.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/4-chau-be-bi-bo-roi-duoc-nha-chua-cuu-mang-18526101819243427.htm",
+   "published": "2026-10-19T00:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 667,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/5fd574d69616-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/5fd574d69616-0.jpg",
+     "caption": "Sau khi bị bỏ rơi, 4 cháu bé được các nhà sư đưa về nơi đây để chăm sóc",
+     "w": 1080,
+     "h": 641
+    },
+    {
+     "src": "img/2026-10-19/5fd574d69616-1.jpg",
+     "caption": "Cháu bé thứ 3 được nhà chùa ước tính khoảng 2 tuổi",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/5fd574d69616-2.jpg",
+     "caption": "Gương mặt đượm buồn của cháu bé bị bỏ rơi",
+     "w": 1025,
+     "h": 706
+    },
+    {
+     "src": "img/2026-10-19/5fd574d69616-3.jpg",
+     "caption": "Bảo mẫu đang ân cần đút những muỗng cơm cho cháu bé",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/5fd574d69616-4.jpg",
+     "caption": "Cháu bé đang lắp ráp đồ chơi",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 18.10, chúng tôi có mặt tại chùa Diệu Giác, P.An Khánh, TP.HCM chứng kiến 4 cháu bé gồm 2 trai, 2 gái được các bảo mẫu chăm sóc ân cần từng bữa ăn đến giấc ngủ sau khi bị bỏ lại trên ghế đá trong sân chùa."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong khuôn viên nhà nuôi trẻ mồ côi, 2 bé trai lớn hơn đã biết đi, thỉnh thoảng vui chơi cùng những đứa trẻ khác. Có 1 bé gái vẫn chưa biết đi, được người lớn bế ẵm, chăm sóc. Đến bữa ăn, các bảo mẫu dẫn các bé đến ngồi ăn tập thể cùng các trẻ khác, họ kiên nhẫn đút từng muỗng cơm cho những bé chưa thể tự ăn."
+    },
+    {
+     "t": "h",
+     "text": "Phát hiện 4 cháu bé trong đêm mưa"
+    },
+    {
+     "t": "p",
+     "text": "Ni trưởng Như Trí, Phó Chủ nhiệm thường trực tại chùa Diệu Giác, kể tối thứ 3 (tức ngày 13.10), khoảng 20 giờ 30, một số phật tử vừa tụng kinh xong, chuẩn bị ra về thì phát hiện những đứa trẻ trên ghế đá trong sân chùa, trời lúc ấy bắt đầu lất phất mưa."
+    },
+    {
+     "t": "p",
+     "text": "Theo Ni trưởng Như Trí, sau khi phát hiện các bé bị bỏ lại chùa, phật tử lập tức báo công an đến hỗ trợ. Khi biết chưa có nơi tiếp nhận các bé ngay trong đêm, nhà chùa quyết định tạm thời cưu mang, chăm sóc để các bé có chỗ nghỉ ngơi an toàn."
+    },
+    {
+     "t": "p",
+     "text": "\"Lúc đó, tôi nói với mọi người rằng nếu trong đêm có nơi nào tiếp nhận các bé thì cứ đưa các bé đến. Còn nếu chưa có chỗ nào thì nhà chùa sẽ chăm sóc, cho các bé ngủ qua đêm rồi tính tiếp\", Ni trưởng Như Trí kể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ tối hôm đó, 4 đứa trẻ ở lại chùa, cùng ăn, cùng ngủ trong sự chăm nom của các bảo mẫu tại ngôi chùa. Hiện sức khỏe của các cháu bé ổn định, ăn uống và sinh hoạt bình thường."
+    },
+    {
+     "t": "p",
+     "text": "Ni Trưởng Như Trí cho biết trong 4 bé, bé nhỏ nhất được nhà chùa ước chừng khoảng 1 tuổi. Đêm đầu tiên, bé ngủ khá yên. Về sau, có đêm bé đang ngủ bỗng thức giấc, bật khóc. Lúc đó, các mẹ lập tức dỗ dành, để bé có thể trở lại với giấc ngủ ngon."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Theo thông tin từ nhà chùa, 4 bé lần lượt được đặt tên là: Khánh Đức, Khánh Toàn, Khánh Tâm và Khánh Như (từ lớn đến nhỏ)."
+    },
+    {
+     "t": "h",
+     "text": "Cưu mang những phận đời nhỏ"
+    },
+    {
+     "t": "p",
+     "text": "Theo Ni trưởng Như Trí, 4 cháu bé có độ tuổi không cách nhau quá xa. Nhà chùa đang chăm sóc các bé trong điều kiện sinh hoạt chung với những trẻ khác."
+    },
+    {
+     "t": "p",
+     "text": "Bảo mẫu nuôi trực tiếp chăm sóc cháu bé bị bỏ rơi, là bà Lê Thị Huyên, đã gắn bó với chùa Diệu Giác khoảng 30 năm, công việc hằng ngày của bà Huyên là cho bé ăn, tắm rửa, thay quần áo và dỗ bé ngủ. Hơn nữa, bà Huyên cũng ngủ cùng để tiện chăm nom khi bé cần."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo bà Huyên, từ khi các bé được đưa về chùa, nhà chùa đã phân công người chăm sóc từng bé, bảo đảm việc ăn uống, vệ sinh và nghỉ ngơi. \"Tôi nhận chăm bé nhỏ nhất, trong khi những người khác hỗ trợ chăm sóc các bé còn lại\", bà Huyên nói."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Chị Văn Thái Huyền Trang, làm việc ở bộ phận y tế, Nhà nuôi trẻ mồ côi Diệu Giác, cho biết: \"Tôi theo dõi sức khỏe chung của tất cả các em và hỗ trợ chăm sóc khi trẻ đau ốm. Tôi cũng phụ trách về cho các bé đi học. Sau khi 4 cháu bé được phát hiện bị bỏ rơi vào khoảng 20 giờ 30, nhà chùa đã trình báo cho chính quyền an địa phương. Sau đó, các bé được đưa đi khám sức khỏe tổng quát và thực hiện một số xét nghiệm cần thiết\"."
+    }
+   ]
+  },
+  {
+   "id": "86e65cba35dd",
+   "order": 4,
+   "slug": "da-60-nam-nho-dai-ngan",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Đã 60 năm… nhớ đại ngàn",
+   "sapo": "(Dân trí) - Năm học thứ hai chưa đầy một tháng, chúng tôi phải tạm dừng đi sơ tán. Chỉ có 3 ngày chuẩn bị cho cuộc “trường chinh” lịch sử… Y phục trắng",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/da-60-nam-nho-dai-ngan-20261018221605549.htm",
+   "published": "2026-10-19T01:15:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 2039,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/86e65cba35dd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/86e65cba35dd-0.jpg",
+     "caption": "Dỡ nhà đi sơ tán (Ảnh: HNUE).",
+     "w": 501,
+     "h": 334
+    },
+    {
+     "src": "img/2026-10-19/86e65cba35dd-1.jpg",
+     "caption": "Lãnh đạo, giảng viên và sinh viên khoa Lịch sử ở Đại Từ (Thái Nguyên) năm 1966 (Ảnh: HNUE).",
+     "w": 938,
+     "h": 620
+    },
+    {
+     "src": "img/2026-10-19/86e65cba35dd-2.jpg",
+     "caption": "Trường Đại học Sư phạm Hà Nội ngày nay (Ảnh: Hồng Hạnh).",
+     "w": 1280,
+     "h": 923
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Năm học thứ hai chưa đầy một tháng, chúng tôi phải tạm dừng đi sơ tán. Chỉ có 3 ngày chuẩn bị cho cuộc “trường chinh” lịch sử… Y phục trắng nhuộm màu cỏ úa hay xanh thẫm để tránh máy bay địch."
+    },
+    {
+     "t": "p",
+     "text": "“Đại giảng đường” ở bìa rừng…"
+    },
+    {
+     "t": "p",
+     "text": "Đầu năm 1966, Trường Đại học Sư phạm được lệnh sơ tán về Đại Từ (Thái Nguyên). Hiệu bộ, các phòng ban, lãnh đạo các khoa đều có tiền trạm trước đó một tháng, lập các “đại bản doanh” để đón chúng tôi lên đại ngàn."
+    },
+    {
+     "t": "p",
+     "text": "Lớp tôi được bố trí lên hai ô tô tải do lớp trưởng và lớp phó “chỉ huy”. Xe đi suốt đêm và gần sáng thì tới nơi ở mới. Mệt và buồn ngủ, chúng tôi chỉ kịp mang đồ đạc lên sàn nhà, rồi chào ông bà chủ trước khi ngủ say sưa cho đến tận trưa hôm sau."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhóm tôi chỉ có ba chị em ở một nhà người Tày. Hai bác chủ nhà chừng hơn 60 tuổi, có ba người con đều đã ra ở riêng. Họ đều về đón tiếp chúng tôi vui vẻ, nồng hậu. Tất cả nhìn chúng tôi trìu mến, cảm thông."
+    },
+    {
+     "t": "p",
+     "text": "Sáng hôm sau từ trong bản từng tốp chúng tôi đổ ra bãi đất trống ở chân đồi. Men theo con đường mòn nơi bìa rừng rất ngoằn ngoèo và khó đi khoảng hơn một cây số thì đến “đại giảng đường”. Đó là khu đất bằng phẳng ở bìa rừng rộng chừng 300m2, bên cạnh có con suối cạn, dòng nước nhỏ trong veo, lững lờ chảy."
+    },
+    {
+     "t": "p",
+     "text": "Khung nhà của “giảng đường” đã được các bác trong bản chặt gỗ và tre nứa dựng xong, vấn đề còn lại là phải chặt lá cọ để lợp mái và làm tường bao, tránh mưa gió. Hầm hố trong giảng đường đã được đào, tre nứa còn ngổn ngang để làm bàn, làm ghế và nắp hầm."
+    },
+    {
+     "t": "p",
+     "text": "Một số anh chị lớn tuổi có “tay nghề” trèo lên mái và thoăn thoắt lợp từng lớp lá. Tôi được phân công chân “loong toong”, vui lắm. Các anh, chị sai vặt “Ngọc đưa nắm lạt đây”, “Ngọc đưa tàu lá kia”,... Tôi cứ tíu tít, cuống cả lên, toe toét cười."
+    },
+    {
+     "t": "p",
+     "text": "Đầu tuần sau, giảng đường được “khánh thành”. Bước vào lớp thấy toàn một màu xanh tươi mới của núi rừng: mái nhà, tường bao, bàn, ghế và nắp hầm hào,.. dưới lớp tất cả đều một màu xanh tre nứa lá, trừ mỗi cái bảng viết của thầy là màu đen."
+    },
+    {
+     "t": "p",
+     "text": "Cứ ba người một nhóm được phát một tập giáo trình in Rônêô, nhòe lắm. Tối đến cả nhóm chụm đầu bên ngọn đèn dầu học bài. Mùa đông thường phải quàng thêm cái chăn kín đầu, kín lưng. Gia chủ thương, để bếp lửa suốt đêm cho chúng tôi được ấm."
+    },
+    {
+     "t": "p",
+     "text": "Người sang nhất là có một chiếc áo bông, một cái áo len. Không mấy người có tất chân và khăn quàng cổ. Mấy chị em tôi cậy nhờ mua được hai cái chăn len màu cỏ úa. Chúng tôi tháo ra thành sợi, tự đan áo len vừa ấm vừa rất… thời trang."
+    },
+    {
+     "t": "p",
+     "text": "Cách lớp học chừng 200m có một mạch suối ngầm ngày đêm rỉ rả chảy và một cái hố to ở dưới chân đồi trọc. Dân trong bản hướng dẫn các anh chị lớn đào sâu thêm, mở rộng hố rồi tìm đá xếp xung quanh. Một cái giếng nước xinh đẹp, xanh như viên bích ngọc khổng lồ đường kính chừng 3m được tạo thành, nước lúc nào cũng đầy, trong veo, sạch sẽ và rất lạnh. Một cái nhà tắm nhanh chóng được dựng lên bằng tre nứa, có cửa ra vào kín đáo."
+    },
+    {
+     "t": "p",
+     "text": "Chị em chúng tôi thường mượn nồi của chủ nhà đem ra giếng tìm lá và củi khô đun nước sôi, pha tắm rất thoải mái. Còn các anh con trai, thường rất dũng cảm không “thèm” đun nước bao giờ. Cứ trưa đến là ra giếng tranh thủ nắng ấm múc nước dội ào ào, thế mà không ai bị viêm phế quản."
+    },
+    {
+     "t": "p",
+     "text": "Có vài hôm trời rét quá, sương mù dày đặc lớp phải chuyển sang học buổi trưa. Thỉnh thoảng cả lớp lại phải tạm dừng nghe giảng bởi một hồi kẻng từ đầu bản khua lên giục giã, hối hả báo máy bay địch."
+    },
+    {
+     "t": "p",
+     "text": "Cả lớp nhanh chóng tụt xuống dưới hầm, kéo nắp lên đậy. Tôi cùng một chị nữa chạy ra bờ suối cạn, nép vào một gốc cây, mặt tái mét. Lúc sau tiếng kẻng báo yên khoan thai, dịu dàng, chậm rãi. Chúng tôi lại lục tục chui lên, phủi đất bụi, ngồi vào bàn như chưa có chuyện gì xảy ra."
+    },
+    {
+     "t": "p",
+     "text": "Tôi bị anh lớp trưởng (anh Hiển) mắng xơi xơi “Con bé này, không bảo được, nói bao lần rồi vẫn thế, ra bờ suối tránh sao được mảnh đạn!”, tôi phụng phịu “Nhưng em sợ đỉa lắm!”."
+    },
+    {
+     "t": "p",
+     "text": "Vui nhất khi phu nhân bác Giáp về dạy"
+    },
+    {
+     "t": "p",
+     "text": "Tan lớp, chúng tôi ùa sang bếp ăn ở bên kia suối cạn. Tô cơm của ai người nấy bưng. Trong tô cơm có mấy cọng rau rừng xanh hoặc măng xào. Còn tô canh cũng được nấu bằng măng tươi hoặc sắn."
+    },
+    {
+     "t": "p",
+     "text": "Một tuần được hai hoặc ba bữa là có vài miếng đậu kho hoặc thịt. Mỗi người chọn một gốc cây hoặc vào lớp học ngồi ăn ngon lành. Đôi khi bữa ăn chỉ là một cái bánh bột mì không nhân, được luộc lên (chứ không phải hấp vì không có bột nở). Chắc là bột mì để lâu nên trong bánh nhiều lần có cả những con bọ gạo bé như hạt tấm màu đen đen."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ăn xong lại ào xuống con suối cạn rửa bát, rửa thìa rồi xếp vào chỗ cũ trên giàn bếp để bữa sau chị nuôi lại chia cho từng người. Một hôm, đang rửa bát bỗng tôi nhìn thấy một… thím cua có hai cái càng rất to đang tìm thức ăn dưới dòng nước. Tôi vội đưa tay bắt lấy. Không ngờ, cua còn nhanh hơn, giơ càng cắp ngón tay tôi."
+    },
+    {
+     "t": "p",
+     "text": "Đau quá, tôi kêu toáng lên. Mọi người cười ngặt nghẽo và trêu “Tiểu thư ơi, đã biết thế nào là bắt cua rồi đấy”. Một chị đập thật mạnh vào tay tôi, thím cua buông càng rơi tõm xuống suối."
+    },
+    {
+     "t": "p",
+     "text": "Có vài hôm do nước lũ hoặc chiến sự lương thực không về bếp được chúng tôi phải tự túc. Nhà chủ thường cho ăn cơm mỗi khi bếp tuyên bố “giải tán”. Chúng tôi mượn con dao rừng cầm theo cái bao diêm. Từng tốp rủ nhau vào rừng, lên đồi tìm măng hoặc mót lại khoai, sắn ở các đồi dân vừa thu hoạch."
+    },
+    {
+     "t": "p",
+     "text": "Những cây sắn, dây khoai còn sót lại những củ bé hoặc gãy chúng tôi nhặt lên rồi vơ cành cây, lá rừng nướng tại trận vừa thổi phù phù, vừa ăn ngon lành, vừa trêu chọc nhau."
+    },
+    {
+     "t": "p",
+     "text": "Mặt mũi ai nấy nhem nhuốc, quần áo đầy bụi than nhưng vui lắm. Khi khát nước đã có những cây nứa non chặt ra mấy đốt, nước trong ống rất ngon. Ăn uống thế mà chúng tôi chẳng ai đau bụng cả."
+    },
+    {
+     "t": "p",
+     "text": "Thỉnh thoảng, có mấy thầy trong khoa đến thăm và thông báo tin chiến thắng ngoài mặt trận. Đôi khi các thầy còn cho mấy đứa con gái chúng tôi những lát bánh mì khô mang từ Hà Nội lên làm quà."
+    },
+    {
+     "t": "p",
+     "text": "Vui nhất là một đợt cô Hà (phu nhân của Đại tướng Võ Nguyên Giáp) về dạy. Có tối, cô cho gọi mấy chị em gần nơi cô ở đến nhà, cô bật đài bán dẫn cho nghe và cho mỗi người vài cái kẹo."
+    },
+    {
+     "t": "p",
+     "text": "Thỉnh thoảng lại có ca sĩ nào hát những bài quen thuộc thật vui. Bấy giờ, với chúng tôi đó là đại tiệc. Thầy Tế, thầy Liên, thầy Quýnh, thầy An (Khoa Lịch sử),... thỉnh thoảng ghé thăm chúng tôi và còn chụp ảnh kỷ niệm có cả bác chủ nhà (bức ảnh ấy tôi đã tặng lại cho Khoa)."
+    },
+    {
+     "t": "p",
+     "text": "Một đêm trăng đẹp, một thầy nào đó ở hiệu bộ xuống chơi, đệm đàn Guitar cho chúng tôi hát. Cả lớp tập trung ở một sân đất rộng, mang đèn dầu chứ không được đốt lửa trại đề phòng bị oanh tạc."
+    },
+    {
+     "t": "p",
+     "text": "Cả lớp lại hát những bài quen thuộc, tiếng đàn réo rắt, tiếng vỗ tay hoan hỉ. Bao nhiêu khó khăn gian khổ bay đi hết. Riêng tôi bị “động viên” phải đi mấy bước Chăm Pa và Lăm Vông. Mọi người hát theo và vỗ tay cổ vũ. Chả là, năm trước tôi ở đội tuyển múa của trường và học lỏm được những điệu múa duyên dáng ấy."
+    },
+    {
+     "t": "p",
+     "text": "Mấy phút sau có một em gái con bác chủ nhà tự bao giờ đã đứng xem chúng tôi hát múa. Em nhanh chóng sóng đôi cùng tôi, đi một, hai vòng Lăm Vông. Cả lớp lại cười vang thật là náo nhiệt, vui vẻ."
+    },
+    {
+     "t": "p",
+     "text": "Cao lương mĩ vị nơi đại ngàn"
+    },
+    {
+     "t": "p",
+     "text": "Cứ một tháng thì mới có người mang thư từ hiệu bộ tới. Ai có thư thì mặt mày rạng rỡ, nếu không có thì buồn tủi, ủ dột nhìn đến thương. Có những chiều nhớ nhà, nhớ Hà Nội, tôi chạy ra cổng đứng lặng một mình."
+    },
+    {
+     "t": "p",
+     "text": "Dưới chân đồi, bên kia thung lũng bếp nhà ai lập loè ánh lửa hồng. Trên mái tranh, khói lam chiều vấn vít rồi lả lướt bay nhanh theo chiều gió và trốn mất sau những tán cây rừng. Tiếng suối xa róc rách, cánh rừng ngút ngàn. Tiếng chim gọi bầy xa vắng, khắc khoải."
+    },
+    {
+     "t": "p",
+     "text": "Ngẩng lên bầu trời xanh thăm thẳm, mây trôi lững lờ, mấy cánh chim mải miết bay về đâu tha thiết. Tự lúc nào, nước mắt rơi lã chã ngỡ chiều buông, sương sa sớm làm ướt tà áo mỏng. Bố mẹ và các em tôi sơ tán theo đơn vị bộ đội (cục quân dược). Do bí mật nên tôi không biết rõ ở đâu."
+    },
+    {
+     "t": "p",
+     "text": "Bác chủ nhà thương chúng tôi, cho đủ thứ. Dầu thắp đèn phải phân phối không đủ dùng, bác chủ sẻ cho một ít. Thỉnh thoảng lại dúi cho vài củ khoai sắn để tự nướng ăn nên chúng tôi không bao giờ bị đói."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ nhất là mùa cốm năm ấy, không biết gia đình lấy lúa từ bao giờ, ở đâu và rang giã thế nào. Nhưng chiều hôm ấy đi học về bác chủ nhà bưng cho chúng tôi mỗi người một bát cốm đầy, xanh và thơm ngát lại có cả đậu xanh rắc lên. Đây là lần đầu tiên trong đời (mười bảy tuổi rưỡi), tôi mới nhìn thấy và được ăn cốm. Trời đất ạ! Ngon quá chừng."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Giữa thời chiến tranh loạn lạc mà chúng tôi được thưởng thức một loại cao lương mĩ vị như thế này nơi đại ngàn! Dư vị ngọt ngào cao sang đến kì lạ ấy! Sáu mươi năm rồi vẫn còn nguyên cảm xúc."
+    },
+    {
+     "t": "p",
+     "text": "Thấm thoát chúng tôi đã sống giữa đại ngàn được gần một năm. Ơn trời cả lớp đều khoẻ mạnh, học tốt. Không ai phải thi lại hay lưu ban cả. Chiến trận cũng dần bớt ác liệt hơn. Trường và Khoa có lệnh được sơ tán về dưới xuôi."
+    },
+    {
+     "t": "p",
+     "text": "Tạm biệt gia chủ! Tạm biệt dòng suối cạn, cánh rừng và khu “giảng đường” một thời gắn bó yêu thương, tình nghĩa. Đại ngàn đã bao bọc, nuôi dưỡng, rèn luyện và thử thách chúng tôi trong gần trọn một năm. Khó khăn, gian khổ nhưng đầy kiêu hãnh và vui vẻ. Nhờ vậy mà chúng tôi trưởng thành, khôn lớn."
+    },
+    {
+     "t": "p",
+     "text": "Sáu mươi năm trôi nhanh như tia chớp,"
+    },
+    {
+     "t": "p",
+     "text": "Nhớ con đường mòn, dòng suối cạn, cánh rừng sâu,"
+    },
+    {
+     "t": "p",
+     "text": "Và những con người của muôn năm cũ, bây giờ biết tìm đâu!"
+    },
+    {
+     "t": "p",
+     "text": "Hà Nội, tháng 10 năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Đài Lân"
+    }
+   ]
+  },
+  {
+   "id": "0e3b2e957609",
+   "order": 5,
+   "slug": "hoc-sinh-chuyen-le-hong-phong-tphcm-tro-thanh-quan-quan-truo",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Học sinh chuyên Lê Hồng Phong TPHCM trở thành quán quân “Trường Teen 2026”",
+   "sapo": "(Dân trí) - Trải qua những vòng thi kịch tính cùng màn thể hiện bản lĩnh, thuyết phục, đội thi đến từ Trường THPT chuyên Lê Hồng Phong (TPHCM) xuất sắc trở",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/hoc-sinh-chuyen-le-hong-phong-tphcm-tro-thanh-quan-quan-truong-teen-2026-20261018205006846.htm",
+   "published": "2026-10-18T15:26:37+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 745,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/0e3b2e957609-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/0e3b2e957609-0.jpg",
+     "caption": "Nhóm học sinh Nguyễn Nhật Phương, Nguyễn Quỳnh Hương, Nguyễn Phạm Thủy Tiên, Trường THPT chuyên Lê Hồng Phong TPHCM, trở thành quán quân “Trường Teen 2026” (Ảnh: NVCC).",
+     "w": 1139,
+     "h": 759
+    },
+    {
+     "src": "img/2026-10-19/0e3b2e957609-1.jpg",
+     "caption": "Nguyễn Nhật Phương hùng biện tại chương trình (Ảnh: NVCC).",
+     "w": 710,
+     "h": 461
+    },
+    {
+     "src": "img/2026-10-19/0e3b2e957609-2.jpg",
+     "caption": "Đây là lần thứ hai đại diện Trường THPT chuyên Lê Hồng Phong vào chung kết \"Trường Teen\" (Ảnh: NVCC).",
+     "w": 1209,
+     "h": 806
+    },
+    {
+     "src": "img/2026-10-19/0e3b2e957609-3.jpg",
+     "caption": "Đội học sinh Trường Quốc tế True North (Hà Nội) giành giải á quân (Ảnh: BTC).",
+     "w": 1280,
+     "h": 788
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Trải qua những vòng thi kịch tính cùng màn thể hiện bản lĩnh, thuyết phục, đội thi đến từ Trường THPT chuyên Lê Hồng Phong (TPHCM) xuất sắc trở thành quán quân của “Trường Teen 2026”."
+    },
+    {
+     "t": "p",
+     "text": "Trong chương trình Chung kết phát sóng hôm nay (18/10), khán giả truyền hình đã được chứng kiến màn so tài đầy kịch tính giữa hai đội thi xuất sắc nhất mùa giải: THPT chuyên Lê Hồng Phong (TPHCM) và Trường Quốc tế True North (Hà Nội)."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần thứ hai đại diện Trường THPT chuyên Lê Hồng Phong đưa trường bước vào trận chung kết của sân chơi tranh biện dành cho học sinh phổ thông. Năm ngoái, đội thi của trường cũng đạt á quân."
+    },
+    {
+     "t": "p",
+     "text": "Từ những vòng tranh tài đầu tiên đến chặng đua quyết định, ba nữ sinh cho thấy sự tiến bộ rõ nét, ngày càng tự tin trong cách triển khai luận điểm, phản biện và bảo vệ quan điểm của mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chung cuộc, ba thành viên của đội là Nguyễn Nhật Phương, Nguyễn Quỳnh Hương và Nguyễn Phạm Thủy Tiên đã có màn thể hiện thuyết phục, đưa ngôi trường giàu truyền thống học thuật của TPHCM lên vị trí cao nhất tại sân chơi tranh biện dành cho học sinh."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ sau chiến thắng đầy ấn tượng, Nguyễn Nhật Phương, đại diện đội thi THPT Chuyên Lê Hồng Phong, vui mừng cho biết đây là kết quả mà bản thân cả nhóm đã dành trọn tâm huyết, công sức suốt nhiều tháng liền."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại chặng đường dài từ vòng tuyển chọn với hàng trăm đội thi trên cả nước cho đến những ngày ghi hình tập trung từ tháng 4, Nhật Phương cảm thấy trân trọng từng khoảnh khắc vì chương trình đã mang lại cho các em những trải nghiệm và bài học quý giá."
+    },
+    {
+     "t": "p",
+     "text": "Trực tiếp đối mặt với đề thi chung kết mang tính thời sự cao: \"Tiếng Anh nên trở thành môn thi bắt buộc trong kỳ thi tốt nghiệp THPT\", Nhật Phương cho biết cả đội đã dành nhiều thời gian nghiên cứu sâu rộng về quy định, dư luận xã hội cũng như phân tích đa chiều để đưa ra những góc nhìn thấu đáo nhất."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Qua cuộc thi, các em không chỉ học được cách lắng nghe, tôn trọng ý kiến trái chiều để mở rộng tư duy phản biện, mà còn rèn luyện được tinh thần kiên trì và kỹ năng làm việc nhóm chặt chẽ, hiệu quả."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện đội Quán quân gửi lời tri ân sâu sắc đến Ban giám hiệu và các thầy cô Trường THPT chuyên Lê Hồng Phong đã luôn đồng hành, hỗ trợ và tạo điều kiện thuận lợi nhất cho hoạt động của các câu lạc bộ tranh biện, giúp các em có nền tảng vững chắc để tham gia giải đấu."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, Nhật Phương cùng các bạn cũng gửi lời cảm ơn chân thành đến Ban tổ chức chương trình Trường Teen 2026, các huấn luyện viên tận tâm, cùng gia đình và bạn bè đã luôn tiếp sức, cổ vũ nhiệt thành để cả đội vững tin tỏa sáng trên sân khấu."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh chiếc cúp vô địch thuộc về THPT Chuyên Lê Hồng Phong (TPHCM), ban tổ chức cũng tuyên dương những cá nhân ghi dấu ấn xuất sắc tại mùa giải năm nay."
+    },
+    {
+     "t": "p",
+     "text": "Người nói xuất sắc nhất lượt 1 là Trịnh Quốc Lâm, Trường THPT Lương Ngọc Quyến (Thái Nguyên)."
+    },
+    {
+     "t": "p",
+     "text": "Người nói xuất sắc nhất lượt 2 là Trần Nhật Minh, Trường Quốc tế True North (Hà Nội)."
+    },
+    {
+     "t": "p",
+     "text": "Người nói xuất sắc nhất lượt 3 là Nguyễn Quỳnh Hương, Trường THPT chuyên Lê Hồng Phong (TPHCM)."
+    },
+    {
+     "t": "p",
+     "text": "Người nói được khán giả yêu thích nhất: Võ Trần Khánh Chi, Trường THPT chuyên Phan Bội Châu (Nghệ An)."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "\"Trường Teen\" là sân chơi tranh biện truyền hình uy tín dành cho học sinh THPT trên toàn quốc do Ban Khoa giáo (VTV7), Đài Truyền hình Việt Nam thực hiện."
+    },
+    {
+     "t": "p",
+     "text": "Thông qua các chủ đề gắn liền với học đường và đời sống xã hội, chương trình không chỉ là nơi các bạn trẻ tự tin cất lên tiếng nói, rèn luyện tư duy phản biện và bản lĩnh thể hiện quan điểm, mà còn lan tỏa tinh thần tôn trọng sự đa dạng cùng văn hóa tranh biện văn minh tới giới trẻ Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "02ca5ce89b44",
+   "order": 6,
+   "slug": "chang-trai-o-tphcm-chi-70-trieu-dong-xuyen-viet-bang-xe-may",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Chàng trai ở TPHCM chi 70 triệu đồng xuyên Việt bằng xe máy",
+   "sapo": "(Dân trí) - Một mình trên chiếc xe máy tay ga cũ, anh Long ở TPHCM đã dành 80 ngày đi qua 63 tỉnh thành theo địa giới hành chính cũ. Chuyến đi có bữa cơm ấm",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/chang-trai-o-tphcm-chi-70-trieu-dong-xuyen-viet-bang-xe-may-20261018184402499.htm",
+   "published": "2026-10-18T23:08:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1644,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-0.jpg",
+     "caption": "Anh Long phượt xuyên Việt trên chiếc xe máy tay ga cũ (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-1.jpg",
+     "caption": "Đi cáp treo lên đỉnh Fansipan (Ảnh: Nhân vật cung cấp).",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-2.jpg",
+     "caption": "Trải nghiệm đi thuyền trên sông Nho Quế ở Hà Giang (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-3.jpg",
+     "caption": "Cận cảnh chiếc xe là phương tiện theo anh rong ruổi khắp chuyến đi, chinh phục các con đèo (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-4.jpg",
+     "caption": "Những sự cố trong chuyến đi cũng trở thành kỷ niệm đáng nhớ (ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-5.jpg",
+     "caption": "Anh dành 4 ngày để khám phá Hà Nội (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-19/02ca5ce89b44-6.jpg",
+     "caption": "Thưởng thức bún chả ở Hà Nội - địa phương khiến anh ấn tượng mạnh nhất về ẩm thực (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1280
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Một mình trên chiếc xe máy tay ga cũ, anh Long ở TPHCM đã dành 80 ngày đi qua 63 tỉnh thành theo địa giới hành chính cũ. Chuyến đi có bữa cơm ấm tình người và cả những sự cố bị lạc đường 8 tiếng."
+    },
+    {
+     "t": "h",
+     "text": "Vừa đi phượt, vừa kết hợp công việc"
+    },
+    {
+     "t": "p",
+     "text": "Đầu tháng 11/2025, anh Nguyễn Thành Long hiện sinh sống và làm việc ở TPHCM, dắt chiếc xe máy tay ga cũ ra khỏi nhà, bắt đầu hành trình xuyên Việt một mình."
+    },
+    {
+     "t": "p",
+     "text": "Đây vốn là chuyến đi được anh ấp ủ từ lâu - một mình rong ruổi trên chiếc xe máy qua 63 tỉnh thành theo địa giới hành chính cũ. Tới tháng 1/2026, chàng trai 31 tuổi trở về nhà sau 80 ngày, khép lại chuyến đi dài khoảng 12.000km."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với phóng viên Dân trí , Long cho biết, đây không đơn thuần là chuyến đi chơi. Vốn là người kinh doanh phụ tùng xe, anh tận dụng hành trình để gặp gỡ khách hàng, tìm hiểu thị trường tại các địa phương, đồng thời thỏa mãn sở thích phượt đã hình thành từ năm 2014."
+    },
+    {
+     "t": "p",
+     "text": "Kết hợp hai mục đích giúp chuyến đi của anh có lịch trình linh hoạt hơn. Tại những địa phương có nhiều khách hàng hoặc điểm tham quan, Long thường ở lại khoảng hai ngày. Với những nơi ít việc cần giải quyết, anh có thể chỉ dừng chân một ngày rồi tiếp tục lên đường."
+    },
+    {
+     "t": "p",
+     "text": "Trước chuyến đi, Long không lập kế hoạch quá cầu kỳ. Anh chuẩn bị sẵn một khoản tiền để chủ động chi tiêu, đồng thời xác định trước mỗi ngày sẽ đi đến tỉnh nào, quãng đường dự kiến bao xa và điều kiện thời tiết ra sao. Lộ trình được điều chỉnh theo khả năng di chuyển thực tế, thay vì đặt mục tiêu phải hoàn thành bằng mọi giá."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Để chuẩn bị phương tiện, Long chi khoảng 10 triệu đồng tân trang, bảo dưỡng chiếc xe máy tay ga được người thân đưa cho. Anh mang theo hơn chục bộ quần áo với tâm lý \"mặc tới đâu giặt tới đó\". Túi thuốc cũng chỉ có thuốc cảm. Tất cả được gói gọn trong túi đồ để sẵn ở cốp xe."
+    },
+    {
+     "t": "p",
+     "text": "Tổng ngân sách cho chuyến đi khoảng 70 triệu đồng, trong đó 50 triệu đồng dành cho chi phí ăn uống, lưu trú, vé tham quan, tiền xăng xe và 20 triệu đồng là tiền mua sắm."
+    },
+    {
+     "t": "p",
+     "text": "Riêng tiền xăng khoảng 10 triệu đồng, gồm 2 triệu đồng cho quãng đường ở miền Nam và khoảng 8 triệu đồng khi di chuyển tại miền Trung, miền Bắc. Chi phí bảo dưỡng xe trong hành trình cũng được tính đến."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với nơi lưu trú, Long ưu tiên các phòng có giá trung bình 250.000-300.000 đồng mỗi đêm. Anh thường đặt trước qua ứng dụng đặt phòng để chủ động chỗ nghỉ."
+    },
+    {
+     "t": "p",
+     "text": "Vị khách người TPHCM chọn ở khu vực trung tâm tỉnh, thuận tiện cho việc tìm hiểu địa phương và di chuyển đến các điểm tham quan."
+    },
+    {
+     "t": "p",
+     "text": "Cách ăn uống của chàng trai cũng khá đơn giản. Không lên danh sách nhà hàng từ trước, Long chọn cách ăn uống khá ngẫu hứng. Thấy món nào lạ, anh dừng lại thử. Khi đói bụng, anh tìm một quán ven đường phù hợp. Với anh, những trải nghiệm ẩm thực đôi khi bắt đầu từ những lựa chọn rất tình cờ như thế."
+    },
+    {
+     "t": "p",
+     "text": "Lạc 8 tiếng giữa núi rừng Cao Bằng và kinh nghiệm đổ đèo"
+    },
+    {
+     "t": "p",
+     "text": "Khác với nhiều người đi phượt thuần túy, lộ trình của Long được tính theo bản đồ khách hàng. Những thành phố, tỉnh thành đông dân với nhiều khu công nghiệp như Bắc Ninh, Bắc Giang, Vĩnh Phúc hay Hưng Yên, anh ở lại lâu hơn."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Do di chuyển bằng xe tay ga nên anh chỉ chọn đi theo những trục quốc lộ lớn như 1A, 30, 80, 91... Trong phần lớn hành trình, chiếc xe vẫn đáp ứng được nhu cầu di chuyển."
+    },
+    {
+     "t": "p",
+     "text": "Kỷ niệm khiến chàng trai nhớ nhất là lần lạc đường khi đi từ khu vực Bắc Kạn lên Cao Bằng. Hôm đó, sau khi đổ xăng ở Bạch Thông, anh tiếp tục chạy theo chỉ dẫn của Google Maps hướng về hồ Ba Bể. Đi được một đoạn, anh rẽ vào ngã ba rồi nhận ra bản thân đang đứng trước những hướng đường không như dự tính."
+    },
+    {
+     "t": "p",
+     "text": "Một nhánh dẫn về Bảo Lạc, nhánh còn lại đi xã Phan Thanh (Cao Bằng). Càng đi sâu vào khu vực, anh nhận thấy điện thoại bị mất sóng nên bản đồ không còn hữu dụng."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Sau nhiều lần lòng vòng, anh tìm được những người giao hàng đang chạy trên tuyến đường và nhờ chỉ dẫn. Đường đi mỗi lúc một khó, có những đoạn dốc cao với độ dốc lớn. Chiếc xe tay ga vốn không phù hợp di chuyển ở cung đường này, buộc anh phải đi chậm, tập trung xử lý từng đoạn."
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường xuyên qua rừng trúc ở Cao Bằng dù ngắn hơn khoảng 20km nhưng đường khó đi khiến anh mất nhiều tiếng mới thoát ra. Đến khi tới thị trấn Bảo Lạc (nay thuộc xã Bảo Lạc, Cao Bằng), hành trình kéo dài khoảng 8 tiếng."
+    },
+    {
+     "t": "p",
+     "text": "Sau sự cố, Long càng thận trọng hơn khi lựa chọn lộ trình, nhất là ở những địa phương miền núi. Anh hiểu rằng, cho dù có kinh nghiệm và sức khỏe, nhưng chỉ một lần rẽ nhầm cũng có thể khiến chuyến đi kéo dài ngoài dự kiến."
+    },
+    {
+     "t": "p",
+     "text": "Chuyến đi cũng là dịp để chàng trai đến từ TPHCM được trải nghiệm các con đèo nổi tiếng ở miền Bắc. Riêng đèo Ô Quy Hồ, anh thấy khá chật vật khi chinh phục bằng xe tay ga. Từ đỉnh đèo xuống, các khúc cua tay áo rất nhiều nên đòi hỏi người lái phải cứng tay, nếu không dễ ôm sang làn bên trái gây nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp đến, đèo Khâu Cốc Chà cũng là thử thách không kém vì độ dốc rất lớn. Kinh nghiệm của Long khi đổ đèo này cần chạy tốc độ chậm, ghì máy, không để gia tốc quá lớn rất dễ mất lái vì buộc phải đi theo hình zíc zắc."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi đổ đèo, cần chú ý giảm tốc độ. Tôi chỉ chạy 20-30km/h ở đèo có độ dốc lớn và 30-40km/h với đèo có độ dốc vừa. Chú ý không được bóp phanh liên tục, chỉ phanh khi chuẩn bị vào cua tay áo, nếu không rất dễ cháy phanh\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Những bữa cơm ấm áp và sự tử tế dọc đường"
+    },
+    {
+     "t": "p",
+     "text": "Nếu lần lạc đường ở Cao Bằng khiến Long nhớ về sự vất vả của chuyến đi, thì những cuộc gặp gỡ tại các địa phương lại để lại trong anh cảm giác ấm áp."
+    },
+    {
+     "t": "p",
+     "text": "Thanh Hóa là một trong những nơi khiến chàng trai TPHCM có ấn tượng đặc biệt. Trong thời gian lưu trú, chủ khách sạn không chỉ đón tiếp anh như một vị khách thông thường mà còn mời anh dùng bữa cơm, tận tình hướng dẫn những địa điểm nên ghé thăm."
+    },
+    {
+     "t": "p",
+     "text": "Biết Long muốn tìm hiểu đặc sản địa phương, người chủ còn chỉ dẫn anh đến tận nơi mua nem chua. Với một người đi một mình và không có người quen dẫn đường, sự nhiệt tình ấy giúp anh khám phá vùng đất mới trở nên gần gũi hơn."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Một kỷ niệm khác ở Điện Biên cũng khiến anh nhớ mãi. Chủ homestay khi biết anh là khách từ phương xa tới, ra đón tận cổng rồi tự tay xách túi đồ lên tận phòng. Chị ân cần hỏi han và hướng dẫn khách thân tình như người quen. Nhờ đó, anh có dịp trải nghiệm lễ hội hoa anh đào ở Mường Phăng."
+    },
+    {
+     "t": "p",
+     "text": "Trên những cung đường vùng cao, anh bắt gặp cuộc sống bình dị của đồng bào, người đi cắt cỏ, người lên rừng hái lượm. Đó là những hình ảnh mà một người con miền Nam như anh chưa từng thấy."
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là dịp để anh có cơ hội nghe người địa phương giới thiệu về văn hóa vùng miền, thử những món chưa từng nếm như cháo ấu tẩu ở Hà Giang, quả trám đen tại Cao Bằng."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Giữa tháng 12, anh tới Hà Nội và chọn một homestay ở gần Lăng Bác. Vị khách ở lại 4 ngày để thăm thú các khu vực trung tâm. Anh cũng may mắn được hưởng trọn cái lạnh miền Bắc - điều bản thân mong mỏi từ lâu. Đi khắp 3 miền, điều vị khách mê nhất vẫn là ẩm thực Hà Nội vì \"món gì cũng có và cách chế biến đều hợp khẩu vị\"."
+    },
+    {
+     "t": "p",
+     "text": "Rời Thủ đô, anh tiếp tục di chuyển qua Hòa Bình, theo quốc lộ 6 rồi kết nối với quốc lộ 1 để xuống Đồng Hới (Quảng Bình), trước khi đi qua Đà Nẵng, Quảng Ngãi và các tỉnh Tây Nguyên. Sau đó, anh hướng về Bình Phước để trở lại TPHCM."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại 80 ngày trên đường, Long cho biết mong muốn lớn nhất của mình là được khám phá văn hóa, ẩm thực ba miền và trải nghiệm những vùng đất mà trước đây chưa có dịp đặt chân tới."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ, điều đáng nhớ nhất sau hành trình ấy không nằm ở việc anh đã đi xa đến đâu, mà ở những gì đã gặp trên đường. Chiếc xe tay ga cũ đưa Long đi qua dọc miền đất nước, nhưng chính những trải nghiệm và lòng tốt của người xa lạ mới khiến chuyến đi ấy trở thành ký ức khó quên."
+    }
+   ]
+  },
+  {
+   "id": "639207ebf0a7",
+   "order": 7,
+   "slug": "phia-sau-loi-hen-com-nha",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Phía sau lời hẹn cơm nhà",
+   "sapo": "\"Mẹ con cứ ăn trước đi, mai hết ca anh về…\".",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/phia-sau-loi-hen-com-nha-185261013132407975.htm",
+   "published": "2026-10-19T02:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1143,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/639207ebf0a7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/639207ebf0a7-0.jpg",
+     "caption": "Đại úy An Viết Thống (bìa trái) tranh thủ cùng đồng đội sửa sang vật dụng tại đơn vị sau những giờ huấn luyện gắt gao trên thao trường",
+     "w": 960,
+     "h": 636
+    },
+    {
+     "src": "img/2026-10-19/639207ebf0a7-1.jpg",
+     "caption": "Đại úy An Viết Thống trên giường bệnh hiến tiểu cầu khẩn cấp tại Bệnh viện đa khoa vùng Tây nguyên, kịp thời giành giật sự sống cho bệnh nhân nguy kịch chiều 29.9",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-19/639207ebf0a7-2.jpg",
+     "caption": "Đại úy Thống đồng hành cùng các em thiếu nhi trên xe thang cứu hộ trong buổi tuyên truyền, trải nghiệm kỹ năng phòng cháy chữa cháy và thoát nạn",
+     "w": 1097,
+     "h": 687
+    },
+    {
+     "src": "img/2026-10-19/639207ebf0a7-3.jpg",
+     "caption": "Hậu phương ấm áp và sự thấu hiểu từ gia đình luôn là điểm tựa bình yên cho những bước chân không lùi bước trước hiểm nguy",
+     "w": 540,
+     "h": 775
+    },
+    {
+     "src": "img/2026-10-19/639207ebf0a7-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 307
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cuộc gọi chừng mươi giây qua chiếc điện thoại bàn ở phòng trực ban lúc chập tối đã trở nên quen thuộc với đại úy An Viết Thống. Đầu dây bên kia là giọng người vợ trẻ, thỉnh thoảng xen tiếng con nhỏ bi bô tập nói."
+    },
+    {
+     "t": "p",
+     "text": "Một bữa cơm tối quây quần sau giờ làm là điều bình thường với nhiều gia đình, nhưng với đại úy An Viết Thống, cán bộ Phòng Cảnh sát PCCC và CNCH Công an tỉnh Đắk Lắk, đó đôi khi chỉ là lời hẹn chưa biết lúc nào mới thực hiện được. Những ca trực kéo dài, những cuộc gọi báo động bất ngờ có thể khiến anh phải lên đường bất cứ lúc nào."
+    },
+    {
+     "t": "p",
+     "text": "Nghề chữa cháy , cứu nạn cứu hộ luôn đặt người chiến sĩ trước những tình huống nguy hiểm. Khi người dân tìm cách thoát khỏi đám cháy hay vùng sự cố, họ lại tiến vào để tìm kiếm, cứu người. Nhưng ngoài những giờ phút căng thẳng ấy, cuộc sống của họ vẫn gắn với những công việc thường ngày và mong muốn giản dị: hoàn thành nhiệm vụ, trở về nhà bình an."
+    },
+    {
+     "t": "h",
+     "text": "Mồ hôi bết lưng áo và chiếc kệ gỗ đóng dở"
+    },
+    {
+     "t": "p",
+     "text": "Chiều cuối tháng tư, nắng đổ xuống khoảng sân bê tông của đơn vị. Vừa kết thúc nhiều giờ rèn thể lực và kỹ thuật cứu nạn, áo bảo hộ của Thống đã ướt đẫm mồ hôi."
+    },
+    {
+     "t": "p",
+     "text": "Sau buổi tập, anh cùng đồng đội tranh thủ sửa sang vật dụng ở góc sân. Người kiểm tra khớp nối dây dù, người cưa, đục những mảnh gỗ thông cũ để đóng lại giá giày dép, quân trang. Những tiếng búa lách cách xen lẫn câu chuyện vui giữa các chiến sĩ."
+    },
+    {
+     "t": "p",
+     "text": "Với Thống, những việc tưởng nhỏ ấy cũng là một phần của công tác chuẩn bị. Quệt mồ hôi trên trán, anh cười nói: \"Không phải cứ khi nào có chuông báo cháy tụi mình mới bắt tay vào việc. Từng cái khớp nối vòi xịt, chốt xe thang, đến đôi ủng, cái kệ để quân trang đều phải tinh tươm hằng ngày. Đồ đạc chuẩn xác thì lúc báo động vang lên, anh em chỉ mất vài chục giây là lên xe xuất phát. Ra hiện trường sớm một giây là cơ hội bảo vệ tính mạng, tài sản của bà con tăng thêm một phần\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Hai tiếng đồng hồ níu giữ một sinh mệnh"
+    },
+    {
+     "t": "p",
+     "text": "Với Thống, việc giúp đỡ người khác không chỉ diễn ra trong những ca chữa cháy, cứu nạn. Chiều 29.9, vừa bàn giao xong ca trực, anh nhận được thông tin từ CLB Hiến máu tình nguyện tỉnh Đắk Lắk về một bệnh nhân sốt xuất huyết bị biến chứng xuất huyết nội, cần được truyền tiểu cầu tương thích khẩn cấp."
+    },
+    {
+     "t": "p",
+     "text": "Không chần chừ, anh đến Bệnh viện đa khoa vùng Tây nguyên để làm xét nghiệm và hiến tiểu cầu. Chưa đầy 10 phút sau cuộc gọi, Thống đã có mặt tại Khoa Huyết học - Truyền máu. Quá trình hiến kéo dài gần hai giờ đồng hồ..."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Nghe bác sĩ bảo bệnh nhân đang nguy cấp từng phút, tôi chỉ tính làm sao đến viện nhanh nhất. Máu hay tiểu cầu rút ra ít hôm cơ thể sẽ tự bù lại, chứ sự sống của người ta mà trôi qua thì không có cách nào lấy lại được\", Thống nói nhẹ như không."
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải lần đầu anh chạy đua với thời gian trên giường bệnh. Trong cuốn sổ tay của Thống, danh sách những lần hiến máu , hiến tiểu cầu khẩn cấp cứ dày thêm theo năm tháng - những giọt máu âm thầm hòa vào sự hồi sinh của biết bao số phận xa lạ giữa đời thường."
+    },
+    {
+     "t": "h",
+     "text": "Gieo mầm an toàn và điểm tựa sau lưng"
+    },
+    {
+     "t": "p",
+     "text": "Ngoài nhiệm vụ chuyên môn, Thống còn tham gia các buổi tuyên truyền, hướng dẫn kỹ năng phòng cháy chữa cháy và thoát nạn cho trẻ em. Anh hướng dẫn các em cách che mũi miệng bằng khăn ẩm khi gặp khói, tìm lối thoát hiểm và gọi số 114 khi cần trợ giúp."
+    },
+    {
+     "t": "p",
+     "text": "Với anh, trang bị kỹ năng an toàn từ sớm là cách giúp trẻ biết tự bảo vệ mình và ứng phó tốt hơn khi xảy ra sự cố."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Khi bóng tối bao trùm phố núi Buôn Ma Thuột, đường sá thưa dần tiếng còi xe. Trở lại phòng trực sau một ngày dài miệt mài, Thống rút chiếc ví da sờn góc, ngắm tấm ảnh nhỏ chụp cùng vợ."
+    },
+    {
+     "t": "p",
+     "text": "Những đêm thức trắng bên bờ vực sạt lở, những lần lao vào lửa đỏ hay cánh tay rã rời sau những lần hiến máu, anh gần như chẳng bao giờ kể chi tiết với người bạn đời. Anh biết, mỗi lần nghe tiếng còi hú vang ngoài phố là mỗi lần ruột gan người ở nhà như có lửa đốt. Sự thấu hiểu, nụ cười nhẫn nại và một mâm cơm luôn được đậy kín chờ sẵn nơi căn bếp nhỏ chính là điểm tựa vững vàng nhất để bước chân người lính không ngập ngừng trước hiểm nguy."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "“Mai hết ca anh về ăn cơm nhà nhé…”."
+    },
+    {
+     "t": "p",
+     "text": "Lời hẹn giản dị ấy lại được nhắc qua điện thoại. Với Thống, sau mỗi ca trực, điều anh mong muốn cũng như bao người khác: trở về nhà, ăn bữa cơm cùng vợ con. Nhưng khi có người cần giúp đỡ, anh sẵn sàng lên đường, dù biết bữa cơm ấy có thể phải chờ thêm."
+    },
+    {
+     "t": "p",
+     "text": "Phía sau những ca trực ngày đêm là những người lính cứu hỏa như đại úy An Viết Thống, lặng lẽ làm công việc của mình để người dân được an toàn trở về nhà."
+    },
+    {
+     "t": "p",
+     "text": "Mời tham gia cuộc thi Sống đẹp lần VI, với tổng giải thưởng 400 triệu đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bước sang mùa thứ VI với chủ đề Hành trình không giới hạn , cuộc thi Sống đẹp do Báo Thanh Niên tổ chức tiếp tục mở rộng phạm vi tìm kiếm và tôn vinh những giá trị tốt đẹp trong đời sống hằng ngày. Cuộc thi bao gồm hạng mục Bài viết (ký sự, phóng sự, ghi chép) cùng hạng mục Ảnh với tổng giá trị giải thưởng là 400 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Bài dự thi gửi về địa chỉ email: songdep@thanhnien.vn , hoặc gửi bằng đường bưu điện về Tòa soạn Báo Thanh Niên : 268 - 270 Nguyễn Đình Chiểu, P.Xuân Hòa, TP.HCM (ngoài bì thư ghi rõ: Bài viết tham dự cuộc thi SỐNG ĐẸP lần VI - 2026. Lưu ý chỉ áp dụng cho hạng mục dự thi Bài viết)."
+    },
+    {
+     "t": "p",
+     "text": "Thời hạn gửi tác phẩm dự thi: đến hết ngày 31.10.2026."
+    },
+    {
+     "t": "p",
+     "text": "Xem chi tiết thể lệ cuộc thi tại thanhnien.vn"
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "b137de7f0071",
+   "order": 8,
+   "slug": "kham-pha-eo-gio-tuyet-tac-thien-nhien-giua-bien-troi-gia-lai",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Khám phá Eo Gió - tuyệt tác thiên nhiên giữa biển trời Gia Lai",
+   "sapo": "Sức hấp dẫn của Eo Gió nằm ở vẻ đẹp nguyên sơ, nơi núi, biển và gió hòa quyện trong một bức tranh thiên nhiên rộng mở, mang đến những trải nghiệm tận hưởng nhịp sống bình yên cho du khách.",
+   "author": "Vietnam+ (VietnamPlus)",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/kham-pha-eo-gio-tuyet-tac-thien-nhien-giua-bien-troi-gia-lai-post1142718.vnp",
+   "published": "2026-10-18T22:47:35+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1250,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/b137de7f0071-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/b137de7f0071-0.jpg",
+     "caption": "Một trong những trải nghiệm nổi bật khi đến Eo Gió là đi bộ trên cung đường men theo sườn núi. (Ảnh: Hồng Hạnh/Vietnam+)",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/2026-10-19/b137de7f0071-1.jpg",
+     "caption": "Sức hấp dẫn của Eo Gió nằm ở vẻ đẹp nguyên sơ, nơi núi, biển và gió hòa quyện trong một bức tranh thiên nhiên rộng mở. (Ảnh: Hồng Hạnh/Vietnam+)",
+     "w": 1000,
+     "h": 750
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Với địa hình núi đá ôm trọn eo biển xanh trong, những ghềnh đá kỳ thú và cung đường đi bộ men theo sườn núi, Eo Gió là điểm đến hấp dẫn du khách khi khám phá vùng biển Quy Nhơn, tỉnh Gia Lai."
+    },
+    {
+     "t": "p",
+     "text": "Nơi đây gây ấn tượng bởi vẻ đẹp hoang sơ, khoáng đạt, mang đến những trải nghiệm hòa mình vào thiên nhiên và lưu giữ khoảnh khắc đáng nhớ."
+    },
+    {
+     "t": "h",
+     "text": "Vẻ đẹp kỳ thú của eo biển giữa núi đá"
+    },
+    {
+     "t": "p",
+     "text": "Nằm trên bán đảo Phương Mai, thuộc phường Quy Nhơn Đông, tỉnh Gia Lai, Eo Gió là một trong những thắng cảnh nổi bật của vùng biển Quy Nhơn. Cách trung tâm Quy Nhơn khoảng 20km, địa danh này thuận tiện để du khách di chuyển bằng xe máy, ô tô hoặc taxi, kết hợp tham quan các điểm du lịch lân cận."
+    },
+    {
+     "t": "p",
+     "text": "Tên gọi Eo Gió bắt nguồn từ địa hình đặc biệt của nơi đây. Hai dãy núi đá vươn ra biển, ôm lấy một eo biển nhỏ, tạo thành khoảng không gian đón những luồng gió từ đại dương thổi vào. Nhìn từ xa, những dãy núi nhấp nhô như răng cưa, trong khi đường nét uốn lượn của eo biển gợi hình ảnh chiếc yên ngựa giữa biển trời bao la."
+    },
+    {
+     "t": "p",
+     "text": "Điểm cuốn hút của Eo Gió là sự kết hợp hài hòa giữa màu xanh của biển, sắc trời trong trẻo và những vách đá mang hình dáng độc đáo. Dưới chân núi là bãi đá Đẻ với vô số viên đá có kích thước, hình thù khác nhau, được sóng biển bào mòn qua thời gian, tạo nên khung cảnh tự nhiên đầy kỳ thú."
+    },
+    {
+     "t": "p",
+     "text": "Làn nước biển trong xanh, những con sóng trắng xô bờ cùng không khí thoáng đãng mang đến cảm giác thư thái cho du khách. Đứng giữa không gian rộng lớn, lắng nghe tiếng sóng và cảm nhận làn gió biển mát lành, du khách có thể tạm gác lại những bộn bề thường nhật để tận hưởng nhịp sống bình yên của vùng duyên hải."
+    },
+    {
+     "t": "p",
+     "text": "Từ những vị trí cao trên sườn núi, du khách còn có thể phóng tầm mắt ngắm nhìn biển cả mênh mông, cảnh quan phường Quy Nhơn Đông và những hoạt động đời thường của ngư dân vùng biển."
+    },
+    {
+     "t": "p",
+     "text": "Gần Eo Gió, chùa Phước Sa và Tịnh xá Ngọc Hòa cũng là những điểm đến để du khách kết hợp tham quan, tìm hiểu thêm về đời sống văn hóa, tín ngưỡng địa phương."
+    },
+    {
+     "t": "h",
+     "text": "Cung đường ven núi - điểm check-in không thể bỏ lỡ"
+    },
+    {
+     "t": "p",
+     "text": "Một trong những trải nghiệm nổi bật khi đến Eo Gió là đi bộ trên cung đường men theo sườn núi. Với những bậc thang uốn lượn, lan can màu đỏ và trắng nổi bật giữa nền đá, con đường mở ra nhiều góc nhìn hướng thẳng ra biển, giúp du khách chiêm ngưỡng trọn vẹn vẻ đẹp hùng vĩ của thắng cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi đoạn đường lại mang đến một góc nhìn khác nhau: khi là những ghềnh đá nhấp nhô giữa làn nước xanh ngọc, lúc là các vách núi sừng sững vươn ra biển, khi lại là khoảng trời rộng mở hòa cùng đường chân trời. Đây cũng là địa điểm được nhiều du khách lựa chọn để chụp ảnh, ghi lại những khoảnh khắc đáng nhớ trong hành trình khám phá Quy Nhơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh cung đường ven núi, bãi đá Đẻ với những phiến đá xếp thành hình thù tự nhiên cũng là điểm dừng chân hấp dẫn. Những rặng xương rồng mọc trên nền đá, bãi biển xanh trong và khung cảnh núi non hoang sơ tạo nên phông nền độc đáo cho những bức ảnh du lịch."
+    },
+    {
+     "t": "p",
+     "text": "Du khách yêu thích không gian thơ mộng có thể kết hợp ghé thăm đường hoa ven biển Nhơn Lý, những con dốc nhỏ nhiều màu sắc trong làng chài hoặc các bãi biển lân cận. Mỗi địa điểm đều mang một nét riêng, từ vẻ đẹp mộc mạc của làng chài đến sự khoáng đạt của biển trời, góp phần tạo nên hành trình khám phá đa dạng."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ hấp dẫn vào ban ngày, Eo Gió còn mang vẻ đẹp riêng khi bình minh lên hoặc hoàng hôn buông xuống. Ánh nắng phủ lên mặt biển, những dãy núi đá chuyển sắc theo thời gian cùng tiếng sóng vỗ nhịp nhàng tạo nên khung cảnh giàu sức cuốn hút. Đây là thời điểm thích hợp để du khách ngắm cảnh, chụp ảnh và tận hưởng không gian yên bình giữa thiên nhiên."
+    },
+    {
+     "t": "h",
+     "text": "Khám phá Eo Gió vào mùa biển đẹp"
+    },
+    {
+     "t": "p",
+     "text": "Khoảng thời gian từ tháng 3 đến tháng 9, đặc biệt từ tháng 4 đến tháng 9, thường được xem là mùa thuận lợi để khám phá Eo Gió. Thời tiết nắng ráo, biển tương đối êm trong nhiều ngày giúp du khách thuận tiện tham quan, đi bộ ven núi và kết hợp trải nghiệm các hoạt động du lịch biển."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Vào mùa Hè, Eo Gió trở thành điểm dừng chân lý tưởng trong hành trình khám phá vùng biển Quy Nhơn. Du khách có thể dành thời gian ngắm cảnh, chụp ảnh, khám phá những ghềnh đá hoặc kết hợp tham quan các địa danh nổi tiếng lân cận như Kỳ Co và làng chài Nhơn Lý."
+    },
+    {
+     "t": "p",
+     "text": "Nếu muốn tìm hiểu đời sống bản địa, du khách có thể lựa chọn các chuyến đi thuyền hoặc cano theo tuyến tham quan phù hợp, khám phá những làng chài ven biển và thưởng thức hải sản tươi ngon do ngư dân địa phương đánh bắt. Những trải nghiệm này giúp hành trình không chỉ dừng lại ở việc ngắm cảnh mà còn mở ra cơ hội tìm hiểu văn hóa và nhịp sống của cư dân miền biển."
+    },
+    {
+     "t": "p",
+     "text": "Ngược lại, vào mùa mưa bão, thời tiết tại khu vực ven biển có thể thay đổi thất thường, biển động và gió mạnh. Du khách nên theo dõi dự báo thời tiết, tuân thủ hướng dẫn tại điểm tham quan, tránh đi sát mép đá hoặc xuống biển khi điều kiện không an toàn. Nếu có kế hoạch du lịch vào mùa cao điểm, việc đặt trước phương tiện và nơi lưu trú cũng giúp chuyến đi chủ động hơn."
+    },
+    {
+     "t": "p",
+     "text": "Với cảnh quan thiên nhiên đặc sắc, Eo Gió là điểm nhấn trong hành trình khám phá Quy Nhơn và vùng biển Gia Lai. Từ những dãy núi đá ôm lấy eo biển, cung đường đi bộ ven sườn núi đến vẻ bình dị của làng chài Nhơn Lý, nơi đây mang đến những trải nghiệm kết hợp giữa tham quan, nghỉ ngơi và khám phá văn hóa địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Sức hấp dẫn của Eo Gió nằm ở vẻ đẹp nguyên sơ, nơi núi, biển và gió hòa quyện trong một bức tranh thiên nhiên rộng mở. Đây là điểm đến đáng cân nhắc cho những ai muốn tìm về không gian biển trời khoáng đạt, tận hưởng nhịp sống chậm và lưu giữ những dấu ấn riêng trong hành trình du lịch Gia Lai./."
+    },
+    {
+     "t": "h",
+     "text": "Khám phá vẻ đẹp kỳ vỹ, hoang sơ tại thắng cảnh Eo Gió Quy Nhơn"
+    },
+    {
+     "t": "p",
+     "text": "Với vẻ đẹp nguyên sơ nơi biển, trời và núi non hòa quyện, Eo Gió ở xã Nhơn Lý, thành phố Quy Nhơn là điểm đến lý tưởng cho những \"tín đồ xê dịch\" mỗi khi ghé thăm Bình Định."
+    }
+   ]
+  },
+  {
+   "id": "80ea6e3e239f",
+   "order": 9,
+   "slug": "mon-an-duy-nhat-cua-viet-nam-lot-top-100-mon-ham-ngon-nhat-t",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Món ăn duy nhất của Việt Nam lọt top 100 món hầm 'ngon nhất thế giới'",
+   "sapo": "Bò kho là đại diện duy nhất của Việt Nam trong bảng xếp hạng 100 món hầm ngon nhất thế giới do TasteAtlas công bố. Dẫn đầu danh sách là món thịt dê hầm truyền thống của Peru.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://znews.vn/mon-an-duy-nhat-cua-viet-nam-lot-top-100-mon-ham-ngon-nhat-the-gioi-post1690436.html",
+   "published": "2026-10-19T01:28:38+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 608,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/80ea6e3e239f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/80ea6e3e239f-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 641
+    },
+    {
+     "src": "img/2026-10-19/80ea6e3e239f-1.jpg",
+     "caption": "Việt Nam,  bò kho ảnh 1",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bò kho là đại diện duy nhất của Việt Nam trong bảng xếp hạng 100 món hầm ngon nhất thế giới do TasteAtlas công bố. Dẫn đầu danh sách là món thịt dê hầm truyền thống của Peru."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bò kho của Việt Nam xếp thứ 36 trong danh sách 100 món hầm ngon nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 15/10, cẩm nang ẩm thực thế giới TasteAtlas công bố danh sách 100 món hầm ngon nhất thế giới. Bò kho là đại diện duy nhất của Việt Nam, xếp thứ 36 trong bảng xếp hạng."
+    },
+    {
+     "t": "p",
+     "text": "Bò kho là món ăn phổ biến tại Việt Nam, có thể dùng riêng, ăn kèm bánh mì hoặc chan lên mì. Món ăn thường được phục vụ cùng các loại rau thơm tươi. Nguyên liệu chính gồm thịt bò thái miếng vuông, cà rốt, sả, quế, ớt, tiêu, tỏi và hành tím. Các nguyên liệu được ninh trong nước dùng cay nồng, đậm hương gia vị."
+    },
+    {
+     "t": "p",
+     "text": "Theo TasteAtlas , nguồn gốc của bò kho chưa được xác định rõ. Món ăn được cho là chịu ảnh hưởng từ cả phương Đông lẫn phương Tây. Bò kho ở các vùng nông thôn thường cay hơn so với tại đô thị. Món ăn theo truyền thống được dùng vào bữa sáng, ăn kèm hành lá thái nhỏ, rau mùi và hành tây."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Món thịt dê hầm truyền thống của Peru được xếp hạng \"ngon nhất thế giới\"."
+    },
+    {
+     "t": "p",
+     "text": "Đứng đầu bảng xếp hạng là seco de cabrito , món thịt dê hầm truyền thống của Peru. Món ăn có nguồn gốc từ miền Bắc nước này, hiện cũng phổ biến tại các vùng ven biển."
+    },
+    {
+     "t": "p",
+     "text": "Thịt dê được nấu cùng ớt cay, đậu Hà Lan, cà rốt và sốt rau mùi. Các nguyên liệu khác gồm hành tây, thì là Ai Cập, tỏi, lá oregano, dầu ăn và gia vị. Thịt được chiên sơ trước khi nấu cùng những nguyên liệu còn lại cho đến khi phần sốt sánh đặc."
+    },
+    {
+     "t": "p",
+     "text": "Seco de cabrito thường được dùng kèm cơm, đậu và sắn luộc, tạo thành một bữa ăn hoàn chỉnh. Món này phổ biến trong các dịp lễ hội hoặc những buổi sum họp gia đình, đồng thời có thể được hâm nóng để dùng vào ngày hôm sau."
+    },
+    {
+     "t": "p",
+     "text": "Bảng xếp hạng của TasteAtlas được xây dựng dựa trên đánh giá của người dùng, với các cơ chế nhằm nhận diện tài khoản thực. Hệ thống cũng tăng trọng số cho đánh giá của những người được xác định là am hiểu về ẩm thực."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến ngày 15/10, danh sách 100 món hầm ngon nhất thế giới ghi nhận 46.973 lượt đánh giá, trong đó 27.537 lượt được hệ thống xác định là hợp lệ."
+    },
+    {
+     "t": "p",
+     "text": "Nền tảng hướng đến mục tiêu quảng bá những món ăn địa phương đặc sắc, khơi dậy niềm tự hào về ẩm thực truyền thống và gợi sự tò mò về những món ăn mà người đọc chưa từng thử."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu hai cuốn sách Lê la quà vặt và Ăn quà xuyên Việt. Xuất bản năm 2017, đây có lẽ là những cuốn sách tranh ẩm thực đầu tiên của một tác giả Việt được xuất bản. Bằng những hình vẽ dễ thương và sinh động, vui tươi và hài hước, những trang vẽ của Đặng Hồng Quân khiến người xem như có thể mường tượng ra khung cảnh náo nhiệt của các hàng quà, thậm chí có đôi khi lộn xộn, nhôm nhoam như ngoài đời thực ta có thể vẫn bắt gặp."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: 'Từ điển' món ngon nước Việt bằng tranh"
+    }
+   ]
+  },
+  {
+   "id": "e9dfd2515fed",
+   "order": 10,
+   "slug": "tinh-nao-vua-giap-bien-vua-co-bien-gioi-voi-hai-quoc-gia",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Tỉnh nào vừa giáp biển, vừa có biên giới với hai quốc gia?",
+   "sapo": "Đây là tỉnh vừa giáp biển, vừa có đường biên giới trên bộ với hai nước láng giềng. Bạn có biết đó là tỉnh nào?",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/tinh-nao-vua-giap-bien-vua-co-bien-gioi-voi-hai-quoc-gia-2566150.html",
+   "published": "2026-10-18T22:10:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 524,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/e9dfd2515fed-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 821
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Tỉnh nào vừa giáp biển, vừa có biên giới với hai quốc gia?"
+    },
+    {
+     "t": "li",
+     "text": "Điện Biên 0% Gia Lai 0% Quảng Ngãi 0% Lạng Sơn 0% Chính xác Quảng Ngãi là một tỉnh ven biển thuộc vùng Duyên hải Nam Trung Bộ, có đường bờ biển dài khoảng 129km. Địa phương này có đường biên giới với hai quốc gia là Lào và Campuchia, điểm giao là Ngã ba Đông Dương. Đây là địa phương duy nhất trong 34 tỉnh, thành của Việt Nam giáp cả hai quốc gia này. 2. Tên tỉnh này mang hàm ý gì? Vùng đất yên bình 0% Nghĩa khí rộng lớn 0% Ánh mặt trời biển Đông 0% Thái bình rộng lớn 0% Chính xác Theo Báo Quảng Ngãi , Quảng Ngãi vốn thuộc phủ Tư Nghĩa, thừa tuyên Quảng Nam, được hình thành sau khi nhà Lê mở rộng bờ cõi về phía Nam. Năm 1602, phủ Tư Nghĩa đổi thành phủ Quảng Nghĩa. Trong tên gọi Quảng Nghĩa, chữ “Quảng” tức “rộng lớn”, còn “Nghĩa” là “nghĩa khí”. “Quảng Nghĩa” có thể hiểu là “nghĩa khí rộng lớn”. Sau này, theo một số nhà nghiên cứu ở Viện Hán Nôm, việc đọc chệch chữ “Nghĩa” thành “Ngãi” là do kiêng thụy hiệu của Hoằng Nghĩa vương Nguyễn Phúc Thái (1667-1691). 3. Địa phương này giáp biển nhưng không có đặc khu, đúng hay sai? Đúng 0% Sai 0% Chính xác Đặc khu duy nhất của Quảng Ngãi là Lý Sơn. Tháng 5/2026, UBND tỉnh Quảng Ngãi ban hành đề án phát triển đặc khu này với mục tiêu đến năm 2030 trở thành trung tâm du lịch biển đảo vùng Duyên hải Nam Trung Bộ và Tây Nguyên, đón 400.000 lượt khách, trong đó có 10.000 lượt khách quốc tế. 4. Tỉnh này có hồ nước ngọt nào nằm trên miệng núi lửa? Pá Khoang 0% Thới Lới 0% Tà Đùng 0% Than Thở 0% Chính xác Hồ Thới Lới thuộc đặc khu Lý Sơn ở Quảng Ngãi là hồ nước ngọt nằm trên miệng núi lửa. Trước tình trạng thiếu nước ngọt phục vụ sinh hoạt và sản xuất, tỉnh Quảng Ngãi đã đầu tư xây dựng hồ chứa này. Theo Sở Nông nghiệp và Môi trường tỉnh Quảng Ngãi, hồ có dung tích hơn 270.000m3, là công trình trữ, cấp nước và bổ sung nguồn nước ngầm quan trọng của đặc khu. 5. Tỉnh này có nhà máy lọc dầu thứ hai tại Việt Nam, đúng hay sai? Đúng 0% Sai 0% Chính xác Nhà máy lọc dầu Dung Quất ở Quảng Ngãi là nhà máy lọc dầu đầu tiên tại Việt Nam, được khởi công xây dựng cuối năm 2005. Theo Cổng thông tin điện tử tỉnh Quảng Ngãi, trước khi có nhà máy lọc dầu Dung Quất, Việt Nam chỉ xuất khẩu dầu thô, phải nhập khẩu toàn bộ xăng dầu thành phẩm. Việc hình thành nhà máy lọc dầu trong nước không chỉ là yêu cầu về kinh tế mà còn là yếu tố then chốt trong chiến lược an ninh năng lượng quốc gia. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "b751ca46ef83",
+   "order": 11,
+   "slug": "tp-hcm-lan-thu-15-vo-dich-bong-da-nu-quoc-gia",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "TP HCM lần thứ 15 vô địch bóng đá nữ quốc gia",
+   "sapo": "CLB TP HCM thiết lập kỷ lục vô tiền khoáng hậu khi tiếp tục thống trị bóng đá nữ Việt Nam sau chức vô địch bóng đá quốc gia 2026.",
+   "author": "Đức Đồng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tp-hcm-lan-thu-15-vo-dich-bong-da-nu-quoc-gia-5133946.html",
+   "published": "2026-10-18T17:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 952,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/b751ca46ef83-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 715
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 779
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 763
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 783
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 775
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 818
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 758
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 718
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 707
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-10.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 767
+    },
+    {
+     "src": "img/2026-10-19/b751ca46ef83-11.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "TP HCM lần thứ 15 vô địch bóng đá nữ quốc gia"
+    },
+    {
+     "t": "p",
+     "text": "CLB TP HCM thiết lập kỷ lục vô tiền khoáng hậu khi tiếp tục thống trị bóng đá nữ Việt Nam sau chức vô địch bóng đá quốc gia 2026."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "CLB TP HCM tiếp Thái Nguyên T&T ở vòng 13 giải bóng đá nữ vô địch quốc gia 2026 trên sân Ngãi Giao (trước ở huyện Châu Đốc, tỉnh Bà Rịa - Vũng Tàu)."
+    },
+    {
+     "t": "p",
+     "text": "Từ hai vòng trước trận này, đội chủ nhà đã sớm đủ điểm vô địch. Họ vì vậy bước vào trận đấu với tinh thần thoải mái, nhưng bất ngờ để Bích Thuỳ (7) chọc thủng lưới ngay phút thứ 8 từ phạt đền."
+    },
+    {
+     "t": "p",
+     "text": "CLB TP HCM tiếp Thái Nguyên T&T ở vòng 13 giải bóng đá nữ vô địch quốc gia 2026 trên sân Ngãi Giao (trước ở huyện Châu Đốc, tỉnh Bà Rịa - Vũng Tàu)."
+    },
+    {
+     "t": "p",
+     "text": "Từ hai vòng trước trận này, đội chủ nhà đã sớm đủ điểm vô địch. Họ vì vậy bước vào trận đấu với tinh thần thoải mái, nhưng bất ngờ để Bích Thuỳ (7) chọc thủng lưới ngay phút thứ 8 từ phạt đền."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đến phút 28, đội trưởng Phan Thị Trang cướp bóng từ gần giữa sân. Sau khi xâm nhập vòng cấm rồi vượt qua trung vệ Trần Thị Thu lẫn thủ môn Khánh Linh, cô sút vào lưới trống gỡ hoà 1-1 cho TP HCM."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hiệp hai, HLV Kim Chi tung các lão tướng như Bảo Châu, Huỳnh Như vào sân, quyết tìm chiến thắng trong ngày nâng Cup. Dù vậy, chủ nhà kém may khi xà ngang và cột dọc nhiều lần từ chối các cơ hội."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hiệp hai, HLV Kim Chi tung các lão tướng như Bảo Châu, Huỳnh Như vào sân, quyết tìm chiến thắng trong ngày nâng Cup. Dù vậy, chủ nhà kém may khi xà ngang và cột dọc nhiều lần từ chối các cơ hội."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đến phút 79 chủ nhà phải trả giá khi Phan Thị Thu Thìn bay người đánh đầu tung lưới thủ môn Kim Thanh ấn định tỷ số 2-1 cho Thái Nguyên. Đội bóng xứ Chè nhờ đó vươn lên thứ hai để có thể đoạt ngôi á quân."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trận thua đầu tiên của mùa giải khiến ngày nhận Cup của các cô gái TP HCM kém vui. Dù vậy, họ tiếp tục thiết lập kỷ lục khi có lần thứ 15 vô địch quốc gia."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Kỷ nguyên thống trị của TP HCM bắt đầu từ năm 2002 rồi 2004, 2005, 2010, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024. Họ cũng vô địch lần thứ bảy liên tiếp kể từ năm 2019."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài 500 triệu đồng tiền thưởng của giải, thầy trò HLV Kim Chi còn nhận thêm 500 triệu từ Liên đoàn Bóng đá TP HCM (HFF) và 100 triệu từ Quỹ bảo trợ tài năng thể thao TP HCM."
+    },
+    {
+     "t": "p",
+     "text": "Kỷ nguyên thống trị của TP HCM bắt đầu từ năm 2002 rồi 2004, 2005, 2010, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024. Họ cũng vô địch lần thứ bảy liên tiếp kể từ năm 2019."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài 500 triệu đồng tiền thưởng của giải, thầy trò HLV Kim Chi còn nhận thêm 500 triệu từ Liên đoàn Bóng đá TP HCM (HFF) và 100 triệu từ Quỹ bảo trợ tài năng thể thao TP HCM."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "\"Chức vô địch này xứng đáng với những nỗ lực mà toàn đội đã bỏ ra suốt mùa giải\", HLV Kim Chi nói. \"Bên cạnh đó, chúng tôi gặp may khi các đội mạnh kìm chân nhau để mình có cơ hội bứt lên vô địch sớm trước hai vòng\"."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Thủ môn Kim Thanh vui mừng khi bảo vệ được chức vô địch. \"Chúng tôi rất hạnh phúc vì những nỗ lực đã được đền đáp. Một mùa giải khó khăn nhưng toàn đội rất đoàn kết để có thành quả\", cô nói."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Lão tướng Trần Thị Thuỳ Trang đã 38 tuổi sau khi giã từ đội tuyển vẫn cho thấy sự dẻo dai, bền bỉ và hiệu quả khi thi đấu trong màu áo CLB TP HCM. Trong ngày nhận Cup, cô được người thân từ quê nhà Quảng Ngãi vào chia vui."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Lão tướng Trần Thị Thuỳ Trang đã 38 tuổi sau khi giã từ đội tuyển vẫn cho thấy sự dẻo dai, bền bỉ và hiệu quả khi thi đấu trong màu áo CLB TP HCM. Trong ngày nhận Cup, cô được người thân từ quê nhà Quảng Ngãi vào chia vui."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Tiền đạo Huỳnh Như trong vòng tay chia vui của người hâm mộ."
+    },
+    {
+     "t": "p",
+     "text": "Giải vô địch nữ quốc gia 2026 có 7 đội gồm TP HCM I, TP HCM II, Hà Nội I, Hà Nội II, Thái Nguyên T&T và Than KSVN. Đây là lần đầu tiên giải tổ chức theo thể thức league sân nhà - sân khách."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh chức vô địch đã có chủ, vị trí Á quân và thứ ba là cuộc cạnh tranh giữa Thái Nguyên (24 điểm) và Hà Nội I (23 điểm) trước vòng cuối ngày 23/10."
+    },
+    {
+     "t": "p",
+     "text": "Tiền đạo Huỳnh Như trong vòng tay chia vui của người hâm mộ."
+    },
+    {
+     "t": "p",
+     "text": "Giải vô địch nữ quốc gia 2026 có 7 đội gồm TP HCM I, TP HCM II, Hà Nội I, Hà Nội II, Thái Nguyên T&T và Than KSVN. Đây là lần đầu tiên giải tổ chức theo thể thức league sân nhà - sân khách."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh chức vô địch đã có chủ, vị trí Á quân và thứ ba là cuộc cạnh tranh giữa Thái Nguyên (24 điểm) và Hà Nội I (23 điểm) trước vòng cuối ngày 23/10."
+    }
+   ]
+  },
+  {
+   "id": "38256127f20f",
+   "order": 12,
+   "slug": "viet-nam-lan-dau-co-tay-dua-tre-gop-mat-fia-f4-world-cup-202",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Việt Nam lần đầu có tay đua trẻ góp mặt FIA F4 World Cup 2026",
+   "sapo": "Ben Anh Nguyễn trở thành tay đua Việt Nam đầu tiên tranh tài tại FIA F4 World Cup 2026, diễn ra từ ngày 19 đến 22/11 tại Macao.",
+   "author": "Đại Nam",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/viet-nam-lan-dau-tien-co-tay-dua-tre-gop-mat-fia-f4-world-cup-2026-2566172.html",
+   "published": "2026-10-18T16:05:33+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 342,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/38256127f20f-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-10-19/38256127f20f-0.jpg",
+     "caption": "Ben Anh Nguyễn sẽ tranh tài tại FIA F4 World Cup 2026.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/38256127f20f-1.jpg",
+     "caption": "Ben Anh Nguyễn cùng bố mẹ nổi tiếng của mình.",
+     "w": 918,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-10-19/38256127f20f-2.jpg",
+     "caption": "Hà Nội giành 19 HCV tại giải vô địch trẻ Trượt băng Quốc gia 2026",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/38256127f20f-3.jpg",
+     "caption": "Fokina đi vào lịch sử với chức vô địch Thượng Hải Masters 2026",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-19/38256127f20f-4.jpg",
+     "caption": "Truyền nhân Nadal hạ gục Medvedev, vào chung kết Thượng Hải Masters",
+     "w": 1080,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ben Anh Nguyễn vừa xuất sắc giành vị trí Á quân tại Formula Trophy Malaysia 2026 (tháng 10). Anh đại diện cho Việt Nam tham gia giải đấu danh giá FIA F4 World Cup 2026."
+    },
+    {
+     "t": "p",
+     "text": "FIA F4 World Cup Entry List năm nay quy tụ 24 tay đua trẻ xuất sắc của thế giới, trong đó Ben Anh Nguyễn (17 tuổi), xe số 3, thuộc đội Evans GP. Anh sẽ phải tranh tài khốc liệt với nhiều \"hạt giống\" nổi trội như Luka Sammalisto - vô địch F4 Italy 2026; Dries Van Langendonck - vô địch F4 Anh 2026, thuộc chương trình đào tạo của McLaren; Kasper Schormans - đang dẫn đầu F4 Tây Ban Nha; các học viên của Red Bull, Mercedes-AMG và Williams…"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "“Guia Circuit có chiều dài 6,12km, là một trong những đường phố khắc nghiệt nhất thế giới, với các khúc cua hẹp, tường chắn sát mép đường và chỉ một lỗi nhỏ cũng có thể kết thúc cuộc đua. Vì thế, mục tiêu lớn nhất của tôi là học đường đua, chạy sạch và về đích, chứ không đặt nặng thành tích. Việc có mặt trên vạch xuất phát đã là một dấu mốc của đua xe công thức Việt Nam cũng như bản thân tôi”, Ben Anh Nguyễn cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Ben Anh Nguyễn là người ít kinh nghiệm khi chỉ mới bước chân vào bộ môn đua xe công thức chuyên nghiệp được khoảng 2 năm, nhưng đã giành nhiều chiến tích, đáng chú ý là Á quân và top 3 F4 tại Formula Trophy Malaysia 2026, tham gia F4 BlackArts Racing tại Malaysia 2025, F4 tại Abu Dhabi 2025… Ở Việt Nam, anh từng vô địch hạng 4SS SPRINT tại giải đua Go-kart 2024. Hiện tại, anh là sinh viên năm đầu tiên ngành Kỹ thuật đua xe của Đại học Purdue (Mỹ)."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không ít người bất ngờ khi biết Ben Anh Nguyễn (tên thật: Nguyễn Hoài Nam Anh) là con út của Hoa khôi thể thao Thu Hương và doanh nhân Nguyễn Hoài Nam."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "e05be5249f97",
+   "order": 13,
+   "slug": "clb-nu-tp-ho-chi-minh-i-hanh-trinh-tiep-noi-cua-bieu-tuong-t",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "CLB nữ TP Hồ Chí Minh I: Hành trình tiếp nối của biểu tượng trong làng bóng đá nữ Việt Nam",
+   "sapo": "VTV.vn - 15 lần vô địch Giải bóng đá nữ VĐQG – những con số biết nói này đang kể câu chuyện về một tập thể CLB nữ TP Hồ Chí Minh I biết tiếp nối, làm mới và duy trì vị thế.",
+   "author": "baodientuvtv",
+   "source_name": "VTV",
+   "source_url": "https://vtv.vn/clb-nu-tp-ho-chi-minh-i-hanh-trinh-tiep-noi-cua-bieu-tuong-trong-lang-bong-da-nu-viet-nam-100261019003125186.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 6,
+   "words": 525,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/e05be5249f97-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "CLB nữ TP Hồ Chí Minh I thêm một lần nữa bước lên bục cao nhất của bóng đá nữ Việt Nam. Chức vô địch Giải bóng đá nữ VĐQG – Cúp Thái Sơn Bắc 2026 tiếp tục khắc tên đội bóng thành phố mang tên Bác vào lịch sử với 8 lần đăng quang liên tiếp và 15 chức vô địch, một vị thế được xây dựng qua nhiều thế hệ cầu thủ."
+    },
+    {
+     "t": "p",
+     "text": "TP Hồ Chí Minh I đã chắc chắn bảo vệ ngôi vô địch từ vòng 12. Đến vòng 13, thất bại 1-2 trước Thái Nguyên T&T chỉ khiến ngày nhận Cúp diễn ra trong một sắc thái khác: không phải một chiến thắng tưng bừng, mà là hình ảnh của một tập thể đã đi qua cả một mùa giải bằng sự bền bỉ, trước khi chính thức nâng cao chiếc Cúp trong cơn mưa."
+    },
+    {
+     "t": "p",
+     "text": "CLB nữ TP Hồ Chí Minh I là một biểu tượng hiếm hoi cho sự ổn định trong làng bóng đá nữ Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau những con số ấy là một hành trình dài của bóng đá nữ TP Hồ Chí Minh, nơi những thế hệ cầu thủ nối tiếp nhau. Mùa giải 2026 chứng kiến đội bóng bước sâu hơn vào quá trình chuyển giao. Những gương mặt như Tuyết Ngân, Thùy Linh, K'Thủa, Quỳnh Anh, Bích Châm ngày càng có vai trò rõ nét trong đội hình, bên cạnh những cầu thủ giàu kinh nghiệm. Sự kết hợp giữa sức trẻ và kinh nghiệm giúp TP Hồ Chí Minh I duy trì được sức mạnh trong một giải đấu ngày càng xuất hiện nhiều đối thủ có tham vọng cạnh tranh ngôi vô địch."
+    },
+    {
+     "t": "p",
+     "text": "Đội hình gồm sự kết hợp của những \"tượng đài\" và gương mặt mới khao khát thể hiện bản thân."
+    },
+    {
+     "t": "p",
+     "text": "Trong bức tranh ấy, những cái tên như Huỳnh Như, Trần Thị Thùy Trang hay thủ môn Trần Thị Kim Thanh vẫn mang một ý nghĩa đặc biệt."
+    },
+    {
+     "t": "p",
+     "text": "Thùy Trang là một hình mẫu để lứa cầu thủ trẻ noi theo. Ở tuổi 38, cô vẫn thi đấu như một \"máy chạy\" thực thụ, liên tục quần thảo hàng phòng ngự đối phương."
+    },
+    {
+     "t": "p",
+     "text": "Và hành trình ấy vẫn chưa dừng lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi hoàn tất mùa giải quốc nội, TP Hồ Chí Minh I tiếp tục hướng tới sân chơi AFC Women's Champions League 2026/27. Đội bóng Việt Nam đã có tên trong nhóm 12 CLB giành quyền vào vòng bảng giải đấu cấp CLB nữ hàng đầu châu Á. Đây cũng là sân chơi mà TP Hồ Chí Minh I từng tạo dấu ấn khi lọt vào bán kết mùa giải 2024/25, trước khi dừng bước ở tứ kết mùa 2025/26."
+    },
+    {
+     "t": "p",
+     "text": "Một chương mới đang chờ phía trước. Nhưng trước khi hướng tới những thử thách ở châu lục, TP Hồ Chí Minh I đã có một ngày để nhìn lại chính mình – ngày chiếc Cúp thứ 15 được trao, trong một hành trình mà mỗi bức ảnh đều có thể kể lại một phần câu chuyện về một biểu tượng của bóng đá nữ Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "654be6674c5a",
+   "order": 14,
+   "slug": "maroc-chuan-bi-van-hanh-sieu-nha-may-pin-lithium-dau-tien-o",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Maroc chuẩn bị vận hành siêu nhà máy pin lithium đầu tiên ở châu Phi",
+   "sapo": "Việc xây dựng nhà máy pin quy mô lớn được kỳ vọng giúp Maroc mở rộng chuỗi giá trị công nghiệp xe điện, tận dụng lợi thế nguyên liệu, vị trí địa lý để kết nối thị trường châu Âu, châu Phi, Trung Đông.",
+   "author": "Mạnh Hùng",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/maroc-chuan-bi-van-hanh-sieu-nha-may-pin-lithium-dau-tien-o-chau-phi-post1142786.vnp",
+   "published": "2026-10-19T01:25:13+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 493,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/654be6674c5a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tập đoàn công nghệ pin Trung Quốc Gotion High-Tech sẽ bắt đầu chạy thử nhà máy sản xuất pin quy mô lớn ở thành phố Kenitra của Maroc từ ngày 20/10."
+    },
+    {
+     "t": "p",
+     "text": "Đây là cơ sở sản xuất pin lithium sắt phosphate (LFP) quy mô lớn đầu tiên ở châu Phi."
+    },
+    {
+     "t": "p",
+     "text": "Theo công ty con Gotion Power Maroc, trong giai đoạn đầu, nhà máy sẽ sản xuất pin LFP với công suất thiết kế 20 GWh. Sản phẩm dự kiến phục vụ thị trường Maroc, các nước châu Phi, châu Âu, Trung Đông và Mỹ."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, Gotion Power Maroc đã tuyển dụng hơn 400 lao động địa phương, phần lớn được đào tạo tại các cơ sở sản xuất của Gotion High-Tech ở Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Dự án được khởi động từ tháng 6/2024. Giai đoạn đầu của dự án có vốn đầu tư 12,8 tỷ Dirham, tương ứng công suất 20 GWh. Khi công suất được nâng lên 100 GWh, tổng vốn đầu tư có thể lên tới 65 tỷ Dirham. Dự án dự kiến tạo ra 17.000 việc làm trực tiếp và gián tiếp, trong đó có 2.300 vị trí yêu cầu trình độ chuyên môn cao."
+    },
+    {
+     "t": "p",
+     "text": "Nguồn vốn quốc tế đang được huy động cho dự án này. Ngày 24/7, Ngân hàng Phát triển châu Phi (AfDB) đã phê duyệt khoản vay 100 triệu euro cho Gotion Power Maroc, đồng thời cho biết sẽ huy động thêm tối đa 141 triệu euro từ các đối tác tài chính."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Achraf Tarsim, Giám đốc AfDB tại Maroc, dự án sẽ góp phần nâng cao năng lực cạnh tranh công nghiệp của Maroc và thúc đẩy quá trình đưa nước này trở thành trung tâm sản xuất xe điện của châu Phi."
+    },
+    {
+     "t": "p",
+     "text": "Một diễn biến đáng chú ý khác là ngày 28/9, Tập đoàn Volkswagen của Đức và công ty sản xuất pin PowerCo đã đạt thỏa thuận với Gotion về việc thành lập 3 liên doanh, trong đó có một nhà máy tại Maroc sản xuất pin LFP và vật liệu cathode dùng cho loại pin này."
+    },
+    {
+     "t": "p",
+     "text": "Theo Volkswagen, Gotion sẽ nắm giữ 51% vốn và PowerCo sở hữu 49%, đồng thời hai bên cùng quản lý cơ sở. Thỏa thuận vẫn cần được cơ quan quản lý phê duyệt và cổ đông Gotion thông qua."
+    },
+    {
+     "t": "p",
+     "text": "Việc xây dựng nhà máy pin quy mô lớn được kỳ vọng giúp Maroc mở rộng chuỗi giá trị công nghiệp xe điện, tận dụng lợi thế về nguyên liệu và vị trí địa lý để kết nối các thị trường châu Âu, châu Phi và Trung Đông./."
+    },
+    {
+     "t": "h",
+     "text": "Trung Quốc áp thuế tiêu thụ với pin lithium-ion và tấm pin năng lượng mặt trời"
+    },
+    {
+     "t": "p",
+     "text": "Trung Quốc sẽ áp thuế tiêu thụ với pin lithium-ion và tấm pin năng lượng Mặt Trời từ tháng 9 nhằm điều chỉnh chính sách thuế và ứng phó tình trạng dư thừa công suất trong ngành công nghiệp chiến lược."
+    }
+   ]
+  },
+  {
+   "id": "0b76326823d3",
+   "order": 15,
+   "slug": "ket-hop-hai-the-gioi-may-tinh-luong-tu-lai-co-the-sap-xuat-h",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Kết hợp hai thế giới: Máy tính lượng tử \"lai\" có thể sắp xuất hiện, các nhà nghiên cứu cho biết",
+   "sapo": "Dù hứa hẹn rất nhiều, máy tính lượng tử (quantum computer) vẫn gặp khó khi mô phỏng sự tương tác giữa hai nhóm hạt cơ bản tạo nên Vũ trụ của chúng ta – bạn có thể tưởng tượng một người đầu bếp mà lại không thể giải thích vì sao đường và sữa kết hợp lại tạo ra bánh không? Nhưng các nhà nghiên cứu có thể đã tìm ra cách vượt qua thử thách này, bằng việc xây dựng mô hình lý thuyết cho một chiếc máy tính lượng tử \"lai\" (hybrid), hứa hẹn kết hợp được ưu điểm của cả hai thế giới.",
+   "author": "Ivan Farkas",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/best-of-both-worlds-hybrid-quantum-computers-could-be-just-around-the-corner-researchers-say",
+   "published": "2026-10-18T15:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1444,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Best of Both Worlds: 'Hybrid' Quantum Computers Could Be Just Around The Corner, Researchers Say",
+   "images": [
+    {
+     "src": "img/2026-10-19/0b76326823d3-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-19/0b76326823d3-0.jpg",
+     "caption": "(ScienceAlert)",
+     "w": 1098,
+     "h": 909
+    },
+    {
+     "src": "img/2026-10-19/0b76326823d3-1.jpg",
+     "caption": "Một hạt photon va vào một electron, thể hiện một trong nhiều kiểu tương tác giữa fermion và boson – những tương tác chi phối vật lý hạt, nền tảng của sự tồn tại của chúng ta. (APS Journals)",
+     "w": 536,
+     "h": 734
+    },
+    {
+     "src": "img/2026-10-19/0b76326823d3-2.jpg",
+     "caption": "Một hệ thống thông thường gồm các qubit và cổng logic của chúng, ở trên, so với phiên bản lai đơn giản hóa, ở dưới. Ngay cả ở độ chính xác 99,9%, nghe có vẻ cao, nhiều lỗi nhỏ lẻ vẫn có thể nhanh chóng cộng dồn lại và biến kết quả đầu ra thành \"nhiễu\" vô dụng. (APS Journals)",
+     "w": 652,
+     "h": 733
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dù hứa hẹn rất nhiều, máy tính lượng tử vẫn gặp khó khi mô phỏng sự tương tác giữa hai nhóm hạt cơ bản tạo nên Vũ trụ của chúng ta – bạn có thể tưởng tượng một người đầu bếp mà lại không thể giải thích vì sao đường và sữa kết hợp lại tạo ra bánh không?"
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các nhà nghiên cứu có thể đã tìm ra cách vượt qua thử thách này, bằng việc xây dựng mô hình lý thuyết cho một chiếc máy tính lượng tử \"lai\", hứa hẹn kết hợp được ưu điểm của cả hai thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Các hạt cơ bản tạo nên \"chiếc bánh vũ trụ\" của sự tồn tại của chúng ta được chia thành hai nhóm: fermion hoặc boson."
+    },
+    {
+     "t": "p",
+     "text": "Nói đơn giản, fermion là các hạt vật chất, bao gồm electron và proton, còn boson là các hạt truyền tải lực, như photon (ánh sáng) – hạt mang lực điện từ."
+    },
+    {
+     "t": "p",
+     "text": "Máy tính lượng tử rất giỏi trong việc mô phỏng fermion, vì chúng rời rạc, giống như các qubit vận hành máy tính lượng tử."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng boson lại khó hơn, vì chúng có thể cùng chiếm một trạng thái lượng tử và \"chồng lấp\" lên nhau, nghĩa là có thể có một \"chồng\" lượng tử gồm vô số boson."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một khung lý thuyết mới có thể giúp vượt qua vấn đề này và tăng tốc mạnh cho máy tính lượng tử, nhờ một nghiên cứu mới của một nhóm các nhà vật lý, kỹ sư và nhà khoa học máy tính, do Eleanor Crane, giảng viên về máy tính lượng tử tại Đại học King's College London, dẫn đầu."
+    },
+    {
+     "t": "p",
+     "text": "Như họ mô tả trên tạp chí Physical Review X, các nhà nghiên cứu đã phát triển một chiến lược máy tính lượng tử lai, kết hợp hai công nghệ đã có sẵn: các qubit vận hành máy tính lượng tử, và bộ cộng hưởng hốc vi sóng (microwave cavity resonator) – những hộp nhỏ chứa các trường điện từ dao động."
+    },
+    {
+     "t": "p",
+     "text": "Loại hộp cộng hưởng này đã được dùng trong các vật liệu siêu dẫn, nhưng các nhà nghiên cứu hình dung sẽ dùng chúng cho việc tính toán, để lưu trữ thông tin lượng tử."
+    },
+    {
+     "t": "p",
+     "text": "Để tái tạo hoạt động của boson, máy tính lượng tử phải dùng rất nhiều qubit, vì qubit mang tính rời rạc giống fermion, nhưng khi tăng số lượng qubit lên thì tỷ lệ lỗi cũng tăng theo. Việc tích hợp thêm các bộ cộng hưởng có thể tránh được vấn đề này, mang lại một bước đột phá:"
+    },
+    {
+     "t": "p",
+     "text": "\"Vì [khuôn khổ lai này] giúp giảm khối lượng công việc tới một nghìn lần, các bài toán hóa học và vật liệu có giá trị thực tiễn có thể nằm trong khả năng của những máy tính đang được xây dựng ngày nay, rất lâu trước khi các máy tính lượng tử sửa lỗi quy mô lớn ra đời,\" các nhà nghiên cứu cho biết trong bản tóm tắt phổ thông về công trình của họ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Khi đặt nền tảng để hệ thống lai này có thể tích hợp số (digital) một cách trơn tru, việc này cũng giống như giới thiệu hai người hâm mộ Star Trek từ những vùng khác nhau trên thế giới, rồi để họ giao tiếp với nhau bằng tiếng Klingon như một ngôn ngữ chung."
+    },
+    {
+     "t": "p",
+     "text": "Để có một mốc so sánh giữa máy tính lượng tử truyền thống và máy tính lượng tử lai, các nhà nghiên cứu đã xây dựng các mô hình cho một bộ chia chùm sáng (beam splitter) - thiết bị tách hoặc kết hợp ánh sáng - cùng với vài \"vũ trụ tối giản\" siêu nhỏ, siêu đơn giản."
+    },
+    {
+     "t": "p",
+     "text": "Ví dụ, mô hình trường gauge \"nổi tiếng là khó nhằn\" trong không gian (2+1) chiều chỉ gồm hai chiều không gian cộng với chiều thời gian, đưa chúng ta trở về thời của trò chơi Pong hay Sonic."
+    },
+    {
+     "t": "p",
+     "text": "Nghe có vẻ không ấn tượng lắm nếu so với những lời quảng bá rộn ràng trên truyền thông về máy tính lượng tử, nhưng đây thực ra lại là điểm lý tưởng về mặt khoa học."
+    },
+    {
+     "t": "p",
+     "text": "Mô phỏng sự vật trong một chiều không gian thì quá đơn giản, còn mô phỏng sự vật trong ba chiều không gian (+1 chiều thời gian) của vũ trụ mà chúng ta biết thì lại cực kỳ khó khăn."
+    },
+    {
+     "t": "q",
+     "text": "\"Vì [khuôn khổ lai này] giúp giảm khối lượng công việc tới một nghìn lần, các bài toán hóa học và vật liệu có giá trị thực tiễn có thể nằm trong khả năng của những máy tính đang được xây dựng ngày nay, rất lâu trước khi các máy tính lượng tử sửa lỗi quy mô lớn ra đời,\" các nhà nghiên cứu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Có thể gây bất ngờ, nhưng các lý thuyết (2+1) chiều lại có liên quan trực tiếp đến thế giới thực."
+    },
+    {
+     "t": "p",
+     "text": "Ví dụ, graphene - vật liệu được cho là chắc nhất mà con người biết đến - thực chất có cấu trúc hai chiều. Các tương tác hai chiều cũng đóng vai trò quan trọng trong cách các electron di chuyển trong vật liệu siêu dẫn, với những tác động lớn đến việc lưu trữ năng lượng."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn chung, các nhà nghiên cứu cho rằng máy tính lượng tử lai có thể đạt độ chính xác cao hơn nhiều, và điều đó sẽ sớm xảy ra."
+    },
+    {
+     "t": "p",
+     "text": "Ví dụ, để sánh được với phần cứng lai qubit-boson có độ chính xác mỗi cổng (per-gate fidelity) lên tới 99,9% – đây là độ chính xác của một cổng logic (logic gate) khi thay đổi trạng thái lượng tử của một qubit – một máy tính chỉ dùng qubit loại tốt nhất sẽ cần độ chính xác mỗi cổng ít nhất 99,9999%."
+    },
+    {
+     "t": "p",
+     "text": "Chênh lệch \"số 9\" này tương đương ba cấp độ lớn, và hiện tại là điều không thể đạt được."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Phần cứng lai qubit-boson có thể giúp làm sáng tỏ nhiều bí ẩn quan trọng, chẳng hạn như tương tác giữa phonon (giả hạt mang năng lượng dao động) và điện tử, từ đó cung cấp một bản thiết kế nền tảng cho vật liệu siêu dẫn ở nhiệt độ cao."
+    },
+    {
+     "t": "p",
+     "text": "Công trình này cũng có thể giúp giảm lỗi trong tính toán lượng tử bằng cách cắt giảm số lượng cổng logic qubit phải nối chuỗi với nhau, đồng thời giải phóng thêm tài nguyên bằng cách loại bỏ các \"qubit phụ trợ\" (ancilla qubit) đóng vai trò như lính canh để phát hiện lỗi."
+    },
+    {
+     "t": "p",
+     "text": "Bằng bất kỳ chiến lược nào, những hệ quả của máy tính lượng tử có thể làm thay đổi cả thế giới:"
+    },
+    {
+     "t": "p",
+     "text": "\"Hiểu được cách cây cối vận chuyển ánh sáng mặt trời để biến thành năng lượng, cách một số vật liệu truyền điện mà không bị hao hụt, hay cách thuốc gắn vào mục tiêu của nó trong cơ thể, có thể giúp tạo ra pin năng lượng mặt trời tốt hơn, lưới điện tốt hơn và thuốc tốt hơn,\" các nhà nghiên cứu giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Tất cả đều là những bài toán lượng tử quá khó đối với bất kỳ siêu máy tính cổ điển nào, và tất cả đều liên quan đến boson: dao động hoặc các hạt ánh sáng.\""
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ điều thú vị nhất của công trình này, theo nhấn mạnh của các nhà nghiên cứu, là nó có vẻ sắp trở thành hiện thực trong tương lai gần, vì đây là một khung giải pháp có thể áp dụng được:"
+    },
+    {
+     "t": "p",
+     "text": "Nếu ai đó có thể \"đơn giản\" kết hợp một qubit với một bộ dao động (oscillator), họ có thể đạt được kết quả tính toán lượng tử tốt hơn nhờ sự kết hợp cộng hưởng, đồng thời giảm bớt lượng tài nguyên cần dùng."
+    },
+    {
+     "t": "p",
+     "text": "May mắn là cả qubit và bộ dao động đều là những thứ rất phổ biến."
+    },
+    {
+     "t": "p",
+     "text": "\"Theo tôi, điều đáng mừng nhất trong đề xuất này là yêu cầu về phần cứng khá khiêm tốn. Những thiết bị hiện có trong thời gian gần có thể đáp ứng được yêu cầu này mà không cần phải chờ đến công nghệ sửa lỗi lượng tử (quantum error correction),\" ông Anthony Ciavarella, nhà khoa học nghiên cứu tính toán tại Phòng thí nghiệm Quốc gia Lawrence Berkeley ở California, Mỹ, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Công trình này đưa ra một mục tiêu cụ thể cho việc phát triển phần cứng, và độ chính xác cổng (gate fidelity) cần có cũng gần với mức mà các thiết bị hiện tại đã đạt được.\""
+    }
+   ]
+  },
+  {
+   "id": "5b5976284130",
+   "order": 16,
+   "slug": "phat-hien-dang-hanh-vi-sieu-dan-moi-ma-chung-ta-chua-tung-th",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Phát hiện dạng hành vi siêu dẫn mới mà chúng ta chưa từng thấy trước đây",
+   "sapo": "Các vật liệu ở trạng thái siêu dẫn luôn khiến các nhà khoa học vô cùng quan tâm.",
+   "author": "David Nield",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/new-form-of-superconductor-behavior-discovered-that-weve-never-seen-before",
+   "published": "2026-10-19T02:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 6,
+   "words": 1001,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "New Form of Superconductor Behavior Discovered That We've Never Seen Before",
+   "images": [
+    {
+     "src": "img/2026-10-19/5b5976284130-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-19/5b5976284130-0.jpg",
+     "caption": "Những hàng nguyên tử tellurium, với cách sắp xếp nguyên tử ở góc dưới bên phải và hình trên cho thấy các hoa văn lặp lại – được xem là bằng chứng của sóng mật độ cặp (PDW). (Zhu et al., PNAS, 2026)",
+     "w": 600,
+     "h": 600
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các vật liệu ở trạng thái siêu dẫn luôn khiến các nhà khoa học vô cùng quan tâm."
+    },
+    {
+     "t": "p",
+     "text": "Đó là vì chúng có những đặc tính hiếm gặp – chủ yếu là khả năng dẫn điện mà không có điện trở, không hao hụt năng lượng thành nhiệt – hứa hẹn sẽ thay đổi ngành máy tính, lưới điện và giao thông."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tượng này xảy ra khi các điện tử tự do ngưng tụ thành một trạng thái lượng tử (quantum state) năng lượng thấp ở nhiệt độ rất lạnh, kết đôi với nhau thành cái gọi là cặp Cooper để có thể di chuyển xuyên qua vật liệu mà không bị cản trở."
+    },
+    {
+     "t": "p",
+     "text": "Vào năm 2007, các nhà khoa học đã dự đoán sự tồn tại của một kiểu di chuyển điện tử kỳ lạ hơn, gọi là sóng mật độ cặp (pair density wave - PDW), trong đó các cặp Cooper tạo thành những hoa văn nhất định khi di chuyển, giống như những gợn sóng trên cát."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một nhóm nghiên cứu do các nhà khoa học từ Đại học Illinois tại Urbana-Champaign dẫn đầu đã tìm ra bằng chứng thuyết phục về PDW trên bề mặt kim loại uranium ditelluride, với kết quả được công bố trên tạp chí PNAS."
+    },
+    {
+     "t": "p",
+     "text": "Hơn nữa, các hoa văn này còn được phát hiện tồn tại cả bên ngoài trạng thái siêu dẫn thông thường, điều chưa từng được quan sát thấy trước đây."
+    },
+    {
+     "t": "p",
+     "text": "\"Sóng mật độ cặp giống như nụ cười của Mèo Cheshire trong hiện tượng siêu dẫn,\" nhà vật lý Eduardo Fradkin từ Đại học Illinois tại Urbana-Champaign cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng là dấu tích còn sót lại sau khi trạng thái đó đã biến mất.\""
+    },
+    {
+     "t": "p",
+     "text": "\"Trong các chất siêu dẫn thông thường, cặp Cooper hình thành khi quá trình chuyển pha hoàn tất, nhưng trong hệ này, việc quan sát thấy chúng dưới dạng PDW ngay cả trước điểm chuyển pha cho thấy chúng đã hình thành từ trước, ở một trạng thái khác.\""
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Uranium ditelluride trở thành chất siêu dẫn ở nhiệt độ dưới khoảng 2,1 Kelvin (khoảng -271°C), và đây là vật liệu đặc biệt được các nhà khoa học quan tâm vì được cho là một chất siêu dẫn hiếm gặp thuộc loại \"spin-triplet\", trong đó các điện tử ghép đôi còn mang một hướng từ tính rất nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, các nhà khoa học đã từng phát hiện dấu hiệu của sóng mật độ cặp (PDW) trong kim loại này, và lần này các nhà nghiên cứu đã quan sát kỹ hơn bằng một mẫu uranium ditelluride chất lượng cao được chế tạo đặc biệt."
+    },
+    {
+     "t": "p",
+     "text": "Vật liệu này được khảo sát bằng kính hiển vi quét xuyên hầm từ trường vectơ (vector magnetic field scanning tunneling microscope - STM), một thiết bị có thể đo phản ứng từ theo nhiều hướng khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "\"Một lợi thế quan trọng trong thí nghiệm của chúng tôi là thiết bị nam châm vectơ mới được phát triển, có thể tạo ra phạm vi từ trường rất lớn theo nhiều hướng khác nhau,\" nhà vật lý Zhen Zhu từ Đại học Illinois tại Urbana-Champaign cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách thay đổi có hệ thống cả độ lớn và hướng của từ trường, cùng với nhiệt độ, chúng tôi đã theo dõi được cách các trạng thái này biến đổi, từ đó có thêm cơ sở để tin rằng hiện tượng mình quan sát được là có thật, bắt nguồn từ chính vật liệu.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã xây dựng thêm các mô hình lý thuyết để giải thích những hình mẫu điện tích mà họ quan sát được, cả ở nhiệt độ thấp hơn nhiệt độ tới hạn cần để xảy ra hiện tượng siêu dẫn, và ở nhiệt độ cao hơn đáng kể so với mức đó."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhờ các phương pháp mới để tạo ra mẫu vật chất lượng cao hơn, chúng tôi đã quan sát được những dấu hiệu quang phổ phản ứng với nhiệt độ và từ trường đúng như những gì sóng mật độ cặp được dự đoán sẽ biểu hiện,\" nhà vật lý Vidya Madhavan từ Đại học Illinois tại Urbana-Champaign cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi còn chứng minh được rằng các trạng thái này vẫn tồn tại ở nhiệt độ cao hơn mức mà hiện tượng siêu dẫn biến mất, đây là một dự đoán lý thuyết quan trọng mà trước đây chưa từng được quan sát một cách thuyết phục.\""
+    },
+    {
+     "t": "p",
+     "text": "Điều này không có nghĩa là hiện tượng siêu dẫn toàn khối đang xảy ra trong uranium ditelluride ở nhiệt độ cao hơn, nhưng nó giúp các nhà vật lý hiểu rõ hơn cách các cặp Cooper hoạt động và cách chúng có thể tồn tại bên ngoài trạng thái siêu dẫn thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện này cũng có thể giúp các nhà nghiên cứu hiểu sâu hơn về các nguyên lý vật lý cần thiết để phát triển vật liệu siêu dẫn ở nhiệt độ cao hơn. Những tiến bộ như vậy cuối cùng có thể giúp các vật liệu này được sử dụng rộng rãi hơn."
+    },
+    {
+     "t": "p",
+     "text": "Còn có một loại trạng thái gợn sóng điện tử khác gọi là sóng mật độ điện tích (charge density waves - CDW), trong đó một số điện tử tạo thành các hình mẫu không đồng nhất. Việc hiểu rõ mối liên hệ giữa các sóng này với sóng mật độ cặp sẽ rất quan trọng để giải thích các kết quả thí nghiệm trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "\"PDW rất khó phân tích trong các vật liệu thực tế, vì chúng hoạt động giống như chất siêu dẫn thông thường (conventional superconductor) trong một số thí nghiệm, và giống như CDW trong [những thí nghiệm khác],\" nhà vật lý Julian May-Mann từ Đại học Stanford cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Để xác nhận sự tồn tại của PDW, cần phải có cả dữ liệu thực nghiệm chất lượng cao và phân tích lý thuyết cẩn thận.\""
+    }
+   ]
+  },
+  {
+   "id": "81c4ae1f5e2c",
+   "order": 17,
+   "slug": "tua-nhu-hoa-sua-so-phan-ky-la-cua-loai-cay-gay-tranh-cai-nha",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Tựa như hoa sữa, số phận kỳ lạ của loài cây gây tranh cãi nhất Hàn Quốc",
+   "sapo": "Màu lá vàng phủ khắp các con đường của cây bạch quả, hay còn gọi là ngân hạnh, vào mỗi mùa thu đã trở thành biểu tượng, góp phần thu hút du khách đến với Hàn Quốc. Tuy nhiên, mùi của hoa và trái của cây bạch quả cũng đã khiến xứ sở kim chi chia làm hai phe, tựa như mùi hoa sữa ở Việt Nam.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/tua-nhu-hoa-sua-so-phan-ky-la-cua-loai-cay-gay-tranh-cai-nhat-han-quoc-185261019084612441.htm",
+   "published": "2026-10-19T02:18:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 852,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-19/81c4ae1f5e2c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-19/81c4ae1f5e2c-0.jpg",
+     "caption": "Cây bạch quả thay lá vào mùa thu nhưng cũng mang lại nhiều phiền toái vì mùi hôi",
+     "w": 1280,
+     "h": 1936
+    },
+    {
+     "src": "img/2026-10-19/81c4ae1f5e2c-1.jpg",
+     "caption": "Cây ngân hạnh là biểu tượng mùa thu Hàn Quốc",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tranh cãi giữa những người ủng hộ bạch quả và những người phản đối chưa bao giờ ngừng lại. Trong bối cảnh đó, nỗ lực loại bỏ mùi bạch quả bằng cách thay thế cây cái bằng cây đực là một trong những tranh cãi dữ dội nhất ở Hàn Quốc."
+    },
+    {
+     "t": "h",
+     "text": "Thay cây cái bằng cây đực"
+    },
+    {
+     "t": "p",
+     "text": "Quận Gangnam có nhiều cây xanh đường phố nhất ở Seoul, theo Chosun. Trong số đó, cây bạch quả nhiều nhất với 6.946 cây, với cây cái chiếm 30%."
+    },
+    {
+     "t": "p",
+     "text": "Cây cái cho quả và rụng quả. Lượng quả rụng hàng năm lên tới 4 tấn. Tuy nhiên, chính quyền quận Gangnam phải luôn dọn dẹp, nhưng do hạn chế về ngân sách và nhân lực, họ thực hiện giải pháp giải quyết tận gốc vấn đề: chặt bỏ. Từ năm 2023, quận đã chặt bỏ 115 cây bạch quả cái dọc đường Seolleung-ro và Iwon-ro và thay thế chúng bằng cây bạch quả đực. Đây là hoạt động khử mùi, ngăn chặn khả năng phát sinh mùi bằng cách ngăn ngừa sự hình thành thịt quả."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, tại quận Gangbuk, không còn cây bạch quả cái nào mọc dọc đường phố. Nơi này đã thay thế toàn bộ 1.053 cây bạch quả cái ven đường, không kể những cây trong công viên, bằng cây bạch quả đực. Khi quả bạch quả biến mất khỏi đường phố, những khiếu nại về mùi cũng biến mất."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mùi hôi của quả bạch quả là một vấn đề trên toàn Hàn Quốc. Năm 2024, thành phố Gimhae thuộc tỉnh Nam Gyeongsang thậm chí đã thay cây biểu tượng của thành phố từ bạch quả sang cây trinh nữ. Chính quyền các địa phương cũng tích cực tham gia vào việc \"loại bỏ cây bạch quả cái\". Ví dụ nổi bật nhất là Daejeon. Năm 2025, 926 cây bạch quả đực đã được trồng mới, loại bỏ hoàn toàn cây bạch quả cái ở quận Dong-gu và Jung-gu. Trong ba năm qua, tổng cộng 2.500 cây đã được thay thế, đạt tỷ lệ thay thế 70% trên toàn thành phố. Một nguồn tin từ thành phố cho biết: \"Vì cây bạch quả khó phân biệt giới tính bằng mắt thường, nên chúng tôi đánh dấu chúng bằng sơn trước sau khi quan sát sự hình thành quả vào mùa thu năm trước\"."
+    },
+    {
+     "t": "h",
+     "text": "Một sự việc kỳ lạ đã xảy ra"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2020, khi mỗi mùa thu đều có rất nhiều lời phàn nàn về việc \"mùi hôi thối không thể chịu nổi\" hay \"đường phố trở nên bẩn thỉu\", chính quyền quận Manan-gu, thành phố Anyang đã quyết định hành động. Vào tháng 5 năm đó, họ đã gắn biển hiệu \"♀\" (biểu tượng con cái) lên mỗi cây bạch quả cái. Phản ứng dữ dội bất ngờ đã nổ ra. Một số nhóm phụ nữ và môi trường đã đưa ra tuyên bố phản đối, gọi đó là \"sự kỳ thị bằng cách đánh dấu biểu tượng giới tính để thông báo rằng cây cái phát ra mùi hôi thối và gây hại, nên cần tránh\"."
+    },
+    {
+     "t": "p",
+     "text": "Họ đề xuất: \"Nếu mùi hôi là vấn đề đáng lo ngại, hãy huy động công nhân công cộng trong mùa thu hoạch để thu gom trái cây trước khi chúng bị hỏng\". Làn sóng phản đối ngày càng tăng đã buộc văn phòng quận phải gỡ bỏ tất cả các biển báo cây cái, với lý do, \"Chúng tôi tôn trọng ý kiến của mọi người\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Tranh cãi"
+    },
+    {
+     "t": "p",
+     "text": "Một tấm biển ghi \"Phẫu thuật chuyển đổi giới tính cây bạch quả đang được tiến hành\" được đặt gần những cây bạch quả trong Công viên Chủ đề Sức khỏe Ulsan, thành phố Gwangyang, tỉnh Nam Jeolla. Bằng cách ghép cành - một kỹ thuật thường được sử dụng để cải thiện cây trồng - trên cây ven đường, để đảm bảo rằng cây cái sẽ không ra quả. Một nguồn tin từ thành phố Gwangyang cho biết: \"Những lời phàn nàn về quả rụng gần lối đi bộ đã khiến chúng tôi thử ghép cành đực lên 26 cây bạch quả cái\", và nói thêm, \"Chúng tôi đã hoàn thành dự án hai năm trước, và cho đến nay, vẫn chưa có quả nào hình thành\"."
+    },
+    {
+     "t": "p",
+     "text": "Việc chặt bỏ hay thay thế cây bạch quả đã gây ra các cuộc biểu tình của người dân. Một người khiếu nại: \"Đây không phải là lúc để bỏ tiền bạc và công sức chặt bỏ những cây đã trưởng thành với lý do mùi hôi. Mùi hôi nghiêm trọng bao gồm khí thải ô tô, khói thuốc lá và dầu mỡ nhà hàng\". Dự án đã bị dừng lại. Các ý tưởng như lắp đặt \"lưới hứng quả\" hình ô xung quanh thân cây để ngăn quả rụng được thực hiện. Cũng có những ý kiến rằng: \"Thật đáng tiếc khi mọi người quên đi những lợi ích quanh năm mà cây xanh mang lại và chặt chúng đi chỉ vì họ không thể chịu đựng được 30 ngày của mùa này\"."
+    }
+   ]
+  }
+ ]
+}

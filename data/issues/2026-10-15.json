@@ -1,0 +1,2470 @@
+{
+ "date": "2026-10-15",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-10-15T06:14:51+07:00",
+ "sections": [
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  }
+ ],
+ "articles": [
+  {
+   "id": "4fd1116508e6",
+   "order": 1,
+   "slug": "robot-nasa-lap-ky-luc-quang-duong-xa-nhat-tren-sao-hoa",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Robot NASA lập kỷ lục quãng đường xa nhất trên Sao Hỏa",
+   "sapo": "Hôm 11/10, robot tự hành Perseverance cán mốc di chuyển 45,22 km sau 5,5 năm trên Sao Hỏa, phá vỡ kỷ lục trước đó mà robot Opportunity thiết lập khi chạy 45,16 km trong 14 năm.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/robot-nasa-lap-ky-luc-quang-duong-xa-nhat-tren-sao-hoa-5132178.html",
+   "published": "2026-10-14T06:59:25+07:00",
+   "lang": "vi",
+   "score": 9,
+   "words": 786,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/4fd1116508e6-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    },
+    {
+     "src": "img/2026-10-15/4fd1116508e6-0.jpg",
+     "caption": "Robot Perseverance đang hoạt động ở miệng hố Jezero. Ảnh: NASA",
+     "w": 750,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hôm 11/10, robot tự hành Perseverance cán mốc di chuyển 45,22 km sau 5,5 năm trên Sao Hỏa, phá vỡ kỷ lục trước đó mà robot Opportunity thiết lập khi chạy 45,16 km trong 14 năm."
+    },
+    {
+     "t": "p",
+     "text": "Thông tin được Phòng thí nghiệm Sức đẩy Phản lực (JPL) của NASA công bố hôm 12/10. Theo Reuters , robot Perseverance - cỗ xe tự hành 6 bánh của NASA, lập kỷ lục về quãng đường dài nhất mà bất kỳ phương tiện nào từng đạt được ngoài Trái Đất. Cả Perseverance và Opportunity đều vượt qua quãng đường của bất kỳ robot tự hành nào từng đạt được trên Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Space cho biết, Perseverance hạ cánh xuống đáy miệng hố Jezero rộng 46 km ở bắc bán cầu của Sao Hỏa vào ngày 18/2/2021. Đội ngũ kỹ sư NASA chế tạo Perseverance dựa trên nhiều năm kinh nghiệm với các robot Sojourner, Spirit, Opportunity và Curiosity. Robot Perseverance lớn ngang một chiếc ôtô nhỏ, trang bị một loạt thiết bị khoa học nhằm tìm kiếm bằng chứng về sự sống vi sinh vật cổ xưa trên hành tinh đỏ, đồng thời thu thập mẫu đất đá để đưa về Trái Đất trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Robot tự hành của NASA vượt qua cột mốc quan trọng hôm 11/10 khi chạy đến khu vực Idubi, qua vùng ngoài rìa phía tây mang tên Lac de Charmes của miệng hố. Đây là nơi nó đang khảo sát một số địa hình cổ xưa nhất từng tìm thấy trong hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Perseverance là một trong hai robot của NASA đang di chuyển trên bề mặt Sao Hỏa, với rover Curiosity hoạt động ở miệng núi lửa Gale gần xích đạo hành tinh. Curiosity đã di chuyển 38,15 km từ khi hạ cánh tại đây vào năm 2012."
+    },
+    {
+     "t": "p",
+     "text": "Steven Lee, quản lý hai dự án robot của JPL ở California, cho biết Perseverance không có dấu hiệu chạy chậm lại. Hệ thống điện dựa trên plutonium của robot đang hoạt động như dự kiến và có thể cung cấp thêm năng lượng hữu ích trong nhiều năm nữa."
+    },
+    {
+     "t": "p",
+     "text": "\"Phần cứng kỹ thuật và các thiết bị của Perseverance ở trạng thái tuyệt vời với tất cả hệ thống dự phòng vẫn sử dụng được. Đánh giá gần đây về mọi hệ thống cho thấy chúng có khả năng vận hành tốt đến thập niên 2030 hoặc lâu hơn\", Lee chia sẻ với Reuters ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Perseverance hoạt động dựa vào khả năng tự lái với hệ thống điều hướng tự động gọi là AutoNav. Lee cho biết, robot tự thực hiện 90% chuyến đi của nó mà không cần sự can thiệp của con người. Perseverance chụp ảnh stereo của địa hình phía trước, tạo ra bản đồ phần mềm 3D và chọn con đường an toàn nhất đến mục tiêu. Nó cũng sử dụng Vision Compute Element, máy tính đồng xử lý cho phép phân tích hình ảnh và chạy phần mềm tự lái nhanh chóng, thay vì dừng lại để cân nhắc trước mỗi quãng đường như những robot tự hành trước đây."
+    },
+    {
+     "t": "p",
+     "text": "Theo Lee, hệ thống di chuyển của Perseverance đang được thử nghiệm để chứng minh nó có khả năng chạy được từ 100 km trở lên. Để chuẩn bị cho mục tiêu này, các linh kiện phần cứng sẽ được kiểm tra độ bền ở mức tương đương 150-300 km."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến nay, thành tựu lớn nhất của robot này là phát hiện dấu hiệu sinh học tiềm năng của sự sống vi sinh vật cổ xưa trong mẫu đá màu đỏ có thể hình thành cách đây 3,2-3,8 tỷ năm ở lòng sông cung cấp nước cho hồ tại miệng hố Jezero. Địa hình Lac de Charmes có thể chứa manh mối về những quá trình địa chất thuở sơ khai như tác động của va chạm thiên thạch lớn. Miệng hố Jezero cũng ra đời từ một vụ va chạm như vậy trong lịch sử Sao Hỏa."
+    },
+    {
+     "t": "p",
+     "text": "Theo New York Times , nhiệm vụ ban đầu của Perseverance là chạy 20 km. Gần đây, NASA đã gia hạn nhiệm vụ của nó để khám phá rìa miệng hố cho đến khoảng cuối năm 2028. Trong giai đoạn hoạt động tiếp theo của Perseverance ở phía nam vành miệng hố, đội phụ trách dự án hướng tới khu vực gọi là \"Rainbow Falls\" có thể chứa kaolinite, khoáng chất đất sét hình thành khi nước tương tác với đá. Bằng cách nghiên cứu loại khoáng chất này, các nhà khoa học có thể hiểu rõ hơn điều kiện trên Sao Hỏa hàng tỷ năm trước khi nước lấp đầy miệng hố Jezero."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "35d6d458dea9",
+   "order": 2,
+   "slug": "cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-huyen-thoai-luc-si",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Huyền thoại lực sĩ Lê Văn Công hạnh phúc còn sức khỏe để cống hiến",
+   "sapo": "Lê Văn Công là một trong những vận động viên tiêu biểu của thể thao người khuyết tật Việt Nam. Tại Paralympic Rio 2016, anh giành Huy chương Vàng, nâng thành công 183kg và phá kỷ lục Paralympic hạng cân 49kg.",
+   "author": "DIỆU LINH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-huyen-thoai-luc-si-le-van-cong-hanh-phuc-con-suc-khoe-de-cong-hien-100261013150033214.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 199,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/35d6d458dea9-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Huyền thoại lực sĩ Lê Văn Công: Còn sức khỏe để cống hiến là hạnh phúc - Tác giả: DIỆU LINH"
+    },
+    {
+     "t": "p",
+     "text": "Hơn 20 năm gắn bó với cử tạ, ở tuổi ngoài 40, Lê Văn Công vẫn duy trì việc tập luyện mỗi ngày, điều chỉnh giáo án theo thể trạng và tiếp tục hướng đến những mục tiêu mới."
+    },
+    {
+     "t": "p",
+     "text": "Với cử tạ người khuyết tật, giáo án được xây dựng theo từng dạng thương tật, từng thể trạng. Riêng với Lê Văn Công, những bài tập cũng được điều chỉnh để vừa duy trì sức mạnh, vừa hạn chế tác động lên những vùng cơ thể đang bị chấn thương."
+    },
+    {
+     "t": "p",
+     "text": "Phía sau một lực sĩ nhiều năm đứng trên bục huy chương là một cuộc sống rất đỗi bình thường. Năm 2008, Công kết hôn với người vợ quê Nghệ An. Hai vợ chồng có hai người con, một bé trai sinh năm 2010 và một bé gái sinh năm 2016."
+    },
+    {
+     "t": "p",
+     "text": "Nếu trên sàn đấu, Công là người phải tự mình đối diện với mức tạ, thì ở nhà, phía sau anh luôn có một hậu phương âm thầm giữ cho cuộc sống gia đình được cân bằng."
+    }
+   ]
+  },
+  {
+   "id": "4d95f432162c",
+   "order": 3,
+   "slug": "sao-hoa-va-chom-sao-to-ong-duoi-anh-cuc-quang",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Sao Hỏa và chòm sao Tổ Ong dưới ánh cực quang",
+   "sapo": "Thật là một sự trùng hợp kỳ thú của vũ trụ! Trong bức ảnh hôm nay, sao Hỏa xuất hiện cùng chòm sao Tổ Ong, bên dưới một dải cực quang và phía trên đường chân trời có những hàng cây nhỏ xinh gần Lansjärv, Thụy Điển.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+   "published": "2026-10-14T04:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 255,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Mars and the Beehive Under an Aurora",
+   "images": [
+    {
+     "src": "img/2026-10-15/4d95f432162c-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/4d95f432162c-0.jpg",
+     "caption": "Sao Hỏa sáng rực nằm gần trung tâm chòm sao Tổ Ong (M44) ở đường chân trời của bầu trời. Phía trên là một dải cực quang nhiều màu sắc, trông như một tấm màn ánh sáng. Phía trước là những hàng cây tối và một dòng sông.",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thật là một sự trùng hợp kỳ thú của vũ trụ! Trong bức ảnh hôm nay, sao Hỏa xuất hiện cùng chòm sao Tổ Ong (M44, còn gọi là Praesepe), bên dưới một dải cực quang và phía trên đường chân trời có những hàng cây nhỏ xinh gần Lansjärv, Thụy Điển. Một vụ phun trào từ Mặt Trời đã đến Trái Đất vào ngày 10 tháng 10 năm 2026, gây ra những nhiễu động mạnh trong từ trường của Trái Đất. Các hạt năng lượng cao từ vụ phun trào va vào các phân tử trong khí quyển Trái Đất và truyền năng lượng cho chúng, khiến chúng giải phóng phần năng lượng dư đó dưới dạng cực quang nhiều màu sắc được ghi lại trong ảnh này. Cực quang, hay guovssahasat theo tiếng Sámi phương Bắc, từ lâu đã được người Sámi - những người bản địa ở Thụy Điển và các vùng Bắc Cực khác - xem với sự tôn trọng đặc biệt. Một sự trùng hợp nữa là vào thời điểm đó, sao Hỏa xuất hiện gần trung tâm chòm sao Tổ Ong nhất trên bầu trời. Tuy loài ong đã từng được đưa lên vũ trụ, nhưng chòm sao Tổ Ong thực chất là một đám các ngôi sao trẻ. Chu kỳ quay của chúng đã giúp con người hiểu được cách các ngôi sao quay chậm dần theo thời gian khi chúng mất dần khối lượng qua gió sao (stellar winds). Hình ảnh ngày mai: không gian rộng mở"
+    }
+   ]
+  },
+  {
+   "id": "66eb35d524c0",
+   "order": 4,
+   "slug": "cho-duong-nhu-cung-dong-y-voi-con-nguoi-bouba-la-tron-va-kik",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Chó dường như cũng đồng ý với con người: 'Bouba' là tròn và 'Kiki' là nhọn",
+   "sapo": "Hãy hình dung một hình có tên là 'Bouba'.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "published": "2026-10-13T23:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 782,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Dogs Seem to Agree With Humans That 'Bouba' Is Round And 'Kiki' Is Spiky",
+   "images": [
+    {
+     "src": "img/2026-10-15/66eb35d524c0-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/66eb35d524c0-0.jpg",
+     "caption": "Những hình được dùng trong thí nghiệm 'bouba/kiki'. (Andrew Dunn/Wikimedia Commons/CC BY-SA 3.0)",
+     "w": 600,
+     "h": 243
+    },
+    {
+     "src": "img/2026-10-15/66eb35d524c0-1.jpg",
+     "caption": "Cách bố trí thí nghiệm với hai màn hình, và các bước phân tích bằng máy tính để nhận diện hướng đầu và góc nhìn của chó. (Biffi và cộng sự, Proc. R. Soc. B, 2026)",
+     "w": 1280,
+     "h": 256
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hãy hình dung một hình có tên là 'Bouba'. Hình đó có đặc điểm gì? Nó có góc nhọn, tròn, mềm hay cứng? Còn hình tên 'Kiki' thì sao?"
+    },
+    {
+     "t": "p",
+     "text": "Câu hỏi này không có đáp án đúng, vì những từ đó đều là từ bịa ra. Nhưng kỳ lạ là hầu hết mọi người khi được hỏi câu này - bất kể họ nói hay viết bằng ngôn ngữ hay chữ viết nào - đều đồng ý rằng Kiki là hình nhọn, còn Bouba là hình tròn."
+    },
+    {
+     "t": "p",
+     "text": "Thí nghiệm tâm lý học thú vị này được nghĩ ra lần đầu vào những năm 1920, và nó cho thấy có thể tồn tại một điều gì đó mang tính phổ quát trong cách con người kết nối thông tin hình ảnh, như hình dạng, với âm thanh."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, một nghiên cứu mới công bố trên tạp chí Proceedings of the Royal Society B: Biological Sciences cho thấy ngay cả những người bạn bốn chân của chúng ta cũng có thể theo xu hướng này."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhà nghiên cứu hành vi động vật Eleonora Biffi tại Đại học Parma, Ý, đã dẫn đầu nghiên cứu này."
+    },
+    {
+     "t": "p",
+     "text": "Cô và nhóm của mình đã tuyển 70 con chó nhà để tham gia vào hai thí nghiệm gần như giống nhau."
+    },
+    {
+     "t": "p",
+     "text": "Thí nghiệm đầu tiên có sự tham gia của 51 con chó cùng chủ của chúng. Mỗi cặp chó và chủ bước vào một căn phòng được bố trí một màn hình và một loa ở bên trái, và một màn hình cùng loa khác ở bên phải."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi để chó có thời gian khám phá phòng và ổn định, người chủ ngồi cùng chó, quay mặt về giữa khu vực bố trí, trong khi màn hình và loa phát nội dung."
+    },
+    {
+     "t": "p",
+     "text": "Trong khoảng 15 phút, màn hình và loa lần lượt phát các kết hợp khác nhau: giọng người đọc 'Bouba' hoặc 'Kiki' qua loa, còn hai hình nói trên thì đổi chỗ qua lại giữa màn hình trái và phải."
+    },
+    {
+     "t": "p",
+     "text": "Trong lúc đó, một camera GoPro ghi hình từng con chó suốt các lượt thử nghiệm. Sau đó, các nhà nghiên cứu đưa những đoạn video này vào một hệ thống AI được thiết kế để theo dõi hướng đầu của chó - coi đó như dấu hiệu cho biết chúng đang nhìn về đâu - để kiểm tra xem có xuất hiện khuôn mẫu nào có ý nghĩa thống kê, vượt ra ngoài mức ngẫu nhiên hay không."
+    },
+    {
+     "t": "p",
+     "text": "Thí nghiệm thứ hai có 19 con chó khác tham gia, được thiết kế giống hệt thí nghiệm đầu, chỉ khác là lần này người nuôi chó đeo tai nghe phát nhạc rock để không nghe được âm thanh \"Bouba\" và \"Kiki\". Mục đích là để loại bỏ bất kỳ dấu hiệu nào mà người nuôi có thể vô tình đưa ra khiến chó làm theo."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhìn chung, Biffi và nhóm nghiên cứu cho biết \"những con chó nhìn hình tròn nhiều hơn rõ rệt khi âm 'Bouba' được phát, và chúng nhìn cũng như khám phá hình gai nhọn khi âm 'Kiki' được phát\"."
+    },
+    {
+     "t": "p",
+     "text": "Sự khác biệt chính giữa hai thí nghiệm là ở thí nghiệm 1, những con chó có xu hướng chung là nhìn vào hình gai nhọn nhiều hơn. Xu hướng đó biến mất ở thí nghiệm 2, khi người nuôi chó đeo tai nghe."
+    },
+    {
+     "t": "p",
+     "text": "\"Có thể giả định rằng những con chó đã bị ảnh hưởng bởi những dấu hiệu vô tình từ người nuôi. Nhưng vì con người thường có xu hướng thích hình tròn hoặc hình cong hơn là hình gai nhọn, nên khả năng này khó xảy ra,\" các tác giả viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Một cách giải thích khác có thể là: đối với loài chó, cấu trúc khuôn mặt của chúng, đặc biệt nếu xét đến loài chó cổ đại và sói, thường có những đường nét góc cạnh, 'gai nhọn' hơn, khác với khuôn mặt tròn đặc trưng ở trẻ sơ sinh loài người, và điều này có thể góp phần tạo ra một xu hướng thiên lệch ngược lại.\""
+    },
+    {
+     "t": "p",
+     "text": "Vẫn còn cần rất nhiều nghiên cứu nữa trước khi các nhà khoa học có thể khẳng định chắc chắn rằng loài chó liên tưởng âm \"Bouba\" với hình tròn và âm \"Kiki\" với hình sắc nhọn."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng những kết quả này là một điểm khởi đầu thú vị để tìm hiểu những câu hỏi lớn hơn, chẳng hạn như vì sao loài chó lại nhanh nhạy trong việc nắm bắt ngôn ngữ của con người, và bằng cách nào chúng đã trở thành những người bạn thân thiết của chúng ta ngay từ ban đầu."
+    }
+   ]
+  },
+  {
+   "id": "57b1a69ca2b1",
+   "order": 5,
+   "slug": "chandra-cua-nasa-giai-ma-vu-va-cham-cum-thien-ha-hinh-khoa-s",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Chandra của NASA giải mã vụ va chạm cụm thiên hà hình \"khóa Son\"",
+   "sapo": "Các nhà thiên văn học đã dùng Đài quan sát tia X Chandra của NASA để tìm ra nguyên nhân tạo nên một hình dạng sóng radio đặc biệt mà họ gọi vui là \"khóa Son\" (Treble Clef)",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+   "published": "2026-10-14T16:46:58+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1258,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+   "images": [
+    {
+     "src": "img/2026-10-15/57b1a69ca2b1-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 953
+    },
+    {
+     "src": "img/2026-10-15/57b1a69ca2b1-0.jpg",
+     "caption": "Nhờ Chandra, các nhà thiên văn học đã phát hiện ra rằng một vụ bùng phát năng lượng từ hố đen siêu nặng (supermassive black hole), tiếp theo là một vụ va chạm giữa hai cụm thiên hà, có thể là nguyên nhân tạo nên hình dạng kỳ lạ này trong một cụm thiên hà. Nguồn sóng radio \"khóa Son\" được đặt tên như vậy vì hình dạng đặc biệt của nó trong sóng radio rất giống với ký hiệu âm nhạc này. Bức ảnh ghép này về \"khóa Son\" và cụm thiên hà của nó kết hợp dữ liệu tia X từ Chandra và eROSITA, dữ liệu radio từ LOFAR, và dữ liệu hồng ngoại từ UKIRT.",
+     "w": 1280,
+     "h": 952
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà thiên văn học đã dùng Đài quan sát tia X Chandra của NASA để tìm ra nguyên nhân tạo nên một hình dạng sóng radio đặc biệt mà họ gọi vui là \"khóa Son\", vì hình dạng rõ nét của nó rất giống với ký hiệu âm nhạc này."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu phát hiện ra rằng hình \"khóa Son\" này có thể được tạo ra bởi một vụ bùng phát năng lượng từ hố đen siêu nặng, sau đó là một vụ va chạm giữa hai cụm thiên hà. Một bài báo khoa học trình bày phát hiện này, do Andrea Botteon thuộc Viện Vật lý thiên văn Quốc gia (National Institute for Astrophysics, viết tắt là INAF) của Ý dẫn đầu, đã được công bố vào hôm thứ Tư trên tạp chí Astronomy & Astrophysics."
+    },
+    {
+     "t": "p",
+     "text": "Việc tìm ra lời giải thích cho hình \"khóa Son\" này đặc biệt khó khăn vì nó nằm gần như ngay phía sau mặt phẳng của dải Ngân Hà, nghĩa là các vì sao, khí và bụi từ chính thiên hà của chúng ta che chắn hầu hết tầm nhìn từ Trái Đất. Tuy nhiên, bằng cách sử dụng các kính viễn vọng có thể nhìn xuyên qua lớp vật chất che chắn đó, một nhóm nghiên cứu đã xác định được điều gì đã tạo ra cấu trúc hiếm gặp này."
+    },
+    {
+     "t": "p",
+     "text": "Chandra của NASA và kính viễn vọng tia X eROSITA (viết tắt của Extended RÖntgen Survey with an Imaging Telescope Array) của Đức đã phát hiện ra một luồng khí nóng loãng tại vị trí của \"khóa Son\", cho thấy một cụm thiên hà đang chứa vật thể này. Các nhà nghiên cứu cũng xác định rằng cụm thiên hà này thực ra là hai cụm đang trong quá trình hợp nhất. Cụm thiên hà là một trong những cấu trúc lớn nhất trong vũ trụ, chứa hàng trăm thiên hà riêng lẻ cùng những lượng khí siêu nóng khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh ghép mới này về \"khóa Son\" và cụm thiên hà của nó cho thấy luồng khí có nhiệt độ lên tới hàng triệu độ được Chandra và eROSITA phát hiện bằng tia X, hiển thị màu xanh, trong đó một phần dữ liệu từ Chandra được xử lý bằng một kỹ thuật đặc biệt mà các tác giả dùng để làm nổi bật những đặc điểm quan trọng. Dữ liệu radio hiển thị màu đỏ, thu được từ mạng lưới kính viễn vọng radio LOFAR (LOw Frequency ARray) - một hệ thống lớn các kính viễn vọng radio ở châu Âu - cho thấy hình dạng giống ký hiệu âm nhạc. Phần cuối cùng của bức ảnh ghép là dữ liệu hồng ngoại thu được từ Kính viễn vọng hồng ngoại Vương quốc Anh (United Kingdom Infrared Telescope), hiển thị chủ yếu màu trắng."
+    },
+    {
+     "t": "p",
+     "text": "Các tác giả kết luận rằng hình \"khóa Son\" này có thể đã hình thành qua một quá trình gồm hai giai đoạn. Đầu tiên, một vụ bùng phát năng lượng trước đó từ hố đen siêu nặng ở trung tâm cụm thiên hà đã đẩy những đám mây hạt mang điện và từ trường ra xa với tốc độ gần bằng tốc độ ánh sáng. Điều này tạo ra một kiểu \"cao điểm\" vũ trụ, ban đầu phát ra sóng radio sáng rực, rồi mờ dần đi khi các hạt mất năng lượng. Sau đó, vụ va chạm giữa hai cụm thiên hà đã nén lại hoặc tiếp thêm năng lượng cho đám mây này, khiến nó sáng trở lại trong sóng radio. Các sóng xung kích - tương tự như tiếng nổ siêu thanh từ máy bay vượt âm thanh - sinh ra từ vụ va chạm có thể đã góp phần vào quá trình tiếp năng lượng này."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm ra dấu hiệu của vụ va chạm giữa hai cụm thiên hà trong dữ liệu Chandra, các tác giả đã dùng một kỹ thuật đặc biệt để xem xét mức độ lệch của luồng khí nóng trong cụm thiên hà so với một hình dạng đối xứng. Phần lớn luồng khí nóng này có hình đối xứng, gần giống hình bầu dục. Các tác giả đã loại bỏ hình bầu dục đối xứng này khỏi ảnh tia X ban đầu. Phần tia X còn lại trong ảnh \"dư\" cho thấy nó sáng nhất ở hai bên trái và phải, và mờ nhất ở phần trung tâm. Bức ảnh ghép mới kết hợp cả ảnh tia X gốc và ảnh tia X \"dư\" này."
+    },
+    {
+     "t": "p",
+     "text": "Những vùng tia X sáng hơn trong ảnh \"dư\", nằm ở hai bên trái và phải so với trung tâm cụm thiên hà, cho thấy vụ va chạm giữa hai cụm thiên hà có thể đã xảy ra theo hướng trái-phải như nhìn thấy trong ảnh. Các nhà nghiên cứu cho rằng vụ va chạm trực tiếp giữa hai cụm thiên hà này đã xảy ra cách đây vài trăm triệu năm, và hiện giờ hai cụm đang di chuyển ra xa nhau."
+    },
+    {
+     "t": "p",
+     "text": "Sự giống nhau với hình khóa Son chỉ là một trường hợp của hiện tượng pareidolia - hiện tượng con người nhìn thấy những hình dạng quen thuộc trong những dữ liệu ngẫu nhiên - vì thực ra không có liên hệ khoa học nào với ký hiệu âm nhạc đó cả."
+    },
+    {
+     "t": "p",
+     "text": "Trung tâm bay vũ trụ Marshall của NASA tại Huntsville, Alabama, quản lý chương trình Chandra. Trung tâm tia X Chandra của Đài quan sát Vật lý thiên văn Smithsonian điều hành các hoạt động khoa học từ Cambridge, Massachusetts, và các hoạt động bay từ Burlington, Massachusetts."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm hiểu thêm về Chandra, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://nasa.gov/chandra"
+    },
+    {
+     "t": "h",
+     "text": "Mô tả hình ảnh"
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh lần này là một ảnh ghép, cho thấy một hình thù sóng radio kỳ lạ trông giống hệt ký hiệu âm nhạc khóa son, lơ lửng giữa hai cụm thiên hà đang va chạm với nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trong ảnh, các thiên hà thuộc hai cụm thiên hà, cùng với những ngôi sao và thiên hà ở gần và ở xa, rải đầy những đốm sáng nhỏ trên nền đen của vũ trụ. Ở chính giữa bức ảnh là một đám mây lớn hình bầu dục, màu xanh tím, với các cạnh lởm chởm không đều. Đây là một đám mây khí có nhiệt độ lên tới hàng triệu độ nằm trong hai cụm thiên hà, được kính viễn vọng Chandra và eROSITA (Extended RÖntgen Survey with an Imaging Telescope Array - Khảo sát Röntgen mở rộng bằng mảng kính viễn vọng ảnh) phát hiện qua tia X."
+    },
+    {
+     "t": "p",
+     "text": "Ở giữa vùng màu tím, hơi nghiêng sang bên trái của chúng ta, là hình thù trông giống như một khóa son khổng lồ, được vẽ phác bằng bút dạ quang màu hồng neon. Giống như ký hiệu âm nhạc mà nó được đặt tên theo, hình thù này có một nét sổ dọc mạnh mẽ, cùng một đường cong liền mạch uốn lượn qua lại khi chạy từ trên xuống dưới."
+    },
+    {
+     "t": "p",
+     "text": "Hình thù sóng radio này dường như là kết quả của một quá trình gồm hai giai đoạn. Đầu tiên, các hạt mang điện và từ trường bị đẩy ra từ một lỗ đen siêu khối lượng, tạo ra những sóng radio sáng rực. Những sóng đó sau đó mờ dần và mất năng lượng theo thời gian, trước khi được tiếp thêm năng lượng và nén lại khi hai cụm thiên hà va chạm vào nhau."
+    }
+   ]
+  },
+  {
+   "id": "550aa79730b3",
+   "order": 6,
+   "slug": "nasa-phat-trien-pin-de-tiep-suc-cho-con-nguoi-tro-lai-mat-tr",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA phát triển pin để tiếp sức cho con người trở lại Mặt Trăng",
+   "sapo": "Nếu bạn từng thấy xe mình khởi động yếu ớt, hoặc không nổ máy được, vào một buổi sáng mùa đông quá lạnh, chắc bạn đã biết pin thông thường rất \"ghét\" cái lạnh khắc nghiệt.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+   "published": "2026-10-14T14:41:21+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1363,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+   "images": [
+    {
+     "src": "img/2026-10-15/550aa79730b3-lead.jpg",
+     "caption": "",
+     "w": 1023,
+     "h": 731
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nếu bạn từng thấy xe mình khởi động yếu ớt, hoặc không nổ máy được, vào một buổi sáng mùa đông quá lạnh, chắc bạn đã biết pin thông thường rất \"ghét\" cái lạnh khắc nghiệt. Đó là lý do các nhà nghiên cứu của NASA đang nỗ lực phát triển một loại pin có thể hoạt động được trong cái lạnh khủng khiếp ở cực Nam Mặt Trăng, nơi nhiệt độ ban đêm hạ xuống tới âm 200 độ C."
+    },
+    {
+     "t": "p",
+     "text": "Với các hoạt động trên Mặt Trăng trong tương lai, pin sẽ cần hoạt động ngay khi được làm nóng lên, và có thể cấp điện cho mọi thứ, từ bộ dụng cụ khẩn cấp của phi hành gia cho đến xe tự hành (rover) có khả năng thám hiểm những miệng núi lửa tối tăm nhất của Mặt Trăng — tất cả mà không gây nguy cơ cháy nổ."
+    },
+    {
+     "t": "p",
+     "text": "Một nhóm các nhà nghiên cứu của NASA đang nỗ lực để biến điều đó thành sự thật. Dự án này có tên là SPEARS (Solid Power for Extreme Environment Adaptability and Resilience in Space - Pin thể rắn cho khả năng thích ứng và chịu đựng trong môi trường khắc nghiệt ngoài không gian), và nó có thể trở thành một công cụ quan trọng giúp NASA duy trì sự hiện diện lâu dài của con người trên Mặt Trăng thông qua chương trình Artemis."
+    },
+    {
+     "t": "p",
+     "text": "\"Pin đã trở thành một phần quan trọng trong cuộc sống của chúng ta trên Trái Đất, giúp cho máy tính xách tay, điện thoại di động, dụng cụ điện, và cả xe cộ của chúng ta hoạt động được,\" ông Donald Dornbusch, trưởng nhóm nghiên cứu dự án SPEARS tại Trung tâm Nghiên cứu Glenn của NASA ở thành phố Cleveland, nơi dự án này được chỉ đạo, cho biết. \"Chúng ta cũng sẽ cần pin trên Mặt Trăng, và những viên pin này phải hoạt động một cách tin cậy và an toàn trong môi trường khắc nghiệt đó. Đó là lý do chúng tôi đang nghiên cứu công nghệ này.\""
+    },
+    {
+     "t": "p",
+     "text": "Pin lithium-ion truyền thống, như loại trong điện thoại và máy tính xách tay của bạn, có một điểm yếu lớn: chúng dùng chất điện phân (electrolyte) dạng lỏng. Nếu làm lạnh một viên pin thông thường xuống đến mức nhiệt độ ban đêm trên Mặt Trăng, chất lỏng đó sẽ đóng băng, có thể làm hỏng pin. Còn nếu làm nóng pin quá mức — chẳng hạn lên tới nhiệt độ ban ngày trên Mặt Trăng là 100 độ C — pin sẽ không hoạt động được cho tới khi nguội lại. Và nếu đưa chất lỏng đó vào môi trường chân không của vũ trụ, nó sẽ bốc hơi."
+    },
+    {
+     "t": "p",
+     "text": "Pin SPEARS giải quyết những vấn đề này bằng cách thay chất điện phân dạng lỏng bằng một loại vật liệu rắn làm từ gốm hoặc polymer. Sự thay đổi này có thể mang lại nhiều lợi ích. Trước hết và quan trọng nhất, pin có thể hoạt động được cả trong nhiệt độ nóng và lạnh cực độ."
+    },
+    {
+     "t": "p",
+     "text": "Trong một đợt thử nghiệm gần đây trong buồng chân không nhiệt tại Trung tâm Nghiên cứu Langley của NASA ở thành phố Hampton, bang Virginia, các mẫu pin thử nghiệm nhỏ đã hoạt động tốt ở nhiệt độ lên tới 80 độ C, xuống tới âm 60 độ C, và vẫn hoạt động được dù hiệu suất giảm nhẹ khi xuống tới âm 80 độ C."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đã chứng minh lần đầu tiên rằng những viên pin này có thể hoạt động được ở nhiệt độ âm 80 độ C,\" ông Yi Lin, trưởng nhóm nghiên cứu và thử nghiệm dự án SPEARS tại Trung tâm Langley của NASA, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Ông Lin cũng nói ông tin tưởng rằng họ có thể cải thiện hiệu suất pin, và thậm chí có thể còn mở rộng được giới hạn nhiệt độ đó trong những năm tới."
+    },
+    {
+     "t": "p",
+     "text": "Những viên pin này cần phải hoạt động đáng tin cậy dù phải trải qua những biến đổi nhiệt độ cực lớn giữa ngày và đêm trên Mặt Trăng. Thử nghiệm trong buồng chân không nhiệt cho thấy sau khi bị đưa qua các mức nhiệt độ cực đoan, từ 100 độ C xuống tới âm 170 độ C, pin SPEARS không bị hư hại."
+    },
+    {
+     "t": "h",
+     "text": "Cũng giống như hóa chất bên trong tai nghe nhét tai khác với hóa chất trong điện thoại, và khác với hóa chất trong ô tô, tất cả các loại hóa chất này vẫn có thể hoạt động với chất điện phân thể rắn (solid electrolyte). Chúng tôi có thể điều chỉnh để tối ưu năng lượng, công suất hay độ bền, tùy theo mục đích sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Yi Lin"
+    },
+    {
+     "t": "p",
+     "text": "Trưởng nhóm thử nghiệm và nghiên cứu của dự án SPEARS"
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả pin thể rắn (solid-state battery) cũng không thể hoạt động ở nhiệt độ thấp tới âm 274 độ F (khoảng âm 170 độ C). Nhưng vì chất điện phân thể rắn không bị đông cứng như chất lỏng, nên loại pin này vẫn có thể sống sót qua cái lạnh khắc nghiệt đó."
+    },
+    {
+     "t": "p",
+     "text": "Để pin hoạt động trở lại sau khi bị lạnh như vậy, người ta cần dùng đến những chiếc máy sưởi nhỏ. Pin SPEARS không cần phải được giữ ấm liên tục, mà chỉ cần làm ấm lên đến nhiệt độ hoạt động là đủ. Điều này có thể giúp giảm bớt nhu cầu dùng các hệ thống kiểm soát nhiệt độ cồng kềnh trên tàu vũ trụ và các khu nhà ở trên Mặt Trăng, nhờ đó thiết kế nhẹ hơn, chi phí thấp hơn và nhiệm vụ có thể kéo dài hơn."
+    },
+    {
+     "t": "p",
+     "text": "Những ứng dụng của loại pin thể rắn này gần như là vô hạn, từ các công cụ nhỏ như máy khoan phải hoạt động trong các miệng hố tối trên Mặt Trăng, cho đến xe tự hành (rover) và các gói pin dự phòng khẩn cấp cho các phi hành gia. Chúng cũng có thể cung cấp năng lượng cho các thiết bị khoa học cần hoạt động trong thời gian dài."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi có thể điều chỉnh thành phần hóa học bằng cách sử dụng các vật liệu điện cực khác nhau,\" Lin cho biết. \"Cũng giống như hóa chất bên trong tai nghe nhét tai khác với hóa chất trong điện thoại, và khác với hóa chất trong ô tô, tất cả các loại hóa chất này vẫn có thể hoạt động với chất điện phân thể rắn. Chúng tôi có thể điều chỉnh để tối ưu năng lượng, công suất hay độ bền, tùy theo mục đích sử dụng.\""
+    },
+    {
+     "t": "p",
+     "text": "Dù SPEARS được thiết kế cho không gian vũ trụ, công nghệ này vẫn có thể được áp dụng cho các mục đích trên Trái Đất. Thực tế, SPEARS được phát triển từ một dự án pin trước đó mà Lin và Dornbusch từng thực hiện, tập trung vào các ứng dụng hàng không."
+    },
+    {
+     "t": "p",
+     "text": "\"Thị trường tiềm năng cho pin thể rắn là rất rộng lớn,\" Ji Su, một nhà khoa học vật liệu polymer và là trưởng nhóm dự án tại Trung tâm Nghiên cứu Langley của NASA, cho biết. \"Ô tô, điện thoại di động, thiết bị liên lạc, máy bay không người lái (drone) — bất cứ thứ gì cần nguồn điện di động.\""
+    },
+    {
+     "t": "p",
+     "text": "Dự án SPEARS bắt đầu vào năm 2026, được tài trợ bởi bộ phận Nghiên cứu và Công nghệ Tiên tiến thuộc Ban Giám đốc Nhiệm vụ Nghiên cứu và Công nghệ của cơ quan này. Trong giai đoạn đầu, dự án sẽ tập trung vào việc phát triển công nghệ, trước khi có thể chuyển hướng sang hợp tác thương mại. Trung tâm Nghiên cứu Ames của NASA tại Thung lũng Silicon, bang California, đang nghiên cứu chế tạo các thiết bị phần cứng phục vụ chuyến bay như bảng mạch thử nghiệm và các linh kiện điện tử, nhằm giúp chuẩn bị cho pin SPEARS trước khi bay vào vũ trụ và thử nghiệm trong môi trường không gian."
+    }
+   ]
+  },
+  {
+   "id": "66a46331d3e6",
+   "order": 7,
+   "slug": "phat-hien-rua-nui-vang-di-lac-giua-duong-o-dong-thanh-chu-qu",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Phát hiện rùa núi vàng 'đi lạc' giữa đường ở Đông Thạnh, chủ quán cà phê liền giao nộp công an",
+   "sapo": "Thấy con rùa lấm lem đất cát đang bò giữa đường, bà Trần Thị Thu Hương, chủ quán cà phê ở xã Đông Thạnh (TP.HCM), liền đưa vào nhà. Qua tìm hiểu biết đây là rùa núi vàng quý hiếm, bà mau chóng giao nộp Công an xã.",
+   "author": "NGỌC KHẢI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/phat-hien-rua-nui-vang-di-lac-giua-duong-o-dong-thanh-chu-quan-ca-phe-lien-giao-nop-cong-an-10026101416232821.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 288,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/66a46331d3e6-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/66a46331d3e6-0.jpg",
+     "caption": "Bà Trần Thị Thu Hương tự nguyện giao nộp rùa núi vàng - Ảnh: NGỌC KHẢI",
+     "w": 1280,
+     "h": 864
+    },
+    {
+     "src": "img/2026-10-15/66a46331d3e6-1.jpg",
+     "caption": "Rùa núi vàng mà bà Trần Thị Thu Hương tự nguyện giao nộp - Ảnh: NGỌC KHẢI",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/66a46331d3e6-2.jpg",
+     "caption": "Kiểm lâm tiếp nhận rùa núi vàng, đưa về chăm sóc và xử lý theo quy định - Ảnh: NGỌC KHẢI",
+     "w": 1280,
+     "h": 1057
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 14-10, Đội Kiểm lâm cơ động và Phòng cháy chữa cháy rừng số 1 (thuộc Chi cục Kiểm lâm TP.HCM) tiếp nhận một con rùa núi vàng do Công an xã Đông Thạnh bàn giao, để đưa về chăm sóc và xử lý theo quy định."
+    },
+    {
+     "t": "p",
+     "text": "Con rùa trên do bà Trần Thị Thu Hương (chủ một quán cà phê trên đường Đông Thạnh 3) tự nguyên giao nộp cho Công an xã Đông Thạnh."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó sáng cùng ngày, bà Hương đang bán cà phê trước quán trên đường Đông Thạnh 3 (xã Đông Thạnh) thì phát hiện một con rùa lớn đang bò giữa đường. Bà nhanh chóng đưa rùa vào nhà, lau sạch đất cát dính trên rùa."
+    },
+    {
+     "t": "p",
+     "text": "Qua tìm hiểu, bà biết đây là rùa núi vàng, một loài động vật quý hiếm, nên muốn liên hệ cơ quan chức năng để giao."
+    },
+    {
+     "t": "p",
+     "text": "Công an xã Đông Thạnh đã phối hợp Phòng Hạ tầng - UBND xã Đông Thạnh xác minh thông tin, ghi nhận sự việc bà Hương tự nguyện giao nộp rùa núi vàng."
+    },
+    {
+     "t": "p",
+     "text": "\"Thấy chú rùa đang bò qua đường, mình chạy ra không biết dùng gì để đựng, mình cầm cái nón đặt xuống thì chú rùa bò vào nón\", bà Hương kể và bày tỏ mong muốn giao rùa cho cơ quan chức năng để rùa được thả về tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp nhận rùa từ Công an xã Đông Thạnh, Đội Kiểm lâm cơ động và Phòng cháy chữa cháy rừng số 1 xác định đây là rùa núi vàng, tên khoa học là Indotestudo elongata, giới tính đực, nặng khoảng 2kg, thuộc nhóm IIB trong danh mục thực vật rừng, động vật rừng nguy cấp, quý, hiếm."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    }
+   ]
+  },
+  {
+   "id": "cd6be665e05d",
+   "order": 8,
+   "slug": "cho-6-nam-san-anh-tia-set-danh-trung-dinh-landmark-81",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Chờ 6 năm 'săn' ảnh tia sét đánh trúng đỉnh Landmark 81",
+   "sapo": "Kiên trì đặt máy qua 6 mùa mưa, Lê Đình Chương đã ghi lại được hình ảnh tia sét đánh trúng đỉnh Landmark 81 vào ngày TP.HCM mưa dông. Bức ảnh đang gây chú ý trên mạng xã hội.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/cho-6-nam-san-anh-tia-set-danh-trung-dinh-landmark-81-post1689579.html",
+   "published": "2026-10-14T09:24:23+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 675,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/cd6be665e05d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/cd6be665e05d-0.jpg",
+     "caption": "Landmark 81 ảnh 1",
+     "w": 936,
+     "h": 1275
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Kiên trì đặt máy qua 6 mùa mưa, Lê Đình Chương đã ghi lại được hình ảnh tia sét đánh trúng đỉnh Landmark 81 vào ngày TP.HCM mưa dông. Bức ảnh đang gây chú ý trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh ghi lại cảnh tia sét giáng thẳng xuống đỉnh Landmark 81 của Lê Đình Chương (46 tuổi, phường Tân Bình, TP.HCM ) đang thu hút hơn 6.000 lượt tương tác trên mạng xã hội và được chia sẻ trong nhiều hội, nhóm nhiếp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Kể với Tri Thức - Znews, tác giả cho biết khoảnh khắc được chụp tối ngày 8/10, thời điểm thành phố vừa tạm dứt cơn mưa, phía trên tòa nhà cao nhất Việt Nam xuất hiện một khối mây đen lớn, kèm tiếng sấm sét liên tục."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bức ảnh tia sét giáng xuống Landmark 81 chụp tối ngày 8/10. Ảnh: Lê Đình Chương."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm đó, anh đã mang máy ảnh và chân máy lên sân thượng tòa nhà VP Long Mã cao 10 tầng trên đường Cộng Hòa (phường Tân Bình) và cài sẵn thông số. Sau 10 phút chờ đợi, một tia sét sáng rực đi thẳng từ nền trời tối và dừng lại trên đỉnh Landmark 81."
+    },
+    {
+     "t": "p",
+     "text": "\"Khoảnh khắc này chỉ diễn ra vài giây, nhưng tôi đã chờ suốt 6 năm, đứng đúng vị trí này mới bắt được. Cảm giác vỡ òa\", Chương nói."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị được anh lựa chọn để \"săn\" sấm sét năm nay là máy ảnh Olympus Om1 với chức năng livecom và ống kính 40-150 mm Pro. Thông thường, những bức ảnh sấm sét như mong muốn được chụp trong khoảng một giờ."
+    },
+    {
+     "t": "p",
+     "text": "Tác giả cho biết thêm việc chụp được tia sét không đơn thuần dựa vào may mắn. Người chụp phải liên tục theo dõi thời tiết, hướng di chuyển của mây dông, đoán hướng có sét và chọn vị trí đặt máy phù hợp. Dù vậy, yếu tố bất ngờ vẫn tồn tại, bởi có thể xác định được khu vực sét dễ xuất hiện, nhưng khó biết chính xác vị trí sét đánh."
+    },
+    {
+     "t": "p",
+     "text": "Đam mê chụp ảnh của Đình Chương bắt đầu từ năm 2018. Anh thường ghi lại khoảnh khắc máy bay cất cánh, hoàng hôn và sấm sét."
+    },
+    {
+     "t": "p",
+     "text": "\"Với tôi, mỗi tia sét đều tạo ra những khoảnh khắc khác nhau khiến bầu trời vừa đẹp đẽ vừa dữ dội\", anh bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu tháng 10, TP.HCM và khu vực Nam Bộ trải qua chuỗi ngày mưa dông diện rộng kết hợp với triều cường dâng cao gây ngập úng. Trong 2 ngày 30/9 và 1/10, có 3.810 tia sét được ghi nhận tại TP.HCM, trong đó 2.000 tia đánh xuống mặt đất."
+    },
+    {
+     "t": "p",
+     "text": "Riêng ngày 8/10 vừa qua, TP.HCM có nơi mưa vừa, mưa to, có nơi mưa rất to vào giờ tan tầm và tối."
+    },
+    {
+     "t": "p",
+     "text": "Theo Đài Khí tượng Thủy văn Nam Bộ, từ đêm ngày 14/10 đến ngày 23/10, TP.HCM tiếp tục có mưa rào và dông, có nơi mưa to, cần đề phòng sét, gió giật mạnh và nguy cơ ngập tại các khu vực trũng."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, theo cơ quan khí tượng, mùa mưa tại Nam Bộ dự kiến kết thúc trong 15 ngày đầu tháng 11, sớm hơn trung bình nhiều năm khoảng 10-20 ngày. TP.HCM được dự báo là một trong những địa phương có lượng mưa thiếu hụt nhiều nhất."
+    },
+    {
+     "t": "p",
+     "text": "Du lịch là để tận hưởng hay sống ảo?"
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Đặng Hoàng Giang - tác giả cuốn sách Vẻ đẹp của cảnh sắc tầm thường - việc chạy theo những gì được cho là đẹp theo tiêu chuẩn số đông đang phá vỡ sự nguyên sơ, gây tổn hại nghiêm trọng đến hệ sinh thái tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu nội dung buổi chia sẻ của tác giả Đặng Hoàng Giang về quan điểm du lịch đang khiến con người quên đi việc tận hưởng vẻ đẹp của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "> Đọc tiếp: Hệ luỵ của du lịch 'sống ảo'"
+    }
+   ]
+  },
+  {
+   "id": "074025ccd043",
+   "order": 9,
+   "slug": "bao-anh-an-tuong-voi-san-van-dong-lon-nhat-the-gioi-o-viet-n",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Báo Anh ấn tượng với sân vận động lớn nhất thế giới ở Việt Nam",
+   "sapo": "(Dân trí) - Tờ Mirror (Anh) điểm qua 4 sân vận động lớn trên thế giới đang được xây dựng. Trong đó, sân VinFast Trống Đồng ở Việt Nam xếp vị trí số một.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/bao-anh-an-tuong-voi-san-van-dong-lon-nhat-the-gioi-o-viet-nam-20261014183538431.htm",
+   "published": "2026-10-14T11:43:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 486,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/074025ccd043-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/074025ccd043-0.jpg",
+     "caption": "Phối cảnh dự án Sân vận động VinFast Trống Đồng (Ảnh: Vingroup).",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-10-15/074025ccd043-1.jpg",
+     "caption": "Sân Hassan II sẽ là nơi diễn ra các trận đấu ở World Cup 2030 (Ảnh: Populous).",
+     "w": 1200,
+     "h": 675
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Tờ Mirror (Anh) điểm qua 4 sân vận động lớn trên thế giới đang được xây dựng. Trong đó, sân VinFast Trống Đồng ở Việt Nam xếp vị trí số một."
+    },
+    {
+     "t": "p",
+     "text": "Tờ Mirror đặc biệt ấn tượng với công trình xây dựng sân vận động VinFast Trống Đồng ở Việt Nam. Sau khi hoàn tất, đây sẽ là sân vận động lớn nhất thế giới với sức chứa lên tới 135.000 người, gấp đôi sân Anfield (của CLB Liverpool) ở Anh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tờ báo của Anh nhấn mạnh: “Với sức chứa thiết kế lên tới 135.000 chỗ ngồi, sân VinFast Trống Đồng có quy mô lớn hơn gấp đôi Anfield, nơi hiện đón tối đa khoảng 61.276 khán giả. Điều đó đồng nghĩa rằng sân vận động của Việt Nam có thể đón lượng khán giả hơn hai lần sân Anfield cộng lại."
+    },
+    {
+     "t": "p",
+     "text": "VinFast Trống Đồng được xây dựng từ 9 tháng trước và dự kiến sẽ hoàn thành vào tháng 7/2027. Dự án được xây dựng trong khu đô thị Olympic. Tổng vốn đầu tư xây dựng đại đô thị này lên tới 28,8 tỷ bảng."
+    },
+    {
+     "t": "p",
+     "text": "Sân vận động này được đặt tên và mô phỏng theo chiếc trống đồng của Việt Nam. Những hình ảnh gần đây cho thấy hệ thống khán đài dần thành hình, trong khi hàng loạt cần cẩu và tháp kích thủy lực cao khoảng 80m đã xuất hiện, chuẩn bị phục vụ quá trình lắp dựng mái vòm khổng lồ”."
+    },
+    {
+     "t": "p",
+     "text": "Một dự án đáng chú ý khác cũng ở trong quá trình xây dựng là sân Hassan II ở Morocco với sức chứa dự kiến vào khoảng 115.000 chỗ ngồi. Đây sẽ là sân vận động lớn thứ hai thế giới sau sân VinFast Trống Đồng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sân Hassan II sẽ được xây dựng tại Benslimane (Morocco) và là công trình chuẩn bị cho World Cup 2030. Tổng chi phí xây dựng vào khoảng 1 tỷ bảng và dự kiến hoàn thành trong năm 2028."
+    },
+    {
+     "t": "p",
+     "text": "Thứ ba là sân vận động Old Trafford mới với sức chứa 100.000 chỗ ngồi. Sân mới sẽ nằm cách sân Old Trafford hiện tại khoảng 350m về phía Tây Bắc. Ban đầu, người ta ước tính kinh phí xây dựng công trình này lên tới 2 tỷ bảng nhưng theo ước tính mới nhất vào năm 2026, số tiền Man Utd chi ra có thể gấp đôi con số trên."
+    },
+    {
+     "t": "p",
+     "text": "Cuối cùng, tờ Mirror đề cập tới sân vận động Milan. Theo đó, sân San Siro huyền thoại được xây dựng vào năm 1947 sắp bị phá bỏ để nhường chỗ cho sân vận động mới hoành tráng. Hai CLB Inter Milan và AC Milan vẫn cùng sở hữu sân vận động mới."
+    },
+    {
+     "t": "p",
+     "text": "Sân vận động Milan sẽ được xây dựng vào năm 2028 với sức chứa 71.500 chỗ ngồi, ít hơn khoảng 4.000 chỗ so với sân San Siro hiện tại."
+    }
+   ]
+  },
+  {
+   "id": "1da812b34f1c",
+   "order": 10,
+   "slug": "gen-z-giu-lua-nghe-gom-bat-trang",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Gen Z giữ lửa nghề gốm Bát Tràng",
+   "sapo": "Bằng những cách khác nhau, chọn gìn giữ nếp thủ công truyền thống hay sáng tạo các sản phẩm trẻ trung, thế hệ Gen Z ở Bát Tràng đều đang viết tiếp câu chuyện làng nghề theo cách rất riêng.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/gen-z-giu-lua-nghe-gom-bat-trang-185261013211329408.htm",
+   "published": "2026-10-13T22:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 406,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/1da812b34f1c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-0.jpg",
+     "caption": "Làng gốm Bát Tràng có tuổi đời hàng trăm năm, là nơi ra đời những dòng men rạn, men lam trứ danh",
+     "w": 1280,
+     "h": 862
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-1.jpg",
+     "caption": "Một ngày của anh Hoàng Đức Khải bắt đầu từ sớm tại xưởng gốm quy mô hơn 30 nhân sự. Khải đang dần tiếp quản công việc quản lý từ cha (ông Hoàng Quốc Bính), trực tiếp theo dõi và kiểm tra quy trình làm việc của các nhân công.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-2.jpg",
+     "caption": "Truyền lửa nghề cho con từ những sản phẩm đầu tay năm anh Khải mới học cấp 1, ông Bính giờ đây tự hào ngắm nhìn con trai tự tay trau chuốt những sản phẩm đòi hỏi độ tinh xảo cao",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-3.jpg",
+     "caption": "Anh Khải tỉ mỉ hoàn thiện từng cánh hoa đắp nổi trên bình gốm dưới sự quan sát của cha. Gửi gắm kỳ vọng vào thế hệ kế cận, ông Bính chia sẻ: \"Nhìn con kiên nhẫn với nghề, tôi rất vững tâm. Tôi tin lớp trẻ bây giờ không chỉ giữ được truyền thống, mà còn đủ sức đưa gốm Bát Tràng phát triển vươn xa hơn nữa\".",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-4.jpg",
+     "caption": "Bên trong không gian xếp kín khuôn đúc và gốm thô, xưởng của anh Nguyễn Quý Thiện duy trì hiệu suất khi cho ra lò tới hơn 800 sản phẩm mỗi tuần dù chỉ có 5 nhân sự",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-5.jpg",
+     "caption": "Do xưởng ít nhân sự, anh Thiện trực tiếp đảm nhận công đoạn đổ rót vào khuôn thạch cao. Thoạt nhìn đơn giản, song bước này đòi hỏi kinh nghiệm dày dặn để canh thời gian sao cho phôi gốm đạt chuẩn nhất.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-6.jpg",
+     "caption": "Anh Thiện tập trung phun màu cho phôi gốm Hello Kitty - mặt hàng bán chạy của xưởng. Người thợ trẻ chia sẻ đã tự pha chế gần 30 màu men để linh hoạt ứng dụng cho từng sản phẩm thay vì gò bó ở những tông màu cơ bản.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/1da812b34f1c-7.jpg",
+     "caption": "Dù chọn hai hướng đi khác biệt, niềm vui chung với nghề của hai người thợ trẻ mang đến một góc nhìn tươi mới về sự tiếp nối tại làng gốm Bát Tràng",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bát Tràng (Hà Nội) từ lâu đã được biết đến như một biểu tượng của nghề gốm truyền thống Việt Nam với lịch sử hình thành hàng trăm năm. Nơi đây từng cho ra đời những dòng men rạn, men lam trứ danh, cùng những sản phẩm đòi hỏi kỹ thuật vuốt tay và nung đốt khắt khe."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Để di sản không bị đứt gãy trước nhịp sống hiện đại, nghề gốm ở Bát Tràng đang được thế hệ Gen Z tiếp nối. Và dù chọn gìn giữ nếp thủ công truyền thống hay sáng tạo các sản phẩm trẻ trung, họ đều đang viết tiếp câu chuyện làng nghề theo cách rất riêng."
+    },
+    {
+     "t": "p",
+     "text": "Cùng lớn lên tại làng gốm, sau khi tốt nghiệp đại học, anh Hoàng Đức Khải (23 tuổi) và anh Nguyễn Quý Thiện (24 tuổi) quyết định trở về quê hương, tiếp nối công việc gia đình nhưng theo hai hướng đi khác biệt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tiếp quản truyền thống gia đình, anh Khải chọn con đường làm đồ thờ men rạn. Gắn bó với dòng sản phẩm kỳ công, mỗi ngày, người thợ trẻ rèn luyện sự kiên nhẫn trau chuốt từng chi tiết nhỏ trên mỗi sản phẩm."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi muốn phát triển nghề gốm không chỉ ở trong nước, mà có thể vươn ra ngoài thế giới\", anh Khải chia sẻ về khát vọng của mình."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, tự vận hành cơ sở sản xuất riêng, anh Thiện nhạy bén chuyển sang làm hình gốm lợn tiết kiệm và tượng linh vật hướng tới khách hàng Gen Z."
+    },
+    {
+     "t": "p",
+     "text": "Từng đánh đổi hàng chục mẻ nung hỏng những ngày đầu khởi nghiệp, các sản phẩm của anh Thiện giờ đây đã có chỗ đứng ổn định trên thị trường nhờ sự kiên trì."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Dẫu khác biệt về định hướng, anh Khải và anh Thiện vẫn thường xuyên trao đổi kinh nghiệm để khắc phục lỗi về men, đất. Anh Thiện chia sẻ: \"Mỗi người có một thế mạnh riêng, nhưng tựu trung lại, chúng tôi đều mang chung một chí hướng là cùng nhau đưa làng nghề phát triển đi lên\"."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ anh Khải hay anh Thiện, Bát Tràng hiện vẫn còn rất nhiều người trẻ miệt mài giữ lửa nghề. Mỗi người một lối đi, một cách làm, nhưng những khác biệt ấy lại đang hòa quyện, tiếp nối sức sống bền bỉ cho làng gốm hàng trăm năm tuổi."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    }
+   ]
+  },
+  {
+   "id": "d5bea187d683",
+   "order": 11,
+   "slug": "nam-sinh-lop-11-doat-thu-khoa-toan-cua-ha-noi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nam sinh lớp 11 đoạt thủ khoa Toán của Hà Nội",
+   "sapo": "Đăng Khánh, thủ khoa thi học sinh giỏi Toán của Hà Nội, biết tính toán với số âm trước khi vào lớp 1, được thầy cô gọi là \"siêu nhân\".",
+   "author": "Thanh Hằng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nam-sinh-lop-11-doat-thu-khoa-toan-cua-ha-noi-5132052.html",
+   "published": "2026-10-14T08:49:18+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 807,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/d5bea187d683-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-10-15/d5bea187d683-0.jpg",
+     "caption": "Đăng Khánh tại góc học tập ở nhà. Ảnh: Gia đình cung cấp",
+     "w": 1020,
+     "h": 745
+    },
+    {
+     "src": "img/2026-10-15/d5bea187d683-1.jpg",
+     "caption": "Đăng Khánh (hàng dưới, thứ tư từ phải sang) cùng tập thể lớp 11G0, trong ngày khai giảng năm học 2026-2027. Ảnh: Nhà trường cung cấp",
+     "w": 1020,
+     "h": 559
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đăng Khánh, thủ khoa thi học sinh giỏi Toán của Hà Nội, biết tính toán với số âm trước khi vào lớp 1, được thầy cô gọi là \"siêu nhân\"."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Đăng Khánh là học sinh lớp 11G0, trường THCS và THPT Newton. Theo công bố của Sở Giáo dục và Đào tạo Hà Nội tối 13/10, Khánh đạt 32/40 điểm, là thủ khoa thi học sinh giỏi môn Toán ở bảng B - chương trình chuyên."
+    },
+    {
+     "t": "p",
+     "text": "Nhận tin khi đang trong lớp học đội tuyển ở trường, Khánh không quá bất ngờ vì khi Sở cho tra cứu điểm cách đây hai tuần, em đã biết mình dẫn đầu."
+    },
+    {
+     "t": "p",
+     "text": "\"Em chỉ đặt mục tiêu vào đội tuyển thi quốc gia, còn trở thành thủ khoa hay không còn là cái duyên và sự may mắn\", Khánh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Đề thi năm nay gồm 8 bài, trong hai ngày, nội dung kiến thức bao phủ bậc THPT, chủ yếu lớp 12. Khánh đánh giá đề ngày 1 \"dễ thở\", không gặp khó ở bài nào. Tới ngày thứ hai, nam sinh tự thấy mình phân bổ thời gian chưa tốt khi mất hơn 1,5 tiếng cho bài 6, khiến không kịp làm hết bài số 7 dù đã biết hướng đi."
+    },
+    {
+     "t": "p",
+     "text": "\"Em cũng hơi hoảng. Nhưng nhẩm tính mình đã làm trọn vẹn 6 bài, em nghĩ vẫn đủ điểm để đạt mục tiêu, nên bình tĩnh lại\", Khánh kể. \"Điểm chính thức không lệch nhiều với dự đoán của em\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Anh Thành, bố của Khánh, kể ngày nhỏ con trai chỉ chăm chú khi viết, chơi, sắp xếp hoặc xem video liên quan các con số."
+    },
+    {
+     "t": "p",
+     "text": "Hồi ở trường mẫu giáo, mỗi trẻ có một chiếc cốc với ký hiệu riêng, Khánh sẽ lấy được chính xác cốc của từng bạn khi cô giáo nhờ. Trước khi vào lớp 1, dù chưa học đánh vần, em có thể đọc \"cả trang giấy\", biết và có thể làm những phép tính với số âm."
+    },
+    {
+     "t": "p",
+     "text": "\"Con rất khác bạn bè cùng độ tuổi\", anh Thành nhận định."
+    },
+    {
+     "t": "p",
+     "text": "Khi Khánh vào lớp 2, gia đình bắt đầu cho em tham gia một số cuộc thi Toán học, như Violympic, IKMC, rồi đến IMAS, x-IMC, WMTC, IMTC, AMC... và đều đạt thành tích cao. Anh Thành cho biết con gần như không học thêm, lên lớp 5 mới học mỗi tuần một buổi."
+    },
+    {
+     "t": "p",
+     "text": "Được cọ xát, Khánh dần đam mê học Toán chuyên sâu, nhất là sau khi chuyển tới trường Newton năm lớp 8. Thấy Khánh có tố chất tốt, thầy cô dạy đội tuyển tạo điều kiện để em thi vượt cấp ở các kỳ thi học sinh giỏi cấp quận, thành phố, Duyên hải và Đồng bằng Bắc Bộ, Olympic học sinh - sinh viên... Dù phải cạnh tranh với các anh chị hơn mình 1-2 tuổi, Khánh đạt giải nhất, nhì, thậm chí giành ngôi thủ khoa, á khoa ở hầu hết cuộc thi."
+    },
+    {
+     "t": "p",
+     "text": "Năm ngoái, khi mới vào lớp 10, Khánh cũng trong top dẫn đầu môn Toán của Hà Nội, đạt giải nhì học sinh giỏi quốc gia và được triệu tập vào vòng chọn đội tuyển thi Olympic Toán quốc tế (IMO)."
+    },
+    {
+     "t": "p",
+     "text": "Lên lớp 11, Khánh thấy mình quyết tâm hơn. Em dành phần lớn thời gian trong ngày để học Toán, nhiều hôm 10-12 tiếng, đồng thời rèn thói quen suy nghĩ trước khi ghi chép. Theo Khánh, thay vì chép lại kiến thức ngay, em muốn tự ngẫm và hiểu vấn đề trước, chấp nhận mất nhiều thời gian và ghi chậm hơn các bạn."
+    },
+    {
+     "t": "p",
+     "text": "Những lúc mệt mỏi hoặc mất cảm hứng, nam sinh chủ động ngủ nghỉ, giải trí trước khi trở lại việc học. Theo em, đề các kỳ thi học sinh giỏi phủ rộng ở nhiều mảng, nếu không duy trì nhịp học liên tục, học sinh dễ quên kiến thức. Mỗi khi có thời gian, em cũng thường đọc lại bài cũ."
+    },
+    {
+     "t": "p",
+     "text": "\"Em thấy các bạn đều rất chăm chỉ, nếu mình không cố gắng thì sẽ bị bỏ lại\", Khánh nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cô Nguyễn Thị Hoa, giáo viên chủ nhiệm của Khánh, đánh giá học trò có tư duy Toán học vượt trội, nên thầy cô thường gọi vui là \"siêu nhân\". Theo cô, Khánh bộc lộ tố chất ngay từ sớm, nhiều lần thi vượt cấp và giành kết quả ấn tượng, thuyết phục."
+    },
+    {
+     "t": "p",
+     "text": "\"Khánh là một trong những học sinh ưu tú nhất trong lịch sử của trường\", cô Hoa nói."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh cho hay mục tiêu trước mắt là chuẩn bị tốt cho kỳ thi học sinh giỏi quốc gia vào cuối năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc đạt thứ hạng cao không phải đích đến duy nhất, mà quan trọng hơn là học sâu hơn về Toán và tiếp tục tiến bộ\", Khánh nói."
+    }
+   ]
+  },
+  {
+   "id": "8b62dd0fd678",
+   "order": 12,
+   "slug": "bo-3-nam-hoc-kien-truc-nu-sinh-lam-lai-tu-dau-va-cai-ket-bat",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Bỏ 3 năm học kiến trúc, nữ sinh làm lại từ đầu và cái kết bất ngờ",
+   "sapo": "Tô Tiêu Ngọc (26 tuổi, TP.HCM) đã có một quyết định táo bạo khi từ bỏ 3 năm học kiến trúc để bắt đầu lại từ con số 0 với ngành văn học ứng dụng. 4 năm sau, Ngọc tốt nghiệp thủ khoa với GPA 3.6/4.0, nối tiếp niềm đam mê viết lách và sáng tạo nội dung.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/bo-3-nam-hoc-kien-truc-nu-sinh-lam-lai-tu-dau-va-cai-ket-bat-ngo-185261014113900097.htm",
+   "published": "2026-10-14T04:36:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 921,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/8b62dd0fd678-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/8b62dd0fd678-0.jpg",
+     "caption": "Tô Tiêu Ngọc và giảng viên Đặng Thị Kim Chi",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/8b62dd0fd678-1.jpg",
+     "caption": "Tô Tiêu Ngọc trong ngày nhận bằng tốt nghiệp",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/8b62dd0fd678-2.jpg",
+     "caption": "Tô Tiêu Ngọc (ngoài cùng bên phải, hàng trên) trong sự kiện do cô và nhóm thực hiện",
+     "w": 1024,
+     "h": 781
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "7 năm cho một tấm bằng đầu tiên"
+    },
+    {
+     "t": "p",
+     "text": "Năm 18 tuổi, sau 2 năm miệt mài luyện vẽ, Ngọc chọn theo học ngành kiến trúc. Dù kết quả học tập ổn định, Ngọc vẫn luôn cảm thấy lạc lõng và mất phương hướng. Năm thứ 2 đại học, cả nước giãn cách do dịch Covid-19 bùng phát, Ngọc xem đây là cơ hội để nhìn lại chính bản thân mình."
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong lúc đó, việc viết lách đến với Ngọc rất tự nhiên, như một cách giải tỏa tâm lý. Bị thuyết phục trước tư duy dùng ngôn ngữ văn học để sáng tạo và giải quyết các bài toán truyền thông, Ngọc quyết định chuyển sang ngành văn học ứng dụng để nối tiếp niềm đam mê."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Việc chuyển từ ngành tư duy hình khối, không gian sang làm quen với con chữ khiến Ngọc gặp không ít áp lực. \"Việc từ bỏ một con đường từng đầu tư nhiều công sức để bắt đầu lại khiến mình không tránh khỏi cảm giác hoài nghi, tự hỏi liệu quyết định này có quá mạo hiểm hay không\", Ngọc tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, việc làm quen với các bạn có độ tuổi trẻ hơn, không ít lần khiến Ngọc thấy khá ngần ngại và mặc cảm. Không chìm trong khó khăn quá lâu, Ngọc học cách chấp nhận thực tại, chủ động học hỏi từ thầy cô và bạn bè."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Mình nhận ra nếu chỉ lo tiếc công sức, tiền bạc, thời gian ở quá khứ mà tiếp tục làm điều mình không thích thì sự hối hận sẽ kéo dài. Nếu coi cuộc đời là một đường thẳng, việc từ bỏ một ngành học dễ khiến mình cảm thấy như đang lùi về con số 0. Nhưng nếu nhìn nhiều hướng, những kiến thức mình học được ở ngành cũ chưa từng mất đi mà đã mang lại cho mình những trải nghiệm, tư duy riêng biệt, trở thành hành trang để mình tự tin bước vào ngành học mới\", Ngọc chia sẻ."
+    },
+    {
+     "t": "h",
+     "text": "Ứng dụng tư duy kiến trúc vào sáng tạo nội dung"
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm mới chuyển ngành văn học ứng dụng (Trường ĐH Văn Lang) đã mở ra cho Ngọc một bầu trời cơ hội. Điều khiến Ngọc trân trọng nhất là yếu tố con người. \"Thầy cô không chỉ có chuyên môn sâu mà còn cực kỳ cởi mở truyền dạy, dẫn dắt, giúp mình tháo gỡ khó khăn. Mình cũng tìm thấy sự đồng cảm từ các bạn học đã từng mơ hồ như mình\", Ngọc nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Năm cuối đại học, Ngọc có cơ hội thực tập tại tạp chí ELLE Việt Nam với vị trí người viết nội dung kỹ thuật số. Trải nghiệm này dạy Ngọc cách cân bằng giữa phong cách viết của bản thân với yêu cầu thực tế của từng môi trường. Bài học lớn nhất Ngọc nhận được là tính tự giác và sự nhạy bén với dòng chảy tin tức."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, Ngọc nhận thấy những kiến thức từng học ở ngành cũ chưa bao giờ là vô nghĩa. \"Kiến trúc cho mình tư duy về không gian, thẩm mỹ còn văn học ứng dụng cho mình khả năng sáng tạo với con chữ. Sự kết hợp này giúp sản phẩm của mình vừa có chiều sâu nội dung, vừa có tính thẩm mỹ, sinh động\", Ngọc chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, Ngọc vừa làm, vừa theo học văn bằng 2 ngành ngôn ngữ Trung tại Trường ĐH Khoa học xã hội và nhân văn (ĐH Quốc gia TP.HCM)."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nói về bí quyết học tập, Ngọc không nghĩ mình có điểm gì quá đặc biệt. Điều giúp Ngọc hoàn thành tốt chương trình học là thái độ nghiêm túc và sự tò mò tự nhiên với ngành học mới."
+    },
+    {
+     "t": "p",
+     "text": "Trải qua một lần mất định hướng, Ngọc bước vào ngành văn học ứng dụng với tâm thế trân trọng cơ hội này hơn. Bằng việc học cách lắng nghe nhận xét của thầy cô sau mỗi bài tập, Ngọc dần điều chỉnh chiến lược học tập của mình. Cô cũng chủ động quan sát đời sống thực tế để đưa vào sản phẩm những chất liệu chân thật và gần gũi."
+    },
+    {
+     "t": "p",
+     "text": "\"Thời THPT, mình bị ám ảnh bởi tư duy thành tích, coi điểm số là phương tiện để chứng minh bản thân. Nhưng rồi mình nhận ra, điểm số có quan trọng, nhưng không nói được hết năng lực của một người\", Ngọc nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "Nhận xét về Ngọc, tiến sĩ Đặng Thị Kim Chi, giảng viên ngành văn học ứng dụng, Trường ĐH Văn Lang, chia sẻ: \"Ngọc là sinh viên ngoan, có năng lực, biết mình muốn gì và muốn trở thành ai. Ngoài phẩm chất đáng quý, Ngọc còn rất dễ thương, chịu khó và có phương pháp học tập rất khoa học. Đặc biệt, trong học phần tổ chức sự kiện văn hóa nghệ thuật, dưới sự dẫn dắt của Ngọc, nhóm bạn đã thành công\"."
+    },
+    {
+     "t": "p",
+     "text": "Còn Hoàng Nguyễn Thục Vy (26 tuổi), bạn thân của Ngọc, cho biết: \"Mình quen Ngọc từ năm lớp 10, đến nay cũng hơn 10 năm. Ngọc rất hiền và hay giúp đỡ bạn bè, ít khi thấy bạn nổi nóng với ai. Nhiều người nghĩ thành tựu Ngọc có được là do may mắn, nhưng ít ai biết rằng bạn đã cố gắng nhiều, chủ động đón đầu, tìm đúng người giỏi việc để học hỏi\"."
+    }
+   ]
+  },
+  {
+   "id": "b49ccbd9fc2e",
+   "order": 13,
+   "slug": "thay-giao-the-chat-hat-day-do-hoc-sinh-khong-thuoc-bai",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Thầy giáo thể chất hát 'dạy dỗ' học sinh không thuộc bài",
+   "sapo": "Học sinh không thuộc bài, thầy giáo cất giọng hát với những lời nhắn nhủ vừa hài hước vừa thấm thía. Những video của thầy Nguyễn Tấn Thành, giáo viên ở Đồng Tháp, bất ngờ thu hút hàng triệu lượt xem trên mạng xã hội.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/thay-giao-the-chat-hat-day-do-hoc-sinh-khong-thuoc-bai-18526101411573872.htm",
+   "published": "2026-10-14T08:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1049,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/b49ccbd9fc2e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/b49ccbd9fc2e-0.jpg",
+     "caption": "Những video triệu view của thầy Thành trên nền tảng TikTok",
+     "w": 1280,
+     "h": 722
+    },
+    {
+     "src": "img/2026-10-15/b49ccbd9fc2e-1.jpg",
+     "caption": "Thầy giáo 9x rất gần gũi với các học trò của mình",
+     "w": 1280,
+     "h": 957
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Thầy giáo thể chất hát, tự viết lời để nhắc nhở học trò"
+    },
+    {
+     "t": "p",
+     "text": "Trong những video đăng tải trên TikTok, Nguyễn Tấn Thành, 29 tuổi, hiện đang là giáo viên Trường THCS và THPT Long Bình (xã Long Bình, tỉnh Đồng Tháp), thường xây dựng những tình huống quen thuộc trong trường học như học sinh không thuộc bài hay sử dụng tài liệu trong giờ kiểm tra. Sau đó, thầy cất giọng hát với những ca từ được viết lại để nhắn nhủ học trò."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì chỉ đưa ra lời nhắc nhở, thầy Thành chọn âm nhạc làm phương tiện truyền tải những bài học về thái độ học tập và cách ứng xử."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thầy hiện là giáo viên Giáo dục thể chất kiêm Tổng phụ trách Đội tại trường. Từ khi còn ngồi trên ghế nhà trường, anh đã mong muốn đóng góp cho ngành giáo dục. Bên cạnh thể thao, âm nhạc cũng là niềm đam mê của thầy Thành."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tốt nghiệp Trường ĐH Sư phạm thể dục thể thao TP.HCM, năm 2021, thầy thi đỗ viên chức, bắt đầu công tác tại Trường THCS Võ Đăng Được (xã Đồng Sơn, tỉnh Đồng Tháp). Sau một thời gian, vì ba mẹ lớn tuổi, thầy xin chuyển về Trường THCS và THPT Long Bình để thuận tiện chăm sóc gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Ý tưởng làm video tuyên truyền bằng âm nhạc đến với thầy khi nhận thấy những hình thức tuyên truyền quen thuộc đôi khi khó tiếp cận rộng rãi với học sinh."
+    },
+    {
+     "t": "p",
+     "text": "“Mình muốn thử sức mình xem có được học sinh và mọi người đón nhận thông qua hình thức ấy hay không”, thầy Thành chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 7.1.2026, thầy đăng tải video đầu tiên với mục đích nhắn nhủ, gửi thông điệp đến học sinh. Video nhận được 502.700 lượt xem và gần 30.000 lượt thích. Sau đó, vì chưa sắp xếp được thời gian, thầy chủ yếu thực hiện nội dung giải trí."
+    },
+    {
+     "t": "p",
+     "text": "Đến ngày 5.10.2026, thầy trở lại với hình thức tuyên truyền thông qua ca hát. Video đầu tiên trong lần trở lại thu hút hơn 9 triệu lượt xem và gần 500.000 lượt thích, theo số liệu thầy cung cấp tại thời điểm trao đổi với PV ."
+    },
+    {
+     "t": "p",
+     "text": "Để thực hiện video, thầy chọn nhạc nền phù hợp rồi tự viết lời mới, hướng đến mục đích tuyên truyền, giáo dục học sinh. “Thường thì em mất khoảng gần 30 phút để viết ra một đoạn của bài hát sau khi chọn được một bài nhạc theo ý muốn”, thầy Thành cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Các tình huống học sinh không thuộc bài hay sử dụng tài liệu trong video đều được dàn dựng. Những học sinh tham gia là thành viên các câu lạc bộ do thầy phụ trách, cùng hỗ trợ thực hiện nội dung tuyên truyền."
+    },
+    {
+     "t": "p",
+     "text": "“Đối với bản thân em, tuyệt đối không quay clip trong giờ học. Vì nó cực kỳ ảnh hưởng đến chất lượng giảng dạy cũng như quá trình học tập của các em học sinh. Phải luôn luôn đảm bảo: học ra học, chơi ra chơi”, anh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Dùng âm nhạc để đưa thông điệp giáo dục đến gần học sinh"
+    },
+    {
+     "t": "p",
+     "text": "Công việc của giáo viên Tổng phụ trách Đội không chỉ gói gọn trong những tiết dạy. Bên cạnh hồ sơ, sổ sách và tổ chức hoạt động tại trường, thầy Thành còn dành thời gian tập luyện cho các câu lạc bộ văn nghệ, bóng đá, tuyên truyền măng non."
+    },
+    {
+     "t": "p",
+     "text": "Với thầy, làm video là cách tận dụng mạng xã hội để tiếp cận học sinh. Khi mạng xã hội chiếm nhiều thời gian của giới trẻ, những thông điệp giáo dục cũng cần được truyền tải bằng hình thức gần gũi hơn."
+    },
+    {
+     "t": "p",
+     "text": "Thầy mong muốn qua các bài hát, học sinh có thể nhận biết điều đúng, sai, những việc nên làm và không nên làm, từ đó cố gắng hoàn thiện bản thân."
+    },
+    {
+     "t": "p",
+     "text": "Sự đón nhận của cộng đồng mạng cũng tiếp thêm động lực cho thầy. Dưới các video, không chỉ dừng lại ở những lời khen ngợi và bày tỏ sự bất ngờ về giọng hát hay của thầy giáo thể chất, nhiều người còn chia sẻ suy nghĩ về chuyện học hành, tương lai và sự hy sinh của cha mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Một tài khoản viết: “Học chưa chắc sẽ giàu. Nhưng học sẽ có nhiều sự lựa chọn kiếm tiền”. Một người xem khác bày tỏ sự tiếc nuối vì từng bỏ học, ham chơi, đến khi trưởng thành mới mong bản thân cố gắng hơn để cha mẹ tự hào."
+    },
+    {
+     "t": "p",
+     "text": "Sức lan tỏa của những video vì thế không chỉ đến từ giọng hát mà còn từ sự đồng cảm với các thông điệp được truyền tải."
+    },
+    {
+     "t": "p",
+     "text": "Lê Quốc Quân, học sinh lớp 12 Trường THCS và THPT Long Bình, từng được thầy Thành dạy môn Giáo dục thể chất khi học lớp 10. Hiện Quân là thành viên câu lạc bộ tuyên truyền của trường và thường xuyên tham gia các video cùng thầy."
+    },
+    {
+     "t": "p",
+     "text": "Quân cho biết em tham gia vì cảm thấy những ý tưởng của thầy có ý nghĩa với bản thân và các bạn học sinh, giúp các bạn nhận ra khuyết điểm và suy nghĩ nhiều hơn về thái độ học tập, cách ứng xử."
+    },
+    {
+     "t": "p",
+     "text": "Trong số những video từng tham gia, Quân nhớ nhất video với bài hát Ước chi em nhìn thấy , được thầy Thành viết lại lời, nói về sự vất vả của cha mẹ trong quá trình chăm lo cho con cái."
+    },
+    {
+     "t": "p",
+     "text": "“Bài hát nói về sự khổ cực của cha mẹ để chăm lo cho chúng em. Qua đó, em cảm thấy thương cha mẹ hơn và tự nhủ bản thân sẽ cố gắng hơn để không phụ lòng cha mẹ”, Quân chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Với thầy Thành, mong muốn lớn nhất vẫn là góp một phần nhỏ cho ngành giáo dục, giúp những lời nhắn nhủ đến với học sinh theo cách dễ tiếp nhận hơn. Từ những giai điệu quen thuộc và tình huống được dàn dựng, thầy đang tìm cách đưa những bài học về trường học, gia đình và cách sống đến gần hơn với người trẻ."
+    }
+   ]
+  },
+  {
+   "id": "12a99aee59cd",
+   "order": 14,
+   "slug": "thu-khoa-thi-lop-10-ha-noi-nam-2026-dat-giai-nhat-chon-hoc-s",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Thủ khoa thi lớp 10 Hà Nội năm 2026 đạt giải Nhất chọn học sinh giỏi vượt cấp",
+   "sapo": "Trần Minh Hà - thủ khoa ở kỳ thi vào lớp 10 Hà Nội năm 2026 - vừa “vượt cấp” đạt giải Nhất thi chọn học sinh giỏi môn Ngữ văn cấp thành phố vốn dành cho anh chị khối 12.",
+   "author": "Thanh Hùng",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/thu-khoa-thi-lop-10-ha-noi-nam-2026-dat-giai-nhat-chon-hoc-sinh-gioi-vuot-cap-2564681.html",
+   "published": "2026-10-14T06:51:41+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 674,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/12a99aee59cd-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 680
+    },
+    {
+     "src": "img/2026-10-15/12a99aee59cd-0.jpg",
+     "caption": "Trần Minh Hà - thủ khoa ở kỳ thi vào lớp 10 Hà Nội năm 2026 - vừa “vượt cấp” đạt giải Nhất thi chọn học sinh giỏi môn Ngữ văn cấp thành phố dành cho học sinh lớp 12 năm học 2026-2027. Ảnh: NVCC",
+     "w": 1280,
+     "h": 1002
+    },
+    {
+     "src": "img/2026-10-15/12a99aee59cd-1.jpg",
+     "caption": "Các học sinh đội tuyển Trường THCS&THPT Newton dự thi học sinh giỏi cấp thành phố các môn văn hóa năm học 2026-2027.",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/12a99aee59cd-2.jpg",
+     "caption": "Danh sách 37 thủ khoa ở kỳ thi chọn học sinh giỏi Hà Nội năm 2026",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/12a99aee59cd-3.jpg",
+     "caption": "Thủ khoa học sinh giỏi Toán Hà Nội 2026 và điều thú vị từ tên gọi đến thành tích",
+     "w": 938,
+     "h": 625
+    },
+    {
+     "src": "img/2026-10-15/12a99aee59cd-4.jpg",
+     "caption": "Hà Nội công bố danh sách 3.331 em đạt giải học sinh giỏi thành phố năm 2026",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Theo công bố của Sở GD-ĐT về kết quả kỳ thi chọn học sinh giỏi thành phố các môn văn hóa lớp 12 cấp THPT năm học 2026-2027, Trần Minh Hà (lớp 10S01-E của Trường THCS&THPT Newton) giành giải Nhất ở môn Ngữ văn."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Trần Minh Hà được biết đến là thủ khoa kỳ thi vào lớp 10 Hà Nội năm 2026 với tổng điểm xét tuyển đạt 29,75. Hà đạt 9,25 điểm Ngữ văn, 9,5 điểm Toán và 10 điểm Tiếng Anh; được cộng 1 điểm ưu tiên do có mẹ là người dân tộc Mường."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với VietNamNet, Minh Hà cho hay, trong học tập, em chú trọng việc hiểu bản chất vấn đề và khắc phục những lỗi sai của bản thân."
+    },
+    {
+     "t": "p",
+     "text": "“Em không đặt mục tiêu chung chung là học tốt mà thường xác định cụ thể mình cần đạt mức điểm trung bình bao nhiêu, sau đó sẽ lên kế hoạch rõ ràng để đạt được”, Minh Hà nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Minh Hà yêu thích môn Toán từ nhỏ và giành nhiều giải thưởng ở các cuộc thi liên quan tới môn học này. Lên lớp 7, em vẫn nằm trong nhóm học sinh được bồi dưỡng đội tuyển Toán của trường. Tuy nhiên, nhận thấy Hà có khả năng tổng hợp ý và viết tốt, mẹ đã động viên em thử sức với môn Ngữ văn. Từ đó, Minh Hà quyết định chuyển hướng theo đuổi môn học này."
+    },
+    {
+     "t": "p",
+     "text": "Minh Hà cho rằng sự kiên trì và quyết tâm theo đuổi mục tiêu đến cùng, dù gặp khó khăn cũng không bỏ cuộc, là yếu tố rất quan trọng. Em lấy chính trải nghiệm của mình làm minh chứng."
+    },
+    {
+     "t": "p",
+     "text": "Năm lớp 8, Hà tham gia kỳ thi học sinh giỏi cấp thành phố dành cho học sinh lớp 9 nhưng không đạt kết quả như kỳ vọng. Thất bại ấy khiến em rất buồn, thậm chí có lúc mất niềm tin vào bản thân. Tuy nhiên, thay vì bỏ cuộc, Hà nhìn lại những hạn chế của mình, học từ sai sót và sửa từng lỗi trong các bài viết. Nỗ lực đó đã mang lại thành quả xứng đáng khi đến lớp 9, bài làm của Minh Hà tiến bộ rõ rệt, khiến các thầy cô bất ngờ và giúp em giành giải Nhất kỳ thi học sinh giỏi môn Ngữ văn cấp thành phố."
+    },
+    {
+     "t": "p",
+     "text": "“Thất bại đôi khi là động lực để cố gắng hơn”, Hà chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Minh Hà là 1 trong 5 học sinh đạt giải Nhất của Trường THCS&THPT Newton ở kỳ thi chọn học sinh giỏi các môn văn hóa cấp thành phố dành cho học sinh lớp 12 THPT năm học 2026-2027."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tại kỳ thi năm nay, học sinh của trường này đạt 55 giải ở nhiều môn, trong đó có 5 giải Nhất, 11 giải Nhì, 18 giải Ba và 21 giải Khuyến khích."
+    },
+    {
+     "t": "p",
+     "text": "Ở bảng A - dành cho học sinh trường không chuyên, 91% `số học sinh dự thi của trường đạt giải. Riêng ở các đội tuyển Tiếng Anh, Lịch sử, Địa lý, tất cả học sinh dự thi đều đạt giải Nhất và giải Nhì."
+    },
+    {
+     "t": "p",
+     "text": "Theo thống kê, gần 75% học sinh Trường THCS&THPT Newton đạt giải trong kỳ thi dành cho học sinh lớp 12 là học sinh lớp 10 và lớp 11. Cả 5 giải Nhất cấp thành phố của trường ở các môn Ngữ văn, Tiếng Anh, Toán và Lịch sử đều thuộc về học sinh hai khối lớp này. Trong đó, 3/5 học sinh giành giải Nhất hiện học lớp 10, gồm Trần Minh Hà (lớp 10S01E, môn Ngữ văn), Đỗ Phương Vy (lớp 10S01E, môn Tiếng Anh) và Vũ Nguyễn Khánh Linh (lớp 10G0, môn Tiếng Anh)."
+    },
+    {
+     "t": "p",
+     "text": "Ở môn Toán, Nguyễn Đăng Khánh (lớp 11G0) giành giải Nhất, đồng thời đạt điểm cao nhất toàn thành phố ở bảng B, dành cho học sinh học chương trình chuyên và tuyển chọn đội tuyển dự thi học sinh giỏi quốc gia."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "5ff63cdd26c2",
+   "order": 15,
+   "slug": "nam-doanh-nhan-chuan-bi-the-luc-5-thang-chinh-phuc-hang-son",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Nam doanh nhân chuẩn bị thể lực 5 tháng, chinh phục hang Sơn Đoòng kỳ vĩ",
+   "sapo": "(Dân trí) - Trải qua hành trình khám phá Sơn Đoòng, ông Đoàn Văn Bình cảm nhận nơi đây là tuyệt tác của thiên nhiên, có nhịp điệu và sức sống riêng.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/nam-doanh-nhan-chuan-bi-the-luc-5-thang-chinh-phuc-hang-son-doong-ky-vi-20261013194405204.htm",
+   "published": "2026-10-14T02:02:14+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1580,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/5ff63cdd26c2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/5ff63cdd26c2-0.jpg",
+     "caption": "Ông Đoàn Văn Bình (thứ 5 từ phải sang) cùng các thành viên chinh phục thành công hang Sơn Đoòng (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/5ff63cdd26c2-1.jpg",
+     "caption": "Ông Đoàn Văn Bình bên trong kỳ quan Sơn Đoòng (Ảnh: Nhân vật cung cấp).",
+     "w": 1068,
+     "h": 1581
+    },
+    {
+     "src": "img/2026-10-15/5ff63cdd26c2-2.jpg",
+     "caption": "Ông Bình cảm nhận Sơn Đoòng là tuyệt tác của thiên nhiên với nhiều điều bí ẩn (Ảnh: Nhân vật cung cấp).",
+     "w": 1171,
+     "h": 1791
+    },
+    {
+     "src": "img/2026-10-15/5ff63cdd26c2-3.jpg",
+     "caption": "Khung cảnh ấn tượng bên trong Sơn Đoòng (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 750
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Trải qua hành trình khám phá Sơn Đoòng, ông Đoàn Văn Bình cảm nhận nơi đây là tuyệt tác của thiên nhiên, có nhịp điệu và sức sống riêng."
+    },
+    {
+     "t": "p",
+     "text": "Hang Sơn Đoòng có sức sống riêng biệt"
+    },
+    {
+     "t": "p",
+     "text": "Sau chuyến khám phá hang Sơn Đoòng hồi tháng 5, ông Đoàn Văn Bình (Chủ tịch Tập đoàn CEO) cảm nhận hành trình đó là cơ hội khám phá một phần sâu thẳm của đất nước, thiên nhiên và chính mình."
+    },
+    {
+     "t": "p",
+     "text": "Trước ngày chinh phục Sơn Đoòng, cả nhóm trải qua 5 tháng chuẩn bị thể lực kỹ lưỡng bằng các trận đấu pickleball, tập gym, chinh phục đỉnh Fansipan (Lào Cai), đỉnh Cao Xiêm (Quảng Ninh)..."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trải qua 4 ngày 3 đêm cùng đồng đội khám phá hang động tuyệt đẹp này, nam doanh nhân cảm nhận sâu sắc hơn về thế giới kỳ vĩ trong lòng đất."
+    },
+    {
+     "t": "p",
+     "text": "\"Chuyến đi Sơn Đoòng không chỉ bắt đầu bằng cảm xúc mà đòi hỏi mỗi người phải hiểu rõ mình sắp bước vào đâu, cần chuẩn bị những gì, có thể đối mặt với rủi ro nào và ứng xử ra sao để không làm tổn thương hang động\", ông chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày đầu tiên, đoàn phải băng qua những cánh rừng nguyên sinh, lội suối rồi men theo các thung lũng nhỏ để đến một bản làng nằm sâu trong vùng lõi Vườn quốc gia Phong Nha - Kẻ Bàng."
+    },
+    {
+     "t": "p",
+     "text": "Điểm dừng chân đầu tiên là bản Đoòng, nơi cộng đồng người Bru - Vân Kiều sinh sống giữa núi rừng. Bản được hình thành từ đầu những năm 1990."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Soái Trắc - trưởng bản - là một trong những người đầu tiên khai khẩn đất đai và gắn bó lâu dài với vùng đất này."
+    },
+    {
+     "t": "p",
+     "text": "Khi các tour khám phá Sơn Đoòng và Hang Én đi qua, cuộc sống của người dân địa phương có thêm những cơ hội mới. Hoạt động du lịch tạo thêm việc làm, giúp người dân tham gia hỗ trợ các đoàn khách và cải thiện sinh kế ngay trên quê hương mình."
+    },
+    {
+     "t": "p",
+     "text": "Rời bản Đoòng, đoàn tiếp tục hành trình tiếp cận Hang Én. Cửa hang dần hiện ra sau những tán rừng."
+    },
+    {
+     "t": "p",
+     "text": "Để đến khu vực cắm trại bên trong, các thành viên phải vượt qua một hồ nước nhỏ dài khoảng 200m, rộng 45m nằm chắn ngang lối vào. Mọi người sử dụng bè nổi, di chuyển theo sợi dây dẫn để qua hồ. Vào mùa khô, mực nước tại đây sâu vài mét. Khi mùa mưa lũ đến, nước có thể dâng cao tới 70-80m."
+    },
+    {
+     "t": "p",
+     "text": "\"Khung cảnh như chốn bồng lai. Nước chảy qua cửa hang, lạnh, trong, có tiếng róc rách quen thuộc sau một ngày băng rừng\", ông hồi tưởng."
+    },
+    {
+     "t": "p",
+     "text": "Đêm đến, những âm thanh thường nhật biến mất. Bên trong Hang Én chỉ còn tiếng suối, côn trùng, tiếng người trong lều và gió thổi nhẹ cùng tiếng chim én."
+    },
+    {
+     "t": "p",
+     "text": "Trải qua một đêm trong Hang Én, cả đoàn tiếp tục hành trình hướng về Sơn Đoòng."
+    },
+    {
+     "t": "p",
+     "text": "\"Đứng trước cửa hang, nghe gió và sương thổi ra từ lòng núi, tôi có cảm giác như Trái Đất không phải là khối vật chất im lặng dưới chân mà là cơ thể sống."
+    },
+    {
+     "t": "p",
+     "text": "Sơn Đoòng hiện lên trong tôi với nhịp điệu và sức sống riêng”, ông Bình bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Nam doanh nhân cảm nhận những dòng suối, sông ngầm như mạch máu trong cơ thể con người. Các khối thạch nhũ như bộ xương; hố sụt như mũi, hai khu rừng giống như lá phổi xanh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Những thử thách trong kỳ quan Sơn Đoòng"
+    },
+    {
+     "t": "p",
+     "text": "Bước qua cửa hang, địa hình bên trong Sơn Đoòng liên tục thay đổi. Trước mắt là những dòng suối chảy xiết, bãi đá nhiều màu sắc, các khối thạch nhũ và măng đá với hình thù khác nhau, được thiên nhiên kiến tạo qua hàng triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Ông Bình cùng các thành viên trong đoàn có dịp khám phá khe tối nằm phía dưới bãi cắm trại trong hang. Lối xuống sâu, hẹp và thiếu ánh sáng, khiến mỗi bước chân đều cần sự cẩn trọng."
+    },
+    {
+     "t": "p",
+     "text": "Khi ánh đèn pin chiếu xuống, làn nước xanh ngọc dần hiện ra, tạo nên khung cảnh ấn tượng giữa lòng hang tối."
+    },
+    {
+     "t": "p",
+     "text": "Sáng hôm sau, đoàn tiếp tục hành trình khám phá Hố Sụt 1 và Hố Sụt 2 cùng đội ngũ hỗ trợ."
+    },
+    {
+     "t": "p",
+     "text": "Đây là những khoảng mở hình thành khi một phần trần hang đá vôi sụp xuống sau quá trình kiến tạo địa chất kéo dài. Qua hàng triệu năm, nước ngầm hòa tan đá vôi, dần tạo ra những khoảng rỗng bên dưới lòng đất. Khi phần đá phía trên mất đi độ ổn định, trần hang có thể sụp xuống, hình thành những hố sâu thông với mặt đất."
+    },
+    {
+     "t": "p",
+     "text": "Ánh sáng từ bên ngoài theo các hố sụt chiếu xuống lòng hang, tạo nên những vùng cảnh quan khác biệt giữa không gian vốn chìm trong bóng tối."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, Hố Sụt 2 - mang tên \"Garden of Edam\" - là một trong những khu vực đặc biệt của Sơn Đoòng. Nằm sâu dưới lòng đất, khu rừng phát triển trong hố sụt tự nhiên, đón ánh sáng từ khoảng mở phía trên để duy trì sự sống giữa không gian đá vôi rộng lớn."
+    },
+    {
+     "t": "p",
+     "text": "Leo lên một măng đá, các thành viên trong đoàn có thể quan sát rõ những tán lá xanh, thân cây vươn cao cùng những mảng rêu phủ trên đá và đất. Giữa khung cảnh kỳ lạ đó, ông Bình cùng các thành viên dành một phút im lặng. Không ai muốn phá vỡ sự tĩnh lặng đang bao trùm."
+    },
+    {
+     "t": "p",
+     "text": "\"Im lặng ở Garden of Edam rất khác, không phải là im lặng trên đỉnh núi có gió thổi mạnh, không phải im lặng trong một ngôi chùa... Đây là sự tĩnh lặng của một khu rừng dưới lòng đất, nơi ánh sáng đến muộn, nước tìm đến qua những con đường bí mật và cây cối lớn lên trong điều kiện không dễ dàng”, ông Bình bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Buổi sáng cuối cùng, cả đoàn tiếp tục hành trình khám phá “Bức tường Việt Nam” - khối thạch nhũ khổng lồ cao khoảng 90m, nằm ở đoạn cuối hang Sơn Đoòng. Đây được xem là một trong những thử thách đáng nhớ của hành trình 4 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Trước đây, khi chưa có lộ trình xuyên hang Sơn Đoòng, du khách đến chân \"Bức tường Việt Nam\" sẽ quay trở lại theo đường cũ. Hiện nay, khu vực này trở thành một phần của hành trình, mở ra lối đi để du khách tiếp tục ra ngoài hang."
+    },
+    {
+     "t": "p",
+     "text": "Trên đường đến với \"Bức tường Việt Nam\", ông Bình chú ý những con cá nhỏ không có mắt, bơi trong các vũng nước. Kích thước của chúng bé đến mức có thể khiến mọi người không nhìn thấy."
+    },
+    {
+     "t": "p",
+     "text": "Các thành viên phải cúi sát mặt nước, kiên nhẫn quan sát mới có thể nhận ra sự hiện diện của loài cá này."
+    },
+    {
+     "t": "p",
+     "text": "\"Mất đi đôi mắt không phải là khiếm khuyết mà là kết quả của quá trình thích nghi. Trong thế giới gần như không có ánh sáng, đôi mắt không còn là lợi thế quyết định. Râu, vây và khả năng cảm nhận chuyển động của nước… trở thành câu trả lời của sinh vật với bóng tối”, ông Bình bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Ông Bình cho rằng, Sơn Đoòng vốn đã là một tuyệt tác của thiên nhiên và không cần con người tô vẽ để trở nên kỳ vĩ. Hang động được hình thành cách đây khoảng 4 triệu năm, nằm trong không gian địa chất Phong Nha - Kẻ Bàng có lịch sử kiến tạo kéo dài khoảng 400 triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Đến với Sơn Đoòng, chúng ta có cơ hội hiểu và học hỏi từ thiên nhiên cách chung tay bảo vệ kỳ quan này một cách bền vững, gìn giữ cho các thế hệ mai sau\", nam doanh nhân bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Những trải nghiệm khám phá hang động tự nhiên lớn nhất thế giới tính theo thể tích đã được ông Đoàn Văn Bình chia sẻ trong cuốn sách \"Sơn Đoòng - Nơi Trái Đất thở\"."
+    },
+    {
+     "t": "p",
+     "text": "Từ trải nghiệm thám hiểm, tác giả gửi gắm suy ngẫm về mối quan hệ giữa con người và thiên nhiên. Một kỳ quan không trở nên có giá trị hơn chỉ vì được khai thác nhiều hơn. Việc tôn trọng giới hạn, bảo vệ môi trường và gìn giữ sự nguyên sơ mới giúp di sản trường tồn."
+    },
+    {
+     "t": "p",
+     "text": "Toàn bộ thu nhập từ cuốn sách được ông Đoàn Văn Bình dành tặng Quỹ Ngày mai tươi sáng và UNICEF."
+    },
+    {
+     "t": "p",
+     "text": "Hang Sơn Đoòng nằm giữa núi rừng Phong Nha - Kẻ Bàng của tỉnh Quảng Trị, được phát hiện lần đầu bởi một người dân địa phương vào năm 1990."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2009, Sơn Đoòng được Hiệp hội Hang động Hoàng gia Anh khám phá và công bố là hang động lớn nhất hành tinh. Kể từ khi được công bố, hang Sơn Đoòng gây chấn động thế giới với kích thước khổng lồ đến khó tin và những kiến tạo hang động độc đáo không nơi nào có được."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2014, tỉnh Quảng Trị cho phép đưa vào khai thác du lịch hang Sơn Đoòng, với số lượng người không quá 1.000 khách mỗi năm."
+    }
+   ]
+  },
+  {
+   "id": "63e1b246df5f",
+   "order": 16,
+   "slug": "9x-cho-buoi-da-xanh-sinh-de-co-ke-hoach-thu-khoang-8-ti-dong",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "9X cho bưởi da xanh 'sinh đẻ có kế hoạch', thu khoảng 8 tỉ đồng/năm",
+   "sapo": "Chuyện Hồ Hoàng Kha, Giám đốc Hợp tác xã bưởi da xanh Sông Xoài (P.Tân Thành, TP.HCM), kiếm tiền tỉ từ bưởi thì chẳng lạ nhưng cách anh bắt bưởi da xanh \"sinh đẻ có kế hoạch\", tránh được bài toán nan giải \"được mùa mất giá\" là điều khiến nhiều người tò mò.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/9x-cho-buoi-da-xanh-sinh-de-co-ke-hoach-thu-khoang-8-ti-dong-nam-185261013191519893.htm",
+   "published": "2026-10-14T01:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 905,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/63e1b246df5f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/63e1b246df5f-0.jpg",
+     "caption": "Anh Hồ Hoàng Kha bên bưởi da xanh Sông Xoài",
+     "w": 1024,
+     "h": 722
+    },
+    {
+     "src": "img/2026-10-15/63e1b246df5f-1.jpg",
+     "caption": "Các sản phẩm từ bưởi như tinh dầu bưởi, trà bưởi, bưởi lên men, mứt vỏ bưởi..., góp phần đa dạng hóa sản phẩm, tăng thu nhập cho xã viên",
+     "w": 1024,
+     "h": 640
+    },
+    {
+     "src": "img/2026-10-15/63e1b246df5f-2.jpg",
+     "caption": "Mô hình của anh Kha giúp tạo công ăn việc làm cho người dân địa phương",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-10-15/63e1b246df5f-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 237
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chuyện Hồ Hoàng Kha, Giám đốc Hợp tác xã bưởi da xanh Sông Xoài (P.Tân Thành, TP.HCM), kiếm tiền tỉ từ bưởi thì chẳng lạ nhưng cách anh bắt bưởi da xanh \"sinh đẻ có kế hoạch\", tránh được bài toán nan giải \"được mùa mất giá\" là điều khiến nhiều người tò mò."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 9.2026, anh Kha xuất sắc nhận giải thưởng Lương Định Của và mới đây anh là một trong 70 cá nhân được tuyên dương Giải thưởng Nguyễn Chí Thanh năm 2026."
+    },
+    {
+     "t": "h",
+     "text": "Mạnh dạn cải tiến, thay đổi"
+    },
+    {
+     "t": "p",
+     "text": "Nhớ lại biến cố gia đình khiến anh dang dở việc học, về quê phụ trách 2 ha bưởi của gia đình năm 2011, Kha tần ngần: \"Bỡ ngỡ lắm, mình đang tuổi ăn tuổi học, nên lúc đầu ba mẹ chăm bưởi sao thì mình làm vậy\". Anh nhận ra gia đình đơn thuần chỉ bán bưởi, chưa có dấu ấn thương hiệu riêng và giá bưởi không phải lúc nào cũng cao. Điều đó thôi thúc Kha đăng ký khóa học 6 tháng về kỹ thuật trồng và chăm sóc bưởi theo tiêu chuẩn VietGAP tại Trung tâm cây ăn quả miền Đông Nam bộ. Sau đó, anh còn học thêm về kỹ thuật trồng cây ăn trái, chứng chỉ kế toán, thuốc bảo vệ thực vật, phân bón…"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm 2013, Hợp tác xã (HTX) bưởi da xanh Sông Xoài được thành lập, chàng trai 20 tuổi Hồ Hoàng Kha được tín nhiệm bầu là phó giám đốc. Những khóa học, chuyến đi, trải nghiệm mang lại cho Kha bao bài học quý giá. Chẳng hạn trước đây gia đình anh có thói quen đào hố sâu trồng bưởi. \"Sau khi học về, mình nhận ra không thể trồng vậy được. Mình phải trồng trên một cái mô đất để cho rễ phát triển và lên mương cho cây thoát nước\", anh kể."
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm 2013, Kha xin ba mẹ 5.000 m2 đất để áp dụng quy trình trồng bưởi của riêng mình. \"Năm 2014, từ 100 cây bưởi da xanh trồng trên 5.000 m2 xin ba mẹ, mình thu gần 2 tỉ đồng, gấp 3 - 4 lần trước đó\", anh nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Từ bước đà này, anh lại xin ba mẹ khoảng hơn 80 triệu đồng đầu tư mua ống gắn hệ thống tưới nước, tưới phân tự động… \"Trước đó một đêm mình tưới được khoảng 5.000 m2 thì khi có hệ thống tưới tự động, một đêm có thể tưới đến 2, 3 ha. Rồi mình thuyết phục gia đình mua thêm 1 mẫu đất mở rộng quy mô và dành tiền đầu tư\", Kha kể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Thu nhập hơn 7 tỉ đồng/năm"
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm 2018, bưởi da xanh rớt giá thê thảm. \"Ban đầu còn được 20.000 đồng/kg, sau đó giảm dần… có thời điểm bán 4.000 đồng, 3.000 đồng. Mạnh ai nấy bán\", Kha nhớ lại. Anh nhận ra nếu chỉ sản xuất theo tập quán, bưởi sẽ tập trung nhiều vào tháng 9, tháng 10, gây áp lực tiêu thụ và giá bán. Từ thực tế đó, ban quản trị HTX xác định phải thay đổi đồng bộ: tìm hiểu điều kiện để tiếp cận thị trường xuất khẩu , nâng cao chất lượng sản phẩm, kiểm soát đầu vào và ứng dụng kỹ thuật vào sản xuất. Trong đó, Kha được giao phụ trách mảng kỹ thuật xử lý bưởi nghịch vụ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Làm sao để bưởi ra hoa kết trái nghịch mùa mà không dùng thuốc kích thích? Sau nhiều đêm trằn trọc suy nghĩ, ý tưởng lóe lên trong một lần Kha được gợi ý lặt lá mai điều chỉnh thời điểm ra hoa. Thế rồi, anh nghiên cứu và thử ứng dụng lặt lá bưởi. \"Chúng mình bắt đầu lặt. Lặt chừng 20 ngày thì bưởi ra hoa, thêm 10 ngày nữa thì đậu quả. Lúc đầu chúng mình lặt ít để thử nghiệm sau đó thành công mới nhân rộng\", Kha kể và khẳng định nếu khách hàng cần 50 tấn bưởi vào tháng 3 âm lịch, thì đúng thời điểm này bên anh vẫn có đủ bưởi để giao, bất chấp nghịch vụ. \"Gia đình mình sau khi trừ hết chi phí đạt lợi nhuận khoảng 7 - 8 tỉ đồng/năm\", Kha cho biết."
+    },
+    {
+     "t": "p",
+     "text": "HTX Sông Xoài hiện có 120 xã viên. Anh Trần Trường Sa (45 tuổi), xã viên HTX bưởi da xanh Sông Xoài, cho biết 1 năm nay, anh thuê hơn 2 mẫu bưởi để quản lý, chăm sóc. \"Sau khi trừ các chi phí, mỗi mẫu gia đình tôi thu lợi nhuận 800 triệu đồng đến 1 tỉ đồng, tùy thuộc giá cả mùa vụ. Mừng lắm!\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Chị Dương Thị Hạnh, Phó chủ tịch Ủy ban MTTQ Việt Nam P.Tân Thành, Bí thư Đoàn phường Tân Thành, cho biết đóng góp của Kha không chỉ nằm ở hiệu quả kinh tế từ cây bưởi da xanh mà còn ở việc hỗ trợ người dân địa phương phát triển sản xuất. \"Anh Kha còn tạo công ăn việc làm cho thanh niên và người lao động nhàn rỗi tại địa phương, góp phần nâng cao đời sống bà con. Lao động chủ yếu của anh là người dân địa phương. Một số sinh viên là con em quê hương sau khi tốt nghiệp đã trở về làm việc với anh\", chị Hạnh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "83eb0286bbea",
+   "order": 17,
+   "slug": "hang-da-noi-nguoi-tien-su-cu-tru-12-000-nam-truoc-o-di-san-t",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Hang đá nơi người tiền sử cư trú 12.000 năm trước ở di sản Tràng An",
+   "sapo": "(Dân trí) - Hang Bói là di chỉ khảo cổ ghi dấu sự cư trú của người tiền sử cách đây hơn 12.000 năm, nằm trong Quần thể danh thắng Tràng An – Di sản văn hóa",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/hang-da-noi-nguoi-tien-su-cu-tru-12000-nam-truoc-o-di-san-trang-an-20261014150431621.htm",
+   "published": "2026-10-14T08:10:45+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 844,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/83eb0286bbea-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/83eb0286bbea-0.jpg",
+     "caption": "Trước cửa Hang Bói trong Quần thể danh thắng Tràng An (Ảnh: Thái Bá).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/83eb0286bbea-1.jpg",
+     "caption": "Lớp vỏ ốc nhuyễn thể, dấu tích gắn với tập quán khai thác nguồn thức ăn tự nhiên của cư dân cổ (Ảnh: Thái Bá).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/83eb0286bbea-2.jpg",
+     "caption": "Du khách tham quan bên trong Hang Bói (Ảnh: Thái Bá).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/83eb0286bbea-3.jpg",
+     "caption": "Các lớp nhũ đá được thiên nhiên tạo dựng trong Hang Bói thu hút du khách khám phá (Ảnh: Thái Bá).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/83eb0286bbea-4.jpg",
+     "caption": "Thời gian tới, tuor khám phá Hang Bói sẽ được mở cửa đón du khách đến tham quan (Ảnh: Thái Bá).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Hang Bói là di chỉ khảo cổ ghi dấu sự cư trú của người tiền sử cách đây hơn 12.000 năm, nằm trong Quần thể danh thắng Tràng An – Di sản văn hóa và thiên nhiên thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Di chỉ khảo cổ Hang Bói thuộc Khu du lịch văn hóa Thung Ui, phường Tây Hoa Lư, tỉnh Ninh Bình, nằm trong vùng lõi Quần thể danh thắng Tràng An – Di sản văn hóa và thiên nhiên thế giới."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Để đến được nơi ghi dấu sự cư trú của người tiền sử cách đây hơn 12.000 năm, chúng tôi phải đi bộ qua những bậc đá men theo sườn núi. Từ cửa rừng Thung Ui vượt quãng đường khoảng 1km, với độ cao hơn 100m."
+    },
+    {
+     "t": "p",
+     "text": "Hang có chiều sâu khoảng 60-70m, bên trong gồm các khu vực có kích thước khác nhau, với hệ thống thạch nhũ và măng đá hình thành qua quá trình kiến tạo tự nhiên kéo dài hàng triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Ông Phùng Thế Quỳnh, Giám đốc vận hành Khu du lịch văn hóa Thung Ui cho biết, từ năm 2007, các nhà khoa học trong nước và quốc tế đã phối hợp nghiên cứu di chỉ khảo cổ Hang Bói. Tại đây đã phát hiện và bổ sung nhiều tư liệu khảo cổ học, góp phần làm sáng tỏ đời sống của cư dân cổ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các di chỉ khảo cổ trong hang đã phản ánh hoạt động của con người trong quá khứ. Tại cửa hang phát hiện lớp vỏ ốc nhuyễn thể, dấu tích gắn với tập quán khai thác nguồn thức ăn tự nhiên của cư dân cổ."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong điều kiện con người chủ yếu dựa vào săn bắt, hái lượm, các nguồn lợi sẵn có từ rừng núi, sông suối đóng vai trò quan trọng đối với đời sống. Những dấu tích như vậy góp phần cung cấp thông tin về phương thức kiếm sống, cách con người thích nghi với môi trường tự nhiên trong từng giai đoạn lịch sử\", ông Quỳnh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Cao Tấn, Phó Giám đốc Sở Du lịch tỉnh Ninh Bình cho hay, Quần thể danh thắng Tràng An không chỉ có cảnh quan đặc sắc mà còn lưu giữ nhiều hang động có dấu tích cư trú của người tiền sử, phản ánh quá trình con người thích ứng với môi trường tự nhiên."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các phát hiện khảo cổ tại khu vực Hang Bói đã góp phần bổ sung tư liệu nghiên cứu về quá trình con người cư trú trong không gian núi đá vôi Ninh Bình. Thông qua việc nghiên cứu địa tầng, di vật và các dấu tích còn lại, giới chuyên môn có thêm cơ sở tìm hiểu điều kiện sống, tập quán sinh hoạt và mối quan hệ giữa con người với môi trường tự nhiên thời tiền sử."
+    },
+    {
+     "t": "p",
+     "text": "Giám đốc Vận hành Khu du lịch văn hóa Thung Ui cho biết thêm, đơn vị đã chuẩn bị chu đáo các điều kiện mở cửa chuẩn bị đón khách tham quan Hang Bói. Hoạt động du lịch sẽ gắn với yêu cầu tôn trọng, bảo vệ di sản, gìn giữ môi trường tự nhiên và cảnh quan, hướng tới phát triển du lịch bền vững."
+    },
+    {
+     "t": "p",
+     "text": "\"Thời gian tới, khu du lịch tiếp tục khảo sát các hang động xung quanh, tìm hiểu những giá trị khảo cổ, lịch sử và văn hóa để xây dựng thêm sản phẩm du lịch mới, góp phần giới thiệu di sản đến du khách trong nước và quốc tế\", ông Quỳnh nói."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Phó Giám đốc Sở Du lịch Ninh Bình chia sẻ, việc đưa các di tích trong Quần thể danh thắng Tràng An đủ điều kiện vào khai thác du lịch tạo cơ hội để du khách trực tiếp tìm hiểu lịch sử, đời sống cư dân cổ, qua đó góp phần diễn giải giá trị nổi bật toàn cầu của di sản, đồng thời phát triển sản phẩm du lịch khảo cổ học hấp dẫn du khách trong nước và quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Việc khai thác Hang Bói theo hướng du lịch khảo cổ cũng mở thêm cơ hội để công chúng tiếp cận những tư liệu về lịch sử cư trú của người tiền sử tại Tràng An. Hiệu quả của hướng đi này phụ thuộc vào khả năng kết nối nghiên cứu khoa học, thuyết minh di sản và tổ chức tham quan, đồng thời bảo đảm các dấu tích khảo cổ được gìn giữ lâu dài."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Chị Nguyễn Hoa Mận, hướng dẫn viên Khu du lịch văn hóa Thung Ui cho biết, để truyền tải đầy đủ giá trị di sản đến du khách, đội ngũ hướng dẫn viên chủ động tìm hiểu tài liệu lịch sử, thông tin khảo cổ và các nguồn tư liệu liên quan."
+    },
+    {
+     "t": "p",
+     "text": "Nội dung thuyết minh không chỉ giới thiệu cảnh quan mà còn làm rõ những dấu tích khảo cổ, lịch sử cư trú, đời sống và tập quán của người tiền sử."
+    }
+   ]
+  },
+  {
+   "id": "202c21dda4f3",
+   "order": 18,
+   "slug": "co-gai-viet-o-quoc-gia-vua-don-nam-moi-2019-cham-7-nam-so-vo",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Cô gái Việt ở quốc gia vừa đón năm mới 2019, chậm 7 năm so với thế giới",
+   "sapo": "(Dân trí) - Ngọc Yến (sống ở Ethiopia) vừa cùng người bản địa tưng bừng đón năm mới 2019, dù thế giới đã bước sang năm 2026.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/co-gai-viet-o-quoc-gia-vua-don-nam-moi-2019-cham-7-nam-so-voi-the-gioi-20261013074510912.htm",
+   "published": "2026-10-13T23:52:09+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1058,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/202c21dda4f3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-10-15/202c21dda4f3-0.jpg",
+     "caption": "Ngọc Yến (ngoài cùng bên phải) chụp ảnh cùng gia đình một người bạn dịp năm mới (Ảnh: Nhân vật cung cấp).",
+     "w": 1273,
+     "h": 1350
+    },
+    {
+     "src": "img/2026-10-15/202c21dda4f3-1.jpg",
+     "caption": "Món ăn Doro Wat (Doro Wot) của người Ethiopia ăn vào dịp năm mới (Ảnh: Diversivore).",
+     "w": 1280,
+     "h": 768
+    },
+    {
+     "src": "img/2026-10-15/202c21dda4f3-2.jpg",
+     "caption": "Ethiopia nổi tiếng với chất lượng thịt bò ngon (Ảnh: Fortune).",
+     "w": 620,
+     "h": 320
+    },
+    {
+     "src": "img/2026-10-15/202c21dda4f3-3.jpg",
+     "caption": "Vườn quốc gia Simien Ethiopia được UNESCO công nhận là di sản thế giới nhờ cảnh quan xói mòn với những vách đá dựng đứng (Ảnh: Shutterstock).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/202c21dda4f3-4.jpg",
+     "caption": "Hình ảnh thủ đô Addis Ababa, Ethiopia (Ảnh: Metropolitan).",
+     "w": 1024,
+     "h": 683
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Ngọc Yến (sống ở Ethiopia) vừa cùng người bản địa tưng bừng đón năm mới 2019, dù thế giới đã bước sang năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng hai hệ lịch"
+    },
+    {
+     "t": "p",
+     "text": "Hơn 4 năm trước, Ngọc Yến lần đầu đặt chân đến Ethiopia, sống cùng bạn trai đang làm việc tại quốc gia này."
+    },
+    {
+     "t": "p",
+     "text": "Mở tivi theo dõi bản tin thời sự, cô gái bất ngờ vì màn hình hiển thị năm 2015. Trong khi, thời điểm đó thế giới đã bước sang năm 2022."
+    },
+    {
+     "t": "p",
+     "text": "\"Trò chuyện với người dân địa phương, tôi mới biết họ sử dụng song song hai loại lịch. Thế giới đã bước sang năm 2026 nhưng cách đây gần một tháng, người Ethiopia vừa tưng bừng đón năm mới 2019\", cô chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo Ngọc Yến, tại công sở và văn phòng các công ty, người Ethiopia vẫn sử dụng lịch như nhiều quốc gia khác. Tuy nhiên, các ngày lễ truyền thống quan trọng vẫn được xác định theo lịch Ethiopia cổ."
+    },
+    {
+     "t": "p",
+     "text": "Sự khác biệt này khiến Ngọc Yến có cảm giác như được “quay ngược thời gian” gần 8 năm."
+    },
+    {
+     "t": "p",
+     "text": "Nguyên nhân xuất phát từ cách tính riêng, vốn có nguồn gốc từ truyền thống lịch Coptic và được sử dụng trong đời sống tôn giáo, văn hóa của đất nước này."
+    },
+    {
+     "t": "p",
+     "text": "\"Trên điện thoại cá nhân, người bản địa vẫn hiển thị lịch riêng của Ethiopia. Sử dụng hai loại lịch không gây xáo trộn mọi việc\", Ngọc Yến chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi năm, lịch của Ethiopia có 13 tháng. Trong đó, 12 tháng có 30 ngày, còn tháng thứ 13 - tháng cuối năm - có 5-6 ngày (tùy theo năm thường hay năm nhuận)."
+    },
+    {
+     "t": "p",
+     "text": "Dịp đón năm mới ở đây diễn ra vào ngày 11/9 hoặc 12/9 (tuỳ năm thường hay năm nhuận). Theo cô gái người Việt Nam, quy mô tổ chức không lớn bằng lễ Giáng sinh diễn ra vào tháng 12."
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, dịp đón năm mới trùng vào Chủ nhật nên người dân được nghỉ 4 ngày. Sau đêm giao thừa, các gia đình thường đến nhà họ hàng, bạn bè chúc tụng, ăn tiệc."
+    },
+    {
+     "t": "p",
+     "text": "Trong bữa ăn dịp năm mới không thể thiếu món Doro Wat (Doro Wot) - gà hầm sốt gia vị đỏ, ăn kèm trứng luộc và bánh mì dẹt injera."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, thịt gà thường chặt thành miếng, hầm chậm đến khi mềm. Sốt đỏ cay được làm từ hành tây, hỗn hợp gia vị tỏi, gừng, bơ... Trứng luộc cho nguyên cả quả vào nồi sốt. Bánh mì dẹt làm từ ngũ cốc, mọi người xé bánh bằng tay xúc thịt gà và nước sốt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các gia đình khá giả sẽ mổ dê, bò... sau đó chia phần cho hàng xóm, bạn bè lan toả niềm vui bước sang năm mới."
+    },
+    {
+     "t": "p",
+     "text": "\"Người Ethiopia duy trì thói quen ăn chay và ăn mặn xen kẽ trong tuần. Năm nay, ngày đầu tiên của năm mới trùng vào ngày ăn chay, các gia đình đợi sang ngày tiếp theo để mời bạn bè đến nhà\", cô nói."
+    },
+    {
+     "t": "p",
+     "text": "Trong những ngày nghỉ Tết, mọi người thường đổ ra đường đi dạo, vui chơi. Thủ đô Addis Ababa thưa người hơn bình thường, nhưng không vắng vẻ như các nước châu Á đón năm mới theo lịch Âm."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, hoa Tết của người dân ở đây là Adey Abeba - hoa cúc Ethiopia. Loài hoa này nở rộ vào đầu tháng 9. Sáng đầu tiên của năm mới, các bé gái mặc trang phục truyền thống, mang những bó hoa vàng đến thăm các gia đình, hát bài chúc mừng năm mới và nhận những món quà nhỏ"
+    },
+    {
+     "t": "p",
+     "text": "\"Giúp việc của gia đình tôi cài bông hoa này lên áo và tóc cầu may mắn, tôi làm theo như một cách nhập gia tuỳ tục\", cô chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều điều thú vị ở Ethiopia"
+    },
+    {
+     "t": "p",
+     "text": "Sống tại Ethiopia, Ngọc Yến bất ngờ với nhiều điều thú vị. Trước khi sang nước bạn, cô từng nghĩ nơi đây sẽ khô nóng. Tuy nhiên, khí hậu ở Ethiopia mát mẻ quanh năm, do địa hình nằm ở độ cao 2.000-3.000m so với mực nước biển."
+    },
+    {
+     "t": "p",
+     "text": "Ẩm thực của Ethiopia nổi tiếng với thịt bò thơm ngon nhờ chăn thả tự nhiên trên những cánh đồng rộng thẳng cánh cò bay và khí hậu thiên nhiên mát mẻ."
+    },
+    {
+     "t": "p",
+     "text": "Người dân địa phương có món bò sống trộn gia vị mang tên Kitfo. Sau vài năm ở Ethiopia, Ngọc Yến vẫn còn e ngại, chưa dám thử."
+    },
+    {
+     "t": "p",
+     "text": "Thường ngày, cô đi siêu thị bán các đồ châu Á. Một số mặt hàng của Việt Nam có bán ở đây nhưng giá rất đắt. Cụ thể, một chai nước mắm được bán với giá 500.000 đồng, mỳ tôm khoảng 50.000 đồng/gói, phở ăn liền có giá 70.000 đồng - 80.000 đồng/gói."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh việc nội trợ, Ngọc Yến làm nhiều món ăn Việt Nam bán cho người nước ngoài đang sinh sống ở Ethiopia."
+    },
+    {
+     "t": "p",
+     "text": "Thực đơn phong phú với các món như nem, bún bò Huế, bún riêu, phở, bánh da lợn, bánh dứa, bánh tét…Trong đó, các món bún, phở có giá 300.000 đồng/suất."
+    },
+    {
+     "t": "p",
+     "text": "Ethiopia nằm ở vùng Sừng châu Phi, có diện tích khoảng 1,2 triệu km2. Đây là quốc gia không có biển, với địa hình đặc trưng là các cao nguyên, núi và đồng bằng. Trong số khoảng 80 triệu dân của Ethiopia, 80% mưu sinh bằng nông nghiệp."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo các di chỉ khảo cổ, dấu tích về tổ tiên loài người được tìm thấy ở đây có niên đại 5 triệu năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Nơi đây được coi là cái nôi của cà phê Arabica. Tương truyền rằng, từ nhiều thế kỷ trước, một người chăn dê phát hiện đàn dê thích ăn quả từ một loài cây mọc ven đường. Vì tò mò, ông thử dùng hạt của loài cây ấy và bất ngờ nhận ra cơ thể trở nên tỉnh táo, minh mẫn hơn."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Ethiopia là một trong những nền kinh tế phát triển nhanh nhất hiện nay. Quốc gia này đã đạt được thành công trong phát triển kinh tế, ghi nhận tốc độ tăng trưởng kinh tế hàng năm là 10% trong 15 năm qua. Công nghiệp, xây dựng, dịch vụ, nông nghiệp là những nguồn tăng trưởng chính."
+    }
+   ]
+  },
+  {
+   "id": "76c4321e289a",
+   "order": 19,
+   "slug": "nuoc-nao-co-3-mui-gio-nhieu-nhat-dong-nam-a",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Nước nào có 3 múi giờ, nhiều nhất Đông Nam Á?",
+   "sapo": "Có lãnh thổ rộng lớn, trải dài từ đông sang tây, quốc gia này sử dụng tới 3 múi giờ khác nhau, nhiều nhất trong số các nước Đông Nam Á.",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/nuoc-nao-co-3-mui-gio-nhieu-nhat-dong-nam-a-2564853.html",
+   "published": "2026-10-14T22:10:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 597,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/76c4321e289a-lead.jpg",
+     "caption": "",
+     "w": 1204,
+     "h": 974
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Nước nào có 3 múi giờ, nhiều nhất Đông Nam Á?"
+    },
+    {
+     "t": "li",
+     "text": "Malaysia 0% Indonesia 0% Philippines 0% Thái Lan 0% Chính xác Indonesia hiện có 3 múi giờ, gồm giờ Tây Indonesia (WIB, UTC+7), giờ Trung Indonesia (WITA, UTC+8) và giờ Đông Indonesia (WIT, UTC+9). Do lãnh thổ trải dài từ đông sang tây, quốc gia này sử dụng các múi giờ khác nhau để phù hợp với thời gian ở từng khu vực. Indonesia hiện là quốc gia có nhiều múi giờ nhất Đông Nam Á. 2. Quốc gia duy nhất nào nằm ở cả bốn bán cầu và có múi giờ sớm nhất trên Trái Đất? Maldives 0% Peru 0% Uruguay 0% Kiribati 0% Chính xác Kiribati là một quốc đảo trải dài trên diện tích khoảng 811km2, nằm ở trung tâm Thái Bình Dương. Trong khi lãnh thổ các quốc gia khác thường nằm ở một bán cầu (trừ một số trường hợp đặc biệt như Mali, Algeria và Pháp nằm ở hai bán cầu), đây là quốc gia duy nhất có lãnh thổ nằm trên cả bốn bán cầu của Trái Đất. Không chỉ nổi tiếng vì lãnh thổ nằm ở cả bốn bán cầu, Kiribati còn là một trong những nơi bước sang ngày mới sớm nhất thế giới. Hiện nước này dùng 3 múi giờ là UTC+12, UTC+13 và UTC+14. Trong đó, UTC+14 là múi giờ sớm nhất được sử dụng trên Trái Đất. Kiribati vì thế là một trong những nơi đầu tiên trên thế giới chào đón năm mới. 3. Đất nước nào có nhiều múi giờ nhất thế giới? Mỹ 0% Tây Ban Nha 0% Pháp 0% Nga 0% Chính xác Theo Timeanddate , với 12 múi giờ, Pháp là quốc gia có nhiều múi giờ tiêu chuẩn nhất thế giới, nếu tính cả các vùng phụ thuộc. Phần lãnh thổ chính của quốc gia này nằm ở Tây Âu, gồm 1 múi giờ. Các múi giờ còn lại nằm ở các vùng và lãnh thổ hải ngoại. Thậm chí, con số có thể tăng lên 13 khi Saint-Pierre và Miquelon áp dụng giờ mùa hè. 4. Trung Quốc có mấy múi giờ? 1 0% 2 0% 3 0% 4 0% Chính xác Trung Quốc là quốc gia rộng thứ ba thế giới. Trước năm 1949, Trung Quốc từng được chia thành năm múi giờ. Sau khi nước Cộng hòa Nhân dân Trung Hoa thành lập, chính quyền thống nhất sử dụng giờ Bắc Kinh, tương ứng UTC+8, trên toàn quốc. Quy định này vẫn được duy trì đến nay. Vì thế, ở những tỉnh miền tây xa xôi của nước này, mặt trời lặn lúc nửa đêm vào mùa hè và mọc khi đồng hồ điểm 10h sáng vào mùa đông. 5. Đất nước nào từng đổi múi giờ để tiết kiệm điện? Venezuela 0% Nepal 0% Samoa 0% Crimea 0% Chính xác Năm 2016, Tổng thống Venezuela Nicolas Maduro quyết định điều chỉnh múi giờ trên toàn quốc nhanh hơn 30 phút. Động thái này được cho là giúp giảm thời gian sử dụng đèn thắp sáng và điều hòa nhiệt độ vào ban đêm của người dân. Đây cũng là cách quốc gia này đối phó với tình trạng hạn hán kéo dài, đe dọa trực tiếp đến việc sản xuất điện. Trước đó, năm 2007, cựu Tổng thống Hugo Chavez từng quyết định lùi đồng hồ 30 phút, đưa Venezuela từ UTC-4 về UTC-4 giờ 30 phút. Đến năm 2016, nước này quay lại múi giờ UTC-4. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "2e30f99f5734",
+   "order": 20,
+   "slug": "moi-luong-duyen-doc-nhat-vo-nhi-giua-gieng-co-cham-ngan-nam",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Mối lương duyên 'độc nhất vô nhị' giữa giếng cổ Chăm ngàn năm và loại rau lạ",
+   "sapo": "Giữa vùng đất đỏ bazan ở xã Cồn Tiên (Quảng Trị), hệ thống giếng cổ hàng nghìn năm tuổi không chỉ lưu giữ dấu tích văn hóa Chăm mà còn nuôi dưỡng rau liệt, loại rau đặc sản mang lại nguồn thu đáng kể cho người dân.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/moi-luong-duyen-doc-nhat-vo-nhi-giua-gieng-co-cham-ngan-nam-va-loai-rau-la-185261014090745216.htm",
+   "published": "2026-10-14T02:45:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 628,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-10-15/2e30f99f5734-0.jpg",
+     "caption": "Giếng cổ (góc phải) và vườn rau liệt ở Gio An",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-1.jpg",
+     "caption": "Giếng Bà nằm ở khu vực Hảo Sơn (xã Cồn Tiên) hiện nay",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-2.jpg",
+     "caption": "Giếng Bà trước đây chỉ dành cho phụ nữ có gia đình xuống tắm rửa",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-3.jpg",
+     "caption": "Giếng Ông nằm không xa giếng Bà",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-4.jpg",
+     "caption": "Giếng Ông trước đây là nơi dành cho đàn ông có gia đình tắm rửa",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-5.jpg",
+     "caption": "Giếng Trạng nằm ở một vị trí khá đẹp",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-6.jpg",
+     "caption": "Người dân sử dụng nguồn nước từ giếng cổ để sinh hoạt hằng ngày",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-7.jpg",
+     "caption": "Hệ thống máng đá dẫn nước ở giếng cổ",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-8.jpg",
+     "caption": "Những vườn rau liệt nằm sát khu vực giếng cổ",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-9.jpg",
+     "caption": "Đang vào mùa rau liệt ngon nhất ở Gio An",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-10.jpg",
+     "caption": "Người dân thu hoạch rau liệt",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-10-15/2e30f99f5734-11.jpg",
+     "caption": "Mớ rau liệt ngọt lành",
+     "w": 1280,
+     "h": 770
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Về xã Cồn Tiên, nhiều người tìm đến hệ thống giếng cổ Gio An để khám phá công trình dẫn thủy độc đáo có từ thời Champa. Nhưng với người dân địa phương, những dòng nước trong mát chảy quanh năm từ các giếng cổ còn gắn liền với một đặc sản nổi tiếng: rau liệt (còn gọi là xà lách xoong, rau cải xoong)."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Lê Phước Hiếu, Phó trưởng phòng Kinh tế UBND xã Cồn Tiên, hệ thống giếng cổ Gio An có niên đại hơn 2.000 năm, gồm 14 giếng được công nhận là di tích lịch sử - văn hóa cấp quốc gia. Địa phương đang tiếp tục hoàn thiện hồ sơ bổ sung 4 giếng và hướng đến mục tiêu đề nghị công nhận di tích quốc gia đặc biệt."
+    },
+    {
+     "t": "p",
+     "text": "Giếng cổ ngàn năm ở Quảng Trị nuôi dưỡng loại rau mang về 5 tỉ đồng mỗi năm"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Điểm độc đáo của hệ thống này là cách xếp đá và dẫn nước từ các mạch ngầm trong những triền đồi đất đỏ bazan . Nguồn nước được sử dụng cho nhiều mục đích, từ sinh hoạt của người dân đến tưới rau liệt, nuôi sen và phục vụ sản xuất nông nghiệp. Tại đây, các khu vực lấy nước được phân chia theo công năng, trong đó có nơi dành riêng để lấy nước uống, tắm rửa."
+    },
+    {
+     "t": "p",
+     "text": "Chính dòng nước trong mát ấy tạo nên môi trường sinh trưởng đặc biệt của rau liệt. Loại rau này chỉ phát triển tốt ở nguồn nước đầu nguồn, nơi nước sạch và lưu thông thường xuyên. Người trồng không cần sử dụng phân bón hóa học hay thuốc bảo vệ thực vật."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Cầm bó rau vừa thu hoạch, một người dân trồng rau liệt ở Gio An cho biết hiện rau được bán khoảng 12.000 đồng/bó. Mỗi lứa thu hoạch cách nhau 15 - 20 ngày; vào thời điểm cao điểm, mỗi hộ có thể thu được hàng chục bó rau. Mùa rau thường bắt đầu từ tháng 9 âm lịch và kéo dài đến khoảng tháng giêng năm sau."
+    },
+    {
+     "t": "p",
+     "text": "\"Rau thời điểm này ăn ngọt, ngon lắm! Có thể ăn sống, luộc, chấm hoặc trộn với thịt bò, tỏi, chanh đều ngon\", một người dân chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ là món ăn quen thuộc, rau liệt còn trở thành nguồn thu nhập quan trọng của nhiều hộ dân. Theo ông Hiếu, vùng trồng rau liệt tại địa phương có diện tích khoảng 8 - 12 ha, tùy điều kiện thời tiết. Nếu với diện tích khoảng 10 ha, tổng giá trị thu hoạch có thể đạt khoảng 5 tỉ đồng mỗi năm."
+    },
+    {
+     "t": "p",
+     "text": "Rau liệt có tính mùa vụ, phát triển tốt trong điều kiện thời tiết mát và mùa mưa, thời điểm nhiều loại rau khác khó sinh trưởng. Nhờ hương vị riêng và cách trồng tự nhiên, loại rau này được người tiêu dùng trong và ngoài địa phương ưa chuộng."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Cùng với giá trị kinh tế của rau liệt, hệ thống giếng cổ Gio An ngày càng trở thành điểm nhấn trong phát triển du lịch Cồn Tiên. Theo ông Hiếu, trong 2 năm 2025 - 2026, địa phương đón khoảng 70.000 - 100.000 lượt khách mỗi năm."
+    },
+    {
+     "t": "p",
+     "text": "Những giếng cổ Chăm lưu dấu lịch sử và những luống rau xanh mướt bên dòng nước trong, 2 giá trị tưởng chừng khác biệt lại gắn bó mật thiết, tạo nên nét riêng của vùng đất Gio An xưa, nay thuộc xã Cồn Tiên . Bảo tồn hệ thống giếng cổ cũng chính là gìn giữ nguồn nước và không gian sinh trưởng của rau liệt, đặc sản góp phần làm nên bản sắc và sinh kế của người dân địa phương."
+    }
+   ]
+  }
+ ]
+}
