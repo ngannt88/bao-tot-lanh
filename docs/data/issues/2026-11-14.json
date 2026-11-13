@@ -1,0 +1,2632 @@
+{
+ "date": "2026-11-14",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-14T05:15:52+07:00",
+ "sections": [
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  }
+ ],
+ "articles": [
+  {
+   "id": "97a5566c7489",
+   "order": 1,
+   "slug": "sinh-vien-viet-dung-ai-phat-hien-lo-hong-7-zip",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Sinh viên Việt dùng AI phát hiện lỗ hổng 7-Zip",
+   "sapo": "Nguyễn Trần Thanh Lâm, du học sinh tại Singapore, cùng các cộng sự phát hiện lỗ hổng \"nghiêm trọng cao\" tồn tại trên phần mềm giải nén 7-Zip bằng AI Claude.",
+   "author": "Bảo Lâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/sinh-vien-viet-dung-ai-phat-hien-lo-hong-7-zip-5144449.html",
+   "published": "2026-11-13T12:00:42+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 700,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/97a5566c7489-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-14/97a5566c7489-0.jpg",
+     "caption": "Logo phần mềm giải nén 7-Zip. Ảnh: GB Hackers",
+     "w": 1020,
+     "h": 574
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nguyễn Trần Thanh Lâm, du học sinh tại Singapore, cùng các cộng sự phát hiện lỗ hổng \"nghiêm trọng cao\" tồn tại trên phần mềm giải nén 7-Zip bằng AI Claude."
+    },
+    {
+     "t": "p",
+     "text": "Lỗ hổng có tên mã CVE-2026-125742 được đánh giá ở mức độ nghiêm trọng cao khi cho phép kẻ tấn công thực thi mã độc từ xa thông qua file nén CAB đặc biệt - định dạng tệp nén dữ liệu độc quyền do Microsoft phát triển. Người phát hiện là Nguyễn Trần Thanh Lâm, sinh viên năm ba ngành Khoa học máy tính tại Đại học Công nghệ Nanyang (NTU - Singapore)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, lỗ hổng được xếp vào nhóm ghi dữ liệu vượt giới hạn vùng nhớ (heap out-of-bounds write, CWE-787), xuất hiện khi 7-Zip giải nén các file CAB được chia thành nhiều phần."
+    },
+    {
+     "t": "p",
+     "text": "Nguyên nhân nằm ở cách phần mềm quản lý bộ nhớ khi giải nén. Khi chuyển sang phần tiếp theo của file CAB, nếu kích thước vùng nhớ phục vụ giải nén bị thu nhỏ, 7-Zip cấp phát một vùng nhớ mới nhưng không cập nhật vị trí ghi dữ liệu cũ. Do đó, bộ giải mã vẫn sử dụng vị trí của vùng nhớ lớn trước đó để ghi vào vùng nhớ mới nhỏ hơn. Một lỗi trong phép tính kiểm tra giới hạn khiến phần mềm không phát hiện việc ghi dữ liệu vượt ra ngoài vùng nhớ được cấp phát."
+    },
+    {
+     "t": "p",
+     "text": "Trong bài phân tích kỹ thuật đăng trên blog cá nhân, Thanh Lâm đã chứng minh có thể tận dụng lỗi này để thực thi mã trên máy tính nạn nhân. Anh tạo hai file CAB được thiết kế đặc biệt, khi giải nén bằng 7-Zip, chúng kích hoạt chuỗi khai thác và tạo ra một reverse shell. Đây là cơ chế cho phép máy tính bị tấn công chủ động kết nối đến máy chủ của kẻ tấn công, qua đó nhận lệnh điều khiển từ xa."
+    },
+    {
+     "t": "p",
+     "text": "Nếu khai thác thành công, kẻ tấn công có thể thực thi mã với quyền của tài khoản đang chạy 7-Zip, từ đó có khả năng truy cập dữ liệu, cài đặt phần mềm độc hại hoặc thực hiện các hành vi khác trên máy tính nạn nhân."
+    },
+    {
+     "t": "p",
+     "text": "Theo Thanh Lâm, quá trình nghiên cứu có sự hỗ trợ của mô hình Claude Opus 5 của Anthropic."
+    },
+    {
+     "t": "p",
+     "text": "Công ty an ninh mạng Mỹ VulnCheck ghi nhận Thanh Lâm và các cộng sự đã phát hiện lỗ hổng trước khi công bố mã CVE-2026-125742. VulnCheck là một CNA - tổ chức được ủy quyền để thực hiện việc cấp mã định danh lỗ hổng (CVE ID) và công bố bản ghi CVE (CVE Record) trong phạm vi sản phẩm hoặc lĩnh vực mà họ phụ trách. Lỗ hổng Thanh Lâm phát hiện đạt 8,5/10 điểm theo CVSS v4.0 và 7,8/10 theo CVSS v3.1."
+    },
+    {
+     "t": "p",
+     "text": "Hiện bản vá CVE-2026-125742 đã được phát hành cho phiên bản từ 7-Zip 26.06. Chuyên gia bảo mật khuyến nghị người dùng cập nhật lên phiên bản này hoặc mới hơn."
+    },
+    {
+     "t": "p",
+     "text": "7-Zip là phần mềm mã nguồn mở do Igor Pavlov phát triển năm 1999, hỗ trợ nhiều định dạng nén như 7z, ZIP, RAR, CAB và TAR. Sản phẩm phổ biến trên Windows, Linux, macOS và được tích hợp trong nhiều bộ cài đặt, công cụ sao lưu doanh nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Bảo Lâm"
+    },
+    {
+     "t": "li",
+     "text": "Đội thi Học viện Công nghệ Bưu chính Viễn thông vô địch cuộc thi Sinh viên An ninh mạng"
+    },
+    {
+     "t": "li",
+     "text": "'Giảng đường Việt là bể nhân tài bán dẫn chất lượng'"
+    },
+    {
+     "t": "li",
+     "text": "Sinh viên Việt giành giải cao tại cuộc thi lập trình quốc tế"
+    },
+    {
+     "t": "li",
+     "text": "Sinh viên Việt chiến thắng cuộc thi viết phần mềm của Apple"
+    },
+    {
+     "t": "li",
+     "text": "'Sinh viên hào hứng với AI, nhưng thấy bất định về tương lai'"
+    },
+    {
+     "t": "li",
+     "text": "Đội thi Học viện Công nghệ Bưu chính Viễn thông vô địch cuộc thi Sinh viên An ninh mạng"
+    },
+    {
+     "t": "li",
+     "text": "'Giảng đường Việt là bể nhân tài bán dẫn chất lượng'"
+    },
+    {
+     "t": "li",
+     "text": "Sinh viên Việt giành giải cao tại cuộc thi lập trình quốc tế"
+    },
+    {
+     "t": "li",
+     "text": "Sinh viên Việt chiến thắng cuộc thi viết phần mềm của Apple"
+    },
+    {
+     "t": "li",
+     "text": "'Sinh viên hào hứng với AI, nhưng thấy bất định về tương lai'"
+    }
+   ]
+  },
+  {
+   "id": "64f4b7c61300",
+   "order": 2,
+   "slug": "khach-tay-nhay-om-bat-com-nong-vi-lanh-o-tuyen-quang",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Khách Tây nhảy, ôm bát cơm nóng vì lạnh ở Tuyên Quang",
+   "sapo": "Nền nhiệt xuống dưới 10 độ C ở Tuyên Quang ngày 10/11 khiến các du khách đến từ châu Âu, Australia xuýt xoa không ngừng, nhiều người nhảy hoặc ôm bát đựng cơm nóng trong tay cho bớt lạnh.",
+   "author": "Phương Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/khach-tay-nhay-om-bat-com-nong-vi-lanh-o-tuyen-quang-5144427.html",
+   "published": "2026-11-13T17:09:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 565,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/64f4b7c61300-lead.jpg",
+     "caption": "",
+     "w": 786,
+     "h": 442
+    },
+    {
+     "src": "img/2026-11-14/64f4b7c61300-0.jpg",
+     "caption": "Khách Tây nhảy để bớt lạnh tại hẻm Tu Sản ngày 10/11. Video: Tiktok/HagiangcungHieu",
+     "w": 576,
+     "h": 1024
+    },
+    {
+     "src": "img/2026-11-14/64f4b7c61300-1.jpg",
+     "caption": "Khách Tây ôm bát cơm nóng bằng hai tay để giữ ấm tại bản Pả Vi ngày 10/11. Video: Tiktok/Vitamin.hagiag",
+     "w": 576,
+     "h": 1024
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nền nhiệt xuống dưới 10 độ C ở Tuyên Quang ngày 10/11 khiến các du khách đến từ châu Âu, Australia xuýt xoa không ngừng, nhiều người nhảy hoặc ôm bát đựng cơm nóng trong tay cho bớt lạnh."
+    },
+    {
+     "t": "p",
+     "text": "Hai video ghi lại cảnh du khách nhảy chống rét tại hẻm Tu Sản và ôm bát cơm nóng giữ ấm tay ở bản Pả Vi ngày 10/11 do hướng dẫn viên Ngô Quang Hiếu đăng tải thu hút gần nửa triệu lượt xem, hơn 30.000 lượt thích sau ba ngày đăng tải."
+    },
+    {
+     "t": "p",
+     "text": "Hiếu, 28 tuổi, sống tại phường Hà Giang 2, cho biết quay hai video vào khoảng 15-16h và 19-20h ngày 10/11, khi dẫn đoàn 10 khách ghép từ châu Âu, Australia tham quan Tuyên Quang trong hành trình 4 ngày 3 đêm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tại hẻm Tu Sản, một nam du khách mặc áo khoác, quần short đứng nhảy liên tục để làm ấm cơ thể. Thấy hành động này khá hài hước, Hiếu ghi lại làm kỷ niệm."
+    },
+    {
+     "t": "p",
+     "text": "Đoàn đến Tuyên Quang từ ngày 9/11. Do thời tiết hôm trước đó còn nóng, nhiều người không mang đủ quần áo ấm. Khi nhiệt độ bất ngờ giảm xuống 8-9 độ C, kèm mưa, các thành viên liên tục xuýt xoa vì lạnh."
+    },
+    {
+     "t": "p",
+     "text": "Anh cũng cho biết trong đợt rét lần này, các hàng quán ven đường tại khu vực hẻm Tu Sản đến bản Pả Vi đều \"cháy\" găng tay, khăn quàng."
+    },
+    {
+     "t": "p",
+     "text": "\"Đoàn khách nói mùa đông ở nước họ có tuyết, nhiệt độ xuống âm độ C nhưng là lạnh khô, còn mùa đông Việt Nam lạnh buốt nên vẫn run cầm cập\", anh kể."
+    },
+    {
+     "t": "p",
+     "text": "Trong bữa tối tại bản Pả Vi, nhiều du khách phải quàng thêm khăn tắm của homestay, dùng hai tay ôm bát cơm nóng để sưởi ấm. Những người khác mặc thêm quần, áo mưa bên ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Các video thu hút hàng trăm bình luận, phần lớn đều bày tỏ sự cảm thông với các du khách khi bị sốc lạnh vì mùa đông Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải lần đầu, khách quốc tế \"rét run\" khi đến Việt Nam vào mùa đông. Tháng 12/2025, video hai du khách New Zealand run cầm cập khi ngồi uống nước tại Tuyên Quang cũng từng thu hút sự chú ý trên mạng xã hội. Nhiều khách quốc tế chia sẻ trải nghiệm bất ngờ trước cái rét ở miền núi phía Bắc, thừa nhận từng chủ quan khi chuẩn bị trang phục khi đến Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Hà Giang cùng nhiều tỉnh Bắc Bộ và Bắc Trung Bộ đang trải qua đợt rét diện rộng đầu tiên của mùa đông 2026-2027. Đây cũng là thời điểm hoa tam giác mạch nở rộ trên cao nguyên đá Đồng Văn, thu hút đông du khách."
+    },
+    {
+     "t": "p",
+     "text": "Thuật Nguyễn, CEO công ty cung cấp dịch vụ du lịch Mapileng Horizon Travel tại phường Hà Giang 2, cho biết du khách nên chuẩn bị áo khoác dày, áo giữ nhiệt, khăn quàng, mũ len, găng tay và giày có độ bám tốt khi tham quan Tuyên Quang vào mùa đông. Khi qua các cung đường đèo như Mã Pì Lèng, gió tạt có thể khiến cơ thể cảm thấy lạnh hơn. Ngoài ra, du khách nên theo dõi dự báo thời tiết trước chuyến đi, không chủ quan ngay cả khi trời có nắng."
+    }
+   ]
+  },
+  {
+   "id": "216a5d8f49c5",
+   "order": 3,
+   "slug": "nhung-khach-tay-du-lich-hieu-sach-o-tp-hcm",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Những khách Tây 'du lịch hiệu sách' ở TP.HCM",
+   "sapo": "Đến Đường sách Nguyễn Văn Bình (TP.HCM), du khách quốc tế tìm kiếm những cuốn sách độc đáo, khám phá lịch sử, văn hóa và những góc nhìn mới về Việt Nam.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://znews.vn/nhung-khach-tay-du-lich-hieu-sach-o-tphcm-post1694140.html",
+   "published": "2026-11-13T08:35:21+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1316,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/216a5d8f49c5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "12h trưa, nắng gay gắt chiếu xuyên qua những tán cây, len vào các gian hàng trên Đường sách Nguyễn Văn Bình (phường Sài Gòn, TP.HCM). Giữa cái nóng giữa trưa, dòng khách vẫn nối nhau dạo bước, trong đó có nhiều du khách đến từ các quốc gia khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong những gian hàng, mỗi người dừng lại trước một kệ sách với mối quan tâm riêng. Có người chăm chú tìm kiếm những cuốn tiểu thuyết yêu thích, người tò mò quan sát các đầu sách bán chạy để biết độc giả Việt Nam đang quan tâm điều gì. Một số du khách không biết tiếng Việt vẫn kiên nhẫn lật giở từng trang, quan sát hình ảnh minh họa và thử tìm hiểu câu chuyện đằng sau những cuốn sách."
+    },
+    {
+     "t": "p",
+     "text": "Không phải ai đến đây cũng có ý định mua sách. Với một số du khách, việc ghé thăm hiệu sách trong chuyến đi là một thói quen, một cách khám phá đời sống văn hóa địa phương qua những tác phẩm được bày bán."
+    },
+    {
+     "t": "h",
+     "text": "Đọc văn hóa Việt qua trang sách"
+    },
+    {
+     "t": "p",
+     "text": "Cody (du khách Australia) chọn mua quyển sách về phong thủy tại đường sách Nguyễn Văn Bình, ngày 4/11."
+    },
+    {
+     "t": "p",
+     "text": "Mới đến Việt Nam được 4 ngày, Cody, du khách Australia, đã dành thời gian ghé Đường sách Nguyễn Văn Bình, một trong những địa điểm nằm trong danh sách nhất định phải đến của cô tại TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Đứng trước một quầy sách, cô chăm chú quan sát những cuốn sách được trưng bày. Dù không hiểu những dòng chữ tiếng Việt trên bìa, cô vẫn dành khá lâu để xem hình ảnh, cách trình bày và thiết kế của từng ấn phẩm. Sau một hồi lựa chọn, nữ du khách quyết định mua một cuốn sách về phong thủy."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi là một nhà thiết kế nên thường bị thu hút bởi hình ảnh. Dù không đọc được tiếng Việt, tôi vẫn cảm thấy cuốn sách này khá thú vị\", Cody chia sẻ với Tri Thức - Znews."
+    },
+    {
+     "t": "p",
+     "text": "Từng du lịch qua nhiều quốc gia, Cody cho biết cô có thói quen ghé thăm các hiệu sách địa phương để khám phá những điều mới mẻ. Với cô, sách không đơn thuần là phương tiện tiếp nhận kiến thức qua ngôn ngữ, mà còn là cách tìm hiểu văn hóa, thẩm mỹ và đời sống của một đất nước."
+    },
+    {
+     "t": "p",
+     "text": "Làm công việc liên quan đến thiết kế, Cody đặc biệt quan tâm đến cách người Việt thể hiện ý tưởng qua hình ảnh, màu sắc và bố cục. Những cuốn sách được bày bán tại đây phần nào giúp cô hình dung về phong cách thiết kế, những chủ đề được quan tâm và cách người Việt truyền tải câu chuyện qua hình ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Các gian hàng tại đường sách đa dạng các loại sách và đồ lưu niệm."
+    },
+    {
+     "t": "p",
+     "text": "Nữ du khách nhận xét Đường sách Nguyễn Văn Bình mang màu sắc riêng so với những nơi cô từng ghé thăm. Không gian sinh động, các gian hàng nối tiếp nhau cùng sự đa dạng của những đầu sách khiến nơi đây trở nên thú vị ngay cả với người không biết tiếng Việt."
+    },
+    {
+     "t": "p",
+     "text": "Cuốn sách phong thủy được chọn mua vì thế cũng trở thành một món quà lưu niệm đặc biệt, gắn với trải nghiệm tìm hiểu văn hóa Việt Nam trong chuyến đi lần này."
+    },
+    {
+     "t": "h",
+     "text": "Đọc sách để hiểu Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Denis chọn mua Số đỏ ( Dumb Luck ) và tiểu sử về Chủ tịch Hồ Chí Minh (Hồ Chí Minh Biography)."
+    },
+    {
+     "t": "p",
+     "text": "Khác với Cody, Denis, du khách đến từ Thổ Nhĩ Kỳ, tìm đến những cuốn sách như một cách khám phá lịch sử và đời sống xã hội Việt Nam trong quá khứ. Tại Đường sách Nguyễn Văn Bình, anh dành sự chú ý cho hai cuốn sách tiếng Anh, gồm Số đỏ ( Dumb Luck ) của nhà văn Vũ Trọng Phụng và một cuốn tiểu sử về Chủ tịch Hồ Chí Minh."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, Số đỏ là tác phẩm Denis từng đọc và đặc biệt yêu thích. Nam du khách ấn tượng với lối kể chuyện hài hước, châm biếm của nhà văn Vũ Trọng Phụng khi tái hiện đời sống xã hội Việt Nam thời Pháp thuộc."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi rất thích cuốn sách này. Nó hài hước nhưng cũng giúp người đọc hình dung về xã hội Việt Nam trong một giai đoạn lịch sử\", Denis cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Khách tham quan ngồi đọc thử sách ngay tại đường sách."
+    },
+    {
+     "t": "p",
+     "text": "Denis cho rằng những tác phẩm văn học như Số đỏ giúp anh hiểu thêm về sự giao thoa văn hóa và những biến chuyển trong đời sống người Việt ở từng giai đoạn. Đằng sau những tình tiết gây cười là bức tranh xã hội với nhiều thay đổi về lối sống, quan niệm và các giá trị văn hóa."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh tiểu thuyết, nam du khách còn quan tâm đến những cuốn sách viết về các nhân vật lịch sử. Anh lựa chọn thêm một cuốn tiểu sử về Chủ tịch Hồ Chí Minh, bởi cho rằng đây là tài liệu đáng đọc để tìm hiểu thêm về lịch sử Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Với Denis, việc khám phá một đất nước không dừng lại ở những cảnh quan hay nhịp sống hiện tại. Những cuốn sách giúp anh tiếp cận một góc nhìn khác, tìm hiểu về xã hội và con người Việt Nam qua những thời kỳ đã qua."
+    },
+    {
+     "t": "h",
+     "text": "Khám phá điều bất ngờ"
+    },
+    {
+     "t": "p",
+     "text": "Noni (du khách Philippines) mong tìm kiếm được những cuốn tiểu thuyết mới."
+    },
+    {
+     "t": "p",
+     "text": "Với Noni, du khách đến từ Philippines, Đường sách Nguyễn Văn Bình là một trong những điểm dừng chân trong lịch trình khám phá TP.HCM cùng nhóm bạn. Tuy nhiên, thay vì chỉ dạo quanh và chụp ảnh, cô muốn dành thời gian tìm kiếm những cuốn sách thú vị mà mình chưa từng bắt gặp tại quê nhà."
+    },
+    {
+     "t": "p",
+     "text": "Có thói quen ghé thăm các hiệu sách địa phương mỗi khi du lịch nước ngoài, Noni xem đây là cơ hội bổ sung những đầu sách mới vào danh sách đọc của mình."
+    },
+    {
+     "t": "p",
+     "text": "Sự đa dạng của các gian hàng khiến Noni dành nhiều thời gian khám phá Đường sách. Dù đã dạo quanh khá lâu, cô vẫn muốn tiếp tục tìm kiếm, với hy vọng bắt gặp một cuốn sách mới lạ, khác với những tác phẩm thường thấy tại Philippines."
+    },
+    {
+     "t": "p",
+     "text": "Đường sách trở thành địa điểm khám phá yêu thích của nhiều du khách."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh sách, Noni còn dành thời gian tìm mua những món quà lưu niệm mang dấu ấn Việt Nam để mang về sau chuyến đi. Nữ du khách thích thú trước những sản phẩm kết hợp yếu tố văn hóa truyền thống với thiết kế nghệ thuật độc đáo. Sau khi dạo quanh các gian hàng, cô chọn mua một số tấm thiệp cùng những vật phẩm lưu niệm lấy cảm hứng từ hình ảnh nón lá Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    }
+   ]
+  },
+  {
+   "id": "33702acbfbf0",
+   "order": 4,
+   "slug": "hang-tram-hinh-khac-da-thoi-ky-do-da-cu-duoc-tim-thay-an-gia",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Hàng trăm hình khắc đá thời kỳ đồ đá cũ được tìm thấy ẩn giấu ngay trước mắt trong một hang động ở Tây Ban Nha",
+   "sapo": "Một kho tàng nghệ thuật hang động thời kỳ đồ đá cũ đã ẩn mình ngay trước mắt mọi người.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/hundreds-of-stone-age-rock-carvings-found-hidden-in-plain-sight-in-a-spanish-cave",
+   "published": "2026-11-13T01:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 995,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Hundreds of Stone Age Rock Carvings Found Hidden in Plain Sight in a Spanish Cave",
+   "images": [
+    {
+     "src": "img/2026-11-14/33702acbfbf0-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-14/33702acbfbf0-0.jpg",
+     "caption": "Hình vẽ con ngựa, trong đó ranh giới của lớp đá cuội kết (conglomerate) được dùng làm đường nền cho hình vẽ. (Vergès Bosch & Salas-Altès, Antiquity, 2026)",
+     "w": 1063,
+     "h": 753
+    },
+    {
+     "src": "img/2026-11-14/33702acbfbf0-1.jpg",
+     "caption": "Hình vẽ con gấu với hai tai nhìn từ góc chính diện và miệng hơi mở. (Vergès Bosch & Salas-Altès, Antiquity, 2026)",
+     "w": 1063,
+     "h": 751
+    },
+    {
+     "src": "img/2026-11-14/33702acbfbf0-2.jpg",
+     "caption": "Hình trên cho thấy một loạt các đường thẳng song song; phía dưới là hình ảnh một phần của mảng tường đặc trưng bởi hàng trăm hình khắc dạng vòng. (Vergès Bosch & Salas-Altès, Antiquity, 2026)",
+     "w": 1063,
+     "h": 1425
+    },
+    {
+     "src": "img/2026-11-14/33702acbfbf0-3.jpg",
+     "caption": "Các đầu mút hình chữ Y đôi và những cái đầu có ba vạch của một số hình vẽ động vật tìm thấy ở đây trùng khớp với các mẫu nghệ thuật hang động khác thuộc giai đoạn trước văn hóa Magdalen (Magdalenian).",
+     "w": 1280,
+     "h": 824
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một kho tàng nghệ thuật hang động thời kỳ đồ đá cũ (Paleolithic) đã ẩn mình ngay trước mắt mọi người."
+    },
+    {
+     "t": "p",
+     "text": "Trong suốt thế kỷ qua, người ta vẫn thường xuyên đi qua hang Cova de la Font Major, một hệ thống hang động ở Catalonia, vùng đông bắc Tây Ban Nha."
+    },
+    {
+     "t": "p",
+     "text": "Kể từ khi lối vào hang được dọn sạch vào năm 1957, vô số người đam mê hang động, những người tìm kho báu đi tìm các hiện vật đồng, và gần đây hơn là khách du lịch, đã đi qua những hang đá vôi của nơi này."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng phải đến năm 2019, Josep Maria Vergès, nhà nghiên cứu tại Viện Cổ sinh thái học và Tiến hóa xã hội loài người Catalan, mới phát hiện ra một loạt đường thẳng song song, cho thấy con người đã để lại dấu ấn dưới lòng hang này từ rất lâu rồi."
+    },
+    {
+     "t": "p",
+     "text": "Catalonia từ trước đến nay gần như là một \"vùng trắng\" về nghệ thuật khắc đá, mặc dù nằm ngay cạnh một khu vực nổi tiếng thế giới với những bộ sưu tập phong phú các di vật thời đồ đá cũ."
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện tại Cova de la Font Major đã thay đổi điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó đến nay, Vergès và đồng nghiệp của ông, nhà khảo cổ học Míriam Salas-Altès, đã ghi lại được 280 hình khắc khác nhau thuộc thời đồ đá cũ, được khắc trên các vách của một khoang hang gọi là Gatoneres de Cal Palletes."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hóa ra, Cova de la Font Major chứa bộ sưu tập nghệ thuật hang động từ thời kỳ băng hà lớn thứ ba được biết đến ở vùng Iberia thuộc Địa Trung Hải."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong hơn sáu thập kỷ, hàng nghìn du khách đã đi ngay trước những mặt đá có hình khắc, và trong một số trường hợp còn khắc tên và ngày tháng lên trên đó, mà không ai nhận ra nguồn gốc thời đồ đá cũ của những hình vẽ này,\" Vergès nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Dọc theo mặt tiền Địa Trung Hải của bán đảo Iberia, từ dãy núi Pyrenees đến Gibraltar, khoảng 75% các bộ sưu tập được biết đến chứa không quá 5 hình vẽ động vật, và hơn 90% chứa không quá 20 hình,\" Salas-Altès bổ sung."
+    },
+    {
+     "t": "p",
+     "text": "\"Vì vậy, số lượng tranh khổng lồ được phát hiện ở hang Cova de la Font Major là điều đặc biệt hiếm thấy.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong số 55 hình vẽ động vật có ngựa, hươu, dê, bò, một con bò rừng cổ (auroch), và thậm chí cả một con gấu, dù một số hình khác vẫn chưa thể xác định được là con gì."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng một số hình vẽ trừu tượng hơn: chẳng hạn những hàng đường thẳng song song thẳng đứng xếp như hàng rào, và một bố cục đầy những hình vòng xoắn phức tạp trông giống như một dạng chữ viết, dù các nhà nghiên cứu nói rằng vẫn chưa rõ những hình vòng này có tuổi đời bao nhiêu."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "\"Ngược với những gì người ta từng nghĩ trước đây, vùng đông bắc Iberia có những di tích nghệ thuật đá thời kỳ Đá cũ (Paleolithic) hàng đầu,\" Salas-Altès nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Nghệ thuật vùng Địa Trung Hải của Tây Âu giờ đây được bổ sung thêm một tập hợp tranh đá mới, giúp chúng ta hiểu sâu hơn về một truyền thống nghệ thuật Địa Trung Hải mang bản sắc riêng, khác với truyền thống của vùng Franco-Cantabria.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho rằng những hình vẽ trên đá này có thể có trước nền văn hóa Magdalen, nhưng đó vẫn chỉ là dự đoán tốt nhất về tuổi của chúng. Họ đang có kế hoạch xác định tuổi bằng phương pháp đồng vị urani, sử dụng lớp canxit đã lắng đọng trên một trong các hình vẽ động vật."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả trước khi hang được phát hiện lại vào năm 1853, đã có dấu hiệu cho thấy con người từng ra vào hang Cova de la Font Major qua nhiều thời kỳ khác nhau trong lịch sử."
+    },
+    {
+     "t": "p",
+     "text": "Than củi và một mảnh dao đá lửa (flint) có cán cho thấy sự có mặt của con người vào thời kỳ Đá cũ muộn (Upper Paleolithic)."
+    },
+    {
+     "t": "p",
+     "text": "Một chiếc xương đùi người, được xác định có tuổi vào cuối thời kỳ Đá mới (Neolithic), cho thấy một phần của hang từng được dùng để chôn cất."
+    },
+    {
+     "t": "p",
+     "text": "Và còn có cả kho hiện vật thời đại Đồ Đồng (Bronze Age) được giữ kín an toàn bên trong, từ thời điểm một vụ sụp đổ làm bịt kín lối vào hang, có thể là vào thời La Mã, cho đến khi những người đi săn báu vật thời hiện đại tìm đến vào thế kỷ 20."
+    },
+    {
+     "t": "p",
+     "text": "Từ năm 1993, hang này được duy trì như một dạng bảo tàng dưới lòng đất, hạn chế việc tiếp cận các hình khắc Gatoneres."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng từ năm 1957 trở đi, con người hiện đại đã gây ra không ít thiệt hại cho các hình vẽ trong hang."
+    },
+    {
+     "t": "p",
+     "text": "Các hình khắc Gatoneres đã chịu thiệt hại đáng kể trong vài thập kỷ đó, do bị mài mòn bởi cơ thể người cọ vào vách đá, cùng với việc bị vẽ bậy lên trên."
+    },
+    {
+     "t": "p",
+     "text": "Vergès và Salas-Altès nghi ngờ rằng từng có nhiều hình khắc thời Đồ Đá Cũ (Paleolithic) hơn nữa, nhưng đã bị mất đi vì lý do này."
+    },
+    {
+     "t": "p",
+     "text": "Một phần của hang Cova de la Font Major vẫn mở cho công chúng tham quan, nhưng khu vực chứa các hình khắc thì đã bị đóng lại để bảo vệ các hình vẽ khỏi bị hư hại thêm."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được kiểm tra thông tin bởi Fiona MacDonald và biên tập bởi Fiona MacDonald. Mặc dù chúng tôi luôn tự hào về quy trình làm việc của mình, nhưng chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "4dbe8be3c65e",
+   "order": 5,
+   "slug": "nhung-thap-da-sung-sung",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Những tháp đá sừng sững",
+   "sapo": "Nước Mỹ có một vườn quốc gia mới. Vườn quốc gia Chiricahua nằm ở đông nam Arizona. Địa danh lịch sử này đã trở thành vườn quốc gia vào ngày 20 tháng 10. Chiricahua được hình thành từ 27 triệu năm trước. Núi lửa đã phun trào. Tro núi lửa nguội đi. Nó…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g2/towering-spires-g2/",
+   "published": "2026-11-12T14:30:50+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 284,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Towering Spires",
+   "images": [
+    {
+     "src": "img/2026-11-14/4dbe8be3c65e-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/4dbe8be3c65e-0.jpg",
+     "caption": "Một tấm biển đá ở cổng vào ghi chữ \"Chiricahua National Monument\" (Khu bảo tồn quốc gia Chiricahua), cùng với \"United States Department of the Interior National Park Service\" (Cơ quan Công viên Quốc gia, Bộ Nội vụ Hoa Kỳ), phía sau là những ngọn đồi cỏ xanh và một con đường.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/4dbe8be3c65e-1.jpg",
+     "caption": "Những khối đá cao, gồ ghề vươn lên trên cây cối và cây bụi, dưới bầu trời lác đác mây.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nước Mỹ có một vườn quốc gia mới. Vườn quốc gia Chiricahua nằm ở đông nam Arizona. Địa danh lịch sử này đã trở thành vườn quốc gia vào ngày 20 tháng 10."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chiricahua từng là khu bảo tồn quốc gia (national monument) từ năm 1924. Giờ đây nó đã trở thành vườn quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Chiricahua được hình thành từ 27 triệu năm trước. Núi lửa đã phun trào. Tro núi lửa nguội đi. Nó cứng lại thành đá. Quá trình xói mòn đã tạo ra những cột đá kỳ lạ gọi là \"hoodoo\". Du khách có thể đi bộ quanh những cột đá kỳ dị này."
+    },
+    {
+     "t": "p",
+     "text": "Vườn quốc gia này có nhiều hệ sinh thái khác nhau. Có vùng sa mạc. Có cả vùng rừng và đồng cỏ. Nhiều loài động vật sinh sống trong vườn. Người ta có thể thấy gấu, sư tử núi và các loài chim ở đây."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Những cột đá ở Vườn quốc gia Chiricahua phản chiếu ánh hoàng hôn."
+    },
+    {
+     "t": "p",
+     "text": "Vườn quốc gia này có một lịch sử phong phú. Đây là quê hương của người bản địa Apache Chiricahua. Nơi này lần đầu được bảo vệ với danh hiệu khu bảo tồn quốc gia vào năm 1924. Giờ đây nó đã được nâng cấp thành vườn quốc gia. Danh hiệu này công nhận tầm quan trọng của địa danh này."
+    },
+    {
+     "t": "p",
+     "text": "Doug Burgum là Bộ trưởng Nội vụ Hoa Kỳ. Trong một thông báo, ông đã nói về \"những tháp đá sừng sững\" của khu vực này. Ông nhấn mạnh di sản văn hóa Apache và sự đa dạng sinh học của nơi đây. Burgum gọi đây là \"một trong những cảnh quan phi thường nhất của nước Mỹ\"."
+    }
+   ]
+  },
+  {
+   "id": "85ec5ca7da20",
+   "order": 6,
+   "slug": "trang-an-vao-danh-sach-di-san-dia-chat-cua-the-gioi",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Tràng An vào danh sách Di sản địa chất của thế giới",
+   "sapo": "Tràng An là đại diện duy nhất được ghi danh trong 100 địa điểm di sản địa chất của Liên hiệp Quốc tế các Khoa học Địa chất (IUGS) năm 2026.",
+   "author": "Phương Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/trang-an-vao-danh-sach-di-san-dia-chat-cua-the-gioi-5143890.html",
+   "published": "2026-11-13T04:58:37+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 618,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/85ec5ca7da20-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-14/85ec5ca7da20-0.jpg",
+     "caption": "Hàng trăm chiếc thuyền rước rồng trên sông Tràng An trong dịp lễ hội thường niên diễn ra đầu năm. Ảnh: Giang Huy",
+     "w": 1020,
+     "h": 574
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tràng An là đại diện duy nhất được ghi danh trong 100 địa điểm di sản địa chất của Liên hiệp Quốc tế các Khoa học Địa chất (IUGS) năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Theo thông tin từ Sở Du lịch tỉnh Ninh Bình ngày 12/11, trong danh sách 100 địa điểm di sản địa chất của Liên hiệp Quốc tế các Khoa học Địa chất (IUGS), \"Karst nhiệt đới Tràng An\" được ghi danh với mã số 283, thuộc nhóm di sản về địa mạo và các quá trình địa chất đang diễn ra. Thông tin được IUGS công bố tại thành phố Monchique, Bồ Đào Nha hôm 6/11."
+    },
+    {
+     "t": "p",
+     "text": "Trong hồ sơ khoa học, IUGS đánh giá Tràng An là \"hình mẫu được biết đến rộng rãi nhất thế giới về cảnh quan karst nhiệt đới từng bị biển xâm nhập, nay đã nổi trên đất liền\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống địa hình karst tại đây hình thành qua quá trình tiến hóa địa chất kéo dài hơn 250 triệu năm, gồm các dãy núi đá vôi dạng nón, dạng tháp, thung lũng kín, vùng trũng và mạng lưới hang động ngầm với nhiều thành tạo thạch nhũ."
+    },
+    {
+     "t": "p",
+     "text": "Khu vực còn lưu giữ dấu tích của các giai đoạn biển tiến, biển thoái trong quá khứ như ngấn ăn mòn trên vách đá, nền mài mòn do sóng, trầm tích bãi biển và vỏ sinh vật biển. Những bằng chứng này giúp các nhà khoa học nghiên cứu lịch sử biến động mực nước biển, quá trình hình thành cảnh quan karst và sự thay đổi môi trường tự nhiên qua các thời kỳ địa chất."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài giá trị địa chất, Tràng An còn có các dấu tích khảo cổ phản ánh lịch sử cư trú và quá trình con người thích ứng với biến đổi khí hậu, môi trường và mực nước biển trong hàng chục nghìn năm."
+    },
+    {
+     "t": "p",
+     "text": "Trong ấn phẩm giới thiệu 100 địa điểm di sản địa chất IUGS lần thứ ba công bố vào năm 2026, Tràng An được giới thiệu tại trang 230-231, cùng các địa danh như núi Phú Sĩ (Nhật Bản), các vịnh hẹp Na Uy, núi Aconcagua (Argentina) và đồi Chocolate (Philippines)."
+    },
+    {
+     "t": "p",
+     "text": "Theo Sở Du lịch Ninh Bình, sự kiện góp phần khẳng định giá trị khoa học địa chất của di sản, đồng thời mở ra cơ hội hợp tác nghiên cứu, giáo dục di sản và phát triển các sản phẩm du lịch đặc sắc. Địa phương xác định bảo tồn tính toàn vẹn di sản, cảnh quan thiên nhiên và sinh kế cộng đồng là những yêu cầu xuyên suốt trong quá trình phát huy giá trị khu di sản."
+    },
+    {
+     "t": "p",
+     "text": "IUGS Geological Heritage Sites là chương trình tôn vinh những địa điểm có giá trị khoa học địa chất nổi bật, góp phần giải thích lịch sử hình thành và tiến hóa của Trái Đất. Các địa điểm được lựa chọn dựa trên 13 tiêu chuẩn, tập trung vào sáu nhóm tiêu chí: giá trị địa chất đặc biệt; ý nghĩa khoa học quốc tế; đóng góp cho sự phát triển của khoa học địa chất; ranh giới và quy mô rõ ràng; khả năng tiếp cận và tình trạng bảo tồn; mối liên hệ với các địa điểm địa chất khác."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình do IUGS, tổ chức khoa học quốc tế hoạt động trong lĩnh vực địa chất, triển khai và công bố danh sách 100 địa điểm theo chu kỳ hai năm. Danh sách đầu tiên ra mắt năm 2022. Đến nay, Việt Nam có hai đại diện được ghi danh, gồm vịnh Hạ Long - quần đảo Cát Bà năm 2024 và Tràng An năm 2026."
+    }
+   ]
+  },
+  {
+   "id": "c3e6c3ce8f76",
+   "order": 7,
+   "slug": "nu-sinh-da-bong-xinh-dep-o-son-la-mo-khoac-ao-tuyen-viet-nam",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Nữ sinh đá bóng xinh đẹp ở Sơn La mơ khoác áo tuyển Việt Nam",
+   "sapo": "Lương Thảo My, nữ sinh đá bóng 17 tuổi ở Sơn La, bất ngờ gây chú ý với hình ảnh xinh đẹp, khỏe khoắn trên sân cỏ. Ít ai biết, cô gái này đã theo đuổi đam mê với trái bóng tròn từ năm 8 tuổi.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nu-sinh-da-bong-xinh-dep-o-son-la-mo-khoac-ao-tuyen-viet-nam-185261113132156455.htm",
+   "published": "2026-11-13T07:30:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1064,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/c3e6c3ce8f76-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/c3e6c3ce8f76-0.jpg",
+     "caption": "",
+     "w": 942,
+     "h": 1238
+    },
+    {
+     "src": "img/2026-11-14/c3e6c3ce8f76-1.jpg",
+     "caption": "Hình ảnh gây chú ý trên sân cỏ của Thảo My trong thời gian vừa qua",
+     "w": 1280,
+     "h": 1357
+    },
+    {
+     "src": "img/2026-11-14/c3e6c3ce8f76-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1542
+    },
+    {
+     "src": "img/2026-11-14/c3e6c3ce8f76-3.jpg",
+     "caption": "My từng bị gia đình phản đối đam mê vì sợ con gái đá bóng sẽ dễ chấn thương và đen da",
+     "w": 1280,
+     "h": 1817
+    },
+    {
+     "src": "img/2026-11-14/c3e6c3ce8f76-4.jpg",
+     "caption": "Với My, bóng đá không đơn thuần là một môn thể thao để giải trí sau giờ học. Đó còn là nơi em được sống với sở thích, gặp gỡ bạn bè và học cách kiên trì với điều mình yêu thích",
+     "w": 1152,
+     "h": 2048
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Những hình ảnh một cô gái dân tộc Thái trong trang phục thi đấu bóng đá, tự tin chạy trên sân cỏ được chia sẻ trên mạng xã hội, thu hút sự chú ý của nhiều người. Nhân vật trong những bức ảnh là Lương Thảo My, 17 tuổi, hiện là học sinh lớp 12 Trường THPT Thảo Nguyên, sinh sống tại P.Thảo Nguyên, tỉnh Sơn La."
+    },
+    {
+     "t": "p",
+     "text": "Sở hữu gương mặt xinh xắn, vóc dáng khỏe khoắn cùng vẻ ngoài năng động, Thảo My nhận được nhiều lời khen từ cộng đồng mạng. Tuy nhiên, phía sau những hình ảnh được chia sẻ rộng rãi ấy là tình yêu bóng đá đã được cô gái trẻ nuôi dưỡng suốt gần 10 năm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Nữ sinh đá bóng bắt đầu đam mê từ năm 8 tuổi"
+    },
+    {
+     "t": "p",
+     "text": "Kể về cơ duyên đến với bóng đá, Thảo My cho biết em bắt đầu yêu thích môn thể thao này từ năm 8 tuổi. Khi ấy, cứ mỗi buổi chiều, thấy các anh chị trong bản rủ nhau ra sân đá bóng, My lại chạy theo xem rồi xin được tham gia."
+    },
+    {
+     "t": "p",
+     "text": "“Đá rồi thấy vui quá, thấy mình được chạy, được cười, được là chính mình nên em mê luôn từ đó đến giờ. Em không có tập bài bản gì đâu, chủ yếu là mê rồi đá theo sở thích thôi”, My kể."
+    },
+    {
+     "t": "p",
+     "text": "Tình yêu ấy không phải lúc nào cũng nhận được sự đồng tình. Theo My, ban đầu bố mẹ lo con gái chơi bóng sẽ dễ bị ngã, chấn thương và đen da. Một số người xung quanh cũng từng nhận xét con gái đá bóng sẽ trở nên thô, không còn nữ tính."
+    },
+    {
+     "t": "p",
+     "text": "Những lời nhận xét ấy đôi khi khiến My buồn, nhưng không đủ để cô gái từ bỏ sở thích. “Sau em nghĩ mình thích thì mình cứ đá, đá giỏi thì mọi người lại tự thay đổi cách nhìn thôi ạ”, My chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "May mắn, sau một thời gian, bố mẹ nhận thấy con gái vui vẻ, khỏe mạnh hơn khi chơi thể thao nên dần ủng hộ. Đặc biệt, My còn có một người cô luôn âm thầm đứng phía sau tiếp sức cho đam mê của mình."
+    },
+    {
+     "t": "p",
+     "text": "Đó là cô Lường Bích Đào, cô ruột của My. Cô Đào kể ngày trước bản thân cũng rất yêu bóng đá nên khi thấy cháu có sở thích và đam mê với môn thể thao này, cô dễ dàng đồng cảm."
+    },
+    {
+     "t": "p",
+     "text": "“Chỉ cần biết cháu đá ở đâu là cô cũng đi cùng để cổ vũ. Thắng hay thua không quan trọng, chỉ cần cháu được giao lưu với bạn bè cùng trang lứa, được làm điều mình thích là cô đã vui rồi”, cô Đào chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Cô nhớ lại, có những lần My muốn đi đá bóng nhưng gia đình chưa đồng ý. Cháu chỉ nhỏ nhẹ nói với cô: “Cô ơi, con muốn đi đá bóng với đội bạn”. Thương cháu, cô nhiều lần đưa My đi thi đấu, dù có chuyến phải di chuyển đến 50 km."
+    },
+    {
+     "t": "p",
+     "text": "Thậm chí, có những lần My trở về với cơ thể trầy xước, đau nhức nhưng không dám than vì sợ gia đình phản đối, không cho tiếp tục chơi bóng. Điều khiến cô Đào vui và tự hào là dù say mê thể thao, My vẫn không bỏ bê việc học, luôn hoàn thành những công việc bố mẹ giao ở nhà."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Mơ một ngày được khoác áo đội tuyển nữ Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, bóng đá vẫn là đam mê ngoài giờ học của Thảo My. Vì đang học lớp 12, em không có lịch tập luyện cố định. Những hôm không có lịch đá cùng đội, My thường tự tập chạy và giữ bóng tại nhà."
+    },
+    {
+     "t": "p",
+     "text": "Với nữ sinh, một trong những trải nghiệm đáng nhớ nhất là lần tham gia Giải bóng đá nữ dân tộc thiểu số ở Mai Châu. Đây là lần đầu My được đi xa thi đấu, gặp gỡ nhiều cầu thủ nữ thuộc các dân tộc khác và trải nghiệm không khí trên một sân bóng lớn với đông người theo dõi."
+    },
+    {
+     "t": "p",
+     "text": "“Em vừa run, vừa vui, vừa tự hào vì mình là con gái Sơn La được mang áo đội mình đi thi đấu. Với em, được tham gia và cống hiến hết mình đã là một thành tích rồi”, My bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Sau giải đấu, những hình ảnh của My được chia sẻ rộng rãi trên mạng xã hội. Nữ sinh cho biết bản thân khá bất ngờ khi nhận được nhiều lời khen về ngoại hình, sự khỏe khoắn và năng động."
+    },
+    {
+     "t": "p",
+     "text": "Dù vui khi được mọi người quan tâm, My cũng có chút ngại ngùng. Em mong khán giả không chỉ chú ý đến vẻ ngoài mà còn nhìn thấy tình yêu và sự nghiêm túc của mình dành cho bóng đá."
+    },
+    {
+     "t": "p",
+     "text": "“Có lúc em sợ mọi người chỉ chú ý ngoại hình mà quên mất là em đi đá vì đam mê. Nhưng em đón nhận sự quan tâm theo hướng tích cực, coi đó là động lực để cố gắng hơn”, My nói."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Ngoài bóng đá, nữ sinh còn thích chụp ảnh, nghe nhạc và đi chơi cùng bạn bè. Dù vậy, em xác định việc học vẫn là ưu tiên hàng đầu, nhất là trong năm cuối cấp với nhiều bài vở và kỳ thi quan trọng."
+    },
+    {
+     "t": "p",
+     "text": "Nhắc đến những cầu thủ thần tượng, My cho biết em yêu thích Cristiano Ronaldo bởi tinh thần kỷ luật, sự chăm chỉ và ý chí không bỏ cuộc. Trong khi đó, Quang Hải khiến em ấn tượng bởi khả năng xử lý bóng nhanh, khéo léo dù không có lợi thế về thể hình; Đình Bắc lại truyền cảm hứng bởi sự tự tin và dám thể hiện bản thân."
+    },
+    {
+     "t": "p",
+     "text": "Từ những thần tượng ấy, My rút ra rằng chiều cao hay vóc dáng không phải yếu tố quyết định tất cả. Điều quan trọng là sự chăm chỉ, tự tin và kiên trì theo đuổi mục tiêu."
+    },
+    {
+     "t": "p",
+     "text": "Trong tương lai, nữ sinh Sơn La mong muốn có cơ hội theo đuổi bóng đá chuyên nghiệp, xa hơn là một lần được khoác áo đội tuyển nữ Việt Nam. Tuy nhiên, trước mắt, em vẫn muốn hoàn thành tốt chương trình lớp 12."
+    }
+   ]
+  },
+  {
+   "id": "444fed2306a1",
+   "order": 8,
+   "slug": "kane-pha-ky-luc-ton-tai-36-nam-cua-tuyen-anh",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Kane phá kỷ lục tồn tại 36 năm của tuyển Anh",
+   "sapo": "Anh Trong ngày vượt Peter Shilton để trở thành cầu thủ nam khoác áo tuyển Anh nhiều nhất, Harry Kane ghi bàn quyết định để thắng Croatia 2-1 ở lượt năm bảng A3 Nations League.",
+   "author": "Hồng Duy",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/kane-pha-ky-luc-ton-tai-36-nam-cua-tuyen-anh-5144143.html",
+   "published": "2026-11-13T02:17:29+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 694,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/444fed2306a1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-14/444fed2306a1-0.jpg",
+     "caption": "Harry Kane chụp ảnh cùng cạnh cựu thủ môn Peter Shilton và Hoàng tử William trong lễ vinh danh trước trận Anh gặp Croatia tại Wembley, London ngày 12/11/2026. Ảnh: Reuters",
+     "w": 1020,
+     "h": 672
+    },
+    {
+     "src": "img/2026-11-14/444fed2306a1-1.jpg",
+     "caption": "Harry Kane đá phạt đền ấn định chiến thắng 2-1. Ảnh: AP",
+     "w": 1020,
+     "h": 672
+    },
+    {
+     "src": "img/2026-11-14/444fed2306a1-2.jpg",
+     "caption": "Đồ họa: Hồng Duy (AI hỗ trợ)",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Anh Trong ngày vượt Peter Shilton để trở thành cầu thủ nam khoác áo tuyển Anh nhiều nhất, Harry Kane ghi bàn quyết định để thắng Croatia 2-1 ở lượt năm bảng A3 Nations League."
+    },
+    {
+     "t": "p",
+     "text": "Đá chính tại Wembley tối 12/11, Kane nâng số lần ra sân cho tuyển Anh lên 126, hơn một trận so với Shilton. Thủ môn huyền thoại có lần cuối khoác áo đội tuyển tại World Cup 1990, khi đã 40 tuổi. Sau 36 năm, cột mốc 125 trận của ông mới bị xô đổ."
+    },
+    {
+     "t": "p",
+     "text": "Trước giờ bóng lăn, Kane bước ra sân cùng các con và được vinh danh trước khán giả Wembley. Shilton và Hoàng tử William tham gia lễ trao tặng kỷ vật, còn đội trưởng Croatia Luka Modric cũng gửi quà chúc mừng. Trên khán đài, người hâm mộ giương đại kỳ tôn vinh tiền đạo 33 tuổi, người vừa giành Quả Bóng Vàng tháng trước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Vào trận, Kane góp công vào bàn mở tỷ số phút 24. Tiền đạo này lùi sâu rồi chuyền chéo sân cho Jude Bellingham để tiền vệ Real Madrid đưa bóng vào trong, giúp Morgan Rogers dứt điểm cận thành mở tỷ số. Croatia gỡ hòa nhờ Petar Sucic phút 59, nhưng chỉ năm phút sau, chủ nhà được hưởng phạt đền khi Jarell Quansah bị kéo ngã trong cấm địa."
+    },
+    {
+     "t": "p",
+     "text": "Trên chấm 11m, Kane sút thẳng vào giữa khung thành, ấn định chiến thắng 2-1 và nâng thành tích lên 92 bàn cho đội tuyển. Kết quả giúp Anh giành vé vào tứ kết Nations League, trước trận cuối vòng bảng gặp Tây Ban Nha ngày 15/11."
+    },
+    {
+     "t": "p",
+     "text": "\"Mốc 100 bàn chắc chắn nằm trong tầm với\", Kane nói sau trận. \"Tôi vừa đá hỏng phạt đền ở Bayern, nên quả tiếp theo luôn quan trọng để lấy lại tự tin\". Anh coi bàn thắng trước Croatia là bước tiến tới mục tiêu cá nhân, đồng thời giúp tuyển Anh hoàn thành nhiệm vụ giành vé vào tứ kết."
+    },
+    {
+     "t": "p",
+     "text": "Tiền đạo 33 tuổi thừa nhận những tuần liên tiếp đón nhận các cột mốc lớn khiến anh tiêu hao nhiều năng lượng cả về cảm xúc, thể chất lẫn tinh thần. Đội trưởng tuyển Anh muốn tận hưởng từng khoảnh khắc, nhưng đồng thời phải giữ sự tập trung cho công việc. Việc được đứng cạnh các con, nhìn đại kỳ trên khán đài và nhận sự tôn vinh tại Wembley là trải nghiệm vượt những gì anh từng mơ tới."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh bàn quyết định, Kane còn hài lòng với tình huống khởi phát bàn mở tỷ số. Anh lý giải khoảng trống lệch trái là khu vực ưa thích để lùi xuống nhận bóng và tung đường chuyền. Càng thi đấu cùng nhau, Bellingham và Rogers càng hiểu ý, biết thời điểm di chuyển để đón những pha xử lý như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, đội trưởng tuyển Anh chưa hài lòng với cách toàn đội kiểm soát trận đấu. Anh nhận xét những pha mất bóng đơn giản ở phần sân nhà khiến chủ nhà đánh mất nhịp chơi. Lịch thi đấu dày đặc ở CLB và đội tuyển cũng ảnh hưởng đến thể lực, nhưng Kane cho rằng Anh phải cải thiện để đánh bại Tây Ban Nha và giành nhất bảng."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Rogers xem việc được sát cánh cùng Kane trong trận đấu lịch sử là một vinh dự. Tiền đạo của Chelsea xem sự tập trung, tinh thần làm việc và nỗ lực không ngừng là nền tảng giúp Kane chinh phục các kỷ lục cũng như Quả Bóng Vàng."
+    },
+    {
+     "t": "p",
+     "text": "Về chuyên môn, Rogers cũng cho biết Anh đã chuẩn bị cho thử thách khác hẳn chiến thắng 7-0 trên sân Croatia tháng trước. Đối thủ chơi tự tin hơn, buộc chủ nhà phải kiên trì và tìm cách giành chiến thắng khác."
+    },
+    {
+     "t": "p",
+     "text": "Vòng tứ kết League A diễn ra trong khoảng 25-30/3/2027 theo thể thức lượt đi - lượt về. Bốn đội thắng sẽ dự vòng chung kết từ 9 đến 13/6/2027, gồm bán kết, trận tranh giải ba và chung kết, đều thi đấu một lượt."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hồng Duy tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "9671a5ad69c7",
+   "order": 9,
+   "slug": "phat-hien-loai-khung-long-moi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Phát hiện loài khủng long mới",
+   "sapo": "Hình minh họa này cho thấy một loài khủng long vừa được xác định đang thưởng thức một bữa ăn. Loài khủng long này có tên là Invictibellatrix amberina. Nó được công bố trong một nghiên cứu ngày 14 tháng 10. Nó được xác định từ một hóa thạch. Hóa thạch này được tìm thấy từ lâu trên đảo Isle of…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g2/new-dino-discovered-g2/",
+   "published": "2026-11-12T14:05:01+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 185,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "New Dino Discovered",
+   "images": [
+    {
+     "src": "img/2026-11-14/9671a5ad69c7-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hình minh họa này cho thấy một loài khủng long vừa được xác định đang thưởng thức một bữa ăn. Loài khủng long này có tên là Invictibellatrix amberina. Nó được công bố trong một nghiên cứu ngày 14 tháng 10. Nó được xác định từ một hóa thạch."
+    },
+    {
+     "t": "p",
+     "text": "Hóa thạch này được tìm thấy từ lâu trên đảo Isle of Wight của nước Anh. Nó đã được lưu giữ trong một viện bảo tàng từ năm 1924. Nhưng gần đây, các chuyên gia đã xem xét lại nó một lần nữa. Họ nhận ra đây không phải là một hóa thạch bình thường. Nó thuộc về một loài chưa từng được biết đến. Con khủng long này là loài ăn thịt. Nó có những chiếc vuốt dài."
+    },
+    {
+     "t": "p",
+     "text": "Cassius Morrison là một nhà cổ sinh vật học (paleontologist) — đó là một chuyên gia về hóa thạch. Ông là người dẫn đầu nghiên cứu này. \"Thật là một điều bí ẩn khi hóa thạch này đã bị bỏ sót trong suốt một thời gian dài như vậy,\" Morrison nói trong một thông cáo báo chí."
+    }
+   ]
+  },
+  {
+   "id": "1b6a30d6a47c",
+   "order": 10,
+   "slug": "sieu-robot-thi-chay-voi-con-nguoi-o-nam-cuc-ai-thang",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Siêu robot thi chạy với con người ở Nam Cực, ai thắng?",
+   "sapo": "Mặc áo giữ nhiệt, đeo số báo danh như một vận động viên, robot Qestr bước vào cuộc chạy giữa băng tuyết Nam Cực.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/sieu-robot-thi-chay-voi-con-nguoi-o-nam-cuc-ai-thang-100261113073114219.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 610,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/1b6a30d6a47c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/1b6a30d6a47c-0.jpg",
+     "caption": "VĐV Stephanie Case vốn là chân chạy nổi tiếng - Ảnh: INSTAGRAM",
+     "w": 980,
+     "h": 653
+    },
+    {
+     "src": "img/2026-11-14/1b6a30d6a47c-1.jpg",
+     "caption": "Những người tham gia giải chạy, cùng chú robot - Ảnh: DLMAG",
+     "w": 640,
+     "h": 360
+    },
+    {
+     "src": "img/2026-11-14/1b6a30d6a47c-2.jpg",
+     "caption": "Robot Qestr trong cuộc đua - Ảnh: DLMAG",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhưng sau khoảng 3km, \"đối thủ\" công nghệ đã cạn pin, trong khi con người tiếp tục chinh phục quãng đường chạy bộ hơn 160km giữa nền tuyết trắng."
+    },
+    {
+     "t": "p",
+     "text": "Sự tương phản ấy xuất hiện tại giải chạy bộ Antarctic Ice Ultra diễn ra trong tuần này, đây là cuộc thi sức bền gần trại Ultima ở Đông Nam Cực, và mang đến một kết quả hoàn toàn bất ngờ."
+    },
+    {
+     "t": "p",
+     "text": "Giữa các vận động viên mặc kín từ đầu đến chân là Qestr, robot hình người đeo số báo danh 29. Cỗ máy được khoác áo giữ nhiệt để thử sức trong thời tiết khoảng âm 24 độ C."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cuộc đua của Qestr nhanh chóng kết thúc. Theo Focus, sử dụng tư liệu Reuters, robot phải bỏ cuộc sau khoảng 3km vì cạn pin. Chiếc áo chống rét không giúp nó đi xa hơn, trong khi các vận động viên tiếp tục hành trình trên tuyết."
+    },
+    {
+     "t": "p",
+     "text": "Người hoàn thành cự ly 100 dặm, tương đương 160,9km, nhanh nhất là Yusheng Ni với 17 giờ 2 phút 24 giây. Nữ vận động viên Canada Stephanie Case về đích sau 17 giờ 31 phút 39 giây."
+    },
+    {
+     "t": "p",
+     "text": "Trang chính thức của giải ghi nhận cả hai lập những dấu mốc mới ở cự ly này tại Nam Cực."
+    },
+    {
+     "t": "p",
+     "text": "Đó là một màn “hạ đo ván” thú vị, dù chưa thể coi là cuộc đấu ngang sức. Sự kiện có nhiều cự ly và chưa xác định được Qestr đăng ký nội dung nào."
+    },
+    {
+     "t": "p",
+     "text": "Báo 20 Minutos cũng cho biết robot được một thành viên ban tổ chức điều khiển từ xa, không phải hoàn toàn tự chạy như người xem có thể hình dung."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng bàn hơn nằm ở cách cơ thể con người vượt qua giá lạnh. Mỗi bước chạy không chỉ đưa vận động viên tiến lên mà còn tạo nhiệt từ hoạt động cơ bắp. Nguồn nhiệt ấy giúp duy trì thân nhiệt giữa môi trường liên tục lấy đi hơi ấm."
+    },
+    {
+     "t": "p",
+     "text": "Theo Trường Y học thể thao Mỹ (ACSM), nhiệt lượng sinh ra khi vận động kết hợp với trang phục phù hợp là yếu tố quan trọng chống hạ thân nhiệt. Cơ thể sử dụng năng lượng để vừa hoạt động vừa giữ ấm; vì thế, vận động viên cần ăn uống đầy đủ để duy trì sức trong những cuộc chạy kéo dài."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía máy móc, giá lạnh đặt ra bài toán khác. Các nghiên cứu về pin lithium-ion cho thấy nhiệt độ thấp làm chậm quá trình vận chuyển điện tích và tăng điện trở bên trong, khiến pin cung cấp năng lượng kém hiệu quả."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Dù chưa có đầy đủ thông số pin của Qestr, việc robot dừng sớm cho thấy bảo vệ nguồn điện là thách thức lớn khi đưa thiết bị ra khỏi môi trường thử nghiệm quen thuộc."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, con người cũng không thể chỉ dựa vào ý chí để chạy xuyên giá lạnh. Mặc quá dày có thể khiến mồ hôi tích tụ, làm ướt quần áo và giảm khả năng cách nhiệt. ACSM khuyến cáo phối hợp các lớp áo thoát ẩm, giữ ấm và chắn gió, đồng thời điều chỉnh theo mức vận động."
+    },
+    {
+     "t": "p",
+     "text": "Nguy cơ còn tăng khi vận động viên kiệt sức, chạy chậm lại và sinh nhiệt ít hơn. Bởi vậy, thành tích hơn 160km trên băng tuyết là kết quả của sức bền được rèn luyện, khả năng phân phối sức, tiếp tế và bảo vệ cơ thể. Sau hình ảnh hài hước về robot hết pin là một chiến thắng rất nghiêm túc của khoa học huấn luyện thể thao."
+    }
+   ]
+  },
+  {
+   "id": "0f6e4ca063e0",
+   "order": 11,
+   "slug": "bat-duoc-ca-vang-cam-ruc-ro-hiem-gap",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Bắt được cá vàng cam rực rỡ hiếm gặp",
+   "sapo": "Cá burbot màu vàng cam hiếm gặp được phát hiện tại Mỹ. Đột biến gene xanthochromism tạo nên màu sắc đặc biệt này.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/bat-duoc-ca-vang-cam-ruc-ro-hiem-gap-100261113133909964.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 362,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/0f6e4ca063e0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/0f6e4ca063e0-0.jpg",
+     "caption": "Cá burbot có màu vàng cam hiếm gặp - Ảnh: USFWS",
+     "w": 758,
+     "h": 573
+    },
+    {
+     "src": "img/2026-11-14/0f6e4ca063e0-1.jpg",
+     "caption": "Cá mập y tá màu cam được phát hiện ngoài khơi Costa Rica - Ảnh: GARVIN WATSON",
+     "w": 800,
+     "h": 449
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Con cá được phát hiện trong một cuộc khảo sát định kỳ về các loài thủy sinh xâm lấn của Cơ quan Cá và Động vật hoang dã Mỹ. Theo trang IFLScience ngày 12-11, màu sắc khác thường của con cá là kết quả của hiện tượng xanthochromism, một dạng biến đổi di truyền khiến sắc tố vàng và cam nổi bật hơn bình thường."
+    },
+    {
+     "t": "p",
+     "text": "Cơ quan Cá và Động vật hoang dã Mỹ mô tả đây là phát hiện đặc biệt hiếm có, bởi xanthochromism ở cá hoang dã còn ít gặp hơn cả chứng bạch tạng và tình trạng tăng sắc tố đen."
+    },
+    {
+     "t": "p",
+     "text": "Cá burbot có hình dáng giống sự kết hợp giữa cá da trơn và cá chình. Loài này thường có màu nâu loang, xanh ô liu hoặc xám đục. Một số cá thể có đốm vàng nhưng không nổi bật, trong khi con cá vừa được phát hiện có màu vàng cam gần như toàn thân."
+    },
+    {
+     "t": "p",
+     "text": "Theo các nhà nghiên cứu, xanthochromism xảy ra khi đột biến gene làm giảm biểu hiện của các sắc tố tối màu như melanin, khiến sắc tố vàng và cam chiếm ưu thế. Hiện tượng này khác với chứng bạch tạng, vốn khiến cơ thể mất khả năng sản xuất melanin và thiếu sắc tố."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Xanthochromism từng được ghi nhận ở một số loài chim, bò sát, lưỡng cư và cá, nhưng rất hiếm gặp trong tự nhiên. Những đột biến liên quan đến màu sắc bất thường thường không ảnh hưởng trực tiếp đến sức khỏe tổng thể của động vật. Tuy nhiên, màu sắc nổi bật có thể khiến chúng dễ bị kẻ săn mồi phát hiện và gặp khó khăn hơn trong việc tìm bạn tình."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà sinh học nhận thấy con cá burbot vàng cam này khá gầy và có dấu hiệu sức khỏe kém. Cá đã được chuyển đến Trường Thú y thuộc Đại học Cornell để kiểm tra."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, năm 2025, một con cá mập y tá màu cam rực rỡ cũng được phát hiện ngoài khơi Costa Rica. Các nhà nghiên cứu cho rằng đây là một trường hợp xanthochromism hiếm gặp."
+    }
+   ]
+  },
+  {
+   "id": "c68c51e619d6",
+   "order": 12,
+   "slug": "nhung-sinh-vat-o-hem-nui-duoi-day-bien",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Những sinh vật ở hẻm núi dưới đáy biển",
+   "sapo": "Từ một tàu nghiên cứu ngoài khơi Argentina, Daniel Lauretta nhìn một robot lặn xuống đại dương. Robot này có tên là SuBastian. Đây là một phương tiện điều khiển từ xa (remotely operated vehicle). SuBastian mang theo máy quay xuống đáy hẻm núi Mar del Plata ở Đại Tây Dương…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g34/canyon-creatures-g3/",
+   "published": "2026-11-12T14:00:49+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 936,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Canyon Creatures",
+   "images": [
+    {
+     "src": "img/2026-11-14/c68c51e619d6-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-0.jpg",
+     "caption": "Một con tàu lớn màu xanh và trắng nổi trên mặt biển yên lặng dưới bầu trời trong xanh.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-1.jpg",
+     "caption": "Một robot nghiên cứu dưới nước màu vàng được kéo lên khỏi mặt biển, nước chảy tràn khắp thân robot.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-2.jpg",
+     "caption": "Hai nhà khoa học đang xem xét một mẫu vật biển trong khay trên tàu nghiên cứu.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-3.jpg",
+     "caption": "Một con sao biển năm cánh màu cam sáng nằm trên đáy biển.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-4.jpg",
+     "caption": "Một cánh tay robot đang giữ một sinh vật biển sâu dài, màu nhạt phía trên đáy biển.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-5.jpg",
+     "caption": "Một nhà khoa học xem xét các mẫu vật biển nhỏ trong khay dưới đèn kính lúp.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/c68c51e619d6-6.jpg",
+     "caption": "Một con hải sâm màu hồng nhạt, trong suốt nằm trên đáy biển đầy cát.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ một tàu nghiên cứu ngoài khơi Argentina, Daniel Lauretta nhìn một robot lặn xuống đại dương. Robot này có tên là SuBastian. Đây là một phương tiện điều khiển từ xa. SuBastian mang theo máy quay xuống đáy hẻm núi Mar del Plata ở Đại Tây Dương. Hẻm núi dưới nước này sâu hơn gấp đôi so với Grand Canyon."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "NGOÀI KHƠI Tàu nghiên cứu Falkor (too) chở theo SuBastian và các nhà khoa học trong chuyến thám hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Khi SuBastian xuống đến đáy biển, Lauretta lo lắng. \"Điều đầu tiên tôi nhìn thấy, khi máy quay chạm đáy, chỉ là lớp bùn mềm,\" ông nói với TIME for Kids. \"Có rất ít sinh vật.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhưng không cần phải lo lắng. Trong 21 ngày vào mùa hè năm 2025, SuBastian đã lặn 17 lần. Nó tìm thấy các rạn san hô. Nó tìm thấy sao biển. Nó tìm thấy những sinh vật chưa ai từng thấy. Khoảng một năm sau, một nhóm nhà khoa học đã nghiên cứu kỹ các kết quả của chuyến thám hiểm. Vào tháng Chín, nhóm nghiên cứu công bố đã xác định được 57 loài sinh vật biển chưa từng được biết đến."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "TRỞ LẠI MẶT NƯỚC SuBastian được kéo lên khỏi biển sau một trong 17 lần lặn trong chuyến thám hiểm năm 2025."
+    },
+    {
+     "t": "h",
+     "text": "Phát trực tiếp từ đáy biển sâu"
+    },
+    {
+     "t": "p",
+     "text": "Lauretta là một nhà nghiên cứu tại Bảo tàng Khoa học Tự nhiên Argentina. Bảo tàng này ở Buenos Aires. Ông dẫn đầu nhóm khoa học của chuyến thám hiểm, do Viện Hải dương học Schmidt điều hành. Khi Lauretta theo dõi SuBastian khám phá, máy quay đã phát trực tiếp video lên mạng. Hàng triệu người đã xem."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "LÀM VIỆC NHÓM Các nhà nghiên cứu Renata Pertossi và Noelia Sánchez lấy các mẫu vật mà SuBastian thu thập được trong một lần lặn vào ngày 1 tháng 8 năm 2025."
+    },
+    {
+     "t": "p",
+     "text": "Bất ngờ, một con sao biển màu cam xuất hiện trước camera. Người xem cho rằng nó trông giống một nhân vật trong phim hoạt hình SpongeBob SquarePants. \"Khung chat bùng nổ với các bình luận về sự giống nhau của nó với Patrick Star,\" Lauretta nói. Con sao biển này trở nên nổi tiếng. Nó không phải là một loài mới. Các nhà khoa học đã để nó lại đúng nơi tìm thấy. Nhưng nhóm nghiên cứu đã thu thập những sinh vật khác từ hẻm núi và đưa về phòng thí nghiệm. Đó là nơi những phát hiện thực sự bắt đầu."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "NGÔI SAO ẤY LÀ AI? Một con sao biển màu cam khiến người xem trực tiếp thích thú vì giống một nhân vật hoạt hình."
+    },
+    {
+     "t": "h",
+     "text": "Những thám tử truy tìm loài mới"
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 7 năm 2026, 20 nhà phân loại học taxonomist nhà khoa học phân loại thực vật và động vật (danh từ) và nhiều nhà nghiên cứu khác đã tập hợp tại Buenos Aires trong hai tuần để nghiên cứu các loài động vật từ hẻm núi. Họ sẽ xác định xem con nào là loài mới đối với khoa học. \"Giống như làm thám tử vậy,\" Francisco Solís-Marín nói. Ông là một chuyên gia về hải sâm. Để biết một con vật có phải là một phát hiện mới hay không, ông so sánh hình dạng và các bộ phận cơ thể của nó với tất cả các loài đã biết."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "PHÁT HIỆN DƯỚI ĐÁY SÂU Một trong các cánh tay của SuBastian đang giữ một con bút biển (Pseudumbellula sp.), một trong những loài mới được phát hiện."
+    },
+    {
+     "t": "p",
+     "text": "Một loài hải sâm mới được phát hiện dài khoảng 10 cm. Nó gần như trong suốt. Nó có những cái gai nhìn như sừng. Nhóm nghiên cứu đặt tên nó là Loki. Đó là tên một nhân vật trong Marvel đội mũ có sừng (xem phần \"Trong một cái tên có gì?\"). \"Hải sâm là những siêu anh hùng nhỏ của đại dương,\" Solís-Marín nói. \"Một số có thể bơi, phát sáng, hoặc tự vệ bằng những cách tuyệt vời.\""
+    },
+    {
+     "t": "p",
+     "text": "Những phát hiện nhỏ nhất đến từ bùn: Copepod là loài giáp xác crustacean một nhóm động vật sống chủ yếu dưới nước, có bộ xương bên ngoài, chẳng hạn như tôm (danh từ) . Chúng nhỏ hơn một hạt cơm. Các nhà khoa học chỉ mới xem xét một phần mười số mẫu copepod. Mỗi mẫu đều là một loài mới. \"Vẫn còn cả một thế giới mới chờ được khám phá,\" Emanuel Pereira, một nhà khoa học nghiên cứu copepod, nói. Nhóm của Lauretta sẽ trở lại vào đầu năm 2027. Họ sẽ khám phá một hẻm núi khác. \"Tôi hy vọng sẽ tìm thấy nhiều loài mới,\" ông nói."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "NHÌN LẦN ĐẦU Nhà nghiên cứu Brenda Doti quan sát kỹ một loài giáp xác trên tàu Falkor (too) vào ngày 1 tháng 8 năm 2025."
+    },
+    {
+     "t": "h",
+     "text": "Trong một cái tên có gì?"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Loki chỉ là một tên gọi thân mật. Nhưng mỗi loài mới được phát hiện đều cần một tên khoa học chính thức. Để chọn tên, các nhà khoa học phải viết một báo cáo. Họ mô tả con vật đó khác với các loài đã biết như thế nào. Quá trình này có thể mất nhiều tháng hoặc nhiều năm để hoàn thành. Nhưng có một phần thưởng: \"Là những nhà khoa học nghiên cứu loài mới này, chúng tôi được quyền chọn tên chính thức cho nó,\" Solís-Marín nói. Cho đến lúc đó, Loki vẫn chính thức được gọi là Peniagone sp. Chữ sp. có nghĩa là loài này chưa được đặt tên."
+    }
+   ]
+  },
+  {
+   "id": "6f71daee2d20",
+   "order": 13,
+   "slug": "phat-hien-loai-ech-co-sung-chua-tung-duoc-biet-den",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Phát hiện loài ếch có sừng chưa từng được biết đến",
+   "sapo": "(Dân trí) - Các nhà khoa học lần đầu mô tả một loài ếch có sừng mới tại Vườn quốc gia Vũ Quang, Hà Tĩnh. Loài này được đặt tên cóc mắt Vũ Quang, góp phần",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/phat-hien-loai-ech-co-sung-chua-tung-duoc-biet-den-20261113090821180.htm",
+   "published": "2026-11-13T03:11:26+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 457,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/6f71daee2d20-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/6f71daee2d20-0.jpg",
+     "caption": "Loài cóc mắt Vũ Quang mới được phát hiện (Ảnh: Vườn quốc gia Vũ Quang).",
+     "w": 811,
+     "h": 540
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Các nhà khoa học lần đầu mô tả một loài ếch có sừng mới tại Vườn quốc gia Vũ Quang, Hà Tĩnh. Loài này được đặt tên cóc mắt Vũ Quang, góp phần làm phong phú thêm danh lục động vật Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Sáng 13/11, lãnh đạo Vườn quốc gia Vũ Quang (Hà Tĩnh) cho biết các nhà khoa học đã mô tả và xác định một loài ếch có sừng mới thuộc chi Xenophrys, được đặt tên là cóc mắt Vũ Quang (Xenophrys vuquangensis)."
+    },
+    {
+     "t": "p",
+     "text": "Công trình nghiên cứu có sự tham gia của 10 nhà khoa học thuộc các đơn vị trong nước và quốc tế, gồm: Trường Đại học Khoa học - Đại học Quốc gia Hà Nội, Viện Tài nguyên và Môi trường, Bảo tàng Lịch sử Tự nhiên Hoa Kỳ, Viện Sinh học - Viện Hàn lâm Khoa học và Công nghệ Việt Nam, Học viện Khoa học và Công nghệ và Vườn quốc gia Vũ Quang."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cóc mắt Vũ Quang có kích thước cơ thể trung bình, cá thể đực dao động từ gần 64mm đến hơn 68mm, trong khi cá thể cái được ghi nhận có chiều dài hơn 77mm."
+    },
+    {
+     "t": "p",
+     "text": "Loài này có những đặc điểm hình thái khá đặc trưng. Da lưng phủ các hạt nhỏ, 2 bên thân xuất hiện nhiều củ lớn. Vùng bụng và mặt dưới đùi có nhiều nốt sần."
+    },
+    {
+     "t": "p",
+     "text": "Về màu sắc, phần đầu và lưng có nền nâu đỏ hoặc nâu xám. Giữa 2 mắt nổi bật một vùng hình tam giác màu nâu sẫm. Dọc theo các gờ lưng là những vệt nâu sẫm tạo thành hoa văn đặc trưng, trong khi 2 bên thân và mặt sau đùi có các đốm trắng lớn."
+    },
+    {
+     "t": "p",
+     "text": "Qua khảo sát thực địa, các nhà khoa học ghi nhận loài cóc này hoạt động chủ yếu vào ban đêm, trong thời gian 19-22h30. Chúng được phát hiện trên mặt đất, cành cây hoặc những tảng đá gần suối, thuộc khu vực rừng thường xanh có các cây gỗ kích thước vừa và lớn xen lẫn thảm cây bụi."
+    },
+    {
+     "t": "p",
+     "text": "Theo lãnh đạo Vườn quốc gia Vũ Quang, việc phát hiện và công bố loài cóc mắt Vũ Quang góp phần bổ sung một loài lưỡng cư mới vào danh lục đa dạng sinh học của Việt Nam, đồng thời cung cấp thêm dữ liệu khoa học về thành phần loài ở khu vực Trường Sơn."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, phát hiện này cho thấy tiềm năng nghiên cứu khoa học tại các hệ sinh thái rừng tự nhiên ở Vườn quốc gia Vũ Quang vẫn còn nhiều, đặc biệt trong việc khảo sát, phát hiện và mô tả các loài sinh vật chưa được ghi nhận."
+    }
+   ]
+  },
+  {
+   "id": "4733ff1e244e",
+   "order": 14,
+   "slug": "cong-parabol-bach-khoa-nang-40-tan-se-duoc-than-den-di-doi-t",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Cổng Parabol Bách khoa nặng 40 tấn sẽ được 'Thần đèn' di dời thế nào?",
+   "sapo": "Cổng Parabol - biểu tượng hơn 60 năm tuổi của Đại học Bách khoa Hà Nội - sẽ được 'Thần đèn' Tư Lũy di dời nguyên khối, dịch chuyển vào phía trong khoảng 20m. Tại vị trí mới, cổng Parabol sẽ được nâng cốt thêm 12cm.",
+   "author": "NGUYÊN BẢO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cong-parabol-bach-khoa-nang-40-tan-se-duoc-than-den-di-doi-the-nao-100261111125129098.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 534,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/4733ff1e244e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/4733ff1e244e-0.jpg",
+     "caption": "Khu vực thi công di dời cổng Parabol sáng 11-11. Hiện công nhân đang đào đất phần chân móng cổng - Ảnh: NGUYÊN BẢO",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-14/4733ff1e244e-1.jpg",
+     "caption": "GS Lê Anh Tuấn - Giám đốc Đại học Bách khoa Hà Nội (đội mũ, bên phải) trực tiếp giám sát thi công - Ảnh: HUST",
+     "w": 1280,
+     "h": 766
+    },
+    {
+     "src": "img/2026-11-14/4733ff1e244e-2.jpg",
+     "caption": "Hiện trạng khu vực thi công di dời cổng - Ảnh: HUST",
+     "w": 1280,
+     "h": 760
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 12-11, Đại học Bách khoa Hà Nội chính thức thông tin chi tiết phương án di dời nguyên khối cổng Parabol nhằm phục vụ dự án mở rộng đường Giải Phóng (Hà Nội), dự kiến hoàn thành trong 1 tháng."
+    },
+    {
+     "t": "p",
+     "text": "Đại học Bách khoa Hà Nội cho biết nhà trường chủ trương bảo tồn nguyên trạng công trình trong quá trình dịch chuyển. Kinh phí thực hiện do Tập đoàn Vingroup tài trợ."
+    },
+    {
+     "t": "p",
+     "text": "Được xây dựng và khánh thành năm 1965, cổng Parabol có trọng lượng khoảng 40 tấn, là một trong những hình ảnh biểu trưng quen thuộc của Đại học Bách khoa Hà Nội. Để bảo đảm an toàn cho kết cấu, phương án kỹ thuật được lựa chọn là di dời nguyên khối, thay vì tháo dỡ và xây dựng lại."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình di dời được triển khai qua các bước: Đào móng, lắp đặt hệ nẹp cứng gia cường có trọng lượng khoảng 30 tấn, cắt móng và sử dụng hệ thống con lăn để dịch chuyển toàn bộ công trình vào phía trong khoảng 20m. Tốc độ dịch chuyển được kiểm soát ở mức 2-3m/h nhằm hạn chế rung chấn, giảm thiểu rủi ro ảnh hưởng đến kết cấu."
+    },
+    {
+     "t": "p",
+     "text": "Tại vị trí mới, cổng Parabol sẽ được nâng cốt thêm 12cm, bảo đảm cao hơn 8cm so với cốt đường Giải Phóng sau khi mở rộng."
+    },
+    {
+     "t": "p",
+     "text": "Đơn vị trực tiếp thi công là Công ty TNHH MTV Tư Lũy, thường được biết đến với thương hiệu \" Thần đèn Tư Lũy \", đơn vị có kinh nghiệm trong lĩnh vực di dời các công trình quy mô lớn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch, công tác di dời dự kiến hoàn thành trong 3 tuần, tổng thời gian tu sửa, hoàn trả nguyên trạng khoảng 1 tháng."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc di dời cổng Parabol không khó. Tuy nhiên, phần vòm cong phía trên cổng có kết cấu đặc biệt nên quá trình thi công cần thực hiện kỹ càng, tỉ mỉ\", đại diện Tư Lũy cho biết."
+    },
+    {
+     "t": "p",
+     "text": "GS Lê Anh Tuấn - Giám đốc Đại học Bách khoa Hà Nội - khẳng định chủ trương của tập thể lãnh đạo nhà trường là tính toán kỹ lưỡng nhằm giữ gìn biểu tượng cổng Parabol."
+    },
+    {
+     "t": "p",
+     "text": "\"Hình ảnh cổng Parabol vẫn sẽ luôn gắn bó với Đại học Bách khoa Hà Nội, đại diện cho ngôi trường khoa học - công nghệ hàng đầu Việt Nam\" - GS Lê Anh Tuấn nhấn mạnh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Việc di dời nguyên khối thể hiện sự hài hòa giữa nhu cầu phát triển hạ tầng giao thông đô thị và trách nhiệm gìn giữ giá trị lịch sử, văn hóa của một công trình gắn bó với đông đảo cán bộ, giảng viên, sinh viên và cựu sinh viên Bách khoa Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Phương án này giúp dự án mở rộng đường Giải Phóng triển khai thuận lợi, đồng thời bảo toàn hình ảnh quen thuộc của đại học trong đời sống của người dân thủ đô."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian thi công, nhà trường sẽ phối hợp các đơn vị liên quan để bảo đảm an toàn cho người và phương tiện tham gia giao thông khu vực lân cận."
+    }
+   ]
+  },
+  {
+   "id": "1016fb8e65d4",
+   "order": 15,
+   "slug": "nu-giang-vien-bach-khoa-gianh-giai-qua-cau-vang-2026",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Nữ giảng viên Bách khoa giành giải Quả cầu vàng 2026",
+   "sapo": "Từ niềm yêu thích những con lắc dao động, Vân Anh chọn theo đuổi lĩnh vực điều khiển robot và tự động hóa, trở thành một trong hai nhà khoa học nữ giành giải Quả cầu vàng năm 2026.",
+   "author": "Khánh Linh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nu-giang-vien-bach-khoa-gianh-giai-qua-cau-vang-2026-5143552.html",
+   "published": "2026-11-12T22:50:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1048,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/1016fb8e65d4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-14/1016fb8e65d4-0.jpg",
+     "caption": "TS Nguyễn Thị Vân Anh. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 788
+    },
+    {
+     "src": "img/2026-11-14/1016fb8e65d4-1.jpg",
+     "caption": "Vân Anh cùng các sinh viên trong phòng thực hành tại Đại học Bách khoa Hà Nội. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 775
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ niềm yêu thích những con lắc dao động, Vân Anh chọn theo đuổi lĩnh vực điều khiển robot và tự động hóa, trở thành một trong hai nhà khoa học nữ giành giải Quả cầu vàng năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Giải này dành cho 10 nhà khoa học trẻ không quá 35 tuổi, có thành tích nghiên cứu xuất sắc, công bố chất lượng trên tạp chí quốc tế uy tín hoặc có sáng chế, giải pháp hữu ích được ứng dụng trong thực tế."
+    },
+    {
+     "t": "p",
+     "text": "TS Nguyễn Thị Vân Anh, giảng viên khoa Tự động hóa, trường Điện - Điện tử, Đại học Bách khoa Hà Nội, được vinh danh ở hạng mục Công nghệ robot và Tự động hóa."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu của nữ giảng viên gắn với một loại robot phổ biến trong sản xuất công nghiệp, gọi là cánh tay máy. Nó có thể thực hiện những thao tác như gắp, nhấc và di chuyển vật thể từ vị trí này sang vị trí khác. Bài toán đặt ra với Vân Anh là làm sao để robot chuyển động chính xác, nhanh và hiệu quả nhất."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, chị nghiên cứu các loại robot di động hỗ trợ con người trong kho hàng lớn, phát triển ứng dụng cho các loại cầu trục vận chuyển hàng hóa và UAV."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Niềm yêu thích với chuyển động đến từ thời Vân Anh học phổ thông. Trong những giờ Vật lý, chị đặc biệt hứng thú với phần cơ học, nhất là các bài về dao động và chuyển động của vật thể, như con lắc khi được thả rơi, lực hay robot trong các phim khoa học viễn tưởng."
+    },
+    {
+     "t": "p",
+     "text": "Vân Anh sau đó theo học chương trình Kỹ sư chất lượng cao Việt - Pháp tại Đại học Bách khoa Đà Nẵng, chuyên ngành Kỹ thuật sản xuất tự động. Để hiểu cách robot vận hành, chị phải học đồng thời nhiều kiến thức về tự động hóa, cơ khí, cấu tạo thiết bị và phương pháp điều khiển."
+    },
+    {
+     "t": "p",
+     "text": "Từ những năm đầu, chị đã đặt mục tiêu học lên cao, tiếp cận những kiến thức và phương pháp nghiên cứu tốt nhất."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình rất muốn trở thành cô giáo, được truyền dạy những gì đã học và những kinh nghiệm tích lũy được\", Vân Anh chia sẻ. Năm 2015, Vân Anh nhận học bổng tiến sĩ của Đại sứ quán Pháp, sang Đại học Bách khoa Hauts-de-France làm nghiên cứu sinh. Chị tiếp tục đào sâu các lý thuyết về điều khiển tự động và các dạng chuyển động của robot trong công nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Đi thẳng từ bậc đại học lên tiến sĩ, lại bước vào một môi trường học thuật hoàn toàn mới, Vân Anh thấy mình non nớt, không biết cách tổ chức công việc. Cộng với định hướng chưa rõ ràng, chị bỏ phí khá nhiều thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Vân Anh tự đặt câu hỏi liệu mình đã cố gắng hết sức, hay còn thiếu điều gì. Chị nhận ra cần đọc thêm tài liệu, chủ động trao đổi sâu hơn với các thầy hướng dẫn. Có giai đoạn, chị làm việc cật lực, chỉ ngủ khoảng 2-3 tiếng mỗi ngày để đưa bản thân theo quỹ đạo của một nghiên cứu sinh."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình không muốn chấp nhận thất bại hay bỏ cuộc\", Vân Anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Dần dần, cách làm việc giữa thầy và trò, kết quả nghiên cứu cũng tốt hơn. Năm 2019, chị nhận bằng tiến sĩ ngành Tự động hóa, rồi giảng dạy ở một trường đại học của Pháp. Trải nghiệm này giúp Vân Anh tin vào lựa chọn trở thành giảng viên."
+    },
+    {
+     "t": "p",
+     "text": "Cách đây hơn 5 năm, Vân Anh về nước, đầu quân cho Đại học Bách khoa Hà Nội. Đầu năm nay, chị trở thành giám đốc chương trình đào tạo tài năng ngành Kỹ thuật điều khiển và Tự động hóa (ET-TN). Chị trực tiếp tuyển chọn, phỏng vấn theo định hướng STEM với sinh viên chương trình này. Mục tiêu là giúp các em phát huy năng lực trong 4-5 năm đại học, từ đó đạt chuẩn đầu ra tốt nhất, xứng đáng với học bổng được nhà nước hỗ trợ."
+    },
+    {
+     "t": "p",
+     "text": "Vân Anh nhìn nhận sinh viên hiện có nhiều điều kiện tiếp xúc kiến thức khoa học công nghệ hơn trước. Chẳng hạn ở Bách khoa Hà Nội, các em được truy cập nhiều tạp chí khoa học quốc tế, có cơ hội tham gia các hội thảo để tìm hiểu về xu hướng của tự động hóa. Đây là điều quan trọng bởi lĩnh vực robot và tự động hóa đang có nhiều bài toán mới. Ở Việt Nam, nhu cầu nghiên cứu và ứng dụng ngày càng đa dạng, từ robot vận chuyển tự động (AGV), máy bay không người lái (UAV) hay robot hình người (humanoid) phục vụ y tế và các dịch vụ cộng đồng. AI cũng mở ra những hướng nghiên cứu mới để kết hợp, ứng dụng được vào robot."
+    },
+    {
+     "t": "p",
+     "text": "Để cập nhật xu hướng, Vân Anh cùng các thầy, cô trong khoa đưa vào chương trình đào tạo các học phần liên quan ứng dụng AI, robot thế hệ mới và phương tiện tự hành."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình có vai trò là một nhà khoa học, nhưng có lẽ vai trò quan trọng hơn nữa là một nhà giáo\", chị nói. Nữ giảng viên dành khoảng 60-70% sức lực cho đào tạo, hướng dẫn sinh viên để nuôi dưỡng niềm yêu thích và năng lực nghiên cứu khoa học của các em."
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, Vân Anh sinh con thứ hai. Chỉ sau vài tháng nghỉ, chị trở lại làm việc trực tuyến để duy trì hoạt động của nhóm nghiên cứu, bảo đảm tiến độ các đề tài. Có những đêm bận chăm con nhỏ, nhưng khi nhận được tin nhắn của sinh viên, thấy các em vẫn miệt mài nghiên cứu, chị được tiếp thêm động lực."
+    },
+    {
+     "t": "p",
+     "text": "Với Vân Anh, giải thưởng Quả cầu vàng không chỉ ghi nhận những nỗ lực trong nghiên cứu, mà còn đi kèm trách nhiệm."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình muốn góp sức cho nền khoa học Việt Nam và truyền ngọn lửa đó tới các bạn trẻ trong quá trình giảng dạy\", nữ tiến sĩ nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    }
+   ]
+  },
+  {
+   "id": "54c9edb4a0b1",
+   "order": 16,
+   "slug": "quan-quan-lap-trinh-icpc-chau-a-thu-khoa-hoc-vien-canh-sat-n",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Quán quân lập trình ICPC châu Á, thủ khoa Học viện Cảnh sát nhân dân được phong hàm trung úy vượt cấp",
+   "sapo": "Đỗ Trần Minh Anh, 23 tuổi (Hà Nội) vừa tốt nghiệp thủ khoa Học viện Cảnh sát nhân dân cuối tháng 5 với GPA 3.85/4.0. Không chỉ được trường giữ lại làm giảng viên nguồn, anh còn được phong hàm trung úy vượt cấp.",
+   "author": "NGUYÊN BẢO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/quan-quan-lap-trinh-icpc-chau-a-thu-khoa-hoc-vien-csnd-duoc-phong-ham-trung-uy-giu-lai-lam-giang-vien-100261111233429174.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 969,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/54c9edb4a0b1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/54c9edb4a0b1-0.jpg",
+     "caption": "Đỗ Trần Minh Anh - thủ khoa tốt nghiệp Học viện Cảnh sát nhân dân năm 2026 - Ảnh: NVCC",
+     "w": 854,
+     "h": 605
+    },
+    {
+     "src": "img/2026-11-14/54c9edb4a0b1-1.jpg",
+     "caption": "Minh Anh trong lễ tuyên dương Gương mặt trẻ Công an tiêu biểu năm 2024 - Ảnh: NVCC",
+     "w": 1032,
+     "h": 896
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Minh Anh là đại diện duy nhất của Học viện Cảnh sát nhân dân trong danh sách gần 100 thủ khoa được thành phố Hà Nội vinh danh vào ngày 18-11 tới."
+    },
+    {
+     "t": "h",
+     "text": "Thức xuyên đêm phá án trong kỳ thực tập"
+    },
+    {
+     "t": "p",
+     "text": "Minh Anh cho biết trong nhà không có ai công tác trong ngành công an nhưng gia đình vốn có truyền thống cách mạng. Từ những câu chuyện mẹ kể về thời gian ông ngoại tham gia cách mạng, nam sinh ngưỡng mộ, trân trọng và tự hào."
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình trưởng thành, Minh Anh dần trở nên yêu thích ngành Công an nhân dân . Đặc biệt niềm say mê đọc truyện trinh thám càng khiến nam sinh tò mò, muốn tìm hiểu sâu về ngành."
+    },
+    {
+     "t": "p",
+     "text": "Đến lớp 12, cựu học sinh chuyên toán, Trường THPT chuyên Khoa học tự nhiên (Đại học Quốc gia Hà Nội) giành giải nhì học sinh giỏi quốc gia môn toán. Tuy nhiên giải thưởng này vẫn chưa thể giúp nam sinh trúng tuyển thẳng vào Học viện Cảnh sát nhân dân , bởi năm đó điều kiện quy định là thí sinh phải được triệu tập tham gia thi chọn đội tuyển dự thi Olympic quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Minh Anh tiếp tục tập trung ôn thi tốt nghiệp THPT trong những tháng cuối, sau đó trúng tuyển ngành điều tra tội phạm trật tự xã hội, hệ chất lượng cao, theo tổ hợp D01 (toán, ngữ văn, tiếng Anh)."
+    },
+    {
+     "t": "p",
+     "text": "Bước chân vào Học viện Cảnh sát nhân dân, Minh Anh được tham gia huấn luyện đầu khóa 6 tháng, được tập điều lệnh Công an nhân dân, tập bơi, bắn súng... Phải mất 1-2 tuần Minh Anh mới làm quen được với môi trường tập thể, kỷ luật nghiêm ngặt."
+    },
+    {
+     "t": "p",
+     "text": "Sau 6 tháng huấn luyện, Minh Anh trở lại trường học tập chính khóa ngành điều tra tội phạm trật tự xã hội (chương trình chất lượng cao). Thời gian đầu, học viên gặp khó khăn với các môn học đại cương do chưa xác định được phương pháp học tập mới, còn bị động."
+    },
+    {
+     "t": "p",
+     "text": "Cảm thấy việc duy trì cách học như bậc phổ thông chưa ổn, Minh Anh xin thêm lời khuyên từ thầy cô, thay đổi phương pháp học sang chủ động tìm tòi, nghiên cứu. Lúc này, thư viện chứa đầy sách tại trường chính là nơi Minh Anh tìm đến mỗi ngày."
+    },
+    {
+     "t": "p",
+     "text": "Theo Minh Anh, khoảng thời gian đi thực tập 6 tháng ở Công an Phường Hà Đông (Hà Nội) rất ý nghĩa, đáng nhớ. Đó là lúc được trải nghiệm thật từ những câu chuyện nghiệp vụ thầy cô từng kể, từng dạy trên lớp."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi ấy, tôi được các anh tin tưởng, phân công, đi cùng các anh phá án. Có hôm thức xuyên đêm đi bắt tội phạm. Quá trình bắt diễn ra vất vả, có thể diễn ra nhiều ngày. Cũng có những vụ án phức tạp đấu tranh cả tháng, phải bám sát đối tượng, theo dõi đối tượng rất lâu."
+    },
+    {
+     "t": "p",
+     "text": "Lúc lựa chọn ngành tôi đã xác định tinh thần sẵn sàng đi bất cứ đâu, làm bất cứ việc gì. Bố mẹ cũng lo lắng, nhưng nhiều lúc tôi lại động viên bố mẹ, nói rằng đây là ước mơ và niềm đam mê của con và con phải có trách nhiệm với lựa chọn của mình\", Minh Anh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Từ chuyên toán đến quán quân lập trình ICPC châu Á"
+    },
+    {
+     "t": "p",
+     "text": "Từ năm thứ hai đại học, Minh Anh bắt đầu tham gia nhiều cuộc thi học thuật, nổi bật là Olympic tin học sinh viên Việt Nam và kỳ thi Lập trình viên quốc tế ICPC."
+    },
+    {
+     "t": "p",
+     "text": "Trong ba năm là thành viên đội tuyển của học viện, học viên giành giải nhì khối không chuyên, giải ba khối chuyên tại Olympic tin học sinh viên Việt Nam. Đặc biệt, Minh Anh xuất sắc đoạt giải nhất kỳ thi ICPC khu vực châu Á."
+    },
+    {
+     "t": "p",
+     "text": "Minh Anh kể việc theo đuổi lập trình đòi hỏi bản thân phải liên tục tìm tòi, bổ sung kiến thức. Hai cuộc thi lại diễn ra cùng thời điểm nên có những đêm nam sinh tập trung ôn luyện đến 3h sáng."
+    },
+    {
+     "t": "p",
+     "text": "Theo Minh Anh, nền tảng chuyên toán giúp bản thân có tư duy logic, thuận lợi hơn khi tiếp cận vấn đề và giải các thuật toán trong tin học nhanh, chính xác."
+    },
+    {
+     "t": "p",
+     "text": "Học viên cho rằng trong bối cảnh khoa học - công nghệ phát triển, mỗi người cần không ngừng học hỏi, rèn luyện và nâng cao năng lực công nghệ. Những kiến thức, kỹ năng tin học được trau dồi không chỉ hỗ trợ việc học tập mà còn hữu ích cho công việc giảng dạy sau này."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh thành tích lập trình, Minh Anh còn giành giải nhì Giải thưởng Khoa học và Công nghệ dành cho sinh viên các cơ sở giáo dục đại học toàn quốc năm 2024. Minh Anh cũng từng đảm nhiệm vai trò sĩ quan liên lạc tại các hội nghị quốc tế và nhiều lần được giám đốc học viện khen thưởng vì thành tích xuất sắc trong học tập, nghiên cứu khoa học và công tác đoàn hội."
+    },
+    {
+     "t": "p",
+     "text": "Với thành tích học tập và rèn luyện xuất sắc, Minh Anh tốt nghiệp với hàm trung úy, được Học viện Cảnh sát nhân dân giữ lại làm giảng viên sau tốt nghiệp. Hiện Minh Anh đang trong quá trình tập sự giảng dạy tại khoa nghiệp vụ điều tra hình sự, Học viện Cảnh sát nhân dân."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian tới, Minh Anh mong muốn tiếp tục được nâng cao trình độ chuyên môn, nghiệp vụ, được học hỏi thêm từ thế hệ đi trước để hoàn thiện bản thân."
+    }
+   ]
+  },
+  {
+   "id": "58f8a9aac2e2",
+   "order": 17,
+   "slug": "nhung-ngan-sach-cua-sophia",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Những ngăn sách của Sophia",
+   "sapo": "Sophia Parekh rất yêu sách. Tầng hầm nhà cô bé chứa đầy sách. Có hàng ngàn cuốn sách dành cho trẻ em mọi lứa tuổi, từ trẻ sơ sinh, trẻ mới biết đi đến học sinh tiểu học và thiếu niên, được xếp ngay ngắn trên các ngăn kệ. Nơi đây giống như một thư viện bí mật. Từ…",
+   "author": "",
+   "source_name": "TIME for Kids",
+   "source_url": "https://www.timeforkids.com/g56/service-stars-sophias-shelves-g5/",
+   "published": "2026-11-12T12:51:49+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 850,
+   "translated": true,
+   "translated_from": "TIME for Kids",
+   "title_original": "Sophia’s Shelves",
+   "images": [
+    {
+     "src": "img/2026-11-14/58f8a9aac2e2-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/58f8a9aac2e2-0.jpg",
+     "caption": "Một cô bé ngồi trên bậc cửa, phía sau là những thùng và túi chứa đầy sách cùng các vật dụng khác.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/58f8a9aac2e2-1.jpg",
+     "caption": "Một cô bé đeo kính đang phân loại sách thành từng chồng trên sàn trải thảm.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/58f8a9aac2e2-2.jpg",
+     "caption": "Một cô bé ngồi trên bãi cỏ bên ngoài một câu lạc bộ thanh thiếu niên, bên cạnh là những túi và một thùng sách được quyên tặng.",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-14/58f8a9aac2e2-3.jpg",
+     "caption": "Một cô bé đeo kính và khẩu trang màu hồng chấm bi đang mang một chồng vật dụng quyên tặng đi trên vỉa hè.",
+     "w": 1024,
+     "h": 682
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sophia Parekh rất yêu sách. Tầng hầm nhà cô bé chứa đầy sách. Có hàng ngàn cuốn sách dành cho trẻ em mọi lứa tuổi, từ trẻ sơ sinh, trẻ mới biết đi đến học sinh tiểu học và thiếu niên, được xếp ngay ngắn trên các ngăn kệ. Nơi đây giống như một thư viện bí mật. Từ năm 7 tuổi, Sophia đã tặng sách miễn phí thông qua một chương trình do chính cô bé khởi xướng. Chương trình đó có tên là Sophia's Book Stand."
+    },
+    {
+     "t": "p",
+     "text": "\"Mục tiêu ban đầu của mình là gửi khoảng 1.000 cuốn sách mỗi năm cho những trẻ em đang cần,\" Sophia, hiện 13 tuổi, chia sẻ với TIME for Kids. Đến nay, cô học sinh lớp 7 ở New Jersey này đã tặng được hơn 8.000 cuốn sách. Vào tháng 9, cô bé được trao Giải Gloria Barron dành cho những người hùng trẻ tuổi (Gloria Barron Prize for Young Heroes). Giải thưởng này được trao hằng năm cho những người trẻ đang tạo ra tác động tích cực cho thế giới."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "NHỮNG THÙNG SÁCH Sophia chuẩn bị 300 cuốn sách cho các gia đình đang cần, có con nhỏ dưới 5 tuổi."
+    },
+    {
+     "t": "h",
+     "text": "Chia sẻ những câu chuyện"
+    },
+    {
+     "t": "p",
+     "text": "Để xin sách miễn phí từ Sophia's Book Stand, các thầy cô và gia đình chỉ cần điền vào một mẫu đơn trực tuyến. Mẫu đơn hỏi về tuổi và sở thích của trẻ. Sophia dùng những thông tin đó để lục tìm trên các ngăn kệ, chọn ra cuốn sách phù hợp nhất."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "XẾP THÀNH CHỒNG Sophia phân loại sách để tặng cho trẻ em ở Hạt Union, New Jersey, vào năm 2022."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình cố nhớ lại mình từng thích đọc sách gì\" ở từng lứa tuổi, Sophia nói. \"Và mình luôn cố đảm bảo rằng dù ai nhận được những cuốn sách này, các bạn cũng sẽ thích chúng.\" Cô bé nói thêm, để nuôi dưỡng tình yêu đọc sách, \"bạn phải tìm được một cuốn sách mà bạn thật sự thích và có thể đồng cảm với nó.\""
+    },
+    {
+     "t": "p",
+     "text": "Những lời xin sách đến từ khắp mọi nơi. Sophia đã gửi sách cho một em bé 4 tuổi ở Pennsylvania yêu thích công chúa. Cô bé cũng đã gửi sách cho một giáo viên lớp 5 ở Arizona, và cho hai anh em ở New York mê mẩn khủng long và kỳ lân."
+    },
+    {
+     "t": "p",
+     "text": "Khi bộ sưu tập của Sophia ngày càng lớn, số sách cô bé có thể tặng cũng tăng lên. \"Lúc đầu, mình chỉ gửi mỗi em hai đến ba cuốn,\" cô bé nói. \"Giờ mình cố gắng gửi từ tám đến mười cuốn cho mỗi em, để các em có thể xây dựng thư viện riêng tại nhà.\""
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 6, Sophia đã tặng 288 cuốn sách cho 36 học sinh ở Linden, New Jersey. Cô bé muốn các em có sách để đọc trong mùa hè. \"Tôi rất, rất biết ơn Sophia vì cơ hội mà em đã dành cho học sinh của tôi,\" cô giáo Elizabeth Nardone nói. \"Giúp đỡ những đứa trẻ khác và lan tỏa niềm vui đọc sách là một điều thật sự rất đặc biệt.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "ĐỌC SÁCH MÙA HÈ Sophia mang 100 cuốn sách đến tặng cho chương trình mùa hè của Boys & Girls Club ở Newark vào năm 2021."
+    },
+    {
+     "t": "h",
+     "text": "Những ước mơ lớn"
+    },
+    {
+     "t": "p",
+     "text": "Nhiều cuốn sách mà Sophia tặng đi được những người làm trong ngành xuất bản cung cấp. Gần đây, cô bé đã liên hệ với Mary Pope Osborne, tác giả bộ truyện Magic Tree House. \"Các bạn nhỏ cực kỳ, cực kỳ yêu thích những cuốn sách đó,\" mẹ của Sophia cho biết. Nhà xuất bản của Osborne đã hứa sẽ gửi nhiều bản sách."
+    },
+    {
+     "t": "p",
+     "text": "Những món quà tặng cũng đến từ bạn bè. \"Sách thật sự rất quan trọng trong cuộc sống của tất cả chúng ta, nhưng đặc biệt quan trọng với trẻ em,\" Lindsay Gordon Bezalel nói. Cô và gia đình sống ngay đối diện nhà Sophia. \"Tôi rất vui được hỗ trợ con bé. Con bé bỏ công sức cần thiết để đảm bảo sách đến được đúng tay những người cần.\""
+    },
+    {
+     "t": "p",
+     "text": "Mùa xuân này, Sophia's Book Stand bước sang năm thứ sáu. \"Tôi chắc chắn muốn mở rộng,\" Sophia nói. Mục tiêu của cô bé bao gồm có thêm nhiều sách song ngữ và sách có các nhân vật đa dạng. Cô bé cũng hy vọng sẽ gửi sách cho trẻ em ở các nước khác. Như vậy, cô bé nói, \"mọi người đều có thể có cơ hội nhận được sách, bất kể họ sống ở đâu.\""
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "GIAO HÀNG! Năm 2021, Sophia mang sách đến bưu điện. Những cuốn sách này được chọn kỹ để phù hợp với sở thích của từng bạn nhỏ."
+    },
+    {
+     "t": "h",
+     "text": "Bạn có cảm thấy được tiếp lửa không?"
+    },
+    {
+     "t": "p",
+     "text": "Hãy để câu chuyện của Sophia tiếp lửa cho bạn để thúc đẩy việc đọc sách trong cộng đồng của mình. Nhấn vào bên dưới để biết thêm những ý tưởng giúp bạn tạo ra sự khác biệt tích cực."
+    }
+   ]
+  },
+  {
+   "id": "2e2e0aaa5100",
+   "order": 18,
+   "slug": "nhung-ngoi-truong-khong-dien-thoai-san-truong-ron-ra-tieng-c",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Những ngôi trường không điện thoại: Sân trường rộn rã tiếng ca hát, học sinh đan len, đá cầu vui quá trời!",
+   "sapo": "Từ năm học 2025-2026, sau khi lấy ý kiến đồng thuận từ cha mẹ học sinh, Trường THPT Nguyễn Thái Bình (TP.HCM) chính thức đưa quy định không sử dụng điện thoại di động trong khuôn viên trường vào nội quy. Qua một năm thực hiện, khoảng sân trường từng lặng lẽ nay đã nhộn nhịp trở lại với những cuộc trò chuyện trực tiếp và tiếng cười đùa hồn nhiên của lứa tuổi học trò.",
+   "author": "DUYÊN PHAN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nhung-ngoi-truong-khong-dien-thoai-san-truong-ron-ra-tieng-ca-hat-hoc-sinh-dan-len-da-cau-vui-qua-troi-100261111230018363.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 771,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-0.jpg",
+     "caption": "Giờ ra chơi các em học sinh Trường THPT Nguyễn Thái Bình thoải mái thể hiện những ca khúc yêu thích - Ảnh: DUYÊN PHAN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-1.jpg",
+     "caption": "",
+     "w": 904,
+     "h": 1196
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-2.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-3.jpg",
+     "caption": "Việc hạn chế học sinh sử dụng điện thoại trong giờ ra chơi đang tạo ra không khí sôi động hơn, khi học sinh chủ động vận động và giao tiếp trực tiếp - Ảnh: DUYÊN PHAN",
+     "w": 1280,
+     "h": 849
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-4.jpg",
+     "caption": "Học sinh tìm đến cô Đoàn Thị Thu Hoài - Hiệu trưởng Trường THPT Nguyễn Thái Bình để trò chuyện, tâm sự - Ảnh: DUYÊN PHAN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 856
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-6.jpg",
+     "caption": "",
+     "w": 1213,
+     "h": 769
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-7.jpg",
+     "caption": "",
+     "w": 1276,
+     "h": 881
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-8.jpg",
+     "caption": "Thầy cô trong trường cùng chơi cờ với các em học sinh trong giờ ra chơi - Ảnh: DUYÊN PHAN",
+     "w": 1280,
+     "h": 848
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-9.jpg",
+     "caption": "Việc tham gia các hoạt động vận động trong giờ ra chơi giúp tinh thần thoải mái, tỉnh táo hơn - Ảnh: DUYÊN PHAN",
+     "w": 1280,
+     "h": 750
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-10.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 790
+    },
+    {
+     "src": "img/2026-11-14/2e2e0aaa5100-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 741
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "h",
+     "text": "Tìm lại niềm vui giao tiếp trực tiếp"
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại những ngày đầu quy định mới được áp dụng, không ít học sinh không tránh khỏi cảm giác hụt hẫng vì thói quen giải trí trên điện thoại đã ăn sâu vào sinh hoạt hằng ngày."
+    },
+    {
+     "t": "p",
+     "text": "Em Nguyễn Minh Ngọc (học sinh lớp 10C6) nhớ lại: \"Những ngày đầu, mình cảm thấy khó khăn nhất là chưa quen với việc không có điện thoại bên cạnh, đặc biệt là những lúc rảnh rỗi hoặc muốn kiểm tra tin nhắn. Tuy nhiên, sau một thời gian, mình đã dần thích nghi. Thay vì ngồi lướt màn hình, mình trò chuyện, vui đùa cùng bạn bè hoặc tham gia các hoạt động tập thể. Mình thấy bản thân giao tiếp nhiều hơn, gần gũi với các bạn hơn và giờ ra chơi trở nên thực sự ý nghĩa.\""
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các em học sinh tranh thủ đan len trong giờ ra chơi - Ảnh: NTCC"
+    },
+    {
+     "t": "p",
+     "text": "Đồng quan điểm, em Võ Anh Thư (học sinh lớp 11B13) chia sẻ việc rời xa chiếc điện thoại giúp tinh thần các bạn nhẹ nhàng và bớt phụ thuộc hơn: \"Thay vì dùng điện thoại, chúng mình tranh thủ giờ ra chơi để trao đổi bài tập, ôn lại kiến thức, chơi thể thao hoặc tâm sự chuyện thường ngày. Điều đó giúp cả lớp vừa giải tỏa áp lực học tập vừa tăng sự gắn kết. Còn việc tìm tài liệu, mình sử dụng sách tham khảo, lên thư viện hoặc hỏi trực tiếp giáo viên, tối về nhà mới tra cứu thêm trực tuyến\"."
+    },
+    {
+     "t": "h",
+     "text": "Quản lý linh hoạt, không cấm đoán cứng nhắc"
+    },
+    {
+     "t": "p",
+     "text": "Đánh giá về chặng đường một năm triển khai, cô Đoàn Thị Thu Hoài - Hiệu trưởng Trường THPT Nguyễn Thái Bình cho biết nhà trường ghi nhận nhiều chuyển biến rất tích cực. Học sinh tập trung nghe giảng hơn, chủ động trao đổi bài và tham gia làm việc nhóm. Ý thức kỷ luật, tinh thần đoàn kết cùng kết quả rèn luyện của các em đều có bước tiến đáng kể."
+    },
+    {
+     "t": "p",
+     "text": "Để 45 phút ra chơi không trở nên nhàm chán, nhà trường đã giao cho các tổ chuyên môn và trợ lý thanh niên phụ trách tổ chức nhiều sân chơi vận động, trải nghiệm phong phú, giúp học sinh phát huy năng khiếu và sở trường."
+    },
+    {
+     "t": "p",
+     "text": "\"Theo tôi, điều quan trọng nhất không chỉ là hạn chế sử dụng điện thoại mà còn giúp các em tìm lại niềm vui trong giao tiếp trực tiếp, biết chia sẻ, hợp tác và xây dựng những tình bạn đẹp dưới mái trường\", cô Thu Hoài nhấn mạnh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Song song đó, nhà trường xây dựng các giải pháp linh hoạt để đảm bảo nhu cầu học tập lẫn liên lạc thông suốt:"
+    },
+    {
+     "t": "p",
+     "text": "Trong học tập: Ở những tiết học có ứng dụng nền tảng số, học sinh vẫn được dùng điện thoại dưới sự hướng dẫn của giáo viên (được thông báo rõ trên bảng lớp). Trong giờ ra chơi, các em có nhu cầu tra cứu tài liệu hay làm việc nhóm bằng thiết bị có thể đến khu vực quy định tại thư viện dưới sự giám sát của nhân viên."
+    },
+    {
+     "t": "p",
+     "text": "Về liên lạc: Phụ huynh có thể kết nối với con qua điện thoại bàn của trường hoặc phòng giám thị. Trường hợp khẩn cấp, học sinh được phép nghe điện thoại của cha mẹ ngay trong giờ học. Sau giờ tan trường, nhà trường bố trí khu vực phòng bảo vệ để các em gọi điện cho gia đình, đặt xe hoặc nhờ thầy cô, Ban giám hiệu hỗ trợ khi cần."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình tại THPT Nguyễn Thái Bình cho thấy nhà trường không cấm học sinh tiếp cận công nghệ một cách tuyệt đối, mà hướng các em đến việc sử dụng đúng mục đích, đúng thời điểm. Việc trả lại sự tương tác thực tế giữa sân trường không chỉ giúp học sinh giảm bớt áp lực từ thế giới ảo mà còn vun đắp nên những kỷ niệm học đường trọn vẹn."
+    },
+    {
+     "t": "p",
+     "text": "Một số hoạt động tại trường THPT Nguyễn Thái Bình giờ ra chơi:"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Nhiều bạn ra sân kéo co, đá cầu, chơi cầu lông,… cảm giác gắn kết hơn rất nhiều - Ảnh: NTCC"
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Việc hạn chế điện thoại đã giúp giờ ra chơi tại nhiều trường trở nên nhộn nhịp, tạo không gian sinh hoạt chung lành mạnh - Ảnh: NTCC"
+    },
+    {
+     "t": "p",
+     "text": "Các thầy cô Trường THPT Nguyễn Thái Bình cùng hòa mình trò chuyện và chơi cùng học sinh - Ảnh: NTCC"
+    }
+   ]
+  },
+  {
+   "id": "2731b7c84979",
+   "order": 19,
+   "slug": "trai-ban-nguoi-dao-tu-tay-xay-nha-lam-du-lich",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Trai bản người Dao tự tay xây nhà làm du lịch",
+   "sapo": "Bắt đầu với ý tưởng làm du lịch và bảo tồn bản sắc văn hóa dân tộc Dao tại bản Pắc Đây (xã Công Sơn, Lạng Sơn), thanh niên trẻ Dương Trùng Mình gặp nhiều khó khăn. Nhưng với sức trẻ, ý chí và khát vọng vươn lên nơi biên viễn, anh đã tự tay xây dựng homestay để bắt đầu hiện thực hóa ước mơ.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/trai-ban-nguoi-dao-tu-tay-xay-nha-lam-du-lich-185261112214141918.htm",
+   "published": "2026-11-12T22:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1104,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/2731b7c84979-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/2731b7c84979-0.jpg",
+     "caption": "Căn nhà do anh Dương Trùng Mình tự tay làm theo bản sắc người Dao",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2731b7c84979-1.jpg",
+     "caption": "Trải qua nhiều năm làm việc xa quê, anh Mình quyết định trở về phát triển kinh tế dựa trên bản sắc văn hóa người Dao",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2731b7c84979-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2731b7c84979-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2731b7c84979-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-14/2731b7c84979-5.jpg",
+     "caption": "Chính quyền địa phương đánh giá cao tinh thần dám nghĩ, dám làm của anh Dương Trùng Mình",
+     "w": 1280,
+     "h": 895
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Ước mơ làm giàu dưới đỉnh Mẫu Sơn"
+    },
+    {
+     "t": "p",
+     "text": "Trải qua những cung đường chênh vênh, uốn lượn giữa cảnh đẹp hoang sơ, hùng vĩ của rừng núi Mẫu Sơn trùng điệp, chúng tôi đến bản Pắc Đây, nơi phần lớn người dân tộc Dao sinh sống. Ngôi nhà do anh Dương Trùng Mình (28 tuổi) tự tay xây dựng mang đậm bản sắc người Dao nằm cạnh cung đường cong ven sườn núi, cách đỉnh Mẫu Sơn khoảng 1 km. Phía dưới là những ngọn núi xanh ngút ngàn trải dài hết tầm mắt."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra tại miền sơn cước, quanh năm gắn bó với nương rẫy, gia đình anh Mình không mấy khá giả. Khi lớn lên, anh xuống Hà Nội làm công nhân tại khu công nghiệp. Đại dịch Covid-19 ập đến, doanh nghiệp gặp khó khăn khiến anh thất nghiệp rồi trở về bản, sau đó mở quầy bánh mì ở TP.Lạng Sơn (cũ)."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng rồi, nhận thấy xã hội ngày càng phát triển, nhiều người trẻ dám đầu tư bứt phá và có thu nhập ổn định, anh Mình tự nhủ phải tìm một hướng đi lâu dài. Năm 2023, chàng trai trẻ quyết định trở về quê hương để khởi nghiệp."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Nhiều du khách lên đỉnh Mẫu Sơn thường hỏi tôi chỗ nghỉ, các điểm tham quan và nơi tìm hiểu văn hóa bản địa. Trong khi đó, người dân trong bản chỉ biết làm rẫy trồng ngô, trồng lúa vất vả mà thu nhập chẳng được bao nhiêu. Tôi nghĩ đây chính là cơ hội lớn để phát triển du lịch\", anh Mình chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nghĩ là làm, anh Mình chủ động tìm hiểu các mô hình du lịch cộng đồng ở nhiều nơi, xâu chuỗi các tài nguyên sẵn có của địa phương từ vị trí địa lý, bản sắc văn hóa đến ẩm thực."
+    },
+    {
+     "t": "p",
+     "text": "Các đặc sản như rượu Mẫu Sơn, chè shan tuyết, thổ cẩm… trở thành vốn liếng quý giá để anh bắt tay làm du lịch."
+    },
+    {
+     "t": "p",
+     "text": "Quyết tâm của anh Mình nhận được sự ủng hộ lớn từ gia đình. Năm 2024, từ nguồn tiền tích cóp hơn 300 triệu đồng, anh nhờ bố mẹ vay mượn thêm 200 triệu đồng rồi tự tay đặt viên gạch đầu tiên xây căn homestay ngay cạnh nhà. Anh quyết định tự làm tất cả để vừa chủ động triển khai ý tưởng, vừa tiết kiệm chi phí."
+    },
+    {
+     "t": "p",
+     "text": "Từ việc tìm mua máy móc làm nhà, xử lý bài toán cách âm cho các phòng gỗ, đến việc làm lan can sao cho kiên cố mà vẫn thẩm mỹ... đều do một tay anh Mình tự mày mò nghiên cứu và thực hiện."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Mọi chi tiết trong căn nhà đều do chàng trai trẻ tự học rồi làm"
+    },
+    {
+     "t": "p",
+     "text": "Sau hơn 2 năm, căn nhà 2 tầng của anh Mình hiện đang đi vào giai đoạn hoàn thiện. Khung nhà xây bằng gạch để đảm bảo an toàn trước vùng thời tiết quanh năm gió lớn, trát hoàn thiện bằng đất nhằm giữ hài hòa với cảnh quan thiên nhiên. Các kết cấu còn lại đều làm từ gỗ, chia thành 7 phòng riêng và 1 phòng sinh hoạt cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Gian bếp dựng hoàn toàn bằng đất lõi tre, lợp ngói âm dương truyền thống. Toàn bộ công trình tái hiện trọn vẹn không gian nhà ở truyền thống của người Dao."
+    },
+    {
+     "t": "h",
+     "text": "Giữ bản sắc để phát triển bền vững"
+    },
+    {
+     "t": "p",
+     "text": "Điều mong mỏi của anh Mình trong phát triển du lịch là phải giữ vững bản sắc văn hóa dân tộc Dao, lấy đó làm nền tảng bền vững cho cả thôn bản. Xác định làm du lịch cộng đồng thì không thể đi một mình, anh tích cực vận động các hộ dân và thanh niên trong bản cùng tham gia."
+    },
+    {
+     "t": "p",
+     "text": "\"Trước mắt, tôi phải hoàn thiện mô hình của mình và đưa vào vận hành hiệu quả. Khi thấy thành công thực tế, bà con sẽ mạnh dạn đầu tư theo\", anh Mình trải lòng."
+    },
+    {
+     "t": "p",
+     "text": "Dù chưa chính thức khai trương, đến nay căn homestay của anh Mình đã đón khoảng 20 đoàn khách đến tham quan, nghỉ chân. Ở đây, du khách không chỉ lưu trú mà còn nghe kể chuyện về văn hóa bản địa và mua các sản phẩm nông sản như rượu Mẫu Sơn, chè shan tuyết."
+    },
+    {
+     "t": "p",
+     "text": "Dự kiến đến cuối năm 2026, khi công trình hoàn thiện, anh Mình sẽ phối hợp với chính quyền địa phương hoàn tất các thủ tục pháp lý để chính thức đưa homestay vào vận hành. Trong thời gian này, chàng trai trẻ tích cực tham gia các khóa học hỏi mô hình du lịch cộng đồng do Đoàn Thanh niên xã Công Sơn tổ chức."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "\"Người Dao có nhiều phong tục, nghi lễ truyền thống độc đáo như lễ cầu mùa, nghi thức cưới hỏi hay lễ cầu bình an. Tuy nhiên, du khách thích nhất vẫn là tìm hiểu về lễ cấp sắc, nghi lễ quan trọng bậc nhất của người Dao, kéo dài 3 ngày 2 đêm, đánh dấu sự trưởng thành cả về thể chất lẫn tinh thần\", anh Mình cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi về mô hình này, ông Hoàng Văn Đông, Trưởng phòng Văn hóa - Xã hội xã Công Sơn, cho biết chính quyền địa phương đánh giá cao tinh thần dám nghĩ, dám làm của anh Dương Trùng Mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Muốn phát triển mô hình du lịch cộng đồng cần từ 5 - 7 hộ làm đồng bộ mới tạo được hiệu quả tốt. Địa phương đang tích cực tuyên truyền, vận động nhưng do địa hình phức tạp, chi phí đầu tư lớn nên bà con chưa dám thực hiện\", ông Đông nói."
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, để chung tay với bà con, Công an tỉnh Lạng Sơn đã phối hợp với các đoàn thể hỗ trợ thi công con đường bê tông dẫn lên homestay của anh Mình như một sự động viên kịp thời."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Tô Hồng Thái, Bí thư Đoàn Thanh niên xã Công Sơn, anh Mình là một đoàn viên tiêu biểu, chịu khó và dám khởi nghiệp trên chính quê hương."
+    },
+    {
+     "t": "p",
+     "text": "\"Mô hình của anh Mình cũng là mô hình du lịch đầu tiên của xã. Đoàn thanh niên đã hỗ trợ quảng bá homestay trên mạng xã hội, phối hợp làm đường và đưa Mình đi tham quan các mô hình thực tế. Chúng tôi cũng hỗ trợ anh tiếp cận các nguồn vốn vay nhưng do vướng mắc về thủ tục nên chưa thực hiện được\", anh Thái thông tin."
+    }
+   ]
+  },
+  {
+   "id": "837ff9ec1727",
+   "order": 20,
+   "slug": "chiec-phong-bi-14-trieu-dong-khien-khach-my-bat-khoc-muon-o",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Chiếc phong bì 14 triệu đồng khiến khách Mỹ bật khóc muốn ở Việt Nam cả đời",
+   "sapo": "(Dân trí) - Rời Mỹ sau những biến cố trong công việc, anh Brandon Lawrence định tới Việt Nam \"chữa lành\" trong vài tháng nhưng cuối cùng, đất nước này khiến",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/chiec-phong-bi-14-trieu-dong-khien-khach-my-bat-khoc-muon-o-viet-nam-ca-doi-20261111210332557.htm",
+   "published": "2026-11-12T23:02:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1132,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-14/837ff9ec1727-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-14/837ff9ec1727-0.jpg",
+     "caption": "Chàng trai Mỹ tới Việt Nam với hy vọng được \"chữa lành\" (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1013
+    },
+    {
+     "src": "img/2026-11-14/837ff9ec1727-1.jpg",
+     "caption": "Ở Việt Nam, Brandon có những người bạn mới, khiến cuộc sống của anh luôn vui vẻ (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-14/837ff9ec1727-2.jpg",
+     "caption": "Anh Brandon đã du lịch nhiều tỉnh, thành Việt Nam (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-14/837ff9ec1727-3.jpg",
+     "caption": "Bén duyên diễn xuất, anh Brandon được làm việc cùng nhiều diễn viên nổi tiếng của Việt Nam (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 994
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Rời Mỹ sau những biến cố trong công việc, anh Brandon Lawrence định tới Việt Nam \"chữa lành\" trong vài tháng nhưng cuối cùng, đất nước này khiến anh gắn bó tới 7 năm."
+    },
+    {
+     "t": "p",
+     "text": "Brandon Lawrence là một người đàn ông Mỹ, đang sinh sống tại TPHCM. Anh tham gia nhiều dự án quảng cáo, phim điện ảnh Việt Nam, trong đó có vai diễn trong bộ phim Mưa Đỏ ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2017, anh từng gặp cú sốc trong công việc tại Mỹ và rơi vào trầm cảm. ''Khao khát một cuộc sống an toàn, tự do, tôi bán hết đồ đạc để tới châu Á'', anh Brandon chia sẻ với phóng viên Dân trí ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sau khoảng 6 tháng sống ở Campuchia, hơn 7 năm trước, Brandon mua một tấm vé xe buýt một chiều đến TPHCM. Khi ấy, anh chưa biết nhiều về Việt Nam, cũng không hình dung chuyến đi này sẽ \"thay đổi cuộc đời mình\"."
+    },
+    {
+     "t": "p",
+     "text": "Chiếc phong bì 14 triệu đồng “cả đời không quên”"
+    },
+    {
+     "t": "p",
+     "text": "Khi tới TPHCM, chàng trai Mỹ thuê một căn hộ để sinh sống, duy trì công việc dạy tiếng Anh, từng bước làm quen với nhịp sống địa phương, học tiếng Việt và xây dựng những mối quan hệ mới. Trong hành trình ấy, có những kỷ niệm khiến anh nhớ mãi, đặc biệt là sự chân thành và tử tế của người dân Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Brandon xúc động nhớ lại quãng thời gian đại dịch Covid-19 bùng phát. Công việc bị ảnh hưởng trong thời gian dài khiến thu nhập của anh giảm nghiêm trọng. Anh phải chuyển khỏi căn hộ đang thuê để chuyển tới căn hộ nhỏ hơn, nhằm giảm bớt chi phí sinh hoạt."
+    },
+    {
+     "t": "p",
+     "text": "Do kết thúc hợp đồng thuê nhà trước thời hạn, Brandon nghĩ mình sẽ mất khoản tiền đặt cọc 14 triệu đồng. Tuy nhiên, khi anh chuẩn bị chuyển đi, bà chủ nhà lớn tuổi đã chủ động đưa anh một chiếc phong bì, bên trong là 14 triệu đồng xếp ngay ngắn và nói: “Đây là tiền đặt cọc của anh”."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi thật sự xúc động, bật khóc trước tấm lòng của bà. Đó là hành động tử tế mà cả đời này tôi sẽ không quên. Vào thời điểm đó, số tiền đặt cọc đã giúp tôi rất nhiều, tôi thực sự biết ơn và trân trọng”, anh Brandon kể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Với người đàn ông Mỹ, Việt Nam là quốc gia “ra đường là gặp người tốt”. Những người dân vốn xa lạ luôn chào đón anh bằng nụ cười, sự hồn hậu, không hề phân biệt anh đến từ đâu, hoàn cảnh kinh tế thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ nhận được sự giúp đỡ trong đời sống, Brandon còn bất ngờ trước cách những người Việt xa lạ bảo vệ mình trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 4 năm trước, anh tham gia một quảng cáo bằng tiếng Việt. Video nhanh chóng được chia sẻ rộng rãi, giúp anh được nhiều khán giả biết đến. Tuy nhiên, cách phát âm chưa chuẩn của Brandon cũng trở thành chủ đề để một số người trêu chọc."
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng, nhiều người Việt chưa từng gặp anh lại lên tiếng bênh vực. Họ cho rằng việc một người nước ngoài cố gắng học và sử dụng tiếng Việt là điều đáng được khích lệ, thay vì chế giễu."
+    },
+    {
+     "t": "p",
+     "text": "''Tôi đọc được những bình luận như 'Anh ấy đang cố gắng hết sức' hay 'Anh ấy đang chăm chỉ học ngôn ngữ của chúng ta'. Những người đó không biết tôi ngoài đời, nhưng vẫn dành cho tôi sự động viên. Tôi cảm thấy mình được yêu thương'', Brandon chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "7 năm gắn bó và mong muốn sống cả đời ở Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Khi chuyển tới Việt Nam sinh sống, Brandon bắt đầu yêu thích việc lái xe máy, rong ruổi khám phá các cung đường, quan sát cuộc sống từ Nam ra Bắc."
+    },
+    {
+     "t": "p",
+     "text": "Theo Brandon, xe máy giúp anh tiếp xúc gần hơn với nhịp sống địa phương. Trên đường đi, anh có thể nghe những cuộc trò chuyện thường ngày, học thêm từ ngữ, cách diễn đạt và tiếng lóng mà sách vở không phải lúc nào cũng đề cập. Anh cho rằng việc sử dụng ngôn ngữ bản địa giúp mình hiểu hơn về con người và văn hóa Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Vốn yêu thích diễn xuất từ nhỏ, Brandon mạnh dạn đăng ký tham gia một số chương trình truyền hình. Anh không ngờ, từ đây anh bén duyên với các đạo diễn, nhà sản xuất Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Anh từng tham gia bộ phim Netflix A Tourist's Guide to Love với vai trò diễn viên quần chúng, sau đó góp mặt trong dự án Thạch Sanh Lý Thanh , có dịp làm việc cùng các nghệ sĩ Việt Nam như Thành Lộc, Ngô Kiến Huy, Nguyễn Ngọc Thanh Tâm."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, Brandon xem vai diễn Cố vấn Mỹ trong Mưa Đỏ là dấu mốc quan trọng nhất trong sự nghiệp diễn xuất của mình đến thời điểm hiện tại. Theo lời kể của anh, đạo diễn đã biết đến anh từ trước và chủ động mời tham gia bộ phim mà không cần trải qua vòng tuyển chọn diễn viên thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Anh cho biết đang chuẩn bị tham gia hai dự án phim mới. Bên cạnh đó, Brandon đã hoàn thành kịch bản phim điện ảnh dài đầu tiên và dự định sản xuất tại Việt Nam. Trong dự án này, anh mong muốn đảm nhận cả ba vai trò gồm biên kịch, diễn viên chính và nhà sản xuất điều hành."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sau 7 năm gắn bó đất nước hình chữ S, Brandon cho biết anh không có kế hoạch trở về Mỹ để định cư lâu dài. Anh vẫn muốn về thăm mẹ, có thể tham gia một số dự án phim tại quê nhà, nhưng Việt Nam là nơi anh mong muốn tiếp tục sinh sống và phát triển sự nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi cảm thấy Việt Nam giống nhà hơn bất cứ nơi nào mình từng sống. Tôi sẽ luôn biết ơn người Việt Nam vì những gì họ đã dành cho tôi”, Brandon bày tỏ."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ riêng anh Brandon, nhiều du khách quốc tế cũng chọn gắn bó lâu dài với Việt Nam. Theo số liệu khảo sát Expat Insider 2025 của Tổ chức InterNations, Việt Nam được vinh danh là điểm đến có mức sống hợp lý trên thế giới trong 5 năm liên tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, kết quả khảo sát của Internations, mạng lưới người nước ngoài toàn cầu với hơn 4 triệu thành viên cũng cho thấy, Việt Nam đứng thứ 14 trong danh sách 53 quốc gia tốt nhất cho người nước ngoài."
+    }
+   ]
+  }
+ ]
+}
