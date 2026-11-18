@@ -1,0 +1,2505 @@
+{
+ "date": "2026-11-18",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-18T07:30:07+07:00",
+ "sections": [
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  }
+ ],
+ "articles": [
+  {
+   "id": "e89d5154578f",
+   "order": 1,
+   "slug": "chiec-xe-dap-mo-uoc-tang-cau-be-khe-sanh-moi-ngay-di-bo-den",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chiếc xe đạp mơ ước tặng cậu bé Khe Sanh mỗi ngày đi bộ đến trường",
+   "sapo": "Vào những ngày mưa, đôi chân điệu nghệ trên sân cỏ của La Phi không giúp em tránh khỏi ướt áo quần, sách vở do lội bộ 2km đến trường. Em ước mơ trở thành cầu thủ bóng đá chuyên nghiệp, nhưng trước mắt là có chiếc xe đạp để bớt gian nan đến trường.",
+   "author": "HOÀNG TÁO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/chiec-xe-dap-mo-uoc-tang-cau-be-khe-sanh-moi-ngay-di-bo-den-truong-100261117191549354.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 9,
+   "words": 1069,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/e89d5154578f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/e89d5154578f-0.jpg",
+     "caption": "Đôi chân không mệt mỏi của Hồ Nguyễn La Phi trên đường đến trường - Ảnh: HOÀNG TÁO",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-18/e89d5154578f-1.jpg",
+     "caption": "Cậu học trò mong có một chiếc xe đạp để đến trường thuận lợi hơn - Ảnh: HOÀNG TÁO",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-18/e89d5154578f-2.jpg",
+     "caption": "Hoài An đi bộ đến trường mỗi buổi sáng - Ảnh: HOÀNG TÁO",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ở xã Khe Sanh và xã Diên Sanh, tỉnh Quảng Trị , có hai học sinh mỗi ngày đều đi bộ hơn 2km đến trường. Hoàn cảnh mỗi em một khác, nhưng đều giống nhau ở đôi chân bé nhỏ và một ước mong rất giản dị."
+    },
+    {
+     "t": "h",
+     "text": "Đôi chân đi bộ đến trường và giấc mơ sân cỏ"
+    },
+    {
+     "t": "p",
+     "text": "Từ nhỏ, mẹ của em Hồ Nguyễn La Phi đã bỏ đi. Em và em gái sống với bố ở bản Vân Kiều thuộc xã vùng núi Khe Sanh. Bố hay làm ăn ở các tỉnh xa, hai anh em chủ yếu nương tựa vào nhau. Cách đây 4 năm, bố lấy vợ là Rơ Châm H’Blai, người Ja Rai, là mẹ kế của hai anh em hiện nay."
+    },
+    {
+     "t": "p",
+     "text": "Phi là học sinh lớp 9A2 Trường THCS Khe Sanh. Ngày nào em cũng đi bộ đến trường, hơn 2km đường làng rải đá, hai bên cây cối um tùm. Hiếm hoi lắm bố ở nhà mới chở em đi học."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày mưa, nhiều đoạn đường ngập nước, trơn và dốc."
+    },
+    {
+     "t": "p",
+     "text": "“Trời nắng đi học rất mệt. Còn trời mưa đỡ hơn, nhưng đường hơi khó đi. Nếu đi học trời mưa to thì quần áo, sách vở bị ướt, áo mưa cũng không ngăn được nước ướt vào người, sách vở”, Phi kể."
+    },
+    {
+     "t": "p",
+     "text": "Chị Rơ Châm H’Blai còn nhớ rất rõ những buổi con đi học về giữa trời mưa: “Mưa vẫn đi bộ, nắng vẫn đi bộ. Có hàng xóm đi ngang thấy thì cho con đi nhờ một hai lần. Mưa về nhà ướt hết quần áo”."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng đường xa không làm em chùn bước. Vào lớp, Phi chăm chú nghe giảng và giơ tay phát biểu xây dựng bài. Thầy Lê Văn Tý, giáo viên chủ nhiệm lớp 9A2, nói em là học sinh ngoan, luôn cố gắng vươn lên trong học tập. Bốn năm liền, Phi đều đạt học sinh khá."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chiều về, em đi qua khoảng sân đất đỏ để vào ngôi nhà sàn còn mộc mạc, tường tô tạm bợ. Em cất cặp rồi ngồi nhặt rau cùng mẹ, xong bữa lại ngồi xổm rửa chồng bát. Khi việc nhà đã xong, em mới ngồi xuống chiếc bàn gỗ cũ kê sát tường để mở sách ra học bài."
+    },
+    {
+     "t": "p",
+     "text": "Giữa những nhọc nhằn ấy, Phi vẫn nuôi ước mơ trở thành cầu thủ bóng đá chuyên nghiệp. Em mê bóng đá từ nhỏ và gia đình, bạn bè đều ủng hộ ước mơ đó."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng điều em mong trước mắt lại giản dị hơn nhiều. “Em cũng muốn có một chiếc xe đạp để đi học. Nếu có xe đạp thì em đi học thuận lợi hơn”, Phi nói."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Tý cũng chung mong muốn ấy: “Nếu được hỗ trợ cho em một chiếc xe đạp thì quá tốt, bởi hoàn cảnh của em đi học ở trường rất xa, bố mẹ thì chưa đưa đón được”."
+    },
+    {
+     "t": "h",
+     "text": "Chiếc xe đạp cũ mẹ chưa đủ tiền mua"
+    },
+    {
+     "t": "p",
+     "text": "Chung hoàn cảnh, em Hoàng Lê Hoài An, học sinh lớp 4A2 Trường TH&THCS số 1 Diên Sanh, xã Diên Sanh, cũng đi bộ đến lớp mỗi ngày. Hơn 2km với người lớn là một đoạn ngắn, nhưng với cô bé lớp 4 thì đó là cả một chặng đường dài."
+    },
+    {
+     "t": "p",
+     "text": "Bố mất khi An mới 5 tuổi. Từ năm 2023, hai mẹ con về ở nhờ nhà dì, em gái của mẹ, sau những năm sống ở xã biên giới A Dơi. Mẹ em là chị Lê Thị Minh Hiền, 48 tuổi, buôn bán tạp hóa giúp dì và nhận sửa quần áo bằng chiếc máy may nhỏ để kiếm thêm chút thu nhập."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nắng, An đi cùng chị em họ hoặc bạn bè, đôi khi được hàng xóm thấy đi bộ thì chở giúp. Ngày mưa, mẹ phải tạm nghỉ bán hàng để chở em đến trường."
+    },
+    {
+     "t": "p",
+     "text": "“Những ngày nắng, con đến trường cảm thấy khá mệt và nóng. Còn những lúc trời mưa thì con thấy cũng buồn vì mẹ phải tạm ngừng bán hàng để chở con đi”, An nói."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hiền kể mỗi lần đi học về, con lại than với mẹ: “Mẹ ơi, mệt lắm mẹ ạ”."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, An vẫn là một học sinh ngoan. Cô Văn Thị Thu Trang, giáo viên chủ nhiệm, cho biết năm lớp 3 em đạt học sinh xuất sắc, các môn đều hoàn thành tốt, năng lực và phẩm chất cũng đều tốt. “Đặc biệt bạn có tính cách vui vẻ, hòa đồng với các bạn trong lớp”, cô Trang nói."
+    },
+    {
+     "t": "p",
+     "text": "Về đến nhà, An lại phụ mẹ nhặt rau và quét sân. Trong lòng em chỉ có một ước muốn: “Con muốn có chiếc xe đạp để thay cho đôi bàn chân đi đến trường. Nếu có xe đạp, con sẽ suôn sẻ hơn, không cần làm phiền người khác nữa”."
+    },
+    {
+     "t": "p",
+     "text": "Đó cũng là điều chị Hiền vẫn hằng mong. Gia đình từng định mua một chiếc xe đạp cũ cho em đi học nhưng chưa đủ tài chính. Vì thế khi hay tin, Báo Tuổi Trẻ phối hợp với Tỉnh Đoàn Quảng Trị trao tặng xe đạp từ học bổng “Gieo mầm tri thức”, hai mẹ con đã rất vui."
+    },
+    {
+     "t": "p",
+     "text": "Cô Trang tin rằng khi có xe, An sẽ phấn khởi và tự chủ hơn, tự đi và tự về một cách chủ động."
+    },
+    {
+     "t": "p",
+     "text": "Với Hồ Nguyễn La Phi và Hoàng Lê Hoài An, chiếc xe đạp không chỉ là phương tiện. Nó là quãng đường được rút ngắn, là trang sách khô ráo trong những ngày mưa và là bữa bán hàng mẹ không phải nghỉ nữa. Còn với cậu học trò mơ làm cầu thủ, đó có thể là vòng quay đầu tiên trên con đường dài phía trước."
+    },
+    {
+     "t": "p",
+     "text": "Trong 2 ngày 18 và 19-11, Báo Tuổi Trẻ phối hợp với Tỉnh Đoàn Quảng Trị tổ chức trao học bổng “Gieo mầm tri thức” cho 200 học sinh có hoàn cảnh khó khăn đạt thành tích khá, giỏi của xã Khe Sanh và Diên Sanh."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi suất học bổng trị giá 2 triệu đồng, gồm xe đạp và dụng cụ học tập. Ngoài ra Agribank chi nhánh Hướng Hóa hỗ trợ thêm 100 áo mưa cho học sinh. Tổng giá trị chương trình tại tỉnh Quảng Trị hơn 400 triệu đồng, do Agribank chi nhánh Phú Nhuận TP.HCM tài trợ."
+    }
+   ]
+  },
+  {
+   "id": "9453f2472e94",
+   "order": 2,
+   "slug": "loai-ran-biet-cuon-tron-co-the-lan-di-de-thoat-than-khi-gap",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Loài rắn biết cuộn tròn cơ thể, lăn đi để thoát thân khi gặp nguy hiểm",
+   "sapo": "(Dân trí) - Một loài rắn bé nhỏ được tìm thấy trong những khu rừng tại Đông Nam Á có biện pháp tự vệ đặc biệt khi bị đe dọa, bằng cách cuộn tròn cơ thể và",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/loai-ran-biet-cuon-tron-co-the-lan-di-de-thoat-than-khi-gap-nguy-hiem-20261116154307624.htm",
+   "published": "2026-11-17T00:39:34+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 658,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/9453f2472e94-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/9453f2472e94-0.jpg",
+     "caption": "Rắn sậy lùn có kích thước rất nhỏ và cách thức di chuyển đặc biệt để lẩn trốn kẻ thù (Ảnh: Hamad Azam).",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-11-18/9453f2472e94-1.jpg",
+     "caption": "Khoảnh khắc rắn sậy lùn uốn cong cơ thể để búng đi nơi khác (Ảnh: Sci.News).",
+     "w": 465,
+     "h": 659
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Một loài rắn bé nhỏ được tìm thấy trong những khu rừng tại Đông Nam Á có biện pháp tự vệ đặc biệt khi bị đe dọa, bằng cách cuộn tròn cơ thể và lăn đi nơi khác nhằm tránh xa kẻ đi săn."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2023, các nhà khoa học lần đầu tiên ghi nhận một hành vi khá kỳ lạ ở loài rắn sậy lùn (tên khoa học Pseudorabdion ), khi một cá thể của loài rắn này đã lộn vòng cơ thể để thoát khỏi nguy hiểm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Rắn sậy lùn thuộc họ rắn nước, được tìm thấy trong những khu rừng tại Brunei, Indonesia, Malaysia, Singapore và Thái Lan. Loài rắn này có bản tính nhút nhát, kích thước rất nhỏ, chỉ dài từ 11 đến 28cm, thích đào hang, luôn tìm cách ẩn nấp và hoạt động về đêm, do vậy các nhà khoa học vẫn chưa có nhiều nghiên cứu sâu về rắn sậy lùn."
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, các nhà khoa học cho rằng hành động của con rắn sậy lùn mà họ bắt gặp năm 2023 chỉ là hành động tự phát của riêng một cá thể khi gặp nguy hiểm. Tuy nhiên, một nghiên cứu sâu hơn của các nhà khoa học tại Đại học Toho (Nhật Bản) đã nhận ra cách thức đặc biệt để loài rắn sậy lùn trốn chạy khi bị đe dọa."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo báo cáo được đăng tải trên tạp chí khoa học Current Biology , các nhà sinh vật học tại Đại học Toho đã nghiên cứu kỹ hành vi của 11 cá thể rắn sậy lùn trong phòng thí nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Họ nhận thấy rằng mỗi con rắn khi gặp nguy hiểm đều cuộn cơ thể thành hình chữ “C”, phần đầu nhấc lên khỏi mặt đất và hướng về phía muốn di chuyển. Sau đó, nó quất mạnh phần đuôi về phía sau, khiến cơ thể rời khỏi mặt đất trong chốc lát. Tiếp đó, con rắn tiếp tục vung đuôi về phía trước để giúp cơ thể đang cuộn tròn của mình xoay vòng như bánh xe ngay giữa không trung."
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình búng người về phía trước để chạy trốn, phần đầu của con rắn vẫn giữ rất ổn định, điều này cũng tương tự cách các loài rắn bay giữ đầu cố định khi phóng mình từ trên cây cao xuống phía dưới."
+    },
+    {
+     "t": "p",
+     "text": "“Khi chạy trốn nguy hiểm, chúng có thể lăn với tốc độ từ 1,7 đến 3,7 m/giây, tương đương khoảng 6 đến 13 km/giờ. Tốc độ nhanh kết hợp với kích thước nhỏ khiến loài rắn này có thể dễ dàng lẩn trốn kẻ thù khi gặp nguy hiểm”, nhà sinh vật học Yosuke Kojima, thành viên nhóm nghiên cứu, chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi phát hiện loài rắn sậy lùn có khả năng đặc biệt để chạy trốn kẻ thù, các nhà khoa học sẽ tiếp tục nghiên cứu để tìm hiểu xem loài rắn này có những đặc điểm nào về giải phẫu, sinh lý hoặc hệ thống điều khiển thần kinh cho phép chúng thực hiện hành động này."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học muốn tìm hiểu xem não bộ của rắn sậy lùn có gì đặc biệt để giúp chúng thực hiện hành động bất thường này một cách nhanh chóng như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Rắn sậy lùn là loài thuộc họ rắn nước, kích thước rất nhỏ và có lối sống đào hang để ẩn nấp. Chúng có lối sống về đêm, luôn tìm cách ẩn náu dưới các lớp lá để lẩn trốn kẻ thù."
+    },
+    {
+     "t": "p",
+     "text": "Thức ăn của rắn sậy lùn là giun đất, ấu trùng và một số loài côn trùng nhỏ. Kẻ thù ngoài tự nhiên của rắn sậy lùn là các loài rắn lớn hơn, chim săn mồi và các loài rết kích thước lớn."
+    },
+    {
+     "t": "p",
+     "text": "Rắn sậy lùn là loài nhút nhát, không có nọc độc nên vô hại với con người."
+    }
+   ]
+  },
+  {
+   "id": "d0b8078a3143",
+   "order": 3,
+   "slug": "phat-hien-co-ran-doc-con-song-trong-vali-cua-khach-my-san-ba",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Phát hiện có rắn độc còn sống trong vali của khách Mỹ, sân bay tạm dừng",
+   "sapo": "(Dân trí) - Nhân viên cơ quan an ninh vận tải Mỹ (TSA) tại một sân bay ở miền Nam California bất ngờ phát hiện có rắn độc còn sống, được giấu trong chiếc vỏ",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/phat-hien-co-ran-doc-con-song-trong-vali-cua-khach-my-san-bay-tam-dung-20261117170057707.htm",
+   "published": "2026-11-17T10:51:57+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 872,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/d0b8078a3143-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/d0b8078a3143-0.jpg",
+     "caption": "Phát hiện 2 con rắn trong vali hành khách nhờ soi chiếu (Ảnh: TSA).",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-18/d0b8078a3143-1.jpg",
+     "caption": "Rắn được giấu trong vỏ áo gối (Ảnh: TSA).",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Nhân viên cơ quan an ninh vận tải Mỹ (TSA) tại một sân bay ở miền Nam California bất ngờ phát hiện có rắn độc còn sống, được giấu trong chiếc vỏ gối bên trong vali ký gửi của hành khách."
+    },
+    {
+     "t": "p",
+     "text": "Theo thông cáo được cơ quan an ninh vận tải Mỹ (TSA) công bố hôm 13/11, sự việc xảy ra tại Sân bay quốc tế Ontario (ONT), bang California, Mỹ."
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình kiểm tra hành lý ký gửi, nhân viên TSA phát hiện một chiếc vỏ gối màu xanh bên trong vali. Ban đầu, họ tưởng vật thể bên trong là một đoạn dây thừng. Tuy nhiên, khi kiểm tra kỹ hơn, họ nhận ra thứ mình đang cầm là một sinh vật sống."
+    },
+    {
+     "t": "p",
+     "text": "Nhân viên TSA Benjamin Andrade Carillo - người đầu tiên phát hiện chiếc vỏ gối - lập tức báo cáo cấp trên để xin hỗ trợ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giám sát viên TSA Suggey Flores nhanh chóng có mặt để hỗ trợ. Theo cơ quan này, Flores cảm nhận được những con vật đang cử động bên trong chiếc vỏ gối."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhân viên TSA không nên trực tiếp xử lý rắn sống vì lý do an toàn. Ưu tiên của chúng tôi là bảo đảm an toàn cho nhân viên và tất cả những người có mặt trong khu vực, đồng thời thông báo cho các đơn vị liên quan và phối hợp tìm cách giải quyết phù hợp\", ông Flores nói."
+    },
+    {
+     "t": "p",
+     "text": "Do chưa xác định được chính xác chủng loại và mức độ nguy hiểm của những con rắn, hoạt động soi chiếu an ninh tại sân bay đã phải tạm dừng trong thời gian ngắn. Một trong 2 con rắn được xác định là rắn đuôi chuông vốn là loài rắn độc."
+    },
+    {
+     "t": "p",
+     "text": "Cảnh sát sân bay sau đó đưa chiếc vali đến khu vực quầy làm thủ tục của hãng hàng không để xác định chủ nhân. Khi được tìm thấy, hành khách cho biết 2 con rắn là thú cưng của mình và từng mang chúng lên máy bay khi đi bằng một hãng hàng không khác."
+    },
+    {
+     "t": "p",
+     "text": "Người này sau đó lấy hai con rắn ra khỏi hành lý và giao lại cho một thành viên trong gia đình không tham gia chuyến bay."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi kiểm tra an ninh lại, chiếc vali được xác nhận đủ điều kiện vận chuyển. Hành khách cũng được phép tiếp tục hành trình mà không gặp thêm trở ngại nào."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "TSA khuyến cáo những người có nhu cầu mang thú cưng, đặc biệt là các loài bò sát, đi máy bay nên liên hệ trước với hãng hàng không để tìm hiểu quy định cụ thể, tránh những tình huống phát sinh tại sân bay."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi mong hành khách chú ý đến những gì họ mang theo trong hành lý. Bởi nếu chúng tôi không biết đó là thứ gì, chúng tôi sẽ tìm cách xác định\", nhân viên Andrade Carillo nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông Jason Pantages - Giám đốc an ninh liên bang của TSA phụ trách Sân bay quốc tế Los Angeles và các sân bay lân cận cũng biểu dương tinh thần phối hợp của các nhân viên tại Ontario."
+    },
+    {
+     "t": "p",
+     "text": "\"Các nhân viên được đào tạo để bình tĩnh, chuyên nghiệp ứng phó với những tình huống bất ngờ, đồng thời luôn đặt yếu tố an toàn lên hàng đầu. Sự việc cho thấy khả năng phán đoán và tinh thần phối hợp của đội ngũ TSA tại sân bay Ontario, cũng như tầm quan trọng của việc hành khách tìm hiểu quy định của hãng hàng không trước khi mang động vật bao gồm cả bò sát đến sân bay\", ông Pantages nhấn mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Về phía những nhân viên trực tiếp phát hiện hai con rắn, họ cho biết đây là tình huống hiếm gặp và khó có thể lặp lại trong thời gian tới."
+    },
+    {
+     "t": "p",
+     "text": "Việc hành khách tìm cách mang rắn sống qua sân bay không phải trường hợp cá biệt. Tháng 6/2025, lực lượng hải quan tại sân bay Mumbai, Ấn Độ, phát hiện một hành khách nam trở về từ Thái Lan mang theo 47 con rắn độc trong hành lý ký gửi."
+    },
+    {
+     "t": "p",
+     "text": "Số động vật bị phát hiện gồm 44 con rắn lục Indonesia và 3 con rắn lục sừng đuôi nhện. Ngoài ra, người này còn mang theo 5 con rùa châu Á. Hành khách bị bắt giữ để điều tra về hành vi buôn lậu động vật hoang dã."
+    },
+    {
+     "t": "p",
+     "text": "Cũng tại Ấn Độ, theo báo cáo của Tổ chức Hải quan Thế giới (WCO), lực lượng chức năng tại sân bay quốc tế Rajiv Gandhi ở Hyderabad từng phát hiện 2 hành khách bay từ Bangkok mang theo 10 con rắn đuôi chuông, 17 con trăn cùng nhiều loài bò sát khác."
+    },
+    {
+     "t": "p",
+     "text": "Số động vật được giấu trong hành lý ký gửi, xen lẫn đồ chơi bằng nhựa và quần áo. Hai hành khách bị giữ để phục vụ điều tra."
+    },
+    {
+     "t": "p",
+     "text": "Những vụ việc trên cho thấy hành lý ký gửi có thể trở thành phương tiện để vận chuyển động vật hoang dã trái phép qua biên giới, trong đó có những loài rắn nguy hiểm."
+    }
+   ]
+  },
+  {
+   "id": "70434bbed58a",
+   "order": 4,
+   "slug": "co-mot-thu-vien-khong-tuong-hang-nghin-nguoi-thap-den-doc-sa",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Có một thư viện 'không tường', hàng nghìn người thắp đèn đọc sách cùng người lạ",
+   "sapo": "Một thư viện không có tiếng lật sách, không có tiếng bước chân, cũng chẳng ai biết người ngồi cạnh mình là ai. Thế nhưng, hàng nghìn người vẫn tìm đến đó mỗi ngày, chỉ để đọc sách cùng nhau.",
+   "author": "LÊ HUY",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/co-mot-thu-vien-khong-tuong-hang-nghin-nguoi-thap-den-doc-sach-cung-nguoi-la-100261117114309143.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1008,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/70434bbed58a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/70434bbed58a-0.jpg",
+     "caption": "Người đọc thắp đèn bằng cách chia sẻ cuốn sách mình đang đọc hoặc nghĩ đến và cùng ngồi đọc sách - Ảnh chụp màn hình",
+     "w": 1280,
+     "h": 584
+    },
+    {
+     "src": "img/2026-11-18/70434bbed58a-1.jpg",
+     "caption": "Anh Phạm Xuân Phú, người sáng lập dự án Thắp đèn đọc sách với trang web Ánh Đèn - Ảnh: NVCC",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-18/70434bbed58a-2.jpg",
+     "caption": "Giao diện phòng đọc trực tuyến với những góc đọc yên tĩnh - Ảnh chụp màn hình",
+     "w": 1280,
+     "h": 583
+    },
+    {
+     "src": "img/2026-11-18/70434bbed58a-3.jpg",
+     "caption": "Bản đồ Việt Nam được thắp sáng từ hàng chục nghìn ngọn đèn của người đọc khắp nơi - Ảnh chụp màn hình",
+     "w": 678,
+     "h": 798
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Không gian này được anh Phạm Xuân Phú (40 tuổi, quê Ninh Bình) tạo ra qua dự án Thắp đèn đọc sách với trang web Ánh Đèn ."
+    },
+    {
+     "t": "h",
+     "text": "Biến những ngọn đèn thành điểm hẹn của người yêu sách"
+    },
+    {
+     "t": "p",
+     "text": "Là người yêu sách, anh Xuân Phú nhận ra mình khó duy trì thói quen, dễ mất tập trung khi đọc một mình. Ngược lại, không gian yên tĩnh và cảm giác có người cùng đọc ở thư viện giúp anh tập trung hơn. Từ đó, anh nảy ra ý tưởng xây dựng phòng đọc trực tuyến, nơi những người xa lạ cùng đọc sách."
+    },
+    {
+     "t": "p",
+     "text": "“Có người bên cạnh thì tinh thần mình vui vẻ hơn, cảm giác không bị đơn độc. Mình thấy mình làm được, đọc sách được nhiều hơn”, Phú kể."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Rồi anh bắt đầu xây dựng dự án ngày 3-11, ra mắt website ngày 6-11 và đến 14-11 giới thiệu tính năng “Thắp đèn đọc sách”."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt là miễn phí, người dùng không cần đăng ký tài khoản. Khi truy cập, họ có thể chọn tỉnh, thành và điền tên cuốn sách đang đọc hoặc đơn giản là cuốn sách mình đang nghĩ đến, rồi nhấn nút thắp đèn."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi ngọn đèn là dấu hiệu có một người đang đọc sách ở đâu đó. Những đốm sáng xuất hiện, nối cạnh nhau, tạo nên một thư viện không khoảng cách."
+    },
+    {
+     "t": "p",
+     "text": "“Người đọc có thể nhìn sang những ngọn đèn khác, xem người bên cạnh đang đọc cuốn gì, đôi khi tìm được một cuốn sách hay, một người bạn đồng điệu”, Phú nói."
+    },
+    {
+     "t": "p",
+     "text": "Phú không muốn biến nơi này thành một mạng xã hội ồn ào. Thay vì những khung chat liên tục nhảy tin nhắn, anh chọn cách để mọi người gửi thư cho nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trong thư viện còn có cô thủ thư mang trà, tiếng nhạc piano và nhạc cổ điển khe khẽ. Những chi tiết nhỏ ấy mang đến cho căn phòng trên màn hình hơi ấm của một thư viện ngoài đời."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Hơn 10.000 người vào khiến máy chủ sập, chàng trai chạy đua đến 4h sáng"
+    },
+    {
+     "t": "p",
+     "text": "Một mình làm nên Ánh Đèn, Phú cũng phải tự thắp sáng mọi công đoạn, từ viết code, thiết kế đến tìm kiếm tài nguyên."
+    },
+    {
+     "t": "p",
+     "text": "Anh ưu tiên những nguồn miễn phí nhưng được phép phát hành công khai."
+    },
+    {
+     "t": "p",
+     "text": "Thử thách lớn nhất lại đến từ điều anh mong đợi nhất: người đọc tìm đến quá đông. Tuần đầu, website chỉ có hơn 100 lượt người đọc mỗi ngày, nhưng sau đó bất ngờ đón hơn 10.000 người tham gia trong một đêm."
+    },
+    {
+     "t": "p",
+     "text": "Máy chủ liên tục quá tải, lúc chậm, lúc đứng hẳn. Phú phải thức đến 4h sáng, vừa nâng cấp máy chủ, vừa sửa từng phần hệ thống. Có những thứ không thể tắt đi để sửa ngay, bởi bên trong vẫn còn người đang đọc sách."
+    },
+    {
+     "t": "p",
+     "text": "Đêm ấy, Phú nhớ mình có cảm giác “vừa mừng vừa lo”. Mừng vì những ngọn đèn đã thực sự gọi được mọi người đến, lo vì căn phòng nhỏ do mình dựng lên chưa đủ sức chứa tất cả."
+    },
+    {
+     "t": "p",
+     "text": "“Điều khiến tôi vui nhất là những lời cảm ơn và việc có người dành cả tiếng, thậm chí cả ngày để đọc sách tại Ánh Đèn”, Phú chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến hơn 5h sáng 17-11, Ánh Đèn ghi nhận khoảng 55.000 lượt bạn đọc ghé thăm website, trong đó 5.000 người dành ít nhất 10 phút đọc sách, với tổng thời gian đọc đạt 4.550 giờ."
+    },
+    {
+     "t": "p",
+     "text": "Đã có hơn 24.000 ngọn đèn được thắp lên, phủ khắp 34 tỉnh, thành phố trên cả nước."
+    },
+    {
+     "t": "h",
+     "text": "Không chỉ đọc sách, còn cùng nhau thắp sáng bản đồ Việt Nam"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, Ánh Đèn còn ít người ghé thăm. Nhiều bạn đọc chỉ ở lại một lúc rồi rời đi. Điều Phú trăn trở nhất là làm sao kết nối những người đọc riêng lẻ thành một cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Anh phát triển tính năng thắp đèn, cho phép mỗi người tham gia một lần mỗi ngày. Hệ thống cũng giới hạn lượt thắp đèn trên cùng một mạng để hạn chế việc tạo tài khoản ảo, đảm bảo tính chân thực của số liệu."
+    },
+    {
+     "t": "p",
+     "text": "Từ những ngọn đèn ấy, Phú nghĩ đến việc ghép chúng thành hình bản đồ Việt Nam. Đây lại là một trong những chi tiết khiến anh mất nhiều thời gian thử nghiệm. Bản đồ phải được thể hiện rõ khi chỉ có vài đốm sáng, nhưng cũng phải đẹp và chính xác khi số lượng tăng lên hàng trăm, hàng nghìn, thậm chí hàng chục nghìn ngọn đèn."
+    },
+    {
+     "t": "p",
+     "text": "Với Phú, ngọn đèn không chỉ là biểu tượng của dự án mà còn gợi nhớ những chiếc đèn chụp ánh vàng gắn với ký ức ngồi học ngày trước. Đó cũng là hình ảnh anh muốn gửi gắm: ánh sáng của tri thức và văn hóa đọc."
+    },
+    {
+     "t": "p",
+     "text": "“Mỗi ngọn đèn là một lời nhắn về giá trị của việc đọc. Khi đọc hoặc nghĩ về một cuốn sách, mình có thể thắp đèn để lan tỏa tinh thần ấy đến mọi người”, Phú nói."
+    },
+    {
+     "t": "h",
+     "text": "Hết tò mò, liệu người đọc có còn ở lại với Ánh Đèn?"
+    },
+    {
+     "t": "p",
+     "text": "Xuân Phú cho rằng sự hào hứng ban đầu có thể qua đi, nhưng không gian đọc cần được duy trì để hình thành thói quen lâu dài. Các tính năng như bạn bè, nhạc nền, nhịp đọc và sổ tay giúp người dùng theo dõi thời gian đọc, đặt mục tiêu mỗi ngày. Thời gian tới, anh sẽ tiếp tục hoàn thiện Ánh Đèn, với mong muốn mọi người đều tìm được người đọc cùng mình."
+    },
+    {
+     "t": "p",
+     "text": "Uyên Nhi (24 tuổi, TP.HCM) biết đến Ánh Đèn qua mạng xã hội và tò mò tìm vào trải nghiệm. Nhi nhận xét không gian đọc khá thú vị, tạo cảm giác có người đồng hành dù mỗi người ở một nơi, đồng thời giúp cô có thêm động lực duy trì thói quen đọc sách."
+    }
+   ]
+  },
+  {
+   "id": "30a1a4698921",
+   "order": 5,
+   "slug": "thieu-nu-khoa-than-trong-the-gioi-son-mai-cua-hoai-huong",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Thiếu nữ khỏa thân trong thế giới sơn mài của Hoài Hương",
+   "sapo": "\"Với họa sĩ Hoài Hương, hội họa là hành trình trở về quê hương sáng tạo, nơi người nghệ sĩ tìm thấy sự chân thành, nguồn cảm hứng bất tận và miền trú ngụ mà ông luôn khao khát gắn bó\", nhà báo Nguyễn Trọng Chúc nhìn nhận.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/thieu-nu-khoa-than-trong-the-gioi-son-mai-cua-hoai-huong-185261117111527818.htm",
+   "published": "2026-11-17T07:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 485,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/30a1a4698921-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/30a1a4698921-0.jpg",
+     "caption": "Triển lãm tranh Thu an thường với hơn 50 tác phẩm được tuyển chọn công phu",
+     "w": 1280,
+     "h": 794
+    },
+    {
+     "src": "img/2026-11-18/30a1a4698921-1.jpg",
+     "caption": "Ở đó, ánh sắc của vàng, bạc, vỏ trứng khi ẩn, khi hiện giữa các lớp màu",
+     "w": 1280,
+     "h": 687
+    },
+    {
+     "src": "img/2026-11-18/30a1a4698921-2.jpg",
+     "caption": "Thiếu nữ trong tranh sơn mài Hoài Hương",
+     "w": 1280,
+     "h": 636
+    },
+    {
+     "src": "img/2026-11-18/30a1a4698921-3.jpg",
+     "caption": "Họa sĩ Hoài Hương",
+     "w": 1005,
+     "h": 706
+    },
+    {
+     "src": "img/2026-11-18/30a1a4698921-4.jpg",
+     "caption": "Những mô típ mang nặng tính trang trí nhưng rất riêng biệt của Hoài Hương",
+     "w": 1280,
+     "h": 687
+    },
+    {
+     "src": "img/2026-11-18/30a1a4698921-5.jpg",
+     "caption": "Các vật dụng thân quen luôn sống trong hồi ức",
+     "w": 1280,
+     "h": 751
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tối 19.11, tại Bảo tàng Mỹ thuật Việt Nam (66 Nguyễn Thái Học, Hà Nội), họa sĩ Hoài Hương sẽ khai mạc triển lãm Thu an thường , giới thiệu hơn 50 tác phẩm sơn mài được ông tuyển chọn công phu. Qua những lớp màu, ánh sắc vàng, bạc, vỏ trứng khi ẩn khi hiện, tạo nên hiệu ứng thị giác đặc biệt, mời gọi người xem khám phá từ tổng thể đến từng chi tiết trên mặt vóc. Hình tượng thiếu nữ khỏa thân, hoa sen, lá sen cũng là những mô típ nổi bật trong sáng tác của ông."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với Thu an thường , Hoài Hương đưa người xem trở về miền ký ức thân thuộc, nơi có mái nhà, khoảng vườn và những hình ảnh bình dị của quê hương. Đó có thể là đụn rơm vàng, tàu lá chuối, lá sen, mái đình làng hay dáng người phụ nữ bên ao. Tất cả được tái hiện qua ngôn ngữ sơn mài giàu tính trang trí, trong một không gian mang sắc thái phi thực."
+    },
+    {
+     "t": "h",
+     "text": "Tranh sơn mài của Hoài Hương rực rỡ mà không vàng son"
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về lựa chọn chất liệu, họa sĩ Hoài Hương cho biết ông gắn bó với sơn mài bởi đây là chất liệu truyền thống của Việt Nam. Tuy nhiên, ông muốn tìm một cách nhìn mới trên những thành phần quen thuộc như vóc, vỏ trứng, then, son, vàng, bạc."
+    },
+    {
+     "t": "p",
+     "text": "Qua cách xử lý riêng, các chất liệu này hiện lên với diện mạo tươi sáng, giàu sinh khí; độ óng ánh, chiều sâu của mặt tranh và tương quan màu sắc tạo nên vẻ rực rỡ nhưng vẫn gần gũi."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nhận xét về sáng tác của Hoài Hương, nhạc sĩ Dương Thụ cho rằng tranh sơn mài của ông lộng lẫy, rực rỡ nhưng không mang vẻ vàng son cổ điển. Thay vào đó là bảng màu tươi mới, với những sắc tím Huế, xanh dương, xanh lá, nâu đất nhạt, vàng chanh... Các hình tượng thiếu nữ khỏa thân, hoa sen, lá sen, lá chuối được sắp đặt trong không gian phi thực, tạo nên dấu ấn riêng của họa sĩ."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhạc sĩ Dương Thụ, Hoài Hương là một trong những gương mặt tiêu biểu của nhóm họa sĩ TP.HCM gồm Hoàng Tường, Nguyễn Thành Bình, Nguyễn Trung Tín và Hoài Hương, góp phần tạo nên những chuyển động cách tân của hội họa Việt Nam trong thời kỳ mở cửa."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Với Hoài Hương, hội họa còn là hành trình trở về với quê hương, ký ức và những điều thân thuộc đã in sâu trong tâm trí. Qua hơn 50 tác phẩm tại triển lãm lần này, người xem có thể bắt gặp một miền quê bình dị được tái hiện bằng ngôn ngữ sơn mài đương đại, vừa giàu màu sắc vừa đậm dấu ấn cá nhân."
+    }
+   ]
+  },
+  {
+   "id": "075dbf67ef0d",
+   "order": 6,
+   "slug": "doc-la-mo-hinh-kien-khong-lo-chua-hang-tram-nguyen-uoc",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Độc lạ mô hình kiến 'khổng lồ' chứa hàng trăm nguyện ước",
+   "sapo": "Mô hình kiến \"khổng lồ\" ngay tại sân trường, treo hàng trăm nguyện ước thu hút sinh viên quan tâm. Bất ngờ với nhiều ước mơ được sinh viên gửi gắm vào con kiến độc lạ này.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/doc-la-mo-hinh-kien-khong-lo-chua-hang-tram-nguyen-uoc-185261117125117319.htm",
+   "published": "2026-11-17T06:45:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 723,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-18/075dbf67ef0d-7.jpg",
+     "caption": "Khôi (thứ 2 từ trái sang) và các thành viên ban thực hiện",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Gửi nguyện ước vào mô hình kiến"
+    },
+    {
+     "t": "p",
+     "text": "Trong không gian sân trường, mô hình con kiến khổng lồ dễ dàng trở thành tâm điểm chú ý của sinh viên. Nơi đây là không gian nguyện ước, một trong các hoạt động hướng đến ngày truyền thống sinh viên Trường ĐH Kiến trúc TP.HCM. Mô hình con kiến như đang “cõng” theo hàng trăm ước mơ của sinh viên tại trường, với chi chít tờ giấy nguyện ước được treo xung quanh mô hình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mô hình kiến khổng lồ được dựng lên ngay tại sân trường"
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thị Hồng Thắm, sinh viên ngành thiết kế nội thất, Trường ĐH Kiến trúc TP.HCM, cho biết đã theo dõi sự kiện ngày truyền thống sinh viên của trường qua nhiều năm, tại không gian nguyện ước mỗi năm đều được làm mới và mô hình năm nay đã đặc biệt thu hút nữ sinh."
+    },
+    {
+     "t": "p",
+     "text": "“Mình chấm điểm 10/10. Về hình tượng, con kiến là đặc trưng của kiến trúc, về màu sắc, mô hình sử dụng màu đỏ theo màu chủ đạo của trường”, Thắm nhận xét. Nữ sinh cũng bật mí bản thân đã gửi giấy nguyện ước lên mô hình với những mong muốn tốt đẹp về học tập, gia đình và người thân."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Sinh viên viết và treo giấy nguyện ước lên mô hình kiến khổng lồ"
+    },
+    {
+     "t": "p",
+     "text": "Còn với Trần Thị Bích Trâm, sinh viên ngành thiết kế đồ hoạ, thì cho rằng những mong ước được treo lên mô hình kiến mang đến cho bản thân sự an tâm trong lòng, tiếp thêm niềm tin và hy vọng rằng bản thân có thể làm được khi viết ra điều ước đó. Nhìn trên mô hình cũng đã có nhiều ước mơ kiến được gửi gắm, Trâm nói: “Năm nào sinh viên cũng đón nhận không gian này và viết giấy nguyện ước đã trở thành thông lệ”."
+    },
+    {
+     "t": "h",
+     "text": "Từ mô hình thử nghiệm chỉ 30 cm, đến con kiến \"khổng lồ\" cao hơn 2 mét"
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về quá trình thực hiện, Lê Gia Hân, sinh viên ngành thiết kế công nghiệp, thành viên ban tổ chức, cho biết từ cuối tháng 6 đã triển khai họp bàn, lên ý tưởng thực hiện và làm một mô hình nhỏ khoảng 30 cm để xem trước về kết cấu. “Đến tháng 9, chúng mình bắt đầu thực hiện mô hình lớn, thời gian diễn ra trong khoảng 40 ngày là hoàn thiện”, Hân chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Hân cũng cho biết chiều dài mô hình kiến đạt khoảng 3 mét, cao khoảng 2 mét và toàn bộ chiều rộng của không gian là 4 mét."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Những nguyện ước được sinh viên gửi gắm"
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thanh Khôi, sinh viên cùng ngành với Hân và là trưởng ban thực hiện mô hình, chia sẻ: “Chúng mình sử dụng 3 vật liệu chính là mây, gỗ và len. Chúng mình uốn mây để tạo ra hình dạng con kiến và sử dụng thủ thuật đan len để hoàn thành mô hình kiến”."
+    },
+    {
+     "t": "p",
+     "text": "Cũng theo Khôi, ngay từ bước chuẩn bị đầu tiên đã có những biện pháp gia cố nhằm chống nước, chống mối mọt, chống ăn mòn. Nhờ đó, không gian đã dựng được hơn một tháng trong trường, bất chấp thời tiết, vẫn còn rất vững chắc."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ban tổ chức cũng hướng đến việc tạo thành một không gian để hướng đến những tân sinh viên vừa vào trường. “Đây là không gian để các bạn tân sinh viên có thể thấy được ngành học của mình sẽ làm được những gì. Cũng là nơi để các bạn treo lên nguyện ước để củng cố khả năng làm được ước muốn của bản thân”, Khôi tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Khôi cũng cho biết xuyên suốt thời gian thực hiện mô hình luôn có sự theo dõi, góp ý từ giảng viên tại trường, tuy nhiên, ý tưởng chủ đạo triển khai vẫn là của sinh viên. Chứng kiến nhiều ước nguyện được treo lên linh vật, Khôi vô cùng cảm động: \"Từ những tương tác đầu tiên của các bạn sinh viên, mình đã rất vui. Đặc biệt, năm nay giấy nguyện ước được treo kín từ đầu đến đuôi, khiến mình cảm thấy vô cùng tự hào và thấy được sự nhiệt huyết của các bạn sinh viên\"."
+    }
+   ]
+  },
+  {
+   "id": "1c64b242ce72",
+   "order": 7,
+   "slug": "co-giao-nguoi-mong-dat-8-0-ielts-tung-suyt-bo-truong-su-pham",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cô giáo người Mông đạt 8.0 IELTS từng suýt bỏ trường Sư phạm",
+   "sapo": "Từng định bỏ trường Sư phạm vì không hiểu được các tiết dạy bằng tiếng Anh, Lầu Thị Dợ vươn lên tốt nghiệp loại giỏi, đạt IELTS 8.0.",
+   "author": "Dương Tâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/co-giao-nguoi-mong-dat-8-0-ielts-tung-suyt-bo-truong-su-pham-5145688.html",
+   "published": "2026-11-17T17:03:12+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 858,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/1c64b242ce72-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-18/1c64b242ce72-0.jpg",
+     "caption": "Lầu Thị Dợ tại trường Đại học Sư phạm Hà Nội dịp kỷ niệm 75 năm thành lập, ngày 17/11. Ảnh: Dương Tâm",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từng định bỏ trường Sư phạm vì không hiểu được các tiết dạy bằng tiếng Anh, Lầu Thị Dợ vươn lên tốt nghiệp loại giỏi, đạt IELTS 8.0."
+    },
+    {
+     "t": "p",
+     "text": "\"Cách đây ba năm, sau khi tốt nghiệp loại giỏi ngành Sư phạm Tiếng Anh của trường Đại học Sư phạm Hà Nội, em chọn trở về quê hương Sơn La để dạy học. Đây là điều em hạnh phúc nhất khi nhìn lại hành trình trở thành giáo viên môn học tưởng chừng xa lạ với học sinh vùng cao này\"."
+    },
+    {
+     "t": "p",
+     "text": "Đó là chia sẻ của Lầu Thị Dợ, 25 tuổi, giáo viên tiếng Anh tại phân hiệu trường THCS Pắc Ngà, xã Pắc Ngà, tỉnh Sơn La, khi đại diện cựu sinh viên phát biểu trong lễ kỷ niệm 75 năm thành lập trường Đại học Sư phạm Hà Nội, sáng 17/11."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ về 4 năm học, Dợ nói đó là hành trình đầy gian nan. Từng \"suýt trượt\", áp lực vì không hiểu tiếng Anh, cô lấy bằng giỏi, có IELTS 8.0 và hiện là giáo viên tiếng Anh duy nhất tại ngôi trường với hơn 400 học sinh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dợ được học tiếng Anh từ năm lớp 6 nhưng chủ yếu qua sách giáo khoa, dừng lại ở từ vựng và ngữ pháp. Đến lớp 10, khi chuyển tới trường Phổ thông Vùng cao Việt Bắc ở Thái Nguyên, Dợ bất ngờ khi ngay những tiết đầu đã được yêu cầu viết đoạn văn, đọc hiểu văn bản; việc luyện nghe và nói tiếng Anh cũng thường xuyên hơn."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm đó, Dợ đã ấp ủ ước mơ trở thành cô giáo để mang ngôn ngữ này đến với những em nhỏ nơi mình lớn lên. Năm 2019, nữ sinh đăng ký xét tuyển vào trường Sư phạm Hà Nội, đỗ suýt soát với 25,05/30 điểm nhờ có hơn 1 điểm ưu tiên."
+    },
+    {
+     "t": "p",
+     "text": "Tưởng chừng đã chạm tay vào ước mơ, Dợ căng thẳng liên tục khi học các môn chuyên ngành bằng tiếng Anh nhưng không hiểu gì."
+    },
+    {
+     "t": "p",
+     "text": "\"Những con điểm C, thậm chí D khiến mình nghĩ không thể theo nổi chương trình đại học. Mình thực sự muốn bỏ\", cô Dợ nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Được thầy cô trong khoa động viên, hướng dẫn cách học, Dợ mới tìm ra phương hướng cho mình. Thay vì cố tự học lan man, Dợ xác định phải hoàn thành các bài học, hiểu và thực hành thuần thục. Chỉ khi nhuần nhuyễn, Dợ mới tìm tòi thêm để mở rộng kiến thức."
+    },
+    {
+     "t": "p",
+     "text": "Để tự nâng cao kỹ năng nghe, nói, viết, hàng ngày, cô gái Mông làm vlog bằng tiếng Anh, chia sẻ về công việc của mình. Cách này giúp Dợ có động lực viết nội dung thật hay, nói thật chuẩn. Kể cả làm chưa tốt, Dợ cũng có tư liệu xem lại để điều chỉnh."
+    },
+    {
+     "t": "p",
+     "text": "Dù cải thiện được điểm số, không còn sợ hãi mỗi khi học các môn chuyên ngành, Dợ vấp phải một rào cản khác. Chuẩn đầu ra ngoại ngữ của ngành Sư phạm Tiếng Anh đòi hỏi sinh viên có chứng chỉ quốc tế, tương đương 7.0 IELTS trở lên."
+    },
+    {
+     "t": "p",
+     "text": "Cuối năm thứ hai, Dợ thi lần đầu, đạt IELTS 6.0. Một năm sau, Dợ thi lại, nâng lên thành 6.5, song vẫn chưa đủ điều kiện để tốt nghiệp. Cô quyết định tập trung vào các môn trên lớp để có thể đạt điểm giỏi, chấp nhận ra trường chậm nửa năm để ôn luyện lấy chứng chỉ quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Lấy chồng vào cuối năm thứ hai - giai đoạn học trực tuyến ở nhà do dịch Covid-19, Dợ nhận được sự động viên lớn từ bạn đời. Ngay cả khi đã hoàn thành chương trình học nhưng chưa thể nhận bằng vì \"nợ\" chứng chỉ, cô vẫn luôn được gia đình hỗ trợ để có thể toàn tâm ôn luyện."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả, Dợ thi đạt IELTS 8.0, vượt yêu cầu của trường đề ra để cầm tấm bằng giỏi về quê dạy học như ước mơ năm lớp 10."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu ở trường THCS Pắc Ngà, cô Dợ vừa hụt hẫng, vừa thương học trò, khi có em không biết cách trả lời những câu cơ bản như \"What's your name?\" . Vì thiếu giáo viên, việc học tiếng Anh của các em khó khăn rất nhiều nên sợ môn học này."
+    },
+    {
+     "t": "p",
+     "text": "Nắm bắt tâm lý học sinh, cô bắt đầu với những thứ gần gũi nhất. Như khi dạy từ vựng, cô dùng hình ảnh và những tình huống đơn giản trong cuộc sống để các em dễ hình dung."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỉ cần học sinh thoải mái trong mỗi tiết học tiếng Anh, hiệu quả sẽ được nâng cao\", cô Dợ quan niệm."
+    },
+    {
+     "t": "p",
+     "text": "Nhà cách trường 27 km, ngày nào cũng dậy từ 5h30 để đi dạy, song cô Dợ hài lòng khi thực hiện được mong muốn từ thời phổ thông. Cô giáo trẻ hy vọng giúp những đứa trẻ vùng cao tiếp cận thế giới bên ngoài, khám phá nhiều tri thức, văn hóa mới, nuôi dưỡng ước mơ và tự tin hơn."
+    }
+   ]
+  },
+  {
+   "id": "e912621ddeb7",
+   "order": 8,
+   "slug": "ai-con-cau-hoi-gi-nua-khong-nao",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "‘Ai còn câu hỏi gì nữa không nào?’",
+   "sapo": "Đó là câu hỏi mà cô Năng Xuân Hoàng Nhi, giáo viên lớp 4/1, Trường tiểu học Đặng Trần Côn (P.Vĩnh Hội, TP.HCM), thường đặt ra sau mỗi tiết học hoặc cuối mỗi buổi học. Phía dưới, học sinh rào rào giơ tay.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ai-con-cau-hoi-gi-nua-khong-nao-185261113183209519.htm",
+   "published": "2026-11-17T11:34:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1000,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/e912621ddeb7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/e912621ddeb7-0.jpg",
+     "caption": "Cô Năng Xuân Hoàng Nhi và các em học sinh",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-11-18/e912621ddeb7-1.jpg",
+     "caption": "Cô Nhi luôn cho HS đặt câu hỏi sau mỗi tiết học/buổi học",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-11-18/e912621ddeb7-2.jpg",
+     "caption": "Để khuyến khích HS đặt câu hỏi, GV cần lắng nghe, tôn trọng nội dung câu hỏi, tôn trọng góc nhìn khác biệt của HS",
+     "w": 1024,
+     "h": 683
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Khi học sinh hỏi ngược giáo viên"
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi rất thích nghe học sinh (HS) đặt câu hỏi. Nhiều em hay hỏi lắm, cái gì cũng hỏi. Có HS còn hỏi ngược lại cô về kiến thức, như hôm rồi có bé hỏi \"Thưa cô, cô có biết Nguyễn Hữu Hào là ai không ạ, và cha của Nguyễn Hữu Hào tên là gì?\"\", cô Nhi kể."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu để HS có thể hỏi bất cứ lúc nào thì e là không đủ thời gian cho các hoạt động, nội dung khác của bài giảng. Do đó, tôi thường quy định giờ để hỏi, như vào cuối tiết, cuối buổi học, hoặc sau giờ ra chơi… Ví dụ, tôi tuyên bố \"5 phút để hỏi bắt đầu\", phía dưới các em đã giơ tay rất nhanh\", cô Nhi chia sẻ thêm."
+    },
+    {
+     "t": "p",
+     "text": "Cô Nhi là một trong những giáo viên (GV) tiểu học của TP.HCM tham gia Dự án đào tạo GV nòng cốt về giáo dục STEAM - chương trình hợp tác giáo dục quốc tế được Cơ quan Hợp tác quốc tế Nhật Bản (JICA) hỗ trợ chính thức và được Bộ GD-ĐT phê duyệt. Chương trình do Trường ĐH Sư phạm Osaka và Trường ĐH Sư phạm TP.HCM phối hợp triển khai."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Luôn nỗ lực ứng dụng đa dạng phương pháp, nắm bắt công nghệ, vận dụng trí tuệ nhân tạo (AI) trong giảng dạy, cô Nhi quan niệm: \"Trong thời đại ngày nay, nếu GV không ứng dụng AI trong quá trình giảng dạy thì HS khó tiếp cận kịp thời những kiến thức mới, công nghệ mới. Nhưng GV cần xác định là ứng dụng AI ở mức độ nào, nội dung nào, không phải nội dung nào người thầy cũng dùng AI, đặc biệt khi đối tượng được giảng dạy ở đây là các em HS tiểu học\"."
+    },
+    {
+     "t": "h",
+     "text": "Cho HS hỏi để rèn năng lực tư duy, phản biện"
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, trong một lớp học, theo cô Nhi, những câu hỏi là rất quan trọng. Không chỉ là câu hỏi từ GV nêu ra với HS mà GV cũng mong muốn lắng nghe những thắc mắc, câu hỏi ngược lại của các em. Rèn cho HS thói quen giơ tay khi đặt câu hỏi, cô Nhi mong các em học được sự lịch sự, tôn trọng người được hỏi và kỷ luật trong lớp học."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không phải câu hỏi nào cô Nhi cũng trả lời ngay cho HS. Có câu, cô gợi ý các em có thể hỏi thêm thầy cô dạy tin học, GV giáo dục thể chất, hay GV bộ môn khác của trường. Cũng có câu, cô nói học trò có thể hỏi cha mẹ để biết thêm thông tin và nói cho cô biết kết quả. Cũng có câu hỏi, cô xin thêm thời gian suy nghĩ, và tất nhiên phải nhớ để trả lời lại các em."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong lớp, HS được đặt câu hỏi là minh chứng sống động cho thấy các em không bị mất đi năng lực tư duy, phản biện, năng lực đặt câu hỏi - những điều rất quan trọng trong thời đại AI\", cô Nhi chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trong lớp, HS được đặt câu hỏi là minh chứng sống động cho thấy các em không bị mất đi năng lực tư duy, phản biện, năng lực đặt câu hỏi - những điều rất quan trọng trong thời đại AI."
+    },
+    {
+     "t": "h",
+     "text": "Để HS dám hỏi"
+    },
+    {
+     "t": "p",
+     "text": "Để khuyến khích HS mạnh dạn đặt câu hỏi, theo cô Nhi, GV cần biết lắng nghe, tôn trọng nội dung câu hỏi, tôn trọng góc nhìn khác biệt của HS, khen ngợi những em tự tin chia sẻ, trình bày góc nhìn một cách phù hợp trong môi trường học đường."
+    },
+    {
+     "t": "p",
+     "text": "\"GV cũng cần khuyến khích những câu trả lời chưa hoàn hảo, còn thô mộc, nhưng ghi nhận đó là sự cố gắng. Nếu chúng ta chỉ thích những câu văn hoàn hảo, bài viết tập làm văn xuất sắc, thì rất có thể các em đã đang sử dụng ChatGPT hay Gemini để làm giúp. Trên lớp, chúng tôi dạy học trò rằng AI cũng có lúc sai, không phải AI là cái gì cũng đúng, đòi hỏi con người phải có kiến thức, có tư duy để làm chủ, để điều khiển được nó và sử dụng nó. Về nhà, chúng tôi mong các phụ huynh cũng đồng hành cùng quá trình học tập chủ động của HS, cố gắng tư duy, không sử dụng AI để làm thay\", nữ GV chia sẻ."
+    },
+    {
+     "t": "h",
+     "text": "Có những câu hỏi các con đặt ra vì cần kết nối"
+    },
+    {
+     "t": "p",
+     "text": "Trong một hội thảo về du học Mỹ từ bậc trung học ở TP.HCM hồi tháng 3, tiến sĩ tâm lý Tô Nhi A, giảng viên Trường ĐH Luật TP.HCM, đưa ra một biểu đồ hình tháp với 5 bậc, thể hiện 5 nhu cầu của trẻ. Bậc dưới cùng là sinh tồn, bậc thứ hai là an toàn, thứ ba là tình yêu, sự hạnh phúc, cảm giác thuộc về. Bậc thứ tư là nhu cầu được tôn trọng, được tính đến và thứ 5 là được thể hiện, đóng góp."
+    },
+    {
+     "t": "p",
+     "text": "Theo tiến sĩ Tô Nhi A, các phụ huynh thường làm rất tốt bậc 1 và 2. Còn với bậc thứ 3, cô Nhi A đặt câu hỏi đã bao lâu rồi gia đình chưa có bữa cơm chung - nơi mọi thành viên kết nối, ngồi cạnh nhau? Ở bậc thứ tư, với nhu cầu được tôn trọng, theo cô Nhi A, nhiều phụ huynh thường phớt lờ những câu hỏi của con."
+    },
+    {
+     "t": "p",
+     "text": "Cô Nhi A nhìn nhận có những câu hỏi các con nêu ra vì đang tìm một câu trả lời từ người lớn nhưng cũng có những câu hỏi, các con đặt ra vì cần sự kết nối, lắng nghe từ những người xung quanh, từ thầy cô, cha mẹ để biết rằng con đang hiện diện và tồn tại."
+    }
+   ]
+  },
+  {
+   "id": "f76c1f8fbb14",
+   "order": 9,
+   "slug": "thac-may-cuon-cuon-o-ta-xua-khien-du-khach-choang-ngop",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Thác mây cuồn cuộn ở Tà Xùa khiến du khách choáng ngợp",
+   "sapo": "Những dòng mây trắng xóa cuồn cuộn đổ qua sườn núi như thác nước khổng lồ ở Tà Xùa đang khiến cộng đồng yêu du lịch thích thú, háo hức lên kế hoạch săn mây.",
+   "author": "NGUYỄN HOÀNG TUẤN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/thac-may-cuon-cuon-o-ta-xua-khien-du-khach-choang-ngop-100261117091205639.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 888,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/f76c1f8fbb14-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/f76c1f8fbb14-0.jpg",
+     "caption": "Những tầng mây trắng tràn xuống thung lũng, tạo nên cảnh tượng như thác nước khổng lồ giữa núi rừng Tà Xùa - Ảnh: Chụp màn hình",
+     "w": 1280,
+     "h": 676
+    },
+    {
+     "src": "img/2026-11-18/f76c1f8fbb14-1.jpg",
+     "caption": "Những hình ảnh ghi lại biển mây ở Tà Xùa của Đạt khiến người xem say mê - Ảnh: NVCC",
+     "w": 427,
+     "h": 570
+    },
+    {
+     "src": "img/2026-11-18/f76c1f8fbb14-2.jpg",
+     "caption": "Đức choáng ngợp trước cảnh thác mây trong chuyến khám phá Tà Xùa kéo dài ba đêm - Ảnh: NVCC",
+     "w": 372,
+     "h": 496
+    },
+    {
+     "src": "img/2026-11-18/f76c1f8fbb14-3.jpg",
+     "caption": "Căn phòng ‘săn mây’ mà Đức lưu trú trong những ngày ở Tà Xùa - Ảnh: NVCC",
+     "w": 407,
+     "h": 543
+    },
+    {
+     "src": "img/2026-11-18/f76c1f8fbb14-4.jpg",
+     "caption": "",
+     "w": 381,
+     "h": 507
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Choáng ngợp trước thác mây cuồn cuộn Tà Xùa giữa núi rừng"
+    },
+    {
+     "t": "p",
+     "text": "Những ngày gần đây, đoạn video ghi lại cảnh thác mây cuồn cuộn ở Tà Xùa (Sơn La) được chia sẻ mạnh tay trên mạng xã hội, thu hút sự chú ý của nhiều người."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong video, những dòng mây trắng xóa nối tiếp nhau tràn qua sườn núi, cuộn xuống thung lũng như thác nước khổng lồ. Ánh nắng xuyên qua khoảng trời xanh, soi lên từng tầng mây đang chuyển động. Trên điểm quan sát, nhiều du khách thích thú chiêm ngưỡng, dùng điện thoại ghi lại cảnh tượng ngoạn mục."
+    },
+    {
+     "t": "p",
+     "text": "Chủ nhân đoạn video là Diệp Hữu Đạt (27 tuổi), hướng dẫn viên địa phương tại Tà Xùa. Anh cho biết đã ghi lại khoảnh khắc này vào khoảng 6h ngày 11-11. Đoạn clip thu hút hơn 37.000 lượt thích trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với Tuổi Trẻ , Đạt cho biết dù đã nhiều lần chứng kiến thác mây, mỗi lần đứng trước cảnh tượng ấy, anh vẫn không khỏi bồi hồi, xao xuyến. Những dòng mây cuồn cuộn giữa núi rừng mang đến cảm giác con người và thiên nhiên như hòa làm một."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ gây thích thú qua màn hình điện thoại, thác mây Tà Xùa còn trở thành trải nghiệm được nhiều du khách mong chờ."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Minh Đức (30 tuổi, sống tại Đà Nẵng) vừa dành ba đêm, từ ngày 10 đến 13-11, để khám phá Tà Xùa. Đây là lần đầu anh đến vùng đất nổi tiếng với những biển mây bồng bềnh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Làm việc trong lĩnh vực dịch vụ lưu trú, Đức muốn kết hợp săn mây với tìm hiểu hoạt động du lịch địa phương. Trước chuyến đi, anh lựa chọn Homestay Thác Mây Làng Chếu và Khèn Coffee House Tà Xùa. Đây là hai địa điểm có tầm nhìn hướng về thác mây."
+    },
+    {
+     "t": "p",
+     "text": "May mắn lưu trú trong căn phòng nhìn trực diện thác mây, Đức thức dậy từ 5h để chờ đợi. Những gì diễn ra sau đó khiến anh có cảm giác như đang thưởng thức một màn trình diễn đặc biệt của thiên nhiên."
+    },
+    {
+     "t": "p",
+     "text": "\"Ban đầu, biển mây dần hiện lên trong màn đêm tĩnh lặng. Sau đó, bầu trời ửng hồng, ánh bình minh làm bừng sáng những tầng mây. Và rồi, những dòng thác mây bắt đầu cuồn cuộn tràn về trước mắt\", Đức kể."
+    },
+    {
+     "t": "p",
+     "text": "Dù đã xem nhiều hình ảnh, video về Tà Xùa, anh vẫn choáng ngợp khi tận mắt chứng kiến."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi mất vài giây mới định thần lại được trước khung cảnh quá đỗi kỳ diệu ấy. Sau đó, tôi lập tức lấy điện thoại chụp ảnh, gửi cho người thân và chia sẻ lên mạng xã hội\", Đức nhớ lại."
+    },
+    {
+     "t": "h",
+     "text": "Trời mưa có săn được thác mây?"
+    },
+    {
+     "t": "p",
+     "text": "Tà Xùa đang bước vào mùa săn mây, thường kéo dài từ tháng 10 đến khoảng tháng 4 năm sau. Theo kinh nghiệm của dân địa phương, biển mây dễ xuất hiện khi độ ẩm cao, chênh lệch nhiệt độ giữa ngày và đêm lớn, đặc biệt sau những ngày mưa."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Khung giờ được nhiều người lựa chọn là 5h30 đến 7h30, hoặc khoảng 16-17 giờ. Tuy nhiên, việc bắt gặp thác mây còn phụ thuộc vào thời tiết thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Đức kể tối đầu tiên đến Tà Xùa, trời bất ngờ đổ mưa lớn. Cả nhóm nghĩ rằng sáng hôm sau sẽ âm u, khó có cơ hội chiêm ngưỡng thác mây."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi chỉ hy vọng được ngắm biển mây là đã vui rồi. Không ngờ sáng hôm sau, thác mây lại xuất hiện đẹp đến vậy\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi trò chuyện với người dân địa phương, Đức biết thêm một kinh nghiệm thú vị. Nếu đêm trước có mưa nhưng sáng hôm sau trời hửng nắng, xuất hiện bình minh, khả năng gặp thác mây có thể cao hơn."
+    },
+    {
+     "t": "p",
+     "text": "Anh cho rằng du khách không nên quá phụ thuộc vào ứng dụng dự báo thời tiết mà cần quan sát điều kiện thực tế và hỏi thêm kinh nghiệm người dân bản địa."
+    },
+    {
+     "t": "p",
+     "text": "\"Mọi người còn nói đùa rằng săn được thác mây đôi khi cũng tùy thuộc vào nhân phẩm. Nếu đến Tà Xùa gặp trời mưa, các bạn đừng vội thất vọng\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến đi ba đêm, Đức chi khoảng 4,64 triệu đồng/người, bao gồm di chuyển, lưu trú, ăn uống và vé tham quan."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Theo Đức, du khách lựa chọn các địa điểm có tầm nhìn hướng ra thung lũng để đón khoảnh khắc biển mây xuất hiện vào sáng sớm - Ảnh: NVCC"
+    },
+    {
+     "t": "p",
+     "text": "Anh lưu ý một số đoạn đường tại Tà Xùa còn nhiều ổ gà, sỏi đá, trong khi sương mù dễ hạn chế tầm nhìn. Du khách đi xe máy cần có kỹ năng lái xe tốt và tìm hiểu trước điều kiện lưu trú, dịch vụ."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến Đức trăn trở là tình trạng rác thải tại một số điểm check-in, từ chai nhựa, khẩu trang đến vỏ bánh kẹo."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi hy vọng mỗi người đến Tà Xùa không chỉ mang về những bức ảnh đẹp mà còn có ý thức giữ gìn cảnh quan, để những người đến sau vẫn được chiêm ngưỡng vẻ đẹp ấy\", Đức bày tỏ."
+    }
+   ]
+  },
+  {
+   "id": "20b06dc1eb91",
+   "order": 10,
+   "slug": "quang-tri-lan-dau-to-chuc-le-hoi-khinh-khi-cau-quoc-te-quy-m",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Quảng Trị lần đầu tổ chức Lễ hội Khinh khí cầu quốc tế quy mô lớn",
+   "sapo": "Du khách có thể tham gia các hoạt động trải nghiệm bay, ngắm cảnh quan và những địa danh đặc trưng của Quảng Trị từ trên cao; đồng thời thưởng thức các màn trình diễn, giao lưu và hoạt động tương tác.",
+   "author": "Vietnam+ (VietnamPlus)",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/quang-tri-lan-dau-to-chuc-le-hoi-khinh-khi-cau-quoc-te-quy-mo-lon-post1148991.vnp",
+   "published": "2026-11-17T15:10:51+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 644,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/20b06dc1eb91-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Với sự tham gia của khoảng 70 phi công, kỹ thuật viên trong nước và quốc tế cùng 34 khinh khí cầu đại diện cho 34 tỉnh, thành phố, Lễ hội Khinh khí cầu quốc tế - Quảng Trị 2026 hứa hẹn mang đến những trải nghiệm du lịch mới lạ, kết hợp quảng bá hình ảnh vùng đất giàu truyền thống lịch sử, cách mạng và khát vọng hòa bình."
+    },
+    {
+     "t": "p",
+     "text": "Lễ hội Khinh khí cầu quốc tế - Quảng Trị 2026 diễn ra tại Quảng trường Giải phóng, phường Quảng Trị và khu vực Di tích quốc gia đặc biệt Đôi bờ Hiền Lương-Bến Hải."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần đầu tiên địa phương tổ chức sự kiện khinh khí cầu với quy mô lớn, hướng tới tạo thêm sản phẩm trải nghiệm mới, góp phần thu hút du khách và lan tỏa hình ảnh vùng đất giàu truyền thống lịch sử."
+    },
+    {
+     "t": "p",
+     "text": "Điểm nhấn của lễ hội là sự xuất hiện của 34 khinh khí cầu, với khoảng 70 phi công, kỹ thuật viên trong nước và quốc tế. Du khách có thể tham gia các hoạt động trải nghiệm bay, ngắm cảnh quan và những địa danh đặc trưng của Quảng Trị từ trên cao; đồng thời thưởng thức các màn trình diễn, giao lưu và hoạt động tương tác."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, tại Thành cổ Quảng Trị, Ban tổ chức dự kiến thực hiện màn trình diễn lá cờ Tổ quốc có diện tích 2.025m2, kết hợp với 34 khinh khí cầu đồng loạt bay ở độ cao 50m xung quanh. Hoạt động mang ý nghĩa biểu tượng, thể hiện tinh thần tri ân, khát vọng hòa bình và niềm tự hào dân tộc."
+    },
+    {
+     "t": "p",
+     "text": "Vào buổi tối, các khinh khí cầu được thắp sáng, kết hợp với hoạt động thả hàng chục nghìn hoa đăng trên sông Thạch Hãn cùng các chương trình nghệ thuật, tạo không gian trải nghiệm cho người dân và du khách."
+    },
+    {
+     "t": "p",
+     "text": "Lễ hội là một trong những hoạt động nổi bật của Tuần Văn hóa-Du lịch Quảng Trị lần thứ I năm 2026, diễn ra từ ngày 24-30/11 với chủ đề “Rực rỡ miền kỳ quan - Linh thiêng vùng đất lửa.” Tuần lễ có 14 hoạt động, trong đó lễ khai mạc tổ chức ngày 24/11."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh lễ hội khinh khí cầu, chương trình còn có các hoạt động quảng bá du lịch qua điện ảnh Bollywood; không gian ẩm thực “Thiên nhiên Quảng Trị - Hương vị Tràng An;” trải nghiệm xe địa hình trên đồi cát, trình diễn jetski trên sông Nhật Lệ; săn mây tại Tân Lập, Hướng Phùng; cùng các chương trình nghệ thuật đường phố, trình diễn áo dài và yoga bãi biển."
+    },
+    {
+     "t": "p",
+     "text": "Thông tin tại buổi họp báo ngày 17/11, đại diện Sở Văn hóa, Thể thao và Du lịch Quảng Trị cho biết việc tổ chức các hoạt động nhằm đa dạng hóa sản phẩm du lịch, tạo điểm nhấn khác biệt cho điểm đến, qua đó tăng cường khả năng thu hút du khách."
+    },
+    {
+     "t": "p",
+     "text": "Theo Phó Giám đốc Sở Hồ Văn Hoan, các sự kiện cũng góp phần nâng cao nhận diện thương hiệu du lịch Quảng Trị, đồng thời tạo thêm cơ hội phát triển dịch vụ và kinh tế địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Thông qua chuỗi hoạt động trong tuần lễ, Quảng Trị kỳ vọng kết nối các giá trị lịch sử, văn hóa với những trải nghiệm du lịch mới, từng bước mở rộng sức hấp dẫn của điểm đến đối với du khách trong nước và quốc tế./."
+    },
+    {
+     "t": "h",
+     "text": "Quảng Trị: Khai mạc Lễ hội Vì Hòa bình năm 2026"
+    },
+    {
+     "t": "p",
+     "text": "Chương trình khai mạc Lễ hội Vì Hòa bình năm 2026 được dàn dựng công phu, tạo dấu ấn riêng biệt, mang đến cho công chúng những trải nghiệm giàu cảm xúc và ấn tượng sâu sắc."
+    }
+   ]
+  },
+  {
+   "id": "dd40b2b5ad21",
+   "order": 11,
+   "slug": "van-ly-truong-thanh-nhu-tranh-thuy-mac-duoi-tuyet",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Vạn Lý Trường Thành như tranh thủy mặc dưới tuyết",
+   "sapo": "Tuyết phủ trắng các ngọn núi và đoạn tường thành cổ ở Bát Đạt Lĩnh, Bắc Kinh, tạo nên khung cảnh mùa đông được nhiều du khách miêu tả \"đẹp như tranh thủy mặc\".",
+   "author": "Anh Minh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/van-ly-truong-thanh-nhu-tranh-thuy-mac-duoi-tuyet-5145573.html",
+   "published": "2026-11-17T17:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 939,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-18/dd40b2b5ad21-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Vạn Lý Trường Thành như tranh thủy mặc dưới tuyết"
+    },
+    {
+     "t": "p",
+     "text": "Tuyết phủ trắng các ngọn núi và đoạn tường thành cổ ở Bát Đạt Lĩnh, Bắc Kinh, tạo nên khung cảnh mùa đông được nhiều du khách miêu tả \"đẹp như tranh thủy mặc\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 2h ngày 16/11, Vạn Lý Trường Thành đoạn Bát Đạt Lĩnh (Bắc Kinh, Trung Quốc) đón đợt tuyết rơi thứ hai kể từ tiết Lập đông (7/11)."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tập đoàn Văn hóa và Du lịch Bát Đạt Lĩnh cho biết sau trận tuyết rơi, nhân viên khu du lịch làm việc suốt đêm để dọn tuyết, phá băng trên các tuyến đường dẫn vào, hạn chế nguy cơ trơn trượt và đảm bảo an toàn cho du khách."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tuyết phủ trắng những bức tường gạch và sườn núi, khiến hình ảnh Vạn Lý Trường Thành uốn lượn giữa rừng cây hiện lên nổi bật. Nhiều du khách và người dân đã miêu tả khung cảnh nơi đây \"đẹp như tranh thủy mặc\"."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Trung tâm Khí tượng Quốc gia liên tiếp phát cảnh báo tuyết lớn tại nhiều khu vực ở Bắc Kinh, Thiên Tân, Hà Bắc và Liêu Ninh, trong đó một số nơi được dự báo có tuyết rơi đặc biệt lớn, theo Beijing Daily."
+    },
+    {
+     "t": "p",
+     "text": "Tuyết phủ trắng những bức tường gạch và sườn núi, khiến hình ảnh Vạn Lý Trường Thành uốn lượn giữa rừng cây hiện lên nổi bật. Nhiều du khách và người dân đã miêu tả khung cảnh nơi đây \"đẹp như tranh thủy mặc\"."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Trung tâm Khí tượng Quốc gia liên tiếp phát cảnh báo tuyết lớn tại nhiều khu vực ở Bắc Kinh, Thiên Tân, Hà Bắc và Liêu Ninh, trong đó một số nơi được dự báo có tuyết rơi đặc biệt lớn, theo Beijing Daily."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Tuyến cáp treo phía nam băng qua khu rừng phủ đầy tuyết, đưa du khách lên vị trí cao hơn để chiêm ngưỡng toàn cảnh Vạn Lý Trường Thành phủ tuyết trắng."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Tuyến cáp treo Nam Bát Đạt Lĩnh, tuyến cáp treo mặt đất đầu tiên ở miền Bắc Trung Quốc, có khả năng chống gió mạnh, vận hành êm và độ an toàn cao, phù hợp với người cao tuổi, trẻ em, du khách sợ độ cao."
+    },
+    {
+     "t": "p",
+     "text": "Cabin có mái kính toàn cảnh, cho phép ngắm những tán cây phủ tuyết hai bên đường."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Khu du lịch huy động hơn 1.200 nhân viên và tình nguyện viên túc trực từ sớm để hướng dẫn du khách, phân luồng và đảm bảo an toàn tham quan. Các điểm dịch vụ cũng cung cấp nước nóng, trà gừng miễn phí và hỗ trợ tư vấn, xử lý tình huống khẩn cấp."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi lần tuyết rơi, khu vực Bát Đạt Lĩnh đều đón lượng lớn du khách trong và ngoài nước ghé thăm. Sau trận tuyết rơi đầu tiên, ngày 8/11, đồn cảnh sát Bát Đạt Lĩnh thuộc Công an quận Diên Khánh, Bắc Kinh, đã đưa ra khuyến cáo du khách khi tham quan cần bám lan can, đi chậm, chú ý quan sát và trông chừng người gia, trẻ nhỏ, tránh xa mép tường."
+    },
+    {
+     "t": "p",
+     "text": "Khu du lịch huy động hơn 1.200 nhân viên và tình nguyện viên túc trực từ sớm để hướng dẫn du khách, phân luồng và đảm bảo an toàn tham quan. Các điểm dịch vụ cũng cung cấp nước nóng, trà gừng miễn phí và hỗ trợ tư vấn, xử lý tình huống khẩn cấp."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi lần tuyết rơi, khu vực Bát Đạt Lĩnh đều đón lượng lớn du khách trong và ngoài nước ghé thăm. Sau trận tuyết rơi đầu tiên, ngày 8/11, đồn cảnh sát Bát Đạt Lĩnh thuộc Công an quận Diên Khánh, Bắc Kinh, đã đưa ra khuyến cáo du khách khi tham quan cần bám lan can, đi chậm, chú ý quan sát và trông chừng người gia, trẻ nhỏ, tránh xa mép tường."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ban quản lý khu du lịch cũng khuyến cáo du khách mặc đủ ấm, đi giày chống trượt do nhiệt độ giảm và mặt đường dễ đóng băng sau tuyết rơi. Du khách cần tuân thủ hướng dẫn của nhân viên, sắp xếp lịch trình và thời gian tham quan phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Vạn Lý Trường Thành là công trình phòng thủ nổi tiếng của Trung Quốc, được xây dựng qua nhiều triều đại, từ thời Xuân Thu (770 TCN) đến thời Minh (1368-1644), nhằm bảo vệ lãnh thổ trước các cuộc tấn công từ phương Bắc."
+    },
+    {
+     "t": "p",
+     "text": "Gần Bắc Kinh có ba điểm tham quan Vạn Lý Trường Thành nổi tiếng gồm Bát Đạt Lĩnh (Badaling), Mộ Điền Dục (Mutianyu) và Tư Mã Đài (Simatai). Bát Đạt Lĩnh là một trong những đoạn thành thu hút đông du khách nhất."
+    },
+    {
+     "t": "p",
+     "text": "Ban quản lý khu du lịch cũng khuyến cáo du khách mặc đủ ấm, đi giày chống trượt do nhiệt độ giảm và mặt đường dễ đóng băng sau tuyết rơi. Du khách cần tuân thủ hướng dẫn của nhân viên, sắp xếp lịch trình và thời gian tham quan phù hợp."
+    },
+    {
+     "t": "p",
+     "text": "Vạn Lý Trường Thành là công trình phòng thủ nổi tiếng của Trung Quốc, được xây dựng qua nhiều triều đại, từ thời Xuân Thu (770 TCN) đến thời Minh (1368-1644), nhằm bảo vệ lãnh thổ trước các cuộc tấn công từ phương Bắc."
+    },
+    {
+     "t": "p",
+     "text": "Gần Bắc Kinh có ba điểm tham quan Vạn Lý Trường Thành nổi tiếng gồm Bát Đạt Lĩnh (Badaling), Mộ Điền Dục (Mutianyu) và Tư Mã Đài (Simatai). Bát Đạt Lĩnh là một trong những đoạn thành thu hút đông du khách nhất."
+    },
+    {
+     "t": "p",
+     "text": "Anh Minh (Theo Beijing News )"
+    }
+   ]
+  },
+  {
+   "id": "871847cb2777",
+   "order": 12,
+   "slug": "nuoc-nao-co-duong-bo-bien-dai-nhat-chau-a",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Nước nào có đường bờ biển dài nhất châu Á?",
+   "sapo": "Đây là nước có đường bờ biển dài nhất châu Á với khoảng gần 55.000km. Bạn có biết đó là quốc gia nào?",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/nuoc-nao-co-duong-bo-bien-dai-nhat-chau-a-2576066.html",
+   "published": "2026-11-17T22:10:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 475,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/871847cb2777-lead.jpg",
+     "caption": "",
+     "w": 831,
+     "h": 435
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "1. Nước nào có đường bờ biển dài nhất châu Á?"
+    },
+    {
+     "t": "li",
+     "text": "Philippines 0% Indonesia 0% Nhật Bản 0% Trung Quốc 0% Chính xác Indonesia nằm giữa Ấn Độ Dương và Thái Bình Dương. Theo World Atlas , Indonesia có đường bờ biển dài nhất châu Á, khoảng 54.720km. Đường bờ biển kéo dài tạo điều kiện để đất nước này phát triển về mặt du lịch, kinh tế hay sự đa dạng của hệ động, thực vật biển. Trong khi đó, Philippines có đường bờ biển dài khoảng 36.289km, đứng sau Indonesia ở châu Á. 2. Đây cũng là đất nước có nhiều đảo nhất thế giới, đúng hay sai? Đúng 0% Sai 0% Chính xác Indonesia được gọi là “xứ sở vạn đảo”. Số lượng đảo của nước này lên đến hơn 17.500. Tuy nhiên, Indonesia không phải đất nước có nhiều đảo nhất thế giới. Thụy Điển mới là quốc gia nhiều đảo nhất với hơn 267.000 hòn đảo được tìm thấy. Xếp sau đó là Na Uy có 239.000 hòn đảo, Phần Lan có 180.000 đảo. 3. Đảo nào ở Indonesia là đảo đông dân nhất thế giới? Lombok 0% Komodo 0% Java 0% Bali 0% Chính xác Indonesia cũng được xem là đảo quốc lớn nhất thế giới. Java là đảo lớn thứ 13 thế giới nhưng đông dân nhất với hơn 150 triệu người, chiếm gần 60% cư dân Indonesia. Thủ đô Jakarta, thành phố lớn nhất cả nước nằm ở phía Tây Bắc hòn đảo này, là một trong những nơi có mật độ dân số cao nhất thế giới. 4. Quốc gia này có mấy múi giờ? 1 0% 2 0% 3 0% 4 0% Chính xác Indonesia hiện có 3 múi giờ, gồm giờ Tây Indonesia (WIB, UTC+7), giờ Trung Indonesia (WITA, UTC+8) và giờ Đông Indonesia (WIT, UTC+9). Do lãnh thổ trải dài từ đông sang tây, quốc gia này sử dụng các múi giờ khác nhau để phù hợp với thời gian ở từng khu vực. Indonesia hiện là quốc gia có nhiều múi giờ nhất Đông Nam Á. 5. Quốc gia này có mức sống rẻ thứ mấy Đông Nam Á? 1 0% 2 0% 3 0% 4 0% Chính xác Theo dữ liệu về chỉ số chi phí sinh hoạt (Cost of living index) 2026 của cơ sở dữ liệu trực tuyến Numbeo, Indonesia có chi phí sống rẻ nhất tại Đông Nam Á. Numbeo lấy chỉ số chi phí sinh hoạt của thành phố New York (Mỹ) làm chuẩn, đặt cho thành phố này chỉ số là 100 (index = 100) và tính ra chỉ số chi phí sinh hoạt của các quốc gia khác. Chỉ số chi phí sinh hoạt của Indonesia là 26,1, thấp nhất Đông Nam Á và thấp thứ 8 châu Á. Tin cùng chuyên mục Tin mới"
+    }
+   ]
+  },
+  {
+   "id": "934678f9425a",
+   "order": 13,
+   "slug": "nghe-nuoc-mam-phan-thiet-duoc-cong-nhan-di-san-van-hoa-phi-v",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Nghề nước mắm Phan Thiết được công nhận di sản văn hóa phi vật thể quốc gia",
+   "sapo": "Nghề làm nước mắm Phan Thiết vừa được đưa vào danh mục quốc gia về di sản văn hóa phi vật thể, ghi nhận giá trị của nghề truyền thống gắn bó lâu đời với đời sống người dân vùng biển.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nghe-nuoc-mam-phan-thiet-duoc-cong-nhan-di-san-van-hoa-phi-vat-the-quoc-gia-185261117153644369.htm",
+   "published": "2026-11-17T10:21:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 434,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/934678f9425a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/934678f9425a-0.jpg",
+     "caption": "Bên trong nhà lều làm nước mắm truyền thống ở phường Phú Hài, thành phố Phan Thiết, Bình Thuận (nay là phường Phú Thủy, tỉnh Lâm Đồng)",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-18/934678f9425a-1.jpg",
+     "caption": "Kiểm tra lều ủ chượp cá, một công đoạn trong nghề làm nước mắm truyền thống ở Phan Thiết",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 16.11, Bộ trưởng Bộ VH-TT-DL ban hành quyết định (số 3117) về việc đưa vào danh mục quốc gia về di sản văn hóa phi vật thể nghề làm nước mắm Phan Thiết."
+    },
+    {
+     "t": "p",
+     "text": "Theo quyết định, nghề làm nước mắm Phan Thiết thuộc 2 loại hình: nghề thủ công truyền thống và tri thức dân gian. Không gian di sản được xác định tại các phường Phú Thủy, Mũi Né và Phan Thiết, tỉnh Lâm Đồng."
+    },
+    {
+     "t": "p",
+     "text": "Điều 2 của quyết định ghi, Chủ tịch Ủy ban nhân dân các cấp nơi có di sản văn hóa phi vật thể được đưa vào danh mục, trong phạm vi nhiệm vụ và quyền hạn của mình, thực hiện việc quản lý nhà nước theo quy định của pháp luật về di sản văn hóa."
+    },
+    {
+     "t": "p",
+     "text": "Đây là sự ghi nhận ở cấp quốc gia đối với một nghề truyền thống đã gắn chặt với lịch sử hình thành, phát triển của vùng biển Phan Thiết (trước đây thuộc tỉnh Bình Thuận)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ nguồn nguyên liệu khai thác ngoài biển, kinh nghiệm chọn cá, ủ chượp, chăm sóc thùng và rút nước mắm, nghề làm nước mắm đã được các thế hệ cư dân địa phương gìn giữ, truyền nghề và phát triển qua thời gian hàng trăm năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ tạo ra một sản phẩm đặc trưng của vùng biển Phan Thiết, nghề làm nước mắm còn lưu giữ những tri thức dân gian và kinh nghiệm sản xuất được tích lũy qua nhiều thế hệ. Những giá trị này tạo nên bản sắc riêng của nghề và góp phần hình thành thương hiệu nước mắm Phan Thiết ."
+    },
+    {
+     "t": "p",
+     "text": "Việc được đưa vào danh mục quốc gia về di sản văn hóa phi vật thể không chỉ là sự ghi nhận đối với người làm nghề nước mắm, mà còn mở thêm cơ hội để bảo tồn, phát huy giá trị của nghề truyền thống."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Với vùng biển Phan Thiết, nước mắm không đơn thuần là một sản phẩm hàng hóa. Đằng sau mỗi lều nước mắm là câu chuyện về biển, về nghề và về những thế hệ cư dân đã sống cùng biển, tạo dựng sinh kế và truyền lại những kinh nghiệm nghề nghiệp quý báu."
+    },
+    {
+     "t": "p",
+     "text": "Nghề làm nước mắm Phan Thiết trở thành di sản văn hóa phi vật thể quốc gia cũng tạo thêm một giá trị mới cho thương hiệu địa phương, nhất là trong phát triển du lịch văn hóa, trải nghiệm làng nghề và quảng bá đặc sản Phan Thiết đến du khách trong nước, quốc tế."
+    }
+   ]
+  },
+  {
+   "id": "d45c7e13546d",
+   "order": 14,
+   "slug": "vo-chong-dong-long-mang-vang-ve-cho-vovinam-tp-hcm",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Vợ chồng đồng lòng, mang 'vàng' về cho Vovinam TP.HCM",
+   "sapo": "Cùng gắn bó với Vovinam từ những ngày đầu tập luyện, vợ chồng VĐV Lê Thanh Tuấn và Lâm Thị Lời không chỉ đồng hành trong cuộc sống mà còn cùng nhau chinh phục những tấm HCV tại Đại hội thể thao toàn quốc 2026.",
+   "author": "ANH HÀO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/vo-chong-dong-long-mang-vang-ve-cho-vovinam-tphcm-100261117172745052.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 923,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/d45c7e13546d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/d45c7e13546d-0.jpg",
+     "caption": "Anh Lê Thanh Tuấn cùng vợ Lâm Thị Lời mang về hai tấm HCV cho Vovinam TP.HCM - Ảnh: ANH HÀO",
+     "w": 1280,
+     "h": 913
+    },
+    {
+     "src": "img/2026-11-18/d45c7e13546d-1.jpg",
+     "caption": "Lâm Thị Lời cùng đồng đội giành HCV nội dung song luyện kiếm nữ tại Đại hội thể thao toàn quốc 2026 - Ảnh: QUANG LIÊM",
+     "w": 1280,
+     "h": 854
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trên sàn đấu Vovinam tại Đại hội thể thao toàn quốc lần thứ X năm 2026 , vợ chồng Lê Thanh Tuấn (sinh năm 1992) và Lâm Thị Lời (sinh năm 1993) cùng mang về niềm vui cho đoàn TP.HCM. Anh Tuấn giành HCV nội dung song luyện mã tấu, còn chị Lời bước lên bục cao nhất ở nội dung song luyện kiếm nữ."
+    },
+    {
+     "t": "p",
+     "text": "Hai tấm HCV không chỉ là thành quả của quá trình tập luyện bền bỉ mà còn ghi dấu hành trình nhiều năm cùng nhau theo đuổi võ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Ít ai biết rằng, cơ duyên đưa hai người đến với nhau cũng bắt đầu từ một câu lạc bộ Vovinam phong trào tại quận 11. Sau đó, anh Tuấn được tuyển chọn lên đội tuyển và trở thành người động viên, hỗ trợ chị Lời tiếp tục phấn đấu để có cơ hội bước lên môi trường thi đấu chuyên nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Từ những buổi tập chung, những lần cùng tham gia giải đấu, tình cảm giữa hai người ngày càng gắn bó. Đến năm 2011, anh Tuấn và chị Lời chính thức quen nhau. Sau đó 8 năm, họ đã về chung một nhà, tiếp tục duy trì công việc VĐV và trở thành bạn đồng hành của nhau cả trong lẫn ngoài sàn đấu."
+    },
+    {
+     "t": "p",
+     "text": "Với hai người cùng theo đuổi Vovinam, sự thấu hiểu là một trong những thuận lợi lớn nhất trong cuộc sống hôn nhân. Chị Lời cho biết cả hai có thể chia sẻ những câu chuyện trong công việc, cùng bàn bạc về quá trình tập luyện và động viên nhau mỗi khi gặp khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi cảm thấy may mắn vì chúng tôi thường tham gia tập luyện và cùng thi đấu ở các giải đấu. Khi một trong hai không đạt được kết quả như mong muốn, người còn lại sẽ động viên để cả hai tiếp tục cố gắng, hoàn thành nhiệm vụ được ban huấn luyện giao”, chị Lời chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Việc cùng là vận động viên cũng khiến cuộc sống gia đình có những thử thách riêng. Mỗi khi đội tuyển có lịch tập huấn hoặc thi đấu xa nhà, cả hai thường cùng lên đường, đồng nghĩa việc chăm sóc con phải nhờ đến sự hỗ trợ của gia đình nội, ngoại."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo chị Lời, sự đồng hành của gia đình hai bên là điểm tựa quan trọng để vợ chồng chị yên tâm theo đuổi đam mê. Đặc biệt, trong quá trình chuẩn bị cho Đại hội thể thao toàn quốc 2026, việc được người thân hỗ trợ chăm sóc con giúp cả hai tập trung hơn vào tập luyện và thi đấu."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ vậy, anh Tuấn và chị Lời còn có nhiều dấu ấn đáng nhớ trên hành trình thi đấu. Tại Giải vô địch Vovinam thế giới lần thứ 8 diễn ra ở Bali (Indonesia) vào tháng 11-2025, chị Lời giành HCV, trong khi anh Tuấn đoạt HCB. Những thành tích ấy cho thấy sự bền bỉ của cả hai sau nhiều năm gắn bó với Việt võ đạo."
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, chị Lâm Thị Lời được trao Huân chương Lao động hạng Nhất, còn anh Lê Thanh Tuấn nhận Huân chương Lao động hạng Nhì. Đây là sự ghi nhận đáng tự hào cho những đóng góp và nỗ lực của hai vận động viên trong quá trình thi đấu."
+    },
+    {
+     "t": "p",
+     "text": "Với Tuấn và Lời, thành quả trên sàn đấu không chỉ đến từ nỗ lực cá nhân mà còn là kết quả của sự sẻ chia, động viên và đồng hành trong suốt nhiều năm. Họ tiếp tục viết nên câu chuyện đẹp của những người cùng chung tình yêu Vovinam , cùng hướng đến một mục tiêu và cùng mang vinh quang về cho thể thao TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Diễn ra từ ngày 14 đến 19-11, môn vovinam Đại hội thể thao toàn quốc 2026 có 26 bộ huy chương, gồm 14 hạng cân đối kháng (8 nam, 6 nữ) và 12 nội dung quyền. Các phần thi quyền gồm đơn luyện, song luyện, đa luyện vũ khí, quyền đồng đội nữ và đòn chân tấn công nam."
+    },
+    {
+     "t": "p",
+     "text": "Đại hội thể thao toàn quốc lần thứ X năm 2026 là sự kiện thể thao lớn nhất cả nước, được tổ chức theo chu kỳ 4 năm/lần. TP.HCM là địa phương đăng cai chính, sau 20 năm kể từ lần gần nhất đảm nhận vai trò này. Các cuộc tranh tài còn được tổ chức tại Đồng Nai, Đồng Tháp và Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "Đại hội có 48 môn thể thao, 973 nội dung tranh huy chương, quy tụ 36 đoàn, gồm 34 tỉnh, thành phố và hai ngành Công an, Quân đội. Dự kiến có khoảng 12.000 cán bộ, huấn luyện viên, vận động viên, 2.000 trọng tài tham gia, cùng khoảng 200.000 lượt khách mời, cổ động viên và du khách."
+    },
+    {
+     "t": "p",
+     "text": "Ban tổ chức bố trí 34 địa điểm thi đấu, gồm 31 địa điểm tại TP.HCM và 3 địa điểm phối hợp ở các địa phương khác."
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch, chương trình chính diễn ra từ 14-11 đến 12-12-2026, nhưng một số môn thi đấu sớm."
+    },
+    {
+     "t": "p",
+     "text": "Lễ khai mạc toàn đại hội diễn ra tối 21-11 tại công viên bờ sông Sài Gòn (TP.HCM), lễ bế mạc ngày 12-12 tại Nhà thi đấu Phú Thọ. Đại hội là dịp đánh giá công tác đào tạo, huấn luyện, phát hiện tài năng và tuyển chọn lực lượng kế cận cho thể thao Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "b194ecd36922",
+   "order": 15,
+   "slug": "dung-chi-cho-nho-ma-co-vo",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Đừng chỉ chờ ‘nhỏ mà có võ’",
+   "sapo": "Tầm vóc của người VN đã cải thiện đáng kể trong khoảng 20 năm qua, nhưng khi đặt trong tương quan với yêu cầu ngày càng cao của thể thao thành tích cao, những hạn chế về thể hình, sức mạnh, sức bền vẫn là bài toán cần giải quyết để VN thu hẹp cách biệt với những nền thể thao phát triển.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/dung-chi-cho-nho-ma-co-vo-185261116220942858.htm",
+   "published": "2026-11-17T00:21:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 996,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/b194ecd36922-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-18/b194ecd36922-0.jpg",
+     "caption": "Nguyễn Thị Oanh là biểu tượng cho ý chí vươn lên của thể thao VN",
+     "w": 1280,
+     "h": 854
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tầm vóc của người VN đã cải thiện đáng kể trong khoảng 20 năm qua, nhưng khi đặt trong tương quan với yêu cầu ngày càng cao của thể thao thành tích cao, những hạn chế về thể hình, sức mạnh, sức bền vẫn là bài toán cần giải quyết để VN thu hẹp cách biệt với những nền thể thao phát triển."
+    },
+    {
+     "t": "h",
+     "text": "Chuyện \"thấp bé nhẹ cân\""
+    },
+    {
+     "t": "p",
+     "text": "Năm 2019 tại Philippines, hình ảnh Nguyễn Thị Oanh nhỏ bé chỉ cao 1,53 m giành HCV SEA Games 30 nội dung 1.500 m, phá kỷ lục đại hội với thời gian 4 phút 17 giây 31, đã trở thành khoảnh khắc vàng của thể thao VN. Cô gái \"hạt tiêu\" dù có chiều cao và sải chân khiêm tốn, nhưng đã đánh bại nhiều chân chạy cao hơn cả cái đầu để đoạt không chỉ HCV 1.500 m mà là hat-trick vàng tại Manila, đánh dấu mốc son huy hoàng của điền kinh VN tại Đông Nam Á."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó 6 năm, tay vợt số một VN Nguyễn Tiến Minh tạo nên cột mốc lịch sử khi thắng Jan Jorgensen để lần đầu vào bán kết giải vô địch cầu lông thế giới 2013. Tiến Minh chỉ cao 1,7 m, đã thắng đối thủ cao tới 1,85 m."
+    },
+    {
+     "t": "p",
+     "text": "Những câu chuyện \"nhỏ mà có võ\" như Tiến Minh, Nguyễn Thị Oanh; hay Quang Hải, tiền vệ chỉ cao 1,68 m đã xoay xở lập siêu phẩm vào lưới trước một \"rừng\" hậu vệ Qatar, Uzbekistan vốn cao hơn một cái đầu, để đưa U.23 VN đến với ngôi á quân châu Á 2018… chẳng còn xa lạ với người hâm mộ. Lịch sử thể thao VN được tạo nên bởi những con người nhỏ bé song ý chí phi thường, mang về vinh quang cho đất nước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ xưa, người VN nói riêng hay VĐV VN nói chung đã quen với việc lấy kỹ năng, ý chí và tư duy để bù cho chênh lệch hình thể. Theo tổng điều tra dinh dưỡng giai đoạn 2019-2020 tại VN, chiều cao trung bình của nam thanh niên 18 tuổi là 1,681 m, trong khi nữ là 1,562 m. So với 20 năm trước, nam giới cao thêm 5,8 cm, còn nữ giới là 3,9 cm. Chiều cao thanh niên VN hiện đứng thứ tư Đông Nam Á, sau Singapore, Malaysia và Thái Lan. Trong thể thao đỉnh cao, không phải cứ cao lớn là thành công, đơn cử như thể dục dụng cụ, cử tạ, võ thuật. Tuy nhiên, ở rất nhiều nội dung Olympic như bóng chuyền, bóng rổ, bóng ném, bóng đá hay một số nội dung điền kinh, bơi, thì chiều cao lại có lợi thế rất rõ. Khác biệt có thể đến chỉ với vài cen ti mét khác biệt về chiều cao, sải chân hay sải tay."
+    },
+    {
+     "t": "p",
+     "text": "VĐV VN có khả năng bù đắp thiếu hụt thể chất bằng khát vọng và sức chiến đấu, vốn là đặc trưng được hình thành từ đặc thù văn hóa, lịch sử đất nước; nhưng có những giới hạn về chiều cao, cơ bắp mà chỉ ý chí hay tư duy là không đủ. Đó cũng là khoảng cách khiến thể thao VN dù mạnh ở Đông Nam Á nhưng đang bế tắc trên đường tiến ra châu Á bởi sự thua thiệt khi đứng cạnh những \"cường quốc chiều cao\" như Hàn Quốc, Trung Quốc, Iran, Nhật Bản, Uzbekistan hay thậm chí Thái Lan, Singapore."
+    },
+    {
+     "t": "h",
+     "text": "Bài toán nan giải"
+    },
+    {
+     "t": "p",
+     "text": "Tại ASIAD 2026 , thể thao VN chỉ đạt 3 HCV (2 nội dung cầu mây, 1 nội dung biểu diễn karate), đều không ở các môn Olympic. Còn với những môn Olympic như điền kinh, bơi, hay các môn đỉnh cao như bóng đá, bóng chuyền, bóng rổ, cầu lông, tennis, thể dục dụng cụ… các VĐV VN hầu như \"trắng\" huy chương. Phải nhìn thẳng sự thật: thua đối kháng, khó tránh được nguyên nhân chênh lệch thể hình."
+    },
+    {
+     "t": "p",
+     "text": "\"Trước những VĐV cao lớn, chúng tôi thường bị \"ngợp\" khi tranh chấp đối kháng trực diện, phải thi đấu thông minh, khôn khéo để hạn chế nhất có thể các pha tranh chấp ấy. Những VĐV Hàn Quốc, Úc hay Nhật Bản đều rất khỏe, thăng bằng tốt và rất ít cơ hội thắng họ nếu đấu bằng sức lực\", một tuyển thủ bóng đá nữ VN chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Để chinh phục đỉnh cao quốc tế, người VN cần cải thiện tầm vóc và thể lực, thay vì thuần túy trông đợi vào kỹ năng hay nghị lực. Chuyên gia Đoàn Minh Xương phân tích: \"Cốt lõi của thể thao VN nằm ở thể trạng, không chỉ đơn thuần chiều cao, mà còn là tỷ lệ, khối lượng cơ bắp, độ dày cơ thể, sức rướn, độ dẻo dai. Những yếu tố ấy liên quan mật thiết đến bộ gien (ví dụ người Đông Bắc Á có gien to khỏe, chiều cao tốt hơn Đông Nam Á hay Nam Á), nhưng khoa học dinh dưỡng, phương pháp huấn luyện hay chăm sóc sức khỏe cũng đóng vai trò rất quan trọng\"."
+    },
+    {
+     "t": "p",
+     "text": "Khát vọng vươn tầm của thể thao VN không thể tách rời chiến lược nâng cao tầm vóc người Việt. Muốn có những VĐV đủ sức cạnh tranh quốc tế, cần bắt đầu từ việc xây dựng nền tảng thể chất tốt hơn cho cả thế hệ trẻ, xuất phát từ cải thiện dinh dưỡng và nâng cao thói quen tập luyện thể dục thể thao cho người trẻ. Chiều cao quốc gia không thể cải thiện trong một vài năm, mà cần một chiến lược đầu tư cho nhiều thế hệ, trong đó, cần đầu tư cả hai khía cạnh: thể thao đỉnh cao cho VĐV chuyên nghiệp, cùng thể thao học đường để xây dựng \"chân đế\" vững chắc hơn, giúp nguồn tuyển chọn VĐV thêm chất lượng và đa dạng."
+    }
+   ]
+  },
+  {
+   "id": "d5974740a6f7",
+   "order": 16,
+   "slug": "tam-chan-mat-troi-co-the-cuu-trai-dat-khoi-nong-len",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tấm chắn Mặt Trời có thể cứu Trái Đất khỏi nóng lên?",
+   "sapo": "Elon Musk gợi ý phóng vệ tinh vào không gian để che bớt Mặt Trời và một số nhà nghiên cứu đang xem xét phương pháp trong không gian để phản xạ ánh sáng Mặt Trời ra khỏi Trái Đất để làm mát hành tinh.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tam-chan-mat-troi-co-the-cuu-trai-dat-khoi-nong-len-5144437.html",
+   "published": "2026-11-17T22:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1001,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-18/d5974740a6f7-lead.jpg",
+     "caption": "",
+     "w": 750,
+     "h": 421
+    },
+    {
+     "src": "img/2026-11-18/d5974740a6f7-0.jpg",
+     "caption": "Mô phỏng tấm chắn ngăn chặn một phần ánh sáng Mặt Trời truyền đến Trái Đất. Ảnh: Viện tấm chắn nắng hành tinh",
+     "w": 750,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Elon Musk gợi ý phóng vệ tinh vào không gian để che bớt Mặt Trời và một số nhà nghiên cứu đang xem xét phương pháp trong không gian để phản xạ ánh sáng Mặt Trời ra khỏi Trái Đất để làm mát hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "Theo Chosun , trong một bài đăng trên mạng X hôm 30/8, tỷ phú Elon Musk gợi ý làm mát Trái Đất bằng cách phóng vệ tinh vào không gian để che bớt ánh nắng Mặt Trời. Theo ông, những vệ tinh thông minh này \"có thể giải quyết vấn đề nóng lên toàn cầu trong khoảng 1 tỷ năm\"."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người cho rằng ý tưởng xây tấm chắn nắng ngoài vũ trụ khá viển vông. Nhưng theo Chantal Cappelletti, kỹ sư hệ thống không gian tại Đại học Nottingham, Anh, chi phí phóng giảm làm cho triển vọng này có vẻ khả thi hơn."
+    },
+    {
+     "t": "p",
+     "text": "Trong báo cáo công bố hồi cuối tháng 10 của Viện tấm chắn nắng hành tinh (PSF), một tổ chức phi lợi nhuận ở Los Angeles, California, các chuyên gia đưa ra phân tích chi tiết nhất từ trước tới nay về phương pháp địa kỹ thuật này. Họ tóm tắt nghiên cứu từ nhiều kỹ sư và nhà khoa học khí hậu, bao gồm cơ quan vũ trụ hàng đầu như NASA, ước tính quá trình xây dựng tấm chắn nắng ngoài hành tinh sẽ khả thi trong khoảng 20-40 năm. Thời gian cụ thể phụ thuộc vào tốc độ phát triển tên lửa tải trọng lớn đủ khả năng vận chuyển hàng triệu tấn vật liệu vào không gian sâu nhằm tạo ra tấm chắn Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Nature cho biết báo cáo mới là dự án lớn nhất của PSF tính đến nay, được tài trợ 530.000 USD từ Cơ quan Nghiên cứu và Phát minh Tiên tiến của Anh (ARIA). Khoản tài trợ đó nằm trong chương trình nghiên cứu địa kỹ thuật Mặt Trời trị giá hơn 75 triệu USD của ARIA."
+    },
+    {
+     "t": "p",
+     "text": "Báo cáo xem xét những yêu cầu kỹ thuật và tác động khí hậu của 6 giải pháp có thể sử dụng để xây tấm chắn Mặt Trời khổng lồ trong không gian với quy mô đủ lớn nhằm chặn khoảng 1% bức xạ đến Trái Đất, giúp nhiệt độ giảm khoảng 1°C theo mô hình khí hậu. Hai giải pháp chính là phóng một chòm vệ tinh tạo thành tấm chắn và phóng vật liệu hình thành đám mây bụi làm mờ ánh sáng truyền tới Trái Đất. Một vị trí cách Trái Đất hơn hai triệu km được coi là khoảng cách tối ưu để đặt công cụ che nắng với lượng vật liệu tối thiểu."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi vệ tinh đường kính 40 km sẽ sử dụng lực ly tâm từ chuyển động quay của chính nó để hỗ trợ cánh buồm mỏng như giấy phản chiếu ánh sáng. Chúng lấy năng lượng nhờ áp lực do hạt photon từ Mặt Trời va đập vào cánh buồm. Khác với hạt aerosol phun vào khí quyển Trái Đất, các vệ tinh có thể được điều khiển từ xa để phản xạ lượng ánh sáng Mặt Trời khác nhau bằng cách thay đổi vị trí cánh buồm."
+    },
+    {
+     "t": "p",
+     "text": "Báo cáo của PSF ước tính để làm mát 1°C, cần khoảng 5.000 vệ tinh như vậy bay lơ lửng theo đội hình, đòi hỏi gần 70 triệu tấn vật liệu xây dựng, gấp khoảng 1.500 lần tổng khối lượng mọi thứ từng được phóng vào không gian. Quá trình xây dựng chòm vệ tinh sẽ bao gồm phóng bộ phận riêng lẻ từ Trái Đất và hoàn thành lắp ráp không gian bằng vật liệu khai thác từ Mặt Trăng. Điều kiện trọng lực thấp trên bề mặt Mặt Trăng khiến các vụ phóng tải trọng lớn hiệu quả và đỡ tốn kém hơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một lựa chọn khác được xem xét trong báo cáo là phóng đám mây bụi hoặc hạt phản xạ đến một địa điểm giữa Mặt Trời và Trái Đất. Để ngăn đám mây trôi dạt, đội tàu vũ trụ sẽ dùng lực đẩy trường điện từ cố định nó. Tuy nhiên, báo cáo kết luận ý tưởng mà nhóm nghiên cứu tại Phòng Thí nghiệm Sức đẩy Phản lực của NASA ở Pasadena, California, đang khám phá, mang nặng tính suy đoán hơn so với tấm chắn Mặt Trời dựa trên vệ tinh."
+    },
+    {
+     "t": "p",
+     "text": "PSF nhận định có quá nhiều ẩn số để có thể đưa ra bất kỳ ước tính chi phí đáng tin cậy nào cho tấm chắn Mặt Trời. Nhưng Cappelletti dự đoán giải pháp như vậy có thể tốn hàng chục nghìn tỷ USD. Theo ông, dù cần rất nhiều lần phóng, con người vẫn có thể làm được điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Che ánh sáng Mặt Trời để làm mát hành tinh từ lâu đã là phương pháp địa kỹ thuật gây tranh cãi. Các đề xuất bao gồm rải hạt phản xạ ánh sáng Mặt Trời vào khí quyển Trái Đất, có thể ảnh hưởng đến tự nhiên như gây gián đoạn lượng mưa và ảnh hưởng tới sự phát triển của thực vật. Một số phương pháp ngoài không gian tiềm ẩn rủi ro như ô nhiễm từ hàng nghìn vụ phóng tên lửa. Giới phê bình cho rằng việc quá tập trung vào địa kỹ thuật sẽ làm lu mờ nhiệm vụ cấp bách hiện nay là cắt giảm khí thải nhà kính để giải quyết biến đổi khí hậu."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, địa kỹ thuật Mặt Trời đang thu hút sự chú ý từ các nhà nghiên cứu khi Trái Đất tiến gần đến vượt quá mốc giới hạn 1,5 °C so với thời kỳ tiền công nghiệp. Morgan Goodwin, nhà hoạt động khí hậu kiêm giám đốc điều hành PSF, nhận định chính cuộc khủng hoảng khí hậu đang diễn ra ngày một nhanh đang thúc đẩy thế giới tìm đến giải pháp này."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "322fa129b2e5",
+   "order": 17,
+   "slug": "nasa-cong-bo-album-moi-ghi-lai-am-thanh-cua-nhung-vi-sao-so",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA công bố \"album\" mới ghi lại âm thanh của những vì sao sơ sinh",
+   "sapo": "Thiên hà Messier 82 (M82) được gọi là thiên hà bùng nổ sao, vì ở đó các vì sao được hình thành với tốc độ nhanh hơn hàng chục, thậm chí hàng trăm lần so với Dải Ngân Hà của chúng ta.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+   "published": "2026-11-17T20:26:17+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 972,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+   "images": [
+    {
+     "src": "img/2026-11-18/322fa129b2e5-lead.jpg",
+     "caption": "",
+     "w": 1198,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-11-18/322fa129b2e5-0.jpg",
+     "caption": "Bốn hình ảnh dưới đây là dữ liệu do kính viễn vọng Chandra và các kính viễn vọng khác của NASA thu được, ghi lại những ngôi sao đang trong quá trình hình thành. Giống như con người, các vì sao cũng được sinh ra, tồn tại trong một khoảng thời gian nhất định, và rồi cuối cùng \"chết\" đi. Bằng cách nghiên cứu những nơi trong vũ trụ mà các vì sao đang được sinh ra và những ngôi sao trẻ đang tồn tại, các nhà thiên văn học có thể hiểu rõ hơn về vòng đời của mọi vì sao, kể cả Mặt Trời của chúng ta. Góc trên bên trái là Rho Ophiuchi; góc trên bên phải là Tinh vân Carina; góc dưới bên trái là Tinh vân Orion; góc dưới bên phải là thiên hà M82.",
+     "w": 1200,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một \"album\" mới từ Đài quan sát tia X Chandra của NASA đã thu thập những hình ảnh về các vì sao sơ sinh trong thiên hà của chúng ta và xa hơn nữa, rồi biến những dữ liệu đó thành âm thanh."
+    },
+    {
+     "t": "p",
+     "text": "Bốn bản âm thanh hóa (sonification) mới sử dụng dữ liệu về các vì sao đang trong quá trình hình thành, được thu thập bởi kính Chandra và các kính viễn vọng khác của NASA. Bằng cách nghiên cứu những nơi trong vũ trụ mà các vì sao đang được sinh ra và những ngôi sao trẻ đang tồn tại, các nhà thiên văn học có thể hiểu rõ hơn về vòng đời của mọi vì sao, kể cả Mặt Trời của chúng ta."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "M82"
+    },
+    {
+     "t": "p",
+     "text": "Thiên hà Messier 82 (M82) được gọi là thiên hà bùng nổ sao, vì ở đó các vì sao được hình thành với tốc độ nhanh hơn hàng chục, thậm chí hàng trăm lần so với thiên hà Dải Ngân Hà của chúng ta. Sự bùng nổ sinh sao này có thể là do một vụ va chạm với thiên hà khác trong quá khứ gây ra. Ngày nay, kính Chandra quan sát được những luồng khí nóng khổng lồ, là sản phẩm phụ từ việc các vì sao trẻ, khổng lồ nhanh chóng phát nổ cùng với các hoạt động hình thành sao khác. Một trong những bản âm thanh hóa mới kết hợp dữ liệu của Chandra với dữ liệu ánh sáng quang học từ kính viễn vọng không gian Hubble của NASA, cùng với hình ảnh hồng ngoại từ kính James Webb và kính Spitzer (đã ngừng hoạt động) của NASA. Bản âm thanh hóa kết hợp ba loại ánh sáng này bắt đầu bằng một kiểu quét giống radar, âm thanh to hơn ở những nơi có nguồn sáng mạnh hơn. Dữ liệu tia X được chuyển thành dải tần số cao nhất mà tai người nghe được. Dữ liệu hồng ngoại nghe như một tiếng vo vo trầm kèm theo âm thanh gảy, còn dữ liệu quang học được biến thành nhiều cao độ và âm sắc âm nhạc khác nhau."
+    },
+    {
+     "t": "h",
+     "text": "Tinh vân Orion"
+    },
+    {
+     "t": "p",
+     "text": "Một trong những vùng hình thành sao gần và nhộn nhịp nhất gần Trái Đất là Tinh vân Orion (có thể nhìn thấy ngay dưới phần \"đai\" của chòm sao Orion bằng kính viễn vọng nhỏ, vào đêm trời quang không có ánh sáng). Kính Chandra phát hiện hơn một nghìn ngôi sao trong khu vực này, chúng rất giàu năng lượng và hoạt động mạnh trong giai đoạn sơ sinh. Trong phiên bản âm thanh hóa dữ liệu của Chandra, những ngôi sao này được thể hiện bằng âm thanh lấp lánh, còn lượng tia X khuếch tán được chuyển thành những âm cao thuần. Một hình ảnh hồng ngoại từ kính viễn vọng không gian James Webb của NASA cho thấy nguyên liệu thô gồm bụi và khí dùng để tạo nên những ngôi sao mới này, và dữ liệu đó được nghe như những âm nhạc trầm hơn, âm thanh đàn dây méo tiếng, và một cây đàn hạc điện tử."
+    },
+    {
+     "t": "h",
+     "text": "Tinh vân Carina"
+    },
+    {
+     "t": "p",
+     "text": "Một phần của Tinh vân Carina, một vùng hình thành sao khác, được đặt biệt danh là \"Vách đá vũ trụ\" (Cosmic Cliffs) vì cấu trúc ngoạn mục của nó khi nhìn qua ánh sáng hồng ngoại của kính Webb thuộc NASA. Kính Chandra cũng quan sát vùng này, nhìn xuyên qua lớp bụi và khí, phát hiện ra từng ngôi sao sơ sinh riêng lẻ – trong bản âm thanh hóa, chúng được chuyển thành những âm thanh dây ngắn. Lượng tia X khuếch tán trải khắp vùng này được gán cho những âm dây dài hơn. Tinh vân trong dữ liệu của Webb được chuyển thành một âm thanh kéo dài liên tục, điểm xuyết bởi những nhạc cụ khác để đánh dấu các đặc điểm như những ngôi sao và các rặng cấu trúc."
+    },
+    {
+     "t": "h",
+     "text": "Rho Ophiuchi"
+    },
+    {
+     "t": "p",
+     "text": "Rho Ophiuchi là một đám mây hình thành sao vô cùng nổi bật, chứa đầy khí và các vì sao với nhiều kích thước và độ tuổi khác nhau. Kính Chandra phát hiện những ngôi sao sơ sinh phát ra các tia lửa mạnh mẽ và sinh ra tia X. Dữ liệu hồng ngoại từ kính Webb cho thấy hình ảnh những vùng khí và bụi của đám mây này. Khi được chuyển thành âm thanh, các tia X của Chandra trở thành những âm cao vang như thủy tinh, cùng với những âm thanh kéo dài khác để đánh dấu sự xuất hiện của các nguồn sáng rộng và chói. Những đám mây trong dữ liệu hồng ngoại của Webb được chuyển thành các âm thanh với cao độ khác nhau, còn các vì sao được thể hiện bằng tiếng gảy kim loại. Có một đoạn trống ở giữa bản nhạc, do những đám mây bụi tối ở đó phát ra rất ít ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Trung tâm Chuyến bay Không gian Marshall của NASA tại Huntsville, Alabama, quản lý chương trình Chandra. Trung tâm Tia X Chandra của Đài quan sát Vật lý thiên văn Smithsonian điều hành các hoạt động khoa học từ Cambridge, Massachusetts, và các hoạt động bay từ Burlington, Massachusetts."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình chuyển dữ liệu thành âm thanh (sonification) do Trung tâm Tia X Chandra (CXC) dẫn dắt. Sự hợp tác này được thực hiện bởi nhà khoa học hình ảnh hóa Kimberly Arcand (CXC), nhà vật lý thiên văn Matt Russo và nhạc sĩ Andrew Santaguida (thuộc nhóm SYSTEM Sounds), cùng với nhà tư vấn Christine Malec. Có thể tìm thêm các bản âm thanh hóa khác tại chandra.si.edu/sound."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm về kính thiên văn Chandra của NASA, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://www.nasa.gov/chandra"
+    }
+   ]
+  },
+  {
+   "id": "3f84d850f1a4",
+   "order": 18,
+   "slug": "thi-nghiem-che-tao-va-thu-nghiem-ten-lua-giay",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Thí nghiệm: Chế tạo và thử nghiệm tên lửa giấy",
+   "sapo": "Hãy tự làm tên lửa của mình bằng giấy, băng dính và ống hút qua thí nghiệm này!",
+   "author": "Science Buddies",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/paper-rocket-experiment-build-test",
+   "published": "2026-11-17T11:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1149,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Experiment: Construct and test paper rockets",
+   "images": [],
+   "lead": null,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Giới thiệu"
+    },
+    {
+     "t": "p",
+     "text": "Phóng tên lửa! Em đã bao giờ chơi mô hình hoặc tên lửa đồ chơi, hay xem một vụ phóng tên lửa thật trên TV chưa? Trong thí nghiệm này, em sẽ làm những chiếc tên lửa đơn giản từ giấy và phóng chúng bằng cách thổi vào một ống hút nước. Em có thể làm được chiếc tên lửa bay xa nhất không?"
+    },
+    {
+     "t": "h",
+     "text": "Vật liệu cần chuẩn bị"
+    },
+    {
+     "t": "li",
+     "text": "Hai tờ giấy"
+    },
+    {
+     "t": "li",
+     "text": "Kéo"
+    },
+    {
+     "t": "li",
+     "text": "Bút chì"
+    },
+    {
+     "t": "li",
+     "text": "Ống hút nước"
+    },
+    {
+     "t": "li",
+     "text": "Thước kẻ"
+    },
+    {
+     "t": "li",
+     "text": "Một không gian trống để phóng \"tên lửa\", chẳng hạn một căn phòng rộng, hành lang hoặc khu vực ngoài trời không có gió"
+    },
+    {
+     "t": "li",
+     "text": "Thước dây (không bắt buộc)"
+    },
+    {
+     "t": "li",
+     "text": "Video hướng dẫn có bằng tiếng Anh và tiếng Tây Ban Nha"
+    },
+    {
+     "t": "h",
+     "text": "Hướng dẫn"
+    },
+    {
+     "t": "li",
+     "text": "Cắt một tờ giấy thành bốn hình chữ nhật nhỏ hơn, bằng cách cắt đôi theo chiều dài rồi cắt đôi theo chiều ngang. Việc này sẽ giúp bạn làm được bốn quả tên lửa."
+    },
+    {
+     "t": "li",
+     "text": "Quấn một trong các hình chữ nhật giấy quanh một cây bút chì để tạo thành hình trụ, với cạnh dài của giấy nằm theo chiều dài cây bút chì."
+    },
+    {
+     "t": "li",
+     "text": "Dán băng dính để giữ hình trụ không bị bung ra (nhưng không dán nó vào cây bút chì)."
+    },
+    {
+     "t": "li",
+     "text": "Rút hình trụ ra khỏi bút chì. Bóp chặt một đầu của hình trụ lại và dán kín bằng băng dính. (Đây sẽ là đầu \"mũi\" của tên lửa.) Để đầu còn lại hở. Đây sẽ là tên lửa đầu tiên của bạn, không có cánh đuôi."
+    },
+    {
+     "t": "li",
+     "text": "Hãy chuẩn bị một khoảng không gian rộng rãi phía trước — không có vật cản như đồ đạc hay người — để sẵn sàng bắn tên lửa đầu tiên của bạn! Lồng tên lửa vào một ống hút nước. Hướng ống hút về phía trước, rồi thổi vào đó mạnh hết sức. Quan sát tên lửa của bạn khi nó bay."
+    },
+    {
+     "t": "li",
+     "text": "Bắn tên lửa của bạn thêm vài lần nữa để xem nó có bay giống như vậy không. Nếu bạn muốn ghi lại khoảng cách bay của tên lửa, hãy nhớ bắn từ cùng một vị trí mỗi lần, và dùng thước dây đo đến điểm nó rơi xuống."
+    },
+    {
+     "t": "li",
+     "text": "Làm một quả tên lửa giấy khác theo các bước trước đó. Nhớ bóp chặt một đầu và dán kín lại bằng băng dính."
+    },
+    {
+     "t": "li",
+     "text": "Tuy nhiên, với tên lửa này, bạn sẽ làm thêm cánh đuôi. Cắt hai hình tam giác vuông (có một góc 90 độ ở một đỉnh) từ tờ giấy còn lại. Cạnh dài của các hình tam giác nên dài khoảng tám xăng-ti-mét (ba inch). Bạn sẽ gấp mỗi hình tam giác để tạo ra hai cánh đuôi, như vậy tổng cộng bạn sẽ có bốn cánh đuôi."
+    },
+    {
+     "t": "li",
+     "text": "Vẽ một đường chia đôi một hình tam giác (từ góc vuông 90 độ đến điểm giữa của cạnh dài của tam giác)."
+    },
+    {
+     "t": "li",
+     "text": "Vẽ thêm hai đường song song với đường vừa vẽ (mỗi bên một đường), cách đường đó khoảng năm milimét (0,2 inch)."
+    },
+    {
+     "t": "li",
+     "text": "Giờ hãy gấp tam giác lên theo hai đường này. Kết quả sẽ là hai tam giác nhỏ dựng lên trong không khí (đó là các cánh đuôi, hay vây tên lửa), với một phần bằng phẳng nối chúng ở giữa."
+    },
+    {
+     "t": "li",
+     "text": "Dán phần bằng phẳng đó vào thành ống trụ, hướng về phía đầu hở (phần đáy, hay phần dưới, của tên lửa)."
+    },
+    {
+     "t": "li",
+     "text": "Lặp lại các bước này với tam giác còn lại và dán nó vào ống trụ ở phía đối diện với tam giác đầu tiên. Kết quả sẽ là bốn vây tạo thành hình chữ “+” khi bạn nhìn tên lửa từ một trong hai đầu. Nếu cần, hãy uốn các vây sao cho chúng cách nhau đều 90 độ."
+    },
+    {
+     "t": "li",
+     "text": "Lắp tên lửa mới vào ống hút và phóng nó lên."
+    },
+    {
+     "t": "li",
+     "text": "Hãy phóng thêm vài lần nữa. Nếu bạn đang đo khoảng cách bay của mỗi tên lửa, hãy dùng thước dây và ghi lại nó đã bay được bao xa."
+    },
+    {
+     "t": "h",
+     "text": "Chuyện gì đã xảy ra?"
+    },
+    {
+     "t": "p",
+     "text": "Hẳn là bạn đã thấy tên lửa không có vây lúc đầu bay thẳng nhưng rồi nhanh chóng xoay tròn mất kiểm soát. Nó có thể đã lộn nhào trong không khí rồi chao đảo rơi xuống đất, gần giống như một chiếc lá rơi từ trên cây. Đó là vì tên lửa không có vây để giữ nó ổn định. Nếu nó bắt đầu lệch hướng một chút, thì nó sẽ càng lệch nhanh hơn cho đến khi mất kiểm soát hoàn toàn. Ngược lại, tên lửa thứ hai có vây hẳn đã bay thẳng và bay xa hơn nhiều. Đó là vì các vây giúp giữ tên lửa ổn định, bay đúng theo một hướng. Nếu tên lửa lệch hướng một chút, các vây sẽ giúp đưa nó quay trở lại hướng ban đầu."
+    },
+    {
+     "t": "h",
+     "text": "Tìm hiểu sâu hơn"
+    },
+    {
+     "t": "p",
+     "text": "Mọi vật thể bay, từ tên lửa đến máy bay rồi đến các loài chim, đều có một điểm chung — chúng cần giữ được sự ổn định khi bay. Có thể em đã khá quen với khái niệm \"ổn định\" đối với các vật thể trên mặt đất. Em có từng dùng bánh phụ (training wheels) khi học đi xe đạp không? Bánh phụ giúp giữ cho xe đạp ổn định để em không bị ngã. Khái niệm này cũng áp dụng cho những vật bay trên không. Chúng cần giữ hướng bay thẳng về phía trước, không bị xoay tròn hay lộn nhào, vì điều đó có thể khiến chúng rơi."
+    },
+    {
+     "t": "p",
+     "text": "Có thể em đã từng để ý rằng tên lửa và hỏa tiễn thường có những cánh hình tam giác ở phần đế. Điều này cũng đúng với các vật thể dài, mỏng khác bay nhanh trong không khí, chẳng hạn như mũi tên. Trong dự án này, em đã tìm ra cách những cánh đuôi này giúp tên lửa bay thẳng. Các cánh đuôi giúp đảm bảo tâm áp lực của tên lửa (center of pressure - điểm mà lực cản không khí tương đương tác động vào) nằm phía sau tâm khối lượng của nó (center of mass - \"điểm giữa\" của tên lửa, hay điểm tương đương nơi toàn bộ khối lượng được xem là tập trung lại)."
+    },
+    {
+     "t": "h",
+     "text": "Tìm hiểu thêm"
+    },
+    {
+     "t": "li",
+     "text": "Hãy thử với số lượng cánh đuôi khác nhau. Ví dụ, điều gì sẽ xảy ra nếu em chỉ dùng hai cánh đuôi thay vì bốn?"
+    },
+    {
+     "t": "li",
+     "text": "Hãy thử với các hình dạng cánh đuôi khác nhau. Ví dụ, điều gì sẽ xảy ra nếu em làm cánh đuôi hình nửa vòng tròn thay vì hình tam giác?"
+    },
+    {
+     "t": "li",
+     "text": "Hãy thử gắn cánh đuôi vào những vị trí khác nhau dọc theo chiều dài tên lửa. Các cánh đuôi còn có tác dụng không nếu em đặt chúng ở giữa hoặc ở phần đầu tên lửa thay vì ở phía sau?"
+    }
+   ]
+  },
+  {
+   "id": "32110fc5e0f5",
+   "order": 19,
+   "slug": "nasa-khoi-dong-cuoc-thi-hoc-sinh-ve-he-thong-nang-luong-hat",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA khởi động cuộc thi học sinh về hệ thống năng lượng hạt nhân",
+   "sapo": "Cuộc thi Power to Explore Student Challenge của NASA đã khởi động vào thứ Ba, ngày 17 tháng 11. Cuộc thi về khoa học, kỹ thuật, công nghệ và toán học (STEM) này mời",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+   "published": "2026-11-17T22:02:48+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 796,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Launches Nuclear Power Systems Student Contest",
+   "images": [
+    {
+     "src": "img/2026-11-18/32110fc5e0f5-lead.jpg",
+     "caption": "",
+     "w": 1201,
+     "h": 676
+    },
+    {
+     "src": "img/2026-11-18/32110fc5e0f5-0.jpg",
+     "caption": "Một hình minh họa vui nhộn cho thấy Mặt Trăng với biểu tượng nguyên tử chồng lên, bên cạnh dòng chữ Power to Explore.",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-18/32110fc5e0f5-1.jpg",
+     "caption": "Thomas Lui, Rainie Lin và Aadya Karthik đứng trước khoang chỉ huy hình nón của tàu Apollo, mặc áo thun đen in chữ Power to Explore, tại Trung tâm Khách tham quan của NASA Glenn ở Great Lakes Science Center.",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cuộc thi Power to Explore Student Challenge của NASA đã khởi động vào thứ Ba, ngày 17 tháng 11. Cuộc thi về khoa học, kỹ thuật, công nghệ và toán học (STEM) này mời học sinh từ mẫu giáo đến lớp 12 tại Hoa Kỳ tìm hiểu về các hệ thống năng lượng hạt nhân trong không gian, và vẽ minh họa cách những \"cục pin\" hạt nhân này có thể giúp hiện thực hóa tầm nhìn khám phá Mặt Trăng của các em."
+    },
+    {
+     "t": "p",
+     "text": "Học sinh cũng được mời viết một bài luận ngắn về \"siêu năng lực\" riêng của mình. Hạn nộp bài là ngày 1 tháng 3 năm 2027."
+    },
+    {
+     "t": "p",
+     "text": "Mọi nhiệm vụ đều cần có nguồn năng lượng. Một số địa điểm thú vị nhất để nghiên cứu trên Mặt Trăng lại có điều kiện khắc nghiệt nhất. Năng lượng hạt nhân có thể duy trì sự sống của con người và giúp các nhà nghiên cứu khám phá môi trường giàu tài nguyên đó, dù phải đối mặt với nhiệt độ lạnh giá, những đêm dài và các miệng núi lửa sâu không bao giờ có ánh nắng chiếu tới."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi NASA trở lại Mặt Trăng và xây dựng một căn cứ nơi các nhà du hành sẽ sống, làm việc và khám phá, chúng ta cần xây dựng cơ sở hạ tầng để biến điều đó thành hiện thực. Năng lượng hạt nhân có thể giúp khám phá các vùng tối vĩnh viễn gần cực Nam của Mặt Trăng, mang theo các thiết bị khoa học cỡ lớn đi quãng đường xa, và giữ ấm cho các thiết bị suốt đêm dài trên Mặt Trăng,\" ông Carl Sandifer, quản lý chương trình của Bộ phận Lò phản ứng Vũ trụ (Space Reactors Division) tại trụ sở NASA ở Washington, cho biết. \"Cuộc thi Power to Explore Student Challenge của NASA chuẩn bị cho thế hệ nhà khám phá tiếp theo, giúp các em sử dụng sức mạnh đặc biệt của riêng mình để tưởng tượng ra một căn cứ Mặt Trăng chạy bằng năng lượng hạt nhân theo thiết kế của chính các em. Chúng tôi rất mong được xem các em sẽ nghĩ ra điều gì!\""
+    },
+    {
+     "t": "p",
+     "text": "Bài thi gồm một bài luận 200 từ và một bức tranh minh họa gốc. Bài luận nên mô tả một năng lực đặc biệt của học sinh có thể giúp ích cho nhiệm vụ này. Tranh minh họa nên thể hiện tầm nhìn của học sinh về một căn cứ Mặt Trăng chạy bằng năng lượng hạt nhân, hỗ trợ việc khám phá bề mặt Mặt Trăng bằng cả người và robot, sử dụng cả giải pháp năng lượng từ đồng vị phóng xạ (radioisotope) và từ phân hạch (fission), đồng thời cho thấy học sinh hiểu được những kiểu khám phá mà năng lượng hạt nhân có thể mang lại."
+    },
+    {
+     "t": "p",
+     "text": "Ban giám khảo sẽ xét bài thi theo ba nhóm lớp: từ mẫu giáo đến lớp 4, lớp 5 đến lớp 8, và lớp 9 đến lớp 12. Mỗi nhóm lớp sẽ có một người đoạt giải nhất, được nhận một chuyến đi cho hai người tới Trung tâm Nghiên cứu Glenn của NASA ở Cleveland để tìm hiểu về những con người và công nghệ giúp các nhiệm vụ của NASA trở thành hiện thực. Mọi học sinh nộp bài sẽ nhận được giấy chứng nhận điện tử và lời mời tham gia một sự kiện trực tuyến với các chuyên gia của NASA, nơi các em sẽ tìm hiểu điều gì đã thúc đẩy các nhân viên NASA thực hiện các nhiệm vụ của cơ quan và duy trì vị thế dẫn đầu của nước Mỹ trong không gian."
+    },
+    {
+     "t": "h",
+     "text": "Cần tìm giám khảo"
+    },
+    {
+     "t": "p",
+     "text": "NASA và tổ chức Future Engineers đang tìm kiếm tình nguyện viên để giúp đánh giá hàng ngàn bài thi dự kiến gửi về từ khắp cả nước. Cư dân Hoa Kỳ trên 18 tuổi, quan tâm đến việc tình nguyện dành khoảng ba giờ, nên đăng ký làm giám khảo trên trang web của Future Engineers."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc thi Power to Explore Student Challenge được Ban Giám đốc Nhiệm vụ Khoa học của NASA (NASA Science Mission Directorate) tài trợ, và được điều hành bởi Chương trình Hệ thống Năng lượng Đồng vị Phóng xạ (Radioisotope Power Systems Program) thuộc Ban Giám đốc Nhiệm vụ Nghiên cứu và Công nghệ. Future Engineers quản lý cuộc thi thông qua một hợp đồng với Trung tâm Xuất sắc về Đổi mới Hợp tác của NASA (NASA Center of Excellence for Collaborative Innovation), nằm trong Ban Giám đốc Nhiệm vụ Nghiên cứu và Công nghệ của cơ quan này."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về cuộc thi, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://www.nasa.gov/power-to-explore"
+    },
+    {
+     "t": "img",
+     "i": 2
+    }
+   ]
+  },
+  {
+   "id": "310b0bf5a829",
+   "order": 20,
+   "slug": "thu-thach-nasa-space-apps-lap-ky-luc-hackathon-toan-cau",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Thử thách NASA Space Apps lập kỷ lục hackathon toàn cầu",
+   "sapo": "Ngày 14 và 15 tháng 11, NASA đã tổ chức Thử thách Space Apps thường niên với số người đăng ký tham gia đạt kỷ lục 181.835 người, tham dự 593 sự kiện trên toàn thế giới.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+   "published": "2026-11-17T21:50:34+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 567,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+   "images": [
+    {
+     "src": "img/2026-11-18/310b0bf5a829-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-18/310b0bf5a829-0.jpg",
+     "caption": "Hai người tham gia Thử thách NASA Space Apps cùng nhau làm việc bên một chiếc bàn, tập trung vào màn hình máy tính xách tay trong một cuộc hackathon. Một người đặt tay gần bàn phím, người kia cúi xuống nhìn màn hình. Hình ảnh thể hiện tinh thần làm việc nhóm, giải quyết vấn đề và hợp tác kỹ thuật trong không khí sôi động của sự kiện, với những người tham dự khác mờ phía sau.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-18/310b0bf5a829-1.jpg",
+     "caption": "Bảy người tham gia và người tổ chức Thử thách NASA Space Apps đứng cùng nhau trên sân khấu trong một lễ trao giải tại thành phố New York. Một người cầm chiếc cúp nhỏ, cả nhóm đứng tạo dáng trước màn hình chiếu có biểu tượng Thử thách NASA Space Apps thành phố New York và dòng chữ \"Lễ trao giải\". Hình ảnh nêu bật tinh thần đồng đội và sự ghi nhận thành tích tại sự kiện hackathon này.",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 14 và 15 tháng 11, NASA đã tổ chức Thử thách Space Apps thường niên với số người đăng ký tham gia đạt kỷ lục 181.835 người, tham dự 593 sự kiện trên toàn thế giới. Cuộc hackathon thường niên này mời người tham gia sử dụng dữ liệu mở của NASA để giải quyết một trong 14 thử thách liên quan đến khám phá không gian hoặc khoa học Trái Đất. Năm nay, số người đăng ký tăng 59% và đây là năm thứ 5 liên tiếp số người tham gia tăng lên."
+    },
+    {
+     "t": "p",
+     "text": "Từ năm 2012, Thử thách NASA Space Apps đã tổ chức sự kiện kéo dài hai ngày này, thu hút hơn 600.000 người từ hơn 190 quốc gia tham gia. Thử thách này mang đến cơ hội trải nghiệm thực tế với khoa học của NASA, huy động một cộng đồng toàn cầu gồm các chuyên gia công nghệ và những người đam mê khoa học không gian để cùng trả lời những câu hỏi có ích cho nhân loại và thúc đẩy công cuộc khám phá."
+    },
+    {
+     "t": "p",
+     "text": "Người tham gia tham dự các sự kiện do các tình nguyện viên địa phương tổ chức, làm việc theo nhóm để giải quyết một trong các thử thách và nộp dự án trước hạn. Sau đó, các dự án sẽ được chấm điểm để chọn ra 10 người thắng cuộc toàn cầu, dự kiến công bố vào tháng Một."
+    },
+    {
+     "t": "p",
+     "text": "\"Thử thách Space Apps mời những người có nhiều kỹ năng khác nhau cùng sử dụng các bộ dữ liệu chuẩn vàng của NASA để giải quyết những thử thách thực tế mà chúng ta đang gặp phải trên Trái Đất và trong không gian,\" bà Amy Kaminski, trưởng bộ phận kết nối cộng đồng, Ban Giám đốc Nhiệm vụ Khoa học, trụ sở NASA tại Washington, cho biết. \"Chúng tôi rất vui mừng khi thấy hơn 180.000 người cùng giải quyết những thử thách này, giúp đẩy nhanh khả năng tìm ra giải pháp của chúng ta.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Các thử thách năm nay còn sử dụng dữ liệu từ 17 cơ quan vũ trụ quốc tế đối tác, tất cả đều là thành viên ký kết Hiệp định Artemis (Artemis Accord). Các cơ quan vũ trụ đối tác năm nay gồm: Văn phòng Quản lý Chương trình Vũ trụ Quốc gia Angola (GGPEN), Cơ quan Vũ trụ Bahrain, Cơ quan Vũ trụ Brazil (AEB), CSA (Cơ quan Vũ trụ Canada), ESA (Cơ quan Vũ trụ châu Âu), ISRO (Tổ chức Nghiên cứu Vũ trụ Ấn Độ), Cơ quan Vũ trụ Ý, JAXA (Cơ quan Khám phá Hàng không Vũ trụ Nhật Bản), KASA (Cơ quan Hàng không Vũ trụ Hàn Quốc), Trung tâm Vũ trụ Mohammed Bin Rashid của Các Tiểu vương quốc Ả Rập Thống nhất, Ủy ban Hoạt động Vũ trụ Quốc gia Argentina (CONAE), Cơ quan Nghiên cứu và Phát triển Vũ trụ Quốc gia Nigeria, Cơ quan Vũ trụ Paraguay, Cơ quan Nghiên cứu Vũ trụ Senegal, Cơ quan Vũ trụ Tây Ban Nha, Cơ quan Vũ trụ Thổ Nhĩ Kỳ và Cơ quan Vũ trụ Anh. Ba cơ quan là GGPEN, AEB và CONAE còn trực tiếp biên soạn thử thách năm nay."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm hiểu thêm về Thử thách Space Apps của NASA, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "spaceappschallenge.org"
+    },
+    {
+     "t": "p",
+     "text": "Karen Fox / Jessica Hall"
+    },
+    {
+     "t": "p",
+     "text": "Trụ sở NASA, Washington"
+    },
+    {
+     "t": "p",
+     "text": "karen.c.fox@nasa.gov / jessica.hall@nasa.gov"
+    }
+   ]
+  }
+ ]
+}
