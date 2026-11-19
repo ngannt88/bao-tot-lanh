@@ -1,0 +1,3356 @@
+{
+ "date": "2026-11-19",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-19T07:30:04+07:00",
+ "sections": [
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  }
+ ],
+ "articles": [
+  {
+   "id": "d51ad74f3b55",
+   "order": 1,
+   "slug": "khach-viet-ngo-ngang-canh-nhu-tuong-lai-tai-thanh-pho-dang-c",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Khách Việt ngỡ ngàng cảnh 'như tương lai' tại thành phố đăng cai APEC",
+   "sapo": "Sau chuyến tàu cao tốc kéo dài 3,5 tiếng, Thanh Đan lần đầu đặt chân đến Thâm Quyến. Thủ phủ công nghệ gây ấn tượng với những tòa nhà chọc trời, xe buýt tự lái và trung tâm robot.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/khach-viet-ngo-ngang-canh-nhu-tuong-lai-tai-thanh-pho-dang-cai-apec-post1697219.html",
+   "published": "2026-11-18T03:58:51+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1608,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-0.jpg",
+     "caption": "",
+     "w": 960,
+     "h": 673
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-1.jpg",
+     "caption": "Thâm Quyến,  Trung Quốc ảnh 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-2.jpg",
+     "caption": "Thâm Quyến,  Trung Quốc ảnh 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-3.jpg",
+     "caption": "Thâm Quyến,  Trung Quốc ảnh 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-4.jpg",
+     "caption": "Thâm Quyến,  Trung Quốc ảnh 4",
+     "w": 1280,
+     "h": 1016
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-5.jpg",
+     "caption": "Thâm Quyến,  Trung Quốc ảnh 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/d51ad74f3b55-6.jpg",
+     "caption": "Thâm Quyến,  Trung Quốc ảnh 7",
+     "w": 1280,
+     "h": 1919
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sau chuyến tàu cao tốc kéo dài 3,5 tiếng, Thanh Đan lần đầu đặt chân đến Thâm Quyến. Thủ phủ công nghệ gây ấn tượng với những tòa nhà chọc trời, xe buýt tự lái và trung tâm robot."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khách Việt khám phá trung tâm robot ở Thâm Quyến, tỉnh Quảng Đông, Trung Quốc. Ảnh: Việt Linh ."
+    },
+    {
+     "t": "p",
+     "text": "Thanh Đan, 28 tuổi, ở Hà Nội, có chuyến du lịch Trung Quốc kéo dài một tuần. Trên hành trình từ Nam Ninh (Quảng Tây) đến Thâm Quyến (Quảng Đông), cô lần đầu trải nghiệm tàu cao tốc, với thời gian di chuyển khoảng 3 tiếng 30 phút. Giá vé dao động 325-400 nhân dân tệ (khoảng 1,2-1,5 triệu đồng), tùy hạng ghế và giờ khởi hành."
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường sắt cao tốc Nam Ninh - Thâm Quyến dài 661 km, có tốc độ khai thác tối đa 350 km/h. Trước đây, hành trình giữa 2 thành phố mất khoảng 6 tiếng."
+    },
+    {
+     "t": "p",
+     "text": "\"Đến Thâm Quyến, vừa bước chân khỏi nhà ga, tôi choáng ngợp trước sự đồ sộ của thành phố được mệnh danh là 'thủ phủ công nghệ', nổi bật với những tòa nhà chọc trời\", Thanh Đan kể với Tri Thức - Znews."
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến đi, nữ du khách lần đầu ngồi thử xe buýt tự lái, khám phá trung tâm robot thế hệ mới, chiêm ngưỡng bảo tàng của tương lai. Những trải nghiệm này giúp cô hình dung rõ hơn cách công nghệ hiện diện trong sinh hoạt thường ngày của người dân Thâm Quyến."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bên trong nhà ga \"rộng như sân bay\" của đường sắt cao tốc Nam Ninh, tỉnh Quảng Tây, Trung Quốc. Ảnh: Thanh Đan."
+    },
+    {
+     "t": "h",
+     "text": "Thâm Quyến có gì?"
+    },
+    {
+     "t": "p",
+     "text": "Thâm Quyến thu hút sự chú ý của quốc tế khi đăng cai Tuần lễ Cấp cao APEC lần thứ 33 trong hai ngày 18-19/11. Thành phố thuộc tỉnh Quảng Đông được xem là một trong những trung tâm đổi mới sáng tạo hàng đầu Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Với khách du lịch, sức hấp dẫn của Thâm Quyến không chỉ nằm ở những tòa nhà chọc trời hay các khu công nghệ. Thành phố còn có phố cổ, làng nghệ thuật, công viên chủ đề và những bãi biển trải dài, mang đến nhiều lựa chọn cho du khách muốn khám phá văn hóa, thiên nhiên và đời sống địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Theo cẩm nang du lịch của chính quyền thành phố, Thâm Quyến có hơn 1.300 công viên, hơn 260 km đường bờ biển và trên 50 hòn đảo. Du khách được gợi ý lịch trình 3 ngày 2 đêm để khám phá những điểm nổi bật của nơi đây."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Quang cảnh đường phố tại Thâm Quyến, tỉnh Quảng Đông, Trung Quốc. Ảnh: Thanh Đan."
+    },
+    {
+     "t": "p",
+     "text": "Ngày đầu tiên , du khách có thể bắt đầu từ Nam Đầu cổ thành, nơi lưu giữ dấu tích lịch sử với những con phố nhỏ, cửa hàng sáng tạo và kiến trúc cũ. Gần đó, khu thương mại Vạn Tượng Thiên Địa là điểm dừng chân phù hợp để mua sắm, ăn uống và chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Tại công viên vịnh Thâm Quyến, du khách có thể tản bộ, ngắm cảnh ven biển trước khi đến Sea World vào buổi tối. Khu vui chơi này nổi tiếng với tàu Minh Hoa cùng nhiều hoạt động văn hóa, giải trí về đêm."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thứ hai kết hợp khám phá các khu phố, công viên và bãi biển. Phố Đông Môn là điểm đến dành cho những người thích mua sắm, khám phá ẩm thực đường phố. Trong khi đó, phố Trung Anh mang đến trải nghiệm tham quan khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Những người yêu thích công nghệ có thể dành thời gian ghé Hoa Cường Bắc, khu vực nổi tiếng với các cửa hàng thiết bị, linh kiện điện tử và sản phẩm công nghệ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Du khách chụp ảnh một máy bay không người lái giao hàng của Meituan tại Thâm Quyến, Quảng Đông, Trung Quốc, ngày 20/10/2026. Ảnh: Tingshu Wang/Reuters."
+    },
+    {
+     "t": "p",
+     "text": "Ngày cuối cùng dành cho bán đảo Đại Bằng ở phía Đông thành phố, nơi tập trung nhiều điểm tham quan gắn với lịch sử và cảnh quan biển. Thành cổ Đại Bằng lưu giữ dấu tích của hệ thống phòng thủ ven biển từ thời Minh. Gần đó, làng ven biển Giao Trường Vĩ có những con ngõ nhỏ, nhà nghỉ sát biển và bãi tắm."
+    },
+    {
+     "t": "p",
+     "text": "\"Hệ thống tàu điện ngầm kết nối phần lớn điểm tham quan trong nội đô, giúp du khách thuận tiện di chuyển giữa các khu vực. Một số điểm tham quan yêu cầu đặt vé trước khoảng một ngày, do đó du khách nên kiểm tra thông tin và đăng ký trước khi khởi hành\", Thanh Đan nói."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Đường phố Thâm Quyến, Trung Quốc, dịp cuối năm 2025. Ảnh: Việt Linh."
+    },
+    {
+     "t": "h",
+     "text": "Làn sóng du lịch Việt - Trung"
+    },
+    {
+     "t": "p",
+     "text": "Thâm Quyến có thêm cơ hội tiếp cận thị trường khách Việt khi một hãng hàng không khai trương đường bay thẳng Hà Nội - Thâm Quyến ngày 14/11, với tần suất một chuyến mỗi ngày và thời gian bay khoảng 1 tiếng 50 phút."
+    },
+    {
+     "t": "p",
+     "text": "Đây là đường bay thứ 2 của hãng kết nối Việt Nam với thành phố thuộc tỉnh Quảng Đông, sau tuyến TP.HCM - Thâm Quyến được khai thác từ tháng 8. Đường bay mới mở thêm lựa chọn cho khách du lịch, doanh nhân và những người có nhu cầu giao thương giữa hai nước."
+    },
+    {
+     "t": "p",
+     "text": "Chiều ngược lại, các hãng hàng không Trung Quốc cũng tăng chuyến đến Việt Nam. Từ ngày 16/11, Air China nâng tần suất đường bay Bắc Kinh - TP.HCM từ 4 lên 7 chuyến mỗi tuần. Tổng số chuyến bay hàng tuần của hãng giữa hai nước tăng lên 40."
+    },
+    {
+     "t": "p",
+     "text": "Mạng lưới hàng không được mở rộng trong bối cảnh trao đổi khách du lịch Việt Nam - Trung Quốc tiếp tục tăng. Trong 10 tháng của năm 2026, Việt Nam đón 19,5 triệu lượt khách quốc tế, tăng 13,8% so với cùng kỳ năm trước. Riêng thị trường Trung Quốc đạt hơn 4,3 triệu lượt, chiếm khoảng 22,6% tổng lượng khách quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Sức hút của Việt Nam đối với du khách Trung Quốc cũng thể hiện qua nhu cầu tìm kiếm dịch vụ du lịch. Dữ liệu từ nền tảng du lịch trực tuyến Agoda cho thấy lượng tìm kiếm chỗ lưu trú tại Việt Nam của khách Trung Quốc trong những tháng đầu năm tăng 164% so với cùng kỳ năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Cục Du lịch Quốc gia Việt Nam nhận định sức hấp dẫn của du lịch Việt Nam đến từ cảnh quan thiên nhiên đa dạng, nền văn hóa giàu bản sắc, ẩm thực phong phú cùng môi trường du lịch an toàn, thân thiện. Đây là những lợi thế để 2 nước tiếp tục mở rộng hợp tác, tăng cường trao đổi khách và phát triển sản phẩm phù hợp với nhu cầu của du khách mỗi bên."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ đón lượng lớn khách Trung Quốc, Việt Nam cũng ngày càng trở thành thị trường gửi khách quan trọng của Trung Quốc. Theo Cục Quản lý Di dân Quốc gia Trung Quốc, trong 6 tháng đầu năm, Việt Nam đứng thứ 4 trong danh sách 10 thị trường khách quốc tế lớn nhất của nước này, vượt một số thị trường truyền thống như Mỹ, Nhật Bản và Australia. Đến quý III, Việt Nam vươn lên vị trí thứ 3, sau Nga và Hàn Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Các điểm đến Trung Quốc được khách Việt quan tâm khá đa dạng, từ những tuyến quen thuộc như Bắc Kinh, Thượng Hải, Hàng Châu, Tô Châu, Quế Lâm, Lệ Giang đến Trương Gia Giới, Phượng Hoàng cổ trấn. Nhu cầu cũng mở rộng sang những địa phương như Tân Cương, Tây Tạng, Quý Châu, Trùng Khánh và Sơn Tây."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Khách Việt chờ tàu cao tốc đi Thâm Quyến tại ga Nam Ninh, Quảng Tây, Trung Quốc. Ảnh: Việt Linh."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những yếu tố thúc đẩy nhu cầu đi lại là chính sách thị thực ngày càng thuận lợi. Từ ngày 20/8, Trung Quốc bổ sung Việt Nam vào chương trình quá cảnh miễn thị thực 240 giờ."
+    },
+    {
+     "t": "p",
+     "text": "Công dân Việt Nam mang hộ chiếu phổ thông có thể được áp dụng chính sách khi đáp ứng các điều kiện về vé liên chặng đến nước hoặc vùng lãnh thổ thứ 3, nhập cảnh qua cửa khẩu thuộc diện áp dụng và lưu trú trong khu vực được phép."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh tour theo đoàn, các chuyến tự túc, bán tự túc, nhóm nhỏ, tour gia đình và lịch trình thiết kế riêng được nhiều khách Việt quan tâm. Không ít du khách muốn dành nhiều thời gian khám phá sâu một địa phương, thay vì đi qua nhiều điểm đến trong thời gian ngắn."
+    },
+    {
+     "t": "p",
+     "text": "Trong Năm hợp tác du lịch Việt Nam - Trung Quốc 2026-2027, hai nước hướng đến tăng cường trao đổi khách, kết nối doanh nghiệp và phát triển các sản phẩm du lịch chung, trong đó có du lịch đường sắt, du lịch biên giới, du lịch văn hóa và những hành trình dành cho giới trẻ."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Khách Việt du lịch Trung Quốc cuối năm 2025. Ảnh: Việt Linh."
+    },
+    {
+     "t": "p",
+     "text": "Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân đến Thâm Quyến dự Tuần lễ cấp cao Diễn đàn Hợp tác kinh tế châu Á - Thái Bình Dương (APEC) lần thứ 33 và làm việc song phương ở Trung Quốc ngày 17-20/11, theo lời mời của Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình, theo TTXVN ."
+    }
+   ]
+  },
+  {
+   "id": "261340212d61",
+   "order": 2,
+   "slug": "le-hoi-thiet-ke-sang-tao-ha-noi-2026-khi-nguoi-tre-viet-tiep",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Lễ hội thiết kế sáng tạo Hà Nội 2026: Khi người trẻ viết tiếp câu chuyện di sản làng nghề",
+   "sapo": "Không chỉ ngưỡng mộ vẻ đẹp của sản phẩm thủ công, nhiều người trẻ Gen Z đang chủ động đến các làng nghề, học hỏi kỹ thuật từ nghệ nhân và thử nghiệm cách làm mới. Qua cuộc thi “Theo bước di sản cộng đồng 2026”, tình yêu với nghề truyền thống đang được chu",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/le-hoi-thiet-ke-sang-tao-ha-noi-2026-khi-nguoi-tre-viet-tiep-cau-chuyen-di-san-lang-nghe-1766488.html",
+   "published": "2026-11-18T05:06:18+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 2215,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/261340212d61-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-0.jpg",
+     "caption": "Lương Minh Thư và tác phẩm Nhất Tâm. Ảnh: Nhân vật cung cấp.",
+     "w": 1280,
+     "h": 1337
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-1.jpg",
+     "caption": "Tác phẩm Sonmai Lamp của Đào Sơn Lâm. Ảnh: Quỳnh Dương.",
+     "w": 1280,
+     "h": 956
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-2.jpg",
+     "caption": "Tác phẩm Nếp Ruộng (trái) của Hoàng Hải Triều. Ảnh: Quỳnh Dương.",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-3.jpg",
+     "caption": "Hoàng Phương Nga và tác phẩm Ghế đôn Hợp. Ảnh: Nhân vật cung cấp.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-4.jpg",
+     "caption": "Tác phẩm Lớp áo di sản của Nguyễn Thị Thùy Linh. Ảnh: Quỳnh Dương.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-5.jpg",
+     "caption": "Ban Tổ chức và 9 tác giả có sản phẩm xuất sắc nhất tại cuộc thi. Ảnh: BTC.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-6.jpg",
+     "caption": "Bộ sản phẩm MONGEAR của Trần Thị Tố Uyên. Ảnh: Quỳnh Dương",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-7.jpg",
+     "caption": "Tác phẩm Giọt gốm của Đào Sơn Tùng. Ảnh: BTC.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-8.jpg",
+     "caption": "Tác phẩm Mài Hạ Thái của Nguyễn Khánh Linh. Ảnh: Quỳnh Dương.",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/261340212d61-9.jpg",
+     "caption": "Tác phẩm Sắc mạch của Nguyễn Tấn Lộc. Ảnh: Quỳnh Dương.",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong khuôn khổ Lễ hội Thiết kế sáng tạo Hà Nội 2026, đến với Hội quán Phúc Kiến, số 40 Lãn Ông, khách tham quan sẽ được chiêm ngưỡng 9 tác phẩm sáng tạo xuất sắc nhất của những thí sinh trẻ tuổi tham gia cuộc thi “Theo bước di sản cộng đồng 2026”. Đây là sân chơi để người làm sáng tạo tiếp xúc, đối thoại với những giá trị thủ công truyền thống và tạo ra nhiều sản phẩm mới bằng những góc nhìn độc đáo."
+    },
+    {
+     "t": "p",
+     "text": "Thổi sức sống mới vào di sản thủ công truyền thống"
+    },
+    {
+     "t": "p",
+     "text": "Có những niềm đam mê bắt đầu từ một câu chuyện rất đỗi tình cờ, nhưng lại mở ra hành trình khám phá và gắn bó lâu dài. Với Lương Minh Thư, sinh viên ngành thiết kế nội thất vừa tốt nghiệp Trường đại học Kiến trúc Hà Nội, đó là những lần đi thăm Bát Tràng và nhìn thấy bàn chuốt gốm. Ấn tượng với nguyên lý chuyển động quanh một trục hướng tâm, Thư nảy ra ý tưởng phát triển một sản phẩm gốm có thể biến đổi công năng từ chính cấu trúc ấy."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ sau khi giành giải nhất ở Bảng gốm Bát Tràng, Thư cho biết, em không sinh ra ở Bát Tràng, cũng không lớn lên trong một gia đình làm nghề gốm. Cô gái quê Hải Phòng đến với cuộc thi này từ sự yêu thích vẻ đẹp chất liệu thủ công truyền thống và mong muốn gốm có thể hiện diện ở nhiều không gian hơn, có nhiều mục đích sử dụng hơn. Tác phẩm có tên gọi Nhất Tâm vì thế được hình thành, biến điểm tâm của bàn xoay gốm thành ý niệm kết nối, nơi ba bộ phận cùng quy tụ và nâng đỡ lẫn nhau. Sản phẩm gồm 3 bộ phận: Đế đỡ rỗng, đĩa cắm hoa và chông cắm hoa. Khi kết hợp, chúng tạo thành một bộ cắm hoa mang tinh thần Ikebana (nghệ thuật cắm hoa Nhật Bản). Khi tách rời, chúng tiếp tục mở ra những cách sử dụng khác nhau: Đế đỡ có thể trở thành khay hoặc đĩa đựng đồ; đĩa có thể dùng để chứa những vật dụng nhỏ hoặc làm vật phẩm trang trí; chông cắm hoa có thể kết hợp với những vật chứa khác để tạo nên cách sắp đặt mới."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về tác phẩm Nhất Tâm, Lương Minh Thư cho biết: “Thực ra, Nhất Tâm đã có trong ý niệm của em từ lâu, sau một số lần đi thăm làng nghề Bát Tràng. Cuộc thi “Theo bước di sản cộng đồng 2026” đã trao cho em cơ hội để biến ý tưởng mình ấp ủ từ trước được bước ra khỏi bản vẽ, trở thành sản phẩm hiện hữu”."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nếu Nhất Tâm bắt đầu từ chuyển động của bàn xoay gốm, thì tác phẩm đoạt giải Nhất bảng sơn mài Hạ Thái có tên gọi Sonmai Lamp (đèn ngủ) của Đào Sơn Lâm, sinh viên vừa tốt nghiệp trường Đại học Xây dựng, lại được khơi nguồn từ tình yêu dành cho vẻ đẹp của chất liệu này. Trong quá trình học tập và làm việc liên quan đến nghệ thuật, Lâm dần bị cuốn hút bởi chất liệu, màu sắc và cách phối hợp đầy biến hóa của sơn mài Hạ Thái. Chính vì vậy, em đã chọn sơn mài cho thiết kế đèn đem đến cuộc thi."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt của Sonmai Lamp nằm ở cấu trúc gồm khung đèn cố định và những tấm ốp sơn mài độc bản có thể tháo lắp, thay thế bằng nam châm. Người sử dụng có thể đổi diện mạo chiếc đèn mà không phải thay toàn bộ sản phẩm. Cách thiết kế này vừa tạo thêm lựa chọn cho người dùng, vừa gợi mở khả năng phát triển các tấm chao đèn như những sản phẩm thủ công riêng biệt, qua đó tạo thêm cơ hội để nghệ nhân làng nghề sơn mài tham gia vào quá trình sản xuất."
+    },
+    {
+     "t": "p",
+     "text": "Đào Sơn Lâm chia sẻ: “Tôi yêu thích vẻ đẹp của sơn mài Hạ Thái từ chất liệu, màu sắc và cách phối hợp hài hòa, độc đáo. Song quá trình chế tác đòi hỏi nhiều công đoạn, kỹ thuật cầu kỳ và thời gian hoàn thiện dài. Bởi vậy, việc phát triển sản phẩm trong khuôn khổ cuộc thi cũng đặt ra không ít thách thức”. Sau cuộc thi, Lâm mong muốn tiếp tục hoàn thiện Sonmai Lamp, đồng thời xây dựng một không gian kết nối những nghệ sĩ yêu thích sơn mài, nghệ nhân và những người đam mê chất liệu truyền thống này."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Chiếc ghế có tên Nếp Ruộng – một tác phẩm khác đoạt giải Nhất ở bảng Thủ công người Mông Chế Cu Nha của Hoàng Hải Triều, sinh viên năm thứ 3 Đại học Văn Lang – lại khơi nguồn từ hình ảnh ruộng bậc thang và văn hóa truyền thống của đồng bào dân tộc Mông. Những đường nét uốn lượn của khung ghế gợi liên tưởng đến địa hình tầng lớp của ruộng bậc thang, tạo nên tổng thể mềm mại nhưng vẫn chắc chắn. Điểm nhấn của sản phẩm là phần tựa lưng với các dải vải dệt hoa văn truyền thống, mang màu sắc và họa tiết đặc trưng của văn hóa bản địa. “Thông qua Nếp Ruộng, tôi mong muốn đưa hình ảnh di sản truyền thống vào thiết kế nội thất hiện đại theo cách gần gũi và dễ tiếp cận hơn. Sản phẩm không chỉ là một chiếc ghế phục vụ nhu cầu sử dụng hằng ngày mà còn là sự kết nối giữa vẻ đẹp của thiên nhiên, bàn tay người thợ và bản sắc văn hóa Việt Nam\", Hải Triều chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Cũng lựa chọn sơn mài, Hoàng Phương Nga, sinh viên năm cuối Đại học Mở, mang đến thiết kế Ghế đôn Hợp, tác phẩm nhận được nhiều bình chọn nhất trong cuộc thi. Ý tưởng của Nga bắt đầu từ chiếc ghế vỉa hè – vật dụng bình dị nhưng gắn với một không gian văn hóa cộng đồng quen thuộc của người Việt, nơi mọi người gặp gỡ bên cốc trà đá hay ly cà phê. Từ hình dáng chiếc ghế thân thuộc, nhà thiết kế trẻ phát triển sản phẩm kết hợp tạo hình hiện đại với nghệ thuật sơn mài truyền thống lên mặt ghế. Tên gọi Ghế đôn Hợp cũng hàm chứa tinh thần của thiết kế. “Hợp ở đây nghĩa là hợp nhất, kết hợp giữa truyền thống và hiện đại”, Nga lý giải. Đáng chú ý, em tính toán nhiều phương án bề mặt để người sử dụng có thể lựa chọn . Bên cạnh phiên bản sử dụng toàn bộ bề mặt sơn mài, sản phẩm có thể thay thể bằng mặt mây tre đan theo nhu cầu."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, triển lãm còn có tác phẩm Lớp áo di sản của Nguyễn Thị Thùy Linh, bộ sản phẩm MONGEAR của Trần Thị Tố Uyên, Sắc mạch của Nguyễn Tấn Lộc, Giọt gốm của Đào Sơn Tùng và Mài Hạ Thái của Nguyễn Khánh Linh."
+    },
+    {
+     "t": "p",
+     "text": "9 thiết kế, 9 cách tiếp cận khác nhau nhưng cùng đồng điệu ở mong muốn đưa nghề thủ công truyền thống ra khỏi phạm vi trưng bày, trở thành một phần của đời sống thường ngày. Qua góc nhìn của thế hệ trẻ, những giá trị truyền thống được trao thêm sức sống, nhưng vẫn giữ được tinh thần cốt lõi, đồng thời mở ra những hướng sáng tạo mới, để các giá trị văn hóa không chỉ được bảo tồn mà còn tiếp tục hiện diện và phát triển."
+    },
+    {
+     "t": "p",
+     "text": "Cầu nối giữa các thế hệ làm nghề"
+    },
+    {
+     "t": "p",
+     "text": "Có một tầng ý nghĩa khác sâu sắc hơn ở những tác phẩm được trưng bày, đó là chúng không chỉ tượng trưng cho sức sáng tạo và tinh thần đổi mới của của người trẻ, mà còn là thành quả của quá trình làm việc trực tiếp tại làng nghề cũng những tri thức tiếp thu được từ các nghệ nhân giàu kinh nghiệm. Tạo dựng sự kết nối ấy cũng là định hướng của cuộc thi “Theo bước di sản cộng đồng 2026”, do TUVA Communication tổ chức, dưới sự bảo trợ của Lễ hội Thiết kế Sáng tạo Hà Nội, sự hỗ trợ từ Hội đồng Anh tại Việt Nam, Trung tâm Nghiên cứu & Phát huy Giá trị Di sản Văn hóa (CCH) và Craft Link. Bởi đằng sau mỗi chất liệu, kỹ thuật hay sản phẩm truyền thống không chỉ là giá trị thẩm mỹ, mà còn là kinh nghiệm được tích lũy qua nhiều thế hệ, gắn với điều kiện sản xuất và đời sống của cộng đồng địa phương. Chỉ khi hiểu được những yếu tố ấy, người trẻ mới có thể tìm ra cách phát triển sản phẩm mà không làm mất đi bản sắc vốn có."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Sau vòng sơ khảo, các thí sinh được tổ chức đến thăm các làng nghề, gặp gỡ nghệ nhân, tìm hiểu đặc tính vật liệu, thực hành một số công đoạn chế tác và lắng nghe câu chuyện phía sau mỗi sản phẩm. Từ những trải nghiệm thực tế, ý tưởng ban đầu tiếp tục được điều chỉnh, phát triển với sự đồng hành của các nghệ nhân về chuyên môn. Đây cũng là giai đoạn các thiết kế được kiểm nghiệm về công năng, tính ứng dụng và khả năng tiếp cận thị trường. Thay vì chỉ đặt ra câu hỏi một sản phẩm có mới mẻ hay đẹp mắt hay không, người tham gia còn phải cân nhắc liệu ý tưởng ấy có phù hợp với đặc tính vật liệu, kỹ thuật của người thợ và điều kiện sản xuất thực tế hay không."
+    },
+    {
+     "t": "p",
+     "text": "Với Lương Minh Thư, quá trình hiện thực hóa Nhất Tâm là một hành trình thử nghiệm nhiều hơn những gì em hình dung ban đầu. Từ bản vẽ thiết kế đến sản phẩm hoàn thiện, em phải liên tục điều chỉnh để thích ứng với kỹ thuật chế tác gốm. Những biến đổi trong quá trình tạo hình và nung sản phẩm đôi khi khiến kết quả không hoàn toàn giống với ý tưởng ban đầu. Tuy nhiên, chính những lần thử nghiệm ấy lại giúp Thư nhận ra những khả năng khác của chất liệu và tìm được phương án phù hợp hơn. “Mình cũng phải làm đi làm lại rất nhiều lần thì mới ra được sản phẩm như bây giờ”, Thư chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Với Ghế đôn Hợp, Hoàng Phương Nga đảm nhiệm vai trò phát triển ý tưởng và thiết kế, trong khi nghệ nhân sơn mài Lã Văn Hùng trực tiếp đồng sáng tạo, thực hiện các lớp sơn trên sản phẩm. Qua quá trình làm việc, Nga có dịp tìm hiểu sâu hơn về kỹ thuật phủ sơn, mài và những yêu cầu khắt khe trong từng công đoạn."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Bà Phạm Minh Hồng, Quản lý Nghệ thuật tại Hội đồng Anh Việt Nam cho biết, chương trình hướng tới việc giúp người trẻ tiếp cận di sản ở chiều sâu hơn, thay vì chỉ dừng lại ở việc nhận diện hình ảnh, hoa văn hay chất liệu truyền thống. “Chúng tôi tin rằng khi người trẻ nhìn thấy tiềm năng sáng tạo trong di sản, còn nghệ nhân có thêm cơ hội đưa kỹ thuật của mình vào những sản phẩm mới, di sản sẽ có thêm con đường để tiếp tục hiện diện trong đời sống và tạo ra giá trị cho các thế hệ tiếp theo”, bà Phạm Minh Hồng chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ở góc độ kết nối cộng đồng, Thạc sĩ Trần Tuyết Lan, Tổng Giám đốc Craft Link nhấn mạnh ý nghĩa của quá trình học hỏi hai chiều giữa nghệ nhân và nhà thiết kế: “Điều đáng quý trong hành trình này là sự học hỏi hai chiều giữa người trẻ và nghệ nhân. Các bạn trẻ mang đến những ý tưởng mới, còn nghệ nhân giúp các bạn hiểu sâu hơn về chất liệu, kỹ thuật và những giá trị nằm sau mỗi sản phẩm. Khi hai bên thực sự cùng sáng tạo, chúng ta không chỉ có những thiết kế mới mà còn mở ra cơ hội để nghề truyền thống tiếp tục phát triển và tạo sinh kế cho cộng đồng” ."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ, ý nghĩa sâu sắc nhất của hành trình này là khuyến khích người trẻ viết tiếp câu chuyện của cha ông bằng chính tư duy sáng tạo và góc nhìn của thế hệ mình. Từ những giá trị được gìn giữ qua bao thế hệ, họ tìm thấy nguồn cảm hứng để tạo nên những sản phẩm mới, mang theo dấu ấn của quá khứ nhưng hướng đến tương lai. Để rồi, di sản không chỉ được lưu giữ như những ký ức đẹp, mà tiếp tục được tiếp nối, bồi đắp và kể lại bằng tiếng nói của thế hệ hôm nay."
+    },
+    {
+     "t": "p",
+     "text": "Các tác phẩm đoạt giải được trưng bày tại triển lãm:"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    }
+   ]
+  },
+  {
+   "id": "55ce2ac4c553",
+   "order": 3,
+   "slug": "la-thu-khen-hon-50-nam-bi-lang-quen-cua-nguyen-pho-giam-doc",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Lá thư khen hơn 50 năm bị lãng quên của nguyên Phó Giám đốc ĐH Quốc gia TPHCM",
+   "sapo": "Nguyễn Đức Nghĩa nhặt được 12.000 đồng và trả người mất giữa Sài Gòn năm 1975. Hơn 50 năm sau, lá thư khen năm ấy đưa nguyên Phó Giám đốc trở về ký ức xưa.",
+   "author": "Lê Huyền",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/la-thu-khen-hon-50-nam-bi-lang-quen-cua-nguyen-pho-giam-doc-dh-quoc-gia-tphcm-2576058.html",
+   "published": "2026-11-18T22:36:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1020,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/55ce2ac4c553-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-11-19/55ce2ac4c553-0.jpg",
+     "caption": "Lá thư khen của Hiệu trưởng Trường Trung học Pétrus Trương Vĩnh Ký dành cho học sinh Nguyễn Đức Nghĩa.",
+     "w": 1280,
+     "h": 1539
+    },
+    {
+     "src": "img/2026-11-19/55ce2ac4c553-1.jpg",
+     "caption": "TS Nguyễn Đức Nghĩa là nhà khoa học có nhiều đóng góp cho giáo dục đại học Việt Nam, đặc biệt trong công tác quản lý đào tạo và tuyển sinh. Ảnh: CĐ",
+     "w": 1280,
+     "h": 821
+    },
+    {
+     "src": "img/2026-11-19/55ce2ac4c553-2.jpg",
+     "caption": "Bức ảnh 15 năm trước hé lộ chuyện thú vị về 3 người bạn nay đều là giáo sư quốc tế",
+     "w": 1200,
+     "h": 813
+    },
+    {
+     "src": "img/2026-11-19/55ce2ac4c553-3.jpg",
+     "caption": "Phó Thủ tướng: Muốn có nền giáo dục chất lượng cao, trước hết phải có thầy giỏi",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/55ce2ac4c553-4.jpg",
+     "caption": "Từ đất vàng Hồ Con Rùa đến trụ sở nghìn tỷ được giao cho các trường đại học ở TPHCM",
+     "w": 1280,
+     "h": 823
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "12.000 đồng giữa những ngày Sài Gòn biến động"
+    },
+    {
+     "t": "p",
+     "text": "Ngày 11/4/1975, Nguyễn Đức Nghĩa, học sinh Trường Trung học Pétrus Trương Vĩnh Ký (nay là Trường THPT Chuyên Lê Hồng Phong , TPHCM) nhận được thư khen từ hiệu trưởng nhà trường."
+    },
+    {
+     "t": "p",
+     "text": "Nội dung bức thư ghi nhận việc làm của cậu học trò Nguyễn Đức Nghĩa, lớp 12B2, niên khóa 1974-1975. Ngày 11/4/1975, Nghĩa nhặt được một chiếc bao thư, bên trong có 12.000 đồng. Nghĩa đã đem toàn bộ số tiền gửi Văn phòng Tổng Giám thị để trả lại người đánh rơi là học sinh Vũ Đình Nam."
+    },
+    {
+     "t": "p",
+     "text": "Bức thư khen ngợi Nghĩa có đoạn: “Hành động của em xứng đáng được đề cao. Nhân danh hiệu trưởng, tôi có lời nhiệt liệt ngợi khen em. Nghĩa cử của em sẽ là một gương sáng cho toàn trường soi chung”."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hơn nửa thế kỷ sau, lá thư khen trên bất ngờ xuất hiện trên một trang mạng. Nhân vật Nguyễn Đức Nghĩa trong bức thư chính là Tiến sĩ Nguyễn Đức Nghĩa, nguyên Phó Giám đốc ĐH Quốc gia TPHCM ."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với VietNamNet , TS Nguyễn Đức Nghĩa cho biết khoảng 10 năm trước, trong một lần sắp xếp hồ sơ, giấy tờ cá nhân, ông tình cờ tìm thấy lá thư khen này. Khi đọc lại những dòng chữ đã cũ, ông mới nhớ ra sự việc xảy ra từ thời còn học lớp 12. Đó là một kỷ vật giúp ông nhớ lại những ngày Sài Gòn tháng 4/1975 và những năm tháng học trò dưới mái trường Petrus Ký."
+    },
+    {
+     "t": "p",
+     "text": "Ông vẫn nhớ thời điểm đó, gia đình chuẩn bị sẵn các vật dụng cần thiết để phòng tình huống bất trắc. Mẹ ông may cho mỗi người con một chiếc túi vải, bên trong có vài gói mì, một ít bánh kẹo, giấy khai sinh và một khoản tiền. Ông gọi đó là chiếc túi cứu sinh, bởi nếu chẳng may các thành viên trong gia đình thất lạc thì vẫn còn hy vọng tìm lại nhau."
+    },
+    {
+     "t": "p",
+     "text": "Nửa thế kỷ sau, khi kể lại câu chuyện, TS Nguyễn Đức Nghĩa vẫn nhớ 12.000 đồng khi ấy là một khoản tiền rất lớn so với số tiền cá nhân ông có."
+    },
+    {
+     "t": "p",
+     "text": "Ông không nhớ chính xác mình có bao nhiêu tiền, nhưng nhớ rõ suy nghĩ lúc nhặt được chiếc bao thư. “Lúc ấy chỉ nghĩ bạn ấy giống như mình, cần có một số tiền trong lúc biến động, nếu mất đi thì rủi có chuyện gì cũng không đối phó được”, ông kể."
+    },
+    {
+     "t": "p",
+     "text": "Trong hoàn cảnh ấy, khoản tiền 12.000 đồng không đơn thuần là tài sản của người đánh rơi mà đó có thể là số tiền cần thiết để một người xoay xở khi gặp biến cố. Vì vậy, khi nhặt được chiếc bao thư, cậu học trò Nguyễn Đức Nghĩa đã quyết định đem trả lại."
+    },
+    {
+     "t": "p",
+     "text": "“Bạn Vũ Đình Nam có lẽ là học sinh khá giả mới có thể mang theo số tiền lớn như thế. Chúng tôi không biết nhau. Sau khi trả lại tiền, chúng tôi cũng không gặp nhau thêm lần nào”, TS Nguyễn Đức Nghĩa kể."
+    },
+    {
+     "t": "p",
+     "text": "Theo ký ức của ông, học sinh Petrus Ký thời điểm đó phần lớn là con em những gia đình khá giả, chỉ có một bộ phận nhỏ học sinh có hoàn cảnh khó khăn nhưng học giỏi."
+    },
+    {
+     "t": "h",
+     "text": "Nhớ lại việc tử tế sau nửa thế kỷ"
+    },
+    {
+     "t": "p",
+     "text": "Hơn nửa thế kỷ trôi qua, TS Nguyễn Đức Nghĩa gần như đã quên câu chuyện của mình. Chỉ đến khi lục lại giấy tờ và nhìn thấy bức thư, ký ức mới dần trở về."
+    },
+    {
+     "t": "p",
+     "text": "Khi được hỏi về cảm xúc hiện tại sau nửa thế kỷ, ông chia sẻ: “Những việc này bé nhỏ thôi, chẳng có gì đáng kể để tự hào”."
+    },
+    {
+     "t": "p",
+     "text": "Với ông, việc nhặt được tiền rồi đem trả lại người mất đơn giản là điều nên làm. Khi ấy, ông không nghĩ mình vừa thực hiện một hành động đặc biệt, càng không thể hình dung rằng 50 năm sau, câu chuyện ấy lại được nhắc đến."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trường Trung học Pétrus Trương Vĩnh Ký, nay là Trường THPT chuyên Lê Hồng Phong (TPHCM), được xây dựng từ năm 1927 với tên gọi Collège Petrus Ký. Trường khai giảng năm học đầu tiên vào năm 1928."
+    },
+    {
+     "t": "p",
+     "text": "Pétrus Ký là nơi ghi dấu lịch sử đấu tranh của học sinh, thanh niên Sài Gòn. Một trong những cựu học sinh tiêu biểu là ông Trần Văn Ơn, người hy sinh ngày 9/1/1950 trong cuộc đấu tranh của học sinh, sinh viên Sài Gòn - Chợ Lớn. Sự hy sinh của ông trở thành dấu mốc để ngày 9/1 được chọn là Ngày truyền thống học sinh, sinh viên Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều nhân vật nổi tiếng trong các lĩnh vực khoa học, giáo dục, kiến trúc, âm nhạc và cách mạng cũng từng học tập tại đây, như kiến trúc sư Huỳnh Tấn Phát, GS, Viện sĩ Trần Đại Nghĩa, GS.TS, nhạc sĩ Trần Văn Khê..."
+    },
+    {
+     "t": "p",
+     "text": "Năm học 1976-1977, trường chính thức mang tên cố Tổng Bí thư Lê Hồng Phong. Đến năm học 1990-1991, trường được giao nhiệm vụ chuyên đào tạo học sinh giỏi cho TPHCM. Năm 1995, Thủ tướng Chính phủ giao trường trở thành trung tâm chất lượng cao của các tỉnh, thành phía Nam."
+    },
+    {
+     "t": "p",
+     "text": "Rời mái Trường Trương Vĩnh Ký, cậu học trò Nguyễn Đức Nghĩa tiếp tục con đường học tập, nghiên cứu khoa học và gắn bó với ngành giáo dục. Ông tốt nghiệp ngành Hóa học tại Đại học Tổng hợp Hà Nội năm 1982. Sau đó, ông tiếp tục học lên thạc sĩ và tiến sĩ ngành Hóa học tại Đại học Tổng hợp Quốc gia Moskva, Liên Xô cũ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1991, ông bắt đầu công tác tại ĐH Quốc gia TPHCM. Ông từng đảm nhiệm nhiều vị trí chuyên môn, quản lý như Trưởng Bộ môn Hóa lý, Trưởng khoa Hóa và sau đó giữ chức Phó Giám đốc ĐH Quốc gia TPHCM qua nhiều nhiệm kỳ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "ff86a19bc8e6",
+   "order": 4,
+   "slug": "3-co-giao-thay-nhau-don-be-gai-3-tuoi-mo-coi-me-den-truong-m",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "3 cô giáo thay nhau đón bé gái 3 tuổi mồ côi mẹ đến trường mỗi ngày",
+   "sapo": "Hơn một năm qua, ba cô giáo mầm non đã thay nhau đưa đón Linh Đan đến lớp bằng tình thương giản dị.",
+   "author": "Lê Dương",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/3-co-giao-thay-nhau-don-be-gai-mo-coi-me-den-truong-moi-ngay-2576417.html",
+   "published": "2026-11-18T11:21:56+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 753,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/ff86a19bc8e6-lead.jpg",
+     "caption": "",
+     "w": 956,
+     "h": 501
+    },
+    {
+     "src": "img/2026-11-19/ff86a19bc8e6-0.jpg",
+     "caption": "Các cô giáo đến đón Linh Đan đi học vào mỗi buổi sáng. Ảnh cắt từ video",
+     "w": 1280,
+     "h": 801
+    },
+    {
+     "src": "img/2026-11-19/ff86a19bc8e6-1.jpg",
+     "caption": "Cô Lê Thị Lệ trực tiếp đưa Linh Đan đến trường hơn một năm qua. Ảnh: NVCC",
+     "w": 956,
+     "h": 692
+    },
+    {
+     "src": "img/2026-11-19/ff86a19bc8e6-2.jpg",
+     "caption": "Lớp 3 tuổi tại Trường Mầm non Hóa Quỳ của Linh Đan. Ảnh: NVCC",
+     "w": 1280,
+     "h": 881
+    },
+    {
+     "src": "img/2026-11-19/ff86a19bc8e6-3.jpg",
+     "caption": "Tri ân dịp 20/11: Nguyên hiệu trưởng gửi gắm 7 điều mong ước",
+     "w": 1280,
+     "h": 871
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "XEM CLIP: (Clip NVCC)"
+    },
+    {
+     "t": "h",
+     "text": "Cô giáo thương học trò nhỏ thiếu vắng tình mẹ"
+    },
+    {
+     "t": "p",
+     "text": "6h30 mỗi sáng, bé Lê Ngọc Linh Đan (3 tuổi) mặc áo khoác, đeo chiếc cặp nhỏ, đứng trước cổng nhà ở thôn Hóa Quỳ 1, xã Hóa Quỳ (Thanh Hóa), ngóng chờ các cô giáo đi qua đón đến trường."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ cần thấy bóng dáng cô Lệ, cô Thương hoặc cô Chuyên xuất hiện, bé lại vui vẻ chạy ra, leo lên xe để đến lớp."
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh ấy được anh Lê Văn Thắng (40 tuổi), bố của Linh Đan, ghi lại và chia sẻ lên mạng xã hội ngày 10/11, nhận được sự quan tâm của nhiều người."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Thắng, Linh Đan mất mẹ khi mới hơn một tháng tuổi. Từ đó, cô bé lớn lên trong sự chăm sóc của bà nội đã 75 tuổi, trong khi bố thường xuyên phải đi làm xa."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm học 2025-2026, khi Linh Đan đủ 18 tháng tuổi, anh Thắng đưa con đến Trường Mầm non Hóa Quỳ. Bé học tại điểm trường lẻ Liên Hiệp, cách nhà hơn 2km."
+    },
+    {
+     "t": "p",
+     "text": "Do bà nội tuổi cao, không biết đi xe máy nên việc đưa đón cháu mỗi ngày gặp nhiều khó khăn. Ban đầu, bà phải nhờ phụ huynh trong xóm chở cháu đến lớp. Những hôm ở nhà, anh Thắng tranh thủ đưa con đi học."
+    },
+    {
+     "t": "p",
+     "text": "Biết hoàn cảnh của cô bé, cô Lê Thị Lệ (45 tuổi), giáo viên chủ nhiệm lớp nhà trẻ, chủ động ghé qua đón em mỗi sáng. Nhà cô nằm trên tuyến đường đi làm nên thuận tiện trong việc đưa Linh Đan đến trường."
+    },
+    {
+     "t": "p",
+     "text": "“Những ngày đầu, cô bé còn lạ lẫm, chưa chịu đi cùng cô. Có hôm bà nội phải bế cháu ngồi phía sau xe máy, cùng cô giáo đến lớp rồi lại nhờ phụ huynh khác chở về”, cô Lệ kể."
+    },
+    {
+     "t": "p",
+     "text": "Dần dần, Linh Đan quen với việc được cô đón. Mỗi sáng, cứ đến giờ đi học, bà lại đưa cháu ra trước cổng nhà chờ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ cô Lệ, những giáo viên cùng tuyến đường khi đi qua, thấy hai bà cháu đứng đợi cũng chủ động dừng xe đưa bé đến trường."
+    },
+    {
+     "t": "h",
+     "text": "Món quà giản dị từ các cô giáo"
+    },
+    {
+     "t": "p",
+     "text": "Sang năm học này, Linh Đan lên lớp 3 tuổi, học với cô Thương và cô Chuyên. Vì vậy, cả 3 cô giáo duy trì việc đưa đón em như trước. Không có lịch phân công cố định, ai đi ngang qua nhà bé trước thì đón trước. Buổi chiều, nếu thuận đường, các cô hoặc hàng xóm lại giúp đưa em về nhà."
+    },
+    {
+     "t": "p",
+     "text": "Cô Lệ kể, trên đường đến trường, Linh Đan thường ríu rít gọi tên cô rồi nhắc đi nhắc lại câu: “Cô ơi, chiều về bà”. Những lời nói ngây thơ ấy khiến các cô càng thương cô học trò nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Cô Nguyễn Thị Thu, Hiệu trưởng Trường Mầm non Hóa Quỳ, cho biết việc 3 giáo viên thay nhau đưa đón Linh Đan xuất phát từ tình cảm tự nhiên, không có sự phân công hay vận động nào từ nhà trường."
+    },
+    {
+     "t": "p",
+     "text": "\"Thương hoàn cảnh của cháu, các cô cứ thế giúp đỡ, lâu dần trở thành việc làm quen thuộc mỗi ngày”, cô Thu chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, khi trở về sau chuyến đi dài ngày, anh Thắng rất xúc động khi nhận ra con gái không còn chờ bố đưa đi học như trước mà cứ đến giờ lại tung tăng ra cổng, háo hức đợi các cô."
+    },
+    {
+     "t": "p",
+     "text": "Với anh, đó vừa là niềm vui, vừa là sự biết ơn. Những ngày chạy xe đường dài, anh luôn canh cánh nỗi lo con gái thiếu vắng tình mẹ, phải ở nhà với bà nội tuổi cao. Mỗi lần trở về, anh chỉ kịp đưa con đi chơi, ngủ cùng con một đêm rồi lại tiếp tục hành trình mưu sinh."
+    },
+    {
+     "t": "p",
+     "text": "“Từ khi các cô hỗ trợ đưa đón con đi học, tôi yên tâm hơn hẳn khi chạy xe đường dài. Gia đình rất biết ơn sự nhiệt tình của các cô”, anh Thắng chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Thu, với các cô giáo ở điểm trường lẻ Liên Hiệp, việc dừng xe đón một học trò trên đường đến lớp có lẽ chỉ là hành động nhỏ. Nhưng với Linh Đan, những chuyến xe mỗi sáng không chỉ giúp em đến trường thuận lợi hơn mà còn mang theo sự chở che, yêu thương của các cô giáo."
+    },
+    {
+     "t": "img",
+     "i": 4
+    }
+   ]
+  },
+  {
+   "id": "a665fd3049b5",
+   "order": 5,
+   "slug": "chuyen-thay-co-9x-hai-sim-gay-quy-gieo-tieng-viet-noi-doc-nu",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Chuyện thầy cô 9x hái sim gây quỹ, gieo tiếng Việt nơi dốc núi",
+   "sapo": "TPO - Cùng là những người con của đồng bào thiểu số lớn lên trong gian khó, thầy La Văn Du (dân tộc Tày) và cô Lỷ Móc Làu (dân tộc Sán Chỉ) đã trở về chính quê hương mình để cắm bản gieo chữ, thắp sáng tri thức và ước mơ cho nhiều thế hệ học trò.",
+   "author": "Xuân Tùng",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/chuyen-thay-co-9x-hai-sim-gay-quy-gieo-tieng-viet-noi-doc-nui-post1895467.tpo",
+   "published": "2026-11-18T08:35:55+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1528,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/a665fd3049b5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-19/a665fd3049b5-0.jpg",
+     "caption": "Thầy La Văn Du hướng dẫn học sinh bán trú gấp xếp chăn sau giờ ngủ trưa. Ảnh: NVCC",
+     "w": 1280,
+     "h": 768
+    },
+    {
+     "src": "img/2026-11-19/a665fd3049b5-1.jpg",
+     "caption": "Thầy Du thăm hỏi, trao tiền vận động được cho em Triệu Quốc Hoàn. Ảnh: NVCC",
+     "w": 464,
+     "h": 385
+    },
+    {
+     "src": "img/2026-11-19/a665fd3049b5-2.jpg",
+     "caption": "Cô Lỷ Móc Làu có nhiều sáng kiến giúp học sinh phát triển khả năng nghe, nói tiếng Việt. Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/a665fd3049b5-3.jpg",
+     "caption": "Cô Lỷ Móc Làu được tuyên dương trong chương trình Chia sẻ cùng thầy cô năm 2026.",
+     "w": 1280,
+     "h": 852
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Con đường dẫn vào xã vùng cao Nghĩa Tá (tỉnh Thái Nguyên) những ngày mưa phùn trơn như đổ mỡ. Dưới chân những con dốc dựng đứng, bóng dáng thầy giáo La Văn Du thoăn thoắt bước đi đã trở nên quen thuộc suốt nhiều năm qua. Ở một góc trời biên cương khác, tại xã Hải Sơn (tỉnh Quảng Ninh) – nơi có đến hơn 91% là đồng bào Dao, Sán Chỉ sinh sống, cô giáo Lỷ Móc Làu miệt mài nắn nót từng âm vần đầu đời cho những đứa trẻ mầm non còn bẽn lẽn."
+    },
+    {
+     "t": "p",
+     "text": "Họ cùng sinh năm 1990, cùng sinh ra từ bản làng, nơi những mái nhà thưa thớt giữa núi rừng. Tuổi thơ của thầy Du là những chuỗi ngày cuốc bộ trên những con dốc đá lởm chởm, còn tuổi thơ của cô Làu là mái ấm nghèo đông anh chị em nơi dải đất biên viễn thiếu thốn đủ bề."
+    },
+    {
+     "t": "p",
+     "text": "Những khó khăn ấy đã hun đúc nghị lực vượt khó và tình yêu tri thức, thôi thúc họ trở thành giáo viên mang con chữ về bản ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Học sinh của họ phần lớn là con em đồng bào dân tộc thiểu số. Nhà các em nằm sâu trong những bản làng, thưa thớt dưới chân đồi. Có em mỗi ngày phải vượt qua những con đường quanh co, dốc núi để đến trường. Những ngày trời mưa, đường đất trở nên trơn trượt; những ngày mùa đông giá lạnh, các em vẫn khoác chiếc áo mỏng manh, mang theo quyển vở nhỏ đến lớp."
+    },
+    {
+     "t": "q",
+     "text": "“Nhìn các em, tôi như thấy chính tuổi thơ của mình. Vì thế tôi luôn tự nhủ, giáo viên ở vùng cao không chỉ dạy học sinh những con chữ, mà còn phải là người thấu hiểu, sẻ chia và đồng hành với các em trên hành trình trưởng thành”, thầy Du bộc bạch."
+    },
+    {
+     "t": "h",
+     "text": "Những quả sim tím gom thành sách, áo"
+    },
+    {
+     "t": "p",
+     "text": "Mười năm trong nghề giáo là chừng ấy năm thầy La Văn Du gắn bó với những điểm trường khó khăn. Ký ức của thầy là những bữa trưa chia nhau từng gói mì tôm sống cùng học trò; những ngày cùng phụ huynh vào rừng chặt nứa, dựng lán tạm làm chỗ ở bán trú cho các em; và mùa hái sim tím gây quỹ học trò."
+    },
+    {
+     "t": "p",
+     "text": "Ngày còn công tác tại Trường Tiểu học Cốc Đán (huyện Ngân Sơn cũ), nhìn nhiều học trò đói ăn, thiếu sách vở, thầy Du đã nảy ra sáng kiến gây quỹ. Mỗi buổi chiều sau giờ tan học, thầy trò lại rủ nhau lên sườn đồi hái quả sim rừng mang ra chợ bán. Từng đồng tiền lẻ tích cóp từ những quả sim tím mọng nơi bìa rừng đã trở thành manh áo ấm, tập vở mới trao tận tay trò nghèo."
+    },
+    {
+     "t": "p",
+     "text": "“Với nhiều người, đó chỉ là những quả sim nhỏ bé, nhưng với tôi, đó là một bài học lớn. Tôi đã nhìn thấy trong đôi bàn tay nhỏ bé của học trò sự sẻ chia; nhìn thấy những em học sinh dù cuộc sống của chính mình còn nhiều khó khăn nhưng vẫn sẵn sàng cùng thầy cô giúp đỡ những bạn có hoàn cảnh khó khăn hơn”, thầy Du nói."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2021 khi chuyển công tác về trường Tiểu học và THCS Nghĩa Tá tại quê hương, thầy Du vẫn tiếp tục hành trình truyền dạy kiến thức và tìm kiếm nguồn lực để hỗ trợ học sinh có hoàn cảnh khó khăn. “Tôi luôn nghĩ rằng, nếu có thể làm được một điều gì đó, dù rất nhỏ thôi, để giúp các em có thêm một bữa cơm, một chiếc áo ấm, một quyển sách hay đơn giản có thêm động lực để tiếp tục đến trường, thì cũng đã là một niềm hạnh phúc lớn đối với tôi”, thầy Du nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Và trong hành trình ấy có câu chuyện xúc động về Triệu Quốc Hoàn - cậu học trò người Dao nhỏ bé, gầy gò, nước da xanh xao ở Trường TH&THCS Nghĩa Tá."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2024, Hoan liên tục bỏ học. Cứ mỗi lần thấy bóng dáng thầy cô bước vào bản, cậu bé gầy gò, xanh xao lại hốt hoảng chạy trốn biệt tăm vào rừng sâu. Có hôm trời mưa phùn, thầy Du lặn lội hơn 7 cây số vào tận nhà tìm, thấy Hoàn đang co ro nấp sau tảng đá bên khe suối cạnh mấy con vịt."
+    },
+    {
+     "t": "p",
+     "text": "Tìm hiểu ngọn nguồn, người thầy chết lặng khi nghe lời thú nhận ngây ngô: “Em đi học em bị mệt… em không muốn đi”. Cậu bé không sợ trường, sợ lớp, mà sợ cơ thể không còn sức lực, những lúc không thể thở được. Đi khám, bác sĩ kết luận Hoàn bị tim bẩm sinh nặng."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với nhà trường, thầy Du động viên gia đình đưa Hoàn đi khám và chữa bệnh. Thầy Du cũng tích cực kêu gọi sự hỗ trợ từ cộng đồng, các mạnh thường quân, để Hoàn có thêm cơ hội được chữa bệnh và tiếp tục sống khoẻ mạnh. Những điều tốt đẹp đã đến, những tấm lòng nhân ái từ cộng đồng đã chung tay đưa Hoàn xuống Hà Nội phẫu thuật thành công."
+    },
+    {
+     "t": "q",
+     "text": "“Đôi khi trong cuộc đời của một người giáo viên, điều hạnh phúc nhất không phải là những gì mình đã làm được cho bản thân, mà chính là được nhìn thấy học trò của mình khỏe mạnh hơn, hạnh phúc hơn và có thêm cơ hội để tiếp tục sống, tiếp tục học tập và tiếp tục thực hiện những ước mơ của tuổi thơ”, thầy Du nói."
+    },
+    {
+     "t": "h",
+     "text": "Chắp cánh tiếng Việt cho trẻ vùng biên"
+    },
+    {
+     "t": "p",
+     "text": "Đến với dải đất biên giới Hải Sơn (Quảng Ninh), cô giáo Lỷ Móc Làu mang đến hành trình về sự tỉ mỉ, kiên trì và ngọn lửa xung kích của thủ lĩnh phong trào ."
+    },
+    {
+     "t": "p",
+     "text": "Hải Sơn điều kiện kinh tế địa phương còn nhiều khó khăn. Một số cha mẹ đi làm thuê xa nhà, con trẻ ở với ông bà, vốn tiếng Việt và khả năng giao tiếp càng thêm hạn chế."
+    },
+    {
+     "t": "p",
+     "text": "Không để rào cản ngôn ngữ ảnh hưởng tới chất lượng dạy học và hạn chế tương lai của học trò, cô Làu trăn trở liên tục tìm tòi, cho ra đời nhiều sáng kiến tăng cường khả năng tiếng Việt đối với trẻ em dân tộc thiểu số lớp 2-3 tuổi, lớp 5-6 tuổi…; cũng như phát triển kỹ năng nghe-nói, phát triển thể chất cho trẻ. Sáng kiến phát triển khả năng nghe, nói tiếng Việt của cô Làu đã đạt giải cấp thành phố và được nhân rộng toàn địa bàn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình giảng dạy, cô Làu còn liên tục tìm giải pháp để giờ học thêm sinh động, gần gũi và phù hợp với đặc điểm tâm lý lứa tuổi mầm non. Cô tận dụng vỏ sò, quả thông, hòn sỏi bên suối, cành cây khô làm đồ dùng học tập; lồng ghép phương pháp giáo dục tiên tiến STEAM, Montessori và thậm chí ứng dụng cả công nghệ số trong bài giảng."
+    },
+    {
+     "t": "p",
+     "text": "Cô còn tổ chức các trò chơi gắn với vận động, âm nhạc tiếp cận đa văn hóa, và kể chuyện sáng tạo, giúp các con tiếp thu kiến thức một cách tự nhiên, nhẹ nhàng và hiệu quả, luôn tăng cường tiếng Việt cho trẻ trong tất cả các hoạt động trong ngày."
+    },
+    {
+     "t": "p",
+     "text": "Từ những đứa trẻ ngơ ngác, sau một năm học dưới bàn tay chăm sóc của cô Lầu, tỷ lệ trẻ nghe hiểu tiếng Việt tăng hay khả năng trẻ diễn đạt câu trọn vẹn tăng ấn tượng."
+    },
+    {
+     "t": "p",
+     "text": "Cô Làu bộc bạch: “Nụ cười trong sáng của các con chính là nguồn động lực lớn lao nhất, giúp tôi thêm vững tin, thêm yêu nghề và gắn bó lâu dài với sự nghiệp trồng người. Dù còn nhiều vất vả, nhưng chính môi trường đặc thù ấy đã rèn luyện cho tôi sự kiên trì, tinh thần trách nhiệm và tình yêu thương dành cho trẻ”."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với việc đứng lớp, trên cương vị Bí thư Chi đoàn trường, cô giáo Lỷ Móc Làu luôn tích cực tham gia các phong trào thi đua, hoạt động văn nghệ – thể thao, chương trình thiện nguyện và hoạt động trải nghiệm cho học trò."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Thầy La Văn Du và cô Lỷ Móc Làu là 2 trong số 34 giáo viên tiêu biểu, được T.Ư Hội LHTN Việt Nam, Bộ Giáo dục và Đào tạo phối hợp tổ chức tuyên dương trong chương trình “Chia sẻ cùng thầy cô” năm 2026 dịp kỷ niệm Ngày Nhà giáo Việt Nam (20/11)."
+    },
+    {
+     "t": "h",
+     "text": "Tuyên dương 34 gương tiêu biểu 'Chia sẻ cùng thầy cô' năm 2026"
+    },
+    {
+     "t": "h",
+     "text": "Vinh quang của người thầy hóa thân vào sự thành công của học trò"
+    },
+    {
+     "t": "h",
+     "text": "Nữ Bí thư chi bộ sinh viên được vinh danh nhà giáo trẻ tiêu biểu"
+    },
+    {
+     "t": "h",
+     "text": "Đoàn Thanh niên Chính phủ tuyên dương nhà giáo trẻ tiêu biểu và sinh viên 5 tốt"
+    }
+   ]
+  },
+  {
+   "id": "6427beb41278",
+   "order": 6,
+   "slug": "co-giao-chi-nhin-bang-mot-mat-va-lop-hoc-3-ngon-ngu-dac-biet",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cô giáo chỉ nhìn bằng một mắt và lớp học 3 ngôn ngữ đặc biệt ở vùng cao",
+   "sapo": "Trở về vùng cao dạy học, cô giáo Hồ Thị Hạnh Vi đưa tiếng Ca Dong vào những tiết tiếng Anh, giúp học trò tiếp cận ngôn ngữ mới và thêm tự tin với tiếng mẹ đẻ.",
+   "author": "Hà Nam",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/co-giao-chi-nhin-bang-mot-mat-va-lop-hoc-3-ngon-ngu-dac-biet-2575622.html",
+   "published": "2026-11-18T06:08:46+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1029,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/6427beb41278-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 635
+    },
+    {
+     "src": "img/2026-11-19/6427beb41278-0.jpg",
+     "caption": "Cô giáo Hồ Thị Hạnh Vi là 1 trong 7 nhà giáo của Đà Nẵng được tuyên dương “Nhà giáo trẻ tiêu biểu” cấp Trung ương. Ảnh: NVCC",
+     "w": 1280,
+     "h": 1568
+    },
+    {
+     "src": "img/2026-11-19/6427beb41278-1.jpg",
+     "caption": "Cô giáo Hồ Thị Hạnh Vi (áo dài đen viền đỏ) tại lễ tuyên dương “Nhà giáo trẻ tiêu biểu” TP Đà Nẵng năm 2026. Ảnh: NVCC",
+     "w": 1170,
+     "h": 760
+    },
+    {
+     "src": "img/2026-11-19/6427beb41278-2.jpg",
+     "caption": "Cô Hồ Thị Hạnh Vi cùng các em học sinh vùng cao trong một hoạt động ngoại khóa. Ảnh: NVCC",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-19/6427beb41278-3.jpg",
+     "caption": "Cô Hồ Thị Hạnh Vi (bên phải) trong một hoạt động tình nguyện tại vùng cao. Ảnh: NVCC",
+     "w": 1280,
+     "h": 1564
+    },
+    {
+     "src": "img/2026-11-19/6427beb41278-4.jpg",
+     "caption": "Cô giáo người Tày học tiếng Dao, giúp trẻ mẫu giáo dân tộc thiểu số quen tiếng Việt",
+     "w": 956,
+     "h": 637
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong giờ tiếng Anh tại Trường Phổ thông Dân tộc bán trú Tiểu học Trà Leng (TP Đà Nẵng), khi học sinh chưa hiểu từ mới qua lời giải thích bằng tiếng Việt, cô Hồ Thị Hạnh Vi (SN 1995) lại chuyển sang tiếng Ca Dong . Có tiết, cô còn nhường vai giáo viên cho học trò, còn mình trở thành người học."
+    },
+    {
+     "t": "p",
+     "text": "Cô giáo người Ca Dong là một trong 7 nhà giáo của Đà Nẵng được lựa chọn tuyên dương “Nhà giáo trẻ tiêu biểu” cấp Trung ương năm 2026."
+    },
+    {
+     "t": "h",
+     "text": "Vượt trở ngại để theo đuổi nghề giáo"
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra tại Trà Mai (nay là xã Nam Trà My, TP Đà Nẵng), Vi là con thứ hai trong gia đình có bốn anh chị em. Khi Vi chào đời tại nhà bị bà đỡ vô tình làm rơi vôi vào mắt phải, từ đó cô chỉ còn nhìn thấy bằng mắt trái."
+    },
+    {
+     "t": "p",
+     "text": "Tuổi thơ của Vi gắn với những buổi học dưới đèn dầu khi nơi ở chưa có điện lưới. Muốn tìm tài liệu ngoài sách giáo khoa, cô phải đến bưu điện huyện thuê máy tính theo giờ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dù điều kiện học tập thiếu thốn, Vi ngày càng yêu thích tiếng Anh và quyết định theo đuổi nghề giáo. Năm 2013, cô thi đỗ vào Trường ĐH Ngoại ngữ (ĐH Huế)."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tốt nghiệp, Vi giảng dạy tại một trung tâm ngoại ngữ ở TP Tam Kỳ (cũ), rồi làm việc cho một tổ chức phi chính phủ hỗ trợ trẻ em. Những trải nghiệm ấy giúp cô hiểu hơn những khó khăn mà trẻ em vùng cao đang đối mặt."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 10/2023, dù có cơ hội tiếp tục làm việc ở đồng bằng với thu nhập tốt hơn, Vi vẫn quyết định trở về quê hương Nam Trà My dạy học."
+    },
+    {
+     "t": "p",
+     "text": "“Em cũng lớn lên từ vùng núi này nên hiểu những khó khăn mà học trò đang trải qua. Được trở về quê hương, dạy các em tiếng Anh và nhìn thấy học trò tiến bộ mỗi ngày là niềm hạnh phúc rất lớn đối với em”, Vi chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Dạy tiếng Anh từ ngôn ngữ bản làng"
+    },
+    {
+     "t": "p",
+     "text": "Nhắc đến học trò, Vi hào hứng, thi thoảng bật cười khi kể những kỷ niệm ở lớp. Cô cũng thường xuyên tìm tòi, thử nghiệm các phương pháp giảng dạy mới."
+    },
+    {
+     "t": "p",
+     "text": "Học sinh của Vi chủ yếu là người Ca Dong. Nhiều em quen sử dụng tiếng mẹ đẻ trong giao tiếp hằng ngày, trong khi vốn tiếng Việt còn hạn chế. Vì vậy, việc học thêm tiếng Anh là thử thách không nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Để học sinh dễ tiếp thu, Vi linh hoạt kết hợp tiếng Anh, tiếng Việt và tiếng Ca Dong trong giờ học. Cô còn đưa hình ảnh, sự vật và nét văn hóa bản làng vào bài giảng, giúp các em liên hệ kiến thức mới với cuộc sống hằng ngày."
+    },
+    {
+     "t": "p",
+     "text": "Dù mắt trái hiện cận 2,75 độ, dễ đau mỏi khi làm việc lâu trên máy tính, Vi vẫn chủ động tìm tòi, ứng dụng công nghệ vào giảng dạy. Cô sử dụng cả trí tuệ nhân tạo (AI) để xây dựng trò chơi, bài tập trực quan và hỗ trợ học sinh luyện phát âm."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trong một tiết học về các con số ở lớp 2, Vi hướng dẫn học sinh đọc “one, two, three” bằng tiếng Anh, giải thích tương ứng là “một, hai, ba” bằng tiếng Việt, rồi liên hệ với cách gọi bằng tiếng Ca Dong."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, cô mời một cậu bé người Ca Dong lên đóng vai giáo viên, hướng dẫn cả lớp đọc những con số bằng tiếng mẹ đẻ. Vi cũng hào hứng đọc theo, trở thành người học trong chính tiết dạy của mình."
+    },
+    {
+     "t": "p",
+     "text": "“Có những từ giải thích bằng tiếng Việt, học sinh vẫn chưa hiểu nên em chuyển sang tiếng Ca Dong. Em muốn các em thấy tiếng mẹ đẻ cũng có thể giúp mình học tốt một ngôn ngữ khác”, Vi chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Cách dạy này tạo cơ hội để học sinh chia sẻ kiến thức bằng tiếng mẹ đẻ, đồng thời thêm tự tin khi tham gia các hoạt động trong lớp."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài giờ chính khóa, Vi thành lập câu lạc bộ tiếng Anh miễn phí I-Shine, tạo thêm cơ hội để học sinh, đặc biệt là các em dân tộc thiểu số, luyện phát âm và giao tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình giảng dạy, Vi đạt danh hiệu giáo viên dạy giỏi cấp huyện năm học 2024-2025 và hai năm liên tiếp được công nhận danh hiệu Chiến sĩ thi đua cơ sở. Cô còn được lựa chọn làm báo cáo viên tại Hội thảo quốc tế VietTESOL."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Bùi Quang Ngọc, Hiệu trưởng Trường Phổ thông Dân tộc bán trú Tiểu học Trà Leng, chia sẻ: “Cô Vi rất năng động, nhiệt tình và có tinh thần trách nhiệm. Không chỉ tận tâm với công việc giảng dạy, cô còn tích cực tham gia công tác Đoàn, hoạt động thiện nguyện và những công việc chung của nhà trường”."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nhắc đến ngày Nhà giáo Việt Nam 20/11, Vi nhớ mãi bức thư tay nhận được năm 2023, khi vừa chuyển về Trà Leng. Người viết là một học sinh lớp 3 người Ca Dong ở thôn xa, gia đình còn nhiều khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Bằng những nét chữ còn vụng về, em mong cô luôn mỉm cười, tiếp tục mang đến những bài học thú vị và những bài hát hay. Biết cô không nhìn thấy bằng mắt phải, em còn động viên “Teacher Vi” luôn tự tin, làm những điều mình yêu thích và theo đuổi ước mơ."
+    },
+    {
+     "t": "p",
+     "text": "Đọc những dòng thư ấy, Vi bật khóc. Với cô, tình cảm chân thành của học trò là món quà quý giá trong hành trình làm nghề."
+    },
+    {
+     "t": "p",
+     "text": "Từng là cô học trò vùng cao phải thuê máy tính theo giờ để tìm tài liệu, giờ đây Vi đứng trên bục giảng ở quê nhà, đưa tiếng Anh đến gần hơn với những đứa trẻ, lấy chính tiếng mẹ đẻ của các em làm cầu nối."
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "47f00839166d",
+   "order": 7,
+   "slug": "doi-co-chay-o-cao-bang-gay-sot-voi-khoanh-khac-dep-tuyet-doi",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc \"đẹp tuyệt đối điện ảnh\"",
+   "sapo": "(Dân trí) - Những triền đồi nối tiếp nhau, phủ sắc vàng cam giữa núi rừng Cao Bằng đang thu hút sự chú ý của cộng đồng yêu du lịch và giới nhiếp ảnh.",
+   "author": "Việt Hà",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/doi-co-chay-o-cao-bang-gay-sot-voi-khoanh-khac-dep-tuyet-doi-dien-anh-20261117125049102.htm",
+   "published": "2026-11-18T03:40:18+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 888,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/47f00839166d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-0.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 1",
+     "w": 1280,
+     "h": 779
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-1.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 2",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-2.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-3.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-4.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 5",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-5.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 6",
+     "w": 1280,
+     "h": 773
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-6.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 7",
+     "w": 1280,
+     "h": 766
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-7.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-8.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 9",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/47f00839166d-9.jpg",
+     "caption": "Đồi cỏ cháy ở Cao Bằng gây sốt với khoảnh khắc đẹp tuyệt đối điện ảnh - 10",
+     "w": 1280,
+     "h": 718
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giữa núi rừng trùng điệp của Cao Bằng, những triền đồi uốn lượn nối tiếp nhau, trải dài đến tận chân trời. Từ tháng 10 tới tháng 12 hàng năm, đồi cỏ chuyển màu như cỏ cháy."
+    },
+    {
+     "t": "p",
+     "text": "Khi ánh nắng đầu ngày chiếu xuống hoặc lúc chiều tà, những quả đồi như được phủ một lớp màu ấm, gợi liên tưởng đến bối cảnh trong các bộ phim."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đó là cảnh sắc ở đồi cỏ Ba Quánh, còn gọi là đồi cỏ Vinh Quý thuộc xã Vinh Quý tỉnh Cao Bằng. Thời gian qua, nơi này trở thành tọa độ \"sống ảo\" thu hút nhiều tín đồ mê xê dịch và giới nhiếp ảnh gia ghé thăm."
+    },
+    {
+     "t": "p",
+     "text": "Sức hút của nơi đây đến từ cảnh quan tự nhiên với những triền cỏ nối tiếp nhau như trải dài vô tận, không gian rộng mở và màu sắc thay đổi theo mùa."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Anh Cáo Art - một nhiếp ảnh gia đến từ Hà Nội - cho biết, lần đầu anh biết đến đồi cỏ Ba Quáng là năm 2021. Thời điểm đó, anh có sở thích tìm kiếm những điểm đến còn giữ được vẻ nguyên sơ, chưa bị tác động nhiều bởi hoạt động du lịch."
+    },
+    {
+     "t": "p",
+     "text": "Với anh, những địa điểm như Ba Quáng có sức hấp dẫn riêng bởi cảnh quan mộc mạc, không gian rộng mở và vẻ đẹp tự nhiên. Những triền đồi nối tiếp nhau, không bị che khuất bởi nhiều công trình, tạo nên những góc nhìn khác biệt, khơi gợi cảm hứng sáng tác nghệ thuật."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sau lần đầu đặt chân tới đây, anh nhiều lần quay lại, có năm trở lại vài lần và còn giới thiệu địa điểm này với bạn bè để cùng trải nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Đường di chuyển tới khu vực đồi cỏ Ba Quánh khá thuận lợi. Du khách đi theo hướng về xã Vinh Quý, chỉ cách trung tâm thành phố Cao Bằng khoảng 70km."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Khi tới xóm Khum Đin, du khách rẽ phải vào đường bê tông nhỏ và di chuyển tiếp hơn 3km là tới nơi. Riêng đoạn đường này tương đối khó đi. Du khách nên lựa chọn di chuyển bằng xe máy, đặc biệt là xe số hoặc ô tô gầm cao."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, du khách để xe ở bên dưới rồi leo bộ chừng 10-15 phút lên tới điểm ngắm bao quát không gian. Từ đây phóng tầm mắt ra xa, du khách được bắt trọn khoảnh khắc đồi cỏ cháy vàng, xa xa là dãy núi trập trùng, mọi mệt mỏi như tan biến hết."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Từ khoảng tháng 5 tới tháng 9, thảm cỏ nơi đây phủ màu xanh non. Những triền đồi mềm mại nổi bật dưới nền trời xanh, điểm xuyết mây trắng và ánh nắng, tạo nên khung cảnh tươi mới, tràn đầy sức sống."
+    },
+    {
+     "t": "p",
+     "text": "Đây là thời điểm phù hợp với du khách yêu thích sắc xanh của thiên nhiên, muốn ghi lại những bức ảnh trong trẻo, khoáng đạt."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Tới tháng 10 trở đi đi, thảm cỏ bắt đầu chuyển màu. Mùa cỏ cháy thường bắt đầu từ tháng 10 tới tháng 12 thậm chí kéo dài hơn tùy theo điều kiện thời tiết. Những mảng cỏ khô ngả sang màu vàng cam, vàng nâu, phủ kín các quả đồi nối tiếp nhau."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Về thời điểm chụp ảnh, bình minh và buổi chiều là hai khoảng thời gian được nhiều người lựa chọn. Du khách có thể tới từ khoảng 5h để đón bình minh hoặc chụp vào buổi chiều, từ khoảng 13h30 đến lúc hoàng hôn. Ánh sáng dịu giúp màu cỏ nổi bật, đồng thời tạo chiều sâu cho những bức hình."
+    },
+    {
+     "t": "p",
+     "text": "Nếu tới đây vào những tháng mùa lạnh, du khách nên chuẩn bị giày thể thao có độ bám tốt, nước uống và áo khoác do thời tiết vùng núi có thể lạnh và thay đổi nhanh."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với phóng viên Dân trí , anh Thái Dương Ac - một nhiếp ảnh gia sinh sống tại Trùng Khánh - nhận định, thời gian qua, nhiều khách hàng tìm đến khu vực đồi cỏ bởi vẻ đẹp lạ mắt, hoang sơ."
+    },
+    {
+     "t": "p",
+     "text": "Không gian rộng, những triền đồi nhấp nhô và màu cỏ thay đổi theo mùa giúp các bộ ảnh có bối cảnh khác biệt so với những địa điểm chụp hình quen thuộc (Ảnh: Thái Dương Ac)."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Với vẻ đẹp thay đổi theo mùa, đồi cỏ Ba Quáng có tiềm năng trở thành điểm dừng chân đáng chú ý trong hành trình khám phá Cao Bằng."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, để giữ sức hút lâu dài, việc quảng bá cần đi cùng định hướng khai thác phù hợp, bảo vệ cảnh quan tự nhiên, bảo đảm an toàn cho khách và từng bước hoàn thiện các dịch vụ thiết yếu."
+    },
+    {
+     "t": "p",
+     "text": "Trong 9 tháng đầu năm, Cao Bằng đón khoảng 2,6 triệu lượt khách, tăng gần 11% so với cùng kỳ năm 2025, đạt 84% kế hoạch năm."
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, khách quốc tế đạt gần 110.000 lượt, tăng hơn 22%; tổng thu du lịch ước đạt gần 3.000 tỷ đồng, tăng 27%."
+    },
+    {
+     "t": "p",
+     "text": "Ở những tháng cuối năm, địa phương tiếp tục triển khai các chương trình kích cầu, phát triển sản phẩm trải nghiệm, đồng thời đẩy mạnh quảng bá hình ảnh điểm đến."
+    }
+   ]
+  },
+  {
+   "id": "a345a3f1a0af",
+   "order": 8,
+   "slug": "khach-viet-ngo-lac-vao-thien-duong-ha-gioi-o-trung-quoc",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Khách Việt ngỡ lạc vào 'thiên đường hạ giới' ở Trung Quốc",
+   "sapo": "Trung Quốc Những ngọn núi linh thiêng cùng cảnh sắc hồ nước, núi tuyết biến đổi theo độ cao, khiến Á Đinh trở thành điểm đến mê hoặc du khách Việt ngay từ lần đầu đặt chân tới.",
+   "author": "Tuấn Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/khach-viet-ngo-lac-vao-thien-duong-ha-gioi-o-trung-quoc-5139849.html",
+   "published": "2026-11-18T09:19:36+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1579,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 901
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 901
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 899
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 898
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 635
+    },
+    {
+     "src": "img/2026-11-19/a345a3f1a0af-10.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 896
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Khách Việt ngỡ lạc vào 'thiên đường hạ giới' ở Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Trung Quốc Những ngọn núi linh thiêng cùng cảnh sắc hồ nước, núi tuyết biến đổi theo độ cao, khiến Á Đinh trở thành điểm đến mê hoặc du khách Việt ngay từ lần đầu đặt chân tới."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Á Đinh nằm ở huyện Đạo Thành, phía Tây Nam tỉnh Tứ Xuyên, Trung Quốc, là cửa ngõ giáp ranh với Tây Tạng. Nơi đây được mệnh danh là một trong những khu bảo tồn quốc gia đẹp nhất Trung Quốc, hội tụ đầy đủ vẻ đẹp của một tiên cảnh chốn nhân gian, pha trộn với nét kỳ bí của nền văn minh Phật giáo bí ẩn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Một góc khu bảo tồn Á Đinh được nhiếp ảnh gia Trần Phương, ở TP HCM ghi lại trong chuyến đi ngày 3/11."
+    },
+    {
+     "t": "p",
+     "text": "Á Đinh nằm ở huyện Đạo Thành, phía Tây Nam tỉnh Tứ Xuyên, Trung Quốc, là cửa ngõ giáp ranh với Tây Tạng. Nơi đây được mệnh danh là một trong những khu bảo tồn quốc gia đẹp nhất Trung Quốc, hội tụ đầy đủ vẻ đẹp của một tiên cảnh chốn nhân gian, pha trộn với nét kỳ bí của nền văn minh Phật giáo bí ẩn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Một góc khu bảo tồn Á Đinh được nhiếp ảnh gia Trần Phương, ở TP HCM ghi lại trong chuyến đi ngày 3/11."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ngoài tham quan, ngắm cảnh, Á Đinh còn là điểm trekking nổi tiếng ở miền tây Trung Quốc với hai cung đường chính phù hợp với du khách có thể lực và quỹ thời gian khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trong lần đầu đến Á Đinh, Trần Phương lựa chọn trekking hồ BongYong dưới sự hướng dẫn của người dân bản địa. Theo anh, hành trình đi qua nhiều địa hình thử thách, đòi hỏi sức bền nhưng mang lại những trải nghiệm đáng nhớ."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài tham quan, ngắm cảnh, Á Đinh còn là điểm trekking nổi tiếng ở miền tây Trung Quốc với hai cung đường chính phù hợp với du khách có thể lực và quỹ thời gian khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Trong lần đầu đến Á Đinh, Trần Phương lựa chọn trekking hồ BongYong dưới sự hướng dẫn của người dân bản địa. Theo anh, hành trình đi qua nhiều địa hình thử thách, đòi hỏi sức bền nhưng mang lại những trải nghiệm đáng nhớ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Sau khi đi xe buýt tham quan đến điểm dừng Zhaguanbeng, du khách tiếp tục đi bộ đến tu viện Chonggu (ảnh). Nằm ở độ cao 3.880 m ngay dưới chân núi tuyết thiêng tại Yading, Tứ Xuyên, Tu viện Chonggu là trái tim tâm linh cổ kính có lịch sử từ thế kỷ XIII. Tên gọi \"Chonggu\" trong tiếng Tạng mang nghĩa \"ngôi chùa xây trên hồ\" bởi tu viện được dựng nên từ nền một hồ băng cổ đã cạn."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Từ tu viện, du khách men theo con đường xuyên qua những cánh rừng lá kim, sườn núi và lối đi bộ được bố trí sẵn để đến hồ Trân Châu. Với cung đường leo núi này, du khách có thể lựa chọn đi bộ hoặc thuê ngựa để di chuyển."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Hồ Trân Châu nằm ở độ cao 4.080 m, nổi bật với làn nước trong xanh màu ngọc bích. Mùa thu là thời điểm lý tưởng để ghé thăm khi mặt hồ phẳng lặng, phản chiếu hình ảnh dãy núi Tiên Nãi Nhật, tạo nên khung cảnh thu hút du khách và các nhiếp ảnh gia."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình đi bộ đến hồ thường mất khoảng 2-4 tiếng, tùy tốc độ di chuyển và thời gian dừng chân ngắm cảnh."
+    },
+    {
+     "t": "p",
+     "text": "Hồ Trân Châu nằm ở độ cao 4.080 m, nổi bật với làn nước trong xanh màu ngọc bích. Mùa thu là thời điểm lý tưởng để ghé thăm khi mặt hồ phẳng lặng, phản chiếu hình ảnh dãy núi Tiên Nãi Nhật, tạo nên khung cảnh thu hút du khách và các nhiếp ảnh gia."
+    },
+    {
+     "t": "p",
+     "text": "Hành trình đi bộ đến hồ thường mất khoảng 2-4 tiếng, tùy tốc độ di chuyển và thời gian dừng chân ngắm cảnh."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Những tháng cuối năm, nhiệt độ tại Á Đinh thường xuống dưới 0 độ C. Trên hành trình trekking, du khách dễ bắt gặp những biển mây (ảnh) giữa núi non, tạo nên khung cảnh được ví như chốn tiên cảnh nơi hạ giới."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Khi tiến sâu vào vùng núi, khung cảnh càng trở nên hoang sơ với những đỉnh tuyết trắng nổi bật giữa bầu trời xanh."
+    },
+    {
+     "t": "p",
+     "text": "Độ cao là một trong những thử thách lớn nhất khi trekking tại Á Đinh. Phần lớn các tuyến đi bộ nằm trên 3.900 m, trong khi điểm cao nhất của cung hồ Ngũ Sắc có thể đạt khoảng 4.700 m. Không khí loãng khiến cơ thể nhanh mất sức, ngay cả với những người có nền tảng thể lực tốt."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phương du khách nên dành thời gian thích nghi độ cao trước khi thực hiện cung dài, tránh di chuyển quá nhanh và không cố tiếp tục leo khi xuất hiện triệu chứng say độ cao. Giày trekking có độ bám tốt, gậy leo núi, áo khoác chống gió, nước uống và thực phẩm bổ sung năng lượng là những vật dụng cần thiết."
+    },
+    {
+     "t": "p",
+     "text": "Khi tiến sâu vào vùng núi, khung cảnh càng trở nên hoang sơ với những đỉnh tuyết trắng nổi bật giữa bầu trời xanh."
+    },
+    {
+     "t": "p",
+     "text": "Độ cao là một trong những thử thách lớn nhất khi trekking tại Á Đinh. Phần lớn các tuyến đi bộ nằm trên 3.900 m, trong khi điểm cao nhất của cung hồ Ngũ Sắc có thể đạt khoảng 4.700 m. Không khí loãng khiến cơ thể nhanh mất sức, ngay cả với những người có nền tảng thể lực tốt."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phương du khách nên dành thời gian thích nghi độ cao trước khi thực hiện cung dài, tránh di chuyển quá nhanh và không cố tiếp tục leo khi xuất hiện triệu chứng say độ cao. Giày trekking có độ bám tốt, gậy leo núi, áo khoác chống gió, nước uống và thực phẩm bổ sung năng lượng là những vật dụng cần thiết."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ba ngọn núi thiêng Xianuoduoji, Yangmaiyong và Xiaruoduoji là điểm nhấn đặc biệt của khu thắng cảnh Á Đinh. Trong tín ngưỡng Phật giáo Tây Tạng, ba ngọn núi được tôn kính như những vị thần hộ mệnh, gắn với niềm tin về sự thanh khiết, lòng từ bi và sức mạnh bảo hộ."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Trần Phương cho biết đoàn mất gần 6 tiếng leo núi để đến hồ Bong Yong. Điểm đặc biệt của hồ là vị trí ngắm cảnh, từ những khu vực quan sát quanh hồ, du khách có thể chiêm ngưỡng ba ngọn núi tuyết linh thiêng của Á Đinh."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 19h, trời trên núi vẫn còn sáng. Anh Phương cùng các thành viên trong đoàn kiên nhẫn chờ đợi khoảnh khắc \"nhật chiếu kim sơn\" - hiện tượng những tia nắng cuối ngày chiếu lên các đỉnh núi phủ tuyết, tạo nên sắc vàng rực rỡ giữa không gian núi non trùng điệp."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một trong những cảnh tượng được nhiều du khách mong đợi khi đến Á Đinh, bởi vẻ đẹp kỳ vĩ và thời điểm xuất hiện khoảng 10 phút."
+    },
+    {
+     "t": "p",
+     "text": "Trần Phương cho biết đoàn mất gần 6 tiếng leo núi để đến hồ Bong Yong. Điểm đặc biệt của hồ là vị trí ngắm cảnh, từ những khu vực quan sát quanh hồ, du khách có thể chiêm ngưỡng ba ngọn núi tuyết linh thiêng của Á Đinh."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 19h, trời trên núi vẫn còn sáng. Anh Phương cùng các thành viên trong đoàn kiên nhẫn chờ đợi khoảnh khắc \"nhật chiếu kim sơn\" - hiện tượng những tia nắng cuối ngày chiếu lên các đỉnh núi phủ tuyết, tạo nên sắc vàng rực rỡ giữa không gian núi non trùng điệp."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một trong những cảnh tượng được nhiều du khách mong đợi khi đến Á Đinh, bởi vẻ đẹp kỳ vĩ và thời điểm xuất hiện khoảng 10 phút."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Khoảnh khắc \"nhật chiếu kim sơn\" trên đỉnh núi Yangmaiyong cao gần 6.000 m."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phương, tổng chi phí cho chuyến khám phá Á Đinh trong 5 ngày khoảng 40 triệu đồng, bao gồm vé máy bay, di chuyển, lưu trú, ăn uống và các hoạt động tham quan, trekking."
+    },
+    {
+     "t": "p",
+     "text": "Từ Việt Nam, du khách có thể bay từ Hà Nội hoặc TP HCM đến Thành Đô (Tứ Xuyên) rồi nối chuyến đến sân bay Đạo Thành Á Đinh với thời gian bay khoảng một giờ. Ngoài ra, du khách có thể chọn xe khách hoặc thuê ôtô di chuyển từ Thành Đô đến Đạo Thành, mất khoảng 12-15 tiếng qua những cung đường núi."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phương, tổng chi phí cho chuyến khám phá Á Đinh trong 5 ngày khoảng 40 triệu đồng, bao gồm vé máy bay, di chuyển, lưu trú, ăn uống và các hoạt động tham quan, trekking."
+    },
+    {
+     "t": "p",
+     "text": "Từ Việt Nam, du khách có thể bay từ Hà Nội hoặc TP HCM đến Thành Đô (Tứ Xuyên) rồi nối chuyến đến sân bay Đạo Thành Á Đinh với thời gian bay khoảng một giờ. Ngoài ra, du khách có thể chọn xe khách hoặc thuê ôtô di chuyển từ Thành Đô đến Đạo Thành, mất khoảng 12-15 tiếng qua những cung đường núi."
+    }
+   ]
+  },
+  {
+   "id": "60b794d8f98d",
+   "order": 9,
+   "slug": "hieu-sach-nam-sau-trong-hang-da-o-trung-quoc",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Hiệu sách nằm sâu trong hang đá ở Trung Quốc",
+   "sapo": "Hiệu sách rộng khoảng 500 m2 được xây dựng trong hang động đá vôi tự nhiên tại Quý Châu, kết hợp không gian đọc sách và uống cà phê.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://znews.vn/hieu-sach-nam-sau-trong-hang-da-o-trung-quoc-post1697084.html",
+   "published": "2026-11-18T01:24:47+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 973,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/60b794d8f98d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ẩn mình trong hang động đá vôi ở huyện Tu Văn, thành phố Quý Dương, tỉnh Quý Châu (Trung Quốc), hiệu sách Canglan Dome đang trở thành điểm đến thu hút du khách. Thay vì những bức tường, trần nhà quen thuộc, không gian nơi đây được bao quanh bởi các vách đá gồ ghề và mái vòm tự nhiên hình thành qua hàng triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Theo China News Service , hiệu sách được cải tạo từ một phần hang động đá vôi vào tháng 7/2026, nằm tại thị trấn dân tộc Bố Y Đại Thạch. Sau khi mở cửa, đông đảo du khách kéo đến đây đọc sách, thưởng thức cà phê và nghỉ ngơi, biến hang động thành điểm hẹn văn hóa mới của địa phương."
+    },
+    {
+     "t": "h",
+     "text": "Đọc sách giữa những vách đá hàng triệu năm tuổi"
+    },
+    {
+     "t": "p",
+     "text": "Điểm nhấn của Canglan Dome là khu đọc sách rộng hơn 500 m2, được xây dựng men theo những vách đá tự nhiên. Thay vì cải tạo hang động thành không gian khép kín, đơn vị vận hành tận dụng địa hình sẵn có, để những khối đá và nhũ đá trở thành một phần trong thiết kế nội thất."
+    },
+    {
+     "t": "p",
+     "text": "Theo Cục Văn hóa và Du lịch thành phố Quý Dương, hang động được giới thiệu là có lịch sử địa chất hàng trăm triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ đọc sách, Canglan Dome còn là tổ hợp giải trí hút đông đảo du khách trẻ đến trải nghiệm và check-in. Ảnh: China News, Visual China."
+    },
+    {
+     "t": "p",
+     "text": "Trải qua quá trình kiến tạo lâu dài, hang động sở hữu mái vòm cao rộng, những vách đá gồ ghề và hệ thống nhũ đá với nhiều hình thù kỳ lạ. Ánh sáng được bố trí khéo léo, làm nổi bật các đường nét tự nhiên, tạo nên sự tương phản giữa những khoảng sáng và tối."
+    },
+    {
+     "t": "p",
+     "text": "Các kệ sách được sắp xếp giữa những vách đá gồ ghề, hình thành không gian đọc mang vẻ đẹp khác biệt so với các thư viện hay hiệu sách thông thường. Du khách có thể lựa chọn một cuốn sách, tìm góc ngồi yên tĩnh và dành hàng giờ đọc sách giữa lòng hang động."
+    },
+    {
+     "t": "p",
+     "text": "Theo Guizhou Daily Tianyan News , nhiệt độ bên trong hang tương đối ổn định, mát mẻ ngay cả trong những ngày hè oi bức. Không gian tách biệt với cái nóng và sự ồn ào bên ngoài trở thành một trong những yếu tố hấp dẫn du khách."
+    },
+    {
+     "t": "p",
+     "text": "Không ít người còn tìm đến đây để chụp ảnh. Những vách đá có hình dáng độc đáo, kết hợp hệ thống chiếu sáng và các góc đọc sách tạo nên khung cảnh vừa hoang sơ, vừa mang hơi thở hiện đại."
+    },
+    {
+     "t": "p",
+     "text": "Du khách chụp ảnh tại hiệu sách trong hang động ở thị trấn dân tộc Bố Y Đại Thạch, huyện Tu Văn, tỉnh Quý Châu (Trung Quốc), ngày 6/9. Ảnh: China News."
+    },
+    {
+     "t": "h",
+     "text": "Uống cà phê, nghe hòa nhạc dưới lòng đất"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ là nơi đọc sách, Canglan Dome còn kết hợp quán cà phê và các hoạt động biểu diễn âm nhạc, biến hang động thành không gian trải nghiệm văn hóa đa dạng."
+    },
+    {
+     "t": "p",
+     "text": "Quán cà phê được bố trí xen giữa những vách đá, với các khu vực nghỉ chân tận dụng địa hình tự nhiên. Du khách có thể nhâm nhi đồ uống, trò chuyện hoặc đọc sách trong bầu không khí mát mẻ, yên tĩnh."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những trải nghiệm đặc biệt nhất tại đây là thưởng thức âm nhạc ngay dưới mái vòm hang động."
+    },
+    {
+     "t": "p",
+     "text": "Cấu trúc mái vòm cao và những vách đá tự nhiên tạo hiệu ứng cộng hưởng, khiến âm thanh vang vọng khắp không gian. Nhờ đó, những buổi biểu diễn tại Canglan Dome mang đến trải nghiệm khác biệt so với sân khấu thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động biểu diễn âm nhạc diễn ra vào buổi tối trong hang động. Ảnh: Tianyan News."
+    },
+    {
+     "t": "p",
+     "text": "Canglan Dome còn được đưa vào các tuyến du lịch trải nghiệm của huyện Tu Văn. Thông tin từ Tập đoàn Phát triển Du lịch Quý Dương, địa điểm này là một điểm dừng trong hành trình dành cho gia đình, kết hợp tham quan vườn kiwi Ngự Quả Loan, khám phá Vườn động vật hoang dã Quý Châu và trải nghiệm hiệu sách trong hang động."
+    },
+    {
+     "t": "p",
+     "text": "Huyện Tu Văn đang tận dụng lợi thế cảnh quan hang động và khí hậu mát mẻ để phát triển các sản phẩm du lịch mới, từ quán cà phê trong hang đến những không gian văn hóa, giải trí độc đáo."
+    },
+    {
+     "t": "p",
+     "text": "Qua đó, một hang động đá vôi vốn được biết đến bởi giá trị địa chất đã trở thành không gian sinh hoạt văn hóa, nơi thiên nhiên và nhịp sống hiện đại cùng hiện diện."
+    },
+    {
+     "t": "p",
+     "text": "Hang động sở hữu mái vòm cao rộng, nhiệt độ mát mẻ tự nhiên, là điểm hút du khách đến trốn nóng dịp hè. Ảnh: China News, Visual China."
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác giả sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    }
+   ]
+  },
+  {
+   "id": "69679e18d451",
+   "order": 10,
+   "slug": "tran-dang-dang-khoa-cuoi-ngua-loi-tuyet-nhu-phim-co-trang-o",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Trần Đặng Đăng Khoa cưỡi ngựa lội tuyết như phim cổ trang ở Kyrgyzstan",
+   "sapo": "Đã nhiều lần nhìn thấy tuyết trắng trong những chuyến rong ruổi, nhưng với Trần Đặng Đăng Khoa, trải nghiệm cưỡi ngựa giữa mùa đông trên dãy núi Thiên Sơn (Tian Shan) ở Kyrgyzstan rất khác biệt.",
+   "author": "YẾN TRINH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tran-dang-dang-khoa-cuoi-ngua-loi-tuyet-nhu-phim-co-trang-o-kyrgyzstan-100261117214728377.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 927,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/69679e18d451-0.jpg",
+     "caption": "Trải nghiệm cưỡi ngựa trong tuyết lạnh của Trần Đặng Đăng Khoa ở Altyn Arashan - Ảnh: NVCC",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-1.jpg",
+     "caption": "Trần Đặng Đăng Khoa tham gia cưỡi ngựa cùng hai vợ chồng người hướng dẫn tour - Ảnh: NVCC",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-2.jpg",
+     "caption": "Mong muốn được cưỡi ngựa trên dãy Thiên Sơn của Trần Đặng Đăng Khoa đã thành hiện thực - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-3.jpg",
+     "caption": "Đây là trải nghiệm đáng nhớ bởi du khách thường đến vào những ngày thời tiết khô ráo, còn Trần  Đặng Đăng Khoa được ngồi trên lưng ngựa trong tuyết lạnh như phim cổ trang - Ảnh: NVCC",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-4.jpg",
+     "caption": "Trải nghiệm cưỡi ngựa nơi núi tuyết thật sự đáng nhớ - Ảnh: NVCC",
+     "w": 1280,
+     "h": 1008
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-8.jpg",
+     "caption": "Khung cảnh hùng vĩ với những dãy núi tuyết sừng sững - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-9.jpg",
+     "caption": "Khung cảnh yên bình ở Kyrgyzstan, người dân thân thiện, mến khách - Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-10.jpg",
+     "caption": "Thiên nhiên Kyrgyzstan đẹp đến nao lòng - Ảnh: NVCC",
+     "w": 1280,
+     "h": 725
+    },
+    {
+     "src": "img/2026-11-19/69679e18d451-11.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Đây là một điểm đến trong hành trình khám phá thế giới lần thứ hai của blogger du lịch Trần Đặng Đăng Khoa, 40 tuổi, quê Tiền Giang (nay là Đồng Tháp)."
+    },
+    {
+     "t": "h",
+     "text": "Cưỡi ngựa trong tuyết lạnh, ngắm nhìn núi đồi và thảo nguyên"
+    },
+    {
+     "t": "p",
+     "text": "Trước chuyến đi, Trần Đặng Đăng Khoa từng tham khảo thông tin, có nhiều du khách đến Kyrgyzstan trải nghiệm cưỡi ngựa . Anh đặc biệt ấn tượng với Altyn Arashan cạnh hồ Issyk-Kul và đã ấp ủ kế hoạch đến đây."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khi đến thành phố Karakol dưới chân dãy Thiên Sơn, anh tìm hiểu dịch vụ cưỡi ngựa và có một nơi nhận tổ chức ngay ngày hôm sau. Mùa này, trong số ít du khách đến, anh là người duy nhất chọn dịch vụ cưỡi ngựa. Do không ghép nhóm được nên anh đành chấp nhận trả toàn bộ chi phí."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ngày đầu tiên, trời chưa có tuyết. Nhưng đến nửa đêm ngày thứ hai, tuyết rơi mịt mù."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỉ trong hai ngày, tôi được chiêm ngưỡng hai khung cảnh vừa mùa thu vừa mùa đông, với những dãy núi cao chót vót, dòng sông và cảnh sắc thiên nhiên trải rộng trong tầm mắt khi ngồi trên lưng ngựa\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Phượt thủ này cảm thấy rất may mắn khi có trải nghiệm hiếm du khách nào có được, dù nhiệt độ rất lạnh, ban đêm xuống âm 14-17 độ C do gió thổi rất mạnh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ngựa ở đây cao lớn, là giống ngựa bản địa và là niềm tự hào của người Kyrgyz, chịu được cái lạnh giá, địa hình cao hiểm trở nhiều dốc đá. Ban đầu Khoa hơi \"rén\", nhưng sau khi cưỡi một lúc thì dần thích nghi."
+    },
+    {
+     "t": "p",
+     "text": "Đoạn đường này xe hai cầu vẫn có thể đi được, nên hành trình không phải lúc nào cũng quá dốc. Tuy nhiên, có những đoạn ngựa đi đường tắt, các con dốc đứng khiến anh hơi \"ớn\"."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Hai vợ chồng hướng dẫn tour thân thiện, nhiệt tình - Ảnh: NVCC"
+    },
+    {
+     "t": "p",
+     "text": "Chặng đường hôm sau trơn trượt và khó quan sát do tuyết phủ, có những đoạn đổ dốc. Chú ngựa đi sát mé vực vì phần mép này phẳng hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu chẳng may trượt chân thì rất nguy hiểm. Tôi đi cùng hai vợ chồng người hướng dẫn tour, cả ba hỗ trợ nhau trong suốt hành trình\", anh kể."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Một ấn tượng khác của anh là buổi tối ngủ tại thung lũng Altyn Arashan khi tuyết đã phủ khắp nơi."
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch, hôm sau anh sẽ đi thêm khoảng 2-3 tiếng nữa để đến một nơi khung cảnh đẹp hơn. Tuy nhiên, gió lạnh và tuyết rơi quá dày nên anh buộc phải trở xuống."
+    },
+    {
+     "t": "h",
+     "text": "Kyrgyzstan - đất nước thân thiện giữa những dãy núi"
+    },
+    {
+     "t": "p",
+     "text": "Trong số những quốc gia Trung Á từng đi qua, Kyrgyzstan là đất nước Trần Đặng Đăng Khoa yêu thích nhất. Vật giá ở đây khá thấp, người dân bán đúng giá. Con người thân thiện, dịch vụ tốt dù du lịch mới phát triển thời gian gần đây."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Đây là xứ sở có truyền thống du mục, đã chuyển sang hình thức bán du mục. Người dân có nhà ở, nhưng vào mùa hè thường đưa gia súc lên những vùng cao hơn để tìm nguồn cỏ. Họ sinh sống trong những chiếc lều yurt, cũng là hình ảnh được thể hiện trên quốc kỳ Kyrgyzstan."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Anh đặc biệt ấn tượng với cảnh sắc thiên nhiên thay đổi theo độ cao. Từ thành phố Osh với mùa thu lá vàng, hành trình dần đưa anh lên những cung đường đèo cao, nơi tuyết trắng phủ kín những dãy núi."
+    },
+    {
+     "t": "p",
+     "text": "Đường sá thuận lợi, các cung đường đèo chất lượng tốt và vừa hoàn thành thi công nên rất đẹp."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "h",
+     "text": "Mong trở về Việt Nam đúng dịp tròn 10 năm vòng quanh thế giới"
+    },
+    {
+     "t": "p",
+     "text": "Trần Đặng Đăng Khoa là người truyền cảm hứng du lịch bụi nổi tiếng. Tháng 6-2020, anh hoàn tất hành trình 1.111 ngày vòng quanh thế giới bằng xe máy."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 11-11-2023, anh Khoa bắt đầu hành trình vòng quanh thế giới lần thứ hai với một chiếc ô tô tải nhỏ được cải tạo lại."
+    },
+    {
+     "t": "p",
+     "text": "\"So với lần đầu tiên, lần này tôi lựa chọn những cung đường chưa từng đi qua. Từ Việt Nam, tôi đi qua các nước Đông Nam Á rồi xuống Úc, qua Bắc Mỹ, Anh, Scotland, Ireland, Morocco, Trung Đông…, sau đó theo cung đường Trung Á để qua Nga, Mông Cổ, Trung Quốc, về lại Đông Nam Á\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Bù lại, anh có thể mang theo nhiều đồ đạc, cắm trại nhiều, đến những vùng xa xôi hơn và ở lại một nơi nhiều ngày vì có thể dự trữ lương thực. Anh không có kế hoạch cụ thể mà cứ đi đến đâu rồi tính tiếp đến đó."
+    },
+    {
+     "t": "p",
+     "text": "Sau hơn 3 năm, Trần Đặng Đăng Khoa dự kiến cần khoảng 6 tháng đến 1 năm nữa để trở về Việt Nam. Đến nay, anh đã đặt chân đến 98 quốc gia và vùng lãnh thổ, còn hai đất nước chưa khám phá là Nga và Mông Cổ. Sau đó, anh định trở về qua Lào, Campuchia và kết thúc hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Anh dự định về Việt Nam vào ngày 1-6-2027, đúng dịp tròn 10 năm kể từ ngày bắt đầu hành trình vòng quanh thế giới lần thứ nhất. Nếu về qua cửa khẩu Mộc Bài đúng ngày này, đó sẽ là dấu mốc đặc biệt."
+    }
+   ]
+  },
+  {
+   "id": "77d2ba4ce6b3",
+   "order": 11,
+   "slug": "nhung-ban-thang-tuyet-dep-tu-cac-sao-tre-doi-tuyen-viet-nam",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Những bàn thắng tuyệt đẹp từ các sao trẻ đội tuyển Việt Nam",
+   "sapo": "Chiến thắng 1-0 của CLB Công an TP.HCM trước nhà đương kim vô địch Buriram United tối 18.11 được định đoạt bằng tuyệt phẩm sút xa của Nguyễn Thái Quốc Cường, nối dài chuỗi khoảnh khắc bùng nổ của các sao trẻ đội tuyển Việt Nam trong tháng này.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nhung-ban-thang-tuyet-dep-tu-cac-sao-tre-doi-tuyen-viet-nam-185261118204503358.htm",
+   "published": "2026-11-18T17:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 628,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/77d2ba4ce6b3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-19/77d2ba4ce6b3-0.jpg",
+     "caption": "Nguyễn Thái Quốc Cường (phải) ghi siêu phẩm giúp CLB Công an TP.HCM giành 3 điểm trên sân nhà",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-19/77d2ba4ce6b3-1.jpg",
+     "caption": "Nguyễn Đình Bắc vừa lập 2 siêu phẩm trong màu áo đội tuyển Việt Nam ở 2 trận giao hữu dịp FIFA Days tháng 11",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chiến thắng 1-0 của CLB Công an TP.HCM trước nhà đương kim vô địch Buriram United tối 18.11 được định đoạt bằng tuyệt phẩm sút xa của Nguyễn Thái Quốc Cường, nối dài chuỗi khoảnh khắc bùng nổ của các sao trẻ đội tuyển Việt Nam trong tháng này."
+    },
+    {
+     "t": "h",
+     "text": "Kịch bản quen thuộc của những siêu phẩm"
+    },
+    {
+     "t": "p",
+     "text": "Trên sân Bình Dương tối 18.11, trong trận đấu chuyên nghiệp đầu tiên của sân cỏ bóng đá Việt Nam ngay sau khi đợt tập trung FIFA Days tháng 11 khép lại, CLB Công an TP.HCM đã có màn trình diễn đầy bản lĩnh trước đương kim vô địch Buriram United (Thái Lan)."
+    },
+    {
+     "t": "p",
+     "text": "Sau phần lớn thời gian giằng co quyết liệt, thế bế tắc chỉ được khai thông ở những phút cuối trận bằng một khoảnh khắc xuất thần mang đậm dấu ấn cá nhân. Tân binh của đội tuyển Việt Nam Nguyễn Thái Quốc Cường đi bóng từ hành lang trái, ngoặt vào trung lộ rồi tung cú sút như búa bổ đưa bóng găm thẳng vào góc chữ A, ấn định thắng lợi 1-0 cho đại diện V-League."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Điều thú vị nằm ở chỗ, pha lập công mang về 3 điểm quý giá cho CLB Công an TP.HCM lại có sự tương đồng đáng kinh ngạc với 2 tuyệt phẩm mà tiền đạo Nguyễn Đình Bắc vừa ghi trong màu áo đội tuyển Việt Nam tại giải giao hữu quốc tế Casper Cup 2026 trên sân Thiên Trường. Ở cả hai trận đấu gặp Đài Loan (ngày 11.11) và Kyrgyzstan (ngày 17.11), Đình Bắc đều khiến cầu trường bùng nổ bằng những tình huống xử lý tương tự. Từ cánh trái, chân sút này ngoặt bóng vào trung lộ rồi vung chân dứt điểm đầy uy lực khiến thủ môn đối phương bó tay."
+    },
+    {
+     "t": "p",
+     "text": "Ba bàn thắng liên tiếp chỉ trong vòng ít ngày, từ màu áo đội tuyển quốc gia cho đến sân chơi khu vực cấp CLB, cùng được tạo nên bởi một công thức chung. Sự tiếp nối đầy cảm hứng giữa Đình Bắc và Quốc Cường càng trở nên đáng chú ý khi cả hai đều là những người con xứ Nghệ, thuộc thế hệ cầu thủ sinh năm 2004 và vừa sát cánh cùng nhau trong đợt hội quân của đội tuyển Việt Nam dịp FIFA Days tháng 11."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Dù cùng trang lứa, hành trình khẳng định vị thế của bộ đôi này tại đội tuyển quốc gia lại mang hai sắc thái khác nhau trong bức tranh nhân sự của HLV Kim Sang-sik."
+    },
+    {
+     "t": "p",
+     "text": "Với Nguyễn Đình Bắc, năm 2026 đánh dấu bước trưởng thành vượt bậc để vươn lên trở thành trụ cột trên hàng công. Không chỉ được tin tưởng trao băng đội phó đội tuyển Việt Nam, tiền đạo sinh năm 2004 còn dẫn đầu danh sách ghi bàn của đội tuyển trong năm 2026. Lối chơi giàu tốc độ, khả năng tự tạo cơ hội và sự bùng nổ đúng lúc giúp Đình Bắc trở thành điểm tựa của đội bóng sao vàng."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, Nguyễn Thái Quốc Cường đang đi những bước đầu tiên trên hành trình chinh phục màu áo đội tuyển Việt Nam. Là một trong những tân binh được triệu tập ở đợt tập trung vừa qua, tiền vệ này dường như được tiếp thêm sự tự tin. Ngay khi trở lại phục vụ CLB Công an TP.HCM, Quốc Cường đã có màn trình diễn chói sáng trước đối thủ hàng đầu Thái Lan như Buriram United."
+    },
+    {
+     "t": "p",
+     "text": "Hy vọng, Đình Bắc, Quốc Cường sẽ tiếp tục giữ vững phong độ. Khi các cầu thủ trẻ đang từng bước khẳng định được bản thân, đây là tín hiệu tích cực với đội tuyển Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "1c0047a14db2",
+   "order": 12,
+   "slug": "xem-huyen-thoai-mma-tung-cu-da-tuyet-dep-ha-guc-doi-thu-tron",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Xem huyền thoại MMA tung cú đá tuyệt đẹp hạ gục đối thủ trong lần cuối thượng đài",
+   "sapo": "Stephen “Wonderboy” Thompson khép lại sự nghiệp MMA theo cách không thể mãn nhãn hơn: tung cú đá xoay trúng đầu Charles Radtke, đánh gục đối thủ rồi giành chiến thắng bằng knock-out kỹ thuật (TKO) tại UFC 334 ở New York.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/xem-huyen-thoai-mma-tung-cu-da-tuyet-dep-ha-guc-doi-thu-trong-lan-cuoi-thuong-dai-100261118133424711.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 395,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/1c0047a14db2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-19/1c0047a14db2-0.jpg",
+     "caption": "Thompson (phải) hạ gục Radtke trong ngày chia tay võ đài MMA - Ảnh: GETTY IMAGES",
+     "w": 1080,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trận đấu diễn ra cuối tuần rồi tại Madison Square Garden, cũng là lần cuối võ sĩ lừng danh Thompson bước vào lồng bát giác MMA."
+    },
+    {
+     "t": "p",
+     "text": "Sau hai hiệp đầu giằng co, võ sĩ người Mỹ bắt đầu chiếm ưu thế nhờ khả năng đánh đứng. Ở phút 2:54 hiệp 3, anh xoay người tung cú đá vòng cầu trúng đầu Radtke."
+    },
+    {
+     "t": "p",
+     "text": "Sau chừng 1 giây, đối thủ của Thompson đổ gục xuống sàn, trọng tài lập tức can thiệp. UFC gọi đây là cú “spinning wheel kick” (có điểm gần giống với đá giò lái), một trong những đòn đá đẹp mắt nhất làng võ MMA."
+    },
+    {
+     "t": "p",
+     "text": "Thompson khép lại trận đấu cuối cùng bằng đúng sở trường striking đã làm nên tên tuổi của anh. Một ngày chia tay cực kỳ mãn nhãn."
+    },
+    {
+     "t": "p",
+     "text": "Thompson năm nay 43 tuổi, có biệt danh “Wonderboy”. Anh thi đấu chuyên nghiệp từ năm 2010 và ra mắt UFC vào tháng 2-2012."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi nổi tiếng ở MMA, Thompson là võ sĩ kickboxing với thành tích 57 trận thắng, chưa từng chịu thất bại, trong đó có hơn 40 lần knock-out. Anh cũng từng 5 lần vô địch thế giới kickboxing."
+    },
+    {
+     "t": "p",
+     "text": "Wonder Thompson Knocks Out Charles Radtke - PolyMarket UFC 334 - YouTube"
+    },
+    {
+     "t": "p",
+     "text": "Ở UFC, Thompson nổi bật nhờ lối đánh karate khác biệt: giữ cự ly, di chuyển linh hoạt rồi tung những cú đá bất ngờ."
+    },
+    {
+     "t": "p",
+     "text": "Anh từng đánh bại nhiều đối thủ tên tuổi như Johny Hendricks, Rory MacDonald, Jorge Masvidal và Robert Whittaker. Đỉnh cao sự nghiệp đến vào năm 2016 và 2017, khi anh hai lần tranh đai vô địch hạng bán trung với Tyron Woodley."
+    },
+    {
+     "t": "p",
+     "text": "Lần đầu, hai võ sĩ hòa sau năm hiệp; ở trận tái đấu, Thompson lại thua bằng quyết định đa số của trọng tài. Điều lạ lùng là Thompson chưa một lần giành được đai UFC."
+    },
+    {
+     "t": "p",
+     "text": "Thompson bước vào trận gặp Radtke sau quãng thời gian khó khăn, với ba thất bại trong bốn lần thượng đài gần nhất."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng anh vẫn khép lại chặng đường 14 năm ở UFC bằng chiến thắng thứ 18 trong sự nghiệp MMA, nâng thành tích lên 18 thắng, 9 thua và 1 trận hòa. Cú đá cuối cùng ấy là lời chia tay giàu cảm xúc của một trong những tay đánh đứng đặc sắc nhất lịch sử hạng bán trung."
+    }
+   ]
+  },
+  {
+   "id": "4860f27995d2",
+   "order": 13,
+   "slug": "can-cu-tren-mat-trang-la-gi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Căn cứ trên Mặt Trăng là gì?",
+   "sapo": "NASA đang đưa các nhà du hành vũ trụ trở lại Mặt Trăng – và lần này họ sẽ ở lại trên bề mặt Mặt Trăng lâu hơn. Căn cứ Mặt Trăng là tiền đồn (outpost) đầu tiên của loài người trên Mặt Trăng. Nó",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+   "published": "2026-11-18T17:36:03+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 2042,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "What Is the Moon Base?",
+   "images": [
+    {
+     "src": "img/2026-11-19/4860f27995d2-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bài viết này dành cho học sinh."
+    },
+    {
+     "t": "p",
+     "text": "NASA đang đưa các nhà du hành vũ trụ trở lại Mặt Trăng – và lần này họ sẽ ở lại trên bề mặt Mặt Trăng lâu hơn. Căn cứ Mặt Trăng là tiền đồn đầu tiên của loài người trên Mặt Trăng. Đây sẽ là nơi các nhà du hành vũ trụ sinh sống, làm việc và khám phá."
+    },
+    {
+     "t": "p",
+     "text": "______________________________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "Những từ cần biết"
+    },
+    {
+     "t": "p",
+     "text": "tiền đồn (outpost): một trạm hay căn cứ nằm ở nơi xa xôi, hẻo lánh"
+    },
+    {
+     "t": "p",
+     "text": "cơ sở hạ tầng (infrastructure): khung nền tảng và các hệ thống cơ bản tạo nên một công trình hay tổ chức lớn hơn"
+    },
+    {
+     "t": "p",
+     "text": "địa hình (terrain): các đặc điểm vật lý, hình dạng và bố cục của bề mặt một vùng đất, bao gồm độ dốc và độ cao"
+    },
+    {
+     "t": "p",
+     "text": "lớp đất đá vụn (regolith): lớp đá vụn và bụi khoáng vật rời rạc phủ trên hầu hết bề mặt Mặt Trăng"
+    },
+    {
+     "t": "p",
+     "text": "______________________________________________________________________"
+    },
+    {
+     "t": "h",
+     "text": "Căn cứ Mặt Trăng sẽ được xây ở đâu?"
+    },
+    {
+     "t": "p",
+     "text": "Trạm Căn cứ Mặt Trăng sẽ được xây dựng ở khu vực cực Nam của Mặt Trăng. Khu vực này được chọn vì điều kiện ánh sáng đặc biệt và khả năng mang lại những phát hiện khoa học mới."
+    },
+    {
+     "t": "p",
+     "text": "Gần cực Nam Mặt Trăng, Mặt Trời luôn ở vị trí thấp trên đường chân trời. Một số khu vực có thể nhận được ánh nắng kéo dài liên tục. Những khu vực khác lại chìm trong bóng tối suốt một thời gian dài. Ở một số miệng núi lửa (crater), ánh nắng có thể chưa từng chiếu tới mặt đất."
+    },
+    {
+     "t": "p",
+     "text": "Những khu vực có ánh nắng kéo dài có thể rất thích hợp để tạo ra điện năng từ năng lượng mặt trời. Thời gian có nắng lâu hơn cũng giúp việc định hướng và thăm dò dễ dàng hơn. Những khu vực luôn chìm trong bóng tối là nơi lạnh nhất trên Mặt Trăng. Tại những nơi này, các nhà khoa học hy vọng sẽ tìm thấy các lớp băng nước đóng thành khối."
+    },
+    {
+     "t": "h",
+     "text": "Khi nào Trạm Căn cứ Mặt Trăng sẽ được xây dựng?"
+    },
+    {
+     "t": "p",
+     "text": "Trạm Căn cứ Mặt Trăng sẽ được xây dựng theo ba giai đoạn. Mỗi giai đoạn sẽ dựa trên những gì học được từ giai đoạn trước."
+    },
+    {
+     "t": "p",
+     "text": "Giai đoạn Một đang diễn ra ngay lúc này. Trong vài năm tới, NASA và các đối tác sẽ gửi các nhiệm vụ robot để khám phá khu vực cực Nam Mặt Trăng. Họ sẽ thử nghiệm các công nghệ mới và luyện tập việc hạ cánh trên Mặt Trăng. Giai đoạn này sẽ bao gồm nhiều tàu đổ bộ và xe tự hành thám hiểm địa hình Mặt Trăng khác nhau. Các nhiệm vụ này sẽ thực hiện các thí nghiệm khoa học và tìm kiếm những địa điểm tốt nhất để xây dựng Trạm Căn cứ Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Giai đoạn Hai được dự kiến diễn ra trong khoảng 2029-2032. Trong giai đoạn này, NASA sẽ bắt đầu xây dựng hạ tầng (infrastructure) lâu dài. Điều này bao gồm những thứ như hệ thống cấp điện, vận chuyển hàng hóa và thiết bị liên lạc. Các thành phần này sẽ được lắp đặt ở nhiều địa điểm khác nhau. Điều này sẽ giúp cho việc mở rộng Trạm Căn cứ Mặt Trăng trong tương lai."
+    },
+    {
+     "t": "p",
+     "text": "Trong Giai đoạn Ba, NASA sẽ bắt đầu lắp ráp một tiền đồn (outpost) lâu dài trên Mặt Trăng. Đây là nơi các phi hành gia có thể sinh sống và làm việc trong thời gian dài. Các khu nhà ở, hệ thống cấp điện và liên lạc, cùng phương tiện vận chuyển sẽ cùng nhau giúp Trạm Căn cứ Mặt Trăng ngày càng phát triển."
+    },
+    {
+     "t": "h",
+     "text": "Các thành phần khác nhau của Trạm Căn cứ Mặt Trăng là gì?"
+    },
+    {
+     "t": "p",
+     "text": "Các xe tự hành trên Mặt Trăng, cả loại có người điều khiển và loại robot, sẽ đóng vai trò quan trọng trong việc phát triển Trạm Căn cứ Mặt Trăng. Những xe tự hành này sẽ thử nghiệm công nghệ, chở các phi hành gia, vẽ bản đồ địa hình (terrain) và nhiều việc khác nữa. Hãy cùng tìm hiểu về một vài chiếc xe tự hành đang được chế tạo trong khuôn khổ dự án Trạm Căn cứ Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "VIPER (Volatiles Investigating Polar Exploration Rover) của NASA đã được lắp ráp hoàn chỉnh. Nó đang được thử nghiệm tại Trung tâm Vũ trụ Johnson của NASA ở Houston. Vào năm 2027, nó sẽ được phóng lên Mặt Trăng từ Trung tâm Vũ trụ Kennedy của NASA ở Florida. Nhiệm vụ của nó là khám phá các miệng hố bị che khuất vĩnh viễn để tìm nước và các nguồn tài nguyên khác. Nó sẽ di chuyển hơn 24 km, thu thập dữ liệu và phân tích đất đá trên Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration) của NASA là một robot tự hành chạy bằng năng lượng hạt nhân. Nó được chế tạo từ những thiết bị đã có sẵn, được tạo ra cho các nhiệm vụ robot tự hành sao Hỏa của NASA. PROMISE sẽ tìm kiếm các nguồn tài nguyên - như băng nước có thể tồn tại - trên và dưới bề mặt Mặt Trăng. Nó sẽ mang theo nhiều thiết bị khoa học, trong đó có một số thiết bị cũng được trang bị trên VIPER. Nhiệm vụ này được dự kiến phóng vào cuối năm 2028."
+    },
+    {
+     "t": "p",
+     "text": "Các phương tiện di chuyển trên Mặt Trăng (LTV) sẽ được phóng lên khu vực Cực Nam của Mặt Trăng trước năm 2028. Những phương tiện có người điều khiển này sẽ do các nhà du hành vũ trụ lái trong các nhiệm vụ lên Mặt Trăng. Điều này sẽ giúp đội ngũ phi hành gia khám phá những khu vực rộng lớn hơn và thu thập các mẫu địa chất. Khi không có nhà du hành vũ trụ trên Mặt Trăng, các LTV sẽ được điều khiển từ xa từ Trái Đất. Chúng sẽ lập bản đồ bề mặt Mặt Trăng và thu thập dữ liệu về môi trường khắc nghiệt ở khu vực này."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh các robot tự hành, nhiệm vụ MoonFall của NASA sẽ đưa một nhóm máy bay không người lái có động cơ đẩy lên Mặt Trăng. Chúng sẽ đổ bộ gần khu vực Cực Nam của Mặt Trăng trước năm 2028. Các máy bay không người lái này sẽ tự hạ xuống bề mặt Mặt Trăng một cách độc lập. Chúng sẽ hoạt động riêng lẻ trong suốt một ngày trên Mặt Trăng (khoảng 14 ngày Trái Đất). Chúng sẽ sử dụng camera độ phân giải cao để lập bản đồ những địa hình khó tiếp cận. Dữ liệu này sẽ giúp NASA lựa chọn những địa điểm hạ cánh phù hợp cho chương trình Artemis."
+    },
+    {
+     "t": "h",
+     "text": "Những thử thách khi xây dựng công trình trên Mặt Trăng là gì?"
+    },
+    {
+     "t": "p",
+     "text": "Khu vực Cực Nam của Mặt Trăng là một môi trường khắc nghiệt. Mặt Trăng không có bầu khí quyển đáng kể. Điều này có nghĩa là nhiệt độ có thể lên tới hơn 54°C ở những khu vực có ánh nắng. Và nhiệt độ có thể xuống tới -203°C bên trong các miệng hố bị che khuất vĩnh viễn. Điều này có thể rất nguy hiểm cho các nhà du hành vũ trụ. Nhưng đó cũng là một thử thách khi thiết kế cơ sở hạ tầng và thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Việc di chuyển trên bề mặt Mặt Trăng gập ghềnh có thể rất khó khăn. Khu vực Cực Nam của Mặt Trăng có những sườn dốc đứng, các dãy gờ, đá và những miệng hố sâu. Miệng hố Shackleton sâu hơn gấp đôi hẻm núi Grand Canyon. Việc lập bản đồ chi tiết và khám phá bằng robot sẽ giúp NASA xác định những khu vực hạ cánh an toàn và lập kế hoạch lộ trình cho các nhà du hành vũ trụ và robot tự hành."
+    },
+    {
+     "t": "p",
+     "text": "Bề mặt Mặt Trăng được bao phủ bởi đất đá mặt trăng (regolith). Lớp vật liệu đá này là kết quả của những vụ va chạm với thiên thạch. Vì không có gió hay mưa gây xói mòn trên bề mặt Mặt Trăng, các hạt đất đá mặt trăng có những cạnh sắc nhọn. Điều này có nghĩa là đất đá mặt trăng có thể nhanh chóng làm hỏng bộ đồ vũ trụ và các thiết bị. Nó có thể gây kích ứng đặc biệt cho da và nguy hiểm nếu hít phải. Cần phải có các biện pháp phòng ngừa để giữ đất đá mặt trăng và bụi Mặt Trăng không lọt vào những khu vực nơi các nhà du hành vũ trụ sinh sống."
+    },
+    {
+     "t": "h",
+     "text": "Trạm căn cứ Mặt Trăng sẽ giúp chuẩn bị cho các nhiệm vụ trong tương lai như thế nào?"
+    },
+    {
+     "t": "p",
+     "text": "Trạm Căn cứ Mặt Trăng là một bước quan trọng trong việc học cách sinh sống và làm việc trên một thế giới khác. Những gì chúng ta học được trên bề mặt Mặt Trăng bằng cách thử nghiệm các kỹ thuật hạ cánh mới, phương pháp xây dựng và công nghệ khám phá sẽ giúp chuẩn bị cho các nhiệm vụ có con người lên sao Hỏa."
+    },
+    {
+     "t": "h",
+     "text": "Góc nghề nghiệp"
+    },
+    {
+     "t": "p",
+     "text": "Dưới đây là một vài ví dụ về những nghề nghiệp đang giúp kế hoạch Trạm Mặt Trăng của NASA trở thành hiện thực:"
+    },
+    {
+     "t": "p",
+     "text": "Kỹ sư lốp xe vũ trụ: Những chiếc xe tự hành được thiết kế cho Trạm Mặt Trăng cần có loại lốp đặc biệt. Các kỹ sư phải tính đến việc không có khí quyển, nhiệt độ cực đoan và địa hình nhiều đá khi thiết kế lốp xe để di chuyển quãng đường dài trên Mặt Trăng. Nghề kỹ sư (engineering) đòi hỏi phải hiểu sâu về toán học và khả năng giải quyết những vấn đề phức tạp. Thường cần có bằng đại học cao cấp. Bấm vào đây để xem một kỹ sư lốp xe vũ trụ làm việc."
+    },
+    {
+     "t": "p",
+     "text": "Nhà địa chất khảo sát: Những nhà khoa học này nghiên cứu đá và khoáng vật trên Trái Đất và trong khắp hệ Mặt Trời. Họ quan sát các quá trình địa chất để xem xói mòn và môi trường khắc nghiệt có thể làm thay đổi địa hình như thế nào. Đối với Trạm Mặt Trăng, họ đang giúp chọn ra những địa điểm để khám phá trên bề mặt Mặt Trăng. Họ cũng giúp huấn luyện các nhà du hành vũ trụ sẽ hạ cánh và thu thập mẫu vật. Nghề này cần kỹ năng quan sát tốt và thường yêu cầu bằng đại học cao cấp. Bấm vào đây để xem công việc của một nhà địa chất khảo sát tại NASA là như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Kỹ thuật viên sản xuất: Biến các bản thiết kế thành hiện thực cần đến những kỹ thuật viên lành nghề. Việc chế tạo và lắp ráp thiết bị robot và các bộ phận của tàu vũ trụ đòi hỏi những phép tính chính xác. Khả năng làm theo những hướng dẫn phức tạp là yếu tố then chốt. Có thể cần được đào tạo tại trường nghề và có các kỹ năng như vận hành xe nâng và máy móc hạng nặng."
+    },
+    {
+     "t": "p",
+     "text": "Kỹ thuật viên thiết bị: Những chuyên gia này lắp đặt, điều chỉnh (calibrate) và bảo trì các cảm biến cùng hệ thống điều khiển. Họ xử lý các sự cố có thể xảy ra với những hệ thống và thiết bị tinh vi. Con đường nghề nghiệp này thường bắt đầu bằng việc học nghề hoặc được đào tạo thực hành cùng các kỹ thuật viên có kinh nghiệm. Thường cần có bằng cao đẳng. Bấm vào đây để xem một số bài kiểm tra được thực hiện trên một trong các tàu đổ bộ của Trạm Mặt Trăng."
+    },
+    {
+     "t": "h",
+     "text": "Tìm hiểu thêm về Trạm Mặt Trăng"
+    },
+    {
+     "t": "p",
+     "text": "Trang web Trạm Mặt Trăng, podcast \"Houston We Have a Podcast\" tập về Trạm Mặt Trăng, tài liệu học tập về Trạm Mặt Trăng, danh sách video của NASA về Trạm Mặt Trăng, Đất đá Mặt Trăng (lunar regolith) là gì?"
+    }
+   ]
+  },
+  {
+   "id": "4dde468c1012",
+   "order": 14,
+   "slug": "may-bay-khong-nguoi-lai-moi-dung-xuc-giac-de-dau-nhu-chim",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Máy bay không người lái mới dùng xúc giác để đậu như chim",
+   "sapo": "Những ngón tay mô phỏng con người của máy bay không người lái này dùng xúc giác để bám chặt. Cách này tránh được một số trở ngại khi phải dựa vào thị giác để đậu.",
+   "author": "Lily Burton",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
+   "published": "2026-11-18T11:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1342,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "A new flying drone uses touch to perch like a bird",
+   "images": [
+    {
+     "src": "img/2026-11-19/4dde468c1012-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Một robot bay mới sử dụng cảm giác khéo léo để tự bám chắc vào một cành cây."
+    },
+    {
+     "t": "p",
+     "text": "Bám chắc vào một điểm đậu có thể giúp máy bay không người lái (drone) ở lại một chỗ trong thời gian dài. Nhờ vậy, chúng có thể theo dõi các nhà máy, đường dây điện và những công trình hạ tầng khác, hoặc khám phá những nơi xa xôi. Nhưng các nhà nghiên cứu robot nhận thấy rất khó để giúp drone bám chắc một cách đáng tin cậy."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều loại drone từ trước đến nay dựa vào thị giác để đậu. Nhưng ở những không gian chật chội, thị giác có thể bị cản trở. Khi đó, robot có thể không bám được. Đôi khi, chính bộ kẹp của drone lại che mất tầm nhìn của nó lúc đang hạ cánh. Thiết kế của robot mới này vượt qua thử thách đó bằng cách không dựa vào thị giác mà dựa vào cảm biến xúc giác (touch sensor)."
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, chiếc drone này có thể \"cảm nhận\" đường đi để bám vào một cành cây hay một điểm đậu tương tự. Và một khi đã bám chắc, ba ngón tay mô phỏng con người của nó không cần thêm năng lượng để giữ nguyên vị trí đó mãi mãi."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã mô tả thiết kế mới này vào ngày 22 tháng 8 trên tạp chí npj Robotics."
+    },
+    {
+     "t": "h",
+     "text": "Học hỏi từ loài chim"
+    },
+    {
+     "t": "p",
+     "text": "Anton Bredenbeck là một nhà nghiên cứu robot tại Đại học Công nghệ Delft ở Hà Lan. Nhóm của ông muốn chế tạo một robot có thể giúp nghiên cứu các hệ sinh thái dễ bị tổn thương cùng các loài sinh vật trong đó. Nhưng để làm được điều đó, drone cần phải ở lại những nơi ấy trong một thời gian."
+    },
+    {
+     "t": "p",
+     "text": "Bredenbeck nói: \"Vấn đề là drone bay rất, rất kém hiệu quả.\" Hãy thử tưởng tượng các nhà khoa học muốn đưa một drone vào rừng trong một tháng. Một chiếc drone không thể bay liên tục lâu như thế. Vì vậy, nhóm của Bredenbeck đã chọn một hướng đi khác. \"Hãy xem chúng ta có thể làm cho máy bay của mình bám vào môi trường xung quanh như thế nào.\""
+    },
+    {
+     "t": "p",
+     "text": "Cách tiếp cận của họ được lấy cảm hứng từ thế giới động vật. Từ xa, chim có thể dùng thị giác để tìm chỗ đậu. Nhưng xúc giác mới là thứ dẫn dắt những khoảnh khắc cuối cùng khi chúng hạ cánh."
+    },
+    {
+     "t": "p",
+     "text": "Chiếc drone mới này thực hiện phiên bản \"đậu\" của riêng nó bằng cách bám vào vật gì đó và treo mình bên dưới. Để làm được điều này, nó dùng ba ngón tay mô phỏng con người, được đặt giống như ngón cái, ngón trỏ và ngón giữa. Mỗi ngón có ba đốt với độ dài khác nhau. Giống như ở ngón tay người, những đốt này được gọi là đốt ngón tay (phalanges). Đốt ngắn nhất ở đầu ngón tay. Đốt dài nhất gắn vào robot. Thiết kế này giúp cái nắm bắt có thể thích ứng với nhiều hình dạng khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong mỗi ngón tay có các cảm biến chạm bao quanh những miếng đệm silicon. Khi cảm biến chạm vào vật gì, drone sẽ biết nó nên di chuyển đến đâu và có nên khép các ngón tay lại để nắm giữ hay không."
+    },
+    {
+     "t": "p",
+     "text": "Các đốt ngón tay được nối với nhau bằng những khớp có thể gập, gắn lò xo. Những chiếc lò xo này giữ cho các ngón tay ở vị trí khép lại, giống như lò xo trong cái kẹp phơi đồ hay kẹp tóc dạng càng cua. Nhờ có lò xo, khi các ngón tay đã nắm được vật gì đó, chúng có thể giữ nguyên vị trí mà không cần tốn thêm năng lượng."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng các ngón tay vẫn cần được mở ra bằng một động cơ trước khi robot có thể bám vào chỗ đậu. Vì thế, mỗi ngón được nối với và điều khiển bởi một dây cáp kim loại. Những dây cáp đó hoạt động giống như gân trong các ngón tay người. Khi động cơ kéo những \"gân\" nhân tạo này, các khớp sẽ duỗi thẳng ra để mở các ngón tay."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi thực sự ngạc nhiên vì nó hoạt động tốt đến thế,\" Bredenbeck nói. Các ngón tay thích ứng được với nhiều hình dạng khác nhau mà thiết kế không quá phức tạp. \"Chúng tôi chỉ có một cái gân. Chúng tôi kéo cái gân đó. Và ngón tay sẽ tự uốn theo và thích ứng với vật cần nắm.\""
+    },
+    {
+     "t": "h",
+     "text": "Bạn có câu hỏi về khoa học không? Chúng tôi có thể giúp bạn!"
+    },
+    {
+     "t": "h",
+     "text": "Kỹ thuật cho thế giới thực"
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một ví dụ tốt về trí thông minh hiện thân (embodied intelligence),\" Cecilia Laschi nói về chiếc drone mới. Là một nhà robot học, Laschi chuyên nghiên cứu các hệ thống có bộ phận mềm. Bà làm việc tại Đại học Quốc gia Singapore và không tham gia vào việc chế tạo drone mới này."
+    },
+    {
+     "t": "p",
+     "text": "Trí thông minh hiện thân là cách các nhà robot học mô tả thiết kế của một số robot và sinh vật sống. Loại trí thông minh này không đến từ một bộ não hay máy tính điều khiển. Thay vào đó, nó đến từ một thiết kế có thể tự nhiên thích ứng với môi trường xung quanh."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến nay, chiếc drone của Delft mới chỉ được thử nghiệm trong phòng thí nghiệm. Ở đó, nó không phải tìm kiếm xa để có được một chỗ để nắm và đậu. Thế giới thực có thể sẽ đặt ra những thử thách lớn hơn. Bredenbeck muốn biết một chiếc drone trong tương lai sẽ hoạt động tốt hơn đến mức nào nếu nó có thể sử dụng cả thị giác và xúc giác."
+    },
+    {
+     "t": "p",
+     "text": "Những bàn tay và ngón tay mô phỏng con người như thế này đã được thiết kế trước đây. Nhưng chiếc drone này lại giúp chúng có thể bay. Nó có thể đậu một cách tin cậy nếu có chỗ nào đó trong phạm vi vài mét. Nó còn có thể bám vào nhiều thứ khác ngoài cành cây, kể cả một chóp giao thông hình nón, một miếng kim loại hình chữ T và cả cánh tay người. Trong mỗi lần thử nghiệm (tổng cộng 26 lần), robot đều bám chắc thành công trong vòng chưa đầy 70 giây."
+    },
+    {
+     "t": "p",
+     "text": "David Lentink chỉ ra rằng dù chiếc drone này có thể nhìn thấy được, nó vẫn không linh hoạt như một con chim thật. Những máy móc do các kỹ sư con người thiết kế đơn giản là không đa năng như các sinh vật sống, nhà khoa học và kỹ sư này tại Đại học Groningen ở Hà Lan cho biết. Và ông biết rõ điều này vì chính ông, khi còn làm việc tại Đại học Stanford, cũng đã phát triển một chiếc drone có khả năng bám nắm lấy cảm hứng từ loài chim."
+    },
+    {
+     "t": "p",
+     "text": "Ông giải thích rằng các kỹ sư thường tránh phát triển những bộ phận quá phức tạp, quá đắt đỏ hoặc quá khó làm. Nhưng Lentink nói rằng thế giới tự nhiên vẫn có thể gợi ý những cách mới để giải quyết các bài toán kỹ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Thật vậy, Laschi nói thêm rằng nghiên cứu này đại diện cho một hướng đi đầy hứa hẹn cho ngành robot. Bà nhận thấy rằng các robot mới thường “chạy giỏi, nhảy giỏi — nhưng lại không giỏi tương tác với môi trường xung quanh. Khi chúng cầm nắm vật, động tác không mượt mà. Chúng không hiệu quả lắm,” bà nhận xét."
+    },
+    {
+     "t": "p",
+     "text": "“Ngành robot là về việc tương tác vật lý với các vật thể,” bà nói. “Tôi nghĩ đó chính là điều mà ngành robot hiện nay cần.” Thiết kế của chiếc drone mới này chính là một bước tiến đúng theo hướng đó."
+    }
+   ]
+  },
+  {
+   "id": "49c56cb191c4",
+   "order": 15,
+   "slug": "du-lieu-nasa-xac-nhan-lan-dau-tien-quan-sat-duoc-mot-vu-sap",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Dữ liệu NASA xác nhận lần đầu tiên quan sát được một vụ sáp nhập sao chưa từng có",
+   "sapo": "Các nhà nghiên cứu vừa phát hiện một hiện tượng chưa từng được ghi nhận trước đây: một ngôi sao có khối lượng nhỏ hơn Mặt Trời một chút đã xoáy vào và sáp nhập với một sao siêu khổng lồ (supergiant star) phồng to ở",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+   "published": "2026-11-18T16:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1885,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+   "images": [
+    {
+     "src": "img/2026-11-19/49c56cb191c4-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 861
+    },
+    {
+     "src": "img/2026-11-19/49c56cb191c4-0.jpg",
+     "caption": "Khoảng một nửa thiên hà Andromeda chiếm phần lớn khung hình. Lõi thiên hà, ở góc trên bên trái, trông như một đốm sáng trắng phát ra ánh sáng. Viền thiên hà sáng màu xanh lam, với những vòng bán nguyệt bụi màu nâu sẫm không đều. Nền đen điểm xuyết các vì sao và thiên hà khác. Một ô nhỏ viền trắng dày nằm gần viền xanh bên phải của Andromeda, với một điểm sáng nhỏ bên trong. Ghi chú, dưới cùng bên trái: Digitized Sky Survey và R. Gendler. Bốn ô dọc bên phải cho thấy ngôi sao được quan sát ở các thời điểm khác nhau bởi ba kính thiên văn. Ngôi sao được khoanh tròn ở trung tâm bằng đường nét đứt. Từ trên xuống dưới: ảnh của NEOWISE ở giai đoạn yên tĩnh cho thấy một ngôi sao nhỏ, mờ, mờ nhòe chiếm khoảng một nửa vòng tròn chấm; ảnh của NEOWISE ở giai đoạn tiền thân cho thấy một đốm cam mờ đục hơn, lớn hơn; ảnh của SPHEREx ghi lại vụ bùng phát cho thấy một vòng tròn vàng sáng lớn gần như chạm đến viền của vòng tròn nét đứt; ảnh của Webb ở giai đoạn sau bùng phát cho thấy một điểm nhỏ đỏ và trắng.",
+     "w": 1280,
+     "h": 861
+    },
+    {
+     "src": "img/2026-11-19/49c56cb191c4-1.jpg",
+     "caption": "Hình minh họa gồm bốn phần. Góc trên bên trái, có nhãn giai đoạn yên tĩnh, cho thấy góc nhìn rộng nhất. Một ngôi sao đỏ lớn và một ngôi sao vàng nhỏ như điểm chấm ở cạnh bên phải xuất hiện trên nền đen giữa một vùng bụi mờ rộng lớn. Góc trên bên phải cho thấy cảnh phóng to, có nhãn giai đoạn tiền thân. Một ngôi sao cam sáng lớn với viền đỏ phát sáng nằm ở trung tâm. Lớp bụi đỏ sáng của nó chiếm toàn bộ khung hình. Ngôi sao vàng nhỏ hơn ở vị trí 3 giờ có một vòng cung màu vàng bay lên phía trên ngôi sao đỏ. Góc dưới bên trái cho thấy vụ bùng phát. Ngôi sao trông như hợp nhất thành một, với vùng sáng hơi nhỏ hơn so với khung trước, nay có màu vàng. Nó được bao quanh bởi lớp bụi xốp, sẫm màu hơn, kéo dài lên trên và xuống dưới. Góc dưới bên phải, có nhãn giai đoạn sau bùng phát. Cảnh tương tự, với ngôi sao trung tâm trông như bị bao bọc trong nhiều lớp bụi màu nâu sẫm dày hơn, kéo dài ra gần như mọi cạnh của khung hình.",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu vừa phát hiện một hiện tượng chưa từng được ghi nhận trước đây: một ngôi sao có khối lượng nhỏ hơn Mặt Trời một chút đã xoáy vào và sáp nhập với một sao siêu khổng lồ phồng to, ở vùng ngoại vi của thiên hà láng giềng Andromeda. Họ đặt tên cho ngôi sao mới, đơn lẻ và có thể đã được \"tái sinh\" này là Bao. Phát hiện do NASA tài trợ này sau đó được củng cố bởi các quan sát nhanh từ Kính viễn vọng Không gian James Webb của NASA, được đối chiếu kỹ càng với lượng dữ liệu phong phú từ các kính thiên văn trong không gian và trên mặt đất."
+    },
+    {
+     "t": "p",
+     "text": "\"Các vụ sáp nhập sao rất, rất khó quan sát theo thời gian thực vì chúng khó dự đoán,\" Viraj Karambelkar, tác giả chính của một bài báo mới trên tạp chí Nature công bố hôm thứ Tư, đồng thời là Học giả Hubble của NASA tại Đại học Columbia ở New York, cho biết. \"Tuy nhiên, chúng tôi nhận thấy có điều gì đó bất thường đang diễn ra vào năm 2023 và tiếp tục theo dõi hệ sao này để xem nó sẽ diễn biến ra sao. Rồi đến năm 2025, nó bùng phát! Webb quan sát Bao chỉ 47 ngày sau khi vụ bùng phát của các ngôi sao đạt đỉnh, đây là lần theo dõi sớm nhất từ trước đến nay đối với một sự kiện như vậy. Dữ liệu của kính thiên văn giúp chúng tôi mô tả hệ sao này trông như thế nào trước, trong và ngay sau khi sáp nhập, điều này thực sự rất kinh ngạc.\""
+    },
+    {
+     "t": "h",
+     "text": "Hình ảnh: AT 2025abao trong thiên hà Andromeda"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trước khi biến đổi, hai ngôi sao đã trải qua hàng nghìn năm lặng lẽ quay quanh nhau như một cặp sao đôi. Nhưng khi ngôi sao nhỏ hơn tiếp xúc với bề mặt của ngôi sao khổng lồ, sự \"hợp nhất\" của chúng chỉ diễn ra sau bảy vòng quỹ đạo (khoảng bảy năm). Những vụ sáp nhập sao đôi khác đã biết, với hai ngôi sao nhỏ hơn, thường xảy ra sau hàng nghìn vòng quỹ đạo."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi nghĩ rằng một vụ bùng phát từ một ngôi sao phồng to như vậy sẽ phải mất nhiều năm,\" đồng tác giả Nadia Blagorodnova, phó giáo sư tại Đại học Barcelona ở Tây Ban Nha, cho biết. \"Một ngày, độ sáng của nó bắt đầu tăng lên và chỉ trong vòng một tuần, nó đã đạt đỉnh!\""
+    },
+    {
+     "t": "p",
+     "text": "\"Khi một ngôi sao đồng hành bắt đầu tương tác với bề mặt ngoài của ngôi sao chính, nó tạo ra một hiệu ứng rất tinh tế — độ sáng tăng dần một cách chậm rãi, điều mà chúng tôi thấy rõ trong dữ liệu của Bao,\" đồng tác giả Kishalay De, trợ lý giáo sư tại Đại học Columbia ở New York, cho biết. \"Khi ngôi sao đồng hành tiếp tục quỹ đạo của nó, nó liên tục bóc tách các lớp ngoài của ngôi sao chính, và lượng khí đó trôi ra không gian xung quanh.\""
+    },
+    {
+     "t": "p",
+     "text": "Đây là khởi đầu của một cuộc đối đầu đầy rủi ro mà một số sao đôi phải trải qua, được gọi là quá trình tiến hóa vỏ chung (common envelope evolution). Lượng khí giữa hai ngôi sao ở giai đoạn này được gọi là vỏ chung vì lớp ngoài của nó được chia sẻ giữa hai sao. Trong hệ sao này, ngôi sao chính đã nuốt chửng ngôi sao nhỏ hơn, và sao đồng hành rơi vào trong, xoáy qua lớp vỏ khi bị lực cản làm mất năng lượng quỹ đạo. Trong khi dữ liệu của Webb đã chứng minh hai ngôi sao đã sáp nhập, thì sáp nhập không phải là kết quả duy nhất có thể xảy ra với hệ sao này."
+    },
+    {
+     "t": "p",
+     "text": "Ở những hệ sao khác, cả hai ngôi sao đều sống sót qua quá trình này — mất đi rất nhiều khối lượng trên đường đi, nhưng vẫn tồn tại độc lập trong các quỹ đạo gần nhau. Theo thời gian, những cặp sao sống sót như vậy có thể biến thành sao neutron và hố đen, phát nổ thành siêu tân tinh, tạo ra những gợn sóng trong không-thời gian được gọi là sóng hấp dẫn, và tạo ra các sao xung mili giây (millisecond pulsar)."
+    },
+    {
+     "t": "h",
+     "text": "Bấm nút \"phát lại\""
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu đã tái hiện lại những gì đã xảy ra với Bao bằng cách cập nhật các mô phỏng mà họ đang thực hiện. Họ đã tìm ra mô hình khớp với các quan sát hồng ngoại trung (mid-infrared) của Webb, mô hình này mô tả chi tiết lượng bụi mà ngôi sao chính có khối lượng lớn hơn đã thải ra trong suốt nhiều thế kỷ."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu kết luận rằng trước khi xảy ra vụ nổ, ngôi sao chính của Bao lớn hơn Mặt Trời rất nhiều: nó nặng gấp 7 lần, có bán kính gấp 350 lần và sáng gấp 18.000 lần — khiến cái tên \"Bao Lớn\" trở nên rất hợp lý."
+    },
+    {
+     "t": "p",
+     "text": "\"Đó thực sự là một con quái vật trong thế giới các vì sao, hoàn toàn áp đảo người bạn đồng hành của nó trong dữ liệu,\" đồng tác giả Karel Temmink, nghiên cứu sinh tiến sĩ tại Đại học Radboud ở Nijmegen, Hà Lan, người đứng đầu các mô phỏng, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình của họ đã đưa ra ước tính đầu tiên về khối lượng của ngôi sao đồng hành nhỏ hơn, hiện đã bị phá hủy. So với Mặt Trời của chúng ta, họ phát hiện \"Bao Nhỏ\" có khả năng nhẹ hơn (khoảng 0,7 lần khối lượng Mặt Trời), với bán kính nhỏ hơn một chút và mờ hơn."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi xác định được khối lượng của cặp sao này, mô hình cho thấy có thể còn năng lượng dư để Bao Nhỏ \"trốn thoát\" khỏi hiện trường. Tuy nhiên, phân tích sâu hơn xác định rằng Bao Nhỏ đã bị kéo vào lõi của Bao Lớn. Cuộc chạm mặt của chúng \"gần như giống một quả bom phát nổ bên trong một ngôi sao đang sống,\" De nói."
+    },
+    {
+     "t": "p",
+     "text": "Ngôi sao mới — giờ chỉ đơn giản được gọi là Bao — trông như thế nào vào thời điểm hiện tại? Chỉ những quan sát trong tương lai mới có thể xác định được \"trọng lượng\" của nó sẽ ổn định ra sao."
+    },
+    {
+     "t": "h",
+     "text": "Hình ảnh: Vụ sáp nhập sao tại Andromeda (hình minh họa)"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Dựng lại những gì đã xảy ra"
+    },
+    {
+     "t": "p",
+     "text": "Trong khi dữ liệu từ kính viễn vọng Webb giúp nhóm nghiên cứu đo được lượng vật chất đã bị đẩy ra trong quá trình này và mức độ hiệu quả của quá trình \"tiến hóa phong bì chung\" (common envelope evolution), nhóm của Karambelkar còn sử dụng các quan sát trải dài từ ánh sáng cực tím, ánh sáng nhìn thấy đến ánh sáng hồng ngoại gần từ nhiều kính viễn vọng khác nhau để theo dõi các sự kiện, thường là ngay khi chúng đang diễn ra. (Trên thực tế, họ đã công bố bài báo đầu tiên ngay trước vụ nổ năm 2025.)"
+    },
+    {
+     "t": "p",
+     "text": "Bao lần đầu thu hút sự chú ý của nhóm nghiên cứu vào tháng 2 năm 2023, khi họ phát hiện một ngôi sao biến quang bất thường trong dữ liệu từ sứ mệnh NEOWISE (Kính viễn vọng khảo sát hồng ngoại trường rộng các vật thể gần Trái Đất) đã ngừng hoạt động của NASA. Trước năm 2018, vật thể này có độ sáng ổn định. Các quan sát từ Kính viễn vọng khảo sát các vật thể biến đổi hồng ngoại trường rộng (WINTER) vào tháng 9 năm 2024 cho thấy Bao không chỉ bắt đầu sáng dần lên mà còn phun ra bụi."
+    },
+    {
+     "t": "p",
+     "text": "Khi kính viễn vọng SPHEREx (Máy quang phổ kế lịch sử vũ trụ, thời kỳ tái ion hóa và khảo sát băng) của NASA tình cờ phát hiện Bao mờ đi nhanh chóng trong ánh sáng nhìn thấy và sáng lên trong ánh sáng hồng ngoại trong một cuộc khảo sát định kỳ vào tháng 7 năm 2025, các nhà nghiên cứu biết rằng đó là dấu hiệu của một hoạt động bất thường. Cơ sở khảo sát các vật thể biến đổi Zwicky đã phát hiện vụ nổ vào ngày 17 tháng 10 năm 2025, quan sát thấy các ngôi sao sáng lên nhanh chóng và nóng lên một cách dữ dội."
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 11 năm 2025, nhóm nghiên cứu đã nhận được dữ liệu quan sát nhanh từ Đài quan sát Neil Gehrels Swift (đã ngừng hoạt động) của NASA và kính viễn vọng Gemini North của NOIRLab ở Hawaii. Các quan sát của kính Webb được thực hiện vào ngày 24 tháng 12 năm 2025, trong khuôn khổ một chương trình Thời gian tùy quyền của Giám đốc (Director's Discretionary Time) được cấp vào thời điểm cấp bách."
+    },
+    {
+     "t": "h",
+     "text": "Hướng nghiên cứu mới cho tương lai"
+    },
+    {
+     "t": "p",
+     "text": "Phân tích của nhóm về Bao, có tên chính thức là AT 2025abao, mở ra một cách tiếp cận để tái hiện lại các sự kiện: họ đã thực hiện phân tích và quan sát sự kiện hợp nhất của các ngôi sao ngay trong thời gian thực. Điều đó cho phép họ đo được mức độ hiệu quả của quá trình tiến hóa vỏ bọc chung (common envelope evolution). Trong các trường hợp khác, các nhà thiên văn học phải cẩn thận suy luận ngược lại để tìm hiểu những sự kiện có thể đã xảy ra từ hàng trăm, thậm chí hàng triệu năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện mới này xuất hiện đúng vào lúc kính viễn vọng không gian Nancy Grace Roman vừa được NASA phóng lên sắp thực hiện các cuộc khảo sát quy mô lớn, công khai cho mọi người sử dụng. Cuộc khảo sát miền thời gian vùng phình thiên hà (Galactic Bulge Time-Domain Survey) của kính này sẽ mang lại một lượng lớn các sự kiện thoáng qua mới, có thể được phân tích theo cách tương tự. \"Sắp tới sẽ có một làn sóng lớn các phát hiện tương tự,\" Karambelkar cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này được tài trợ một phần bởi một khoản tài trợ từ Chương trình Phân tích Dữ liệu Vật lý thiên văn của NASA."
+    },
+    {
+     "t": "p",
+     "text": "Kính viễn vọng không gian James Webb là đài quan sát lớn nhất và mạnh nhất từng được đưa vào vũ trụ, phục vụ hàng nghìn nhà thiên văn học trên toàn thế giới. Kính Webb đang giúp giải đáp những bí ẩn trong hệ Mặt Trời của chúng ta, nhìn xa hơn tới những thế giới xa xôi quanh các ngôi sao khác, và khám phá những cấu trúc bí ẩn cùng nguồn gốc của vũ trụ cũng như vị trí của chúng ta trong đó. Webb là một chương trình quốc tế do NASA dẫn đầu, cùng với các đối tác là ESA (Cơ quan Vũ trụ châu Âu) và CSA (Cơ quan Vũ trụ Canada)."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về kính Webb, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/webb"
+    },
+    {
+     "t": "h",
+     "text": "Tải xuống và thông tin liên quan"
+    }
+   ]
+  },
+  {
+   "id": "5fe5c48115f1",
+   "order": 16,
+   "slug": "download-hom-nay-ai-hoc-cach-danh-hoi-va-thuy-dien-gap-kho",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Download hôm nay: AI học cách đánh hơi và thủy điện gặp khó",
+   "sapo": "Làn sóng mất điện đã lan tới chính phủ Mỹ và Apple.",
+   "author": "Thomas Macaulay archive page",
+   "source_name": "MIT Technology Review",
+   "source_url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+   "published": "2026-11-18T13:10:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1553,
+   "translated": true,
+   "translated_from": "MIT Technology Review",
+   "title_original": "The Download: AI learns to smell and hydropower struggles",
+   "images": [
+    {
+     "src": "img/2026-11-19/5fe5c48115f1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 600
+    },
+    {
+     "src": "img/2026-11-19/5fe5c48115f1-0.jpg",
+     "caption": "Ảnh minh họa một cánh tay robot đang hỗ trợ trong thụ tinh ống nghiệm (IVF).",
+     "w": 840,
+     "h": 476
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đây là ấn bản hôm nay của The Download, bản tin hằng ngày trong tuần của chúng tôi, mang đến cho bạn những tin tức mới nhất trong thế giới công nghệ."
+    },
+    {
+     "t": "h",
+     "text": "Công ty khởi nghiệp về mùi hương này nói AI của họ có \"mũi\" ngửi giỏi như con người"
+    },
+    {
+     "t": "p",
+     "text": "Trong một phòng thí nghiệm ở New Jersey, các nhà nghiên cứu đang cố gắng ngửi mọi mùi hương trên Trái Đất. Những ghi chú tỉ mỉ của họ — \"mùi béo\", \"mùi đào\", \"mùi biển\" — được đối chiếu với các phân tích hóa học để huấn luyện thứ mà công ty khởi nghiệp AI Osmo gọi là mô hình nền tảng (foundation model) đầu tiên trên thế giới về khứu giác. Người sáng lập Alex Wiltschko cho biết mục tiêu của họ là \"mang lại cho máy tính khả năng cảm nhận mùi hương\"."
+    },
+    {
+     "t": "p",
+     "text": "Wiltschko cho biết mô hình này đã đạt được \"trí tuệ khứu giác ngang tầm con người\" và đang giúp các hãng nước hoa tạo ra mùi hương mới. Nhưng Osmo còn có những tham vọng lớn hơn, từ phát hiện hàng giả đến chẩn đoán bệnh tật. Không phải ai cũng tin rằng công nghệ của họ có thể làm được điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng đánh hơi bằng AI thực sự có thể đưa chúng ta đi xa đến đâu?"
+    },
+    {
+     "t": "p",
+     "text": "— Amit Katwala"
+    },
+    {
+     "t": "h",
+     "text": "Thủy điện ở khu vực tây nam nước Mỹ xuống mức thấp kỷ lục trong mùa hè này"
+    },
+    {
+     "t": "p",
+     "text": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Mỹ (US Energy Information Administration), khu vực tây nam nước Mỹ đã sản xuất lượng điện từ thủy điện ít hơn 28% trong giai đoạn từ tháng 4 đến tháng 8, so với mức trung bình của 10 năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Hầu hết các nhà máy thủy điện ở Mỹ đều dựa vào các đập nước để giữ nước, tạo thành các hồ chứa. Nhưng một đợt hạn hán kéo dài và khắc nghiệt đã khiến mực nước ở hai hồ chứa lớn nhất của khu vực này xuống mức nguy hiểm thấp — và biến đổi khí hậu càng làm tình hình thêm căng thẳng."
+    },
+    {
+     "t": "p",
+     "text": "Tìm hiểu xem biến đổi khí hậu đang đe dọa một nguồn năng lượng tái tạo quan trọng như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "—Casey Crownhart"
+    },
+    {
+     "t": "h",
+     "text": "MIT Technology Review Narrated: Máy biến áp bán dẫn thể rắn có thể giúp cấp điện cho sự bùng nổ AI như thế nào"
+    },
+    {
+     "t": "p",
+     "text": "Máy biến áp (transformer) là một phần quan trọng nhưng gần như vô hình của lưới điện Mỹ, giúp truyền tải điện hiệu quả qua những khoảng cách xa. Nhưng chúng lại phức tạp và đang thiếu hụt, và thiết kế cơ bản của chúng hầu như không thay đổi trong khoảng một thế kỷ qua."
+    },
+    {
+     "t": "p",
+     "text": "Khi nhu cầu điện tăng lên do xe điện, trung tâm dữ liệu và nhiều yếu tố khác, các kế hoạch hiện đại hóa những thiết bị quen thuộc này của lưới điện đang xuất hiện. Các phiên bản thể rắn (solid-state) có thể giúp giảm bớt lo ngại về nguồn cung và cắt giảm hao hụt điện năng. Công nghệ này vẫn đang trong quá trình phát triển, nhưng có thể trở thành một phần quan trọng của lưới điện tương lai của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Đây là bài viết mới nhất của chúng tôi được chuyển thành podcast MIT Technology Review Narrated, phát hành mỗi tuần trên Spotify và Apple Podcasts. Hãy tìm đến MIT Technology Review Narrated trên một trong hai nền tảng này, và theo dõi chúng tôi để nhận mọi nội dung mới ngay khi được phát hành."
+    },
+    {
+     "t": "p",
+     "text": "Những tin nên đọc"
+    },
+    {
+     "t": "p",
+     "text": "Tôi đã lục tung internet để tìm cho bạn những câu chuyện công nghệ vui nhất/quan trọng nhất/đáng sợ nhất/hấp dẫn nhất hôm nay."
+    },
+    {
+     "t": "p",
+     "text": "1. Làn sóng sự cố đã lan đến chính phủ Mỹ và Apple. Mạng lưới truyền thông mật của cơ quan này đã bị sập. (CNN) + Một bản cập nhật đã làm gián đoạn Apple Music, App Store và AppleCare. (AP) + Những sự cố này nối tiếp một loạt sự cố gần đây ở các dịch vụ quan trọng. (CNBC) + Marco Rubio nói rằng chúng không liên quan đến nhau và không phải là hành động thù địch. (Guardian) + Nhưng AI đang khiến việc phát hiện các lỗ hổng diễn ra nhanh hơn. (Vox) + Và khiến các tội phạm trực tuyến dễ thực hiện hơn. (MIT Technology Review)"
+    },
+    {
+     "t": "p",
+     "text": "2. Bệnh sởi chính thức trở thành bệnh lưu hành (endemic) trở lại ở Mỹ. Các nhà khoa học đổ lỗi cho những lỗ hổng kéo dài trong việc tiêm chủng. (Guardian) + Đợt dịch năm nay là đợt chết người nhiều nhất kể từ năm 1991. (Nature) + Mexico và Bolivia cũng đã mất chứng nhận loại trừ bệnh sởi. (DW) + Các bệnh truyền nhiễm khác có thể là mục tiêu tiếp theo. (MIT Technology Review)"
+    },
+    {
+     "t": "p",
+     "text": "3. Chỉ có chín quốc gia ủng hộ cam kết về AI và khí hậu tại COP31. Cam kết tự nguyện này không bao gồm các mục tiêu ràng buộc. (Reuters $) + Các kế hoạch về công nghệ loại bỏ carbon đã gây chia rẽ tại COP31. (New Scientist $) + Dù còn nhiều thiếu sót, hội nghị khí hậu thường niên này vẫn quan trọng. (Axios) + Những điều cần biết về các cuộc đàm phán năm nay. (MIT Technology Review)"
+    },
+    {
+     "t": "p",
+     "text": "4. Nvidia công bố kết quả kinh doanh vượt mong đợi và bác bỏ chuyện Huang quay lại. Doanh thu tăng hơn gấp đôi nhờ chip AI bán chạy. (Axios) + Nvidia đã ngừng xuất chip H200 sang Trung Quốc. (Gizmodo) + Trung Quốc đe dọa sẽ có biện pháp đáp trả vì các hạn chế chip mới. (Reuters $)"
+    },
+    {
+     "t": "p",
+     "text": "5. Hơn một phần ba thế hệ Gen-Z coi AI là bạn bè. Những người làm vậy có nguy cơ cô đơn cao hơn. (Wired $)"
+    },
+    {
+     "t": "p",
+     "text": "6. Ukraine cho biết giới hạn tốc độ của hệ thống Starshield vẫn còn ở vùng bị chiếm đóng. Tổng thống Zelenskyy nói các hạn chế này cản trở hệ thống phòng không. (CNBC)"
+    },
+    {
+     "t": "p",
+     "text": "7. San Diego đã loại bỏ camera Flock và đèn đường thông minh. Thành phố đang tắt hơn 500 camera giám sát. (Ars Technica) + Những gì người bảo vệ Flock đã không nhận ra. (MIT Technology Review)"
+    },
+    {
+     "t": "p",
+     "text": "8. Waymo đã rút xe taxi tự lái khỏi đường cao tốc ở Mỹ. Động thái này diễn ra sau khi California cấm các chuyến đi trên đường cao tốc. (NBC News)"
+    },
+    {
+     "t": "p",
+     "text": "9. Các hồ nước đang trở nên đồng bộ một cách kỳ lạ. Các nhà khoa học cảnh báo điều này có thể dẫn đến sụp đổ sinh thái. (404 Media)"
+    },
+    {
+     "t": "p",
+     "text": "10. \"Human\" (con người) đã trở thành từ của năm theo Từ điển Cambridge. Từ điển này cho biết từ này đã trở nên quan trọng hơn trong thời đại AI. (BBC)"
+    },
+    {
+     "t": "p",
+     "text": "Câu nói trong ngày"
+    },
+    {
+     "t": "h",
+     "text": "\"Đó là cuộc sống. Khi bạn lớn mạnh, giàu có và có đủ tiền, những việc như vậy vẫn xảy ra. Không sao cả.\""
+    },
+    {
+     "t": "p",
+     "text": "— Donald Trump phớt lờ một tuần xảy ra sự cố mất kết nối khiến các chuyến bay bị hoãn, khách hàng không vào được tài khoản ngân hàng, và làm sập một mạng lưới của NSA, theo NPR đưa tin."
+    },
+    {
+     "t": "p",
+     "text": "Một điều nữa"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong bốn thập kỷ qua, phương pháp thụ tinh trong ống nghiệm (IVF) đã giúp hàng triệu em bé chào đời. Nhưng quá trình này vẫn có thể chậm, đau đớn và tốn kém—và không hề chắc chắn sẽ thành công. Giờ đây, một làn sóng công nghệ mới đang nhằm thay đổi điều đó."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đang dùng trí tuệ nhân tạo (AI) để tìm ra những tinh trùng và phôi có khả năng phát triển tốt, phát triển các hệ thống robot có thể tự động hóa một số bước trong quy trình IVF, và thậm chí đang tìm hiểu các kỹ thuật chỉnh sửa gen còn gây tranh cãi nhằm ngăn ngừa bệnh di truyền."
+    },
+    {
+     "t": "p",
+     "text": "Những công nghệ này có thể giúp IVF hiệu quả hơn và dễ tiếp cận hơn. Nhưng chúng cũng đặt ra những câu hỏi đạo đức khó trả lời về việc y học sinh sản nên đi xa đến đâu."
+    },
+    {
+     "t": "p",
+     "text": "Đây là những điều sắp tới đối với IVF."
+    },
+    {
+     "t": "p",
+     "text": "—Jessica Hamzelou"
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta vẫn có thể có những điều tốt đẹp"
+    },
+    {
+     "t": "p",
+     "text": "Một góc nhỏ để thư giãn, vui vẻ và giải trí, giúp ngày của bạn thêm tươi sáng. (Có ý tưởng nào không? Hãy nhắn cho tôi.)"
+    },
+    {
+     "t": "p",
+     "text": "+ Mẹ của một người đàn ông đã may cho anh một chiếc chăn chần bông tuyệt đẹp theo chủ đề Monty Python and the Holy Grail. + Một người chơi gấp giấy origami đã gấp ra một chiếc máy đánh chữ cơ khí đáng kinh ngạc từ một tấm giấy duy nhất. + Techno-Optimism Archive là một bộ sưu tập lịch sử hấp dẫn về những lời tung hô thái quá xung quanh các công nghệ mới. + Cuốn du ký được minh họa phong phú này kể lại hành trình kỳ lạ của loài cam quýt, từ chân núi Himalaya đến tận trung tâm đảo Sicily."
+    }
+   ]
+  },
+  {
+   "id": "d1dd49b4f83d",
+   "order": 17,
+   "slug": "startup-mui-huong-nay-noi-mui-ai-cua-ho-gioi-ngang-con-nguoi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Startup \"mùi hương\" này nói mũi AI của họ giỏi ngang con người",
+   "sapo": "Mô hình nhận biết mùi của Osmo đã được dùng trong ngành nước hoa. Nhưng dùng nó để chẩn đoán bệnh và phát hiện nguy hiểm thì có phải là đi quá xa?",
+   "author": "Amit Katwala archive page",
+   "source_name": "MIT Technology Review",
+   "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "published": "2026-11-18T10:20:30+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1671,
+   "translated": true,
+   "translated_from": "MIT Technology Review",
+   "title_original": "This smell startup says its AI nose is as good as a human’s",
+   "images": [
+    {
+     "src": "img/2026-11-19/d1dd49b4f83d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 600
+    },
+    {
+     "src": "img/2026-11-19/d1dd49b4f83d-0.jpg",
+     "caption": "Người sáng lập Osmo, Alex Wiltschko, nói anh muốn \"cho máy tính một khả năng ngửi mùi\".",
+     "w": 840,
+     "h": 472
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong một phòng thí nghiệm gần sân bay Newark ở New Jersey, khoảng 30 người có kinh nghiệm ngửi mùi đang cần mẫn phân loại từng loại mùi có trên Trái Đất. Những ghi chú cẩn thận của họ—\"mùi hạt\", \"mùi đào\", \"mùi biển\"—được đối chiếu với các phân tích hóa học để tạo ra một bộ dữ liệu huấn luyện phong phú cho thứ mà startup AI Osmo gọi là mô hình nền tảng (foundation model) đầu tiên trên thế giới về khứu giác. Người sáng lập Alex Wiltschko cho biết mục tiêu của công ty là \"cho máy tính một khả năng ngửi mùi\"."
+    },
+    {
+     "t": "p",
+     "text": "\"Các phân tử tạo mùi thực ra là ngôn ngữ duy nhất mà hầu hết các loài trên hành tinh này có thể dùng để giao tiếp,\" anh nói. \"Hầu hết các loài không thể giao tiếp bằng âm thanh hay hình ảnh, nên đây đúng là ngôn ngữ gốc của Trái Đất. Và nó có sức mạnh đáng kinh ngạc đối với chúng ta, cả về mặt ký ức và cảm xúc. Bạn có thể ngửi một thứ gì đó chỉ một lần và nhớ nó suốt đời. Bạn có thể ngửi thấy một mùi trên đường và lập tức nhớ lại thời còn học cấp ba.\""
+    },
+    {
+     "t": "p",
+     "text": "Wiltschko cho biết trong vài tháng gần đây, mô hình của Osmo đã đạt được \"trí tuệ khứu giác ngang con người\". Theo định nghĩa của công ty, điều này có nghĩa là mô hình giỏi phát hiện và phân biệt mùi tương đương một người bình thường, và giỏi tạo ra mùi tương đương một nhà thiết kế nước hoa mới vào nghề. Công ty cho biết công nghệ của họ đã được ứng dụng trong ngành nước hoa, giúp các thương hiệu thiết kế và sản xuất mùi hương mới. Công ty cho biết tháng trước, mô hình AI của Osmo đã vượt qua các chuyên gia nước hoa nội bộ của một trong những tập đoàn hàng tiêu dùng lớn nhất thế giới. Wiltschko tin rằng cuối cùng công nghệ này có thể được dùng để phát hiện nguy hiểm tại sân bay, hoặc chẩn đoán bệnh."
+    },
+    {
+     "t": "p",
+     "text": "Wiltschko tách công ty này ra từ công việc của anh tại Google Brain, phòng nghiên cứu AI trước đây của gã khổng lồ tìm kiếm Google, vào năm 2023. Anh đang áp dụng cùng chiến lược như các startup AI trong những lĩnh vực khác: đổ thật nhiều dữ liệu vào các bài toán khó, rồi xem điều gì xảy ra. Wiltschko nói thử thách với mùi hương là thiếu dữ liệu tốt. Trước khi Osmo xuất hiện, theo anh tính toán, có chưa đến 200.000 mô tả mùi của con người trong các cơ sở dữ liệu hiện có. Thêm vào đó, các thiết bị cảm biến hóa học cần để thu thập dữ liệu lại rất đắt đỏ, và ngành nước hoa thì giữ kín các nghiên cứu khoa học về khứu giác của mình."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Phần lớn công việc của công ty là tạo ra bộ dữ liệu riêng gồm hơn 10 triệu nhãn mô tả của con người và 800 triệu \"mã mùi\" (scent tokens), mô tả chính xác các phân tử và nồng độ cần có để tạo ra một mùi cụ thể. Osmo sử dụng máy quang phổ và các cảm biến hóa học khác, hoạt động suốt ngày đêm, để phân tích thành phần phân tử của mọi thứ, từ hoa quả, hoa tươi đến thực phẩm trong bếp và cả nội tạng. Một nhóm khoảng 70 người được huấn luyện để gán nhãn dữ liệu ở Mỹ và nước ngoài dành cả ngày để ngửi các vật và ghi lại chúng có mùi như thế nào, theo một bộ từ vựng mùi hương chuẩn hóa."
+    },
+    {
+     "t": "p",
+     "text": "Việc lập bản đồ mùi hương theo cách này đang hé lộ những sự tương đồng bất ngờ. Giống như việc đổi thứ tự các từ trong câu có thể làm thay đổi hoàn toàn nghĩa của câu đó, việc xếp lại các phân tử mùi theo tỷ lệ khác nhau cũng có thể làm thay đổi hoàn toàn mùi mà con người cảm nhận được. \"Các mã mùi tạo nên mùi của một em bé mới sinh trùng lặp rất lớn với các mã mùi trong một đĩa mì spaghetti vừa nấu xong,\" Wiltschko nói. (Cụ thể là mì spaghetti hiệu Barilla, anh nói thêm, điều này có lẽ khiến những người làm việc ở nhà máy mì ống phải suy nghĩ.)"
+    },
+    {
+     "t": "p",
+     "text": "Công ty cũng tự tạo ra các loại mùi hương riêng, bằng một robot \"in mùi\" to bằng cả một chiếc xe buýt trường học, pha trộn các thành phần theo công thức chính xác để tạo ra mẫu thử cho việc nghiên cứu của Osmo và các loại nước hoa cho khách hàng trả tiền. Robot này có thể thiết kế và \"in\" mùi theo yêu cầu, dựa trên một câu lệnh kiểu ChatGPT. Wiltschko mở laptop để cho tôi xem cách mô hình AI hoạt động. Anh mở một ô nhập văn bản trên màn hình, và tôi đề nghị anh tạo ra một mùi hương giống như bánh trứng kiểu Bồ Đào Nha (chúng tôi đang ở Lisbon để tham dự Web Summit), hướng đến đối tượng nam giới từ 18 đến 23 tuổi. Hệ thống \"suy nghĩ\" vài phút, rồi đưa ra ba lựa chọn hồ sơ mùi hương phù hợp với yêu cầu (béo ngậy như kem, có mùi dừa, có mùi trái cây) cùng các phân tử cần để tạo ra chúng. Nếu tôi tiếp tục quy trình đặt hàng, loại nước hoa mang tên \"L'Eau de Custard\" của riêng tôi sẽ sẵn sàng sau khoảng một tuần."
+    },
+    {
+     "t": "p",
+     "text": "Công nghệ của Osmo đã được dùng để tạo ra các loại nước hoa bán lẻ, trong đó có sản phẩm cho những tập đoàn lớn như Procter & Gamble. Quỹ Gates, nơi đã đầu tư 5 triệu đô la khi Osmo mới thành lập, sau đó còn trao cho công ty này một khoản tài trợ 3,5 triệu đô la để đánh giá các phân tử có khả năng đuổi côn trùng truyền bệnh. Osmo đã tìm ra tám chất có khả năng đuổi côn trùng mạnh hơn cả DEET (một loại hóa chất chống côn trùng phổ biến). Osmo cũng từng hợp tác với StockX, trang mua bán quần áo trực tuyến, để dùng mùi hương phát hiện giày thể thao giả, bằng cách nhận ra sự khác biệt trong thành phần hóa học của các vật liệu làm giày."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng không phải ai cũng tin vào công nghệ này hay những lời khẳng định lớn lao của công ty. Avery Gilbert, một nhà khoa học nghiên cứu về mùi và là tác giả cuốn sách What the Nose Knows, đã lên tiếng phê bình gay gắt Osmo trên trang Substack của ông. Ông cho rằng một số tuyên bố quảng cáo của công ty không có bằng chứng rõ ràng, và các đơn xin cấp bằng sáng chế của họ vẫn dựa vào hội đồng cảm quan là con người và các chuyên gia nước hoa, chứ không phải AI. \"Việc phụ thuộc nhiều vào đánh giá cảm quan của con người như vậy có vẻ kỳ lạ đối với một công ty được xây dựng trên nền tảng AI siêu hiện đại,\" ông viết vào tháng Ba. Đại diện của Osmo đã không phản hồi kịp thời để đăng trong bài báo này."
+    },
+    {
+     "t": "p",
+     "text": "Michael Schmuker, cựu giáo sư về khoa học tính toán thần kinh tại Đại học Hertfordshire, từng là cố vấn cho Osmo, cho rằng công nghệ của công ty là một thành tựu đáng kể. Cùng với các đồng nghiệp, ông đã tạo ra một phiên bản mã nguồn mở, được xây dựng lại từ mô hình năm 2023 của Osmo, nhưng phiên bản đó thiếu đi lượng dữ liệu khổng lồ mà công ty đã thu thập được từ đó đến nay."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Schmuker cho biết, dù có tất cả lượng dữ liệu về mùi hương đó, Osmo có thể vẫn đang thiếu một số yếu tố khiến khả năng ngửi của con người trở nên đặc biệt. \"Mùi hương vô cùng phức tạp. Ngữ cảnh rất quan trọng đối với mùi. Cùng một phân tử có thể gợi lên những liên tưởng khác nhau tùy vào ngữ cảnh,\" ông nói. \"[Mùi của] một loại phô mai Pháp như Camembert có một phần phân tử giống với mùi tã lót đã dùng. Bạn không nhầm lẫn hai thứ đó vì ngữ cảnh khác nhau.\""
+    },
+    {
+     "t": "p",
+     "text": "Trong một môi trường được kiểm soát chặt chẽ như phòng thí nghiệm nước hoa, việc thiếu ngữ cảnh này có thể không quá quan trọng. Nhưng nó có thể gây ảnh hưởng nếu công nghệ của Osmo trở thành, như Wiltschko đã nói, \"kênh khứu giác\" cho các mô hình thế giới của AI. Hãy tưởng tượng một chiếc máy có thể đánh hơi phát hiện thực phẩm bị hỏng trên một dây chuyền sản xuất, hoặc phát hiện khối u qua mùi, giống như cách những con chó đã được huấn luyện để làm trong các nghiên cứu thử nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Để điều đó xảy ra, công nghệ cảm biến sẽ cần phải tốt hơn rất nhiều, Schmuker nói. Các mô hình sẽ cần phải tiếp tục được cải thiện. Chẩn đoán y khoa là giải thưởng lớn nhất."
+    },
+    {
+     "t": "p",
+     "text": "\"Có rất nhiều công ty trong lịch sử đã đi thẳng lên đỉnh núi đó, và rất đáng tiếc là không thành công, vì việc đó vừa rất tốn kém vừa rất khó khăn,\" Wiltschko nói. \"Vì vậy, điều chúng tôi đang làm là xây dựng nền tảng này ở chân của tất cả những ngọn núi đó. Chúng tôi đang gửi các đoàn thám hiểm lên những ngọn núi, khám phá, và nói một cách cơ bản là đang ngửi khắp cả thế giới.\""
+    }
+   ]
+  },
+  {
+   "id": "52bda51c4b2b",
+   "order": 18,
+   "slug": "bay-anh-phat-hien-mang-rung-dac-biet-quy-hiem-o-nghe-an",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Bẫy ảnh phát hiện mang rừng đặc biệt quý hiếm ở Nghệ An",
+   "sapo": "Camera bẫy ảnh ghi nhận một con mang rừng thuộc nhóm cực kỳ nguy cấp tại Khu Bảo tồn thiên nhiên Pù Hoạt.",
+   "author": "Đức Hùng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/bay-anh-phat-hien-mang-rung-dac-biet-quy-hiem-o-nghe-an-5146118.html",
+   "published": "2026-11-18T07:21:01+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 482,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/52bda51c4b2b-lead.jpg",
+     "caption": "",
+     "w": 1198,
+     "h": 673
+    },
+    {
+     "src": "img/2026-11-19/52bda51c4b2b-0.jpg",
+     "caption": "Bẫy ảnh chụp mang rừng tại Khu Bảo tồn thiên nhiên Pù Hoạt. Ảnh: Văn Sinh",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Camera bẫy ảnh ghi nhận một con mang rừng thuộc nhóm cực kỳ nguy cấp tại Khu Bảo tồn thiên nhiên Pù Hoạt."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 18/11, Ban Quản lý Khu Bảo tồn thiên nhiên Pù Hoạt cho biết loài mang rừng được phát hiện khoảng hai tuần trước, trong đợt sử dụng bẫy ảnh phục vụ nghiên cứu, điều tra, giám sát, đánh giá hiện trạng quần thể và bảo tồn các loài thú guốc chẵn năm 2026. Hình ảnh cho thấy mang Pù Hoạt xuất hiện vào buổi sáng, chiều và ban đêm."
+    },
+    {
+     "t": "p",
+     "text": "Mang Pù Hoạt, còn gọi là mang Roosevelt, thuộc họ hươu nai, bộ guốc chẵn, được mô tả lần đầu năm 1929. Loài này có kích thước nhỏ, trọng lượng khoảng 15-20 kg, lông màu nâu đậm, vùng má và mũi sẫm màu. Cá thể đực có gạc ngắn, không phân nhánh. Chúng thường sống trong rừng kín thường xanh, có nhiều cây gỗ lớn, ở độ cao trên 700 m."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo Sách đỏ Việt Nam năm 2024, mang Pù Hoạt thuộc nhóm CR ( Critically Endangered - cực kỳ nguy cấp), mức cảnh báo cao nhất về nguy cơ tuyệt chủng trong tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mang Pù Hoạt tại Việt Nam ước tính dưới 250 cá thể, mỗi tiểu quần thể có chưa đến 50 cá thể trưởng thành. Loài này được ghi nhận phân bố tại Nghệ An (Pù Hoạt) và Thanh Hóa (Xuân Liên, Pù Luông). Sinh cảnh bị thu hẹp, suy thoái do mất rừng và săn bắt là những nguy cơ đe dọa sự tồn tại của chúng."
+    },
+    {
+     "t": "p",
+     "text": "Lãnh đạo Khu Bảo tồn cho biết, dữ liệu điều tra hiện chưa đủ cơ sở để xác định chính xác số lượng cá thể và quy mô quần thể mang Pù Hoạt tại khu bảo tồn. Thời gian tới, đơn vị sẽ tiếp tục mở rộng điều tra bằng bẫy ảnh, kết hợp phân tích ADN để đánh giá sự phân bố, hiện trạng quần thể và đề xuất giải pháp bảo vệ loài."
+    },
+    {
+     "t": "p",
+     "text": "Khu Bảo tồn thiên nhiên Pù Hoạt nằm ở phía Tây Bắc Nghệ An, trải rộng trên địa bàn 9 xã thuộc huyện Quế Phong trước đây, gồm Tri Lễ, Tiền Phong, Thông Thụ, Hạnh Dịch, Nậm Giải, Đồng Văn, Nậm Nhoóng, Cắm Muộn và Châu Thôn. Khu bảo tồn được thành lập năm 2013, quản lý hơn 85.700 ha rừng và đất lâm nghiệp. Đây là một trong ba vùng lõi của Khu Dự trữ sinh quyển miền Tây Nghệ An, ghi nhận khoảng 800 loài thực vật cùng hàng trăm loài động vật có xương sống."
+    },
+    {
+     "t": "p",
+     "text": "Những năm gần đây, camera bẫy ảnh tại Khu Bảo tồn thiên nhiên Pù Hoạt còn ghi nhận nhiều loài thú quý hiếm như mèo gấm vào các năm 2024, 2025 và 2026, sói lửa năm 2024 và beo lửa năm 2025."
+    }
+   ]
+  },
+  {
+   "id": "bcbbc2034caa",
+   "order": 19,
+   "slug": "hang-trieu-con-cua-do-roi-rung-tao-dong-song-do-tren-dao-chr",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Hàng triệu con cua đỏ rời rừng, tạo 'dòng sông đỏ' trên đảo Christmas",
+   "sapo": "Hàng triệu con cua đỏ đồng loạt rời rừng, tràn qua đường sá và những cây cầu trên đảo Christmas của Úc, tạo nên cảnh tượng thiên nhiên kỳ thú trong hành trình ra biển sinh sản thường niên.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/hang-trieu-con-cua-do-roi-rung-tao-dong-song-do-tren-dao-christmas-100261118111338454.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 485,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-19/bcbbc2034caa-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-19/bcbbc2034caa-0.jpg",
+     "caption": "Cua đỏ trong mùa di cư 2026 tại công viên quốc gia đảo Christmas, Úc - Ảnh: CHRISTMAS ISLAND NATIONAL PARK",
+     "w": 800,
+     "h": 526
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh được Cơ quan Công viên quốc gia Úc ghi lại cho thấy những dòng cua đỏ vượt qua nhiều chướng ngại vật để tiến về phía bờ biển."
+    },
+    {
+     "t": "p",
+     "text": "Những đàn cua di chuyển dày đặc, phủ kín nhiều khu vực trên đảo, tạo ra âm thanh lạo xạo và tiếng động rì rầm giống tiếng mưa rơi, theo báo USA Today ngày 18-11."
+    },
+    {
+     "t": "p",
+     "text": "Đảo Christmas nằm giữa Ấn Độ Dương, cách đảo Java của Indonesia hơn 320km, là nơi sinh sống của loài cua đỏ đặc hữu."
+    },
+    {
+     "t": "p",
+     "text": "Theo Công viên quốc gia đảo Christmas, cuộc di cư thường bắt đầu khi những cơn mưa đầu mùa xuất hiện, phổ biến vào tháng 10 hoặc 11, đôi khi muộn đến tháng 12 hoặc tháng 1 hằng năm."
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, đàn cua bắt đầu hành trình từ ngày 14-11. Chuyến đi có thể kéo dài khoảng 9 ngày. Những con đực thường xuất phát trước, sau đó con cái nhập đàn trên đường di chuyển."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm di cư không chỉ phụ thuộc vào lượng mưa mà còn chịu ảnh hưởng của chu kỳ Mặt trăng và thủy triều. Cua đỏ thường sinh sản trước bình minh, khi thủy triều đang rút trong giai đoạn cuối của kỳ trăng."
+    },
+    {
+     "t": "p",
+     "text": "Mưa đầu mùa đóng vai trò đặc biệt quan trọng vì giúp cua duy trì độ ẩm cơ thể trong hành trình dài. Nếu mưa đến quá muộn, một số con có thể tiếp tục nằm trong hang và chờ đến tháng sau."
+    },
+    {
+     "t": "p",
+     "text": "Hàng triệu con cua đỏ tham gia cuộc di cư thường niên nổi tiếng của chúng qua đảo Christmas, Úc - Nguồn: ISLAND NEWS/YOUTUBE"
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu của Đại học Princeton công bố năm 2013 trên tạp chí Global Change Biology cho thấy thiếu mưa có thể khiến cuộc di cư bị trì hoãn, thậm chí không diễn ra."
+    },
+    {
+     "t": "p",
+     "text": "Trong mùa khô đặc biệt năm 1997, dưới tác động của hiện tượng El Nino mạnh , cua đỏ trên đảo đã không di cư và sinh sản."
+    },
+    {
+     "t": "p",
+     "text": "Khi đến bờ biển, cua đực thường đào hang trước để chuẩn bị nơi giao phối. Cua cái mang trứng trong túi ấp và có thể đẻ tới 100.000 trứng."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng hai tuần sau khi giao phối, chúng tiến ra mép nước và thả trứng xuống biển. Trứng nở gần như ngay lập tức khi tiếp xúc với nước."
+    },
+    {
+     "t": "p",
+     "text": "Phần lớn ấu trùng cua không sống sót, trở thành thức ăn cho cá, cá đuối manta và cá mập voi. Tuy nhiên, khoảng một hoặc hai lần mỗi thập kỷ, số lượng ấu trùng sống sót đủ lớn để quay trở lại đảo, góp phần duy trì quần thể cua đỏ."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc di cư thường niên vì thế không chỉ là một trong những cảnh tượng thiên nhiên ấn tượng nhất đảo Christmas mà còn là mắt xích quan trọng trong vòng đời của loài cua này."
+    }
+   ]
+  },
+  {
+   "id": "8a7ec3734b98",
+   "order": 20,
+   "slug": "cac-nha-khoa-hoc-chung-minh-tu-truong-trai-dat-giup-dan-duon",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Các nhà khoa học chứng minh từ trường Trái Đất giúp dẫn đường cho bướm đêm trong cuộc di cư khổng lồ ở Úc",
+   "sapo": "Mỗi năm ở Úc, hàng loạt bướm đêm bogong (Agrotis infusa) đang có nguy cơ tuyệt chủng chui ra từ những cái nhộng dưới lòng đất để bay về phía nam xa tới 1.000 km.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/scientists-show-earths-magnetic-field-helps-guide-moths-in-massive-australian-migration",
+   "published": "2026-11-18T16:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1267,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Scientists Show Earth's Magnetic Field Helps Guide Moths in Massive Australian Migration",
+   "images": [
+    {
+     "src": "img/2026-11-19/8a7ec3734b98-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-19/8a7ec3734b98-0.jpg",
+     "caption": "Những con bướm đêm trú hè trong một hang núi cao vào mùa hè. Có khoảng 17.000 con bướm trên mỗi mét vuông vách hang, và mỗi hang có đến hàng triệu con. (© Eric Warrant)",
+     "w": 1280,
+     "h": 703
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mỗi năm ở Úc, hàng loạt bướm đêm bogong (Agrotis infusa) đang có nguy cơ tuyệt chủng chui ra từ những cái nhộng dưới lòng đất để bay về phía nam xa tới 1.000 km."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi con bướm chỉ thực hiện chuyến đi trở về này đúng một lần duy nhất trong cả cuộc đời ngắn ngủi của mình. Vậy mà bằng một cách nào đó, chúng vẫn biết đường đi."
+    },
+    {
+     "t": "p",
+     "text": "Trong một bài báo công bố trên tạp chí Nature hôm nay, một nhóm nghiên cứu do nhà thần kinh học hành vi (neuroethologist) Eric Warrant ở Đại học Lund, Thụy Điển, dẫn đầu đã chỉ ra rằng từ trường Trái Đất đã dẫn đường cho những con bướm trong chuyến đi của chúng, ngay cả khi không có ánh sao để dựa vào."
+    },
+    {
+     "t": "p",
+     "text": "Vào mùa xuân, những con bướm non vừa mới ra đời rời khỏi các khu vực sinh sản của mình, nằm rải rác khắp vùng hẻo lánh phía đông nam Úc. Mỗi đêm, chúng lại bay thêm một đoạn đường tiến gần hơn đến đích."
+    },
+    {
+     "t": "p",
+     "text": "Khi kết thúc chuyến đi dài, chúng tập trung lại ở chỉ một vài hang động trong dãy núi Alps của Úc, nơi chúng trú ẩn trong bóng mát suốt mùa hè cho đến khi tiết trời mát mẻ của mùa thu gọi chúng trở về nhà để sinh sản."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Năm ngoái, Warrant và các đồng nghiệp đã chứng minh rằng bướm đêm có thể tìm đường chỉ bằng cách dựa vào ánh sao. Dù từ trường Trái Đất có thể cũng đóng vai trò nào đó, nhưng khả năng định hướng của bướm vẫn tốt ngay cả khi không có nó."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng trên thực tế, việc không có ánh sao xảy ra thường xuyên hơn nhiều so với việc hoàn toàn mất từ trường Trái Đất, mặc dù từ trường đôi khi cũng dịch chuyển, đảo cực và dao động."
+    },
+    {
+     "t": "p",
+     "text": "Ngược lại, các vì sao thường xuyên bị mây che khuất. Thế nhưng điều đó dường như không làm những con bướm nản lòng."
+    },
+    {
+     "t": "p",
+     "text": "\"Những con bướm đêm này định hướng tới đích ở rất xa bằng cách dùng các vì sao như một cái la bàn, nhưng chúng vẫn định hướng đúng ngay cả khi các vì sao bị mây che khuất, cho thấy giác quan từ tính của chúng có lẽ dựa vào từ trường Trái Đất để làm la bàn,\" Warrant và nhóm nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Kết quả của chúng tôi cho thấy bướm đêm bogong sử dụng từ trường địa cầu như một la bàn độ nghiêng (inclination compass) để định hướng đường dài vào ban đêm, và chúng có một giác quan từ tính phụ thuộc vào ánh sáng, dựa trên cặp gốc tự do (radical-pair-based magnetic sense).\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đặt những cái bẫy đèn trên núi Selwyn, cách nơi trú ẩn mùa hè của loài bướm đêm này khoảng 70 km về phía bắc, để bắt một số \"người lữ hành cánh có vảy\" khi chúng bay qua trong hai chuyến di cư vào mùa xuân và mùa thu."
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả những con bướm đêm đang làm nhiệm vụ quan trọng này cũng không thể cưỡng lại sức hút của một ngọn đèn."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi bắt được, những con bướm đêm được \"chuyển đến một phòng thí nghiệm tối, không chứa vật liệu sắt từ (ferromagnetic-free), được xây dựng riêng cho nghiên cứu này tại địa điểm khảo sát gần đó, nơi chúng được buộc dây và cho bay trong một đấu trường mô phỏng bay (flight simulator arena),\" các nhà nghiên cứu giải thích trong bài báo của mình."
+    },
+    {
+     "t": "p",
+     "text": "Đấu trường này được thiết kế để mang lại cho mỗi con bướm đêm một trải nghiệm mô phỏng riêng biệt, sống động và bất ngờ công phu đến mức chi tiết."
+    },
+    {
+     "t": "p",
+     "text": "Khi vào trong đấu trường, con bướm đêm được bao quanh bởi những hình bóng phong cảnh quen thuộc: một tấm phông bằng bìa cứng màu đen có đầy đủ cây cối, cỏ và đồi núi."
+    },
+    {
+     "t": "p",
+     "text": "Một hình ảnh mờ, di động được chiếu lên sàn đấu trường, mô phỏng mặt đất lướt qua phía dưới, đồng bộ với hướng bay mà con bướm đêm chọn."
+    },
+    {
+     "t": "p",
+     "text": "Và ở phía \"bầu trời\" bên trên, một máy chiếu khác tạo ra cảm giác như một đêm sao tự nhiên, không trăng của nước Australia, hoặc một hình ảnh các vì sao được sắp xếp ngẫu nhiên nhằm gây nhầm lẫn cho con bướm đêm."
+    },
+    {
+     "t": "p",
+     "text": "Toàn bộ mô hình thu nhỏ này được đặt trong một cuộn dây Helmholtz (Helmholtz coil) 3D, một thiết bị có thể tạo ra một từ trường được kiểm soát trong phạm vi ảnh hưởng của nó."
+    },
+    {
+     "t": "p",
+     "text": "Trong một số lần thử nghiệm, các nhà khoa học để cuộn dây này tạo ra từ trường giống như từ trường bình thường của Trái Đất, nhưng ở những lần khác, họ thay đổi góc của từ trường, hoặc xóa bỏ nó hoàn toàn."
+    },
+    {
+     "t": "p",
+     "text": "Những con bướm đêm bay dưới bầu trời sao bị xáo trộn không gặp khó khăn gì trong việc tìm đường khi từ trường vẫn còn nguyên vẹn, nhưng khi từ trường bị loại bỏ, chúng hoàn toàn mất phương hướng."
+    },
+    {
+     "t": "p",
+     "text": "Hướng của từ trường có ảnh hưởng lớn đến loài ngài này."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu từ trường địa lý bị xoay 180 độ, hoặc nếu góc nghiêng bị đảo ngược, loài ngài sẽ bay theo hướng ngược lại,\" nhóm nghiên cứu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu cực tính bị đảo ngược, loài ngài sẽ không đổi hướng.\""
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, dù loài ngài có thể dựa vào các vì sao để định hướng rất tốt vào những đêm trời trong, nhưng từ trường dường như vẫn là một phần quan trọng trong \"chiếc la bàn\" bên trong cơ thể chúng."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, loài ngài còn bị mất phương hướng khi có thêm nhiễu sóng vô tuyến yếu, và khi ánh sáng xanh tím bị lọc bỏ. Cả hai yếu tố này đều được biết là gây rối loạn khả năng định hướng ở những loài động vật khác cũng dùng từ trường để định hướng, như chim cổ đỏ châu Âu và bướm vua (monarch butterfly)."
+    },
+    {
+     "t": "p",
+     "text": "Vì những yếu tố này có vẻ rất quan trọng, các nhà khoa học cho rằng cảm biến từ trường của loài ngài có thể được vận hành bởi một phản ứng hóa học (mà các nhà khoa học gọi là cơ chế \"cặp gốc tự do\" - radical-pair) được kích hoạt bởi ánh sáng. Nhưng trước tiên họ phải tìm ra nó."
+    },
+    {
+     "t": "p",
+     "text": "\"Những tín hiệu từ từ trường địa lý và từ các vì sao có thể giúp loài ngài Bogong (và có thể cả những loài ngài khác) tiếp tục di chuyển đúng theo hướng di cư đã được di truyền, ngay cả khi một trong các tín hiệu này trở nên yếu đi hoặc không còn hoạt động (chẳng hạn do trời nhiều mây vào ban đêm hoặc do bão từ),\" nhóm nghiên cứu kết luận."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc tìm hiểu cách các tín hiệu cảm giác đa dạng này được kết hợp với nhau về mặt hành vi và thần kinh để đảm bảo khả năng định hướng đường dài chính xác vẫn là một hướng nghiên cứu đầy hứa hẹn trong tương lai.\""
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được Fiona MacDonald kiểm chứng thông tin và biên tập. Mặc dù chúng tôi luôn cố gắng làm việc cẩn thận, nhưng chúng tôi cũng chỉ là con người. Nếu bạn phát hiện sai sót, hãy cho chúng tôi biết."
+    }
+   ]
+  }
+ ]
+}
