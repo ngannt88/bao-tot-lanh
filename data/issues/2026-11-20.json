@@ -1,0 +1,3184 @@
+{
+ "date": "2026-11-20",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-20T06:51:17+07:00",
+ "sections": [
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  }
+ ],
+ "articles": [
+  {
+   "id": "5a741654a2dd",
+   "order": 1,
+   "slug": "nguoi-thay-16-nam-kien-tri-day-chu-cho-tre-em-phu-nu-noi-oc",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Người thầy 16 năm kiên trì dạy chữ cho trẻ em, phụ nữ nơi 'ốc đảo' Tà Xùa",
+   "sapo": "TPO - Ngày đứng lớp với học trò, tối lại miệt mài dạy phụ nữ Mông biết đọc, biết viết; thầy Lò Văn Huấn đã gắn bó 16 năm với điểm trường Làng Sáng (xã Tà Xùa, tỉnh Sơn La). Giữa núi rừng cách trở, những lớp học của thầy mở thêm cánh cửa tri thức cho cả bản.",
+   "author": "Ngọc Khiêm",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/nguoi-thay-16-nam-kien-tri-day-chu-cho-tre-em-phu-nu-noi-oc-dao-ta-xua-post1895619.tpo",
+   "published": "2026-11-19T23:01:00+07:00",
+   "lang": "vi",
+   "score": 9,
+   "words": 1160,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/5a741654a2dd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-0.jpg",
+     "caption": "Trước đây, để đến được điểm trường Làng Sáng là một ngày đi bộ băng rừng, vượt núi. Nay, dù đã có thể di chuyển bằng xe máy, thầy cô vẫn phải mất khoảng 2 giờ đồng hồ vượt những cung đường đèo dốc từ trung tâm xã Tà Xùa mới đến được lớp học.",
+     "w": 1280,
+     "h": 721
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-1.jpg",
+     "caption": "Thầy giáo Lò Văn Huấn cùng học trò tại điểm trường Làng Sáng.",
+     "w": 1214,
+     "h": 906
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 929
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-5.jpg",
+     "caption": "Những ngày mưa gió, cơ sở vật chất tại điểm trường chưa đủ sức chống chọi với thời tiết khắc nghiệt vùng cao khiến điều kiện học tập, sinh hoạt của các em học sinh nơi đây vẫn còn nhiều thiếu thốn.",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-11-20/5a741654a2dd-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Làng Sáng mang cái tên nghe thật đẹp, nhưng theo cách lý giải của đồng bào Mông nơi đây, lại có nghĩa là “khó nghĩ”. Ở bản xa nhất của xã Tà Xùa, tỉnh Sơn La, cái khó không chỉ nằm trên những cung đường cách trở mà còn hiện hữu trong cuộc sống thiếu thốn của người dân, trong hành trình đến lớp của trẻ thơ. Giữa miền đất ấy, thầy giáo Lò Văn Huấn đã dành nhiều năm bám bản, lặng lẽ gieo những hạt mầm tri thức, thắp lên ánh sáng hy vọng cho học trò vùng cao."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2010, sau khi tốt nghiệp Trường Cao đẳng Sư phạm Hà Nội, thầy giáo Lò Văn Huấn nhận công tác tại điểm trường Làng Sáng, Trường Tiểu học Háng Đồng (nay là Trường PTDTBT Tiểu học và THCS Háng Đồng, xã Tà Xùa)."
+    },
+    {
+     "t": "p",
+     "text": "Với một giáo viên trẻ vừa rời giảng đường, hành trình đến với những điểm trường vùng cao khi ấy là thử thách không nhỏ. Đường đi cách trở, điều kiện sinh hoạt thiếu thốn nên việc dạy và học của thầy, trò nơi đây cũng chẳng dễ dàng. Đặc biệt nhất là thời gian bám bản, gieo chữ tại điểm trường Làng Sáng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đi bộ lên điểm trường Làng Sáng để dạy học"
+    },
+    {
+     "t": "p",
+     "text": "Nằm giữa vùng lõi Khu bảo tồn thiên nhiên Tà Xùa, Làng Sáng từng được ví như một \"ốc đảo\" giữa những trùng điệp núi cao. Năm đầu mới chuyển đến, bản Làng Sáng chưa có điện lưới quốc gia, không một vạch sóng điện thoại. Lớp học là những gian nhà tạm bợ dựng bằng gỗ tạp. Không chỉ khắc nghiệt về địa hình, Làng Sáng trước kia còn là một điểm nóng phức tạp về tệ nạn cây thuốc phiện."
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi lần lên điểm trường, tôi phải chuẩn bị sẵn thực phẩm đủ dùng cho cả tuần, cùng đồ ăn mang theo trong hành trình đi bộ băng rừng mất trọn một ngày. Lớp học bằng gỗ đơn sơ, lọt thỏm giữa rừng già. Đến lớp, gặp các em với ánh mắt ngơ ngác, quần áo lấm lem bùn đất. Đêm xuống, căn phòng trống trải chỉ có tiếng gió rừng luồn qua khe cửa, tôi không khỏi hụt hẫng”, thầy Huấn nhớ lại."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng, thử thách lớn nhất không chỉ là sự thiếu thốn vật chất hay cái lạnh cắt da cắt thịt của đỉnh núi cao, mà là hành trình vượt qua định kiến để đưa con trẻ đến lớp."
+    },
+    {
+     "t": "p",
+     "text": "Để duy trì sĩ số, thầy phải tìm đến từng nhà, có khi phải băng qua những con dốc, men theo đường rừng để gặp phụ huynh. Những lúc không thấy học sinh đến trường, thầy lại tìm đến nương rẫy, kiên nhẫn giải thích để cha mẹ hiểu việc học có ý nghĩa thế nào với tương lai của con em mình."
+    },
+    {
+     "t": "p",
+     "text": "Dần dần, từ những buổi vận động, những lần đến từng nhà, thầy nhận được sự tin tưởng của phụ huynh. Với người dân trong bản, thầy giáo Huấn còn là người gần gũi, sẻ chia những khó khăn trong cuộc sống với bà con."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Dù cuộc sống còn nhiều khó khăn, người dân Làng Sáng vẫn thường xuyên tìm cách sẻ chia với thầy, cô bằng những việc làm giản dị. Có gia đình mang ngô, sắn, chuối rừng, mớ rau đến tặng, giúp giáo viên vơi bớt khó khăn trong sinh hoạt nơi bản xa."
+    },
+    {
+     "t": "p",
+     "text": "Những món quà đơn giản là tình cảm, sự trân trọng của phụ huynh dành cho những người thầy đã kiên trì bám bản, đưa con em họ đến trường. Đặc biệt, mỗi khi lớp học xuống cấp, mái dột, vách hỏng, bà con cũng chung tay sửa chữa, góp công, góp sức để thầy và trò có nơi học tập ổn định hơn."
+    },
+    {
+     "t": "q",
+     "text": "“Chính tình cảm nồng ấm, sự sẻ chia của phụ huynh học sinh và tinh thần ham học của các em đã tiếp thêm động lực để tôi vượt qua những khó khăn, vất vả nơi bản xa. Đó cũng là điều khiến tôi gắn bó với Làng Sáng, giữ trọn tình yêu nghề và tiếp tục hành trình gieo chữ nơi núi rừng”, thầy Huấn chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày đứng lớp dạy trẻ, tối miệt mài xóa mù chữ"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ vận động trẻ em đến trường, trong thời gian công tác tại Làng Sáng, thầy Huấn cùng các giáo viên điểm trường tổ chức những lớp học buổi tối, giúp phụ nữ Mông biết đọc, biết viết. Ban ngày bận làm nương, tối đến, những người phụ nữ lại tranh thủ thời gian đến lớp, mang theo mong muốn được tiếp cận với con chữ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Với phụ nữ ở các bản vùng cao, biết đọc, biết viết không chỉ giúp họ tự tin hơn trong giao tiếp mà còn mở ra cơ hội tiếp cận thông tin, chủ động tìm hiểu kiến thức về sản xuất, chăm sóc sức khỏe và nuôi dạy con cái. Vì thế, những lớp học xóa mù chữ không đơn thuần là nơi dạy chữ, mà còn giúp phụ nữ nâng cao hiểu biết, từng bước thay đổi nhận thức và chủ động hơn trong cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "“Với tôi, các em nhỏ cần con chữ để có hành trang học tập, còn những người phụ nữ lớn tuổi cần biết chữ để tự tin hơn trong cuộc sống, chăm sóc gia đình và tiếp cận những kiến thức mới. Dù công việc có vất vả, chỉ cần bà con còn muốn học, các em còn muốn đến trường thì chúng tôi vẫn cố gắng duy trì lớp học”, thầy Huấn chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Bản Làng Sáng giờ đã có nhiều đổi thay tích cực. Dù con đường độc đạo dẫn vào bản vẫn còn những đoạn dốc trơn trượt, lầy lội mỗi khi mùa mưa lớn ập về, nhưng những lớp học ở nơi đây đã không còn là những căn phòng tre nứa tạm bợ như thuở ban đầu."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Với thầy Lò Văn Huấn, gieo chữ chưa bao giờ chỉ dừng lại ở những bài học trên trang sách. Đó còn là sự quan tâm đến từng bữa ăn, giấc ngủ, là những trăn trở trước hoàn cảnh của học trò và mong muốn các em có một tương lai tốt đẹp hơn."
+    },
+    {
+     "t": "p",
+     "text": "Ở Làng Sáng, giữa núi rừng quanh năm mây phủ, những lớp học vẫn miệt mài, những người thầy, người cô vẫn ngày ngày bám bản, lặng lẽ vượt qua nhọc nhằn để gieo mầm tri thức, thắp lên hy vọng về một tương lai tươi sáng hơn cho trẻ em vùng cao Sơn La."
+    },
+    {
+     "t": "h",
+     "text": "Hơn 20 năm đi tìm học trò, giữ những ước mơ không dang dở"
+    },
+    {
+     "t": "h",
+     "text": "Bộ trưởng Giáo dục cam kết tháo gỡ vướng mắc chính sách, bảo vệ danh dự nhà giáo"
+    },
+    {
+     "t": "h",
+     "text": "‘Nốt lặng’ trong dịp tri ân"
+    }
+   ]
+  },
+  {
+   "id": "8f0e63a0ba1b",
+   "order": 2,
+   "slug": "dau-an-500-000-dong-va-hanh-trinh-phi-thuong-cua-chang-trai",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Dấu ấn 500.000 đồng và hành trình phi thường của chàng trai khiếm thị",
+   "sapo": "(Dân trí) - Từ ước ao tự đọc một cuốn sách, Trần Trung Đức (19 tuổi, quê Gia Lai) đã vượt nghịch cảnh, chinh phục công nghệ và giành giải Nhất cuộc thi quốc",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/dau-an-500000-dong-va-hanh-trinh-phi-thuong-cua-chang-trai-khiem-thi-20261119064725205.htm",
+   "published": "2026-11-19T02:54:47+07:00",
+   "lang": "vi",
+   "score": 9,
+   "words": 1278,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/8f0e63a0ba1b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/8f0e63a0ba1b-0.jpg",
+     "caption": "Từ cậu bé không có ký ức về ánh sáng, em Trần Trung Đức đã vượt nghịch cảnh, chinh phục công nghệ và giành giải Nhất cuộc thi quốc tế dành cho thanh thiếu niên khuyết tật (Ảnh: Nhân vật cung cấp).",
+     "w": 1244,
+     "h": 829
+    },
+    {
+     "src": "img/2026-11-20/8f0e63a0ba1b-1.jpg",
+     "caption": "Đức thử sức tại Cuộc thi Global IT Challenge (GITC) tổ chức tại Đà Nẵng và giành giải Nhất nội dung e-Combination, bảng khiếm thị (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-20/8f0e63a0ba1b-2.jpg",
+     "caption": "Trần Trung Đức (đúng thứ 4 từ phải qua) chụp hình lưu niệm cùng các thí sinh đội Việt Nam tham dự cuộc thi (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-20/8f0e63a0ba1b-3.jpg",
+     "caption": "Đức chụp hình cùng mẹ và hai em trong lần về thăm quê nhà ở Gia Lai (Ảnh: Nhân vật cung cấp).",
+     "w": 858,
+     "h": 858
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Từ ước ao tự đọc một cuốn sách, Trần Trung Đức (19 tuổi, quê Gia Lai) đã vượt nghịch cảnh, chinh phục công nghệ và giành giải Nhất cuộc thi quốc tế dành cho thanh thiếu niên khuyết tật."
+    },
+    {
+     "t": "p",
+     "text": "Ước mơ tự đọc một cuốn sách"
+    },
+    {
+     "t": "p",
+     "text": "Em Trần Trung Đức (19 tuổi, quê ở xã Ia Pa, tỉnh Gia Lai) mất thị lực từ khi mới 8 tháng tuổi do mắc u nguyên bào võng mạc. Để giữ lại mạng sống, em buộc phải phẫu thuật bỏ cả 2 mắt, vĩnh viễn khép lại cánh cửa nhìn thấy ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Tuổi thơ của Đức là chuỗi ngày dài gắn liền với bệnh viện. Sau thời gian điều trị tại Bệnh viện Mắt TPHCM, đến năm 2 tuổi, em được chuyển sang Bệnh viện Ung Bướu để hóa trị và xạ trị. Gần 9 năm ròng rã chống chọi với bệnh tật, em đã kiên cường vượt qua ranh giới sinh tử."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đức kể, giữa lúc gia đình khánh kiệt, em được níu giữ sự sống nhờ 500.000 đồng cô y tá âm thầm dúi vào tay mẹ và nhờ những người xa lạ góp từng 10.000 đồng, thậm chí cả triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "“TPHCM đã chở che em bằng những suất cơm tình thương gần bệnh viện. Những bàn tay vô danh ấy giúp em hiểu rằng, tử thần có thể tàn nhẫn nhưng tình yêu thương của con người còn mạnh mẽ hơn”, Đức tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Năm 9 tuổi, Đức được gia đình đưa vào Trung tâm Bảo trợ khiếm thị Nhật Hồng (TPHCM) để học tập, rèn luyện các kỹ năng dành cho người khiếm thị. Tại đây, em lần đầu được tiếp cận với chữ Braille (chữ nổi dành cho người khiếm thị). Sau 3 tháng kiên trì học tập, Đức đã có thể đọc chữ Braille tương đối thành thạo."
+    },
+    {
+     "t": "p",
+     "text": "“Đó là khoảnh khắc khó quên. Lần đầu tiên em có thể tự tiếp cận tri thức mà không còn phải nhờ bà ngoại, mẹ đọc giúp”, Đức kể lại."
+    },
+    {
+     "t": "p",
+     "text": "Theo Đức, trước khi biết chữ Braille, em cảm nhận thế giới xung quanh chủ yếu qua những câu chuyện bà ngoại đọc mỗi ngày. Để giúp em hiểu hơn về cuộc sống, bà thường mua truyện cổ tích rồi ngồi kể cho em nghe."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ đọc truyện, bà còn nghĩ ra cách giúp em làm quen với con chữ. Bà cắt từng chữ cái bằng giấy, đặt vào tay để em sờ và nhận biết. Từ A, B đến từng dấu thanh, bà đều kiên nhẫn hướng dẫn. Những mảnh giấy nhỏ ấy trở thành những bài học đầu đời của em."
+    },
+    {
+     "t": "p",
+     "text": "Càng lớn, em càng nhận ra bà ngoại đã già, đôi mắt cũng ngày một yếu đi. Mỗi lần đọc sách, bà hay dừng lại vì đau mắt. “Khi ấy, em chỉ mong một ngày có thể tự mình đọc sách, không còn phải chờ bà đọc giúp. Với các bạn nhìn thấy bình thường nhưng với em là một ước mơ không dễ thực hiện”, Đức chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ những chấm nổi đến thế giới công nghệ"
+    },
+    {
+     "t": "p",
+     "text": "Nếu chữ Braille là bước khởi đầu giúp Đức tiếp cận tri thức, công nghệ chính là công cụ giúp em kết nối rộng mở với thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ lại lần đầu bước vào phòng máy tại nơi học, Đức từng băn khoăn không biết người khiếm thị sẽ thao tác bằng cách nào. Nhưng rồi em nhận ra đó vẫn là những chiếc máy tính thông thường, chỉ cần cài đặt thêm trình đọc màn hình."
+    },
+    {
+     "t": "p",
+     "text": "Từ những âm thanh phát ra khi gõ bàn phím, câu lệnh được máy tính đọc thành tiếng, Đức dần làm quen với một thế giới công nghệ mà trước đó em chưa từng nghĩ mình có thể chạm tới."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến vào tháng 11/2025, khi Đức được Hội Người mù tỉnh Gia Lai cùng Quỹ Hỗ trợ Nuôi em thành tài, tặng chiếc máy tính cá nhân. Từ đó, em nhanh chóng làm quen, thành thạo các phần mềm văn phòng như Word, Excel; sử dụng ứng dụng Be My Eyes để nhận diện hình ảnh và khai thác trí tuệ nhân tạo (AI) hỗ trợ học tập."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi tối, Đức thường dùng AI để luyện phát âm tiếng Anh, giải bài tập lập trình hoặc tóm tắt những tài liệu dài hàng trăm trang. “AI không thể học thay mình, càng không thể thay thế sự nỗ lực của bản thân. Nhưng công nghệ giúp em rút ngắn những trở ngại, tiếp cận kiến thức thuận tiện hơn để có cơ hội học tập bình đẳng với các bạn sáng mắt”, Đức chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Sự kiên trì ấy mang lại cho em học bổng toàn phần từ lớp 3 đến hết lớp 12 tại Trường Quốc tế Tiểu học, THCS và THPT Việt Anh 2. Em duy trì thành tích học tập xuất sắc và dành nhiều thời gian theo đuổi đam mê công nghệ thông tin."
+    },
+    {
+     "t": "p",
+     "text": "Trong 2 năm 2025-2026, Đức liên tiếp gặt hái thành tích ấn tượng: giải Nhì Cuộc thi Tin học toàn quốc lần thứ III; giải Ba cuộc thi thuyết trình Hành trình chinh phục tri thức - Vươn tới tương lai; giải Tiêu biểu cuộc thi viết Ngày mai trong mắt em năm 2026..."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, tại lớp học công nghệ thông tin do Hội Người mù tỉnh Gia Lai tổ chức vào tháng 6, Đức đảm nhận cùng lúc 2 vai trò: học viên và trợ giảng. Em tận tình hướng dẫn những người đồng cảnh ngộ cách dùng sử dụng máy tính. Với Đức, niềm vui lớn nhất không chỉ là chinh phục kỹ năng mới, mà còn là giúp người khác tự tin làm chủ công nghệ."
+    },
+    {
+     "t": "p",
+     "text": "Giấc mơ mang ánh sáng tri thức đến cộng đồng"
+    },
+    {
+     "t": "p",
+     "text": "Cuối tháng 10, Đức thử sức tại Cuộc thi Global IT Challenge (GITC) dành cho thanh thiếu niên khuyết tật ở Đà Nẵng. Vượt qua vòng loại quốc gia, em trở thành một trong 20 thành viên đội tuyển Việt Nam tranh tài cùng 81 thí sinh đến từ 9 quốc gia ở 4 nội dung."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Giây phút công bố kết quả trở thành kỷ niệm khó quên với chàng trai khiếm thị 19 tuổi. Khi nhiều giải thưởng lần lượt được xướng tên, Đức không khỏi hồi hộp, lo âu. Song, niềm vui vỡ òa khi tên em vang lên ở ngôi vị cao nhất: giải Nhất nội dung e-Combination, bảng khiếm thị. “Con thực sự hạnh phúc và biết ơn tất cả”, Đức xúc động chia sẻ tại lễ nhận giải."
+    },
+    {
+     "t": "p",
+     "text": "Với Đức, tấm huy chương quốc tế không phải là đích đến cuối cùng. Trước mắt, em đặt mục tiêu góp mặt trong đội tuyển Việt Nam dự GITC 2027 tại Thái Lan. Xa hơn, Đức khao khát giành học bổng ngành Công nghệ thông tin tại Đại học RMIT Việt Nam để trở thành lập trình viên, tạo ra các phần mềm hỗ trợ người khiếm thị học tập, hòa nhập tốt hơn."
+    },
+    {
+     "t": "p",
+     "text": "“Em không nhìn thấy ánh sáng, nhưng em chưa bao giờ ngừng đi tìm ánh sáng”, Đức bộc bạch."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Hùng Thanh, Chủ tịch Hội Người mù tỉnh Gia Lai, đánh giá thành tích của Đức là niềm tự hào của Hội, đồng thời là nguồn động viên đối với những người khiếm thị trẻ. Theo ông, từ tấm gương của Đức, các bạn trẻ có thêm niềm tin, chủ động học tập, tiếp cận công nghệ và phát huy khả năng của bản thân."
+    }
+   ]
+  },
+  {
+   "id": "9a4e753f12a0",
+   "order": 3,
+   "slug": "vua-lam-thay-co-vua-lam-cha-me",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Vừa làm thầy cô, vừa làm cha mẹ",
+   "sapo": "TP - Có một ngôi trường giữa lòng Đà Nẵng mà mỗi người thầy, người cô ở đó phải “vào vai” cha mẹ. Họ ăn cùng, ở cùng, lớn lên cùng các con. Họ không chỉ dạy chữ, mà dạy cho con từ cách đi đứng nói năng cho tới ứng biến trước những va vấp giữa đời. Ngôi trường ấy là trường Hy Vọng, mái nhà chung của các em mất người thân trong đại dịch COVID-19.",
+   "author": "Thanh Hiền",
+   "source_name": "Tiền Phong",
+   "source_url": "https://tienphong.vn/vua-lam-thay-co-vua-lam-cha-me-post1895875.tpo",
+   "published": "2026-11-19T23:14:55+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1329,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/9a4e753f12a0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/9a4e753f12a0-0.jpg",
+     "caption": "Ông Nguyễn Khắc Toàn - Phó Bí thư Thường trực Thành ủy Đà Nẵng ấn tượng trước sự lễ phép, hoạt bát của học sinh trường Hy Vọng. Ảnh: Thanh Hiền",
+     "w": 1280,
+     "h": 898
+    },
+    {
+     "src": "img/2026-11-20/9a4e753f12a0-1.jpg",
+     "caption": "Cô Phương làm chị, làm mẹ kề cạnh các em trong mái nhà Hy Vọng. Ảnh: Thanh Hiền",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-20/9a4e753f12a0-2.jpg",
+     "caption": "Thầy Trịnh là người chắp cánh cho “đàn con” bay cao hơn. Ảnh: Thanh Hiền",
+     "w": 1280,
+     "h": 854
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Vào vai mẹ đảm, chị hiền"
+    },
+    {
+     "t": "p",
+     "text": "Hơn 5 giờ sáng, trường Hy Vọng vang lên tiếng kẻng, học trò khắp các phòng bật dậy vệ sinh cá nhân rồi chia từng nhóm ra sân tập thể dục, dọn phòng và toàn bộ khuôn viên trường. Hôm tôi tới thăm trường sớm, thấy các em người chổi người sọt cặm cụi quét từ khoảng sân rộng mênh mông ra tới tận ngoài đường sạch bong."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cô Nguyễn Ngọc Lan Phương (nhân viên y tế, quản lý tổ nữ sinh) cười hiền, bảo từ những cô bé cậu bé ngày mới về đây còn bỡ ngỡ, giờ các em đã sống rất ý thức và có trách nhiệm."
+    },
+    {
+     "t": "p",
+     "text": "Cô Phương nhớ như in, 4 năm trước, khi trường Hy Vọng mới thành lập sau đại dịch, cô vào đây làm thử và ôm mộng thi viên chức vào một nơi khác."
+    },
+    {
+     "t": "p",
+     "text": "“Chỉ một thời gian ngắn gặp gỡ những em nhỏ chịu mất mát từ mọi miền đất nước về đây, tôi như bị “bỏ bùa” không dứt được. Hôm trường tổ chức ngày hội đến trường đầu tiên cũng là ngày tôi thi viên chức, nhưng tôi quyết định bỏ thi, chọn ở lại mái nhà này”, cô vẹn nguyên cảm xúc."
+    },
+    {
+     "t": "p",
+     "text": "Là cô giáo y tế, quản lý tổ nữ sinh, cô Phương như bảo mẫu chăm lo tất tần tật mọi việc cho hàng trăm đứa con trong mái nhà chung này. Cô kể ngày mới vào trường, nhiều em nhớ nhà đêm đêm nằm khóc, có em thì bướng bỉnh, có em quá nhỏ tuổi chỉ muốn được cưng chiều. Mỗi em một tính, để gần gũi, giúp các em vượt qua biến cố và hoà nhập với môi trường mới, cô phải vào vai người mẹ, người chị. Từ việc đánh răng, tắm rửa, đi đứng nói năng, cách ăn uống, phép tắc… cô đều bày vẽ từng chút một như cha mẹ dạy chính con mình."
+    },
+    {
+     "t": "p",
+     "text": "“Tụi nhỏ coi nơi này là ngôi nhà thứ hai, thì thầy cô cũng phải xem các em như em út, con cái của mình vậy. Từ chỗ dè dặt ban đầu, bây giờ chuyện gì cũng hỏi. Tôi rất mừng khi các em tin tưởng và thật sự coi mình như người nhà để có thể tâm tình, nhất là các em gái đã sẵn sàng mở lòng với mình bao chuyện thầm kín, khó nói”, cô tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "“Đàn con” mỗi ngày một lớn lên, thế giới ngoài kia muôn biến vạn hoá, cô Phương phải học thêm vô vàn kỹ năng, cập nhật thêm nhiều kiến thức để luôn trong tâm thế sẵn sàng giải đáp, tư vấn. Như chuyện đi vệ sinh nơi công cộng ra sao, mang váy ngồi như thế nào, bạn trai lần đầu hẹn đi ăn nên trả lời gì?... Cô nói đó là những điều mà người lớn trong gia đình thường hay dạy, giờ các em không có người thân bên cạnh, thì thầy cô phải bảo ban để các em nên người."
+    },
+    {
+     "t": "p",
+     "text": "Trường Hy vọng thành lập vào cuối năm 2022, là nơi nuôi dưỡng các em nhỏ mất người thân trong đại dịch COVID-19. Ban đầu, trường tiếp nhận 32 học sinh. Sau gần 4 năm hoạt động, nhà trường đã đón nhận, nuôi dưỡng và đào tạo 350 học sinh đến từ nhiều địa phương trên cả nước."
+    },
+    {
+     "t": "p",
+     "text": "Ngồi bên cô, Nguyễn Trần Khánh Vy (lớp 7, quê TP Hồ Chí Minh) ngượng ngùng vì hồi mới về đây, Vy là cô bé nhút nhát, hay khóc nhè. Vậy mà giờ đã cao lớn, tự tin, còn tham gia thi chạy, thi võ. Vy coi cô Phương như người chị, bao chuyện bỡ ngỡ trong hành trình lớn lên của mình đều tìm hỏi cô."
+    },
+    {
+     "t": "p",
+     "text": "Còn Quang Thành (quê Hà Nội) cũng từ cậu bé con bướng bỉnh giờ rất lễ phép, thích nấu ăn, giặt đồ. Cô Phương ấm lòng, rằng sau nhiều năm sống dưới mái nhà chung, các em đã trở thành những người có ý thức, sống nền nếp, biết yêu thương đùm bọc nhau. Đó là những trái ngọt đầu tiên trên hành trình trồng người của trường Hy Vọng."
+    },
+    {
+     "t": "h",
+     "text": "Chắp cánh bay cao"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cũng nhẹ nhàng ân cần không thua gì các cô giáo, thầy “tổng quản” Võ Công Trịnh vừa dìu dắt đàn con chịu nhiều thiệt thòi vững vàng hơn, vừa là người chắp cánh cho các con bay cao hơn. Thầy là người theo sát quá trình học tập của các con để tìm cách hỗ trợ ngoài giờ lên lớp, đồng thời phát hiện tố chất của từng em để định hướng và bồi dưỡng."
+    },
+    {
+     "t": "p",
+     "text": "Câu lạc bộ robot và tái chế của thầy ban đầu tập hợp những em còn khá mơ hồ, sau quá trình tìm hiểu, học tập, thầy đã hướng dẫn cho các em tham dự nhiều cuộc thi. Trong đó có các đội đoạt giải Nhì cuộc thi First Tech Challenge, Huy chương đồng Giải thưởng Sáng tạo và Đổi mới quốc tế (ICIA Global) năm 2025…"
+    },
+    {
+     "t": "p",
+     "text": "“Làm việc ban đầu với các bạn khá khó khăn vì mỗi em đến từ một địa phương, mỗi cách sống. Nhiều bạn học đã mất gốc nên không thể một sớm một chiều có thể tiến bộ. Tôi vừa dạy, vừa dỗ, cố gắng cho các em chinh phục các giải thưởng để các em biết sức mình, từ đó phấn đấu và tự tin hơn”, thầy nói."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ đi cùng con đường học thức, thầy còn là người bạn đồng hành trong suốt chặng đường lớn lên của các em. Thầy Trịnh tâm tình rằng mình có cả con trai và con gái, nên hiểu khá sâu về tính cách cũng như mong muốn của “đàn con” ở trường Hy Vọng."
+    },
+    {
+     "t": "p",
+     "text": "Thầy quan sát từng em, đề xuất những món đồ các em cần từ bàn chải, quần áo cho tới nhu cầu học tập, tham gia các hoạt động. Mỗi năm, các em được về thăm quê hai lần vào dịp hè và dịp Tết, thầy cũng là người đưa các em về nhà. Có những em không về, các thầy cô lại đưa về nhà ở để học trò bớt tủi thân."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Khắc Toàn - Phó Bí thư Thường trực Thành ủy Đà Nẵng nhìn nhận hành trình phát triển của trường Hy Vọng không chỉ thể hiện qua sự gia tăng về quy mô mà còn ở việc kiên trì theo đuổi mục tiêu giàu ý nghĩa nhân văn: mang đến sự chăm sóc, giáo dục và cơ hội xây dựng tương lai cho những trẻ em có hoàn cảnh bất hạnh. Theo ông, trường Hy Vọng cho các em môi trường học tập, sinh hoạt và trải nghiệm, đồng thời khơi dậy tiềm năng, phát triển năng khiếu, nuôi dưỡng ước mơ và giúp mỗi học sinh từng bước định hình con đường tương lai của mình."
+    },
+    {
+     "t": "p",
+     "text": "“Mỗi ngày đi làm, tôi luôn nghĩ là mình đang tới ngôi nhà thứ hai. Ở đó có các con, mình làm cha thì phải hết lòng yêu thương và bảo bọc. Tôi cố hết sức giúp các em trở thành những con người có đạo đức, có kiến thức, trang bị thật nhiều kỹ năng để mai này rời xa mái nhà Hy Vọng có thể vững chãi giữa đời”, thầy Trịnh tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 20/11 tới gần, nhìn bảng tin của trường dán đầy những lời tri ân và chúc mừng của các em dành cho thầy cô giáo, thầy Trịnh bảo rằng trao đi yêu thương sẽ nhận lại được yêu thương. Mong rằng sau này lớn lên, các em cũng sẽ trở thành những người có ích, biết chở che cho những mảnh đời éo le như chính mái nhà Hy Vọng đã dang rộng vòng tay đón các em trong cơn giông bão."
+    }
+   ]
+  },
+  {
+   "id": "1a3cba13cb2a",
+   "order": 4,
+   "slug": "mot-xa-o-phu-tho-co-fanpage-hut-7-5-trieu-view-khach-du-lich",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Một xã ở Phú Thọ có Fanpage hút 7,5 triệu view, khách du lịch tăng 10 lần",
+   "sapo": "(Dân trí) - Từ những người nông dân quanh năm gắn bó với đồi chè, đồng bào Mường ở Long Cốc (Phú Thọ) bắt đầu học quay video, livestream quảng bá quê hương,",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/mot-xa-o-phu-tho-co-fanpage-hut-75-trieu-view-khach-du-lich-tang-10-lan-20261119135802266.htm",
+   "published": "2026-11-19T11:57:46+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 809,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/1a3cba13cb2a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/1a3cba13cb2a-0.jpg",
+     "caption": "Ông Nguyễn Xuân Việt, Chủ tịch UBND xã Long Cốc (Ảnh: Minh Nhật).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-20/1a3cba13cb2a-1.jpg",
+     "caption": "Ông Nguyễn Hoàng Trung, Bí thư Đảng ủy xã Long Cốc quay video cùng người dân quảng bá quê hương (Ảnh: Mạnh Quân).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-20/1a3cba13cb2a-2.jpg",
+     "caption": "Tuần lễ diễn ra nhiều sự kiện văn hóa, du lịch (Ảnh: Minh Nhật).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-20/1a3cba13cb2a-3.jpg",
+     "caption": "Lượng khách du lịch đổ về Long Cốc (Phú Thọ) sau những clip \"triệu view\" của Bí thư xã (Ảnh: Mạnh Quân).",
+     "w": 980,
+     "h": 653
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Từ những người nông dân quanh năm gắn bó với đồi chè, đồng bào Mường ở Long Cốc (Phú Thọ) bắt đầu học quay video, livestream quảng bá quê hương, góp phần đưa lượng khách du lịch tăng gấp 10 lần."
+    },
+    {
+     "t": "p",
+     "text": "Khách du lịch tăng vọt nhờ chuyển đổi số"
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu năm 2026 đến nay, xã Long Cốc (Phú Thọ) đã đón khoảng 50.000 lượt khách du lịch, tăng gấp 10 lần so với con số 5.000 lượt của năm 2025. Đáng chú ý, lượng khách đăng ký trải nghiệm thông qua các nền tảng mạng xã hội tăng tới 15-20 lần."
+    },
+    {
+     "t": "p",
+     "text": "Những con số ấn tượng này được chính quyền địa phương công bố tại Tuần lễ Văn hóa - Du lịch Long Cốc năm 2026."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau sự tăng trưởng là nỗ lực chuyển đổi số của chính quyền và người dân địa phương, trong đó Bí thư Đảng ủy xã đóng vai trò tiên phong, đưa những người nông dân Mường từ chỗ chỉ quen với công việc trồng, hái chè trở thành những người trực tiếp quảng bá quê hương trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Nguyễn Xuân Việt, Chủ tịch UBND xã Long Cốc, kết quả trên có được nhờ sự chung tay của cả hệ thống chính trị, cộng đồng doanh nghiệp và người dân trên địa bàn."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi hướng tới mô hình phát triển bền vững: Văn hóa là nền tảng, thiên nhiên là tài sản, doanh nghiệp là đối tác, đổi mới sáng tạo là động lực và dịch vụ du lịch là khâu đột phá\", ông Việt chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Chính quyền và người dân chung sức đưa quê hương lên sóng"
+    },
+    {
+     "t": "p",
+     "text": "Ngay sau khi mô hình chính quyền địa phương 2 cấp đi vào hoạt động, lãnh đạo xã đã chủ động xây dựng đề án phát triển kinh tế toàn diện đến năm 2030, tầm nhìn đến năm 2045, trong đó xác định du lịch cộng đồng và chuyển đổi số là những hướng đi quan trọng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ dừng lại ở việc xây dựng kế hoạch, chính quyền địa phương còn trực tiếp \"cầm tay chỉ việc\", hướng dẫn bà con dân tộc Mường kỹ năng quay video ngắn, livestream và quảng bá sản phẩm trên các nền tảng số."
+    },
+    {
+     "t": "p",
+     "text": "Bản thân ông Nguyễn Hoàng Trung, Bí thư Đảng ủy xã Long Cốc, cũng nhiều lần dậy từ 4h, mang theo thiết bị ghi hình lên đồi chè để thực hiện những video quảng bá cảnh sắc quê hương."
+    },
+    {
+     "t": "p",
+     "text": "Kênh truyền thông địa phương \"Amazing Long Cốc\" do ông Trung khởi xướng đã thu hút khoảng 25.000 người theo dõi, với tổng lượt xem vượt mốc 7,5 triệu."
+    },
+    {
+     "t": "p",
+     "text": "Những thước phim ghi lại biển mây bồng bềnh trên các đồi chè hình bát úp, cảnh bình minh hay cuộc sống lao động của người dân đã thu hút sự quan tâm của đông đảo người xem trong và ngoài nước."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Từ sự khơi gợi của chính quyền, nhiều nông dân Mường tại Long Cốc cũng bắt đầu thay đổi cách nghĩ, cách làm."
+    },
+    {
+     "t": "p",
+     "text": "Đồng bào Mường chiếm khoảng 83% dân số xã. Trước đây, sinh kế của nhiều gia đình chủ yếu dựa vào trồng, thu hái chè và bán nguyên liệu thô với giá trị kinh tế chưa cao."
+    },
+    {
+     "t": "p",
+     "text": "Nay, một số người đã mạnh dạn đứng trước máy quay, livestream ngay giữa đồi chè để giới thiệu sản phẩm, cảnh sắc và các trải nghiệm du lịch địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hà Thị Hiển, một phụ nữ Mường từng làm công nhân tại xí nghiệp chè, cho biết nhờ hình ảnh quê hương được quảng bá rộng rãi trên mạng xã hội, lượng khách tìm đến homestay của gia đình chị đã tăng gấp 3-5 lần."
+    },
+    {
+     "t": "p",
+     "text": "Song song với chuyển đổi số, địa phương cũng đẩy mạnh phát triển mô hình chè hữu cơ, phát thải thấp trên diện tích 16,3ha, hướng tới nâng cao giá trị sản phẩm và gắn sản xuất nông nghiệp với du lịch trải nghiệm."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Tại Tuần lễ Văn hóa - Du lịch Long Cốc năm 2026, đồi chè Long Cốc cũng trở thành địa điểm đầu tiên của tỉnh Phú Thọ được trao quyết định công nhận điểm du lịch cộng đồng cấp tỉnh kể từ khi mô hình chính quyền địa phương 2 cấp chính thức vận hành."
+    },
+    {
+     "t": "p",
+     "text": "Sớm hơn 4 năm so với mục tiêu được đưa ra trong Nghị quyết của Đảng bộ xã Long Cốc nhiệm kỳ 2025-2030."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ thu hút du khách, \"chuyển đổi số\" mạnh mẽ cũng góp phần cải thiện nguồn thu của địa phương. Trong 9 tháng đầu năm, thu ngân sách Nhà nước trên địa bàn xã đạt 4.453 triệu đồng (hơn 4,45 tỷ đồng), bằng 380% kế hoạch năm và 470% so với cùng kỳ."
+    }
+   ]
+  },
+  {
+   "id": "76ef198032e4",
+   "order": 5,
+   "slug": "doi-co-da-lat-lap-lanh-nhu-phu-tuyet-hong",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Đồi cỏ Đà Lạt lấp lánh như phủ tuyết hồng",
+   "sapo": "Sau mùa mưa, cỏ non trên các triền đồi Đà Lạt trổ bông li ti màu hồng tím, kết thành những thảm phớt hồng trải dài giữa rừng thông.",
+   "author": "Mai Phương",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/doi-co-da-lat-lap-lanh-nhu-phu-tuyet-hong-5146227.html",
+   "published": "2026-11-19T08:39:53+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 768,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/76ef198032e4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 723
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 730
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1200
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1200
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 813
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-20/76ef198032e4-8.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Đồi cỏ Đà Lạt lấp lánh như phủ tuyết hồng"
+    },
+    {
+     "t": "p",
+     "text": "Sau mùa mưa, cỏ non trên các triền đồi Đà Lạt trổ bông li ti màu hồng tím, kết thành những thảm phớt hồng trải dài giữa rừng thông."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu tháng 11, những triền cỏ tại khu vực hồ Đan Kia - Suối Vàng, phường Lang Biang - Đà Lạt, Lâm Đồng, bắt đầu chuyển sang sắc hồng, xen giữa những rừng thông."
+    },
+    {
+     "t": "p",
+     "text": "Cỏ hồng là tên gọi dân gian của loại cỏ mọc tự nhiên thành từng bụi nhỏ trên các triền đồi. Sau mùa mưa, lớp cỏ già dần lụi đi, cỏ non phát triển, những lá non và bông hoa nhỏ li ti mang sắc hồng tím. Khi mọc thành từng mảng lớn, cỏ tạo nên những thảm màu phớt hồng trải dài trên sườn đồi."
+    },
+    {
+     "t": "p",
+     "text": "Mùa cỏ thường xuất hiện vào tháng 11-12, thời điểm lên màu và độ dày của thảm cỏ không cố định qua các năm."
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu tháng 11, những triền cỏ tại khu vực hồ Đan Kia - Suối Vàng, phường Lang Biang - Đà Lạt, Lâm Đồng, bắt đầu chuyển sang sắc hồng, xen giữa những rừng thông."
+    },
+    {
+     "t": "p",
+     "text": "Cỏ hồng là tên gọi dân gian của loại cỏ mọc tự nhiên thành từng bụi nhỏ trên các triền đồi. Sau mùa mưa, lớp cỏ già dần lụi đi, cỏ non phát triển, những lá non và bông hoa nhỏ li ti mang sắc hồng tím. Khi mọc thành từng mảng lớn, cỏ tạo nên những thảm màu phớt hồng trải dài trên sườn đồi."
+    },
+    {
+     "t": "p",
+     "text": "Mùa cỏ thường xuất hiện vào tháng 11-12, thời điểm lên màu và độ dày của thảm cỏ không cố định qua các năm."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhiếp ảnh gia Sam Sam, sinh sống tại Đà Lạt, nhận xét mùa cỏ hồng năm nay đẹp hơn 1-2 năm trước, với những thảm cỏ mọc dày và lên màu rõ. Theo anh, không phải năm nào cỏ cũng phát triển đồng đều và có màu sắc đẹp. Mật độ, độ đậm nhạt của cỏ thay đổi theo từng mùa, phụ thuộc vào điều kiện tự nhiên và thời tiết."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Sam Sam, để chụp được khoảnh khắc cỏ hồng đẹp nhất cần hội đủ ba điều kiện: nắng sớm, sương đọng trên cỏ và thời tiết không có gió mạnh. Khoảng 6-7h là thời điểm anh ưu tiên chụp ảnh. Khi đó, ánh nắng đầu ngày chiếu vào lớp sương tạo hiệu ứng hồng lấp lánh ánh bạc. Nếu trời có gió mạnh, sương dễ bị thổi khỏi ngọn cỏ, khiến hiệu ứng này khó xuất hiện."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Cách đồi cỏ hồng Suối Vàng khoảng 5 km, Thung Lũng Vàng cũng có những thảm cỏ mọc xen giữa rừng thông. Khu vực này cách trung tâm Đà Lạt khoảng 15 km về phía tây bắc."
+    },
+    {
+     "t": "p",
+     "text": "Anh Sam Sam lưu ý việc đi lại trên thảm cỏ ảnh hưởng đến chất lượng ảnh. Khi bị giẫm đạp, sương rơi khỏi ngọn, những vùng cỏ đó không còn hiệu ứng lấp lánh. Người chụp nên lựa chọn lối đi có sẵn, hạn chế bước lên các bụi cỏ để giữ nguyên cảnh quan."
+    },
+    {
+     "t": "p",
+     "text": "Cách đồi cỏ hồng Suối Vàng khoảng 5 km, Thung Lũng Vàng cũng có những thảm cỏ mọc xen giữa rừng thông. Khu vực này cách trung tâm Đà Lạt khoảng 15 km về phía tây bắc."
+    },
+    {
+     "t": "p",
+     "text": "Anh Sam Sam lưu ý việc đi lại trên thảm cỏ ảnh hưởng đến chất lượng ảnh. Khi bị giẫm đạp, sương rơi khỏi ngọn, những vùng cỏ đó không còn hiệu ứng lấp lánh. Người chụp nên lựa chọn lối đi có sẵn, hạn chế bước lên các bụi cỏ để giữ nguyên cảnh quan."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Sau 7h, khi nắng lên cao, sương dần tan, thảm cỏ có thể ngả sang sắc hồng tím, không còn độ óng ánh như lúc bình minh. Tuy nhiên, thời điểm sương tan nhanh hay chậm còn phụ thuộc thời tiết từng ngày."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Đến giữa tháng 11, nhiều khu vực lên màu rõ, tạo nên cảnh quan đặc trưng của vùng cao nguyên vào thời điểm chuyển từ mùa mưa sang mùa khô."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Khung cảnh đồi cỏ hồng lúc 6h."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2017, địa phương bắt đầu tổ chức Mùa hội cỏ hồng Lang Biang, kết hợp giới thiệu cảnh quan với các hoạt động văn hóa bản địa. Năm nay Mùa hội cỏ hồng vào ngày 21/11 tại bãi Tiên Sa, khu vực hồ Đan Kia - Suối Vàng, hưởng ứng Festival Hoa Đà Lạt lần thứ XI. Nguồn: Sam Sam"
+    }
+   ]
+  },
+  {
+   "id": "7b674568ee90",
+   "order": 6,
+   "slug": "gia-dinh-viet-lai-o-to-15-000km-dua-con-gai-4-tuoi-kham-pha",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Gia đình Việt lái ô tô 15.000km đưa con gái 4 tuổi khám phá Tây Tạng",
+   "sapo": "(Dân trí) - Hơn một tháng, vợ chồng Nguyễn Ngọc Minh cùng con gái 4 tuổi lái ô tô mang biển số Việt Nam vượt khoảng 15.000km qua Lào, Trung Quốc, chinh phục",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/gia-dinh-viet-lai-o-to-15000km-dua-con-gai-4-tuoi-kham-pha-tay-tang-20261112200732040.htm",
+   "published": "2026-11-19T04:39:43+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 2075,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/7b674568ee90-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-0.jpg",
+     "caption": "Vợ chồng anh Minh cùng con gái trên hành trình khám phá Tây Tạng.",
+     "w": 1280,
+     "h": 815
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-1.jpg",
+     "caption": "Gia đình Việt lái ô tô 15.000km đưa con gái 4 tuổi khám phá Tây Tạng - 2",
+     "w": 1280,
+     "h": 955
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-2.jpg",
+     "caption": "Gia đình Việt lái ô tô 15.000km đưa con gái 4 tuổi khám phá Tây Tạng - 3",
+     "w": 1280,
+     "h": 856
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-3.jpg",
+     "caption": "Gia đình anh Minh chụp ảnh tại cột mốc quốc lộ 318.",
+     "w": 1280,
+     "h": 1008
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-4.jpg",
+     "caption": "Gia đình anh Minh đã có nhiều kỷ niệm đẹp trên hành trình chinh phục Tây Tạng.",
+     "w": 1280,
+     "h": 974
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-5.jpg",
+     "caption": "Gia đình Việt lái ô tô 15.000km đưa con gái 4 tuổi khám phá Tây Tạng - 6",
+     "w": 1280,
+     "h": 756
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-6.jpg",
+     "caption": "Gia đình Việt lái ô tô 15.000km đưa con gái 4 tuổi khám phá Tây Tạng - 7",
+     "w": 1280,
+     "h": 964
+    },
+    {
+     "src": "img/2026-11-20/7b674568ee90-7.jpg",
+     "caption": "Vợ chồng anh Minh kết thúc chuyến đi ngày 5/11.",
+     "w": 1280,
+     "h": 880
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Gần một tuần sau khi trở về từ hành trình hơn 30 ngày xuyên Việt đến Tây Tạng rồi quay lại, Khánh An (4 tuổi, tên ở nhà là Gạo) háo hức hỏi bố - anh Nguyễn Ngọc Minh (Cần Thơ) - khi nào cả nhà tiếp tục lên đường khám phá những vùng đất mới."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn con gái vui vẻ, khỏe mạnh sau chuyến đi với nhiều thử thách như động đất, sự cố xe cộ và chênh lệch độ cao, anh Minh không giấu được sự nhẹ nhõm. Gia đình không chỉ hoàn thành hành trình mơ ước mà còn đảm bảo an toàn cho tất cả thành viên."
+    },
+    {
+     "t": "p",
+     "text": "“Đây là một chuyến đi thử thách với gia đình tôi, nhưng thật may vì mọi thứ đều tốt đẹp”, anh Minh chia sẻ với phóng viên Dân trí."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Là người sáng tạo nội dung du lịch, Tây Tạng là điểm đến anh Minh ấp ủ từ lâu. Vùng đất này hấp dẫn anh bởi những cung đèo ở độ cao hàng nghìn mét, núi tuyết, cao nguyên rộng lớn và nền văn hóa khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, có con nhỏ đồng hành, vợ chồng anh không muốn vội vàng thực hiện chuyến đi khi chưa đánh giá được khả năng thích nghi của các thành viên với môi trường cao nguyên."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, gia đình thực hiện chuyến đi 55 ngày qua nhiều khu vực có khí hậu, độ cao khác nhau ở cao nguyên Thanh Hải và Tứ Xuyên (Trung Quốc) để đánh giá khả năng thích nghi của con gái."
+    },
+    {
+     "t": "p",
+     "text": "“Gạo bắt đầu theo bố mẹ du lịch từ khi mới một tháng tuổi. Trong hơn 4 năm, con đã cùng gia đình đi khoảng 150.000km bằng ô tô, trải qua nhiều chuyến xuyên Việt, 3 lần xuyên Đông Nam Á và 2 hành trình từ Việt Nam sang Trung Quốc”, anh Minh kể."
+    },
+    {
+     "t": "p",
+     "text": "Việc sinh hoạt trên ô tô, liên tục thay đổi địa điểm hay lưu trú dài ngày tại khách sạn đã quen thuộc với Gạo. Dù vậy, theo anh Minh, Tây Tạng vẫn là hành trình thử thách bởi địa hình, độ cao và nhiều rủi ro có thể phát sinh. Chỉ khi nhận thấy con gái đủ sức khỏe, vợ chồng anh mới quyết định lên kế hoạch."
+    },
+    {
+     "t": "p",
+     "text": "Từ tháng 6/2026, hai vợ chồng dành 4 tháng sắp xếp công việc, lên lộ trình, chuẩn bị giấy tờ và kiểm tra phương tiện."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Anh Minh tự lái xe ô tô từ Việt Nam sang Tây Tạng."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì thuê xe tại Trung Quốc, anh Minh quyết định đưa ô tô biển số Việt Nam sang nước bạn. Việc này đòi hỏi nhiều thủ tục đối với cả người và phương tiện, từ visa, giấy tờ xe, giấy phép lái xe tạm thời, biển số tạm đến thủ tục hải quan, bảo hiểm và giấy phép vào Tây Tạng. Gia đình làm việc với đơn vị hỗ trợ tại Trung Quốc để hoàn tất hồ sơ."
+    },
+    {
+     "t": "p",
+     "text": "“Trước chuyến đi, chiếc xe được bảo dưỡng lớn, kiểm tra các bộ phận quan trọng như động cơ, hộp số, hệ thống truyền động, gầm, phanh và hệ thống treo”, anh Minh cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 1/10, gia đình xuất phát từ Cần Thơ, lái xe khoảng 2.000km đến Điện Biên. Qua cửa khẩu Tây Trang, đoàn sang Lào, tiếp tục di chuyển khoảng 300km đến khu vực cửa khẩu Boten - Mohan và nhập cảnh Trung Quốc ngày 7/10."
+    },
+    {
+     "t": "p",
+     "text": "Đoàn gồm 6 ô tô mang biển số Việt Nam. Tại Trung Quốc, các xe lần lượt đi qua Phổ Nhĩ, Đại Lý, Lệ Giang, Shangri-La, Đức Khâm (tỉnh Vân Nam), rồi tiến vào Tây Tạng."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 20/10, gia đình đặt chân đến Lhasa, thủ phủ Tây Tạng. Với anh Minh, đây là cột mốc đặc biệt khi lần đầu tiên tự lái chiếc xe mang biển số Việt Nam đến vùng đất mà trước đó anh chỉ biết qua hình ảnh và những thước phim."
+    },
+    {
+     "t": "p",
+     "text": "Riêng tại Trung Quốc, đoàn di chuyển khoảng 10.000km. Tính cả chặng từ Cần Thơ qua Lào, Trung Quốc rồi trở về Việt Nam, tổng quãng đường lên tới khoảng 15.000km."
+    },
+    {
+     "t": "p",
+     "text": "“Có ngày đi đường đèo, chỉ 100km nhưng mất 5-6 tiếng vì đường quanh co, nhiều xe tải. Ngược lại, khi về trên cao tốc, gia đình có ngày đi được 600-700km trong khoảng 7-8 tiếng”, anh Minh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trong hành trình, cảnh quan liên tục thay đổi, từ thung lũng, núi đá hùng vĩ đến những cung đèo ở độ cao 4.000-5.000m, với các khúc cua tay áo nối tiếp nhau giữa núi tuyết và cao nguyên rộng lớn."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Minh, ưu điểm của du lịch tự lái là không bị bó buộc vào lịch trình cố định. Khi bắt gặp cảnh đẹp, gia đình có thể tìm vị trí an toàn để dừng xe ngắm cảnh, quay phim hoặc đơn giản là tận hưởng không gian."
+    },
+    {
+     "t": "p",
+     "text": "Trong số những địa danh đã đi qua như Mang Khang, Tả Cống, Bát Túc, Ba Mật, Lâm Chi và Lhasa, Cung điện Potala là nơi để lại ấn tượng sâu sắc nhất với anh. Công trình nằm trên một ngọn đồi giữa thành phố, mang đậm dấu ấn lịch sử, văn hóa và tôn giáo của người Tây Tạng."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh cảnh quan, đời sống văn hóa và tín ngưỡng của người dân bản địa cũng mang đến cho gia đình nhiều trải nghiệm mới."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến vợ chồng anh Minh lo lắng nhất trước chuyến đi là khả năng thích nghi với độ cao. Nhiều khu vực trong hành trình nằm trên 4.000m, thậm chí có những cung đèo vượt 5.000m. Không khí loãng có thể ảnh hưởng đến sức khỏe, đặc biệt với người chưa quen môi trường này."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi khởi hành, cả gia đình đều khám sức khỏe tổng thể. Anh Minh chuẩn bị bình oxy, máy đo nồng độ oxy trong máu SpO2, thuốc men và các thiết bị y tế dự phòng."
+    },
+    {
+     "t": "p",
+     "text": "Lộ trình được tính toán để các thành viên tăng độ cao từ từ, có thời gian nghỉ ngơi và thích nghi. Hai vợ chồng thống nhất nếu Gạo xuất hiện biểu hiện bất thường sẽ dừng hành trình, xuống khu vực thấp hơn và tìm hỗ trợ y tế khi cần, thay vì cố đi theo lịch trình."
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến đi, Gạo từng lên đến độ cao 5.130m tại đèo Đông Đạt Sơn. Có một đêm, cả gia đình lưu trú ở Nagqu, khu vực cao khoảng 4.500m."
+    },
+    {
+     "t": "p",
+     "text": "May mắn, cô bé không xuất hiện các triệu chứng như đau đầu, buồn nôn, khó thở, mất ngủ hay chán ăn. Chị Thảo cũng thích nghi khá tốt. Trong khi đó, anh Minh bị ảnh hưởng rõ hơn, với cảm giác hơi khó thở và ngủ chập chờn khi ở độ cao trên 4.000m."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Về sinh hoạt, Gạo không gặp nhiều khó khăn. Bé có thể ăn các món địa phương cùng bố mẹ; khi ngồi ô tô thường ngủ, xem hoạt hình hoặc sinh hoạt theo thói quen. Việc di chuyển nhiều giờ mỗi ngày vốn đã quen thuộc với cô bé từ nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "“Rất may là trong chuyến này, Gạo hoàn toàn ổn. Con chưa bao giờ quấy khóc hay đòi bố mẹ đưa về nhà vì không muốn đi tiếp”, anh Minh kể."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, anh nhấn mạnh trải nghiệm của gia đình không có nghĩa mọi trẻ nhỏ đều phù hợp với hành trình tương tự. Mỗi gia đình cần cân nhắc kỹ tình trạng sức khỏe, khả năng thích nghi của con và mức độ an toàn của cung đường. Việc chuẩn bị chu đáo cùng phương án dự phòng là điều không thể bỏ qua."
+    },
+    {
+     "t": "p",
+     "text": "Dù được chiêm ngưỡng nhiều cảnh đẹp, hành trình không phải lúc nào cũng thuận lợi. Sau khi đến Lhasa, theo kế hoạch ban đầu, đoàn dự định đi về hướng Nagqu rồi theo cung đường Thanh Hải để rời Tây Tạng."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, khoảng 22h khi đang lưu trú tại Nagqu, gia đình bất ngờ cảm nhận được rung lắc. Anh Minh nhanh chóng đưa Gạo ra khu vực sân rộng, tránh xa các tòa nhà. Sau đó, đoàn mới biết một trận động đất lớn xảy ra cách nơi lưu trú khoảng 200km."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi cập nhật tình hình và trao đổi với đơn vị hỗ trợ tại Trung Quốc, anh Minh quyết định cho cả đoàn quay lại cung đường cũ để rời Tây Tạng. Lịch trình phải thay đổi, nhưng theo anh, an toàn của các thành viên quan trọng hơn việc cố hoàn thành tuyến đường đã định."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Khánh An 4 tuổi chinh phục cung đường Tây Tạng cùng bố mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Khó khăn tiếp tục xuất hiện khi đoàn đến Thành Đô. Chiếc xe của gia đình bất ngờ hỏng máy phát điện, trong khi còn khoảng 2.000km mới đến cửa khẩu để rời Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Minh, dòng xe này gần như không có phụ tùng thay thế tương ứng tại Trung Quốc. Máy phát ngừng hoạt động đồng nghĩa bình điện không được sạc khi xe chạy, khiến phương tiện có nguy cơ dừng giữa đường nếu cạn điện."
+    },
+    {
+     "t": "p",
+     "text": "Kiểm tra hệ thống điện phụ lắp trên xe, anh phát hiện nguồn điện lưu trữ phía sau có thể hỗ trợ sạc ngược cho bình điện khởi động. Nhờ giải pháp này, chiếc bán tải tiếp tục vận hành. Tuy nhiên, mỗi ngày anh đều phải chủ động sạc lại hệ thống điện phụ và theo dõi nguồn điện để tránh sự cố. Nhờ đó, xe vượt qua gần 2.000km từ Thành Đô đến khu vực cửa khẩu."
+    },
+    {
+     "t": "p",
+     "text": "Tưởng như đã có thể thở phào, khi chuẩn bị rời Lào về Việt Nam, xe lại bị vỡ ống nước làm mát. Với sự hỗ trợ của các thành viên trong đoàn, phương tiện được kéo khoảng 5km đến cửa khẩu Tây Trang. Sau khi nhập cảnh Việt Nam, anh Minh gọi cứu hộ đưa xe về Điện Biên sửa chữa. Sự cố được xử lý trong khoảng nửa ngày."
+    },
+    {
+     "t": "p",
+     "text": "“Trong những tình huống như vậy, mình rất lo lắng vì phải tính toán nhiều phương án và rủi ro có thể xảy ra. Một chuyến đi thành công không có nghĩa mọi thứ đều hoàn hảo, mà là khi gặp sự cố, cả đoàn vẫn có thể cùng nhau giải quyết để cuối cùng mọi người và mọi chiếc xe đều trở về an toàn”, anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 5/11, đoàn 6 ô tô mang biển số Việt Nam trở về nước, khép lại hành trình hơn một tháng."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại chuyến đi, anh Minh cho rằng điều đáng nhớ không chỉ là những cung đèo đã chinh phục hay hàng chục nghìn kilomet đã đi qua, mà còn là khoảnh khắc cả gia đình và đoàn xe trở về an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Sau chuyến Tây Tạng, gia đình dự định tiếp tục những hành trình xuyên quốc gia bằng ô tô. Năm 2027, hai vợ chồng lên kế hoạch đến Tân Cương vào mùa thu và Bắc Kinh vào mùa đông."
+    },
+    {
+     "t": "p",
+     "text": "Cung đường: Đoàn xuất phát từ Cần Thơ, lái xe khoảng 2.000km đến Điện Biên, qua cửa khẩu Tây Trang sang Lào. Tiếp tục di chuyển khoảng 300km đến khu vực cửa khẩu Boten - Mohan và nhập cảnh Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Tại Trung Quốc, đoàn lần lượt đi qua Phổ Nhĩ, Đại Lý, Lệ Giang, Shangri-La, Đức Khâm (tỉnh Vân Nam), sau đó theo hai tuyến quốc lộ G214 và G318 tiến vào Tây Tạng rồi ngược trở về."
+    },
+    {
+     "t": "p",
+     "text": "Phương tiện: Ô tô bán tải cá nhân."
+    },
+    {
+     "t": "p",
+     "text": "Chi phí: Trung bình 2-3 triệu đồng/ngày sinh hoạt, tùy thời điểm và lịch trình."
+    },
+    {
+     "t": "p",
+     "text": "Đồ dùng cần chuẩn bị:"
+    },
+    {
+     "t": "li",
+     "text": "Giấy tờ: Hộ chiếu, giấy tờ cá nhân, giấy tờ xe và các thủ tục cần thiết để đưa phương tiện qua biên giới."
+    },
+    {
+     "t": "li",
+     "text": "Trang phục: Quần áo ấm nhiều lớp, áo khoác chắn gió, giày thể thao hoặc giày leo núi phù hợp với điều kiện thời tiết và địa hình vùng cao."
+    },
+    {
+     "t": "li",
+     "text": "Thiết bị y tế: Bình oxy, máy đo nồng độ oxy trong máu (SpO2), thuốc men cá nhân và các thiết bị y tế dự phòng để ứng phó với tình trạng thiếu oxy, sốc độ cao; túi sơ cứu và thuốc say xe."
+    }
+   ]
+  },
+  {
+   "id": "12eee15dc856",
+   "order": 7,
+   "slug": "chu-nom-va-nhung-thanh-tuu-van-hoc-bat-ngo",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Chữ Nôm và những thành tựu văn học bất ngờ",
+   "sapo": "Trong nhiều thế kỷ, chữ Hán giữ vị trí chủ yếu trong giáo dục, thi cử và hành chính ở nước ta; song người Việt có tiếng nói, phong tục, tình cảm và cách cảm nhận cuộc sống riêng. Từ nhu cầu ghi lại tiếng nói ấy, chữ Nôm ra đời.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/chu-nom-va-nhung-thanh-tuu-van-hoc-bat-ngo-185261119213222111.htm",
+   "published": "2026-11-19T23:06:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1182,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/12eee15dc856-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/12eee15dc856-0.jpg",
+     "caption": "Ngôn ngữ trong Truyện Kiều vừa gần gũi, vừa tinh luyện, giàu sức gợi",
+     "w": 1200,
+     "h": 1920
+    },
+    {
+     "src": "img/2026-11-20/12eee15dc856-1.jpg",
+     "caption": "Thơ Hồ Xuân Hương - thuộc Tủ sách Văn học trong nhà trường của NXB Kim Đồng",
+     "w": 1268,
+     "h": 1920
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong nhiều thế kỷ, chữ Hán giữ vị trí chủ yếu trong giáo dục, thi cử và hành chính ở nước ta; song người Việt có tiếng nói, phong tục, tình cảm và cách cảm nhận cuộc sống riêng. Từ nhu cầu ghi lại tiếng nói ấy, chữ Nôm ra đời."
+    },
+    {
+     "t": "p",
+     "text": "Dựa trên và vận dụng các yếu tố của chữ Hán, chữ Nôm trở thành phương tiện để tiếng Việt bước vào văn học viết, góp phần lưu giữ và phát triển bản sắc văn hóa dân tộc ."
+    },
+    {
+     "t": "p",
+     "text": "Văn học chữ Nôm phát triển rực rỡ, đặc biệt trong các thế kỷ 18 và 19. Thành tựu ấy được tạo nên bởi nhiều yếu tố. Tiếng Việt ngày càng cho thấy khả năng biểu đạt phong phú, từ lời ăn tiếng nói dân gian đến những suy tư sâu sắc về thân phận con người. Các thể thơ dân tộc, nhất là lục bát và song thất lục bát, phát huy nhạc điệu riêng của tiếng Việt. Trong khi đó, những biến động xã hội khiến văn nhân quan tâm hơn đến chiến tranh, tình yêu, số phận người phụ nữ, bất công và nỗi đau của con người."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chữ Nôm tự nó không làm nên kiệt tác nhưng đã mở ra một phương tiện quan trọng để văn học viết bằng tiếng Việt đạt đến trình độ nghệ thuật cao. Có thể thấy điều đó qua những tác phẩm tiêu biểu sau:"
+    },
+    {
+     "t": "p",
+     "text": "Truyện Kiều của Nguyễn Du được viết bằng thể thơ lục bát. Qua câu chuyện về cuộc đời Thúy Kiều, tác phẩm diễn tả sâu sắc tình yêu, đau khổ, phẩm giá và khát vọng của con người. Ngôn ngữ trong Truyện Kiều vừa gần gũi, vừa tinh luyện, giàu sức gợi. Tác phẩm cho thấy tiếng Việt có thể chuyên chở những tư tưởng và cảm xúc vô cùng phức tạp."
+    },
+    {
+     "t": "p",
+     "text": "Thơ Hồ Xuân Hương khai thác tinh tế ngôn ngữ dân gian, lối nói láy, cách chơi chữ và tiếng cười sắc sảo. Đằng sau vẻ đùa vui nhiều khi là thái độ phản kháng lễ giáo khắt khe, cùng tiếng nói bênh vực người phụ nữ. Thơ bà cho thấy tiếng Việt có thể vừa hóm hỉnh, táo bạo, vừa hàm ý và giàu sức biểu cảm."
+    },
+    {
+     "t": "p",
+     "text": "Chinh phụ ngâm vốn là tác phẩm chữ Hán của Đặng Trần Côn, sau đó được chuyển dịch sang chữ Nôm; bản dịch thường được gắn với Đoàn Thị Điểm hoặc Phan Huy Ích. Với thể thơ song thất lục bát, tác phẩm diễn tả nỗi cô đơn, nhớ thương và khát vọng đoàn tụ của người vợ có chồng ra trận. Nhạc điệu của thể thơ hòa cùng tiếng Việt đã làm nỗi niềm riêng tư ấy trở nên da diết, sâu lắng."
+    },
+    {
+     "t": "p",
+     "text": "Cả ba tác phẩm không chỉ phô diễn tài năng ngôn ngữ. Chúng còn đưa những nỗi niềm gần gũi của con người vào văn học lớn: tình yêu và chia lìa, khát vọng và bất công, tiếng cười và nỗi đau. Đó là một thành tựu đáng tự hào, đồng thời nhắc chúng ta suy ngẫm về sức sống của tiếng Việt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Được sáng tạo từ nhiều yếu tố của chữ Hán, chữ Nôm vẫn có thể ghi lại cách nói dân gian, sắc thái tình cảm và nhạc điệu riêng của tiếng Việt. Tuy vậy, không nên hiểu giản đơn rằng chỉ nhờ chữ Nôm mà văn học Việt Nam hình thành. Văn học dân gian đã tồn tại và phát triển từ lâu; văn học chữ Hán do người Việt sáng tác cũng có nhiều thành tựu. Đóng góp đặc biệt của chữ Nôm là tạo thêm một con đường để tiếng Việt phát triển trong văn chương bác học."
+    },
+    {
+     "t": "p",
+     "text": "Chữ Nôm là phương tiện; sức sống của tiếng Việt và tài năng của người viết mới làm nên kiệt tác. Nếu không có Nguyễn Du, Hồ Xuân Hương và những tài năng khác, bản thân chữ Nôm không thể tự tạo nên Truyện Kiều hay những bài thơ bất hủ. Điều đáng quý là những tác phẩm ra đời cách chúng ta hàng trăm năm vẫn khiến người Việt hôm nay rung động bằng chính tiếng nói của dân tộc mình. Qua đó, ta nhận ra mình đang được tiếp nối một di sản lâu đời và có trách nhiệm làm cho di sản ấy tiếp tục sống."
+    },
+    {
+     "t": "p",
+     "text": "Hãy thử đọc những câu mở đầu Truyện Kiều :"
+    },
+    {
+     "t": "p",
+     "text": "Trăm năm trong cõi người ta"
+    },
+    {
+     "t": "p",
+     "text": "Chữ tài, chữ mệnh khéo là ghét nhau"
+    },
+    {
+     "t": "p",
+     "text": "Hai câu thơ vừa gợi ra suy tư về tài năng và số phận, vừa cho thấy sức cô đọng và nhạc điệu của tiếng Việt. Chỉ bằng lời thơ giản dị mà giàu sức gợi, Nguyễn Du đã mở ra một thế giới đầy trăn trở về kiếp người."
+    },
+    {
+     "t": "p",
+     "text": "Khi Kim Trọng nghe Kiều gảy đàn, chàng thốt lên:"
+    },
+    {
+     "t": "p",
+     "text": "Rằng hay thì thật là hay"
+    },
+    {
+     "t": "p",
+     "text": "Nghe ra ngậm đắng nuốt cay thế nào"
+    },
+    {
+     "t": "p",
+     "text": "Kiều đáp lại:"
+    },
+    {
+     "t": "p",
+     "text": "Lời vàng vâng lĩnh ý cao"
+    },
+    {
+     "t": "p",
+     "text": "Họa dần dần bớt chút nào được không"
+    },
+    {
+     "t": "p",
+     "text": "Trong lời đáp ấy, ta nghe được vẻ lễ phép mà vẫn có nét hóm hỉnh, cứng cỏi của Kiều. Khúc đàn bạc mệnh cũng như báo trước những truân chuyên sẽ theo nàng suốt 15 năm lưu lạc."
+    },
+    {
+     "t": "p",
+     "text": "Thơ Hồ Xuân Hương lại cho thấy một cách khai thác tiếng Việt khác: sắc sảo, đa nghĩa và táo bạo. Trong bài thơ thường được biết đến với nhan đề Sư hổ mang , bà viết:"
+    },
+    {
+     "t": "p",
+     "text": "Cái kiếp tu hành nặng \"đá đeo\""
+    },
+    {
+     "t": "p",
+     "text": "Vị gì một chút tẻo tèo teo"
+    },
+    {
+     "t": "p",
+     "text": "Thuyền từ cũng muốn về Tây Trúc"
+    },
+    {
+     "t": "p",
+     "text": "Trái gió cho nên phải \"lộn lèo\""
+    },
+    {
+     "t": "p",
+     "text": "Tiếng cười trong bài thơ bật ra từ những cách nói nước đôi, vừa thanh vừa tục. Đằng sau sự tinh nghịch là lối châm biếm thói đạo đức giả, đồng thời là sự tự do và táo bạo hiếm thấy trong ngôn ngữ thơ."
+    },
+    {
+     "t": "p",
+     "text": "Trong một bài thơ khác, Hồ Xuân Hương cất tiếng chế giễu những kẻ tự phụ mà học hành nông cạn:"
+    },
+    {
+     "t": "p",
+     "text": "Khéo khéo đi đâu lũ ngẩn ngơ?"
+    },
+    {
+     "t": "p",
+     "text": "Lại đây cho Chị dạy làm thơ"
+    },
+    {
+     "t": "p",
+     "text": "Ong non \"ngứa nọc\" châm hoa rữa"
+    },
+    {
+     "t": "p",
+     "text": "Dê cỏn \"buồn sừng\" húc giậu thưa"
+    },
+    {
+     "t": "p",
+     "text": "Lối gọi \"Chị\", cách ví von dân dã và những hình ảnh nghịch ngợm khiến lời thơ vừa gần gũi vừa đanh thép. Đó cũng là một minh chứng cho khả năng biến hóa của tiếng Việt trong tay một nhà thơ tài hoa."
+    },
+    {
+     "t": "p",
+     "text": "Có thể nói, chữ Nôm đã góp phần quan trọng giúp người Việt đưa tiếng nói, tư tưởng và tình cảm của mình vào văn học viết, đồng thời lưu truyền nhiều tác phẩm lớn cho các thế hệ sau. Nhưng giá trị của di sản ấy không chỉ nằm ở con chữ. Nó còn nằm trong tài năng của người viết, trong sức sống của tiếng Việt và trong khả năng khiến con người ở những thời đại khác nhau cùng rung động."
+    }
+   ]
+  },
+  {
+   "id": "ed432ce5b905",
+   "order": 8,
+   "slug": "nhung-tuong-dat-set-15-000-nam-tuoi-mang-dau-tay-cua-ca-tre",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Những tượng đất sét 15.000 năm tuổi mang dấu tay của cả trẻ em và người lớn, gợi ý một nghề làm chung",
+   "sapo": "Hình ảnh người nghệ sĩ lữ hành khổ sở (hoặc ít nhất là đói bụng) là một hình mẫu quen thuộc, nhưng ở một số nơi trên thế giới, loài người chúng ta nói chung chỉ thực sự phát triển khả năng làm nghệ thuật một khi đã bắt đầu định cư. Và khác với các bộ dụng cụ thủ công tự làm theo kiểu Bluey ngày nay, nhiều hoạt động nghệ thuật cổ xưa dường như chỉ dành riêng cho người lớn - với rất ít, nhưng vẫn vô cùng thú vị, những ví dụ về sáng tạo của trẻ em trong lịch sử xa xưa. Ít nhất đó là điều người ta vẫn nghĩ, nhưng giờ đây các nhà nghiên cứu đã đưa ra một phát hiện kép: một xã hội đã phát triển một loại hình nghệ thuật tạo hình bằng đất sét, và họ đã trực tiếp truyền dạy điều đó cho con cái mình.",
+   "author": "Ivan Farkas",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/15000-year-old-clay-figurines-carry-the-fingerprints-of-children-and-adults-suggesting-a-shared-craft",
+   "published": "2026-11-19T13:01:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1231,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "15,000-Year-Old Clay Figurines Carry The Fingerprints of Children And Adults, Suggesting a Shared Craft",
+   "images": [
+    {
+     "src": "img/2026-11-20/ed432ce5b905-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-20/ed432ce5b905-0.jpg",
+     "caption": "Những hiện vật của người Natufian đã được phân tích trước đây, không phải là trọng tâm chính của nghiên cứu này. (Davin et al., PLOS One, 2026)",
+     "w": 600,
+     "h": 382
+    },
+    {
+     "src": "img/2026-11-20/ed432ce5b905-1.jpg",
+     "caption": "Các địa điểm của người Natufian, bao gồm cả những nơi được đưa vào nghiên cứu này, được đánh dấu màu đỏ. (Davin et al., PLoS One, 2026)",
+     "w": 600,
+     "h": 357
+    },
+    {
+     "src": "img/2026-11-20/ed432ce5b905-2.jpg",
+     "caption": "Bảng mô tả các hiện vật được phân tích trong nghiên cứu này. (Davin et al., PLoS One, 2026)",
+     "w": 600,
+     "h": 283
+    },
+    {
+     "src": "img/2026-11-20/ed432ce5b905-3.jpg",
+     "caption": "(Davin et al., PLoS One, 2026)",
+     "w": 1280,
+     "h": 1941
+    },
+    {
+     "src": "img/2026-11-20/ed432ce5b905-4.jpg",
+     "caption": "Tượng cách điệu hình người, được tìm thấy ở Thượng Lưu vực sông Jordan, mang dấu tay của cả một người lớn và một trẻ em. (Laurent Davin)",
+     "w": 600,
+     "h": 483
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hình ảnh người nghệ sĩ lữ hành khổ sở (hoặc ít nhất là đói bụng) là một hình mẫu quen thuộc, nhưng ở một số nơi trên thế giới, loài người chúng ta nói chung chỉ thực sự phát triển khả năng làm nghệ thuật một khi đã bắt đầu định cư."
+    },
+    {
+     "t": "p",
+     "text": "Và khác với các bộ dụng cụ thủ công tự làm theo kiểu Bluey ngày nay, nhiều hoạt động nghệ thuật cổ xưa dường như chỉ dành riêng cho người lớn - với rất ít, nhưng vẫn vô cùng thú vị, những ví dụ về sáng tạo của trẻ em trong lịch sử xa xưa."
+    },
+    {
+     "t": "p",
+     "text": "Ít nhất đó là điều người ta vẫn nghĩ, nhưng giờ đây các nhà nghiên cứu đã đưa ra một phát hiện kép: một xã hội đã phát triển một loại hình nghệ thuật tạo hình bằng đất sét, và họ đã trực tiếp truyền dạy điều đó cho con cái mình."
+    },
+    {
+     "t": "p",
+     "text": "Trong một nghiên cứu được công bố trên tạp chí PLOS One, các nhà khảo cổ học và dân tộc học đã đẩy lùi thời điểm của \"cuộc cách mạng biểu tượng\", khi tìm hiểu sự tiến hóa của những hình vẽ mang tính biểu tượng do nền văn hóa Natufian - những cư dân định cư đầu tiên ở vùng Levant - tạo ra khoảng 15.000 năm trước, sớm hơn hàng nghìn năm so với khi họ bắt đầu biết làm nông nghiệp."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Những phát hiện này thay đổi cách chúng ta hiểu về sự khởi đầu của biểu đạt nghệ thuật ở khu vực này\", Laurent Davin, nhà khảo cổ học thời tiền sử tại Đại học Hebrew ở Jerusalem và tác giả chính của nghiên cứu, giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Hàng nghìn năm trước khi nông nghiệp xuất hiện, con người đã sử dụng đất sét để tạo ra các hình tượng, như một phần của niềm tin và hiểu biết của họ về thế giới tự nhiên.\""
+    },
+    {
+     "t": "p",
+     "text": "Đây dường như cũng là một trải nghiệm gắn kết giữa các thế hệ:"
+    },
+    {
+     "t": "p",
+     "text": "\"Điều đặc biệt thú vị là có bằng chứng cho thấy trẻ em cũng tham gia vào việc làm ra những vật này, cho thấy sự sáng tạo và tri thức văn hóa đã được chia sẻ qua các thế hệ\", Davin nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã xác định được 154 mảnh hiện vật đất sét tạo hình có niên đại từ 15.000 đến 11.650 năm trước, được khai quật từ ba địa điểm ở phía Nam vùng Levant, bao gồm núi Carmel, Thượng Lưu vực sông Jordan và vùng Hạ Galilee."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Việc xác định các hiện vật này đòi hỏi phải sàng lọc qua hàng chục nghìn cục đất sét và trầm tích nhỏ đã qua nung nóng, nhiều cục nhỏ hơn một viên đường, với tổng khối lượng khoảng 40 kilôgam, được khai quật trước đó từ các bậc thềm và các địa điểm ngoài trời trong khoảng thời gian từ những năm 1950 đến năm 2020."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, những hiện vật này gồm 15 hình khắc có thể nhận diện được là người, linh dương gazelle và chim, cùng với 139 mảnh vỡ khó nhận diện hơn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, nghiên cứu này đã lật đổ một vài quan niệm tồn tại từ lâu. Thứ nhất, đó là người Natufian không có truyền thống nghệ thuật như vậy. Thứ hai, đó là truyền thống này xuất hiện cùng với nền kinh tế nông nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Những hiện vật này chứa các tạp chất không chủ ý, như vỏ sò nước ngọt, mảnh xương vụn, mảnh đá lửa (flint) và than củi. Điều này cho thấy các nghệ nhân cổ xưa không chỉ lấy đất trầm tích có sẵn ngay trên sàn nơi họ sinh sống, mà còn đi xa khỏi khu định cư để thu thập vật liệu cho hình thức nghệ thuật mới ra đời này."
+    },
+    {
+     "t": "p",
+     "text": "\"Kiểu thu thập vật liệu này, được cả ba cộng đồng cùng áp dụng, cho thấy người Natufian đã chủ động tìm kiếm loại đất sét có độ dẻo, kích cỡ hạt, và có thể cả màu sắc phù hợp với hình thức thể hiện mới này,\" các nhà nghiên cứu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Trong số 15 tượng nhỏ, phần lớn (11 tượng) mô tả hình chim, bao gồm những loài bị con người săn bắt như vịt và các loài chim nước khác, cũng như những loài chim bay giống chim cắt."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Một số tượng được tạo hình đơn giản, trong khi những tượng khác lại chi tiết hơn về giải phẫu, có cả lông vũ và dường như được tạo dáng trong các tư thế ve vãn, chẳng hạn như tập tính giao phối vào cuối mùa đông khi vịt đực phun nước lên vịt cái – một cảnh tượng mà ngày nay con người cũng có thể thấy ở các hồ nước."
+    },
+    {
+     "t": "p",
+     "text": "Những tượng khác, chẳng hạn tượng người, có vẻ từng được trang trí bằng các vật liệu dễ phân hủy, như mũ đội đầu làm từ cỏ, dây, lông tóc hoặc lông vũ."
+    },
+    {
+     "t": "p",
+     "text": "Những dấu vết hao mòn cho thấy các tượng nhỏ này có \"tuổi thọ\" ngắn. Chúng không được cầm nắm hằng ngày, mà có thể chỉ được sử dụng vào những dịp đặc biệt, như trong các lễ nghi hoặc vào những mùa nhất định (phù hợp với tập tính ve vãn của vịt), và không được truyền lại qua nhiều thế hệ như những vật gia bảo."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu còn tìm thấy dấu vân tay trên 2 tượng nhỏ, 5 hình trụ và 50 hiện vật khác, tạo thành bộ sưu tập dấu vân tay lớn nhất từng được biết đến từ thời kỳ trước thời đại đá mới (pre-Neolithic), hé lộ dấu tay chăm chút của những con người đã hóa thành cát bụi từ lâu."
+    },
+    {
+     "t": "p",
+     "text": "Sự đa dạng và hình dạng của các dấu vân tay cho thấy rằng, ít nhất là ở một số cộng đồng, mọi thành viên trong xã hội đều từng chạm tay vào những hình khắc bằng đất sét này."
+    },
+    {
+     "t": "p",
+     "text": "Điều quan trọng là một bức tượng nhỏ mang dấu vân tay của cả người lớn và trẻ em, có thể cho thấy sự truyền lại kiến thức giữa các thế hệ, hoặc một hình thức học nghề từ thời xa xưa."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Những người trẻ làm nghề thủ công thuộc văn hóa Natufian dường như có sự khác biệt tùy theo yếu tố văn hóa - xã hội ở từng địa điểm và từng thời kỳ, nhưng các nhà nghiên cứu cho biết rõ ràng trẻ em không chỉ đơn thuần cầm nắm những vật này; dấu vân tay của chúng cho thấy chúng đã tạo hình và tô màu cho các vật thể đó."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn chung, nghiên cứu này củng cố thêm một điều: các hoạt động nghệ thuật có nhịp độ riêng của chúng, được khơi nguồn từ những trải nghiệm của chúng ta, và tốt nhất là được chia sẻ cùng những người thân yêu."
+    },
+    {
+     "t": "p",
+     "text": "\"Sự chuyển đổi trong cách thể hiện hình dạng động vật này phản ánh những bước phát triển thông qua quan sát sâu sắc và tích lũy kiến thức thực tiễn, có thể được lưu giữ và truyền lại qua các nghi lễ mang tính biểu diễn,\" các nhà nghiên cứu kết luận."
+    }
+   ]
+  },
+  {
+   "id": "e07268deb205",
+   "order": 9,
+   "slug": "nhung-ngoi-sao-bong-da-buoc-ra-tu-u17-world-cup-ronaldinho-c",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Những ngôi sao bóng đá bước ra từ U17 World Cup: Ronaldinho, Cesc Fabregas, Toni Kroos…",
+   "sapo": "U17 World Cup từng là nơi phát hiện nhiều tài năng trẻ, mở ra con đường sự nghiệp cho những cầu thủ sau này trở thành ngôi sao hàng đầu thế giới.",
+   "author": "ANH HÀO",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nhung-ngoi-sao-bong-da-buoc-ra-tu-u17-world-cup-ronaldinho-cesc-fabregas-toni-kroos-100261116230853393.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 654,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/e07268deb205-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/e07268deb205-0.jpg",
+     "caption": "Ronaldinho là cầu thủ có cả hai danh hiệu U17 World Cup và FIFA World Cup - Ảnh: REUTERS",
+     "w": 712,
+     "h": 461
+    },
+    {
+     "src": "img/2026-11-20/e07268deb205-1.jpg",
+     "caption": "Dẫn dắt U17 Tây Ban Nha năm 2003, Cesc Fabregas nhận danh hiệu Chiếc giày vàng và Quả bóng vàng của giải đấu - Ảnh: PANENKA",
+     "w": 768,
+     "h": 614
+    },
+    {
+     "src": "img/2026-11-20/e07268deb205-2.jpg",
+     "caption": "Toni Kroos sớm khẳng định tên tuổi tại U17 World Cup năm 2007 trên đất Hàn Quốc - Ảnh: FIFA",
+     "w": 647,
+     "h": 364
+    },
+    {
+     "src": "img/2026-11-20/e07268deb205-3.jpg",
+     "caption": "Ở U17 World Cup 2015, Osimhen ghi đến 10 bàn và giành Chiếc giày vàng của giải đấu năm đó - Ảnh: FIFA",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-20/e07268deb205-4.jpg",
+     "caption": "Phil Foden là hạt nhân của đội U17 Anh tại Giải U17 World Cup năm 2017 tại Ấn Độ: Ảnh: FIFA",
+     "w": 1271,
+     "h": 860
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Ronaldinho - U17 Brazil (1997)"
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi 17, Ronaldinho đã sớm cho thấy những phẩm chất kỹ thuật đặc biệt khi khoác áo U17 Brazil tại World Cup 1997 ở Ai Cập. Thi đấu với chiếc áo số 10, anh ghi 2 bàn trong hành trình giúp đại diện “xứ samba” lần đầu vô địch giải đấu này."
+    },
+    {
+     "t": "p",
+     "text": "Sau giải đấu, Ronaldinho nhanh chóng bước vào con đường bóng đá chuyên nghiệp và trở thành một trong những cầu thủ được chú ý nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Anh vô địch Copa America 1999, đăng quang World Cup 2002 cùng tuyển Brazil, trước khi gặt hái thành công ở cấp CLB với Barca và AC Milan, trong đó có Quả bóng vàng năm 2005."
+    },
+    {
+     "t": "h",
+     "text": "Cesc Fabregas - U17 Tây Ban Nha (2003)"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "U17 World Cup 2003 tại Phần Lan là giải đấu đưa tên tuổi Cesc Fabregas đến gần hơn với người hâm mộ bóng đá thế giới. Khi mới 16 tuổi, tiền vệ người Tây Ban Nha ghi 5 bàn, giành cả Quả bóng vàng dành cho cầu thủ xuất sắc nhất và Chiếc giày vàng, dù đội nhà chỉ về nhì sau thất bại 0-1 trước Brazil ở chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Màn trình diễn ấy mở đường để Fabregas chuyển sang Arsenal và nhanh chóng trở thành một trong những tiền vệ trẻ nổi bật tại châu Âu. Anh từng giữ băng đội trưởng đội bóng thành London, trước khi trở lại Barcelona rồi khoác áo Chelsea."
+    },
+    {
+     "t": "p",
+     "text": "Trong màu áo tuyển Tây Ban Nha, Fabregas góp công vào giai đoạn hoàng kim với chức vô địch World Cup 2010 và hai kỳ Euro liên tiếp năm 2008, 2012."
+    },
+    {
+     "t": "h",
+     "text": "Toni Kroos - U17 Đức (2007)"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Không cần chờ đến khi trở thành ngôi sao ở cấp độ đội tuyển quốc gia, Toni Kroos đã sớm khẳng định tài năng tại U17 World Cup 2007 ở Hàn Quốc. Tiền vệ người Đức ghi 5 bàn, giành Quả bóng vàng dành cho cầu thủ hay nhất giải và Chiếc giày đồng, góp phần đưa đội nhà cán đích ở vị trí thứ ba."
+    },
+    {
+     "t": "p",
+     "text": "Gần 18 ngày sau khi giải đấu khép lại, Kroos đã có màn ra mắt đội một Bayern Munich tại Bundesliga và lập tức đóng góp hai đường kiến tạo."
+    },
+    {
+     "t": "p",
+     "text": "Tiền vệ người Đức đã giành 3 chức vô địch Bundesliga cùng Bayern Munich trước khi chuyển đến Real Madrid. Tại Tây Ban Nha, Kroos tiếp tục chinh phục 5 danh hiệu Champions League và cùng tuyển Đức vô địch World Cup 2014."
+    },
+    {
+     "t": "h",
+     "text": "Victor Osimhen - U17 Nigeria (2015)"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong khi nhiều tài năng trẻ được phát hiện nhờ kỹ thuật và khả năng kiến tạo, Victor Osimhen lại gây chú ý bằng hiệu suất ghi bàn đáng kinh ngạc. Tại U17 World Cup 2015 ở Chile, tiền đạo người Nigeria ghi tới 10 bàn, giành Chiếc giày vàng và góp công lớn giúp đội nhà lên ngôi vô địch."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích này giúp Osimhen trở thành một trong những chân sút nổi bật nhất lịch sử giải đấu ở cấp độ U17. Sau khi chuyển sang châu Âu, anh từng trải qua những giai đoạn khó khăn để tìm chỗ đứng, trước khi khẳng định tên tuổi tại Lille rồi Napoli."
+    },
+    {
+     "t": "h",
+     "text": "Phil Foden - U17 Anh (2017)"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "U17 World Cup 2017 tại Ấn Độ chứng kiến màn tỏa sáng của Phil Foden trong hành trình lịch sử của bóng đá trẻ Anh. Tiền vệ thuộc biên chế Man City khi đó đã ghi 3 bàn, trong đó có cú đúp ở trận chung kết, giúp U17 Anh lội ngược dòng đánh bại Tây Ban Nha 5-2 để lần đầu giành chức vô địch."
+    },
+    {
+     "t": "p",
+     "text": "Với những đóng góp của mình, Foden nhận được danh hiệu Quả bóng vàng dành cho cầu thủ xuất sắc nhất giải. Sau giải đấu, Foden tiếp tục phát triển dưới sự dẫn dắt của HLV Pep Guardiola tại Man City."
+    }
+   ]
+  },
+  {
+   "id": "3cc42b4ea5bc",
+   "order": 10,
+   "slug": "quoc-cuong-tu-cu-vap-sea-games-33-den-tru-cot-tuong-lai-doi",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Quốc Cường: Từ cú vấp SEA Games 33 đến trụ cột tương lai đội tuyển Việt Nam",
+   "sapo": "Gần 1 năm trước, Nguyễn Thái Quốc Cường từng phải rời sân trong nỗi thất vọng ở trận chung kết môn bóng đá nam SEA Games 33. Giờ đây, tiền vệ sinh năm 2004 đang là một trong những gương mặt tiến bộ nhanh nhất của bóng đá Việt Nam.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/quoc-cuong-tu-cu-vap-sea-games-33-den-tru-cot-tuong-lai-doi-tuyen-viet-nam-185261119124435951.htm",
+   "published": "2026-11-19T06:58:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 630,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/3cc42b4ea5bc-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/3cc42b4ea5bc-0.jpg",
+     "caption": "Quốc Cường từng bị Kakana Khamyok hay Sesan Ratree vượt qua dễ dàng ở chung kết SEA Games 33",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-11-20/3cc42b4ea5bc-1.jpg",
+     "caption": "Quốc Cường hứa hẹn mang đến sự tươi mới cho tuyến giữa đội tuyển Việt Nam",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Trận đấu đáng quên của Quốc Cường"
+    },
+    {
+     "t": "p",
+     "text": "Trong trận chung kết bóng đá nam SEA Games 33 giữa U.22 Việt Nam và U.22 Thái Lan, Quốc Cường là một trong những cái tên được kỳ vọng ở tuyến giữa. Nhưng áp lực của một trận chung kết lớn khiến tâm lý của tiền vệ trẻ không giữ được sự ổn định cần thiết. Anh phạm lỗi với một cầu thủ Thái Lan, tạo điều kiện cho đối thủ được hưởng quả phạt trực tiếp từ khoảng cách 27 m, và Burapha Yotsakorn không bỏ lỡ cơ hội để mở tỷ số ở phút 21. Đến phút 31, U.22 Thái Lan tiếp tục tận dụng một pha phản công để nâng cách biệt lên 2 bàn. Chứng kiến tuyến giữa liên tục rơi vào thế bị động, HLV Kim Sang-sik quyết định rút Quốc Cường ra sân ở phút 38, đưa Thái Sơn vào thay người."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đó là sự thay đổi mang tính bước ngoặt. Sau khi Thái Sơn vào sân, U.22 Việt Nam dần thoát khỏi sức ép, từng bước kiểm soát trận đấu. Đình Bắc gỡ một bàn bằng quả phạt đền, trước khi Waris Schoolthong đốt lưới nhà gỡ hòa 2-2. Đến phút 96 của hiệp phụ, Thanh Nhàn là người kết liễu trận đấu, mang về chiến thắng 3-2 đầy cảm xúc và tấm HCV bóng đá nam cho đoàn thể thao Việt Nam. Với Quốc Cường, đó là một bài học đắt giá nhưng cũng là cú hích để anh nhìn lại chính mình."
+    },
+    {
+     "t": "h",
+     "text": "Trưởng thành từ vấp ngã"
+    },
+    {
+     "t": "p",
+     "text": "Quốc Cường vấp ngã, nhưng không sụp đổ. Sau SEA Games 33, anh có những bước tiến rõ rệt. Anh là một trong những trụ cột của U.23 Việt Nam tại vòng chung kết U.23 châu Á 2026, góp công lớn giúp đội giành HCĐ. Trở lại khoác áo CLB Công an TP.HCM, anh ngày càng khẳng định vị trí tiền vệ trung tâm không thể thay thế. Sau đó, tiền vệ quê Nghệ An được HLV Kim Sang-sik gọi lên đội tuyển Việt Nam , đá chính trong trận thắng Đài Loan 2-0 ở Casper Cup 2026 hôm 11.11 và thể hiện tương đối ấn tượng."
+    },
+    {
+     "t": "p",
+     "text": "Mới nhất, Quốc Cường tiếp tục tỏa sáng trong chiến thắng 1-0 của CLB Công an TP.HCM trước Buriram United (Thái Lan) ở Shopee Cup hôm 18.11. Anh là người ghi bàn thắng duy nhất ở phút 88, với một pha xử lý gọn gàng trong vòng cấm rồi dứt điểm hiểm hóc đánh bại thủ môn Neil Etheridge. Đây là bàn thắng giúp đại diện V-League tạo địa chấn trước đội bóng hàng đầu Thái Lan."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Điểm mạnh của Quốc Cường là sự dồi dào thể lực, khả năng dứt điểm tốt và những cú sút xa đầy uy lực. Anh là một mẫu tiền vệ kỹ thuật nhưng không thiếu máu lửa trong các pha tranh chấp. Sau trận thắng Buriram United, thủ môn Lê Giang Patrik dành những lời khen đặc biệt cho người đồng đội: \"Tôi và Quốc Cường đã tập cùng nhau 3 năm. Tôi thấy sự phát triển của Quốc Cường không chỉ trên sân mà còn ở nỗ lực hằng ngày, như một người đàn ông. Hôm nay, Quốc Cường là cầu thủ quan trọng của CLB\"."
+    },
+    {
+     "t": "p",
+     "text": "Từ một cầu thủ trẻ từng phải rời sân trong lo âu ở trận chung kết SEA Games, Quốc Cường giờ đây đang dần trở thành một trong những tiền vệ trung tâm đáng tin cậy nhất của bóng đá Việt Nam, cả ở cấp độ CLB và đội tuyển quốc gia. Với đà thăng tiến hiện tại, chặng đường phía trước của tiền vệ 22 tuổi này hứa hẹn còn nhiều điều đáng chờ đợi."
+    }
+   ]
+  },
+  {
+   "id": "3d5f54e336ce",
+   "order": 11,
+   "slug": "chuyen-tu-nhung-san-pickleball-tren-tang-51-o-trung-quoc",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Chuyện từ những sân pickleball trên tầng 51 ở Trung Quốc",
+   "sapo": "Những sân pickleball trên tầng 51, công viên thể thao dưới gầm cầu hay giải bóng đá phong trào thu hút hàng triệu khán giả đang mở ra những hình thức tiêu dùng mới ở Trung Quốc.",
+   "author": "Hà Đồ",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/chuyen-tu-nhung-san-pickleball-tren-tang-51-o-trung-quoc-5146404.html",
+   "published": "2026-11-19T04:41:21+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1936,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/3d5f54e336ce-lead.jpg",
+     "caption": "",
+     "w": 879,
+     "h": 494
+    },
+    {
+     "src": "img/2026-11-20/3d5f54e336ce-0.jpg",
+     "caption": "Một sân pickleball trong khu thể thao G-SPORT trên tầng 51 tòa Golden Eagle World, thành phố Nam Kinh, Trung Quốc.",
+     "w": 802,
+     "h": 603
+    },
+    {
+     "src": "img/2026-11-20/3d5f54e336ce-1.jpg",
+     "caption": "CĐV Nam Kinh cổ vũ đội nhà tại giải bóng đá các thành phố tỉnh Giang Tô năm 2026.",
+     "w": 1020,
+     "h": 668
+    },
+    {
+     "src": "img/2026-11-20/3d5f54e336ce-2.jpg",
+     "caption": "Zheng Qinwen chụp ảnh với cup sau khi thắng Mirra Andreeva ở chung kết đơn nữ Trung Quốc Mở rộng trên sân Capital Group Diamond, Trung tâm Quần vợt Quốc gia, Bắc Kinh, Trung Quốc, ngày 11/10/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-20/3d5f54e336ce-3.jpg",
+     "caption": "Một khu không gian công cộng dưới gầm cầu tại Vũ Hán được cải tạo thành nơi vui chơi và kinh doanh dịch vụ.",
+     "w": 1019,
+     "h": 671
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Những sân pickleball trên tầng 51, công viên thể thao dưới gầm cầu hay giải bóng đá phong trào thu hút hàng triệu khán giả đang mở ra những hình thức tiêu dùng mới ở Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Khi màn đêm buông xuống, tầng 51 của tòa nhà Golden Eagle World ở Nam Kinh vẫn nhộn nhịp tiếng bóng nảy. Trên những sân pickleball, người chơi liên tục di chuyển, vung vợt và trò chuyện. Với nhiều người, đây không chỉ là nơi tập luyện sau giờ làm việc mà còn là địa điểm gặp gỡ bạn bè, trước khi xuống các tầng dưới mua sắm hoặc ăn tối."
+    },
+    {
+     "t": "p",
+     "text": "Khu thể thao trên cao này bắt đầu hoạt động thử nghiệm từ ngày 30/5/2026, với diện tích khoảng 12.000 m2. Theo chính quyền quận Kiến Nghi, thành phố Nam Kinh, nơi đây có 11 sân pickleball đạt tiêu chuẩn quốc tế, khu golf trong nhà, trung tâm tập thể lực và phục hồi chức năng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Điểm khác biệt nằm ở vị trí. Từ tầng 51, người chơi có thể nhìn toàn cảnh thành phố qua những ô cửa kính lớn. Khu thể thao còn có quầy đồ uống và không gian giao lưu, trong khi thang máy kết nối trực tiếp với trung tâm thương mại bên dưới."
+    },
+    {
+     "t": "p",
+     "text": "Đó là một ví dụ cho xu hướng đang phát triển tại Trung Quốc: thể thao không còn giới hạn trong sân vận động, nhà thi đấu hay phòng gym truyền thống, mà ngày càng gắn với mua sắm, giải trí, du lịch và giao lưu xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Tại Trùng Khánh, một khoảng không gian dưới gầm cầu ở khu Lưỡng Giang được cải tạo thành tổ hợp gồm sân thể thao, nhà hàng lẩu và khu sinh hoạt của những người yêu xe máy. Ở Vũ Hán, công viên thể thao dưới cầu Nhị Thất bắc qua sông Trường Giang có thêm quán cà phê, cửa hàng ăn nhanh và siêu thị."
+    },
+    {
+     "t": "p",
+     "text": "Những địa điểm này cho phép người dân kết hợp nhiều hoạt động trong cùng một chuyến đi, thay vì chỉ đến sân để tập luyện rồi trở về nhà."
+    },
+    {
+     "t": "p",
+     "text": "Theo Tân Hoa Xã , sự thay đổi còn phản ánh nhu cầu của người chơi thể thao. Ngoài cải thiện sức khỏe, họ ngày càng quan tâm đến trải nghiệm, khả năng kết nối bạn bè và những giá trị tinh thần mà việc vận động mang lại. Chơi pickleball đôi, chạy bộ theo nhóm hay tham gia một câu lạc bộ đạp xe vì thế không còn đơn thuần là hoạt động rèn luyện. Chúng dần trở thành một phần của đời sống xã hội."
+    },
+    {
+     "t": "p",
+     "text": "Từ sân chơi đến thị trường hàng trăm tỷ nhân dân tệ"
+    },
+    {
+     "t": "p",
+     "text": "Sự phát triển của phong trào thể thao kéo theo nhu cầu ngày càng lớn về trang thiết bị. Một người yêu xe đạp tên Lý Bân kể với Tân Hoa Xã rằng chiếc xe đầu tiên của anh có giá 2.500 nhân dân tệ. Gần đây, anh đổi sang xe mới, với tổng chi phí lắp ráp và trang bị vượt 10.000 nhân dân tệ."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh xe đạp, người chơi còn mua mũ bảo hiểm, đèn, quần áo chuyên dụng, kính bảo hộ và camera hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Tính đến cuối tháng 8/2025, Trung Quốc có hơn 130 triệu người tham gia đạp xe, trong khi giá trị sản xuất ngành công nghiệp xe đạp đạt khoảng 300 tỷ nhân dân tệ."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ đạp xe, các hoạt động ngoài trời như chạy địa hình, leo núi và cắm trại cũng thúc đẩy thị trường bán lẻ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, doanh số sản phẩm phục vụ hoạt động ngoài trời, leo núi và cắm trại trên bốn nền tảng thương mại điện tử lớn của Trung Quốc đạt 142,37 tỷ nhân dân tệ, tăng 22,22% so với năm trước. Trong đợt mua sắm ngày Độc thân 11/11/2026, giày chạy địa hình và trang phục thể thao ngoài trời tiếp tục là những mặt hàng được săn đón."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, nguồn thu từ thể thao không chỉ đến từ việc bán dụng cụ. Sự phát triển của các giải đấu, đặc biệt là thể thao phong trào, đang tạo ra những dòng khách mới cho ngành du lịch, dịch vụ và bán lẻ."
+    },
+    {
+     "t": "p",
+     "text": "Một trường hợp nổi bật là giải bóng đá các thành phố tỉnh Giang Tô, thường được gọi là \"Su Chao\". Mùa 2026, giải tổ chức 91 trận, thu hút tổng cộng 3,0395 triệu lượt khán giả trực tiếp, tăng gần 25% so với mùa trước. Lượng khán giả trung bình mỗi trận đạt khoảng 33.400 người, cao hơn mức 28.600 của năm 2025."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ khán đài đông đúc, hàng trăm địa điểm xem bóng đá tập trung còn được bố trí tại trung tâm thương mại, khu du lịch và khu dân cư. Số địa điểm xem bóng đá bên ngoài sân vận động có lúc vượt 700. Người dân có thể vừa xem trận đấu qua màn hình lớn, vừa thưởng thức đặc sản địa phương, mua sắm và tham gia các hoạt động văn hóa."
+    },
+    {
+     "t": "p",
+     "text": "Tại Thường Châu, một chủ cửa hàng thực phẩm chế biến sẵn tham gia tài trợ giải cho biết doanh thu tăng gấp ba đến bốn lần khi các trận đấu thu hút đông đảo CĐV, trong đó có nhiều khách từ nơi khác đến."
+    },
+    {
+     "t": "p",
+     "text": "Chính quyền Giang Tô cũng tận dụng vé xem bóng đá để kích thích du lịch. Người có vé hoặc chứng nhận đặt vé được hưởng ưu đãi tại các điểm tham quan, khách sạn, nhà hàng và trung tâm thương mại ở 13 thành phố thuộc tỉnh. Một số chương trình ưu đãi được kéo dài tới 15 ngày trước và sau trận đấu."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ đó, việc đến một thành phố xem bóng đá có thể trở thành chuyến du lịch kéo dài nhiều ngày, thay vì kết thúc ngay sau tiếng còi mãn cuộc."
+    },
+    {
+     "t": "p",
+     "text": "Theo giáo sư Ngụy Tường, thuộc Viện Nghiên cứu Chiến lược Tài chính và Kinh tế, Viện Khoa học Xã hội Trung Quốc, cách tổ chức giải vào cuối tuần và ngày nghỉ đã tạo điều kiện để người dân kết hợp xem thể thao với du lịch."
+    },
+    {
+     "t": "p",
+     "text": "Ông nhận định khán giả ngày nay không chỉ chi tiền cho dịch vụ mà còn tham gia tạo ra và lan truyền nội dung, thông qua hình ảnh, video hay những trải nghiệm được chia sẻ trên mạng xã hội. Điều đó giúp giá trị kinh tế của sự kiện kéo dài ngay cả khi trận đấu đã kết thúc."
+    },
+    {
+     "t": "p",
+     "text": "Tại Quý Châu, mô hình kết hợp thể thao với du lịch cũng mang lại kết quả đáng chú ý. Trong chín tháng đầu năm 2026, tỉnh tổ chức hơn 3.800 sự kiện thể thao, được thống kê đóng góp khoảng 4,2 tỷ nhân dân tệ vào hoạt động tiêu dùng."
+    },
+    {
+     "t": "p",
+     "text": "Những ngôi sao kéo theo sức mua"
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh các giải phong trào, sự kiện thể thao chuyên nghiệp vẫn giữ vai trò quan trọng trong việc thu hút du khách và kích thích chi tiêu. Giải quần vợt China Open 2026 tại Bắc Kinh là một ví dụ."
+    },
+    {
+     "t": "p",
+     "text": "Việc tay vợt chủ nhà Zheng Qinwen giành chức vô địch đơn nữ đã tạo sức hút lớn. Trong đêm chung kết, sân Diamond Court gần như kín chỗ."
+    },
+    {
+     "t": "p",
+     "text": "Theo số liệu ban tổ chức công bố, doanh thu bán vé toàn giải đạt 132 triệu nhân dân tệ, tăng 48% so với năm trước và lập kỷ lục mới. Tổng lượng khách đến Trung tâm Quần vợt Quốc gia trong thời gian diễn ra giải ước tính vượt 450.000 lượt, tăng 25%."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, khoảng 60% khán giả đến từ bên ngoài Bắc Kinh. Điều này cho thấy các giải đấu có ngôi sao lớn không chỉ phục vụ người dân địa phương mà còn tạo động lực đi lại, lưu trú và sử dụng dịch vụ."
+    },
+    {
+     "t": "p",
+     "text": "Theo đánh giá được báo Đệ Nhất Tài Kinh dẫn từ cơ quan thể thao Bắc Kinh, giải China Open 2026 tạo ra tác động kinh tế trực tiếp khoảng 2,59 tỷ nhân dân tệ và gián tiếp khoảng 6,67 tỷ nhân dân tệ."
+    },
+    {
+     "t": "p",
+     "text": "Những con số này thuộc phạm vi đánh giá tác động kinh tế của giải, khác với doanh thu bán vé hay tiền thu trực tiếp từ hoạt động thương mại trong khuôn viên."
+    },
+    {
+     "t": "p",
+     "text": "Tại Thượng Hải, các sự kiện như chặng đua F1 Trung Quốc, Shanghai Masters hay Shanghai Marathon cũng được xem là động lực quan trọng của thị trường thể thao và du lịch. Quy mô tiêu dùng thể thao ở Thượng Hải trong năm 2025 được báo cáo là vượt 100 tỷ nhân dân tệ."
+    },
+    {
+     "t": "p",
+     "text": "Bài toán giữ sức hút sau khi giải đấu kết thúc"
+    },
+    {
+     "t": "p",
+     "text": "Dù phát triển nhanh, kinh tế thể thao Trung Quốc vẫn đối mặt nhiều thách thức. Một số giải phong trào thu hút đông người trong thời gian diễn ra nhưng giảm sức hút ngay sau khi kết thúc. Không ít địa phương sao chép mô hình tổ chức giống nhau, thiếu bản sắc riêng. Những sân chơi thể thao mới cũng chịu áp lực về chi phí vận hành và khả năng duy trì lượng khách ổn định."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, sự kết nối giữa ban tổ chức giải, ngành du lịch và các doanh nghiệp thương mại ở một số nơi chưa đồng bộ, khiến cơ hội khai thác nguồn khách chưa được tận dụng hết."
+    },
+    {
+     "t": "p",
+     "text": "Phó giáo sư Trương Hựu Ấn của Đại học Thể thao Bắc Kinh cho rằng các địa phương cần phát triển những sản phẩm thể thao mang dấu ấn riêng, thay vì chỉ chạy theo các sự kiện đang thịnh hành. Bên cạnh những giải đấu chuyên nghiệp có tên tuổi quốc tế, các địa phương có thể đầu tư vào giải phong trào và những hoạt động truyền thống như võ thuật, múa rồng, múa lân để tạo điểm khác biệt."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Một giải pháp khác là tăng sự liên kết giữa các ngành. Chẳng hạn, địa phương có thể xây dựng cơ chế sử dụng vé sự kiện thể thao để được ưu đãi khi mua sắm, đi lại hoặc tham quan tại những thành phố khác."
+    },
+    {
+     "t": "p",
+     "text": "Công nghệ cũng mở thêm cơ hội kinh doanh. Ngày 8/11, ở vòng cuối giải bóng đá vô địch Trung Quốc, nhiều rạp chiếu phim tại tỉnh Liêu Ninh tổ chức phát sóng trực tiếp các trận tranh chức vô địch trên màn hình lớn. Hơn 10.000 CĐV đến rạp xem bóng đá, đồng thời sử dụng những dịch vụ ăn uống và giải trí đi kèm."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình này vừa tận dụng cơ sở vật chất sẵn có, vừa tạo thêm nguồn thu cho các doanh nghiệp ngoài lĩnh vực thể thao."
+    },
+    {
+     "t": "p",
+     "text": "Theo kế hoạch phát triển thể thao giai đoạn 2026-2030, Trung Quốc đặt mục tiêu nâng tổng quy mô ngành công nghiệp thể thao lên hơn 7.000 tỷ nhân dân tệ vào năm 2030."
+    },
+    {
+     "t": "p",
+     "text": "Từ một sân pickleball trên tầng 51 đến hàng triệu khán giả theo dõi bóng đá phong trào, các mô hình đang cho thấy thể thao ngày càng được tích hợp vào đời sống đô thị."
+    },
+    {
+     "t": "p",
+     "text": "Thách thức lớn nhất không còn chỉ là thu hút người dân đến sân chơi hay sự kiện, mà là biến sự quan tâm nhất thời thành thói quen vận động và tiêu dùng có thể duy trì lâu dài."
+    },
+    {
+     "t": "p",
+     "text": "Hà Đồ tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "e850c66ffd16",
+   "order": 12,
+   "slug": "haaland-vuot-mat-ronaldo-tao-cot-moc-ghi-ban-dang-ne",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Haaland vượt mặt Ronaldo, tạo cột mốc ghi bàn đáng nể",
+   "sapo": "(Dân trí) - Erling Haaland cho thấy khả năng ghi bàn khủng khiếp khi tiến sát cột mốc 400 bàn thắng ở tuổi 26, bỏ xa Cristiano Ronaldo lúc siêu sao người Bồ",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/haaland-vuot-mat-ronaldo-tao-cot-moc-ghi-ban-dang-ne-20261118231055859.htm",
+   "published": "2026-11-18T23:35:27+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 680,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/e850c66ffd16-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/e850c66ffd16-0.jpg",
+     "caption": "Erling Haaland cởi áo ăn mừng sau khi góp công giúp tuyển Na Uy ngược dòng đánh bại Đan Mạch và giành vé vào tứ kết UEFA Nations League (Ảnh: Getty).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-20/e850c66ffd16-1.jpg",
+     "caption": "Ronaldo toả sáng trong màu áo Man Utd ở giai đoạn 2003 đến 2009, nhưng thi đấu ở vai trò tiền vệ cánh (Ảnh: Getty).",
+     "w": 940,
+     "h": 703
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Erling Haaland cho thấy khả năng ghi bàn khủng khiếp khi tiến sát cột mốc 400 bàn thắng ở tuổi 26, bỏ xa Cristiano Ronaldo lúc siêu sao người Bồ Đào Nha có cùng độ tuổi."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 18/11, Erling Haaland lập cú đúp trong màn ngược dòng ngoạn mục của tuyển Na Uy trước Đan Mạch với tỷ số 3-2, qua đó giúp đội bóng Bắc Âu giành vé vào tứ kết UEFA Nations League."
+    },
+    {
+     "t": "p",
+     "text": "Tiền đạo đang khoác áo Man City đã nâng tổng số bàn thắng ghi được cho đội tuyển quốc gia lên con số 68, chỉ sau 61 lần ra sân, đạt hiệu suất đáng kinh ngạc 1,11 bàn mỗi trận."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi 26 năm 4 tháng, Erling Haaland đã ghi tổng cộng 399 bàn thắng sau 473 trận đấu chính thức, bao gồm 331 trận trong màu áo các CLB và 68 trận cho đội tuyển Na Uy. Chân sút người Na Uy chỉ còn thiếu một bàn thắng để chạm mốc 400 bàn trong sự nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Tốc độ ghi bàn đáng kinh ngạc này khiến người hâm mộ trên mạng xã hội đặt Haaland lên bàn cân so sánh với Ronaldo ở cùng độ tuổi. Thời điểm đó, siêu sao người Bồ Đào Nha đã rời Man Utd để chuyển sang khoác áo Real Madrid."
+    },
+    {
+     "t": "p",
+     "text": "Ở cùng độ tuổi, Ronaldo có số lần ra sân cho CLB và đội tuyển quốc gia nhiều hơn Haaland (497 trận so với 473 trận). Tuy nhiên, CR7 chỉ ghi được 234 bàn thắng, ít hơn tiền đạo người Na Uy tới 165 bàn. Hiệu suất ghi bàn của Ronaldo khi đó là 0,47 bàn mỗi trận, trong khi con số này của Haaland lên tới 0,84 bàn."
+    },
+    {
+     "t": "p",
+     "text": "Sự khác biệt càng trở nên rõ rệt khi xét đến thành tích của hai ngôi sao tại những đấu trường đỉnh cao. Ở Champions League, Haaland đã ghi 62 bàn thắng sau 61 trận. Anh cũng trở thành cầu thủ chạm mốc 60 bàn nhanh nhất lịch sử giải đấu, chỉ sau 60 lần ra sân. Ở cùng độ tuổi, Ronaldo mới có 26 bàn thắng sau 72 trận tại sân chơi danh giá này."
+    },
+    {
+     "t": "p",
+     "text": "Ở cấp độ đội tuyển quốc gia, khoảng cách giữa hai ngôi sao cũng rất đáng chú ý. Haaland đã ghi 68 bàn thắng chỉ sau 61 lần khoác áo tuyển Na Uy, trong khi Ronaldo có 25 bàn sau 80 trận cho tuyển Bồ Đào Nha."
+    },
+    {
+     "t": "p",
+     "text": "Tại Ngoại hạng Anh, nơi cả hai đều từng tỏa sáng, Haaland đã phá vỡ hàng loạt kỷ lục. Tiền đạo người Na Uy chạm mốc 100 bàn thắng chỉ sau 111 trận, vượt qua thành tích của huyền thoại Alan Shearer. Anh cũng lập kỷ lục ghi nhiều bàn thắng nhất trong một mùa giải với 36 pha lập công ở mùa 2022-2023. Tính đến hiện tại, Haaland đã có 120 bàn thắng sau 141 trận tại Premier League."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, thành tích ghi bàn tốt nhất của Ronaldo trong một mùa giải Premier League là 31 bàn, được thiết lập ở mùa 2007-2008, khi anh mới 23 tuổi, trước khi chuyển sang Real Madrid."
+    },
+    {
+     "t": "p",
+     "text": "Mặc dù vậy, những con số thống kê trên chỉ mang tính chất tham khảo. Ở cùng độ tuổi, Ronaldo đảm nhận vai trò tiền vệ cánh, tập trung nhiều hơn vào khả năng rê bóng, những pha bứt tốc bên hành lang biên và kiến tạo cơ hội cho đồng đội. Vì vậy, việc số bàn thắng của CR7 thấp hơn Haaland, người hiện thi đấu ở vị trí trung phong, là điều có thể lý giải."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, kể từ tuổi 26 trở đi, Ronaldo đã có sự chuyển mình mạnh mẽ, trở thành một trong những chân sút xuất sắc nhất lịch sử bóng đá thế giới. Siêu sao người Bồ Đào Nha duy trì hiệu suất ghi bàn hơn một bàn mỗi trận trong một giai đoạn dài của sự nghiệp, trước khi chạm cột mốc 985 bàn thắng ở tuổi 41."
+    }
+   ]
+  },
+  {
+   "id": "4cc59e849f09",
+   "order": 13,
+   "slug": "nasa-ghi-dau-lich-su-tau-voyager-1-bay-xa-bang-mot-ngay-anh",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA ghi dấu lịch sử: tàu Voyager 1 bay xa bằng một ngày ánh sáng tính từ Trái Đất",
+   "sapo": "Tàu thăm dò Voyager 1 của NASA, con tàu bay xa nhất của loài người, đã đạt khoảng cách một ngày ánh sáng tính từ Trái Đất, sau hơn 49 năm bay liên tục. Một ngày ánh sáng",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+   "published": "2026-11-19T14:31:15+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1617,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+   "images": [
+    {
+     "src": "img/2026-11-20/4cc59e849f09-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tàu thăm dò Voyager 1 của NASA, con tàu bay xa nhất của loài người, đã đạt khoảng cách một ngày ánh sáng tính từ Trái Đất, sau hơn 49 năm bay liên tục. Một ngày ánh sáng là khoảng đường mà ánh sáng đi được trong 24 giờ, tương đương khoảng 25,9 tỷ km. Con tàu đạt được mốc này vào lúc 2 giờ 16 phút sáng ngày 18 tháng 11 theo giờ miền Tây nước Mỹ (5 giờ 16 phút sáng theo giờ miền Đông)."
+    },
+    {
+     "t": "p",
+     "text": "Các thành viên của nhóm Voyager tại Phòng thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory - JPL) của NASA ở miền Nam California, do Caltech quản lý, đã nhận được tín hiệu từ con tàu 24 giờ sau đó - đúng khoảng thời gian tín hiệu radio của con tàu, di chuyển với vận tốc ánh sáng, cần để bay tới Trái Đất, vào sáng thứ Năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Bay được một ngày ánh sáng là một kỳ tích hiếm có đối với một con tàu vũ trụ, nhưng Voyager còn hơn cả một kẻ du hành xa xôi. Nhiệm vụ Voyager đã đáng được ghi nhớ chỉ riêng với những gì nó đóng góp cho khoa học hành tinh qua Chuyến hành trình lớn (Grand Tour) tới các hành tinh vòng ngoài,\" ông Joe Westlake, giám đốc Ban Vật lý mặt trời (Heliophysics Division) tại trụ sở NASA ở Washington, cho biết. \"Nhưng nó còn tiếp tục trở thành trung tâm của cả đội tàu nghiên cứu vật lý mặt trời của NASA, mang lại những hiểu biết về chính ngôi sao mà tất cả chúng ta đang quay quanh - Mặt Trời.\""
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học dùng ánh sáng để đo những khoảng cách khổng lồ trong không gian. Trong chân không, ánh sáng di chuyển với vận tốc khoảng 299.000 km mỗi giây. Một tia nắng khi đi qua Trái Đất chỉ cần khoảng 1,3 giây để tới Mặt Trăng, khoảng bốn giờ để tới Sao Hải Vương, và thêm 20 giờ nữa để tới được Voyager 1. Để so sánh, một năm ánh sáng dài khoảng 9.460 tỷ km."
+    },
+    {
+     "t": "p",
+     "text": "Dù nhóm nghiên cứu chưa nhận được dữ liệu khoa học và kỹ thuật từ Voyager 1 kể từ ngày 14 tháng 11, con tàu vẫn đang gửi về một loại tín hiệu gọi là tín hiệu mang (carrier signal), thường dùng để truyền dữ liệu đó về Trái Đất. Các kỹ sư của nhiệm vụ đã dùng tín hiệu mang này cùng với các phép tính quỹ đạo để xác nhận mốc một ngày ánh sáng. Họ vẫn đang tiếp tục tìm hiểu nguyên nhân gây ra sự cố ảnh hưởng tới dữ liệu khoa học và kỹ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Voyager 1 và tàu song sinh của nó, Voyager 2, là hai con tàu duy nhất của loài người đang ở trong không gian giữa các vì sao (interstellar space). Chúng được phóng lên vào năm 1977 để tận dụng một lần sắp hàng hiếm gặp của các hành tinh. Do JPL quản lý, đây là tàu thứ ba và thứ tư từng bay tới Sao Mộc và Sao Thổ, đồng thời là những tàu đầu tiên gửi về hình ảnh có độ phân giải cao, làm thay đổi hiểu biết của chúng ta về các hành tinh này cùng các vệ tinh của chúng. Voyager 2 sau đó còn tiếp tục nghiên cứu hai \"gã khổng lồ băng\" mờ ảo là Sao Hải Vương và Sao Thiên Vương. Cả hai con tàu vẫn đang tiếp tục đo những thay đổi trong từ trường của Mặt Trời trên những khoảng cách khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "\"Việc Voyager 1 vượt qua ngưỡng một ngày ánh sáng là một kỳ tích lịch sử khác trong một hành trình khám phá phi thường,\" ông Dave Gallagher, giám đốc JPL, chia sẻ. \"Trên hết, cột mốc này là minh chứng cho những đội ngũ xuất sắc đã chế tạo, lập trình và điều khiển những con tàu này đến ngày hôm nay, những người đã vượt qua vô số khó khăn để giữ cho chúng luôn kết nối được với Trái Đất qua không gian bao la. Khi NASA tiếp tục hướng tới những biên giới mới trong việc khám phá bằng con người và robot, Voyager cùng những con người đứng sau thành công của nó vẫn tiếp tục truyền cảm hứng cho chúng ta vươn xa hơn và mơ những điều lớn lao hơn.\""
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh bộ thiết bị khoa học của mình, hai tàu Voyager còn mang theo một \"Đĩa Vàng\" (Golden Record) - một tấm đĩa hát bằng đồng mạ vàng, lưu lại hình ảnh và âm thanh từ Trái Đất, như một lời nhắn gửi tới bất kỳ nền văn minh tiên tiến nào có thể một ngày nào đó tìm thấy nó."
+    },
+    {
+     "t": "p",
+     "text": "\"Gần nửa thế kỷ sau khi rời Trái Đất, nhiệm vụ Voyager vẫn tiếp tục mở rộng giới hạn của hành trình khám phá của con người. Chuyến đi phi thường của nó phản ánh tầm nhìn của Ed Stone, nhà vật lý của Caltech và cũng là giám đốc JPL, người đã dẫn dắt nhiệm vụ này suốt nhiều thập kỷ, cùng sự tò mò và lòng kiên trì của nhiều thế hệ nhà khoa học và kỹ sư đã tiếp tục theo đuổi tầm nhìn đó,\" ông Ray Jayawardhana, chủ tịch Caltech, cho biết. \"Bên cạnh những đóng góp to lớn cho khoa học, Voyager còn chứa đựng một điều gì đó sâu sắc về tinh thần con người. Chúng ta có thể sẽ không bao giờ biết hành trình của nó cuối cùng sẽ dẫn tới đâu, nhưng nó sẽ vẫn tiếp tục cuộc hành trình, như một lời khẳng định bền vững rằng loài người đã từng ở đây, và chúng ta luôn khao khát được khám phá.\""
+    },
+    {
+     "t": "p",
+     "text": "Những cột mốc, những thử thách"
+    },
+    {
+     "t": "p",
+     "text": "Di chuyển với tốc độ khoảng 61.155 km/giờ, năm 2012 tàu Voyager 1 trở thành tàu vũ trụ đầu tiên rời khỏi tầng heli quyển (heliosphere) — lớp bong bóng gồm các hạt và từ trường do Mặt Trời tạo ra, có tác dụng làm chệch hướng các tia vũ trụ — để đi vào không gian giữa các vì sao. Tàu Voyager 2, đi theo một đường bay khác, đã vượt qua ranh giới này vào năm 2018."
+    },
+    {
+     "t": "p",
+     "text": "\"Hai tàu Voyager đang làm thay đổi hoàn toàn hiểu biết của chúng ta về không gian giữa các vì sao, một vùng trước đây chưa từng được khám phá bên ngoài tầng heli quyển,\" Linda Spilker, nhà khoa học của dự án Voyager tại JPL, cho biết. \"Một điều bất ngờ lớn là Mặt Trời của chúng ta vẫn tiếp tục ảnh hưởng đến không gian giữa các vì sao ở phạm vi xa đến mức nào, xa tới tận vị trí của Voyager 1. Vậy ảnh hưởng của Mặt Trời kết thúc ở đâu và không gian giữa các vì sao thực sự bắt đầu từ đâu? Có thể Voyager sẽ tồn tại đủ lâu để trả lời câu hỏi đó.\""
+    },
+    {
+     "t": "p",
+     "text": "Những giải pháp kỹ thuật sáng tạo đã giúp hai tàu thăm dò tiết kiệm năng lượng và vượt qua các khó khăn liên quan đến thiết bị đã cũ, bao gồm động cơ đẩy bị tắc nghẽn và một máy tính bị trục trặc trên tàu. Đầu năm nay, các kỹ sư đã tắt thành công ba thiết bị trên tàu Voyager 1 và thay bằng ba thiết bị khác tiêu thụ ít điện hơn — một bước đi không phải không có rủi ro — để giúp con tàu tận dụng tối đa máy phát nhiệt điện đồng vị phóng xạ (radioisotope thermal generator) đã 50 năm tuổi của nó. Về bản chất đây là một loại pin hạt nhân, máy phát này chuyển hóa nhiệt sinh ra từ quá trình phân rã plutonium thành điện năng."
+    },
+    {
+     "t": "p",
+     "text": "Do lượng plutonium liên tục cạn dần, cả hai tàu Voyager mỗi năm đều mất khoảng 4 watt điện năng. Nỗ lực tiết kiệm năng lượng mới nhất này được kỳ vọng sẽ cung cấp đủ điện để cả hai con tàu tiếp tục vận hành bộ thiết bị khoa học hiện tại của mình cho đến ít nhất là dịp kỷ niệm 50 năm phóng tàu vào mùa hè tới."
+    },
+    {
+     "t": "p",
+     "text": "Giống như với tất cả các tàu vũ trụ của NASA bay đến Mặt Trăng và xa hơn nữa, việc liên lạc giữa Trái Đất và hai tàu Voyager được quản lý bởi Mạng Không gian Sâu (Deep Space Network) của cơ quan này, gồm các ăng-ten lớn đặt tại ba cơ sở trên khắp thế giới."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi lắng nghe tín hiệu từ Voyager 1 mỗi ngày và gửi lệnh điều khiển cho con tàu mỗi tuần một lần. Chỉ là việc liên lạc mất nhiều thời gian hơn trước đây một chút,\" Suzanne Dodd, quản lý dự án Voyager tại JPL, cho biết. \"Dù di chuyển với tốc độ ánh sáng, tín hiệu hiện nay cũng phải mất 24 giờ để đến được con tàu và 24 giờ để quay trở lại chúng ta. Rồi một ngày nào đó trong tương lai, khi không còn thể liên lạc được với Trái Đất nữa, Voyager 1 sẽ trở thành đại sứ thầm lặng của nhân loại gửi đến các vì sao.\""
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về nhiệm vụ Voyager của NASA, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://science.nasa.gov/mission/voyager/"
+    },
+    {
+     "t": "p",
+     "text": "-hết-"
+    },
+    {
+     "t": "p",
+     "text": "Abbey Interrante / Karen Fox Headquarters, Washington 202-358-1600 abbey.a.interrante@nasa.gov / karen.c.fox@nasa.gov"
+    },
+    {
+     "t": "p",
+     "text": "Calla Cofield, Phòng Thí nghiệm Sức đẩy Phản lực (Jet Propulsion Laboratory), Pasadena, California. 626-808-2469 calla.e.cofield@jpl.nasa.gov"
+    }
+   ]
+  },
+  {
+   "id": "34e42e1f26e5",
+   "order": 14,
+   "slug": "lan-dau-tien-xuat-hien-4-vanh-dai-phong-xa-quanh-trai-dat-va",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Lần đầu tiên xuất hiện 4 vành đai phóng xạ quanh Trái Đất vào năm 2024",
+   "sapo": "Nhiều hiện tượng quan trọng nhất trong Vũ Trụ thường vô hình trước mắt con người (ước gì ta là tôm tít biết du hành vũ trụ!).",
+   "author": "Ivan Farkas",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/for-the-first-time-4-radiation-belts-appeared-around-earth-in-2024",
+   "published": "2026-11-19T02:05:50+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1276,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "For The First Time, 4 Radiation Belts Appeared Around Earth in 2024",
+   "images": [
+    {
+     "src": "img/2026-11-20/34e42e1f26e5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-20/34e42e1f26e5-0.jpg",
+     "caption": "Hình minh họa ban đầu về các vành đai Van Allen sau khi chúng được phát hiện. (Trung tâm Chuyến bay Không gian Goddard của NASA/Hình ảnh lịch sử về vành đai Van Allen do Trung tâm Nghiên cứu Langley của NASA cung cấp)",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-20/34e42e1f26e5-1.jpg",
+     "caption": "Cấu trúc bốn vành đai electron được mô tả trong nghiên cứu này. Màu vàng cam sáng biểu thị các vành đai, còn màu tím đậm hơn biểu thị các khe hở, hay khoảng trống. (Pierrard et al., npj Space Explor., 2026)",
+     "w": 600,
+     "h": 362
+    },
+    {
+     "src": "img/2026-11-20/34e42e1f26e5-2.jpg",
+     "caption": "Hình minh họa một số \"vỏ L\" (L shells) địa từ. (Drdan14/Wikimedia Commons/CC BY-SA 3.0)",
+     "w": 1280,
+     "h": 514
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhiều hiện tượng quan trọng nhất trong Vũ Trụ thường vô hình trước mắt con người (ước gì ta là tôm tít biết du hành vũ trụ!)."
+    },
+    {
+     "t": "p",
+     "text": "Ngay cả môi trường gần Trái Đất của chúng ta cũng tràn ngập những hiện tượng không thể nhìn thấy bằng mắt thường. Hành tinh của chúng ta được bao quanh bởi hai \"vòng bánh donut\" vũ trụ khổng lồ chứa phóng xạ, được gọi là vành đai Van Allen. Chúng được phát hiện vào thời kỳ đầu của kỷ nguyên không gian, năm 1958, bởi vệ tinh đầu tiên của Mỹ, Explorer 1, và được đặt theo tên nhà vật lý James Van Allen."
+    },
+    {
+     "t": "p",
+     "text": "Hai cấu trúc hình xuyến (toroidal) này gồm một vành đai trong, chủ yếu chứa các proton năng lượng cao, và một vành đai ngoài, chủ yếu chứa các electron năng lượng cao, nằm bên ngoài quỹ đạo thấp của Trái Đất (low-Earth orbit)."
+    },
+    {
+     "t": "p",
+     "text": "Những hạt này có nguồn gốc từ các cơn bão mặt trời mạnh và tia vũ trụ (cosmic rays) — loại tia được sinh ra từ những ngôi sao khổng lồ đang chết đi — sau đó bị giữ lại trong một \"vườn thú quỹ đạo\" quanh Trái Đất, nơi may mắn có từ trường bảo vệ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thông thường, chỉ có hai vành đai này (vành trong và vành ngoài) tồn tại."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng lần đầu tiên, các nhà thiên văn học đã quan sát thấy bốn vành đai electron riêng biệt sau một cơn bão địa từ cực mạnh tấn công hành tinh chúng ta vào ngày 11 tháng 5 năm 2024 — tạo ra một \"con quái vật nhiều đầu\" (Hydra) phóng xạ tồn tại trong thời gian ngắn."
+    },
+    {
+     "t": "p",
+     "text": "Theo mô tả trong một nghiên cứu mới công bố trên tạp chí npj Space Exploration, các nhà nghiên cứu đã tìm hiểu hiện tượng độc đáo và ngắn ngủi này bằng cách sử dụng thiết bị Kính viễn vọng Hạt Năng lượng cao (Energetic Particle Telescope - EPT) trên vệ tinh PROBA-V của Cơ quan Vũ trụ châu Âu (ESA). Vệ tinh này bay trên quỹ đạo cực đồng bộ với Mặt Trời ở độ cao 820 km (hơn 500 dặm) phía trên Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tượng đặc biệt này, được gọi là \"sự kiện Ngày của Mẹ\" (Mother's Day event), là cơn bão địa từ mạnh nhất trong 20 năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Và mặc dù nó mang đến một lượng lớn electron tràn vào khu vực gần Trái Đất, cấu trúc bốn vành đai electron lại xuất hiện muộn hơn một chút, do sự suy giảm electron tại chỗ, chứ không phải do sự bổ sung electron."
+    },
+    {
+     "t": "p",
+     "text": "Khi các tương tác điện từ quét các electron ra khỏi các vành đai, chúng tạo ra những vùng khe hở mới tạm thời, chia tách các vành đai thành bốn thực thể riêng biệt."
+    },
+    {
+     "t": "p",
+     "text": "Quá trình này diễn ra trong vài ngày đến vài tuần sau cơn bão, tạo ra ba vành đai electron, rồi đến cấu hình bốn vành đai electron chưa từng được quan sát trước đó vào tháng 6 năm 2024. Sau đó, đến tháng 8 năm 2024, cấu trúc hai vành đai bình thường đã trở lại."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chúng ta đã thấy hệ thống ba vành đai vào năm 2012, và sau đó nhiều lần trong khoảng từ 2024 đến 2026 sau các cơn bão địa từ lớn, bao gồm cả vào tháng 10 năm 2024, chỉ vài ngày sau cơn bão địa từ mạnh thứ hai trong 20 năm qua."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều đáng ngạc nhiên là gần đây chúng tôi phát hiện bốn vành đai, và ba vành đai xuất hiện rất thường xuyên, trong khi trước đây chỉ quan sát được hai vành đai. Điều này có nghĩa là gần đây đã xuất hiện những cơ chế mới về việc mất hoặc giữ electron,\" tác giả chính Viviane Pierrard, trưởng bộ phận gió Mặt Trời và nhà nghiên cứu khoa học cấp cao tại Viện Hàng không Vũ trụ Hoàng gia Bỉ, chia sẻ với ScienceAlert qua email."
+    },
+    {
+     "t": "p",
+     "text": "Điều thú vị là các nhà thiên văn học không quan sát thấy cấu hình ba vành đai trong giai đoạn hoạt động mạnh nhất của Mặt Trời, hay còn gọi là cực đại Mặt Trời, trong Chu kỳ Mặt Trời 24, chu kỳ 11 năm trước đó đã kết thúc vào tháng 12 năm 2019. Trong giai đoạn cực đại này, luồng vật chất từ Mặt Trời được bơm trực tiếp vào vành đai trong."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì ăn một hộp 12 cái bánh Krispy Kreme qua đường miệng và để cơ thể tiêu hóa từ từ, hãy tưởng tượng chúng được \"hút mỡ ngược\" bơm thẳng vào đùi bạn."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhiều vành đai Van Allen rõ ràng xuất hiện do sự xuất hiện của các vụ phóng vật chất từ vành nhật hoa (coronal mass ejection) làm xáo trộn môi trường không gian của Trái Đất và làm tăng luồng vật chất trong các vành đai phóng xạ,\" các nhà nghiên cứu tổng kết."
+    },
+    {
+     "t": "p",
+     "text": "Nói cách khác, các vụ bùng phát của Mặt Trời với cường độ khác nhau tạo ra các xáo trộn từ trường, đẩy các electron vào những \"độ sâu\" khác nhau trong cấu trúc hai vành đai bình thường quanh Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Đôi khi các electron này được đưa trực tiếp vào một trong các vành đai đã có sẵn, nhưng có lúc chúng lại bị giữ lại ở khoảng giữa hai vành đai."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, chúng tương tác với nhiều loại sóng điện từ khác nhau, có thể làm phân tán các electron vào khí quyển của chúng ta và tạo ra các khoảng trống giữa các vành đai electron, chia chúng thành nhiều phần."
+    },
+    {
+     "t": "p",
+     "text": "Những tác động điện từ này sau đó khiến các electron bị giữ lại trong các vành đai mới dần dần trôi vào trong hoặc ra ngoài theo các đường (hay \"lớp vỏ\") của từ trường Trái Đất trong khoảng một tháng, và cấu trúc hai vành đai bình thường sẽ trở lại, cho đến khi cơn bão địa từ tiếp theo xảy ra."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tất nhiên, đây là một quá trình vô cùng phức tạp, phụ thuộc vào các yếu tố đã nói ở trên, các nguyên tử khí và plasma trong khí quyển, cũng như các tia sét và cả hoạt động của con người, chẳng hạn như các thiết bị phát điện từ dùng để liên lạc với tàu ngầm."
+    },
+    {
+     "t": "p",
+     "text": "Hậu quả của việc này có nhiều mặt."
+    },
+    {
+     "t": "p",
+     "text": "\"Các electron và proton rất nguy hiểm đối với tàu vũ trụ, chủ yếu là với các thiết bị điện tử và pin năng lượng mặt trời, cũng như với các nhà du hành vũ trụ, [làm tăng nguy cơ mắc các bệnh như ung thư và đục thủy tinh thể] do năng lượng rất cao của chúng,\" Pierrard giải thích qua email."
+    },
+    {
+     "t": "p",
+     "text": "Thực tế, chỉ một va chạm duy nhất từ loại hạt này cũng có thể làm hỏng các thiết bị ngày càng nhạy của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, các nhà khoa học tham gia nghiên cứu này mong muốn tiếp tục tìm hiểu sự tương tác phức tạp giữa các lực của Mặt Trời và từ trường Trái Đất, đặc biệt là khi con người ngày càng mở rộng dấu chân của mình ra ngoài vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "\"Hiểu được cách các vành đai bổ sung tồn tại lâu dài này hình thành và phát triển sẽ mang lại hiểu biết mới về các quá trình giữ lại và loại bỏ các hạt năng lượng cao trong từ trường Trái Đất,\" các nhà nghiên cứu kết luận."
+    }
+   ]
+  },
+  {
+   "id": "fbbc153e3e98",
+   "order": 15,
+   "slug": "google-mo-khoa-tinh-nang-gemini-ai-tung-chi-danh-cho-nguoi-d",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Google mở khóa tính năng Gemini AI từng chỉ dành cho người dùng trả phí",
+   "sapo": "Google mở miễn phí Gemini Tasks tại sáu quốc gia, cho phép AI tự thực hiện nhiều công việc thay vì chỉ trả lời câu hỏi.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/google-mo-khoa-tinh-nang-gemini-ai-tung-chi-danh-cho-nguoi-dung-tra-phi-185261119155446848.htm",
+   "published": "2026-11-19T13:34:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 596,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/fbbc153e3e98-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/fbbc153e3e98-0.jpg",
+     "caption": "Gemini có thể tự đặt lịch, lên kế hoạch du lịch mà không cần người dùng giám sát",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trước đây, Gemini Tasks chỉ được cung cấp cho người dùng trả phí. Tính năng được hỗ trợ bởi trí tuệ nhân tạo (AI) này có thể xử lý các dự án nhiều bước và công việc định kỳ một cách tự động, thay vì chỉ đơn thuần phản hồi yêu cầu."
+    },
+    {
+     "t": "p",
+     "text": "Gemini Tasks nằm trong nỗ lực của Google nhằm biến Gemini từ một chatbot thành một trợ lý có khả năng thực hiện các nhiệm vụ thay mặt người dùng. Gemini Tasks giờ đây có thể lập kế hoạch du lịch, lên lịch các cuộc họp hằng ngày dựa trên thông tin từ email và lịch, tự động hóa các công việc nghiên cứu lặp đi lặp lại và thậm chí quản lý việc nhà. Tính năng này hoạt động ngầm, gửi thông báo khi công việc hoàn thành và cho phép người dùng thêm hướng dẫn trong quá trình thực hiện."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trước đây được biết đến với tên gọi Gemini Spark, Tasks hiện là một phần của ứng dụng Gemini chính và được cung cấp miễn phí cho người dùng tại Mỹ, Ấn Độ, Canada, Úc, Nhật Bản và Hàn Quốc. Để bắt đầu sử dụng, người dùng chỉ cần mở Gemini và chuyển từ chế độ Chat sang Task mà không cần đăng ký trả phí, mặc dù một số tính năng mới có thể có hạn chế về tính có sẵn."
+    },
+    {
+     "t": "h",
+     "text": "Gemini giờ có thể tự hoàn thành nhiều nhiệm vụ"
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, Gemini còn có khả năng thực hiện các cuộc gọi điện thoại để so sánh giá cả, kiểm tra hàng tồn kho, lấy báo giá hoặc lên lịch hẹn, tự nhận mình là trợ lý AI trong quá trình này. Việc tích hợp Google Pay cũng cho phép theo dõi tình trạng hàng hóa và giảm giá, đồng thời chuẩn bị các giao dịch mua trong giới hạn chi tiêu do người dùng đặt ra. Tuy nhiên, người dùng vẫn cần xem lại bản tóm tắt chi tiết và phê duyệt giao dịch mua hàng, với biên lai và thông tin theo dõi được lưu vào Google Wallet."
+    },
+    {
+     "t": "p",
+     "text": "Người dùng tại Mỹ còn có thể giao việc cho Gemini thông qua Google Messages hoặc iMessage, hoặc chuyển tiếp email và tệp đính kèm đến địa chỉ gemini@google.com. Ứng dụng sẽ trích xuất thông tin liên quan, sắp xếp các mục lịch và gửi lại công việc đã hoàn thành một cách riêng tư."
+    },
+    {
+     "t": "p",
+     "text": "Bản cập nhật này phản ánh một xu hướng rộng hơn trong phát triển trợ lý AI, khi các công ty đang cố gắng xây dựng các trợ lý có khả năng tương tác với các dịch vụ và hoàn thành nhiệm vụ một cách độc lập. Tuy nhiên, các trợ lý AI cũng gặp phải thách thức khi các trang web và doanh nghiệp hạn chế quyền truy cập tự động. Google thừa nhận một số trang web có thể ngăn Gemini hoàn thành một hành động, buộc nó phải trả lại quyền điều khiển cho người dùng."
+    },
+    {
+     "t": "p",
+     "text": "Google cho biết Gemini Tasks hoạt động trên một máy ảo chuyên dụng và được cách ly phần cứng cho mỗi người dùng, với các biện pháp bảo vệ chống lại mã độc và các trang web không an toàn. Mặc dù việc cung cấp miễn phí là một bước tiến lớn, thách thức thực sự vẫn là liệu Gemini có thể xử lý một cách đáng tin cậy những công việc nhàm chán hằng ngày mà không cần sự giám sát liên tục hay không."
+    }
+   ]
+  },
+  {
+   "id": "230e1560daf2",
+   "order": 16,
+   "slug": "du-lieu-khoa-hoc-cua-nasa-giup-tim-ra-phuong-phap-moi-phat-h",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Dữ liệu khoa học của NASA giúp tìm ra phương pháp mới phát hiện các pulsar khó tìm",
+   "sapo": "Dữ liệu mở từ nhiệm vụ Fermi của NASA đã giúp một nhóm các nhà khoa học quốc tế phát triển một phương pháp tìm pulsar nhanh hơn trước đây khoảng một triệu lần.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+   "published": "2026-11-19T15:33:55+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1270,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+   "images": [
+    {
+     "src": "img/2026-11-20/230e1560daf2-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-11-20/230e1560daf2-0.jpg",
+     "caption": "Hình ảnh minh họa của kính thiên văn vũ trụ tia gamma Fermi (Fermi Gamma-ray Space Telescope) của NASA đang bay quanh Trái Đất.",
+     "w": 1280,
+     "h": 719
+    },
+    {
+     "src": "img/2026-11-20/230e1560daf2-1.jpg",
+     "caption": "Hình minh họa này cho thấy một pulsar, giống như một ngọn hải đăng, vì ánh sáng của nó xuất hiện thành những chớp sáng đều đặn khi nó quay. Pulsar là phần còn lại dày đặc của các ngôi sao đã phát nổ, thuộc một nhóm vật thể gọi là sao neutron (neutron star).",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-20/230e1560daf2-2.jpg",
+     "caption": "Một hình bầu dục rộng được tô bằng nhiều sắc độ xanh – xanh vừa ở giữa và đậm dần về phía mép. Vùng màu xanh được rải rác bởi hàng chục đốm sáng nhỏ to khác nhau, phát sáng màu hồng tím ở viền và vàng sáng ở giữa. Toàn bộ hình bầu dục bị một dải màu cam và vàng cắt ngang từ trái qua phải. Dải sáng này rực nhất ở giữa, như thể một cánh cửa đang mở ra, để lộ ánh sáng mặt trời phía sau.",
+     "w": 1280,
+     "h": 763
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một nhóm các nhà khoa học quốc tế đã phát triển một phương pháp có thể tìm pulsar trong dữ liệu công khai của NASA nhanh hơn trước đây khoảng một triệu lần. Điều này mở ra cơ hội phát hiện thêm rất nhiều vật thể quay nhanh này. Một bài báo mô tả kết quả nghiên cứu đã được công bố vào thứ Năm trên tạp chí Physical Review Letters."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng 15 năm dữ liệu từ kính thiên văn vũ trụ tia gamma Fermi của NASA và một phương pháp dựa trên mật mã học (cryptography) do các đồng tác giả nghiên cứu Dotan Gazith và Barak Zackay từ Viện Khoa học Weizmann ở Israel phát triển, nhóm nghiên cứu đã tìm ra PSR J1622−7204, một pulsar đơn độc quay 261 lần mỗi giây, chỉ bằng khoảng 10 giờ tính toán trên một bộ xử lý máy tính thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Để so sánh, phương pháp tốt nhất trước đây đã không tìm ra được pulsar này, dù đã dùng một lượng sức mạnh tính toán mà một bộ xử lý thông thường phải mất tới 600 năm mới thực hiện xong."
+    },
+    {
+     "t": "p",
+     "text": "Pulsar là một sao neutron quay rất nhanh, phát ra các chùm tia phóng xạ hướng về Trái Đất, giống như một ngọn hải đăng. Việc tìm pulsar trong dữ liệu tia gamma vô cùng khó khăn vì kính Fermi chỉ ghi được rất ít photon từ một pulsar, lại trộn lẫn với nhiễu nền từ các nguồn phát tia gamma khác và từ vũ trụ rộng lớn hơn. Để tìm ra tín hiệu, các nhà nghiên cứu phải đoán chính xác nhiều yếu tố chưa biết cùng một lúc: ngôi sao quay nhanh thế nào, tốc độ quay đang chậm lại ra sao, và vị trí chính xác của nó trên bầu trời. Nếu tìm kiếm mọi khả năng kết hợp thì cần một số lượng phép tính không thể thực hiện được."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi không quan sát được mọi vòng quay của pulsar, và không thể chỉ đếm số vòng quay để suy ra photon đến từ đâu,\" tác giả chính của nghiên cứu, Daniel Pook-Kolb, nhà khoa học tại Viện Vật lý Hấp dẫn Max Planck (Viện Albert Einstein) ở Đức, cho biết. \"Chúng tôi có một lưới bốn chiều, và phải tìm kiếm theo mỗi hướng với hàng triệu lần thử. Trái Đất không có đủ sức mạnh tính toán để làm điều đó.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo cách truyền thống, các nhà khoa học tìm những pulsar này bằng cách chia nhỏ dữ liệu Fermi thành nhiều phần và phân tích chúng nhờ sức mạnh tính toán góp chung từ các tình nguyện viên trên khắp thế giới. Dù có sự góp sức của những tình nguyện viên này bằng khả năng xử lý rảnh của máy tính họ, việc xác định một pulsar duy nhất thường vẫn cần tới số thời gian tính toán tương đương hàng trăm năm máy chạy liên tục."
+    },
+    {
+     "t": "p",
+     "text": "Gazith và Zackay nhận ra rằng việc tìm kiếm này có thể biến thành một bài toán hình học: tìm véc-tơ ngắn nhất trong một mạng lưới nhiều chiều (lattice), tức một tập hợp các điểm được xếp cách đều nhau. Kỹ thuật mạng lưới này dựa trên các thuật toán do các nhà mật mã học phát triển nhằm phá vỡ những hệ thống mã hóa được thiết kế để chống lại việc giải mã bởi máy tính lượng tử (quantum computer) trong tương lai. Phương pháp này cũng từng được dùng để giúp các hệ thống định vị vệ tinh hoạt động hiệu quả hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Nghiên cứu phân tích của chúng tôi ở đây chẳng liên quan gì đến mật mã học, nhưng những thuật toán đó lại có thể giúp chúng tôi giải quyết bài toán tìm pulsar trong dữ liệu,\" Gazith nói."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi lần chạy thử thuật toán chỉ mất khoảng năm phút trên một lõi máy tính (computer core) duy nhất — hoàn toàn có thể làm được trên một máy tính xách tay bình thường, vốn thường có từ hai đến tám lõi. Sau khi phương pháp mạng lưới xác định được một pulsar nghi vấn, các nhà nghiên cứu đã kiểm chứng bằng cách đưa vào toàn bộ dữ liệu Fermi, và kết quả cho ra một tín hiệu mạnh đến mức không thể là sự trùng hợp ngẫu nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Mục tiêu tiếp theo của nhóm nghiên cứu còn tham vọng hơn: tìm các pulsar trong hệ đôi (binary system), nơi một pulsar quay quanh một ngôi sao khác. Từ lâu những phát hiện như vậy được coi là nằm ngoài khả năng, vì lực hấp dẫn của ngôi sao đồng hành làm biến dạng tín hiệu theo những cách khiến việc tìm ra các pulsar này gần như bất khả thi với các phương pháp truyền thống."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi biết rằng có thể có hàng chục, thậm chí hàng trăm pulsar như vậy trong bộ dữ liệu mà chúng tôi vẫn chưa tìm ra,\" Colin Clark, nhà vật lý thiên văn tại Viện Max Planck và đồng tác giả nghiên cứu, cho biết. \"Mục tiêu tiếp theo là mở rộng việc tìm kiếm, kết hợp thuật toán mới với sức mạnh tính toán từ cộng đồng tình nguyện viên trong chương trình Einstein@Home, với hy vọng sẽ tìm ra nhiều pulsar mới mà chúng tôi tin là đang tồn tại.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện này sẽ không thể xảy ra nếu không có chính sách Khoa học Chuẩn Vàng (Gold Standard Science) lâu đời của NASA, trong đó dữ liệu khoa học, bao gồm dữ liệu từ kính viễn vọng Fermi, được công bố miễn phí cho tất cả mọi người. Được phóng lên vào năm 2008, Fermi quét toàn bộ bầu trời mỗi ba giờ, quan sát vũ trụ bằng tia gamma — dạng ánh sáng có năng lượng cao nhất. Sau một năm đầu hiệu chỉnh, toàn bộ dữ liệu của Fermi đã được công khai hoàn toàn và vẫn tiếp tục được công bố ngay khi được xử lý xong."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều tuyệt vời ở dữ liệu của NASA là tất cả đều mở,\" Clark nói. \"Toàn bộ 18 năm dữ liệu của Fermi đã được công khai, và lượng dữ liệu vẫn không ngừng tăng lên.\""
+    },
+    {
+     "t": "p",
+     "text": "Sự cởi mở đó đã giúp các nhà nghiên cứu bên ngoài nhiệm vụ Fermi, bao gồm cả nhóm lấy cảm hứng từ mật mã học, áp dụng một phương pháp hoàn toàn mới vào bộ dữ liệu này. Sự hỗ trợ của NASA đối với cộng đồng khoa học, thông qua các phần mềm và công cụ mở như Fermitools của NASA, đã giúp nhóm nghiên cứu chuẩn bị dữ liệu trước khi bắt đầu phân tích."
+    },
+    {
+     "t": "p",
+     "text": "Nhiệm vụ Fermi đã mở rộng danh mục của mình từ vài trăm nguồn tia gamma lên đến hàng nghìn nguồn, với những phát hiện mới liên tục xuất hiện khi các nhà khoa học áp dụng những ý tưởng mới vào cùng một bộ dữ liệu."
+    },
+    {
+     "t": "p",
+     "text": "\"Bất kỳ cuộc tìm kiếm nào mà một nhóm đang thực hiện, một nhóm khác cũng có thể làm lại và kiểm tra kết quả đó,\" Elizabeth Hays, nhà khoa học dự án Fermi tại Trung tâm Chuyến bay Không gian Goddard của NASA ở Greenbelt, Maryland, cho biết. \"Điều đó đã giúp khoa học trở nên tốt hơn.\""
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về nhiệm vụ Fermi của NASA, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://www.nasa.gov/fermi"
+    },
+    {
+     "t": "p",
+     "text": "Tác giả: Amanda Moon Adams, Trưởng phòng Truyền thông, Văn phòng Giám đốc Khoa học Dữ liệu"
+    }
+   ]
+  },
+  {
+   "id": "16546d86f76e",
+   "order": 17,
+   "slug": "chim-canh-cut-o-peru-dang-gap-nguy-hiem-hien-tuong-el-nino-s",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Chim cánh cụt ở Peru đang gặp nguy hiểm. Hiện tượng El Niño siêu mạnh có thể khiến mọi thứ tệ hơn",
+   "sapo": "Cúm gia cầm, việc đánh bắt cá quá mức và biển ấm lên đã làm sụp đổ đàn chim cánh cụt Humboldt lớn nhất thế giới. Các nhà khoa học đang tìm cách giúp chúng hồi phục.",
+   "author": "Ana Elisa Sotelo",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/peru-penguins-el-nino-trouble",
+   "published": "2026-11-19T11:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 2059,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Peru’s penguins are in trouble. A super El Niño could worsen things",
+   "images": [
+    {
+     "src": "img/2026-11-20/16546d86f76e-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Tài liệu học tập cho bài viết này"
+    },
+    {
+     "t": "p",
+     "text": "Lần đầu tiên tôi đến Punta San Juan là vào năm 2012. Khi đó, bán đảo sa mạc này ngập tràn chim. Đây là một dải đá và cát rộng 54 héc ta, nhô ra vùng biển lạnh giá của Thái Bình Dương, ở phía nam Peru. Lúc ấy, nơi này là một trong những điểm tập trung chim biển lớn nhất trên Trái Đất. Tôi đến đó để làm một bộ phim tài liệu ngắn về các loài chim cốc, chim bồ nông và chim cánh cụt sống ở đây."
+    },
+    {
+     "t": "p",
+     "text": "Vào thời điểm đó, khu bảo tồn này là nơi sinh sống của hàng trăm nghìn con chim biển. Trong số đó có 300.000 con chim cốc Guanay và khoảng 3.000 con chim cánh cụt Humboldt."
+    },
+    {
+     "t": "p",
+     "text": "Chim cánh cụt Humboldt là một trong số ít loài chim cánh cụt sống ở sa mạc. Chúng sống dọc theo bờ biển khô cằn của Peru và Chile, nơi chúng làm hang trong các lớp phân chim tích tụ lâu năm (guano) hoặc trong những hốc đá nhỏ trên vách núi. Đàn chim cánh cụt Humboldt ở Punta San Juan từng là đàn lớn nhất của Peru."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng đến năm 2025, chỉ còn chưa đầy 500 con chim cánh cụt sống sót."
+    },
+    {
+     "t": "p",
+     "text": "Dịch cúm gia cầm đã lan rộng khắp khu bảo tồn vào năm 2022 và 2023. Số lượng chim biển ở đây sụt giảm nghiêm trọng. Đại dịch này còn khiến cả các loài động vật có vú ở biển như sư tử biển và hải cẩu lông bị nhiễm bệnh."
+    },
+    {
+     "t": "li",
+     "text": "Một con chim cốc Guanay đứng trên vách đá (bên trái). Xác chim cốc được tìm thấy trên sa mạc (bên phải). Đến năm 2023, tác động kết hợp của dịch cúm gia cầm và El Niño đã gây ra một trong những đợt suy giảm chim biển lớn nhất từng được ghi nhận tại Khu bảo tồn Punta San Juan. Ảnh: Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Một con chim cốc biển Peru non đứng trên vách đá vào năm 2025. Ảnh: Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Một chú chim cánh cụt Humboldt trở về sau khi kiếm ăn (trái). Xác chim cánh cụt được tìm thấy trên sa mạc (phải). Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Những con hải cẩu lông mượt Nam Mỹ nô đùa trong vùng nước lạnh của dòng hải lưu Humboldt, chảy qua Khu bảo tồn Punta San Juan. Năm 2023, loài hải cẩu này bị cúm gia cầm tấn công dữ dội, khi virus lây lan từ chim sang động vật có vú với tốc độ chưa từng thấy. Hàng trăm con đã chết. Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Những con kền kền gà tây ăn xác của hải cẩu biển Nam Mỹ tại Punta San Juan vào tháng 7 năm 2026. Những con hải cẩu biển này có thể đã chết vì đói sau khi hiện tượng El Niño khiến chúng khó tìm được con mồi hơn. Ana Elisa Sotelo"
+    },
+    {
+     "t": "p",
+     "text": "Tiếp theo đó, hiện tượng El Niño xuất hiện. Đây là một hiện tượng khí hậu lặp đi lặp lại, mang đến nhiều tháng nhiệt độ mặt biển ấm hơn bình thường cho khu vực này của Thái Bình Dương. Hơi nóng đó đã đẩy cá cơm — con mồi chính của chim cánh cụt — xuống sâu hơn và ra xa bờ hơn. Tệ hơn nữa, các đội tàu đánh cá còn tranh giành phần thức ăn còn lại với những con vật này."
+    },
+    {
+     "t": "p",
+     "text": "Nhà sinh thái học Susana Cárdenas-Alayza ngày càng thấy lo lắng. Bà đã giúp điều hành Chương trình Punta San Juan hơn 20 năm nay. Đây là một dự án bảo tồn được thực hiện cùng với Đại học Cayetano Heredia ở Lima, chính phủ Peru và các sở thú ở Mỹ. Là một nhà khoa học, Cárdenas-Alayza đã quen với việc xử lý số liệu và những điều kiện thay đổi. \"Nhưng bệnh dịch và các hiện tượng khí hậu,\" bà nói, \"thì nằm ngoài khả năng kiểm soát của tôi.\""
+    },
+    {
+     "t": "h",
+     "text": "Chim cánh cụt gặp nguy"
+    },
+    {
+     "t": "p",
+     "text": "Trái: Giám đốc Chương trình Punta San Juan, bà Susana Cárdenas-Alayza, nhìn ra sa mạc vào năm 2023. Các quần thể chim trong khu bảo tồn đã bị ảnh hưởng nặng nề bởi cúm gia cầm và tình trạng thiếu thức ăn do một đợt El Niño gần đó gây ra."
+    },
+    {
+     "t": "p",
+     "text": "Phải: Cái khối nhỏ ở giữa chính là bà Cárdenas-Alayza đang ngồi ẩn mình. Bà mặc đồ ngụy trang và dùng bộ đàm để liên lạc với nhóm của mình trong khi theo dõi chim cánh cụt kiếm ăn vào mùa thu hoạch phân chim (guano). Chim cánh cụt rất nhạy cảm với sự có mặt của con người, nên người ta phải áp dụng các biện pháp nghiêm ngặt để tránh làm chúng hoảng sợ."
+    },
+    {
+     "t": "h",
+     "text": "Những chú chim cánh cụt đã đi đâu?"
+    },
+    {
+     "t": "p",
+     "text": "Hiện nay, khu bảo tồn đang đối mặt với một mối đe dọa mới: một đợt El Niño \"siêu mạnh\". Nhiệt độ mặt biển ở phía đông Thái Bình Dương đang tăng vọt. Điều này đang làm xáo trộn dòng nước lạnh, giàu cá vốn chảy qua Punta San Juan."
+    },
+    {
+     "t": "p",
+     "text": "Khi tôi trở lại khu bảo tồn vào tháng 7 vừa qua, nhiều thứ đã thay đổi. Mười bốn năm trước, chim cánh cụt xếp hàng dài trên các vách đá. Lần này tôi chỉ thấy năm con chim cánh cụt — và vài cái ổ bị bỏ rơi với những quả trứng đã lạnh."
+    },
+    {
+     "t": "li",
+     "text": "Một nhóm chim cánh cụt Humboldt băng qua sa mạc vào năm 2025 để đến bờ biển kiếm ăn tại Khu bảo tồn Punta San Juan. Để ra đến biển, những con chim này phải đi bộ hơn hai cây số qua sa mạc. Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Một con chim cánh cụt Humboldt con lẻ loi chờ cha mẹ tại Khu bảo tồn Punta San Juan vào tháng 7 năm 2026. Thường thì chim cánh cụt con sẽ được tìm thấy trong ổ cùng với cha hoặc mẹ, nhưng con này lại ở một mình. Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Một cặp chim cánh cụt Humboldt đã bỏ lại những quả trứng này. Không có cha mẹ ấp trứng, những con chim non đang phát triển trong trứng đã chết. Ana Elisa Sotelo"
+    },
+    {
+     "t": "li",
+     "text": "Những cái hộp màu trắng là ổ nhân tạo cho chim cánh cụt, do các tình nguyện viên lắp đặt tại Khu bảo tồn Punta San Juan. Vào tháng 7 năm 2026, các nhà khoa học đi qua khu vực làm ổ giờ đã bị bỏ trống này. Ana Elisa Sotelo"
+    },
+    {
+     "t": "p",
+     "text": "Cárdenas-Alayza cho biết khi thức ăn trở nên khan hiếm, chim cánh cụt thường ngừng sinh sản. Chúng thậm chí có thể bỏ ổ để đi tìm môi trường sống thuận lợi hơn. Trên đường đi, chúng thường bị chết đói."
+    },
+    {
+     "t": "p",
+     "text": "Sự suy giảm của loài chim cánh cụt cũng là điều khó khăn đối với những người làm việc tại đây. Cárdenas-Alayza gọi khu bảo tồn này là một \"phòng thí nghiệm sống\". Trong nhiều thập kỷ qua, các tình nguyện viên từ Peru và khắp thế giới đã đến đây để đếm số chim và ghi chép lại chế độ ăn của chúng. Họ đã nỗ lực nghiên cứu và bảo vệ những con chim cánh cụt này. Họ còn xây cả những ổ nhân tạo để giữ an toàn cho chim cánh cụt con."
+    },
+    {
+     "t": "p",
+     "text": "Vào mùa hè năm 2025, họ đã khởi động một chiến dịch gọi là \"tuần tra bảo vệ chim cánh cụt\". Mục tiêu của chiến dịch là bảo vệ chim cánh cụt Humboldt trong khi công nhân thu hoạch phân chim (guano). Phân chim — loại phân giàu nitơ — có thể dùng để bón cho cây trồng. Các công nhân còn xây một bức tường tạm thời dài nửa cây số (khoảng 1.640 feet) bằng các túi phân chim. Bức tường này giúp che chắn cho chim cánh cụt khỏi hoạt động thu hoạch trên đường chúng đi bộ ra biển mỗi ngày."
+    },
+    {
+     "t": "p",
+     "text": "Cárdenas-Alayza đang nỗ lực để việc nghiên cứu tiếp tục — và giữ tinh thần của mọi người ở mức cao — ngay cả khi hệ sinh thái nơi đây ngày càng trống rỗng. Cô nói đây là một trong những thử thách lớn nhất trong sự nghiệp của mình. Không ai biết hiện tượng El Niño lần này sẽ kéo dài bao lâu, hay khi nào cá mới quay trở lại."
+    },
+    {
+     "t": "h",
+     "text": "Chuẩn bị cho ngày chim cánh cụt trở về"
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, Cárdenas-Alayza nói rằng cô vẫn giữ hy vọng. Nhiều loài ở Punta San Juan rất trung thành với vùng đất của mình. Vì thế, dù chúng có rời đi để tìm thức ăn hay các nguồn sống khác, cuối cùng chúng vẫn quay trở lại."
+    },
+    {
+     "t": "p",
+     "text": "Patricia Majluf là nhà sinh vật học đã thành lập Chương trình Punta San Juan vào năm 1979. Bà nhắc đến một lần hồi sinh trong quá khứ: hiện tượng El Niño năm 1997–1998. Số lượng hải cẩu và sư tử biển trong khu bảo tồn sụt giảm mạnh (có thời điểm số con non sinh ra giảm xuống bằng không). Số lượng chim cánh cụt rơi xuống chỉ còn vài trăm con. Nhưng điều đáng kinh ngạc là số lượng loài chim này đã dần hồi phục theo thời gian. (Thành công đó có được một phần nhờ các quy định siết chặt hơn về đánh bắt cá cơm được đưa ra năm 2006.)"
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, hiện nay các nhà khoa học đang bận rộn chuẩn bị cho sự trở lại mà họ mong đợi của loài chim cánh cụt Humboldt."
+    },
+    {
+     "t": "p",
+     "text": "Cárdenas-Alayza đã trao đổi với một số nhà lập pháp của Peru vào tháng Bảy. Cô và các đồng nghiệp đã đề nghị họ đặt ra những giới hạn nghiêm ngặt hơn đối với việc khai thác cá cơm. Họ cũng đang xây dựng một hướng tiếp cận mới để phục hồi hệ sinh thái. Họ hy vọng nhiều nhóm sẽ cùng hợp tác để giúp đỡ các loài động vật trong khu bảo tồn. Những nhóm đó có thể bao gồm các cộng đồng đánh cá, các công ty, học sinh — và cả các đầu bếp địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm của Cárdenas-Alayza cũng đang nỗ lực cải thiện chính bán đảo Punta San Juan. Họ đang thúc đẩy chính phủ gia cố một bức tường bê tông bảo vệ xung quanh khu bảo tồn. Mục tiêu là: ngăn các loài săn mồi xâm nhập. Hiện tại, họ đang đặt bẫy để bắt các loài xâm lấn chuyên săn chim non, như cáo và chuột. Họ cũng đang phát triển các công cụ trí tuệ nhân tạo (artificial intelligence). Những công cụ này có thể giúp đẩy nhanh việc phân tích dữ liệu từ các camera quan sát từ xa, theo dõi quá trình sinh sản của những con chim cánh cụt Humboldt còn sống sót."
+    },
+    {
+     "t": "h",
+     "text": "Bạn có câu hỏi khoa học nào không? Chúng tôi có thể giúp bạn!"
+    },
+    {
+     "t": "p",
+     "text": "Khi tôi chuẩn bị rời đi, Cárdenas-Alayza, Majluf và tôi đã cùng ăn một bữa chifa. Đây là món ăn Peru - Trung Hoa, vốn là bữa tối truyền thống vào ngày Chủ nhật của các gia đình Peru. Chúng tôi nói về những trải nghiệm giảng dạy của mình và những người mà chúng tôi từng biết tại khu bảo tồn. Cárdenas-Alayza trêu Majluf, nói rằng bà chính là \"người mẹ bảo tồn\" của cô."
+    },
+    {
+     "t": "p",
+     "text": "Chính vào lúc đó, tôi nhận ra điều gì đã luôn kéo tôi trở lại nơi này. Tôi bắt đầu đến đây để ghi lại hình ảnh những chú chim cánh cụt của vùng này. Nhưng theo thời gian, tôi đã học được nhiều hơn thế rất nhiều. Công việc bảo tồn không chỉ là khoa học. Đó còn là những mối quan hệ giữa con người với nhau."
+    },
+    {
+     "t": "p",
+     "text": "Cuối bữa ăn, tất cả chúng tôi đều mở bánh quy may mắn của mình. Cárdenas-Alayza bật cười khi đọc được lời nhắn trong bánh của mình: \"Núi sinh ra là để được chinh phục.\""
+    },
+    {
+     "t": "p",
+     "text": "Phần nghiên cứu của Ana Elisa Sotelo cho bài viết này được Trung tâm Pulitzer hỗ trợ. Bộ phim tài liệu của cô về Punta San Juan, mang tên Guardians of Guano, có thể xem tại đây."
+    }
+   ]
+  },
+  {
+   "id": "ba10fcf07687",
+   "order": 18,
+   "slug": "vi-sao-bui-chat-de-26-buc-tranh-hoan-thanh-ma-khong-dat-ten",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Vì sao Bùi Chát để 26 bức tranh hoàn thành mà không đặt tên?",
+   "sapo": "Trong thực hành hội họa tình huống, bức tranh không minh họa một ý tưởng có sẵn hay hướng đến kết quả định trước. Chính những gì diễn ra trên mặt tranh quyết định hình hài tác phẩm. Với 'Những bức tranh tự nó đặt tên', Bùi Chát chọn cho mình một lối đi riêng.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/vi-sao-bui-chat-de-26-buc-tranh-hoan-thanh-ma-khong-dat-ten-185261119202824053.htm",
+   "published": "2026-11-19T23:34:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 475,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/ba10fcf07687-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/ba10fcf07687-0.jpg",
+     "caption": "Triển lãm cá nhân Những bức tranh tự nó đặt tên của nghệ sĩ Bùi Chát giới thiệu 26 tác phẩm mới nhất của anh",
+     "w": 1280,
+     "h": 962
+    },
+    {
+     "src": "img/2026-11-20/ba10fcf07687-1.jpg",
+     "caption": "Tác giả sử dụng sơn dầu và acrylic kết hợp với sơn dầu trên canvas",
+     "w": 1280,
+     "h": 955
+    },
+    {
+     "src": "img/2026-11-20/ba10fcf07687-2.jpg",
+     "caption": "Điều độc đáo là các tác phẩm dù hoàn thành nhưng vẫn chưa được đặt tên",
+     "w": 1280,
+     "h": 957
+    },
+    {
+     "src": "img/2026-11-20/ba10fcf07687-3.jpg",
+     "caption": "Nghệ sĩ Bùi Chát",
+     "w": 1280,
+     "h": 857
+    },
+    {
+     "src": "img/2026-11-20/ba10fcf07687-4.jpg",
+     "caption": "Khi khán giả được \"trò chuyện\" với tranh của Bùi Chát, sẽ tự đặt tên theo cách của riêng mình",
+     "w": 1280,
+     "h": 965
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhân Ngày Văn hóa Việt Nam (24.11), từ ngày 21.11 đến 31.12, tại Con Art Gallery (TP.HCM), nghệ sĩ Bùi Chát tổ chức triển lãm cá nhân Những bức tranh tự nó đặt tên, giới thiệu 26 tác phẩm mới sáng tác bằng chất liệu sơn dầu và acrylic trên canvas."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt của triển lãm là cả 26 tác phẩm, dù đã hoàn thành, vẫn chưa được tác giả đặt tên. Theo Bùi Chát, một nhan đề có thể phần nào giới hạn tác phẩm khi định hướng người xem đến một liên tưởng hoặc cách hiểu nhất định. Anh muốn tranh được tự do hiện diện, không phải mang theo lời giải thích từ người sáng tác."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Để người xem tự tìm tên cho tranh"
+    },
+    {
+     "t": "p",
+     "text": "Theo nghệ sĩ Bùi Chát, đặt tên cho một bức tranh cũng đồng nghĩa với việc đưa vào đó một cách hiểu nhất định. Nhan đề có thể trở thành rào chắn vô hình, dẫn người xem đi theo một lối tiếp cận định sẵn. Trong khi đó, một tình huống thị giác luôn phức tạp, đa tuyến hơn bất cứ tên gọi nào."
+    },
+    {
+     "t": "p",
+     "text": "\"Một cái tên, cũng như một khuôn hình trong điện ảnh, chỉ giữ lại một khoảnh khắc của sự vật, trong khi bức tranh chứa đựng cả những gì đã diễn ra, đang diễn ra và còn có thể tiếp tục diễn ra ngoài khoảnh khắc ấy\", Bùi Chát chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Khi không có nhan đề dẫn dắt, người xem được tự do tiếp cận tác phẩm bằng khả năng quan sát, kinh nghiệm và cảm nhận của mình. Một hình ảnh có thể gợi lên những ký ức khác nhau; một mảng màu có thể mở ra những liên tưởng riêng. Ngay cả sự bối rối hay chưa tìm thấy mối liên hệ nào cũng có thể là điểm khởi đầu cho cuộc đối thoại với tác phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Với triển lãm cá nhân lần thứ 16 này, Bùi Chát tiếp tục theo đuổi hướng thực hành hội họa tình huống, nơi người nghệ sĩ tạo ra và đẩy tình huống thị giác đến những giới hạn giữa nghệ thuật và phi nghệ thuật. Phần còn lại được dành cho người thưởng ngoạn: tự tìm con đường tiếp cận và gọi tên tác phẩm theo cách của mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi thường được hỏi: Không đặt tên thì người xem biết bắt đầu từ đâu? Câu hỏi ấy hàm ý rằng tranh phải đưa ra một chỉ dẫn để tiếp cận nó. Nhưng tôi không muốn làm điều đó. Nếu người nghệ sĩ có trách nhiệm tạo ra tác phẩm, thì người thưởng ngoạn có quyền tạo ra những cách đọc, tên gọi của riêng mình. Giữa hai phía không nhất thiết phải có một lời giải thích làm trung gian\", Bùi Chát bày tỏ."
+    }
+   ]
+  },
+  {
+   "id": "d80f47aad66e",
+   "order": 19,
+   "slug": "mo-hinh-thanh-pho-bot-bien-de-giam-ngap-lut-tai-malaysia",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Mô hình \"thành phố bọt biển\" để giảm ngập lụt tại Malaysia",
+   "sapo": "Mô hình \"thành phố bọt biển\" là một triết lý và phương án quy hoạch đô thị tiên tiến, trong đó toàn bộ thành phố được thiết kế để hoạt động linh hoạt như một miếng bọt biển khổng lồ: khi có mưa lớn.",
+   "author": "Võ Bình",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/mo-hinh-thanh-pho-bot-bien-de-giam-ngap-lut-tai-malaysia-post1149517.vnp",
+   "published": "2026-11-19T23:06:47+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 640,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/d80f47aad66e-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bộ trưởng tại Văn phòng Thủ tướng Malaysia phụ trách các vùng lãnh thổ liên bang, bà Hannah Yeoh, cho biết thành phố đang triển khai nhiều biện pháp giảm thiểu tình trạng ngập lụt, trong đó có cải thiện hệ thống quản lý nước mưa và nâng cao khả năng ứng phó với lũ lụt, hướng tới xây dựng mô hình \"Thành phố bọt biển.\""
+    },
+    {
+     "t": "p",
+     "text": "Theo phóng viên TTXVN tại Kuala Lumpur, phát biểu tại thủ đô của Malaysia ngày 19/11, bà Hannah Yeoh nhấn mạnh nhờ những giải pháp trên mà thủ đô Kuala Lumpur đã giảm số điểm thường xuyên xảy ra ngập lụt từ hơn 30 điểm năm 2022 xuống còn 14 như hiện nay. Thành phố đặt mục tiêu tiếp tục giảm con số này xuống còn 10 vào cuối năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Bà khẳng định chính quyền Kuala Lumpur đang chủ động ứng phó với nguy cơ ngập lụt thông qua cơ chế báo cáo trực tiếp, cập nhật tình hình mưa lớn theo thời gian thực tới thị trưởng nhằm hỗ trợ công tác giám sát và xử lý kịp thời."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, thành phố cũng đang phát triển các công trình điều tiết nước mưa tại chỗ, bao gồm hệ thống chứa nước ngầm tại Vườn Bách thảo Perdana và khu vực Padang Merbok, đồng thời giám sát hơn 60 công trình điều tiết nước do khu vực tư nhân xây dựng trên toàn thành phố."
+    },
+    {
+     "t": "p",
+     "text": "Các công trình này có chức năng tạm thời lưu trữ nước mưa trước khi xả dần vào hệ thống thoát nước, qua đó giảm áp lực lên hệ thống cống rãnh và sông ngòi trong những đợt mưa lớn."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, Thị trưởng Kuala Lumpur, ông Fadlun Mak Ujud cho biết chính quyền thành phố đã phân bổ hơn 6 triệu USD cho năm 2027 nhằm tăng cường các biện pháp phòng, chống ngập lụt, hướng tới giảm số điểm thường xuyên xảy ra lũ quét."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, Tòa thị chính Kuala Lumpur (DBKL) đã tăng tần suất bảo trì hệ thống thoát nước, sông ngòi và hồ điều tiết từ 2 lần lên 4 lần mỗi năm."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian gió mùa, công tác bảo trì sẽ được thực hiện 2 tháng một lần nhằm nạo vét bùn đất, bảo đảm khả năng tiêu thoát nước tối đa."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, DBKL sẽ cải tạo các cửa thu nước mưa dọc đường nhằm nâng cao hiệu quả dẫn nước vào hệ thống thoát nước đô thị, đồng thời triển khai các máy bơm công suất 180 mã lực tại 10 khu vực trũng thấp để bơm lượng nước dư thừa ra sông."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Fadlun, DBKL đã hoàn thành 9 hồ điều tiết nước mưa tại chỗ, đang xây dựng thêm 6 hồ và dự kiến triển khai 6 hồ khác trong năm 2027. Chính quyền thành phố cũng đang giám sát hơn 65 hồ điều tiết do khu vực tư nhân xây dựng và đã hoàn thành tuyến tường chắn lũ dài 1,3 km."
+    },
+    {
+     "t": "p",
+     "text": "Mô hình \"thành phố bọt biển\" là một triết lý và phương án quy hoạch đô thị tiên tiến, trong đó toàn bộ thành phố được thiết kế để hoạt động linh hoạt như một miếng bọt biển khổng lồ: khi có mưa lớn, đô thị không tìm cách đẩy hết nước đi thật nhanh qua hệ thống cống cứng mà thay vào đó sẽ hấp thụ, lưu trữ, thẩm thấu, làm sạch và tái sử dụng nguồn nước mưa ngay tại chỗ./."
+    },
+    {
+     "t": "h",
+     "text": "Thái Lan: Bangkok ngập lụt, tiếp tục cắt giảm các chuyến bay"
+    },
+    {
+     "t": "p",
+     "text": "Giám đốc điều hành Thai Airways Chai Eamsiri cho biết hãng dự kiến cắt giảm khoảng 30 chuyến bay, tương đương 30% số chuyến bay khởi hành từ Bangkok theo kế hoạch trong ngày 29/9."
+    }
+   ]
+  },
+  {
+   "id": "b38880bddb29",
+   "order": 20,
+   "slug": "dang-sau-nhung-buc-anh-doi-thuong-binh-di",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Đằng sau những bức ảnh đời thường bình dị",
+   "sapo": "Một vệt nắng trên tường, chiếc bóng bên hiên nhà hay hình ảnh phản chiếu trên mặt hồ có thể trở thành chất liệu nhiếp ảnh khi người cầm máy nhìn thấy vẻ đẹp mà người khác dễ bỏ qua.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/dang-sau-nhung-buc-anh-doi-thuong-binh-di-18526111820453112.htm",
+   "published": "2026-11-19T01:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 977,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-20/b38880bddb29-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-20/b38880bddb29-0.jpg",
+     "caption": "Một tác phẩm của nhà nhiếp ảnh Tùng Sơn Lâm được giới trẻ yêu thích",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-11-20/b38880bddb29-1.jpg",
+     "caption": "Tác phẩm Sang thu của Trâm Anh trong triển lãm Thiên Di",
+     "w": 1024,
+     "h": 1684
+    },
+    {
+     "src": "img/2026-11-20/b38880bddb29-2.jpg",
+     "caption": "Chân dung tác giả trẻ Trâm Anh",
+     "w": 1024,
+     "h": 1542
+    },
+    {
+     "src": "img/2026-11-20/b38880bddb29-3.jpg",
+     "caption": "Chân dung nhiếp ảnh gia Tùng  Sơn Lâm",
+     "w": 1024,
+     "h": 1536
+    },
+    {
+     "src": "img/2026-11-20/b38880bddb29-4.jpg",
+     "caption": "Chân dung nhà nghiên cứu nhiếp ảnh Tuấn Ngọc",
+     "w": 1024,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong triển lãm Thiên Di (TP.HCM), tay máy Trâm Anh cho thấy đã tìm kiếm sự rung động từ những điều bình dị, còn Tùng Xuân Lâm, người có nhiều năm thực hành nhiếp ảnh đường phố, quan tâm đến khả năng gợi mở của mỗi khuôn hình."
+    },
+    {
+     "t": "p",
+     "text": "Thanh Niên đã trò chuyện với các nhà nhiếp ảnh trẻ quanh chủ đề: khi mạng xã hội liên tục đòi hỏi hình ảnh mới lạ, đẹp mắt và thu hút, điều gì khiến một khoảnh khắc bình thường trở nên đáng lưu giữ?"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Nhìn thấy điều người khác dễ bỏ qua"
+    },
+    {
+     "t": "p",
+     "text": "Xin hỏi Trâm Anh (ảnh), điều gì khiến chị dừng lại trước một vệt nắng hay chiếc bóng mà người khác có thể đi ngang mà không chú ý?"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tôi luôn trân quý những điều rất đỗi bình thường của cuộc sống, từ tiếng chim hót, hương hoa sữa trên phố đến những chiếc lá rơi cuối thu. Sau những trải nghiệm được mất, vui buồn, tôi càng nhận ra sự hiện diện là quý giá. Mỗi sự vật hay con người đều có một khoảnh khắc độc bản, duy nhất. Với tôi, nắng là chất xúc tác giúp nhìn thấy những điều mới mẻ ấy. Nắng tạo nên dải lụa trên tường nhà hàng xóm, những vệt song song trong con hẻm nhỏ hay hình ảnh căn nhà phản chiếu trên mặt hồ lăn tăn. Những cảnh vật quen thuộc bỗng hiện ra theo một cách khác."
+    },
+    {
+     "t": "p",
+     "text": "Chị thường chụp bằng điện thoại và yêu thích nhiếp ảnh trắng đen. Đây là lựa chọn thẩm mỹ hay còn là cách chị diễn đạt những trải nghiệm riêng?"
+    },
+    {
+     "t": "p",
+     "text": "Tôi thích sự tối giản, và nhiếp ảnh trắng đen đã giúp tôi làm điều đó một cách trọn vẹn. Tôi bắt đầu chụp ảnh trắng đen nhiều nhất trong khoảng hơn 1 năm trở lại đây, nó thực sự là tất cả những giãi bày, những điều tôi chưa nói về những nỗi niềm, những trải nghiệm những nghĩ suy của mình về cuộc sống, về tình yêu, một cuộc đối thoại thật sự."
+    },
+    {
+     "t": "p",
+     "text": "Trên mạng xã hội thì hình ảnh đẹp, lạ dễ gây chú ý. Chị có chịu áp lực phải tạo ra những tấm ảnh như vậy?"
+    },
+    {
+     "t": "p",
+     "text": "Chưa bao giờ sự khác lạ hay khả năng gây chú ý là mục đích đầu tiên của tôi. Tôi yêu sự giản đơn, chân thật và tự nhiên. Với tôi, nghệ thuật gắn liền với tự do: tự do cảm nhận, tự do đặt tên và tự do tìm thấy câu chuyện của riêng mình."
+    },
+    {
+     "t": "h",
+     "text": "Từ một khoảnh khắc đến không gian suy tưởng"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nếu Trâm Anh bắt đầu từ sự rung động trước những điều bình dị, tay máy Tùng Xuân Lâm ( ảnh ) đặt trọng tâm vào cách một khung hình được lựa chọn và kiến tạo ý nghĩa."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh, điều gì khiến một bức ảnh vượt khỏi việc ghi lại sự việc để trở thành tác phẩm có sức gợi?"
+    },
+    {
+     "t": "p",
+     "text": "Bản chất của nhiếp ảnh là hành vi lựa chọn: người cầm máy tách một khoảnh khắc khỏi dòng chảy liên tục của thực tại. Nhưng lát cắt ấy tự thân chưa hoàn tất ý nghĩa. Ý nghĩa được hình thành khi người xem quan sát, chiêm nghiệm và đưa vào đó ký ức , trải nghiệm, tri thức của chính mình. Tôi quan tâm đến khả năng tạo ra một cấu trúc mở, để lại những khoảng trống hữu ý cho người xem tự lấp đầy. Đó có thể là không gian âm, mảng tối che khuất chi tiết, chuyển động nhòe mờ hay những yếu tố thị giác được giản lược."
+    },
+    {
+     "t": "p",
+     "text": "Điện thoại thông minh và mạng xã hội đang mở rộng cơ hội sáng tác, nhưng cũng tạo ra áp lực tương tác. Người làm nhiếp ảnh có thể giữ được cách nhìn độc lập như thế nào?"
+    },
+    {
+     "t": "p",
+     "text": "Sự phổ biến của thiết bị ghi hình giúp nhiếp ảnh gia và công chúng tiếp cận lượng hình ảnh lớn, giao lưu và học hỏi dễ dàng hơn. Nhưng trước một biển hình ảnh, con người cũng dễ chai sạn, bị cuốn vào lối mòn của thuật toán và áp lực phải đăng tải thường xuyên."
+    },
+    {
+     "t": "p",
+     "text": "Theo tôi, những dự án dài hơi là một cách để giữ hướng đi riêng. Một bức ảnh hay bộ ảnh có thể bị sao chép, nhưng hành trình sáng tác qua nhiều năm, cùng những va chạm và trải nghiệm cá nhân, tạo nên bản sắc khó bắt chước. Sách ảnh và triển lãm cũng đem lại không gian để tác phẩm được nhìn nhận như một chỉnh thể, thay vì cạnh tranh sự chú ý với vô số nội dung trên bảng tin."
+    },
+    {
+     "t": "p",
+     "text": "Khi hình ảnh dần xa rời thực tại"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Theo nhà nghiên cứu nhiếp ảnh Tuấn Ngọc ( ảnh ), mạng xã hội đang tác động ngược đến cách con người trải nghiệm đời sống. Một món ăn đôi khi được lựa chọn vì vẻ ngoài bắt mắt; chuyến đi hay hoạt động thường ngày cũng có thể được định hình bởi khả năng tạo ra hình ảnh để chia sẻ. Khi hình ảnh bị chỉnh sửa, sắp đặt theo những tiêu chuẩn thẩm mỹ có sẵn, khoảng cách giữa thế giới trực tuyến và thực tại ngày càng lớn."
+    },
+    {
+     "t": "p",
+     "text": "Khi công chúng đã quen với những hình ảnh được tạo dựng để trở nên hoàn hảo, những gì chân thực đôi khi lại trở thành điều mới mẻ. Tuy nhiên, nhà nghiên cứu Tuấn Ngọc cho rằng không nên vội xem việc một tác giả chọn những chi tiết bình dị là biểu hiện của một xu hướng văn hóa chung, mà điều quan trọng là người sáng tác hiểu rõ lý do đằng sau lựa chọn của mình."
+    }
+   ]
+  }
+ ]
+}

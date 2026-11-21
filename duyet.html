@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Duyệt số báo — LEVEL UP</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="icons/icon.svg">
+<style>
+  :root { --bg:#F6F4EE; --paper:#fff; --ink:#23221F; --ink2:#6B675E; --line:#E4DFD3; --accent:#E0762B; --ok:#2F8F5B; --warn:#B7791F; --bad:#B23A3A; }
+  * { box-sizing:border-box } body { margin:0; font:15px/1.5 "Segoe UI", system-ui, sans-serif; background:var(--bg); color:var(--ink) }
+  .wrap { max-width:1100px; margin:0 auto; padding:16px 16px 120px }
+  h1 { font-size:1.4rem; margin:0 } .sub { color:var(--ink2); margin:4px 0 14px }
+  .notice { background:#FFF3D6; color:#6B4A00; border:1px solid #F1D48A; padding:10px 14px; border-radius:10px; margin:0 0 14px }
+  .notice.bad { background:#FBE3E3; color:#7A1F1F; border-color:#F0B5B5 }
+  .grid { display:grid; gap:14px; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)) }
+  .card { background:var(--paper); border:2px solid var(--line); border-radius:14px; overflow:hidden; display:flex; flex-direction:column; position:relative }
+  .card.sel { border-color:var(--accent); box-shadow:0 0 0 3px rgba(224,118,43,.18) }
+  .card.pub { border-color:var(--ok) }
+  .thumb { aspect-ratio:16/9; background:#eee center/cover no-repeat; display:grid; place-items:center; color:#999; font-size:.85rem }
+  .body { padding:12px 14px 10px; flex:1 }
+  .meta { display:flex; gap:8px; flex-wrap:wrap; align-items:center; font-size:.78rem; color:var(--ink2); margin-bottom:6px }
+  .badge { border-radius:999px; padding:2px 9px; font-weight:700; background:#EEE; color:#444 }
+  .badge.s9,.badge.s10 { background:#DDF3E4; color:#1E6B41 } .badge.s8 { background:#E6F3DD; color:#3B6B1E } .badge.s7,.badge.s6 { background:#FFF0CC; color:#7A5200 }
+  .badge.sec { background:#FDEBD3; color:#8A4A12 }
+  .badge.dich { background:#DCE9F8; color:#1B4B7A }
+  h3 { margin:0 0 6px; font-size:1.02rem; line-height:1.3 } .sapo { margin:0; color:var(--ink2); font-size:.9rem }
+  .reason { font-size:.8rem; color:#555; margin-top:8px; font-style:italic }
+  .actions { display:flex; gap:8px; padding:10px 14px 14px; border-top:1px solid var(--line); align-items:center }
+  button { font:inherit; cursor:pointer; border-radius:999px; border:2px solid var(--line); background:#fff; padding:8px 14px; font-weight:700 }
+  button.pick { border-color:var(--accent); color:var(--accent) } .sel button.pick { background:var(--accent); color:#fff }
+  button.ghost { border-color:transparent; color:var(--ink2); font-weight:600 }
+  .num { position:absolute; top:10px; left:10px; width:32px; height:32px; border-radius:50%; background:var(--accent); color:#fff; display:none; place-items:center; font-weight:800 }
+  .sel .num { display:grid }
+  .full { display:none; padding:0 14px 14px; border-top:1px dashed var(--line) }
+  .card.open .full { display:block }
+  .full p { margin:.6em 0 } .full h4 { margin:1em 0 .3em; font-size:1rem } .full figure { margin:12px 0 } .full img { width:100%; border-radius:10px } .full figcaption { font-size:.82rem; color:var(--ink2); margin-top:4px }
+  .full .src { font-size:.8rem; color:var(--ink2) } .full a { color:var(--accent) }
+  .bar { position:fixed; left:0; right:0; bottom:0; background:#fff; border-top:2px solid var(--line); padding:12px 16px; display:flex; gap:12px; align-items:center; justify-content:center; flex-wrap:wrap; box-shadow:0 -6px 24px rgba(0,0,0,.06) }
+  .bar .count { font-weight:800 } .bar .hint { color:var(--ink2); font-size:.85rem }
+  button.primary { background:var(--ok); border-color:var(--ok); color:#fff; padding:12px 22px; font-size:1rem } button.primary[disabled] { opacity:.5; cursor:default }
+  details { margin-top:26px; background:#fff; border:1px solid var(--line); border-radius:12px; padding:10px 14px }
+  summary { cursor:pointer; font-weight:700 } details table { width:100%; font-size:.85rem; border-collapse:collapse; margin-top:8px } details td { padding:5px 8px; border-top:1px solid var(--line); vertical-align:top } details a { color:var(--accent) }
+  .toolbar { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:12px }
+  select { font:inherit; padding:6px 10px; border-radius:8px; border:1px solid var(--line) }
+  .result { margin-top:10px; font-weight:700 }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Duyệt số báo <span id="day"></span></h1>
+  <div class="sub">Chọn theo thứ tự muốn hiện. Bấm "Xem toàn bài" để đọc nguyên văn trước khi duyệt. Con chỉ thấy bài sau khi bạn bấm Xuất bản.</div>
+  <div class="toolbar">
+    <label>Ngày <select id="days"></select></label>
+    <button class="ghost" id="rerun">↻ Lấy tin mới</button>
+    <a class="ghost" id="openapp" href="./" target="_blank" style="padding:8px 14px;font-weight:600;color:var(--ink2)">Mở app của con ↗</a>
+  </div>
+  <div id="notice"></div>
+  <div class="grid" id="grid"></div>
+  <details id="rej"><summary>Bài bị loại hôm nay (để tinh chỉnh bộ lọc)</summary><div id="rejbody"></div></details>
+</div>
+<div class="bar">
+  <span class="count" id="count">Đã chọn 0</span>
+  <span class="hint" id="hint"></span>
+  <button class="primary" id="publish" disabled>Xuất bản lên báo của con</button>
+  <span class="result" id="result"></span>
+</div>
+<script>
+(() => {
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  let data = null, day = null, order = [];
+
+  async function loadDays() {
+    const r = await fetch("/api/days"); const j = await r.json();
+    const sel = $("#days"); sel.innerHTML = j.days.map(d => `<option>${d}</option>`).join("");
+    sel.onchange = () => load(sel.value);
+    return j.days[0];
+  }
+  async function load(d) {
+    day = d; order = [];
+    const r = await fetch(`/api/candidates?date=${d}`); const j = await r.json();
+    $("#day").textContent = d;
+    if (j.error) { $("#notice").innerHTML = `<div class="notice bad">${esc(j.error)}</div>`; $("#grid").innerHTML = ""; return; }
+    data = j;
+    const n = [];
+    if (!j.ai_scored) n.push("AI chưa chấm điểm (chưa đăng nhập Claude Code, chạy <code>claude login</code>). Danh sách này chỉ qua lọc nguồn và từ khóa, bạn cần đọc kỹ hơn.");
+    if (j.published_ids?.length) { n.push(`Ngày này đã xuất bản ${j.published_ids.length} bài (viền xanh). Xuất bản lại sẽ thay toàn bộ.`); order = j.published_ids.filter(id => j.candidates.some(c => c.id === id)); }
+    $("#notice").innerHTML = n.map(x => `<div class="notice">${x}</div>`).join("");
+    $("#hint").textContent = `Mục tiêu ${j.target} bài · ${j.candidates.length} ứng viên`;
+    render();
+    renderRejected();
+  }
+  function img(c, i) { const im = c.images?.[i]; return im ? `/cand-img/${day}/${im.file}` : null; }
+  function render() {
+    $("#grid").innerHTML = data.candidates.map(c => {
+      const lead = img(c, c.lead_image ?? 0);
+      const idx = order.indexOf(c.id);
+      const sc = c.score != null ? `<span class="badge s${c.score}">${c.score}/10</span>` : `<span class="badge">chưa chấm</span>`;
+      const sec = data.sections.find(s => s.id === (c.section || c.hint_section));
+      return `<div class="card ${idx >= 0 ? "sel" : ""} ${data.published_ids?.includes(c.id) ? "pub" : ""}" data-id="${c.id}">
+        <div class="num">${idx + 1}</div>
+        <div class="thumb" style="${lead ? `background-image:url('${lead}')` : ""}">${lead ? "" : "không có ảnh"}</div>
+        <div class="body">
+          <div class="meta">${sc}<span class="badge sec">${sec ? sec.emoji + " " + esc(sec.name) : "?"}</span><span>${esc(c.source_name)}</span>${c.translated ? '<span class="badge dich">DỊCH</span>' : ""}<span>${c.images?.length || 0} ảnh · ${c.words} chữ</span></div>
+          <h3>${esc(c.title)}</h3>
+          <p class="sapo">${esc(c.sapo)}</p>
+          ${c.reason ? `<div class="reason">AI tiêu đề: ${esc(c.reason)}${c.flags?.length ? " · " + esc(c.flags.join(", ")) : ""}</div>` : ""}
+          ${c.translated && c.title_original ? `<div class="reason">Gốc: ${esc(c.title_original)}</div>` : ""}
+          ${c.verified ? `<div class="reason">AI đọc bài (vòng 2): ${esc(c.reason2 || "")}${c.score1 != null && c.score2 != null && c.score1 !== c.score2 ? ` · điểm ${c.score1} → ${c.score2}` : ""}</div>` : ""}
+        </div>
+        <div class="actions">
+          <button class="pick">${idx >= 0 ? "✓ Đã chọn" : "Chọn"}</button>
+          <button class="ghost toggle">Xem toàn bài</button>
+        </div>
+        <div class="full"></div>
+      </div>`;
+    }).join("");
+    $("#count").textContent = `Đã chọn ${order.length}`;
+    $("#publish").disabled = order.length === 0;
+    document.querySelectorAll(".card").forEach(card => {
+      const id = card.dataset.id;
+      card.querySelector(".pick").onclick = () => { const i = order.indexOf(id); if (i >= 0) order.splice(i, 1); else order.push(id); render(); };
+      card.querySelector(".toggle").onclick = () => {
+        card.classList.toggle("open");
+        const f = card.querySelector(".full");
+        if (card.classList.contains("open") && !f.innerHTML) f.innerHTML = full(data.candidates.find(c => c.id === id));
+      };
+    });
+  }
+  function full(c) {
+    const parts = c.blocks.map(b => {
+      if (b.t === "img") { const im = c.images[b.i]; return im ? `<figure><img src="/cand-img/${day}/${im.file}" alt=""><figcaption>${esc(im.caption)}</figcaption></figure>` : ""; }
+      if (b.t === "h") return `<h4>${esc(b.text)}</h4>`;
+      if (b.t === "q") return `<blockquote>${esc(b.text)}</blockquote>`;
+      if (b.t === "li") return `<p>• ${esc(b.text)}</p>`;
+      return `<p>${esc(b.text)}</p>`;
+    });
+    return `<p class="src">${esc(c.author || "")} · <a href="${esc(c.url)}" target="_blank" rel="noopener">Xem trên ${esc(c.source_name)} ↗</a></p>` + parts.join("");
+  }
+  function renderRejected() {
+    const rows = [
+      ...(data.rejected_rules || []).map(r => [`Từ khóa: ${(r.why || []).join(", ")}`, r]),
+      ...(data.rejected_score || []).map(r => [`AI ${r.score}/10: ${r.why || ""}`, r]),
+      ...(data.extract_failed || []).map(r => [`Không tách được: ${r.why || ""}`, r]),
+    ];
+    $("#rej").querySelector("summary").textContent = `Bài bị loại hôm nay: ${rows.length} (để tinh chỉnh bộ lọc)`;
+    $("#rejbody").innerHTML = rows.length ? `<table>${rows.map(([why, r]) => `<tr><td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a><br><small>${esc(r.source || "")}</small></td><td>${esc(why)}</td></tr>`).join("")}</table>` : "<p>Không có.</p>";
+  }
+  $("#publish").onclick = async () => {
+    const btn = $("#publish"); btn.disabled = true; $("#result").textContent = "Đang xuất bản và đẩy lên GitHub…";
+    try {
+      const r = await fetch("/api/publish", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ date: day, ids: order }) });
+      const j = await r.json();
+      $("#result").innerHTML = j.error ? `<span style="color:var(--bad)">${esc(j.error)}</span>` : `<span style="color:var(--ok)">✓ ${j.count} bài · ${esc(j.message)}</span> <a href="${data.site_url}" target="_blank">Mở báo ↗</a>`;
+      if (!j.error) load(day);
+    } catch (e) { $("#result").textContent = "Lỗi: " + e; }
+    btn.disabled = false;
+  };
+  $("#rerun").onclick = async () => { if (!confirm("Lấy lại tin mới cho ngày hôm nay? Mất 2–3 phút.")) return; const r = await fetch("/api/run", { method: "POST", body: "{}" }); const j = await r.json(); $("#notice").innerHTML = `<div class="notice">${esc(j.message)}</div>`; };
+  loadDays().then(d => d && load(d));
+})();
+</script>
+</body>
+</html>
