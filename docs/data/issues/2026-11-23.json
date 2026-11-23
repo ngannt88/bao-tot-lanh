@@ -1,0 +1,3470 @@
+{
+ "date": "2026-11-23",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-23T07:01:18+07:00",
+ "sections": [
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  }
+ ],
+ "articles": [
+  {
+   "id": "0376a8cfc4de",
+   "order": 1,
+   "slug": "tau-tham-do-nhat-ban-chau-au-vao-quy-dao-sao-thuy",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tàu thăm dò Nhật Bản-châu Âu vào quỹ đạo sao Thủy",
+   "sapo": "Sau hành trình hơn 10 tỷ km trong không gian, tàu thăm dò BepiColombo đã vào quỹ đạo sao Thủy, mở đầu sứ mệnh nghiên cứu cấu trúc, bề mặt và từ trường của hành tinh gần Mặt Trời nhất.",
+   "author": "Phương Hoa",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/tau-tham-do-nhat-ban-chau-au-vao-quy-dao-sao-thuy-post1149991.vnp",
+   "published": "2026-11-22T11:17:17+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 436,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/0376a8cfc4de-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tàu thăm dò BepiColombo do Nhật Bản và châu Âu phối hợp phát triển đã đi vào quỹ đạo sao Thủy sau hành trình kéo dài 8 năm trong không gian."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 22/11, Cơ quan Vũ trụ châu Âu (ESA) xác nhận tàu đã hoàn thành thao tác đưa vào quỹ đạo, mở đầu giai đoạn nghiên cứu chi tiết hành tinh nhỏ nhất và gần Mặt Trời nhất trong Hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Theo ESA, BepiColombo kích hoạt các động cơ đẩy trong hơn 30 phút để thực hiện thao tác này và hiện bắt đầu phân tích dữ liệu thu thập được."
+    },
+    {
+     "t": "p",
+     "text": "Được phóng năm 2018, tàu có khối lượng khoảng 4 tấn, đã di chuyển hơn 10 tỷ km và thực hiện các chuyến bay hỗ trợ hấp dẫn qua 9 thiên thể trên hành trình tới sao Thủy."
+    },
+    {
+     "t": "p",
+     "text": "Dự kiến, ngày 9 và 10/12 tới, hai thiết bị thăm dò của châu Âu và Nhật Bản sẽ tách khỏi nhau để đi vào các quỹ đạo riêng."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị của châu Âu sẽ khảo sát bề mặt hành tinh ở độ cao khoảng 480km, trong khi thiết bị của Nhật Bản hoạt động trên quỹ đạo hình elip, có lúc cách sao Thủy tới 11.000 km, nhằm nghiên cứu từ trường."
+    },
+    {
+     "t": "p",
+     "text": "Sao Thủy là một trong những hành tinh ít được khám phá nhất trong Hệ Mặt Trời, với nhiệt độ bề mặt dao động từ âm 180 độ C đến 450 độ C và thường xuyên chịu bức xạ mạnh từ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Giới khoa học kỳ vọng dữ liệu từ BepiColombo sẽ giúp làm sáng tỏ cấu trúc, đặc điểm bề mặt và từ trường của hành tinh, qua đó mở rộng hiểu biết về quá trình hình thành và tiến hóa của Hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, năm 1974, tàu Mariner 10 của Cơ quan Hàng không và Vũ trụ Mỹ (NASA) trở thành thiết bị đầu tiên bay qua sao Thủy./."
+    },
+    {
+     "t": "h",
+     "text": "Hé lộ quá trình hình thành các chòm sao nguyên thủy"
+    },
+    {
+     "t": "p",
+     "text": "Sau nhiều năm nghiên cứu, các nhà khoa học cuối cùng đã giải đáp được bí ẩn về toàn bộ quá trình hình thành và phát triển không ngừng của những chùm tiền sao lớn."
+    },
+    {
+     "t": "h",
+     "text": "NASA thử nghiệm thành công kỹ thuật đưa hai tàu thăm dò tới Sao Hỏa"
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần đầu tiên NASA sử dụng kỹ thuật bay qua Trái Đất có hỗ trợ động cơ để đưa tàu vũ trụ tới Sao Hỏa. Đáng chú ý, cơ quan này đã thực hiện thành công hai thao tác như vậy chỉ trong hai ngày."
+    }
+   ]
+  },
+  {
+   "id": "e00d59653861",
+   "order": 2,
+   "slug": "ky-si-nguoi-k-ho-phong-ngua-vun-vut-duoi-chan-nui-langbiang",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "\"Kỵ sĩ\" người K'ho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt",
+   "sapo": "(Dân trí) - Hàng chục \"kỵ sĩ\" người đồng bào K'ho điều khiển ngựa phóng vun vút trong cuộc đua dưới chân núi Langbiang ở Đà Lạt, làm người xem thích thú.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/ky-si-nguoi-kho-phong-ngua-vun-vut-duoi-chan-nui-langbiang-da-lat-20261121182017338.htm",
+   "published": "2026-11-22T02:41:41+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 437,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/e00d59653861-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-0.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-1.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 2",
+     "w": 1280,
+     "h": 850
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-2.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 3",
+     "w": 1280,
+     "h": 816
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-3.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 4",
+     "w": 1280,
+     "h": 866
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-4.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 6",
+     "w": 1280,
+     "h": 864
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-5.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 7",
+     "w": 1280,
+     "h": 856
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-6.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 8",
+     "w": 1280,
+     "h": 894
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-7.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 9",
+     "w": 1280,
+     "h": 848
+    },
+    {
+     "src": "img/2026-11-23/e00d59653861-8.jpg",
+     "caption": "Kỵ sĩ người Kho phóng ngựa vun vút dưới chân núi Langbiang Đà Lạt - 10",
+     "w": 1280,
+     "h": 837
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giải đua ngựa không yên, một nét văn hóa độc đáo của đồng bào K'ho, đã chính thức khai mạc tại bãi Tiên Sa, cạnh hồ Đan Kia - Suối Vàng, phường Langbiang. Sự kiện này là một trong những hoạt động hưởng ứng Festival Hoa Đà Lạt lần thứ XI, thu hút đông đảo người dân và du khách."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Giải đua năm nay quy tụ 32 nài ngựa là những thanh thiếu niên người dân tộc K'ho, đến từ vùng Langbiang - Đà Lạt. Đây là bộ môn thể thao truyền thống, gắn liền với đời sống văn hóa của cộng đồng nơi đây."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Những chú ngựa tham gia cuộc đua chủ yếu là giống ngựa cỏ và ngựa lai, vốn là những người bạn đồng hành thân thiết trong sản xuất nông nghiệp của bà con K'ho từ bao đời nay."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Nài ngựa K'Trước chia sẻ, dù ngày nay máy móc đã thay thế sức ngựa trong nhiều công việc, nhưng người K'ho vẫn duy trì việc nuôi ngựa, xem đây là cách để gìn giữ nét văn hóa truyền thống của dân tộc mình."
+    },
+    {
+     "t": "p",
+     "text": "Trong số các \"kỵ sĩ\" tham gia, Da Gout Yơn, 13 tuổi, đến từ phường Langbiang, là một trong những nài ngựa trẻ nhất. Em cho biết đã làm quen với bộ môn này từ năm 9 tuổi và rất tự tin cùng chú ngựa Rambo của mình chinh phục giải đấu."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Điểm đặc biệt của giải đua ngựa không yên là các \"kỵ sĩ\" chỉ sử dụng sợi dây cương và một chiếc roi để điều khiển ngựa, thể hiện sự khéo léo và gắn kết giữa người và ngựa."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Cuộc đua diễn ra trong không khí sôi nổi, mang đến những màn trình diễn đầy kịch tính và cảm xúc cho khán giả."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Dưới những rặng thông già đặc trưng của Đà Lạt, các \"kỵ sĩ\" K'ho đã thể hiện tài năng điều khiển ngựa điêu luyện, tạo nên những khoảnh khắc ấn tượng."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ông Cil Poh, Phó Chủ tịch UBND phường Lang Biang - Đà Lạt, nhấn mạnh rằng hoạt động đua ngựa không yên không chỉ là một sự kiện thể thao mà còn là cơ hội để quảng bá văn hóa, du lịch đặc sắc của địa phương đến với du khách."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Chị Khánh Ly, một du khách đến từ TPHCM, bày tỏ sự hào hứng khi được chứng kiến giải đua. Chị cho biết, bản thân là người yêu thích bộ môn đua ngựa và đã cùng câu lạc bộ của mình đến Đà Lạt để cổ vũ cho sự kiện độc đáo này."
+    }
+   ]
+  },
+  {
+   "id": "9a377ec6ded3",
+   "order": 3,
+   "slug": "10-di-san-unesco-khac-la-tren-the-gioi",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "10 di sản UNESCO khác lạ trên thế giới",
+   "sapo": "Từ thành phố đá giữa đầm phá ở Micronesia đến khu rừng đá ở Trung Quốc hay thung lũng hóa thạch cá voi tại Ai Cập, nhiều di sản UNESCO gây ấn tượng bởi cảnh quan và lịch sử khác thường.",
+   "author": "Anh Minh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/10-di-san-unesco-khac-la-tren-the-gioi-5147214.html",
+   "published": "2026-11-22T01:11:01+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 2335,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-1.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-2.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 750
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 767
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 767
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-7.jpg",
+     "caption": "",
+     "w": 1000,
+     "h": 665
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 750
+    },
+    {
+     "src": "img/2026-11-23/9a377ec6ded3-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "10 di sản UNESCO khác lạ trên thế giới"
+    },
+    {
+     "t": "p",
+     "text": "Từ thành phố đá giữa đầm phá ở Micronesia đến khu rừng đá ở Trung Quốc hay thung lũng hóa thạch cá voi tại Ai Cập, nhiều di sản UNESCO gây ấn tượng bởi cảnh quan và lịch sử khác thường."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có cung điện, đền đài hay danh thắng nổi tiếng, danh sách Di sản thế giới của UNESCO còn có nhiều địa điểm độc đáo, từ những công trình nhân tạo giữa biển đến sa mạc lưu giữ hóa thạch hàng chục triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Dưới đây là 10 di sản có những đặc điểm khác biệt, như đến từ hành tinh khác hoặc có lịch sử bí ẩn, thu hút du khách và giới nghiên cứu, theo xếp hạng của tờ báo có tuổi đời 130 tuổi ở Anh Daily Mail."
+    },
+    {
+     "t": "p",
+     "text": "1. Head-Smashed-In Buffalo Jump, Canada"
+    },
+    {
+     "t": "p",
+     "text": "Được Unesco công nhận Di sản Văn hóa Thế giới năm 1981"
+    },
+    {
+     "t": "p",
+     "text": "Head-Smashed-In Buffalo Jump là địa điểm săn bắt bò rừng cổ xưa của người bản địa Canada, các bộ lạc từng dồn đàn bò rừng lao qua vách đá, sau đó thu gom xác động vật dưới chân vực để lấy thịt và các bộ phận phục vụ sinh hoạt. Đây là một trong những địa điểm săn bò rừng được bảo tồn tốt nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Tên gọi Head-Smashed-In bắt nguồn từ truyền thuyết về một người đàn ông bị đàn bò rừng giẫm chết khi đứng xem cuộc săn. Theo UNESCO, những lớp xương bò rừng gần như nguyên vẹn tại đây phản ánh gần 6.000 năm hoạt động săn bắt của người bản địa.. Ảnh: Road Trip Alberta"
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có cung điện, đền đài hay danh thắng nổi tiếng, danh sách Di sản thế giới của UNESCO còn có nhiều địa điểm độc đáo, từ những công trình nhân tạo giữa biển đến sa mạc lưu giữ hóa thạch hàng chục triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "Dưới đây là 10 di sản có những đặc điểm khác biệt, như đến từ hành tinh khác hoặc có lịch sử bí ẩn, thu hút du khách và giới nghiên cứu, theo xếp hạng của tờ báo có tuổi đời 130 tuổi ở Anh Daily Mail."
+    },
+    {
+     "t": "p",
+     "text": "1. Head-Smashed-In Buffalo Jump, Canada"
+    },
+    {
+     "t": "p",
+     "text": "Được Unesco công nhận Di sản Văn hóa Thế giới năm 1981"
+    },
+    {
+     "t": "p",
+     "text": "Head-Smashed-In Buffalo Jump là địa điểm săn bắt bò rừng cổ xưa của người bản địa Canada, các bộ lạc từng dồn đàn bò rừng lao qua vách đá, sau đó thu gom xác động vật dưới chân vực để lấy thịt và các bộ phận phục vụ sinh hoạt. Đây là một trong những địa điểm săn bò rừng được bảo tồn tốt nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Tên gọi Head-Smashed-In bắt nguồn từ truyền thuyết về một người đàn ông bị đàn bò rừng giẫm chết khi đứng xem cuộc săn. Theo UNESCO, những lớp xương bò rừng gần như nguyên vẹn tại đây phản ánh gần 6.000 năm hoạt động săn bắt của người bản địa.. Ảnh: Road Trip Alberta"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "2. Thành phố đá bí ẩn giữa Thái Bình Dương, Micronesia"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Văn hóa Thế giới năm 2016"
+    },
+    {
+     "t": "p",
+     "text": "Nan Madol là quần thể kiến trúc đá cổ nằm trên một rạn san hô ngoài khơi đảo Pohnpei, thuộc quốc đảo Micronesia. Công trình gồm hơn 90 đảo nhân tạo, được kết nối bằng hệ thống kênh đào thủy triều, nên thường được ví như \"Venice của Thái Bình Dương\"."
+    },
+    {
+     "t": "p",
+     "text": "Theo UNESCO, quần thể này được xây dựng chủ yếu trong giai đoạn 1200-1500, từng là trung tâm nghi lễ của triều đại Saudeleur. Tên Nan Madol có nghĩa là \"những khoảng không ở giữa\", ám chỉ mạng lưới kênh đào đan xen giữa các đảo."
+    },
+    {
+     "t": "p",
+     "text": "Tổng khối lượng vật liệu xây dựng tại đây ước tính khoảng 750.000 tấn. Đến nay, Nan Madol vẫn thu hút giới khảo cổ bởi quy mô kiến trúc đồ sộ và những câu hỏi về cách cư dân cổ đại khai thác, vận chuyển các khối đá bazan từ những khu vực khác trên đảo. Ảnh: NTU beats"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "3. Khu nhà ở Berlin, Đức"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Văn hóa Thế giới năm 2008 (6 khu nhà) và mở rộng (7 khu nhà) vào năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Được xây dựng trong giai đoạn 1910-1933, các công trình mang dấu ấn kiến trúc hiện đại đầu thế kỷ XX, với thiết kế mái bằng, cách bố trí không gian và giải pháp xây dựng mới."
+    },
+    {
+     "t": "p",
+     "text": "Theo Unesco, 7 khu nhà do các kiến trúc sư hàng đầu của trường phái Hiện đại Đức thiết kế, hướng đến cải thiện điều kiện sống và vệ sinh cho cư dân."
+    },
+    {
+     "t": "p",
+     "text": "Quần thể là minh chứng cho phong trào cải cách nhà ở, góp phần định hình mô hình nhà ở xã hội tại Đức và nhiều quốc gia khác. Ảnh: Grey space"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "4. Rừng đá Thạch Lâm, Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Là một phần của quần thể Di sản Thiên nhiên Nam Trung Quốc ( South China Karst)), được công nhận năm 2007,"
+    },
+    {
+     "t": "p",
+     "text": "Rừng đá Thạch Lâm nằm tại tỉnh Vân Nam, nổi bật với hàng nghìn cột đá vôi nhọn, cao 20-50 cm, trông như một khu rừng hóa đá. Địa hình nơi đây phát triển qua khoảng 270 triệu năm, từ những lớp trầm tích dưới biển cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "Thạch Lâm gắn liền với đời sống của cộng đồng người Sani thuộc dân tộc Yi, sinh sống tại đây hơn 2.000 năm. Nơi này được UNESCO công nhận là Công viên địa chất toàn cầu năm 2015. Ảnh: Wiki"
+    },
+    {
+     "t": "p",
+     "text": "4. Rừng đá Thạch Lâm, Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Là một phần của quần thể Di sản Thiên nhiên Nam Trung Quốc ( South China Karst)), được công nhận năm 2007,"
+    },
+    {
+     "t": "p",
+     "text": "Rừng đá Thạch Lâm nằm tại tỉnh Vân Nam, nổi bật với hàng nghìn cột đá vôi nhọn, cao 20-50 cm, trông như một khu rừng hóa đá. Địa hình nơi đây phát triển qua khoảng 270 triệu năm, từ những lớp trầm tích dưới biển cổ đại."
+    },
+    {
+     "t": "p",
+     "text": "Thạch Lâm gắn liền với đời sống của cộng đồng người Sani thuộc dân tộc Yi, sinh sống tại đây hơn 2.000 năm. Nơi này được UNESCO công nhận là Công viên địa chất toàn cầu năm 2015. Ảnh: Wiki"
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "5. Quần đảo Socotra, Yemen"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Thiên nhiên Thế giới năm 2008"
+    },
+    {
+     "t": "p",
+     "text": "Nằm ngoài khơi của vùng Sừng châu Phi, quần đảo Socotra nổi tiếng với hệ sinh thái độc đáo, được ví như \"Galápagos của Ấn Độ Dương\"."
+    },
+    {
+     "t": "p",
+     "text": "Nơi đây có 825 loài thực vật, trong đó 307 loài chỉ xuất hiện tại quần đảo. Nổi bật nhất là cây huyết rồng (ảnh) với tán hình chiếc ô và nhựa màu đỏ đặc trưng. Ngoài thảm thực vật kỳ lạ, Socotra còn có những bãi biển cát trắng, hang động đá vôi và hệ sinh vật biển phong phú. Ảnh: Outlook Travel Magazine"
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "6. Nhà máy Fagus, Đức"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận là Di sản Văn hóa Thế giới năm 2011"
+    },
+    {
+     "t": "p",
+     "text": "Nhà máy Fagus tại thành phố Alfeld là công trình tiêu biểu cho bước chuyển mình của kiến trúc công nghiệp đầu thế kỷ XX. Được thiết kế khoảng năm 1910 bởi kiến trúc sư Walter Gropius và Adolf Meyer, nhà máy nổi bật với những mảng kính lớn, khung chịu lực thanh mảnh và thiết kế hướng đến công năng, giúp tận dụng ánh sáng tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Công trình gồm 10 tòa nhà, phục vụ quá trình sản xuất khuôn giày và vẫn hoạt động đến nay. Fagus là dấu mốc quan trọng trong sự phát triển của kiến trúc hiện đại, đồng thời báo trước sự ra đời của trường phái Bauhaus, theo Unesco. Ảnh: Tripadvisor"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "7. Thung lũng Cá voi, Ai Cập"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận là Di sản Thiên nhiên Thế giới năm 2005"
+    },
+    {
+     "t": "p",
+     "text": "Nằm giữa sa mạc phía Tây của Ai Cập, cách thủ đô Cairo 150 km, Wadi Al-Hitan (Thung lũng Cá voi) là nơi những bộ xương hóa thạch của cá voi cổ đại dần lộ ra dưới lớp cát. Khu vực có khí hậu khô hạn, quanh năm hầu như không có mưa."
+    },
+    {
+     "t": "p",
+     "text": "Các hóa thạch tại đây có niên đại khoảng 40 triệu năm, cung cấp bằng chứng quan trọng về quá trình tiến hóa của cá voi từ động vật sống trên cạn thành loài thú thích nghi với môi trường biển. Wadi Al-Hitan lưu giữ nhiều bộ xương cá voi cổ thuộc nhóm Archaeoceti đã tuyệt chủng."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, khu vực được tổ chức như một bảo tàng ngoài trời, giúp du khách tìm hiểu về những sinh vật từng sinh sống tại vùng biển cổ đại. Ảnh: Wiki"
+    },
+    {
+     "t": "p",
+     "text": "7. Thung lũng Cá voi, Ai Cập"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận là Di sản Thiên nhiên Thế giới năm 2005"
+    },
+    {
+     "t": "p",
+     "text": "Nằm giữa sa mạc phía Tây của Ai Cập, cách thủ đô Cairo 150 km, Wadi Al-Hitan (Thung lũng Cá voi) là nơi những bộ xương hóa thạch của cá voi cổ đại dần lộ ra dưới lớp cát. Khu vực có khí hậu khô hạn, quanh năm hầu như không có mưa."
+    },
+    {
+     "t": "p",
+     "text": "Các hóa thạch tại đây có niên đại khoảng 40 triệu năm, cung cấp bằng chứng quan trọng về quá trình tiến hóa của cá voi từ động vật sống trên cạn thành loài thú thích nghi với môi trường biển. Wadi Al-Hitan lưu giữ nhiều bộ xương cá voi cổ thuộc nhóm Archaeoceti đã tuyệt chủng."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nay, khu vực được tổ chức như một bảo tàng ngoài trời, giúp du khách tìm hiểu về những sinh vật từng sinh sống tại vùng biển cổ đại. Ảnh: Wiki"
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "8. Pamukkale, Thổ Nhĩ Kỳ"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Thế giới hỗn hợp năm 1988"
+    },
+    {
+     "t": "p",
+     "text": "Pamukkale, nghĩa là \"lâu đài bông\" trong tiếng Thổ Nhĩ Kỳ, nổi tiếng với những tầng đá travertine (một loại đá vôi) trắng muốt được hình thành từ nguồn nước khoáng giàu canxi."
+    },
+    {
+     "t": "p",
+     "text": "Dòng nước nóng chảy qua sườn núi, để lại các hồ nước và bậc thềm khoáng chất có hình dạng độc đáo. Khu vực nằm tại tỉnh Denizli, phía tây nam Thổ Nhĩ Kỳ. Ngay phía trên những tầng đá trắng là tàn tích Hierapolis, thành phố suối khoáng được xây dựng vào cuối thế kỷ II trước Công nguyên. Nơi đây từng phát triển thành trung tâm nghỉ dưỡng và trị liệu nổi tiếng thời cổ đại."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "9. Biển cát Namib, Namibia"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Thiên nhiên Thế giới năm 2013"
+    },
+    {
+     "t": "p",
+     "text": "Nằm dọc bờ Đại Tây Dương của Namibia, Biển cát Namib là vùng sa mạc ven biển đặc biệt, nơi những cồn cát rộng lớn liên tục thay đổi hình dạng dưới tác động của gió và sương mù."
+    },
+    {
+     "t": "p",
+     "text": "Cát tại đây được vận chuyển từ sâu trong lục địa ra biển qua hệ thống sông ngòi, sau đó được dòng hải lưu và gió đưa trở lại đất liền, hình thành những cánh đồng cồn cát trải dài hàng nghìn km."
+    },
+    {
+     "t": "p",
+     "text": "Cảnh quan còn bao gồm đồng bằng sỏi, bãi ven biển, đồi đá, đầm phá và các dòng sông theo mùa. Đặc biệt, sương mù là nguồn cung cấp nước chủ yếu, giúp nhiều loài động vật không xương sống, bò sát và thú đặc hữu thích nghi với điều kiện khô hạn khắc nghiệt. Ảnh: IUGS"
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "10. Mỏ muối Hoàng gia Wieliczka & Bochnia, Ba Lan"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Văn hóa Thế giới năm 1978. Nằm gần thành phố Kraków, miền nam đất nước, mỏ muối Wieliczka là công trình khai thác muối có lịch sử hơn 700 năm. Hệ thống hầm mỏ trải dài khoảng 240 km, gồm chín tầng, với điểm sâu nhất cách mặt đất 327 m."
+    },
+    {
+     "t": "p",
+     "text": "Bên dưới lòng đất, những đường hầm và khoang khai thác cũ được cải tạo thành nhà nguyện, phòng trưng bày và không gian tham quan. Nổi bật trong số đó là nhà nguyện Thánh Kinga (ảnh), nơi có các bức tượng, phù điêu và vật trang trí được chạm khắc trực tiếp từ muối đá."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động khai thác muối đá tại Wieliczka dừng từ năm 1964 và kết thúc hoàn toàn vào năm 1996. Ngày nay, khu mỏ trở thành điểm du lịch nổi tiếng, với các tuyến tham quan giúp du khách khám phá hồ nước mặn, những căn phòng ngầm và dấu tích của ngành khai khoáng thời Trung cổ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2013, UNESCO mở rộng và đưa thêm mỏ muối Bochnia cùng lâu đài Saltworks ở Wieliczka vào, hình thành quần thể Di sản Mỏ muối Hoàng gia Wieliczka & Bochnia. Ảnh: World Heritage"
+    },
+    {
+     "t": "p",
+     "text": "10. Mỏ muối Hoàng gia Wieliczka & Bochnia, Ba Lan"
+    },
+    {
+     "t": "p",
+     "text": "Được công nhận Di sản Văn hóa Thế giới năm 1978. Nằm gần thành phố Kraków, miền nam đất nước, mỏ muối Wieliczka là công trình khai thác muối có lịch sử hơn 700 năm. Hệ thống hầm mỏ trải dài khoảng 240 km, gồm chín tầng, với điểm sâu nhất cách mặt đất 327 m."
+    },
+    {
+     "t": "p",
+     "text": "Bên dưới lòng đất, những đường hầm và khoang khai thác cũ được cải tạo thành nhà nguyện, phòng trưng bày và không gian tham quan. Nổi bật trong số đó là nhà nguyện Thánh Kinga (ảnh), nơi có các bức tượng, phù điêu và vật trang trí được chạm khắc trực tiếp từ muối đá."
+    },
+    {
+     "t": "p",
+     "text": "Hoạt động khai thác muối đá tại Wieliczka dừng từ năm 1964 và kết thúc hoàn toàn vào năm 1996. Ngày nay, khu mỏ trở thành điểm du lịch nổi tiếng, với các tuyến tham quan giúp du khách khám phá hồ nước mặn, những căn phòng ngầm và dấu tích của ngành khai khoáng thời Trung cổ."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2013, UNESCO mở rộng và đưa thêm mỏ muối Bochnia cùng lâu đài Saltworks ở Wieliczka vào, hình thành quần thể Di sản Mỏ muối Hoàng gia Wieliczka & Bochnia. Ảnh: World Heritage"
+    },
+    {
+     "t": "p",
+     "text": "Anh Minh (Theo DM )"
+    }
+   ]
+  },
+  {
+   "id": "cc7297ebb111",
+   "order": 4,
+   "slug": "ky-thu-nhung-cung-deo-deo-ngoan-muc-luu-dau-tien-nhan-tim-ra",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Kỳ thú những cung đèo: Đèo Ngoạn Mục lưu dấu tiền nhân tìm ra Đà Lạt",
+   "sapo": "Đèo Ngoạn Mục không chỉ là cung đường đẹp trên QL27 mà còn lưu giữ ký ức về hành trình mở lối lên cao nguyên, gắn với bác sĩ Alexandre Yersin và những người đi trước, kết nối vùng biển Phan Rang với phố núi Đà Lạt.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ky-thu-nhung-cung-deo-deo-ngoan-muc-luu-dau-tien-nhan-tim-ra-da-lat-185261121202541143.htm",
+   "published": "2026-11-21T23:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1032,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/cc7297ebb111-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-0.jpg",
+     "caption": "Đèo Ngoạn Mục khúc khuỷu tiềm ẩn nhiều nguy hiểm",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-1.jpg",
+     "caption": "Ga Sông Pha dưới chân đèo Ngoạn Mục",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-2.jpg",
+     "caption": "Cầu đường sắt răng cưa dưới chân đèo Ngoạn Mục",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-3.jpg",
+     "caption": "Dấu tích đường sắt răng cưa vượt đèo Sông Pha",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-4.jpg",
+     "caption": "Đèo Ngoạn Mục với vẻ đẹp mềm mại",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-5.jpg",
+     "caption": "Những cung đường mờ sương ở đèo Ngoạn Mục",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-6.jpg",
+     "caption": "Ô tô phải chui qua đường ống thủy điện Đa Nhim 2 lần khi qua đèo Ngoạn Mục",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-7.jpg",
+     "caption": "Ống nước của thủy điện Đa Nhim, một công trình đi qua đèo Ngoạn Mục",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-8.jpg",
+     "caption": "Ông Ya Bá giới thiệu về ga Krông Pha dưới chân đèo Sông Pha (đèo Ngoạn Mục)",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/cc7297ebb111-9.jpg",
+     "caption": "Từ thôn Gòn (xã Lâm Sơn, tỉnh Khánh Hòa) nhìn lên đỉnh đèo Ngoạn Mục",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "H ÀNH TRÌNH MỞ ĐƯỜNG LÊN CAO NGUYÊN"
+    },
+    {
+     "t": "p",
+     "text": "Nằm trên QL27, đèo Ngoạn Mục nối xã Lâm Sơn, tỉnh Khánh Hòa, với xã D'Ran, tỉnh Lâm Đồng. Dài khoảng 18 - 20 km, con đèo uốn lượn qua những triền núi, sườn rừng, đưa người đi từ vùng duyên hải lên cao nguyên Đà Lạt . Càng lên cao, những khúc cua tay áo càng nối nhau, ôm sát sườn núi. Một bên là vách đá, bên kia là vực sâu phủ màu xanh của rừng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Vào những ngày trời quang, từ trên đèo có thể phóng tầm mắt về phía đông, nơi vùng Phan Rang (Ninh Thuận cũ) với ruộng lúa, làng mạc hiện ra dưới nắng. Chỉ cách nhau một con đèo nhưng hai vùng đất mang sắc thái khí hậu khác biệt: phía duyên hải nắng nóng, khô hạn, còn phía cao nguyên mát mẻ, thường có mây mù."
+    },
+    {
+     "t": "p",
+     "text": "Phía sau cảnh sắc ấy là câu chuyện về hành trình khám phá, mở đường lên cao nguyên từ cuối thế kỷ 19. Năm 1893, bác sĩ Alexandre Yersin dẫn đầu đoàn thám hiểm từ Phan Rang qua Ninh Sơn, vượt núi đến D'ran, Đa Nhim, Prenn và cao nguyên Lang Biang, nơi sau này hình thành Đà Lạt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ chuyến thám hiểm này, năm 1897, Toàn quyền Đông Dương Paul Doumer cử một nhóm khảo sát thực địa nhằm lập bản đồ, tìm hướng mở đường từ Phan Rang lên Đà Lạt. Dưới sự chỉ huy của đại úy Thouars, nhóm khảo sát xác định lộ trình dài 122 km, từ Phan Rang qua xóm Gòn (tên gọi của thung lũng Ninh Sơn thời đó), lên D'ran (Đơn Dương), qua thung lũng Đa Nhim, K'long, Prenn rồi đến Đà Lạt."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 3.1899, Toàn quyền Doumer cùng bác sĩ Yersin cưỡi ngựa từ Phan Rang lên cao nguyên Lang Biang theo tuyến đường đã được khảo sát trước đó để thị sát địa hình. Sau chuyến đi, ông Doumer tiếp tục cử các đoàn công tác nghiên cứu, triển khai mở đường. Trong giai đoạn 1899 - 1900, các đoàn do đại úy Guynet và Buvigner phụ trách hoàn tất việc nghiên cứu tuyến đường bộ Phan Rang - Đà Lạt, dựa trên kết quả khảo sát trước đó của Thouars."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình này, người Pháp gọi cung đèo là Bellevue, nghĩa là \"cảnh đẹp\". Tên gọi Ngoạn Mục trong tiếng Việt được cho là cách chuyển nghĩa của tên cung đèo tiếng Pháp này."
+    },
+    {
+     "t": "p",
+     "text": "Người dân địa phương còn gọi nơi đây là đèo Sông Pha, theo tên địa danh dưới chân đèo. Ông Ya Bá (70 tuổi, người dân tộc Raglai), Trưởng ban công tác Mặt trận thôn Gòn, xã Lâm Sơn, cho biết khu vực này có một dòng sông nhỏ. Theo cách gọi của đồng bào địa phương, \"Krông\" có nghĩa là sông, suối, còn \"Pha\" gắn với cây ráy mọc nhiều quanh khu vực. Người dân kể rằng cây ráy tiết ra chất màu đỏ, chảy xuống sông và hòa vào dòng nước, tạo thành hai màu khác nhau. Từ đó, dòng sông được gọi là Krông Pha, về sau đọc thành Sông Pha."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Bá, trước đây, mặt đường đèo hẹp đến mức chỉ đủ cho một ô tô đi qua. Để tránh xe đi ngược chiều gặp nhau giữa đường, việc lưu thông phải chia theo khung giờ, lần lượt cho xe từ trên xuống hoặc từ dưới lên."
+    },
+    {
+     "t": "h",
+     "text": "Đ ƯỜNG SẮT RĂNG CƯA VÀ THỦY ĐIỆN ĐA NHIM"
+    },
+    {
+     "t": "p",
+     "text": "Nhắc đến đèo Sông Pha, ông Ya Bá nhớ những chuyến tàu từ ga Sông Pha vượt đèo Ngoạn Mục lên Đà Lạt, gắn với một phần tuổi thơ của mình. Ngày nay, ga Sông Pha chỉ còn những khung nhà đổ nát, khu vực từng dùng làm nơi để đầu máy hơi nước bỏ trống. Tuyến đường sắt cũng không còn nguyên vẹn, chỉ lưu lại một số dấu tích, trong đó có dấu vết cây cầu bắc qua sông Sông Pha."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Bá, khi tuyến đường sắt còn hoạt động, mỗi ngày có 2 chuyến tàu chạy giữa Tháp Chàm và Đà Lạt, một chuyến lên, một chuyến xuống. \"Tàu đi bằng răng cưa leo qua đèo Sông Pha chậm như người đi bộ, nhưng khung cảnh núi rừng rất đẹp. Tàu hơi nước xả khói trắng như mây, hòa vào núi rừng. Mỗi lần nhớ lại, tôi rất xúc động. Đến khoảng năm 1971 thì tàu ngừng chạy, để lại nhiều tiếc nuối\", ông Bá kể."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Văn Chánh, người cao tuổi ở thôn Gòn, cho biết quá trình mở đường bộ và đường sắt qua khu vực này từng đối mặt nhiều gian nan. Theo lời kể của người dân, nhiều phu làm đường đã thiệt mạng do thú dữ và bệnh tật."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Công trình thủy điện Đa Nhim cũng để lại dấu ấn riêng trên sườn đèo. Được triển khai từ đầu thập niên 1960, dự án khai thác nguồn nước từ cao nguyên để phát điện. Hệ thống đường ống lớn chạy dọc sườn núi, nổi bật giữa không gian rừng xanh, trở thành hình ảnh đặc trưng của khu vực Sông Pha. Trên tuyến đường qua đèo, ô tô phải đi qua 2 vị trí giao cắt với hệ thống đường ống."
+    },
+    {
+     "t": "p",
+     "text": "Ông Hoàng Văn Tiến, Phó chủ tịch UBND xã Lâm Sơn, cho biết đèo Ngoạn Mục hiện đã được nâng cấp, mở rộng so với trước đây. Tuy nhiên, địa hình quanh co, khúc khuỷu khiến tuyến đường vẫn tiềm ẩn nguy cơ tai nạn, nhất là khi mưa lớn gây sạt lở."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, đèo Ngoạn Mục vẫn giữ vai trò quan trọng trên hành lang QL27, kết nối Khánh Hòa với Lâm Đồng. Từ Phan Rang, người đi đường có thể vượt đèo lên Đà Lạt; theo chiều ngược lại, nông sản và hàng hóa từ cao nguyên được vận chuyển xuống vùng duyên hải. Không chỉ nối liền 2 vùng địa lý, cung đường còn góp phần thúc đẩy giao thương, giao lưu giữa các cộng đồng dân cư và phát triển du lịch, dịch vụ. (còn tiếp)"
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    }
+   ]
+  },
+  {
+   "id": "fdd2082e067c",
+   "order": 5,
+   "slug": "mot-ngay-sau-khi-ve-nuoc-watson-nguyen-pha-ky-luc-cua-huyen",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Một ngày sau khi về nước, Watson Nguyễn phá kỷ lục của huyền thoại bơi lội Việt Nam",
+   "sapo": "Sáng 22-11, người hâm mộ bơi lội Việt Nam được chứng kiến một trong những khoảnh khắc phá kỷ lục ấn tượng nhất của đường đua xanh nước nhà, khi kình ngư Watson Nguyễn (Nguyen Hoa Watson) xuống hồ ở cự ly 50m ếch.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/mot-ngay-sau-khi-ve-nuoc-watson-nguyen-pha-ky-luc-cua-huyen-thoai-boi-loi-viet-nam-100261122102051055.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 753,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/fdd2082e067c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/fdd2082e067c-0.jpg",
+     "caption": "Watson Nguyễn gây ấn tượng ngay ở lần đầu tham dự Đại hội thể thao toàn quốc - Ảnh: HUY ĐĂNG",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-23/fdd2082e067c-1.jpg",
+     "caption": "Watson Nguyễn là nhà vô địch bơi lội nước Mỹ - Ảnh: USA SWIMMING",
+     "w": 1000,
+     "h": 664
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Watson Nguyễn đang là cái tên làm \"dậy sóng\" làng bơi lội Việt Nam. Anh có cha mẹ là người Việt và trưởng thành tại Mỹ, cũng là một nhà vô địch bơi lội của cường quốc thể thao số một thế giới."
+    },
+    {
+     "t": "h",
+     "text": "Phá kỷ lục bơi ếch của Nguyễn Hữu Việt"
+    },
+    {
+     "t": "p",
+     "text": "Tại Đại hội thể thao toàn quốc 2026, Watson Nguyễn về nước khoác áo đoàn An Giang, và ngay lập tức chứng tỏ đẳng cấp."
+    },
+    {
+     "t": "p",
+     "text": "Ở đợt bơi vòng loại 50m ếch sáng 22-11, Watson Nguyễn về đích với thời gian 27,16 giây, qua đó phá mọi kỷ lục tồn tại ở cự ly này trong làng bơi Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, Watson Nguyễn đã phá kỷ lục 28,39 giây - thiết lập từ Đại hội thể thao toàn quốc 2010 bởi cố kình ngư Nguyễn Hữu Việt."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Hữu Việt là một trong những kình ngư nổi tiếng nhất lịch sử bơi lội Việt Nam, đặc biệt ở các cự ly bơi ếch. Anh từng 3 lần liên tiếp giành HCV SEA Games nội dung 100m ếch nam, góp phần mở ra thời kỳ phát triển mới của bơi lội Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2022, Nguyễn Hữu Việt qua đời vì bệnh tật khi mới 34 tuổi, để lại nỗi tiếc thương vô bờ bến cho làng bơi Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Và giờ đây, sau 16 năm tồn tại, kỷ lục của kình ngư huyền thoại này đã chính thức được phá vỡ bởi Watson Nguyễn."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ vậy, thông số của Watson Nguyễn còn vượt qua cả kỷ lục quốc gia của \"hoàng tử ếch\" Phạm Thanh Bảo - 27,70 giây lập tại Giải vô địch quốc gia 2024."
+    },
+    {
+     "t": "p",
+     "text": "Phạm Thanh Bảo cũng là người về nhì trong đợt bơi vòng loại sáng 22-11 với thông số 28,80 giây."
+    },
+    {
+     "t": "p",
+     "text": "Chưa hết, con số của Watson vượt qua luôn cả kỷ lục SEA Games 27,56 giây do kình ngư Felix Viktor Iberle (Indonesia) lập nên vào năm 2023."
+    },
+    {
+     "t": "h",
+     "text": "Hứa hẹn sẽ bùng nổ ở chung kết"
+    },
+    {
+     "t": "p",
+     "text": "Theo ghi nhận của World Aquatics (Hiệp hội Thể thao dưới nước thế giới), kỷ lục Đông Nam Á hiện là 26,98 giây (cũng của Iberle), vẫn đang nhỉnh hơn thành tích sáng nay của Watson Nguyễn."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cần biết, đây mới chỉ là đợt bơi vòng loại, nơi các kình ngư thường chưa bung hết sức. Khả năng Watson Nguyễn chinh phục kỷ lục Đông Nam Á trong đợt bơi chung kết chiều nay là rất cao."
+    },
+    {
+     "t": "p",
+     "text": "Thông số tốt nhất ở nội dung này của anh là 26,65 giây, vượt khá xa thành tích của Iberle."
+    },
+    {
+     "t": "p",
+     "text": "Watson Nguyễn đã chinh phục một loạt kỷ lục nói trên trong điều kiện chưa được chuẩn bị tốt nhất. Trao đổi với Tuổi Trẻ , anh cho biết vừa bay từ Mỹ về đến Việt Nam vào sáng 21-11, sau hơn 30 giờ di chuyển."
+    },
+    {
+     "t": "p",
+     "text": "Kình ngư 21 tuổi cho biết vẫn còn đang làm quen với múi giờ ở Việt Nam, và hy vọng sẽ thi đấu tốt hơn ở chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Ban huấn luyện đội An Giang cho biết Watson Nguyễn có quốc tịch Việt Nam, sẽ chỉ tham dự duy nhất 1 nội dung 50m ếch tại Đại hội thể thao toàn quốc lần X - năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Đợt bơi chung kết các nội dung 50m ếch nam, 50m ếch nữ, 100m tự do nam, 100m tự do nữ, 400m hỗn hợp nam, 200m hỗn hợp nữ và tiếp sức 4x200m tự do nam sẽ lần lượt diễn ra từ 18h ngày hôm nay (22-11)."
+    },
+    {
+     "t": "p",
+     "text": "Watson Nguyễn sinh ra tại bang Texas (Mỹ), trong gia đình có cha mẹ là người Việt Nam. Anh hiện theo học Đại học Pennsylvania, đồng thời là một trong những tài năng trẻ nổi bật của làng bơi Mỹ."
+    },
+    {
+     "t": "p",
+     "text": "Cuối tháng 7-2026, Watson gây bất ngờ lớn tại Giải vô địch bơi lội quốc gia Mỹ, diễn ra ở Irvine, California."
+    },
+    {
+     "t": "p",
+     "text": "Ở chung kết 50m ếch nam, anh xuất sắc giành HCV với thành tích 26,65 giây, đánh bại nhiều đối thủ tên tuổi. Đáng chú ý nhất là Michael Andrew, nhà vô địch Olympic nội dung tiếp sức hỗn hợp, chỉ về nhì với 26,91 giây."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng đưa Watson trở thành kình ngư có thành tích 50m ếch nhanh thứ tư lịch sử nước Mỹ tại thời điểm đó. Một ngày sau, anh tiếp tục giành HCĐ 100m ếch với thời gian 59,79 giây, lần đầu tiên trong sự nghiệp vượt qua cột mốc một phút."
+    }
+   ]
+  },
+  {
+   "id": "7ac3e836152f",
+   "order": 6,
+   "slug": "tuoi-43-nguyen-tien-minh-danh-cau-khong-can-nhin-gay-sot-dai",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Tuổi 43, Nguyễn Tiến Minh đánh cầu 'không cần nhìn' gây sốt Đại hội Thể thao toàn quốc",
+   "sapo": "Dù đã ở độ tuổi 43, huyền thoại cầu lông Nguyễn Tiến Minh vẫn ghi dấu ấn bằng pha xử lý đẳng cấp, tinh tế khi tham dự Đại hội Thể thao toàn quốc năm 2026.",
+   "author": "ĐỨC KHUÊ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tuoi-43-nguyen-tien-minh-danh-cau-khong-can-nhin-gay-sot-dai-hoi-the-thao-toan-quoc-100261122230359161.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 392,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/7ac3e836152f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pha xử lý cầu điệu nghệ gây sốt của Tiến Minh tại Đại hội Thể thao toàn quốc 2026 - Nguồn: THÍCH CẦU LÔNG"
+    },
+    {
+     "t": "p",
+     "text": "Hôm 22-11, Nguyễn Tiến Minh (TP.HCM) tranh tài nội dung đơn nam môn cầu lông Đại hội Thể thao toàn quốc 2026. Tại vòng 1, anh đối đầu với tay vợt của đơn vị Hà Nội là Nguyễn Thế Ngọc."
+    },
+    {
+     "t": "p",
+     "text": "Dù đã 43 tuổi, đẳng cấp của Tiến Minh vẫn có phần vượt trội so với nhiều tay vợt trong nước. Trước một đối thủ còn trẻ, chưa có nhiều kinh nghiệm như Nguyễn Thế Ngọc, tay vợt của TP.HCM đã làm chủ thế trận, đưa ra những pha điều cầu khó chịu."
+    },
+    {
+     "t": "p",
+     "text": "Tiến Minh giành chiến thắng nhanh chóng với tỉ số 2-0. Sự bền bỉ đáng kinh ngạc của anh vốn đã khiến người hâm mộ trầm trồ. Nhưng ở màn so tài này, anh còn để một tình huống gây \"sốt\" khắp các cộng đồng cầu lông tại Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Trong một pha cầu giằng co qua lại, Tiến Minh thể hiện sự điềm tĩnh để xử lý. Vào thời điểm quyết định, anh có tình huống quay mặt đi nhưng vẫn đưa cầu sát lưới, khiến Thế Ngọc hoàn toàn bị động và không thể xử lý cầu qua lưới."
+    },
+    {
+     "t": "p",
+     "text": "Một diễn đàn đăng tải đoạn video pha cầu này nhận hơn 2.000 lượt thích, cho thấy tên tuổi của Tiến Minh vẫn có sức hút. Dù vậy, ở tuổi 43, anh không thể duy trì thể lực sung mãn nhất."
+    },
+    {
+     "t": "p",
+     "text": "Tại vòng 2 diễn ra cùng ngày, Tiến Minh đối đầu với Nguyễn Tất Duy Lợi (Lâm Đồng). Đây là tay vợt trẻ đang lên của cầu lông Việt Nam. Trong năm 2026, Duy Lợi đã giành tới 2 danh hiệu quốc tế cấp độ trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Bằng kỹ thuật xử lý cầu điêu luyện, Tiến Minh kéo trận đấu vào ván thứ 3. Nhưng Duy Lợi lại sở hữu nền tảng thể lực sung mãn. Những cú đập uy lực tại ván 3 của anh khiến Tiến Minh gần như bó tay. Huyền thoại của cầu lông Việt Nam dừng bước tại vòng 2 với tỉ số 1-2."
+    },
+    {
+     "t": "p",
+     "text": "Cũng ở vòng này, hạt giống số 2 Lê Đức Phát (Quân đội) bị loại sốc, khi để thua 1-2 trước Trần Hoàng Kha (TP.HCM)."
+    }
+   ]
+  },
+  {
+   "id": "65b92ec7daca",
+   "order": 7,
+   "slug": "cau-chuyen-tinh-yeu-dep-cua-doi-vo-chong-judo-o-dai-hoi-the",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Câu chuyện tình yêu đẹp của 'đôi vợ chồng judo' ở Đại hội Thể thao toàn quốc 2026",
+   "sapo": "Gặp nhau và nên duyên vợ chồng từ judo, hai VĐV Đặng Trung Hiền và Hồ Thị Như Vân vừa đem về thành tích cho judo Quân Đội ở Đại hội Thể thao toàn quốc 2026.",
+   "author": "NGUYÊN KHÔI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/cau-chuyen-tinh-yeu-dep-cua-doi-vo-chong-judo-o-dai-hoi-the-thao-toan-quoc-2026-100261122173851065.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 902,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/65b92ec7daca-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/65b92ec7daca-0.jpg",
+     "caption": "Trung Hiền và Như Vân bên 2 con ăn mừng giành huy chương tại Đại hội Thể thao toàn quốc 2026 - Ảnh: NVCC",
+     "w": 1280,
+     "h": 704
+    },
+    {
+     "src": "img/2026-11-23/65b92ec7daca-1.jpg",
+     "caption": "Như Vân ăn mừng HCV SEA Games 30 tại Philippines - Ảnh: NVCC",
+     "w": 720,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/65b92ec7daca-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 417
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Môn judo Đại hội Thể thao toàn quốc 2026 đã kết thúc hôm 20-11 tại Bà Rịa với ngôi nhất toàn đoàn thuộc về Quân Đội với 9 HCV, hơn 2 HCV so với chủ nhà TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng câu chuyện đẹp về một đôi vợ chồng VĐV của judo Quân Đội thì vẫn được giới chuyên môn nhắc đến tận bây giờ dù cả 2 không giành HCV tại đại hội lần này."
+    },
+    {
+     "t": "p",
+     "text": "Đặng Trung Hiền (TP.HCM) giành HCB nội dung Nage No Kata nam, còn Hồ Thị Như Vân (Sóc Trăng) giành HCĐ nội dung Kodokan Goshin Jutsu nữ."
+    },
+    {
+     "t": "h",
+     "text": "Tình yêu từ thảm judo"
+    },
+    {
+     "t": "p",
+     "text": "Đặng Trung Hiền (sinh năm 1991) là VĐV kỳ cựu của judo TP.HCM. Thành tích cao nhất của anh là HCB châu Á nội dung Kata (quyền) vào năm 2014, hai năm sau khi quyết định không thi đấu đối kháng nữa."
+    },
+    {
+     "t": "p",
+     "text": "Còn Hồ Thị Như Vân (1992) trưởng thành từ judo Sóc Trăng trước đây (giờ thuộc Cần Thơ). Cô gái mạnh mẽ này giành nhiều thành tích trong nước lẫn khu vực."
+    },
+    {
+     "t": "p",
+     "text": "Điều đáng nói là nhiều năm thi đấu đối kháng cho TP.HCM và Sóc Trăng, cổ vũ đội nhà thi đấu nên cả hai thường là đối thủ ở hai bờ chiến tuyến."
+    },
+    {
+     "t": "p",
+     "text": "\"Lúc trước là đối thủ với nhau, hai vợ chồng ra nhà thi đấu là hai chiến tuyến khác nhau. Hồi đó, chúng tôi nói chơi chơi là cũng \"nước sông nước giếng\". Nhưng đi học đại học, chúng tôi thường về chung với nhau, nói chuyện thì bắt đầu hiểu nhau\", Trung Hiền nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Định mệnh đó bắt đầu vào năm 2014, khi cả hai gặp nhau tại Trường đại học Thể dục Thể thao TP.HCM. Trung Hiền học năm cuối, còn Như Vân học năm đầu tiên. Chỉ một năm học ngắn ngủi, tình yêu đã bắt đầu nảy nở giữa hai người từng là \"đối thủ\"."
+    },
+    {
+     "t": "p",
+     "text": "Tốt nghiệp đại học năm 2015, một năm sau Trung Hiền xin được công việc giáo viên thể dục tại Trường THCS Lý Tự Trọng. Thời gian dạy và tập luyện trùng nhau khiến anh bắt buộc phải chọn lựa. Dù rất tiếc, Trung Hiền quyết định xin nghỉ judo TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2017, judo Quân Đội mời Trung Hiền về thi đấu. Anh xin phép được tập vào buổi tối, ban ngày có tiết trống thì sẽ tham gia tập cùng đội. Nhận được sự đồng ý, Trung Hiền gia nhập vào cuối năm 2017."
+    },
+    {
+     "t": "p",
+     "text": "Và như một cuộc sắp đặt của số phận, Như Vân đã có mặt ở đó từ năm 2016. Cả hai vì thế lại có dịp gặp nhau thường xuyên hơn. Hai năm sau, cả hai quyết định về chung nhà."
+    },
+    {
+     "t": "p",
+     "text": "Đám cưới diễn ra ngay ngày Lễ Tình nhân, nhưng một tuần sau Như Vân phải ra Hà Nội tập trung đội tuyển judo Việt Nam chuẩn bị cho SEA Games 30 tại Philippines. Thành quả của sự xa cách là tấm HCV đối kháng đồng đội nữ. Trở về gặp nhau, cậu con trai đầu lòng ra đời vào tháng 9-2020."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, gia đình đón thêm cô công chúa nhỏ. Sức khỏe chưa cho phép tập nhiều để đấu đối kháng nên Như Vân chuyển sang tập Kata để thi đấu tại Đại hội Thể thao toàn quốc 2026 . Cả Trung Hiền và Như Vân vì thế lại lần đầu cùng nhau giành huy chương Kata cho đoàn Quân Đội."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Mang con theo lên thảm đấu"
+    },
+    {
+     "t": "p",
+     "text": "Như Vân hiện là giáo viên thể chất tại Trường THCS Quang Trung. Công việc tại trường, tập luyện và thi đấu cho đội tuyển Quân Đội khiến cả hai vợ chồng gần như không có nhiều thời gian chăm con."
+    },
+    {
+     "t": "p",
+     "text": "Vì thế, cả hai mỗi lần đi tập là đưa cả con đi theo. Như đi thi đấu Giải judo Đông Nam Á 2026 tại Bắc Ninh hồi tháng 5, con gái mới được mấy tháng, hai vợ chồng cũng ẵm đi theo để rồi chứng kiến cha mẹ cùng giành HCĐ."
+    },
+    {
+     "t": "p",
+     "text": "Sau chiếc HCB và HCĐ tại Đại hội Thể thao toàn quốc 2026, câu chuyện của hai vợ chồng được kể nhiều ở cộng đồng judo ka. Trung Hiền cười bảo đây chỉ là câu chuyện nhỏ trong judo thôi, nhưng anh cũng hy vọng nó sẽ truyền cảm hứng đến các VĐV kế cận phía sau."
+    },
+    {
+     "t": "p",
+     "text": "Anh nói: \"Có judo mới có một gia đình hạnh phúc như bây giờ, nên chúng tôi cũng rất trân quý . Quãng đường cũng dài, tôi đã có 17 năm gắn bó với judo , còn vợ thì 24 năm. Cô ấy còn quyết sang năm sẽ thi đấu đối kháng lại. Sắp tới, cô ấy muốn xây dựng CLB judo ở Trường THCS Quang Trung để tiếp tục gây dựng phong trào\"."
+    },
+    {
+     "t": "h",
+     "text": "Đào tạo ra những VĐV xuất sắc"
+    },
+    {
+     "t": "p",
+     "text": "CLB judo mà Trung Hiền mở năm 2019 tại Trường THCS Lý Tự Trọng để nuôi dưỡng đam mê đều vừa giành huy chương tại Đại hội Thể thao toàn quốc 2026. Phan Ngọc Dũng giành HCV hạng cân dưới 73kg cho judo TP.HCM. Nguyễn Tân Tiến Lộc giành HCĐ cho judo Quân Đội hạng cân 66kg."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, Phan Ngọc Vinh (anh của Phan Ngọc Dũng) cũng từng học judo giờ chuyển qua đánh MMA (võ tự do) cũng được HCV toàn quốc."
+    },
+    {
+     "t": "img",
+     "i": 3
+    }
+   ]
+  },
+  {
+   "id": "60fa3497653f",
+   "order": 8,
+   "slug": "nha-vat-ly-tao-ra-mot-ho-den-tren-chip-roi-no-bat-dau-bi-ro",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Nhà vật lý tạo ra một hố đen trên chip. Rồi nó bắt đầu bị rò",
+   "sapo": "Hố đen có thể làm được rất nhiều việc.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/a-physicist-built-a-black-hole-on-a-chip-then-it-started-to-leak",
+   "published": "2026-11-22T12:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1321,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "A Physicist Built a Black Hole on a Chip. Then It Started to Leak.",
+   "images": [
+    {
+     "src": "img/2026-11-23/60fa3497653f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-23/60fa3497653f-0.jpg",
+     "caption": "Một gợn nhiễu lan ra trong hố đen kỹ thuật số sau khi một bit bên trong đường biên hố đen (event horizon, cung màu trắng) bị lật ngược. Các hình ảnh cho thấy quá trình tiến triển của nó qua từng nhịp đồng hồ, hé lộ cách một phần gợn nhiễu thoát ra ngoài. (A. Flachi, arXiv, 2026)",
+     "w": 600,
+     "h": 288
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hố đen có thể làm được rất nhiều việc."
+    },
+    {
+     "t": "p",
+     "text": "Chúng nằm trong không gian, hút vật chất vào mình, kéo không-thời gian quấn quanh như một chiếc chăn ấm, và phóng ra những luồng tia plasma mạnh mẽ di chuyển gần bằng tốc độ ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Điều mà chúng không giỏi làm là buông bỏ."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khi nhà vật lý Antonino Flachi ở Đại học Keio, Nhật Bản, xây dựng một hố đen mô phỏng (analog black hole) trên một con chip, một điều kỳ lạ đã xảy ra ở đường biên hố đen tí hon ấy – một điều mà nếu xảy ra ở hố đen thật, sẽ bị cấm theo các định luật của thuyết tương đối rộng."
+    },
+    {
+     "t": "p",
+     "text": "Khi ông chọc một lỗ nhỏ vào nó – theo nghĩa ẩn dụ – hố đen bắt đầu bị rò."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một thí nghiệm mang đến cho các nhà vật lý một công cụ mới để tìm hiểu những tính chất nào của hố đen là phổ quát – và những tính chất nào có thể thay đổi khi các quy luật vật lý thay đổi."
+    },
+    {
+     "t": "p",
+     "text": "\"Các mạch kỹ thuật số nhờ vậy tạo thành một nhóm mô hình tương tự hấp dẫn có thể thay đổi cấu hình,\" Flachi viết trong một bản thảo (chưa qua bình duyệt) đăng trên arXiv, \"và tạo ra một hố đen mô phỏng dưới dạng một automat tế bào (cellular automaton).\""
+    },
+    {
+     "t": "p",
+     "text": "Xu hướng hấp thụ ánh sáng và không để điều gì có thể phát hiện thoát ra khỏi đường biên hố đen khiến chúng vô hình với hầu hết các công cụ chúng ta dùng để nghiên cứu vũ trụ – những chiếc kính thiên văn dựa vào quang phổ điện từ."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các phương trình toán học mô tả hành vi của hố đen có thể được dùng để xây dựng các thí nghiệm trong phòng thí nghiệm, mô phỏng lại một số tính chất và hành vi của chúng, để chúng ta có thể nghiên cứu những gì chúng có thể làm được."
+    },
+    {
+     "t": "p",
+     "text": "Một cách để làm điều này là dùng âm thanh."
+    },
+    {
+     "t": "p",
+     "text": "Sóng âm di chuyển qua một chất lỏng đang chảy có thể hoạt động giống như ánh sáng đi qua không-thời gian cong quanh một hố đen. Nếu chất lỏng chảy vào trong nhanh hơn tốc độ sóng âm có thể lan ra ngoài, sóng âm sẽ bị mắc kẹt, không thể thoát khỏi dòng chảy."
+    },
+    {
+     "t": "p",
+     "text": "Điều này tạo ra thứ mà các nhà vật lý gọi là hố đen âm học (acoustic black hole)."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nếu có thể tạo ra một hố đen âm học mà không cần đến cả đống loa, chất lỏng và dòng chảy rối rắm thì sao?"
+    },
+    {
+     "t": "p",
+     "text": "Đó chính là điều Flachi đã làm, anh thay toàn bộ những thứ cồng kềnh đó bằng một mạch số (digital circuit) nhỏ gọn."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi đã tạo ra một hố đen tương tự (analog black hole) chỉ từ các cổng logic (logic gates)\", anh viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Đường chân trời (horizon) của nó không phải là một đặc điểm của hệ thống dây, mà là một đặc điểm của trạng thái: một đường cong khép kín trong một lưới các từ 32-bit (32-bit words), nơi dòng chảy xuất hiện mang các nhiễu động vào trong với tốc độ đúng bằng tốc độ chúng lan ra ngoài.\""
+    },
+    {
+     "t": "p",
+     "text": "Anh gọi hệ thống của mình là \"hố đen âm học số\" (digital acoustic black hole) – một mạch chứa một lưới các ô, mỗi ô lưu trữ thông tin dưới dạng một chuỗi bit, tức các số 0 và 1 là nền tảng của máy tính số. Lưới này lưu trữ tổng cộng khoảng 604 triệu bit."
+    },
+    {
+     "t": "p",
+     "text": "Ở mỗi nhịp đồng hồ, các cổng logic cập nhật thông tin trong từng ô theo một bộ quy tắc dựa trên động lực học chất lỏng (fluid dynamics), tạo ra phiên bản số tương đương với nước chảy vào một cái lỗ thoát."
+    },
+    {
+     "t": "p",
+     "text": "Những quy tắc này cũng chi phối cách các nhiễu động di chuyển qua lưới. Ở nơi dòng chảy mô phỏng mang các nhiễu động đó vào trong nhanh bằng tốc độ chúng có thể lan ra ngoài, một đường chân trời âm học (acoustic event horizon) sẽ xuất hiện."
+    },
+    {
+     "t": "p",
+     "text": "Khác với chất lỏng thực, vốn có thể khó đoán và khó kiểm soát, các quy tắc được xác định chính xác của hố đen âm học số giúp \"chất lỏng số\" này dễ kiểm soát hơn nhiều. Các thí nghiệm thậm chí có thể được lặp lại trong những điều kiện hoàn toàn giống nhau, chính xác đến từng bit."
+    },
+    {
+     "t": "p",
+     "text": "Để kiểm tra sản phẩm của mình, Flachi đã đo năm đặc tính của hố đen mô phỏng: độ ổn định của đường biên chân trời sự kiện (event horizon), đường biên đó, cách các nhiễu động lan truyền qua nó, phản ứng của nó khi bị làm nhiễu động (gọi là ringdown), và một hiện tượng gọi là siêu phát xạ (superradiance), trong đó sóng có thể nhận thêm năng lượng từ một hố đen đang quay."
+    },
+    {
+     "t": "p",
+     "text": "Hệ thống hoạt động rất xuất sắc. Đường biên chân trời sự kiện duy trì ổn định trong 3 giờ, và mạch điện thể hiện đầy đủ hiện tượng ringdown và siêu phát xạ, đúng như các dự đoán toán học."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng sau đó, Flachi trở nên tò mò. Anh muốn biết điều gì sẽ xảy ra nếu anh thay đổi một điều nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Bên trong đường biên chân trời sự kiện, anh đảo ngược chỉ một trong 604 triệu bit của hệ thống – và kết quả giống như hố đen bị rò rỉ."
+    },
+    {
+     "t": "p",
+     "text": "Việc đảo bit đó tạo ra một nhiễu động âm học trong hố đen. Phần lớn nhiễu động này vẫn bị giữ lại bên trong đường biên chân trời sự kiện – đúng như người ta mong đợi đối với thứ xảy ra phía sau ranh giới đó."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng một phần nhỏ của nhiễu động đã thoát ra được, được mang đi bởi các sóng có bước sóng ngắn có thể di chuyển nhanh hơn tốc độ âm hiệu dụng trong mạch điện."
+    },
+    {
+     "t": "p",
+     "text": "Vậy là đường biên chân trời sự kiện hoạt động đúng như dự đoán đối với các sóng dài hơn, nhưng lại không hoàn toàn kín đối với các sóng ngắn hơn."
+    },
+    {
+     "t": "p",
+     "text": "Và càng đảo bit ở vị trí sâu hơn bên trong đường biên, lượng nhiễu động thoát ra càng ít. Sự rò rỉ này giảm dần theo cấp số nhân khi khoảng cách tới ranh giới tăng lên."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Điều này không có nghĩa là các hố đen thật ngoài vũ trụ cũng có đường biên chân trời sự kiện bị rò rỉ – nhưng nó hé lộ một điều quan trọng về các mô hình tương tự hố đen (black hole analogs). Hành vi của đường biên của chúng không nhất thiết mang tính phổ quát, mà có thể phụ thuộc vào các quy luật vật lý nền tảng của hệ thống nơi chúng xuất hiện."
+    },
+    {
+     "t": "p",
+     "text": "Và hệ thống của Flachi mang lại một cách mới để khảo sát chúng. Anh đã chứng minh rằng một mô hình tương tự hố đen hoạt động được có thể được xây dựng hoàn toàn từ các mạch logic số (digital logic) – một hệ thống mà các quy luật nền tảng của nó được biết chính xác và có thể kiểm soát tinh vi."
+    },
+    {
+     "t": "p",
+     "text": "Điều này có nghĩa là nó có thể được dùng để tìm hiểu vật lý của các vùng biên hố đen (black hole horizons), và khám phá những tình huống mới cho thấy điều gì có thể xảy ra nếu các quy luật vật lý bị bẻ cong đi một chút, dù chỉ là một chút rất nhỏ."
+    },
+    {
+     "t": "p",
+     "text": "Bài báo này chưa được bình duyệt (peer-reviewed), nhưng một bản thảo đã được công bố trên arXiv."
+    }
+   ]
+  },
+  {
+   "id": "9f54447fad30",
+   "order": 9,
+   "slug": "sao-hai-vuong-qua-ong-kinh-voyager",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Sao hải vương qua ống kính voyager",
+   "sapo": "",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+   "published": "2026-11-21T05:05:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 267,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Voyager's Neptune",
+   "images": [
+    {
+     "src": "img/2026-11-23/9f54447fad30-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 918
+    },
+    {
+     "src": "img/2026-11-23/9f54447fad30-0.jpg",
+     "caption": "Ảnh ghép của Voyager chụp sao Hải Vương trong hình lưỡi liềm.",
+     "w": 1280,
+     "h": 918
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong hành trình băng qua vùng ngoài của hệ Mặt Trời, tàu Voyager 2 đã bay gần sao Hải Vương nhất vào ngày 25 tháng 8 năm 1989. Đây là tàu vũ trụ duy nhất từng ghé thăm hành tinh băng khổng lồ xa xôi nhất này. Dựa trên những hình ảnh ghi lại được trong lần tiếp cận gần đó và những ngày sau, cảnh ghép đầy cảm hứng này tái hiện hành tinh mờ nhạt ở xa, mặt trăng lớn nhất của nó là Triton, cùng hệ vành đai mờ ảo. Từ vị trí vừa qua khỏi quỹ đạo sao Hải Vương, góc nhìn liên hành tinh này hướng về phía Mặt Trời, ghi lại hành tinh và Triton dưới dạng những lưỡi liềm mỏng được chiếu sáng. Những đám mây ti (cirrus) và một vành đai tối bao quanh vùng cực nam của sao Hải Vương, với một xoáy mây che phủ ngay trên cực. Một phần của hệ vành đai rất mờ cùng ba vòng cung sáng lần đầu tiên được Voyager chụp lại trong lần bay qua này, tuy nhiên những đoạn mờ nhất chỉ được dựng lại bằng mô hình trong bức ảnh ghép này. Trải rộng 7,5 độ, phông nền sao được ghép từ dữ liệu khảo sát bầu trời tập trung vào chòm sao Camelopardalis, tương ứng với góc nhìn của Voyager khi rời xa hệ thống sao Hải Vương tráng lệ. Đến năm 2026, tàu Voyager 2 vẫn tiếp tục hành trình và hiện đang ở trong không gian liên sao. Hình ảnh ngày mai: những vòng xoáy"
+    }
+   ]
+  },
+  {
+   "id": "961da4e45bcc",
+   "order": 10,
+   "slug": "truong-cong-lap-nhu-du-thuyen-5-sao-duoi-chan-nui-ba-vi",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Trường công lập như 'du thuyền 5 sao' dưới chân núi Ba Vì",
+   "sapo": "Với đầu tư hơn 160 tỷ đồng, trường THCS Tản Đà có bể bơi, hệ thống phòng chức năng hiện đại cùng ba khối nhà 5 tầng giật cấp, trông như một du thuyền neo giữa đồng lúa dưới chân núi Ba Vì.",
+   "author": "Giang Huy - Thanh Hằng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/truong-cong-lap-nhu-du-thuyen-5-sao-duoi-chan-nui-ba-vi-5143958.html",
+   "published": "2026-11-22T23:05:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1297,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/961da4e45bcc-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-10.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-23/961da4e45bcc-11.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Trường công lập như 'du thuyền 5 sao' dưới chân núi Ba Vì"
+    },
+    {
+     "t": "p",
+     "text": "Với đầu tư hơn 160 tỷ đồng, trường THCS Tản Đà có bể bơi, hệ thống phòng chức năng hiện đại cùng ba khối nhà 5 tầng giật cấp, trông như một du thuyền neo giữa đồng lúa dưới chân núi Ba Vì."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Trường THCS Tản Đà nằm ở xã Quảng Oai, đặt theo tên nhà thơ, nhà văn nổi tiếng ở địa phương. Khuôn viên này được khởi công vào cuối năm 2024, vừa khánh thành hồi tháng 9."
+    },
+    {
+     "t": "p",
+     "text": "Với diện tích hơn 10.000 m2, công trình có 5 tầng nổi, một tầng hầm. Các tầng giật cấp kiểu bậc thang, thu hẹp dần khi lên cao để nhường chỗ cho tiểu cảnh và những khoảng sân vườn trồng cây xanh trên mái. Nhìn từ xa, ngôi trường như một du thuyền hiện đại, nằm giữa cánh đồng lúa dưới chân núi Ba Vì."
+    },
+    {
+     "t": "p",
+     "text": "\"Giáo viên, phụ huynh thường gọi trường là du thuyền 5 sao\", Phó hiệu trưởng Nguyễn Thị Liên Phương nói. \"Chúng tôi mong cô trò như con thuyền vượt sóng ra khơi, vươn ra thế giới\"."
+    },
+    {
+     "t": "p",
+     "text": "Trường THCS Tản Đà nằm ở xã Quảng Oai, đặt theo tên nhà thơ, nhà văn nổi tiếng ở địa phương. Khuôn viên này được khởi công vào cuối năm 2024, vừa khánh thành hồi tháng 9."
+    },
+    {
+     "t": "p",
+     "text": "Với diện tích hơn 10.000 m2, công trình có 5 tầng nổi, một tầng hầm. Các tầng giật cấp kiểu bậc thang, thu hẹp dần khi lên cao để nhường chỗ cho tiểu cảnh và những khoảng sân vườn trồng cây xanh trên mái. Nhìn từ xa, ngôi trường như một du thuyền hiện đại, nằm giữa cánh đồng lúa dưới chân núi Ba Vì."
+    },
+    {
+     "t": "p",
+     "text": "\"Giáo viên, phụ huynh thường gọi trường là du thuyền 5 sao\", Phó hiệu trưởng Nguyễn Thị Liên Phương nói. \"Chúng tôi mong cô trò như con thuyền vượt sóng ra khơi, vươn ra thế giới\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một trong những điểm nhấn của công trình là hai cầu thang ngoài trời. Cầu thang này \"chạy\" lệch tầng, từ tầng 4 và 3 của tòa B sang tầng 3 và 2 tòa C. Từ trên cao nhìn xuống, các lối đi đan cài trên thảm cỏ xanh, như những tầng boong trên một con tàu lớn."
+    },
+    {
+     "t": "p",
+     "text": "Hiện, trường còn một số hạng mục dự kiến hoàn thiện trong học kỳ II. Đây là phân hiệu chính của trường, bên cạnh hai cơ sở Tiên Phong và Thuỵ An."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một trong những điểm nhấn của công trình là hai cầu thang ngoài trời. Cầu thang này \"chạy\" lệch tầng, từ tầng 4 và 3 của tòa B sang tầng 3 và 2 tòa C. Từ trên cao nhìn xuống, các lối đi đan cài trên thảm cỏ xanh, như những tầng boong trên một con tàu lớn."
+    },
+    {
+     "t": "p",
+     "text": "Hiện, trường còn một số hạng mục dự kiến hoàn thiện trong học kỳ II. Đây là phân hiệu chính của trường, bên cạnh hai cơ sở Tiên Phong và Thuỵ An."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Năm học 2026-2027, trường có 888 học sinh với gần 50 giáo viên, nhân viên. Mỗi phòng học đều có máy tính cho giáo viên, kết nối màn hình chính trên bảng để trình bày bài giảng sinh động hơn. Học kỳ tới, các phòng đều được lắp điều hòa."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trường THCS Tản Đà còn có hệ thống phòng chức năng và bộ môn hiện đại. Trong ảnh là phòng Ngoại ngữ, bàn ghế được ghép theo nhóm để học sinh luyện nói, thảo luận. Trên tường trang trí bản đồ thế giới, xe buýt hai tầng, tháp đồng hồ Big Ben và khẩu hiệu \"A global mindset\" (Tư duy toàn cầu)."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Phòng Hóa học với các cụm bàn thí nghiệm, chính giữa mỗi cụm là bồn rửa và vòi nước, để học sinh vệ sinh dụng cụ ngay tại chỗ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Phòng Mỹ thuật có hơn 20 bàn vẽ chuyên dụng, là nơi trưng bày tranh vẽ, mô hình STEM do học sinh làm từ vật liệu tái chế."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Phòng Mỹ thuật có hơn 20 bàn vẽ chuyên dụng, là nơi trưng bày tranh vẽ, mô hình STEM do học sinh làm từ vật liệu tái chế."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Phòng Âm nhạc được trang bị 12 đàn organ. Theo cô Phương, giáo viên khai thác phòng nghệ thuật khá hiệu quả. Ngoài giờ học chính khóa, học sinh được sinh hoạt câu lạc bộ, tập luyện cho các tiết mục, cuộc thi."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Thư viện rộng 150 m2, hiện có hơn 3.800 đầu sách. Ngoài hai tiết đọc mỗi kỳ, học sinh có thể lên mượn hoặc đọc sách tại chỗ trong giờ ra chơi."
+    },
+    {
+     "t": "p",
+     "text": "\"Ra chơi em thường lên đây, chỉ hôm nào nhiều bài mới ở lại lớp. Em hay mượn truyện tranh và sách về các châu lục trên thế giới để đọc ở nhà\", Vũ Mạnh Đạt (phải), lớp 7A4, là một trong những \"khách quen\" của thư viện, nói."
+    },
+    {
+     "t": "p",
+     "text": "Thư viện rộng 150 m2, hiện có hơn 3.800 đầu sách. Ngoài hai tiết đọc mỗi kỳ, học sinh có thể lên mượn hoặc đọc sách tại chỗ trong giờ ra chơi."
+    },
+    {
+     "t": "p",
+     "text": "\"Ra chơi em thường lên đây, chỉ hôm nào nhiều bài mới ở lại lớp. Em hay mượn truyện tranh và sách về các châu lục trên thế giới để đọc ở nhà\", Vũ Mạnh Đạt (phải), lớp 7A4, là một trong những \"khách quen\" của thư viện, nói."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Trường có nhà đa năng và sân chơi ngoài trời, phục vụ các giờ học thể chất, hoạt động thể thao."
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Công Đình Tùng, lớp 6A5, thích nhất nhà đa năng, vì giờ ra chơi em và các bạn có thể xuống chơi nhiều môn thể thao, không phụ thuộc thời tiết."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Nằm ở tầng hầm, bể bơi rộng hơn 300 m2, sâu 1,5 m, đang chờ hoàn thiện trong học kỳ tới. Cô Liên Phương cho biết trường dự kiến vận hành bể quanh năm."
+    },
+    {
+     "t": "p",
+     "text": "\"Hiện ở xã Quảng Oai hay huyện Ba Vì cũ, chưa trường học nào có bể bơi đảm bảo chất lượng quốc tế như vậy\", cô Liên Phương nói."
+    },
+    {
+     "t": "p",
+     "text": "Nhà bếp và phòng ăn rộng khoảng 500 m2, đủ chỗ cho 600 học sinh cùng lúc. Bếp được thiết kế theo nguyên tắc một chiều, phân tách khu sơ chế, chế biến và chia suất. Hệ thống hút khói và thiết bị nấu bằng inox được lắp đồng bộ, đảm bảo vệ sinh an toàn thực phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Liên Phương, với trường mới, học sinh có môi trường học tập đầy đủ, giáo viên thuận lợi hơn trong giảng dạy. Tuy vậy, khuôn viên rộng khiến việc bảo quản, khai thác thiết bị tốn nhiều công sức hơn, chi phí vận hành, điện năng đều cao hơn nơi khác. Trường đang đề xuất địa phương hỗ trợ cũng như dự kiến lắp điện mặt trời để giảm chi phí."
+    },
+    {
+     "t": "p",
+     "text": "Nhà bếp và phòng ăn rộng khoảng 500 m2, đủ chỗ cho 600 học sinh cùng lúc. Bếp được thiết kế theo nguyên tắc một chiều, phân tách khu sơ chế, chế biến và chia suất. Hệ thống hút khói và thiết bị nấu bằng inox được lắp đồng bộ, đảm bảo vệ sinh an toàn thực phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Liên Phương, với trường mới, học sinh có môi trường học tập đầy đủ, giáo viên thuận lợi hơn trong giảng dạy. Tuy vậy, khuôn viên rộng khiến việc bảo quản, khai thác thiết bị tốn nhiều công sức hơn, chi phí vận hành, điện năng đều cao hơn nơi khác. Trường đang đề xuất địa phương hỗ trợ cũng như dự kiến lắp điện mặt trời để giảm chi phí."
+    }
+   ]
+  },
+  {
+   "id": "d98d20c78171",
+   "order": 11,
+   "slug": "hoa-si-ngoai-70-tuoi-hoi-sinh-khu-vuon-xua-ben-song-vam-thua",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Họa sĩ ngoài 70 tuổi hồi sinh khu vườn xưa bên sông Vàm Thuật",
+   "sapo": "Triển lãm Vườn ký ức giới thiệu 25 tranh của họa sĩ Đặng Thị Dương, tái hiện những mảnh vườn, cảnh vật và đàn ngựa thân thuộc bên sông Vàm Thuật trong ký ức qua sắc màu hội họa.",
+   "author": "HOÀI PHƯƠNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/hoa-si-ngoai-70-tuoi-hoi-sinh-khu-vuon-xua-ben-song-vam-thuat-100261122064509257.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 662,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/d98d20c78171-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-0.jpg",
+     "caption": "Họa sĩ Đặng Thị Dương tại triển lãm cá nhân thứ hai mang tên Vườn ký ức - Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-1.jpg",
+     "caption": "Họa sĩ Đặng Thị Dương (phải) giới thiệu các tác phẩm tại triển lãm Vườn ký ức - Ảnh: NVCC",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-2.jpg",
+     "caption": "Hình ảnh đàn ngựa xuất hiện trong nhiều tranh, gắn với những ký ức của họa sĩ Đặng Thị Dương từ khoảng 20 năm trước - Ảnh: NVCC",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-3.jpg",
+     "caption": "Những bức tranh gợi lại cảnh vật thân thuộc bên sông Vàm Thuật",
+     "w": 1280,
+     "h": 999
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-4.jpg",
+     "caption": "Họa sĩ đưa những hình ảnh đời thường vào một thế giới hội họa giàu cảm xúc",
+     "w": 1280,
+     "h": 894
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-5.jpg",
+     "caption": "Tranh Mẹ con dê xuống chợ",
+     "w": 1253,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-6.jpg",
+     "caption": "Tranh Mẹ con mèo rong chơi",
+     "w": 1280,
+     "h": 879
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-7.jpg",
+     "caption": "Tranh Hái hoa diên vĩ",
+     "w": 1280,
+     "h": 907
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-8.jpg",
+     "caption": "Tranh Hoa mòng gà đã nở",
+     "w": 1000,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-11-23/d98d20c78171-9.jpg",
+     "caption": "Tĩnh vật hoa ly",
+     "w": 1267,
+     "h": 1280
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Vườn ký ức là triển lãm cá nhân lần thứ hai của Nhà giáo ưu tú, họa sĩ Đặng Thị Dương, giới thiệu 25 tranh tái hiện cảnh vật, con người và ký ức thân thuộc bên dòng sông Vàm Thuật qua góc nhìn hội họa."
+    },
+    {
+     "t": "h",
+     "text": "Sông Vàm Thuật trong miền ký ức của họa sĩ Đặng Thị Dương"
+    },
+    {
+     "t": "p",
+     "text": "Triển lãm khai mạc tại Lê Gallery (48 Hưng Gia 3, phường Tân Hưng, TP.HCM), mở cửa tự do đến hết ngày 30-11."
+    },
+    {
+     "t": "p",
+     "text": "Qua 25 bức tranh, họa sĩ như đưa người xem trở về không gian sống thân thuộc từng gắn bó với nhiều người, đặc biệt là khu vườn bên sông Vàm Thuật - nơi cảnh vật thay đổi nhiều theo quá trình đô thị hóa."
+    },
+    {
+     "t": "p",
+     "text": "Những ký ức về ngôi nhà trắng, mảnh vườn nhỏ, bến tắm ngựa, tiếng vó ngựa và cảnh vật ven sông được bà chuyển tải bằng ngôn ngữ hội họa."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì tái hiện theo lối tả thực, họa sĩ Đặng Thị Dương chọn cách giản lược hình khối, phóng khoáng trong đường nét và sử dụng những mảng màu tươi sáng để thể hiện cảm xúc."
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh những chú ngựa đua gắn với ký ức khoảng 20 năm trước gây chú ý. Triển lãm còn có những bức tranh vẽ về hoa, cây trái, mèo, búp bê ngựa và các loài vật thân thuộc trong đời sống hằng ngày."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hoa hồng, mai, lan, hoa trang, hoa ly, hoa bụp, hoàng yến cùng những loài cây trái như đu đủ, dừa nước, cau, trầu, mận, xoài... “bước vào” tranh của họa sĩ tạo nên một thế giới thiên nhiên gần gũi, giàu sức sống."
+    },
+    {
+     "t": "p",
+     "text": "Thông qua những hình ảnh bình dị, Vườn ký ức không chỉ lưu giữ kỷ niệm riêng của tác giả, mà còn gợi nhắc người xem về những cảnh vật từng hiện diện trong đời sống của nhiều thế hệ."
+    },
+    {
+     "t": "h",
+     "text": "Biến những điều bình dị trở thành chất thơ"
+    },
+    {
+     "t": "p",
+     "text": "Nhà nghiên cứu mỹ thuật Ngô Kim Khôi nhận xét tranh của họa sĩ Đặng Thị Dương trong trẻo, nên thơ. Những hình ảnh trong đời sống, qua ký ức và nét vẽ của nữ họa sĩ, trở thành câu chuyện gợi kỷ niệm."
+    },
+    {
+     "t": "p",
+     "text": "Ông nói điểm đáng chú ý là các bức tranh này không chỉ phản ánh thế giới riêng của họa sĩ mà còn tạo sự đồng cảm với người xem, từ mảnh vườn, dòng sông đến những con vật từng gắn bó với tuổi thơ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Với họa sĩ Cao Thị Được, tranh của họa sĩ Đặng Thị Dương vẫn giữ được nét ngây thơ, hồn nhiên như tính cách ngoài đời. Họa sĩ Đặng Thị Dương là nguồn cảm hứng cho những nữ họa sĩ khác trong việc duy trì đam mê, gắn bó với nghề."
+    },
+    {
+     "t": "p",
+     "text": "“Điều đặc biệt trong tranh của họa sĩ Đặng Thị Dương là khả năng \"thi vị hóa ký ức\", biến những hình ảnh quen thuộc thành thế giới nghệ thuật mang màu sắc riêng”, họa sĩ Lê Ngọc Quỳnh cho biết."
+    },
+    {
+     "t": "h",
+     "text": "Người thầy của nhiều thế hệ họa sĩ TP.HCM"
+    },
+    {
+     "t": "p",
+     "text": "Họa sĩ Đặng Thị Dương sinh năm 1948 tại TP.HCM. Từ năm 1989 - 2010, bà công tác tại Trường đại học Mỹ thuật TP.HCM , từng giữ vị trí Chủ nhiệm khoa kiến thức cơ bản."
+    },
+    {
+     "t": "p",
+     "text": "Hơn 20 năm gắn bó với giảng đường, bà đào tạo nhiều thế hệ họa sĩ, trong đó có những người hiện đảm nhiệm vị trí quản lý tại các cơ sở đào tạo mỹ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Tiến sĩ Ngô Việt Hùng - Hiệu trưởng Trường đại học Mỹ thuật TP.HCM - là một trong những học trò của họa sĩ Đặng Thị Dương."
+    },
+    {
+     "t": "p",
+     "text": "Bà là hội viên Hội Mỹ thuật Việt Nam, Hội Mỹ thuật TP.HCM và thành viên Liên đoàn Nữ nghệ sĩ quốc tế. Tranh của bà từng được giới thiệu tại Pháp, Singapore, Hàn Quốc, Trung Quốc, Ấn Độ, Mông Cổ..."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    }
+   ]
+  },
+  {
+   "id": "824b9209e11e",
+   "order": 12,
+   "slug": "nam-sinh-mo-coi-bo-me-10-nam-lam-lop-truong-di-lam-them-nuoi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nam sinh mồ côi bố mẹ 10 năm làm lớp trưởng, đi làm thêm nuôi mơ ước thi sư phạm",
+   "sapo": "Mồ côi cả bố lẫn mẹ, Hồ Vũ Bảo (18 tuổi, ngụ Đồng Nai) vừa đi học vừa làm phụ quán kiếm sống, nỗ lực vượt khó và nuôi ước mơ trở thành thầy giáo.",
+   "author": "Hoàng Anh",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/nam-sinh-mo-coi-bo-me-10-nam-lam-lop-truong-di-lam-them-nuoi-mo-uoc-thi-su-pham-2577573.html",
+   "published": "2026-11-22T04:48:08+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 899,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/824b9209e11e-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 670
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-0.jpg",
+     "caption": "Nam sinh Hồ Vũ Bảo tại phòng trọ. Ảnh: Hoàng Anh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-1.jpg",
+     "caption": "Chủ trọ thường xuyên đem đồ ăn, hỗ trợ cho Bảo. Ảnh: Hoàng Anh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-2.jpg",
+     "caption": "Sau giờ học Bảo tranh thủ đi làm thêm. Ảnh: Hoàng Anh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-3.jpg",
+     "caption": "Bảo có ước mơ trở thành thầy giáo. Ảnh: Hoàng Anh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-4.jpg",
+     "caption": "Thầy giáo quen với việc tết tóc, múa hát và dọn vệ sinh cho trẻ",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-5.jpg",
+     "caption": "Cô giáo vượt đèo vận động học sinh, miệt mài đổi mới từng giờ học",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-11-23/824b9209e11e-6.jpg",
+     "caption": "3 cô giáo thay nhau đón bé gái 3 tuổi mồ côi mẹ đến trường mỗi ngày",
+     "w": 956,
+     "h": 637
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Hành trình đến trường của nam sinh mồ côi bố mẹ"
+    },
+    {
+     "t": "p",
+     "text": "Trong căn phòng trọ nhỏ tại phường Biên Hòa (TP Đồng Nai ), Hồ Vũ Bảo (SN 2008, học sinh lớp 10A14, Trường THPT Chu Văn An) đang từng ngày xoay xở với cuộc sống tự lập. Ngoài giờ học, nam sinh lại tất bật với công việc phụ quán để kiếm tiền trang trải sinh hoạt."
+    },
+    {
+     "t": "p",
+     "text": "Ít ai biết rằng, phía sau dáng vẻ rắn rỏi của cậu học trò 18 tuổi là những mất mát liên tiếp khi cả cha lẫn mẹ đều đã qua đời."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Bảo kể, gia đình có 3 chị em gồm Nguyễn Huỳnh Uyên Châu (SN 2006), Hồ Vũ Bảo và Hồ Bảo Ngọc (SN 2010). Do cuộc sống khó khăn khiến tuổi thơ của các em không được như bạn bè cùng trang lứa."
+    },
+    {
+     "t": "p",
+     "text": "\"Hồi nhỏ, 3 chị em không cho đi học, phải cùng mẹ đi quanh khu vực chợ để bán trái cây. Sau này mẹ mất, dì ruột mới cho đi học. Lúc đó, em đã trễ 3 năm học so với các bạn cùng trang lứa\", Bảo nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi mẹ qua đời, 3 chị em Bảo được dì ruột đón về chăm sóc, còn bố Bảo bán vé số để mưu sinh."
+    },
+    {
+     "t": "p",
+     "text": "Đầu năm 2026, Bảo quyết định chuyển đến sống cùng bố. Nhưng tưởng 2 bố con sẽ có thêm thời gian nương tựa nhau, tuy nhiên niềm vui đoàn tụ chỉ kéo dài 9 ngày thì bố Bảo đột ngột qua đời do đột quỵ, để lại nam sinh một mình giữa bộn bề cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Không còn bố mẹ bên cạnh, Bảo thuê căn phòng trọ cách trường khoảng 1km. Từ chuyện ăn uống, giặt giũ đến tiền học phí, sinh hoạt, em đều phải tự xoay xở."
+    },
+    {
+     "t": "p",
+     "text": "\"May mắn là cô chủ trọ rất thương, thỉnh thoảng cô giảm tiền phòng và tạo điều kiện cho em đăng ký tạm trú để làm căn cước\", Bảo chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Thương hoàn cảnh của cậu học trò mồ côi, bà Nguyễn Thị Thắm, chủ nhà trọ tại khu phố Bửu Hòa 1, phường Biên Hòa luôn tìm cách giúp đỡ trong khả năng của mình."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bà Thắm cho biết, khi biết Bảo không còn bố mẹ, phải tự đi làm kiếm tiền ăn học, bà đã tạo điều kiện cho em đăng ký tạm trú để hoàn thiện giấy tờ cá nhân. Trong sinh hoạt hằng ngày, bà cũng thường xuyên quan tâm, chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "\"Có gì ăn được, tôi lại mang qua cho cháu. Thấy cháu còn nhỏ mà phải tự lo mọi thứ, tôi cũng thương nên cố gắng giúp đỡ phần nào\", bà Thắm chia sẻ."
+    },
+    {
+     "t": "h",
+     "text": "Vừa làm phụ quán, vừa nuôi ước mơ trở thành thầy giáo"
+    },
+    {
+     "t": "p",
+     "text": "Sau khi bố mất, Bảo xin vào làm phục vụ tại một quán hải sản cách phòng trọ khoảng 8km để kiếm tiền trang trải cuộc sống."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mỗi ngày, sau giờ học, em lại tranh thủ đến quán làm việc, có những hôm đến hơn 22h mới về. Thu nhập trung bình khoảng 3,5 triệu đồng/tháng được Bảo dành để đóng tiền thuê phòng, học phí và sinh hoạt."
+    },
+    {
+     "t": "p",
+     "text": "\"Quản lý ở quán biết hoàn cảnh của em từ trước nên rất thông cảm. Những hôm em đi làm trễ hay xin nghỉ để ôn thi đều được tạo điều kiện\", Bảo kể."
+    },
+    {
+     "t": "p",
+     "text": "Dù phải vừa học vừa làm, nam sinh vẫn duy trì thành tích học tập đáng ghi nhận. Trong 9 năm học, em đều đạt danh hiệu học sinh giỏi và xuất sắc."
+    },
+    {
+     "t": "p",
+     "text": "Ở bậc THCS, Bảo còn giành giải Nhì và giải Khuyến khích trong cuộc thi Khoa học kỹ thuật cấp thành phố. Trong kỳ thi tuyển sinh lớp 10, em đạt tổng 20,25 điểm trúng tuyển nguyện vọng 1."
+    },
+    {
+     "t": "p",
+     "text": "Bảo cho biết, suốt 10 năm liền em đều được thầy cô và bạn bè tín nhiệm bầu làm lớp trưởng. Với em, việc học không chỉ là trách nhiệm mà còn là con đường để thay đổi tương lai. Dẫu cuộc sống còn nhiều khó khăn, Bảo vẫn ấp ủ ước mơ được đứng trên bục giảng."
+    },
+    {
+     "t": "p",
+     "text": "\"Từ hồi cấp 2, bản thân em đã dự định học sư phạm. Sau khi tốt nghiệp cấp 3, em muốn thi vào ngành sư phạm để sau này trở thành giáo viên dạy Toán hoặc Hóa\", Bảo chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi với PV VietNamNet , cô Dương Ngọc Dung, Hiệu trưởng Trường THPT Chu Văn An cho biết, nhà trường đã nắm được hoàn cảnh đặc biệt khó khăn của em Hồ Vũ Bảo thông qua giáo viên chủ nhiệm và các giáo viên bộ môn."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Dung, nhà trường luôn quan tâm, động viên và tạo điều kiện để Bảo yên tâm học tập. Trước mắt, trường dự kiến hỗ trợ em về bảo hiểm y tế, đồng phục, sách vở cùng các điều kiện học tập cần thiết, giúp nam sinh giảm bớt gánh nặng cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, Hội Bảo trợ Người khuyết tật, Trẻ mồ côi và Bệnh nhân nghèo TP Đồng Nai đã tiến hành khảo sát hoàn cảnh của Bảo, đồng thời phối hợp tổ chức chương trình “Khát vọng sống” vào ngày 25/11 nhằm chung tay hỗ trợ, giúp nam sinh ổn định cuộc sống và theo đuổi ước mơ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    }
+   ]
+  },
+  {
+   "id": "e1e403bdbd1a",
+   "order": 13,
+   "slug": "nhom-hoc-sinh-bien-xuong-ca-thanh-bo-loc-nuoc-sach",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nhóm học sinh biến xương cá thành bộ lọc nước sạch",
+   "sapo": "Một nhóm học sinh trung học tại Brazil cùng giáo viên đã đốt xương pirarucu (cá hải tượng long) thành than để làm bộ lọc nước uống cho các khu vực ở Amazon.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nhom-hoc-sinh-bien-xuong-ca-thanh-bo-loc-nuoc-sach-185261122105246297.htm",
+   "published": "2026-11-22T04:09:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 304,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/e1e403bdbd1a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/e1e403bdbd1a-0.jpg",
+     "caption": "Mẫu than carbon lọc nước được lấy từ việc nung xương cá pirarucu và nghiền thành bột",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/e1e403bdbd1a-1.jpg",
+     "caption": "Nhóm học sinh Brazil so sánh mẫu nước lấy từ sông (chai bên trái) và nước đã qua bộ lọc dùng nguyên liệu xương cá pirarucu",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Reuters ngày 21.11 đưa tin giải pháp lọc nước nêu trên được thực hiện bởi giáo viên hướng dẫn Galileu da Silva Pires và nhóm học sinh Trường trung học Jose Mota (thị trấn Manacapuru, khu vực sông Amazon tại Brazil)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Nhóm sử dụng phần xương sống lớn của loài cá pirarucu bản địa (cá hải tượng long) - thường dài tới 2 m - đem nung ở nhiệt độ lên đến 900 độ C, rồi nghiền phần xương cháy thành loại bột có khả năng hấp thụ kim loại nặng và các chất ô nhiễm khác."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là dạng carbon sinh thái bền vững, không cần chặt cây. Nhờ đó, chúng ta có thể tạo ra nước uống từ nguồn tài nguyên này\", ông da Silva Pires cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Các cộng đồng sống ven sông tại vùng Amazon thường phải dùng nước uống chưa được xử lý trong mùa hạn hán, khi trời không có mưa và mực nước sông giảm khiến các chất ô nhiễm đậm đặc hơn. Sông Solimoes, đoạn thượng nguồn sông Amazon chảy qua Manacapuru, hiện cũng ở mức nước thấp sau đợt hạn hán."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ngoài việc lọc nước mà không cần chặt cây lấy gỗ, tận dụng xương cá hải tượng long còn giúp giảm tình trạng rác thải cá tích tụ sau khi người dân lấy phần thịt và vứt bỏ xương."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng em rất vui khi có nguồn nước lọc chất lượng hơn và tạo ra thứ có giá trị\", học sinh Ana Flavia Costa Lopes (18 tuổi) nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông da Silva Pires cho rằng dự án có thể áp dụng ở nhiều cộng đồng khác, tận dụng tài nguyên thiên nhiên để giải quyết vấn đề nước sạch kéo dài nhiều thập niên."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu: Ngắm biển có tác dụng tốt cho bệnh nhân ICU"
+    }
+   ]
+  },
+  {
+   "id": "eb76a591245a",
+   "order": 14,
+   "slug": "nu-sinh-vien-21-tuoi-nhan-huan-chuong-lao-dong-hang-nhat",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Nữ sinh viên 21 tuổi nhận Huân chương Lao động hạng nhất",
+   "sapo": "Ở tuổi 21, nữ vận động viên Nguyễn Thanh Mai vừa bảo vệ thành công Huy chương vàng tại Đại hội Thể thao toàn quốc lần thứ X, vừa vinh dự được trao Huân chương Lao động hạng nhất.",
+   "author": "TRẦN HUỲNH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nu-sinh-vien-21-tuoi-nhan-huan-chuong-lao-dong-hang-nhat-100261122100526639.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 726,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/eb76a591245a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/eb76a591245a-0.jpg",
+     "caption": "Sinh viên Nguyễn Thanh Mai được Chủ tịch nước trao tặng Huân chương Lao động hạng nhất - Ảnh: NVCC",
+     "w": 1280,
+     "h": 1284
+    },
+    {
+     "src": "img/2026-11-23/eb76a591245a-1.jpg",
+     "caption": "",
+     "w": 1080,
+     "h": 1540
+    },
+    {
+     "src": "img/2026-11-23/eb76a591245a-2.jpg",
+     "caption": "",
+     "w": 1035,
+     "h": 868
+    },
+    {
+     "src": "img/2026-11-23/eb76a591245a-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-23/eb76a591245a-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Huân chương Lao động hạng nhất là dấu mốc đáng nhớ trong hành trình 13 năm theo đuổi vovinam của Thanh Mai, sinh viên Học viện Hàng không Việt Nam. Cô từng giành huy chương vàng Giải vô địch vovinam thế giới năm 2025 tại Indonesia."
+    },
+    {
+     "t": "h",
+     "text": "13 năm theo đuổi đam mê võ thuật, được trao Huân chương Lao động"
+    },
+    {
+     "t": "p",
+     "text": "Sinh năm 2005, Nguyễn Thanh Mai hiện là sinh viên năm cuối khoa ngoại ngữ, Học viện Hàng không Việt Nam, đồng thời thi đấu cho đoàn thể thao TP.HCM. Với gương mặt sáng và những động tác kỹ thuật đẹp mắt, nữ vận động viên gây ấn tượng qua các phần trình diễn vovinam, đặc biệt ở nội dung tinh hoa lưỡng nghi kiếm pháp nữ."
+    },
+    {
+     "t": "p",
+     "text": "Bắt đầu tập luyện vovinam từ sớm, đến nay Mai đã có khoảng 13 năm gắn bó với môn võ này. Quá trình rèn luyện bền bỉ giúp cô từng bước khẳng định năng lực tại các giải đấu. Năm 2023, Mai gây chú ý tại các giải trẻ toàn quốc với thành tích giành hai huy chương vàng."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 11-2025, tại Giải vô địch vovinam thế giới tổ chức ở Indonesia, Thanh Mai xuất sắc giành huy chương vàng nội dung tinh hoa lưỡng nghi kiếm pháp nữ, góp phần vào thành tích chung của đội tuyển vovinam Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Một năm sau, tại Đại hội thể thao toàn quốc lần thứ X năm 2026, nữ vận động viên tiếp tục bảo vệ thành công ngôi vô địch ở nội dung sở trường, mang về huy chương vàng cho đoàn thể thao TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Với những thành tích nổi bật, tại lễ khai mạc môn vovinam trong khuôn khổ Đại hội thể thao toàn quốc lần thứ X, Thanh Mai vinh dự được trao Huân chương Lao động hạng nhất. Phần thưởng cao quý ghi nhận thành tích giành huy chương vàng tại Giải vô địch vovinam thế giới năm 2025."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ về dấu mốc đặc biệt này, Mai cho biết: \"Ở độ tuổi của tôi, được nhận Huân chương Lao động hạng nhất là điều vô cùng vinh dự và rất quý giá. Tôi cảm thấy đây là cột mốc rất quan trọng trong cuộc đời mình, là sự ghi nhận để tôi có thể cố gắng hơn, phát triển thành tích ở các mùa giải tới và phát triển bản thân trong tương lai\"."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thanh Mai xuất sắc giành huy chương vàng nội dung tinh hoa lưỡng nghi kiếm pháp nữ tại Giải vô địch vovinam thế giới năm 2025, và hình ảnh cô trong bộ đồng phục sinh viên Học viện Hàng không Việt Nam - Ảnh: NVCC"
+    },
+    {
+     "t": "h",
+     "text": "Nỗ lực trên cả giảng đường và võ đài"
+    },
+    {
+     "t": "p",
+     "text": "Đằng sau những tấm huy chương là quá trình tập luyện kéo dài, đòi hỏi sự kiên trì và kỷ luật. Với Mai, việc duy trì phong độ thi đấu, trau dồi kỹ thuật và thể lực là những yêu cầu quan trọng để chuẩn bị cho mỗi mùa giải."
+    },
+    {
+     "t": "p",
+     "text": "\"Để có được thành tích thi đấu tốt và mùa giải có ý nghĩa thì mình và cả đội đã dành ra một khoảng thời gian để tập luyện, trau dồi chuyên môn, kỹ thuật và thể lực để có thể thi đấu tốt\", Mai chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Nữ vận động viên cho biết cô luôn nhận được sự quan tâm, hỗ trợ của các thầy cô trong ban huấn luyện và các anh chị, cả về chuyên môn lẫn tinh thần. Tuy nhiên, việc duy trì sự ổn định, tự tin và bản lĩnh trong thi đấu vẫn là thử thách. Những đợt tập trung thi đấu kéo dài cũng phần nào ảnh hưởng đến việc học tại trường."
+    },
+    {
+     "t": "p",
+     "text": "Vừa theo đuổi chương trình đại học, vừa tham gia thi đấu thể thao thành tích cao, Mai phải nỗ lực sắp xếp thời gian để đáp ứng cả hai nhiệm vụ. Với cô, sự hỗ trợ từ thầy cô, đồng đội cùng tinh thần kiên trì là những yếu tố quan trọng giúp tiếp tục theo đuổi đam mê."
+    },
+    {
+     "t": "p",
+     "text": "Từ những giải đấu trẻ trong nước đến đấu trường thế giới và Đại hội thể thao toàn quốc, hành trình của Nguyễn Thanh Mai là dấu ấn của một vận động viên trẻ bền bỉ với vovinam."
+    }
+   ]
+  },
+  {
+   "id": "6a6477eda59b",
+   "order": 15,
+   "slug": "ts-tran-nam-dung-ke-ve-giao-su-toan-hoc-9x-pham-tuan-huy-gia",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "TS Trần Nam Dũng kể về giáo sư Toán học 9x Phạm Tuấn Huy giải bài toán tồn tại 55 năm",
+   "sapo": "Từ cậu học trò giải Toán không cần giấy nháp, Phạm Tuấn Huy trở thành nhà toán học được quốc tế ghi nhận. TS Trần Nam Dũng kể về học trò cũ.",
+   "author": "Lê Huyền",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/ts-tran-nam-dung-ke-ve-hoc-tro-9x-pham-tuan-huy-giai-bai-toan-ton-tai-55-nam-2576903.html",
+   "published": "2026-11-22T22:36:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1159,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/6a6477eda59b-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 681
+    },
+    {
+     "src": "img/2026-11-23/6a6477eda59b-0.jpg",
+     "caption": "Phạm Tuấn Huy. Ảnh: Clay Mathematics Institute",
+     "w": 1020,
+     "h": 942
+    },
+    {
+     "src": "img/2026-11-23/6a6477eda59b-1.jpg",
+     "caption": "TS Trần Nam Dũng, Phó Hiệu trưởng Trường Phổ thông Năng khiếu (Đại học Quốc gia TPHCM).",
+     "w": 1000,
+     "h": 753
+    },
+    {
+     "src": "img/2026-11-23/6a6477eda59b-2.jpg",
+     "caption": "TS Trần Nam Dũng: Thi trường chuyên theo khối, học sinh giỏi 1 môn có thể trượt",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/6a6477eda59b-3.jpg",
+     "caption": "TS Trần Nam Dũng kể chuyện thay đổi cách dạy, học Toán trong thời đại AI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/6a6477eda59b-4.jpg",
+     "caption": "Bà giáo làng 74 tuổi dùng mặt bàn làm bảng, dạy Toán hút triệu view",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Phạm Tuấn Huy (sinh năm 1996) là cựu học sinh Trường Phổ thông Năng khiếu (Đại học Quốc gia TPHCM), hiện là giáo sư Toán học tại Đại học Chicago. Phạm Tuấn Huy từng hai lần giành Huy chương Vàng Olympic Toán học Quốc tế (IMO) vào năm 2013 và 2014, tốt nghiệp Stanford và Cambridge. Năm 2023, anh nhận học bổng Clay Research Fellowship. Mới đây, anh cùng cộng sự giải bài toán tồn tại suốt 55 năm bằng ý tưởng lấy cảm hứng từ nghệ thuật tung hứng."
+    },
+    {
+     "t": "h",
+     "text": "Lựa chọn con đường riêng, chinh phục những khát vọng tuổi trẻ"
+    },
+    {
+     "t": "p",
+     "text": "TS Trần Nam Dũng, Phó Hiệu trưởng Trường Phổ thông Năng khiếu (Đại học Quốc gia TPHCM), kể năm 2011, Phạm Tuấn Huy đứng trước một lựa chọn quan trọng. Thay vì nhận học bổng học phổ thông và đại học tại Singapore, Huy quyết định trở thành học sinh lớp 10 chuyên Toán của Trường Phổ thông Năng khiếu."
+    },
+    {
+     "t": "p",
+     "text": "“Đó là lựa chọn thể hiện cá tính của Huy. Cậu muốn được phát triển theo cách riêng, thử thách bản thân và chinh phục những khát vọng tuổi trẻ. Quyết định ấy mở đầu cho hành trình đặc biệt”, TS Trần Nam Dũng nói."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2013, khi học lớp 11, Huy cùng đàn anh Cấn Trần Thành Trung giành Huy chương Vàng IMO, mang về thành tích đáng tự hào cho nhà trường. Một năm sau, Huy tiếp tục giành Huy chương Vàng IMO lần thứ hai. Với hai tấm huy chương vàng quốc tế, Phạm Tuấn Huy sớm trở thành một trong những gương mặt nổi bật của thế hệ học sinh chuyên Toán Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng theo TS Trần Nam Dũng, điều đáng nhớ ở Huy không chỉ nằm ở những giải thưởng. Trong môi trường Phổ thông Năng khiếu, Huy được thầy cô, bạn bè biết đến như một hiện tượng toán học có cá tính học thuật đặc biệt. Huy có thể hình dung và sắp xếp những cấu trúc, lập luận toán học phức tạp trong đầu, sau đó trình bày lời giải hoàn chỉnh mà không cần giấy nháp. Sự tò mò của Huy cũng không dừng lại ở việc tìm ra đáp án. Cậu muốn hiểu sâu bản chất vấn đề, tìm kiếm những mối liên hệ và phát triển trực giác toán học."
+    },
+    {
+     "t": "p",
+     "text": "Một điều thú vị khác là thế giới của Huy không chỉ có những con số và công thức. Từ nhỏ, cậu đã theo học âm nhạc bài bản tại nhạc viện, có khả năng chơi piano và cảm thụ nghệ thuật."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Trần Nam Dũng, ở Huy có sự kết hợp đặc biệt giữa tư duy logic sắc bén và tâm hồn nhạy cảm. Huy còn có khả năng cảm thụ, trình bày những suy nghiệm sâu sắc về các tác phẩm văn học, nghệ thuật bằng ngôn từ trong sáng, khúc chiết và tinh tế. Sự cân bằng ấy góp phần tạo nên một Phạm Tuấn Huy điềm tĩnh, sâu sắc và có cách tiếp cận tri thức riêng."
+    },
+    {
+     "t": "p",
+     "text": "Giải bài toán tồn tại 55 năm"
+    },
+    {
+     "t": "p",
+     "text": "Rời Trường Phổ thông Năng khiếu, Phạm Tuấn Huy tiếp tục con đường học thuật tại Đại học Stanford (Mỹ). Anh theo đuổi Toán học và Thống kê, sau đó hoàn thành chương trình nghiên cứu cao cấp về Toán tại Đại học Cambridge (Anh)."
+    },
+    {
+     "t": "p",
+     "text": "Tại Stanford, dưới sự hướng dẫn của Giáo sư Jacob Fox, Huy bước vào con đường nghiên cứu chuyên sâu. Một trong những dấu mốc nổi bật trong sự nghiệp nghiên cứu của Huy là cùng nhà toán học Jinyoung Park chứng minh thành công Giả thuyết Kahn-Kalai vào năm 2022. Đây là bài toán quan trọng trong lĩnh vực tổ hợp xác suất, được hai nhà toán học Jeff Kahn và Gil Kalai đặt ra từ năm 2006."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2023, khi đang là nghiên cứu sinh tiến sĩ tại Stanford, Huy được lựa chọn tham gia chương trình Clay Research Fellowship của Viện Toán học Clay. Đây là chương trình hỗ trợ các nhà toán học trẻ có triển vọng nghiên cứu xuất sắc. Viện Toán học Clay đánh giá Huy là nhà nghiên cứu sáng tạo, sung sức, có những đóng góp quan trọng trong tổ hợp, xác suất, lý thuyết số và khoa học máy tính lý thuyết."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, Phạm Tuấn Huy cùng nhà toán học Lisa Sauermann hoàn tất chứng minh Giả thuyết Graham - bài toán thuộc lĩnh vực lý thuyết số và tổ hợp, thách thức giới toán học suốt 55 năm. Giả thuyết này do cố Giáo sư Ronald Graham đặt ra, lấy cảm hứng từ nghệ thuật tung hứng. Ông không chỉ từng giữ cương vị Chủ tịch Hiệp hội Toán học Mỹ mà còn là Chủ tịch Hiệp hội Tung hứng Quốc tế."
+    },
+    {
+     "t": "h",
+     "text": "Trở về trường cũ, truyền cảm hứng cho thế hệ sau"
+    },
+    {
+     "t": "p",
+     "text": "Dù học tập và làm việc ở nước ngoài, Phạm Tuấn Huy vẫn giữ mối gắn bó với Trường Phổ thông Năng khiếu . Theo TS Trần Nam Dũng, Huy là người sống tình cảm, luôn trân trọng những người thầy từng dìu dắt mình. Khi còn là học sinh, Huy thường viết thư tay gửi thầy giáo. Những kết nối ấy vẫn được duy trì ngay cả khi anh bước vào môi trường nghiên cứu quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2024, tại hội nghị toán học quốc tế “Âm hưởng trong thế giới hiện đại” do Trường Đại học Khoa học Tự nhiên và Trường Phổ thông Năng khiếu tổ chức, Huy trở về gặp lại thầy cô, bạn bè và các thế hệ học sinh."
+    },
+    {
+     "t": "p",
+     "text": "Trong chương trình, Huy trình bày báo cáo khoa học mang tên “When are structures robust under randomness?” (Khi nào các cấu trúc bền vững trước tính ngẫu nhiên?). Đây không chỉ là dịp để Huy chia sẻ những kết quả nghiên cứu mới mà còn giúp học sinh tiếp cận tư duy toán học hiện đại qua câu chuyện của một cựu học sinh từng trưởng thành từ chính ngôi trường này."
+    },
+    {
+     "t": "p",
+     "text": "Với TS Trần Nam Dũng, hành trình của Phạm Tuấn Huy là niềm tự hào của nhà trường. Nhưng điều đáng quý hơn cả thành tích là tinh thần học thuật mà Huy duy trì: Sự tò mò, kiên trì, khả năng tư duy độc lập và thái độ khiêm tốn trước tri thức."
+    },
+    {
+     "t": "p",
+     "text": "Một sự trùng hợp thú vị là Phạm Tuấn Huy sinh năm 1996, cũng là năm Trường Phổ thông Năng khiếu được thành lập. Năm 2026, khi nhà trường bước sang tuổi 30, Huy cũng tròn 30 tuổi. Với TS Trần Nam Dũng, đó không đơn thuần là câu chuyện về một tài năng xuất chúng, mà còn là minh chứng cho sức mạnh của niềm đam mê, sự tự do trong tư duy và tinh thần kiên trì theo đuổi những câu hỏi lớn."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "e7916f084de0",
+   "order": 16,
+   "slug": "gs-nguy-nhu-kontum-tu-phong-thi-nghiem-nobel-den-doi-tan-hie",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục",
+   "sapo": "(Dân trí) - Ở tuổi 26, GS Ngụy Như Kontum rời phòng thí nghiệm danh tiếng tại Pháp để trở về quê hương. Lựa chọn ấy mở ra hành trình hơn 40 năm ông tận hiến",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/gs-nguy-nhu-kontum-tu-phong-thi-nghiem-nobel-den-doi-tan-hien-cho-giao-duc-20261114191811242.htm",
+   "published": "2026-11-21T23:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 2371,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/e7916f084de0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-0.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 2",
+     "w": 1280,
+     "h": 399
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-1.jpg",
+     "caption": "GS Ngụy Như Kontum (hàng ngồi, thứ 4, từ trái sang) dự Hội nghị Khoa học Mùa hè Bắc Kinh năm 1966 (Ảnh: Gia đình cung cấp).",
+     "w": 1280,
+     "h": 852
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-2.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 5",
+     "w": 1280,
+     "h": 526
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-3.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 8",
+     "w": 1280,
+     "h": 261
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-4.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 10",
+     "w": 1280,
+     "h": 833
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-5.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 12",
+     "w": 1280,
+     "h": 497
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-6.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 14",
+     "w": 1280,
+     "h": 331
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-7.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 16",
+     "w": 1280,
+     "h": 892
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-8.jpg",
+     "caption": "GS Ngụy Như Kontum: Từ phòng thí nghiệm Nobel đến đời tận hiến cho giáo dục - 18",
+     "w": 1280,
+     "h": 734
+    },
+    {
+     "src": "img/2026-11-23/e7916f084de0-9.jpg",
+     "caption": "GS Ngụy Như Kontum tại Hội nghị Thế giới chống bom nguyên tử và khinh khí tại Nhật Bản. (Ảnh tại tư gia).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Biệt thự cổ nơi cố Giáo sư (GS) Ngụy Như Kontum từng sinh sống nằm trên một con phố cũ ở Hà Nội. Ngôi nhà trầm mặc một dáng đứng riêng, lối vào sẫm sẫm tối bởi bóng hoa sữa đổ xuống, những tán khế um tùm và hương hoa mộc thoang thoảng lướt qua. TS Ngụy Tuyết Nhung - người con gái duy nhất của GS - chầm chậm bước ra cánh cổng nhỏ đón chúng tôi."
+    },
+    {
+     "t": "p",
+     "text": "Ngôi nhà qua vài thập kỷ không sửa chữa gì, bài trí đơn giản theo lối cũ với những bức ảnh đóng khung kính gắn lên tường, những giá sách ngay ngắn, một chú rùa gỗ trên dưới 50 năm tuổi bám lên cánh cửa phòng đọc. Cùng với đó, nhiều kỷ vật xưa được những người con của GS gìn giữ trong tủ kính. Ngồi trong căn phòng này, chúng tôi cứ nghĩ mãi về lựa chọn của người trí thức trẻ ấy: rời phòng thí nghiệm danh tiếng, từ bỏ tương lai khoa học rộng mở ở châu Âu để trở về phụng sự Tổ quốc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "GS Ngụy Như Kontum sinh ngày 3/5/1913, trong một gia đình viên chức bậc trung. Cha ông là cụ Ngụy Như Bích, một chủ sự bưu điện. Mẹ ông là con gái của GS Nguyễn Đình Phong, một nhà giáo từng giảng dạy tại Trường Bưởi (nay là Trường THPT chuyên Chu Văn An, Hà Nội)."
+    },
+    {
+     "t": "p",
+     "text": "Thời thơ ấu, ông sống trong \"bầu sữa\" văn hoá các dân tộc Tây Nguyên. Ô ng biết tiếng Pháp và tiếng Gia Rai trước khi biết tiếng Việt. Mãi đến lúc học ở Trường Quốc học Huế, nhờ có phương pháp giảng dạy và sự đồng hành tận tâm của GS Đặng Thai Mai, ông mới dần học và nói tốt tiếng Việt."
+    },
+    {
+     "t": "p",
+     "text": "Cũng vì thạo tiếng Gia Rai hơn tiếng Việt mà ông bị bạn bè trêu chọc. Thậm chí có 1 một thầy giáo thay vì gọi ông là Nguỵ Như Kontum đã dùng một từ khá nhạy cảm để gọi ông. Ký ức tổn thương này khiến ông khắc cốt ghi tâm một nguyên tắc mà ông dùng cả đời dạy học sau này để thực thi, đó là không bao giờ xúc phạm học trò, dù vô tình hay cố ý."
+    },
+    {
+     "t": "p",
+     "text": "Nổi tiếng thông minh từ nhỏ, lại thêm đức cần cù chăm chỉ, GS Kontum đã lần lượt đạt loại xuất sắc các bằng Tú tài bản xứ gồm Tú tài Tây ban Toán cùng Tú tài Tây ban Triết năm 1932."
+    },
+    {
+     "t": "p",
+     "text": "Học bổng toàn phần tại Đại học Paris (thường gọi là Sorbonne, Pháp) đã đưa ông đến một trong những trung tâm tri thức lừng lẫy và danh giá nhất châu Âu lúc bấy giờ. Vượt qua tất thảy những bỡ ngỡ, choáng ngợp nơi Paris hoa lệ, chàng sinh viên Kontum đã chuyên tâm học, đọc và nghiên cứu. Chỉ sau 3 năm, ông nhận được tấm bằng cử nhân khoa học xuất sắc. Và sau đúng chừng ấy thời gian, ông trở thành thạc sĩ vật lý đầu tiên của Việt Nam trên đất Pháp."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đầu năm 1939, ông được nhà vật lý hạt nhân người Pháp F. Joliot Curie - chủ nhân Nobel hóa học 1935 - đồng ý nhận hướng dẫn làm luận án tiến sĩ vật lý. Đồng môn nghiên cứu của ông là Tiền Tam Cường, sau này trở thành Phó Chủ tịch Viện Hàn lâm Khoa học, “cha đẻ bom nguyên tử Trung Quốc”."
+    },
+    {
+     "t": "p",
+     "text": "Khi ông đang thực hiện luận án tiến sĩ được một năm thì Thế chiến thứ II bùng nổ. Phòng thí nghiệm của F. Joliot Curie bị trưng dụng. GS Joliot đã khuyên ông nếu muốn tiếp tục ở lại thì phải có hai điều kiện là xin nhập quốc tịch Pháp và được Bộ Quốc phòng Pháp tuyển dụng."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi suy nghĩ, ông quyết định về nước để mong được phục vụ đất nước. Đó là cuối năm 1939, khi chàng thanh niên Kontum tròn 26 tuổi. Quyết định của ông nhận được sự khích lệ của F. Joliot Curie. Trong các sách, tài liệu còn lưu lại về GS, khi ấy F. Joliot Curie đã nói với ông: \"... Nhưng tôi nghĩ rằng đất nước của anh cần anh hơn là nước Pháp\"."
+    },
+    {
+     "t": "p",
+     "text": "Sau này, khi trở lại Pháp, đi đến đâu, ông cũng được giới thiệu về quá khứ cộng tác với ông bà Joliot - Curie. Đây không những là niềm tự hào của riêng ông hay gia đình mà còn là “niềm tự hào của những sinh viên Việt Nam ở Pháp” thời đó (dẫn theo bút ký của cố kỹ sư Lê Tâm). Nhưng bản thân ông lại rất ít khi kể chuyện với ai về thời kỳ tập sự trong phòng nghiên cứu danh tiếng này."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Theo ước nguyện của cha và ảnh hưởng của thầy giáo Đặng Thai Mai, GS Kontum đã chọn sư phạm làm sự nghiệp lớn của cả đời mình."
+    },
+    {
+     "t": "p",
+     "text": "Ông từng chia sẻ rằng: “Cha tôi là một công chức bậc trung, ông thường khuyên nhủ tôi nên chọn một trong hai nghề: nghề thầy thuốc hoặc nghề thầy giáo... Tấm gương thầy Đặng Thai Mai dạy tôi môn văn học Việt Nam ở năm thứ tư bậc Thành chung đã khuyến khích tôi quyết tâm dứt khoát chọn nghề sư phạm”."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Nơi đầu tiên GS Kontum giảng dạy là Trường Collège Chasseloup Laubat (nay là THPT Lê Quý Đôn, TPHCM), sau đó ông chuyển ra Hà Nội dạy Trường Bưởi đúng thời điểm phong trào giải phóng dân tộc dâng cao trên toàn quốc."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian này, ông tham gia soạn thảo giáo trình vật lý, viết bài cho tạp chí “Thanh Nghị” của ông Vũ Đình Hoè (sau này là Bộ trưởng đầu tiên của Bộ Quốc gia Giáo dục) và tờ “Khoa học” do GS Nguyễn Xiển làm chủ bút. Các bài báo chủ yếu ở dạng phổ biến khoa học, nâng cao dân trí, đồng thời đề cập đến các vấn đề vật lý nóng hổi trên thế giới như nguyên tử, khả năng con người bay vào vũ trụ trong tương lai… Đó là những bài báo khoa học về vật lý hiện đại đầu tiên được viết bằng tiếng Việt, phục vụ cho người Việt."
+    },
+    {
+     "t": "p",
+     "text": "Cũng giai đoạn này, ông và nhiều trí thức từ Pháp trở về đã bắt tay vào xây dựng một nền tri thức Việt Nam bằng tiếng Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Sau ngày 2/9/1945, Bác Hồ đã dành thời gian đến thăm nhà riêng của GS Ngụy Như Kontum. Một năm sau, Bác cho mời GS lên và ngỏ ý giao cho ông giữ chức Bộ trưởng Bộ Quốc gia Giáo dục. Rất cảm kích trước lời mời của Bác, nhưng ông xin phép không nhận nhiệm vụ với lý do Bộ trưởng Quốc gia Giáo dục phải là nqười có chuyên môn sâu rộng về khoa học xã hội và nhân văn thì quản lý mới tốt. Tuy vậy, GS Kontum đã tiến cử GS Nguyễn Văn Huyên - người sau đó giữ chức Bộ trưởng Giáo dục suốt 30 năm (1946-1975)."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 12/1946, ông tình nguyện khoác ba lô rời Hà Nội lên chiến khu tham gia kháng chiến chống Pháp và trở thành một trong những người hoạt động cách mạng hăng hái nhất, tính trong đội ngũ professeur-agrégé (giáo sư - thạc sĩ) người Việt của Trường Bưởi lúc bấy giờ."
+    },
+    {
+     "t": "p",
+     "text": "Tại Việt Bắc, ông đảm nhiệm chức Tổng Giám đốc Trung học vụ kiêm Đổng lý sự vụ Bộ Quốc gia Giáo dục đến năm 1950. Giữa bom đạn chiến tranh, GS Kontum dồn tâm sức xây dựng hệ thống các trường trung học ở khắp các tỉnh thành. Trong trí nhớ của con gái ông - TS Ngụy Tuyết Nhung - hình ảnh người cha hàng tuần cứ vội vã trở về rồi vội vã ra đi trên chiếc xe đạp tróc sơn cứ in đậm mãi trong tâm khảm."
+    },
+    {
+     "t": "p",
+     "text": "Ông rong ruổi khắp các nẻo đường, xuôi ngược từ tỉnh này sang tỉnh khác, may mắn thoát chết trong hai trận bom oanh tạc ở Phú Thọ và Chiêm Hoá, Tuyên Quang cũ. Hoàn cảnh ngặt nghèo của cuộc kháng chiến càng thôi thúc ông dùng trọn sức trẻ và lòng nhiệt huyết để hoàn thành bộ sách giáo khoa vật lý phổ thông đầu tiên cho nền giáo dục mới của nước nhà."
+    },
+    {
+     "t": "p",
+     "text": "Năm 1954, hòa bình lập lại tại miền Bắc, ông trở về Hà Nội, tham gia xây dựng đại học và giảng dạy vật lý tại Trường Sư phạm Khoa học."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm 1956, Trường Đại học Tổng hợp Hà Nội được thành lập, GS Ngụy Như Kontum được cử làm Hiệu trưởng đầu tiên của trường và giữ chức vụ này 26 năm, cho đến khi về hưu năm 1982."
+    },
+    {
+     "t": "p",
+     "text": "Sự nghiệp giảng dạy của ông kéo dài từ 1939 cho đến 1982 với muôn vàn biến động của thời cuộc. Dù trong hoàn cảnh nào, ông luôn nhận được sự yêu quý, tin tưởng của đồng nghiệp và học trò."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Trong ký ức của TS Ngụy Tuyết Nhung, cha mình không đặt ra những nguyên tắc khắt khe hay giảng giải về đạo lý. Những điều con cái học được phần lớn đến từ cách ông bà Kontum đối đãi với nhau và cách ứng xử với mọi người trong cuộc sống thường ngày."
+    },
+    {
+     "t": "p",
+     "text": "“Cụ không dạy đâu, và tất cả đều tự học. Khi đã nhận thức được kiến thức là tài sản vô giá, anh em chúng tôi tự động học chăm chỉ”, bà Nhung nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "GS Kontum cũng không quá đặt nặng việc kèm cặp con cái trong học tập. Những năm tháng tuổi thơ, các con ông vẫn có ba tháng nghỉ hè, nếu cần học thêm thì nhờ thầy cô hướng dẫn. Ông tin tưởng mỗi người đều có khả năng tự học, tự tìm tòi, khi con cần giúp đỡ ở một vấn đề cụ thể, ông mới trực tiếp chỉ bảo. Sự tin tưởng ấy dường như cũng là cách ông trao cho các con quyền chủ động khám phá và chịu trách nhiệm với việc học của mình."
+    },
+    {
+     "t": "p",
+     "text": "Trong cuộc sống hàng ngày, GS Kontum là người rất giản dị, giản dị từ trong cách ăn mặc đến lối giao tiếp. Ông diện trang phục rất lịch lãm khi tiếp khách hoặc tham dự những sự kiện quan trọng nhưng chỉ mặc những bộ áo quần tối giản trong đời sống thường nhật. Đôi dép lốp của ông luôn được đặt cạnh cửa ra vào và ông thường dùng một cái xâu bằng thép để sửa vì hay tuột quai."
+    },
+    {
+     "t": "p",
+     "text": "Ông giao tiếp, cư xử gần gũi, chân thành mà không cầu kỳ, khách sáo, ngay cả với bạn bè quốc tế. Tính ông cũng rất cẩn thận, các vật dụng, đồ dùng đều được sắp xếp ngăn nắp, gọn gàng. Sách vở là thứ ông rất quý nên quyển nào cũng được ông bọc giấy cẩn thận ."
+    },
+    {
+     "t": "p",
+     "text": "Trong gia đình, ông rất thương vợ con và ít khi chia sẻ về những khó khăn trong công việc và cũng hiếm khi kể về những thành tích ông đạt được."
+    },
+    {
+     "t": "p",
+     "text": "Bà Nhung tâm sự: “Nhiều việc chỉ mãi sau này chúng tôi mới biết. Thật may mắn khi tôi có người cha như vậy, nhưng cũng thật ân hận biết bao khi tôi đã không hiểu hết về ông khi còn sống”."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Nói về di sản ông để lại cho các con, TS Nguỵ Tuyết Nhung nói đó có ba thứ: nền tảng tri thức, tính cần cù, chăm chỉ và lòng nhân hậu. Ông bà Kontum lúc sinh thời là những người hiền hậu, sống giản dị và hết lòng vì con cái. Nên sau này, các con cũng học theo để dạy dỗ con cháu của mình."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Giờ đây, khi nhìn lại cuộc đời của cha, TS Ngụy Tuyết Nhung vẫn cho rằng mình còn phải phấn đấu rất nhiều mới có thể đạt đến tầm vóc và nhân cách như ông. Từ một nhà khoa học trẻ từng có cơ hội theo đuổi sự nghiệp nghiên cứu danh giá ở Pháp, ông đã chọn trở về, dành hơn bốn thập kỷ cho sự nghiệp giáo dục nước nhà. Nhưng điều bà Nhung luôn kính trọng ở cha không chỉ là những thành tựu ấy, mà còn là cách ông sống, đối đãi với mọi người và giữ trọn những điều mình tin tưởng suốt cuộc đời."
+    },
+    {
+     "t": "p",
+     "text": "“Chính cách sống và cuộc đời của ông đã dạy chúng tôi rất nhiều về đạo làm người”, bà Nhung chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Trong căn nhà cũ, những kỷ vật của GS Ngụy Như Kontum vẫn được gia đình gìn giữ cẩn thận qua năm tháng. Trên tường treo bức chân dung lớn của ông, được Đại học Quốc gia Hà Nội phóng to và tặng gia đình nhân dịp kỷ ni ệm 100 năm ngày sinh của ông. Bà Nhung kể, bức ảnh được chụp khi cha bà tham dự Hội nghị Thế giới chống bom nguyên tử và khinh khí tại Nhật Bản."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Trong một căn phòng nhỏ, gia đình còn lưu giữ những cuốn sách do ông chủ biên, phần lớn là những ấn bản đầu tiên. Có cuốn giấy đã ngả vàng, gáy sờn cũ, có cuốn bị mối mọt qua năm tháng, nhưng tất cả vẫn được nâng niu như những tài sản quý giá. Đó là những cuốn sách của một thời mà việc viết sách khoa học bằng tiếng Việt còn là công việc khai mở, và GS Kontum đã dành nhiều tâm sức để góp phần đặt những viên gạch đầu tiên."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài kia, những tán khế vẫn phủ bóng xuống ngôi nhà cũ. Bên trong, những giá sách, bức chân dung và các kỷ vật vẫn ở đó, lưu giữ dấu tích của một GS đã hiến thân trọn vẹn cho nền giáo dục Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Nội dung: Kiều Yên , Mai Thu Duyên"
+    },
+    {
+     "t": "p",
+     "text": "Thiết kế: Tuấn Nghĩa"
+    }
+   ]
+  },
+  {
+   "id": "bd7a2c43370f",
+   "order": 17,
+   "slug": "chang-trai-viet-huan-luyen-bo-nao-robot-o-thung-lung-silicon",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Chàng trai Việt huấn luyện 'bộ não' robot ở thung lũng Silicon",
+   "sapo": "Mỹ Nửa năm sau khi tốt nghiệp thạc sĩ, Phạm Anh Quân nghiên cứu, huấn luyện \"bộ não AI\" cho robot hình người đầu tiên rung chuông ở sàn Nasdaq.",
+   "author": "Khánh Linh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/chang-trai-viet-huan-luyen-bo-nao-robot-o-thung-lung-silicon-5141465.html",
+   "published": "2026-11-21T22:51:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1124,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/bd7a2c43370f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-23/bd7a2c43370f-0.jpg",
+     "caption": "Anh Quân bên robot Taku. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 619
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mỹ Nửa năm sau khi tốt nghiệp thạc sĩ, Phạm Anh Quân nghiên cứu, huấn luyện \"bộ não AI\" cho robot hình người đầu tiên rung chuông ở sàn Nasdaq."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 13/10, tại tháp phát sóng trên Quảng trường Thời đại của Nasdaq - một trong những sàn giao dịch chứng khoán lớn nhất thế giới, chú robot có tên \"Taku\" đã rung chuông kết thúc phiên giao dịch trong tràng pháo tay chúc mừng của đội ngũ phát triển. Đây là robot hình người chạy bằng AI đầu tiên làm việc này, theo website của Nasdaq."
+    },
+    {
+     "t": "p",
+     "text": "Từ trụ sở của Dyna Robotics ở thung lũng Silicon, Anh Quân không khỏi xúc động."
+    },
+    {
+     "t": "p",
+     "text": "\"Là một trong số ít nhà nghiên cứu góp phần vào cột mốc này, mình cũng thấy vui\", Quân chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Quân, 23 tuổi, là nhà nghiên cứu (research scientist) tại Dyna Robotics - công ty phát triển robot AI đa năng phục vụ cho thương mại thực tế. Sản phẩm là những robot có khả năng tự suy luận, hành động và thích nghi nhanh với môi trường xung quanh."
+    },
+    {
+     "t": "p",
+     "text": "Trong đội ngũ, Quân đảm nhiệm vai trò chính ở phần post-training, tức hậu huấn luyện - công đoạn phát triển thuật toán và kỹ thuật giúp bộ não robot có thể học một tác vụ mới nhanh và thành thục nhất có thể."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Quân là cựu học sinh chuyên Lý, trường THPT chuyên Lý Tự Trọng (Cần Thơ). Năm 2024, khi đang chuẩn bị tốt nghiệp ngành Kỹ thuật điện tại trường Đại học VinUniversity, Quân trúng tuyển chương trình thạc sĩ ở Đại học Pennsylvania (UPenn). Ngôi trường này đứng thứ 2 tại Mỹ và thứ 3 thế giới về đào tạo robot, theo CS Rankings ."
+    },
+    {
+     "t": "p",
+     "text": "Đến Mỹ vào mùa thu năm đấy, Quân mang theo sự hào hứng xen lẫn tự ti. Học đại học trong ba năm, lại chưa từng tiếp xúc robot trong thực tế, Quân nghĩ mình không chỉ nhỏ tuổi mà còn non kinh nghiệm."
+    },
+    {
+     "t": "p",
+     "text": "Để bắt kịp bạn bè, nam sinh quyết tâm trở thành người chịu trách nhiệm trong nhiều dự án nghiên cứu nhất có thể. Quân xin vào ba phòng thí nghiệm robot cùng lúc, nghiên cứu các thuật toán học tăng cường và cách ứng dụng. Một ngày của Quân có khi kéo dài tới 1-2 giờ sáng."
+    },
+    {
+     "t": "p",
+     "text": "\"Những vấn đề đó thú vị và mới mẻ, có thể tạo ra tác động lớn, nên mình gần như không thấy áp lực mà luôn có cảm hứng để làm việc\", Quân nói. Dần dần, Quân hiểu hơn về công nghệ trong robot, những thách thức trong ngành và tư duy giải quyết."
+    },
+    {
+     "t": "p",
+     "text": "Quân xác định trở thành người huấn luyện những mô hình trí tuệ nền tảng (foundation model), tức những bộ não để điều khiển robot. Trong lúc tìm việc, Quân nhận thấy Dyna đã phát triển nhiều công nghệ khớp với mảng này nên ứng tuyển."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm đó, Dyna đã có những bộ não robot đạt chuẩn vận hành thực tế, làm việc suốt 24 giờ với tỷ lệ thành công hơn 99%. Những bài toán mà startup này hướng đến là làm sao để robot làm việc trơn tru trong thời gian dài, thực hiện được một chuỗi hành động nối liền nhau thay vì các tác vụ riêng lẻ, và thích nghi với nhiều điều kiện thực tế."
+    },
+    {
+     "t": "p",
+     "text": "Quân trải qua quy trình tuyển chọn gồm một bài kiểm tra và hai vòng phỏng vấn trực tiếp với các nhà sáng lập. Chàng trai trẻ phải trình bày suy nghĩ về các vấn đề trong ngành, cách xây hệ thống và thuật toán, thể hiện sự sáng tạo, tư duy phát triển sản phẩm công nghệ cao, hay trực giác nghiên cứu."
+    },
+    {
+     "t": "p",
+     "text": "Hai tuần sau khi nộp đơn, tân thạc sĩ nhận thư mời làm việc. Gia nhập công ty vào tháng 6 khi đội ngũ đang dồn lực cho Taku, Quân phải học thêm nhiều kiến thức nền tảng từ cơ khí, điện tử đến mô hình thị giác để phối hợp cùng đồng nghiệp, chẳng hạn làm cho một cánh tay hoạt động được trên thân robot từ đầu tới cuối."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi buổi sáng, Quân và cả nhóm đi dạo quanh khu vực làm việc để \"chiêm ngưỡng\" những tiến triển mới nhất của đồng nghiệp hoặc rà soát lỗi robot gặp phải. Những thứ mà Quân phải nghiên cứu thay đổi mỗi ngày, tùy vào kết quả làm việc hôm trước."
+    },
+    {
+     "t": "p",
+     "text": "\"Gần như ngày nào mình cũng có cảm giác một đột phá công nghệ đang diễn ra ngay bên cạnh, còn mình thì đang được nghịch những món đồ chơi rất đắt tiền\", Quân chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Những công nghệ do Quân và đồng nghiệp phát triển đã được đưa vào hoạt động tại nhiều doanh nghiệp, trong đó có chuỗi nhà hàng Din Tai Fung ở Mỹ. Bộ não robot của Dyna đã giúp gấp 3.000 chiếc khăn ăn mỗi ngày - khâu từng khiến nhà hàng \"đau đầu\" vì không tuyển được người."
+    },
+    {
+     "t": "p",
+     "text": "Gần đây, Quân cùng đồng nghiệp phát triển \"bộ não\" robot được huấn luyện trên quy mô một triệu giờ dữ liệu, tương đương 170 năm học tập và làm việc liên tục của con người. Nhóm đã chứng minh rằng có thể dùng video ghi lại thao tác của người để dạy robot. Quân phụ trách phát triển các kỹ thuật để giúp robot học hỏi, tăng khả năng suy luận và thao tác khéo léo. Khi đối mặt những nhiệm vụ trong môi trường mới, robot chỉ cần vài hướng dẫn đơn giản là có thể hoạt động trơn tru."
+    },
+    {
+     "t": "p",
+     "text": "Jason Ma, đồng sáng lập Dyna Robotics, cho hay Quân được tin tưởng trong nhiều nhiệm vụ quan trọng liên quan khâu triển khai và trình diễn sản phẩm. Đây đều là những ưu tiên hàng đầu của công ty."
+    },
+    {
+     "t": "p",
+     "text": "\"Robot vốn bao hàm rất nhiều khía cạnh, nên đôi khi rất khó để xác định nguyên nhân khiến hệ thống không hoạt động như mong đợi. Quân luôn quyết tâm giải quyết các vấn đề kỹ thuật một cách sát sao, góp phần đẩy nhanh đáng kể tiến độ công việc\", Jason nói."
+    },
+    {
+     "t": "p",
+     "text": "Sau hơn hai năm ở Mỹ, Quân thấy may mắn khi được làm việc trong môi trường tiên phong, giúp giải đáp nhiều thắc mắc từng ấp ủ và mở ra những chân trời nghiên cứu mới."
+    },
+    {
+     "t": "p",
+     "text": "Chàng trai Việt muốn tiếp tục nghiên cứu AI để robot ngày càng hoàn thiện, sẵn sàng hoạt động trên khắp thế giới. Xa hơn, Quân mong góp sức giải quyết các bài toán thực tiễn tại Việt Nam."
+    }
+   ]
+  },
+  {
+   "id": "be34468912a8",
+   "order": 18,
+   "slug": "co-giao-nguoi-viet-va-hanh-trinh-di-day-hoc-bang-may-bay-o-u",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Cô giáo người Việt và hành trình đi dạy học bằng máy bay ở Úc",
+   "sapo": "Ở tuổi 24, thay vì chen chân tìm cơ hội tại những đô thị sầm uất như Melbourne hay Sydney, Nguyễn Thụy Minh Phương (TP.HCM) chọn rẽ hướng đến một cộng đồng bản địa hẻo lánh giữa vùng sa mạc đỏ nước Úc. Trường thuê máy bay đưa cô từ Broome vào sa mạc và ngược lại vào đầu, cuối học kỳ.",
+   "author": "DUYÊN PHAN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/co-giao-nguoi-viet-va-hanh-trinh-di-day-hoc-bang-may-bay-o-uc-100261121103307159.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 1204,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/be34468912a8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-0.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-4.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1631
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 1706
+    },
+    {
+     "src": "img/2026-11-23/be34468912a8-7.jpg",
+     "caption": "Cô giáo Phương tham gia những trải nghiệm thú vị trên sa mạc - Ảnh: NVCC",
+     "w": 1280,
+     "h": 1886
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Minh Phương trên máy bay đi dạy ở sa mạc Úc - Ảnh: NVCC"
+    },
+    {
+     "t": "p",
+     "text": "Hành trang của cô giáo trẻ không chỉ có những chuyến bay, hay giáo án, mà còn là những giờ lên lớp không đoán trước sĩ số và bài học lớn về sự thích nghi vì nơi ấy không người quen, không kết nối được với gia đình. Khoảng cách với cuộc sống quen thuộc trở nên rõ rệt hơn những gì cô từng hình dung trước chuyến đi."
+    },
+    {
+     "t": "h",
+     "text": "Máy bay băng qua sa mạc vào trường"
+    },
+    {
+     "t": "p",
+     "text": "Tháng 10-2024, vừa hoàn thành học kỳ cuối tại Melbourne nhưng chưa chính thức cầm bằng tốt nghiệp, Minh Phương nộp hồ sơ xin việc."
+    },
+    {
+     "t": "p",
+     "text": "Hiểu rõ bất lợi của một du học sinh so với ứng viên bản xứ, cô mở rộng phạm vi tìm kiếm sang các vùng xa có chính sách hỗ trợ bảo lãnh định cư."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ hai giờ sau khi gửi hồ sơ đến một ngôi trường tại vùng sa mạc thuộc bang Tây Úc, Phương nhận được cuộc gọi phỏng vấn và chính thức trúng tuyển sau ba vòng sát hạch."
+    },
+    {
+     "t": "p",
+     "text": "Quyết định một mình đến nơi \"không hàng quán, không trung tâm thương mại\" của cô gái trẻ nhận được cái gật đầu đầy tin tưởng từ gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Ba cô động viên: \"Con đi đi, ba ủng hộ. Đây như trải nghiệm để con trưởng thành hơn\". Còn mẹ hài hước ví von con gái là \"anh hùng\" vì sự gan dạ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Dù điều kiện chỗ cô dạy còn nhiều khó khăn, nhưng cô gái trẻ vẫn rất \"tận hưởng\" với công việc của mình - Ảnh: NVCC"
+    },
+    {
+     "t": "p",
+     "text": "Thế nhưng sự háo hức ban đầu nhanh chóng nhường chỗ cho cảm giác choáng ngợp ngay khoảnh khắc đặt chân xuống vùng đất đỏ."
+    },
+    {
+     "t": "p",
+     "text": "Để vào được trường, nhà trường phải thuê máy bay cỡ nhỏ chở giáo viên từ thị trấn Broome băng qua sa mạc vào đầu và cuối mỗi học kỳ 10 tuần. Ngày đầu tiên bước xuống đường băng đất, SIM điện thoại của Phương mất sóng vì cả khu vực chỉ phủ sóng một nhà mạng duy nhất."
+    },
+    {
+     "t": "p",
+     "text": "\"Giữa một nơi hoàn toàn xa lạ, không người thân và không thể gọi điện báo bình an về nhà, mình đã bật khóc vì hoang mang. Lúc ấy mình mới thấm thía khoảng cách giữa nơi này với cuộc sống quen thuộc\", Phương nhớ lại."
+    },
+    {
+     "t": "h",
+     "text": "Những lớp học không sĩ số cố định"
+    },
+    {
+     "t": "p",
+     "text": "Tại ngôi trường giữa sa mạc, một ngày của Phương bắt đầu từ 5h, lên lớp lúc 7h20 và kết thúc vào 14h15. Cô phụ trách lớp ghép từ mẫu giáo đến lớp 2. Thử thách lớn nhất về chuyên môn đối với nữ giáo viên trẻ không nằm ở giáo án, mà ở sự biến động khó lường của sĩ số."
+    },
+    {
+     "t": "p",
+     "text": "Học sinh bản địa thường xuyên theo gia đình đi săn bắt, câu cá, tham dự các hoạt động truyền thống trên vùng đất tổ tiên hoặc ra thành phố khám bệnh."
+    },
+    {
+     "t": "p",
+     "text": "Có hôm lớp chỉ lác đác vài em, hôm sau lại là những gương mặt hoàn toàn mới. \"Mình không thể dạy theo đường thẳng cố định, mà phải chia nhóm linh hoạt, chuẩn bị nhiều mức độ bài tập và sẵn sàng thay đổi kế hoạch ngay trước giờ vào lớp\", Phương chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Không gian lớp học được Minh Phương chia sẻ - Ảnh: NVCC"
+    },
+    {
+     "t": "p",
+     "text": "Đa số học sinh nói tiếng Anh như ngôn ngữ thứ hai hoặc thứ ba. Từng trải qua hành trình học ngoại ngữ nơi xứ người, Phương dễ dàng đồng cảm với sự lúng túng của học trò."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì gò ép các em ngồi yên trên bàn giấy, cô lồng ghép kiến thức qua trò chơi, tranh ảnh, vận động thực tế và kiên nhẫn dạy các em từ những kỹ năng tự phục vụ nhỏ nhất như cầm thìa, mặc áo."
+    },
+    {
+     "t": "p",
+     "text": "Ngược lại, chính học trò nơi đây cũng dạy cô nhiều điều về văn hóa bản địa và mang đến những khoảnh khắc dở khóc dở cười."
+    },
+    {
+     "t": "p",
+     "text": "Phương kể có lần thấy học trò ríu rít trò chuyện bằng tiếng bản địa, cô đùa: \"Các con nói tiếng Anh đi, cô không hiểu\"."
+    },
+    {
+     "t": "p",
+     "text": "Một em nhỏ liền nhanh nhảu đáp lại bằng chính bài giáo lý cô từng dạy vài tháng trước: \"Nếu Chúa Thánh Thần ngự xuống trên đầu cô như ngọn lửa thì cô sẽ hiểu được thôi!\", khiến cô vừa bất ngờ vừa bật cười."
+    },
+    {
+     "t": "h",
+     "text": "Rèn luyện tính tự lập"
+    },
+    {
+     "t": "p",
+     "text": "Rời bục giảng lúc 16h mỗi ngày, cuộc sống của cô giáo 24 tuổi trôi qua bình lặng. Không có những cuộc hẹn hò phố thị, Phương dành toàn bộ thời gian rảnh để học chương trình cao học, đọc sách, tập thể dục và sáng tạo nội dung chia sẻ cuộc sống vùng sâu."
+    },
+    {
+     "t": "p",
+     "text": "Về mặt đãi ngộ, ngoài mức lương cơ bản, cô được miễn phí hoàn toàn chi phí nhà ở, điện nước, nhận thêm phụ cấp khoảng 400 AUD (đô la Úc)/tháng cùng khoản thưởng cuối năm lên tới 20.000 AUD."
+    },
+    {
+     "t": "p",
+     "text": "Cuộc sống tối giản giữa sa mạc giúp Phương nhận ra nhu cầu thực tế của bản thân ít hơn cô từng nghĩ, đồng thời rèn luyện tính tự lập khi mọi sự cố hỏng hóc sinh hoạt đều phải tự xoay xở, thay vì gọi thợ như ở phố."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Cũng có những lần thót tim vì thời tiết, như cuối học kỳ đầu tiên, cơn mưa lớn khiến đường băng đất mềm lún, máy bay không thể hạ cánh."
+    },
+    {
+     "t": "p",
+     "text": "Cả đoàn giáo viên thấp thỏm chờ suốt hai tiếng đồng hồ dưới nắng gắt để mặt đất đủ độ cứng mới có thể cất cánh về nhà."
+    },
+    {
+     "t": "p",
+     "text": "Bù lại, góc nhìn từ khung cửa sổ máy bay với dải đất đỏ bạt ngàn, những cơn mưa dông đằng xa mở ra một nước Úc hoang sơ, hùng vĩ mà hiếm người có cơ hội chiêm ngưỡng."
+    },
+    {
+     "t": "h",
+     "text": "Tiếp tục gắn bó với sa mạc"
+    },
+    {
+     "t": "p",
+     "text": "Lớn lên tại Bà Rịa - Vũng Tàu (nay thuộc TP.HCM), Minh Phương sang Úc du học từ năm lớp 10 và theo đuổi ngành cử nhân sư phạm. Trên kênh TikTok Cô Giáo Bee ở sa mạc Úc hiện thu hút hơn 62.000 người theo dõi với nhiều video triệu view, cô thường xuyên ghi lại nhịp sống thường nhật đầy thú vị của mình."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh công việc soạn giáo án và đứng lớp, Minh Phương còn chia sẻ những trải nghiệm độc đáo giữa vùng hẻo lánh như cưỡi lạc đà, ngắm hoàng hôn trên sa mạc, hay di chuyển bằng chuyên cơ riêng do nhà trường thuê để đưa đón giáo viên về thành phố mỗi dịp nghỉ lễ."
+    },
+    {
+     "t": "p",
+     "text": "Sau thời gian trải nghiệm, cô giáo trẻ vẫn quyết định gắn bó tiếp với vùng sa mạc này. \"Đừng sợ trải nghiệm những điều mới. Thử một con đường lạ không có nghĩa là phải gắn bó với nó mãi mãi, nhưng nếu không bước đi, bạn sẽ không bao giờ biết mình có thể thích nghi và tìm thấy nhiều niềm vui đến thế\", Minh Phương nhắn nhủ."
+    }
+   ]
+  },
+  {
+   "id": "fcb115e97f04",
+   "order": 19,
+   "slug": "con-duong-cam-tu-cau-gay-sot-o-ha-noi-khach-ngo-lac-vao-co-t",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Con đường cẩm tú cầu gây sốt ở Hà Nội, khách ngỡ lạc vào cổ tích",
+   "sapo": "(Dân trí) - Con đường được kết từ 1.500 chậu cẩm tú cầu đủ màu sắc tại một nông trại ở ngoại thành Hà Nội đang thu hút đông du khách. Có người vượt 150km để",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/con-duong-cam-tu-cau-gay-sot-o-ha-noi-khach-ngo-lac-vao-co-tich-20261121223903327.htm",
+   "published": "2026-11-22T23:09:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 766,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/fcb115e97f04-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/fcb115e97f04-0.jpg",
+     "caption": "Con đường hoa cẩm tú cầu đang khoe sắc rực rỡ (Ảnh: Linh Trang).",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-23/fcb115e97f04-1.jpg",
+     "caption": "Chị Vân Anh cảm thấy xứng đáng khi di chuyển 3 tiếng để tới check-in với con đường hoa cẩm tú cầu (Ảnh: Linh Trang).",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-23/fcb115e97f04-2.jpg",
+     "caption": "Để có bộ ảnh ưng ý, chị Vân Anh chi khoảng 1,5 triệu đồng cho các dịch vụ trang điểm, thuê trang phục và chụp ảnh (Ảnh: Linh Trang).",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-23/fcb115e97f04-3.jpg",
+     "caption": "Dù nằm cách trung tâm thành phố khoảng 40km, nông trại vẫn thu hút du khách. Vào cuối tuần, nhiều người phải xếp hàng chụp ảnh (Ảnh: Linh Trang).",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-23/fcb115e97f04-4.jpg",
+     "caption": "Đường cúc hoạ mi tại nông trại (Ảnh: Linh Trang).",
+     "w": 1280,
+     "h": 854
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Con đường được kết từ 1.500 chậu cẩm tú cầu đủ màu sắc tại một nông trại ở ngoại thành Hà Nội đang thu hút đông du khách. Có người vượt 150km để tới chiêm ngưỡng, chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày gần đây, con đường cẩm tú cầu rực rỡ sắc màu tại An Rose Farm (thôn Hòa Phú, xã Phú Cát, Hà Nội) trở thành điểm check-in thu hút sự chú ý trên mạng xã hội."
+    },
+    {
+     "t": "p",
+     "text": "1500 chậu hoa cẩm tú cầu mang sắc hồng, tím và xanh lam được xếp san sát thành cổng vòm, hai bức tường cao, ôm trọn lối đi uốn lượn, tạo nên khung cảnh mà nhiều du khách ví như khu vườn cổ tích."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từ Quảng Hưng (Thanh Hóa), chị Vân Anh di chuyển khoảng 150km ra Hà Nội để chiêm ngưỡng vườn cẩm tú cầu. Sau 3 tiếng đi đường, chị không giấu được sự thích thú trước khung cảnh những khóm hoa lớn, đủ màu sắc được sắp đặt thành con đường uốn lượn."
+    },
+    {
+     "t": "p",
+     "text": "Chị Vân Anh cho biết, trước đây chị từng tham quan, chụp ảnh tại nhiều vườn thạch thảo, cúc họa mi, hoa sen nhưng chưa bắt gặp không gian cẩm tú cầu nào ở miền Bắc gây ấn tượng với chị như nơi này."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến nữ du khách thích thú là hoa có màu sắc phong phú, tươi tắn, được sắp xếp dày đặc, tạo nên những góc chụp đẹp mắt."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chị Vũ Thị Thanh Hoài (Từ Liêm, Hà Nội) chọn một chiếc váy trắng điệu đà để check-in với con đường hoa cẩm tú cầu."
+    },
+    {
+     "t": "p",
+     "text": "Chị Hoài cho biết, chị đã nhiều lần đến đây để chụp ảnh cùng hoa hồng, cúc họa mi. Tuy nhiên, đây là lần đầu tiên chị được trải nghiệm không gian cẩm tú cầu với quy mô lớn như vậy."
+    },
+    {
+     "t": "p",
+     "text": "\"Không gian đẹp như một vườn hoa cổ tích. Dù từng ghé thăm nhiều địa điểm chụp ảnh, tôi vẫn bất ngờ trước cách chủ vườn đầu tư, bài trí hàng nghìn chậu hoa thành những tiểu cảnh rực rỡ\", chị Hoài nhận xét."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ có con đường hoa, cẩm tú cầu còn được bố trí thành một ngọn đồi nhỏ và những vạt hoa nằm sát hồ nước trong xanh. Mỗi góc mang đến một khung cảnh khác nhau, giúp du khách có thêm lựa chọn khi tham quan, chụp hình."
+    },
+    {
+     "t": "p",
+     "text": "Đại diện đơn vị này cho biết, nông trại có tổng diện tích hơn 16.000m2, trong đó khoảng 10.000m2 dành để trồng hoa hồng với hơn 100 giống khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh khu vực trồng hoa hồng, chủ vườn thường xuyên thay đổi các tiểu cảnh theo mùa nhằm mang đến trải nghiệm mới cho du khách."
+    },
+    {
+     "t": "p",
+     "text": "Riêng không gian cẩm tú cầu hiện tại được tạo nên từ gần 5.000 chậu hoa với nhiều màu sắc. Trong đó, khoảng 1.500 chậu được sử dụng để tạo thành con đường hoa đang thu hút sự chú ý trên mạng xã hội."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Đại diện nông trại cho biết, cẩm tú cầu không phải loại hoa được trồng trực tiếp tại vườn mà được mua về để trang trí theo từng thời điểm trong năm."
+    },
+    {
+     "t": "p",
+     "text": "Việc duy trì độ tươi của hàng nghìn chậu hoa đòi hỏi công chăm sóc đáng kể. Cẩm tú cầu là loài cây cần nhiều nước, vì vậy nông trại phải bố trí một đội công nhân chuyên phụ trách tưới và bổ sung nước thường xuyên."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian hoa giữ được vẻ đẹp phụ thuộc nhiều vào điều kiện thời tiết. Nếu trời nắng nóng, hoa sẽ nhanh tàn hơn, trong khi thời tiết mát mẻ giúp hoa duy trì độ tươi lâu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh cẩm tú cầu, ngay sau cổng soát vé, du khách có thể check-in bức tường cúc họa mi trắng muốt. Để tạo nên không gian này, chủ vườn đã sử dụng khoảng 3.000 bó cúc họa mi, mỗi bó gồm 10 cành, tương đương khoảng 30.000 cành hoa."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, nông trại còn có những góc chụp ảnh với thạch thảo tím biếc và khu vườn hồng cổ. Tuy nhiên, thời điểm hiện tại, hoa hồng mới bắt đầu vào mùa, chưa bước vào giai đoạn nở rộ đẹp nhất."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài tham quan, du khách có thể sử dụng dịch vụ đồ uống, thuê trang phục và đặt thợ chụp ảnh. Giá thuê trang phục dành cho người lớn dao động từ 100.000 đến 500.000 đồng/bộ, trang phục trẻ em 50.000 đồng/bộ. Dịch vụ trang điểm có giá 250.000 đồng/khách."
+    }
+   ]
+  },
+  {
+   "id": "9676d2941925",
+   "order": 20,
+   "slug": "anh-xua-va-nay-tai-khach-san-lau-doi-nhat-viet-nam",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Ảnh xưa và nay tại khách sạn lâu đời nhất Việt Nam",
+   "sapo": "Từng là nơi gặp gỡ của phóng viên quốc tế, khách sạn Continental Saigon nay được chú ý với các triển lãm xe cổ và không gian món Việt trong tòa nhà mở cửa từ năm 1880.",
+   "author": "",
+   "source_name": "Znews",
+   "source_url": "https://lifestyle.zingnews.vn/anh-xua-va-nay-tai-khach-san-lau-doi-nhat-viet-nam-post1698036.html",
+   "published": "2026-11-21T09:19:24+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 621,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-23/9676d2941925-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-23/9676d2941925-0.jpg",
+     "caption": "Khách sạn Continental Saigon ảnh 1",
+     "w": 1280,
+     "h": 750
+    },
+    {
+     "src": "img/2026-11-23/9676d2941925-1.jpg",
+     "caption": "Khách sạn Continental Saigon ảnh 4",
+     "w": 1280,
+     "h": 733
+    },
+    {
+     "src": "img/2026-11-23/9676d2941925-2.jpg",
+     "caption": "Khách sạn Continental Saigon ảnh 5",
+     "w": 1280,
+     "h": 732
+    },
+    {
+     "src": "img/2026-11-23/9676d2941925-3.jpg",
+     "caption": "Khách sạn Continental Saigon ảnh 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-23/9676d2941925-4.jpg",
+     "caption": "Khách sạn Continental Saigon ảnh 7",
+     "w": 1280,
+     "h": 854
+    },
+    {
+     "src": "img/2026-11-23/9676d2941925-5.jpg",
+     "caption": "Khách sạn Continental Saigon ảnh 12",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từng là nơi gặp gỡ của phóng viên quốc tế, khách sạn Continental Saigon nay được chú ý với các triển lãm xe cổ và không gian món Việt trong tòa nhà mở cửa từ năm 1880."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khởi công năm 1878 và khai trương năm 1880, Hotel Continental Saigon, đường Đồng Khởi là khách sạn lâu đời nhất Việt Nam, ra đời cùng giai đoạn với nhiều công trình kiến trúc Pháp ở trung tâm TP.HCM như Nhà thờ Đức Bà Sài Gòn (xây dựng năm 1877-1880) hay Bưu điện Trung tâm Sài Gòn (xây dựng năm 1886-1891). Trong ảnh là diện mạo của khách sạn vào khoảng năm 1880."
+    },
+    {
+     "t": "p",
+     "text": "Đến giữa thế kỷ XX, nơi đây trở thành một địa chỉ quen thuộc của giới báo chí quốc tế. Với vị trí cạnh trụ sở Quốc hội của chính quyền Sài Gòn khi ấy, nơi đây vừa phục vụ khách lưu trú, vừa là chỗ giới phóng viên gặp gỡ và thu thập tin tức."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Những tấm biển trước khách sạn cũng thay đổi theo thời cuộc. Trong thập niên 1960, nơi đây có thêm bảng hiệu tiếng Việt \"Đại lục lữ quán\". Tháng 5/1975, khách sạn được quốc hữu hóa và đổi tên thành Hải Âu. Năm 1987, công trình được sửa chữa, nâng cấp và lấy lại tên Continental. Đến năm 2012, khách sạn được xếp hạng di tích kiến trúc nghệ thuật cấp thành phố. Trong ảnh là hình ảnh ghi lại biển hiệu bên ngoài khách sạn vào năm 1960."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Qua những lần đổi tên, hai khối nhà gốc vẫn lưu lại dấu ấn kiến trúc châu Âu qua cửa sổ vòm, lan can sắt và các đường gờ trang trí trên cột. Ở giữa các khối nhà là khoảng sân trong đón ánh sáng, nơi ba cây sứ được trồng từ năm 1880. Trong ảnh là khách sạn vào thời điểm mới khai trương năm 1880."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, Tuần lễ \"Di sản Văn hóa: Xưa & Nay\" diễn ra ngày 18-24/11 tại Hotel Continental Saigon. Với chủ đề \"Xưa & Nay\", đây là dịp để khách tham quan và du khách khám phá sự tiếp nối giữa những giá trị văn hóa vượt thời gian thông qua các hoạt động trải nghiệm phong phú."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Điểm nhấn của chương trình là triển lãm tranh ảnh mang chủ đề \"Dòng chảy thời gian\", tái hiện những dấu ấn lịch sử, kiến trúc và vẻ đẹp vượt thời gian của khách sạn. Trong ảnh là hành lang cổ kính tại tầng 2 công trình."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là dịp để thực khách thưởng thức những hương vị ẩm thực đặc sắc trong không gian kiến trúc cổ điển, nơi lưu giữ nét thanh lịch và phong cách phục vụ đặc trưng của khách sạn di sản. Trong ảnh là khu vực bàn ăn ngoài trời của khách sạn."
+    },
+    {
+     "t": "p",
+     "text": "Travel blogger truyền cảm hứng du lịch qua những câu chuyện đầy màu sắc về những điểm đến mới lạ, những trải nghiệm độc đáo mà họ khám phá được trong hành trình. Những bài viết, video hay hình ảnh của họ không chỉ mang lại kiến thức về địa lý, mà còn khơi gợi niềm đam mê khám phá thế giới. Đọc sách là một phần không thể thiếu trong hành trình này, giúp họ tìm hiểu sâu sắc hơn về văn hóa, lịch sử và con người ở mỗi nơi."
+    },
+    {
+     "t": "p",
+     "text": "Mục Du lịch - Ẩm thực giới thiệu chân dung travel blogger kiêm tác sách, những con người lan tỏa nguồn cảm hứng xê dịch và tiếp nạp tri thức."
+    },
+    {
+     "t": "p",
+     "text": "> Xem thêm: Travel blogger Đinh Hằng: Thật khó để cô đơn khi du lịch một mình"
+    },
+    {
+     "t": "p",
+     "text": "Lam Anh"
+    }
+   ]
+  }
+ ]
+}
