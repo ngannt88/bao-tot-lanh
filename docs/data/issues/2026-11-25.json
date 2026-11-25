@@ -1,0 +1,2770 @@
+{
+ "date": "2026-11-25",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-25T08:57:33+07:00",
+ "sections": [
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  }
+ ],
+ "articles": [
+  {
+   "id": "d97b339455e3",
+   "order": 1,
+   "slug": "truc-thang-dragonfly-cua-nasa-sap-bay-toi-titan-da-co-mat",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Trực thăng Dragonfly của NASA sắp bay tới Titan đã có \"mắt\"",
+   "sapo": "Các thiết bị khoa học cho trực thăng Dragonfly của NASA đang bắt đầu được chuyển đến Phòng Thí nghiệm Vật lý Ứng dụng Johns Hopkins (APL) ở Laurel, Maryland",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+   "published": "2026-11-24T15:44:38+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 914,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+   "images": [
+    {
+     "src": "img/2026-11-25/d97b339455e3-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 559
+    },
+    {
+     "src": "img/2026-11-25/d97b339455e3-0.jpg",
+     "caption": "Hai kỹ sư mặc trang phục phòng sạch đang cẩn thận lắp một camera lên tấm ốp bên ngoài của tàu vũ trụ.",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-25/d97b339455e3-1.jpg",
+     "caption": "Hai kỹ thuật viên mặc trang phục bảo hộ phòng sạch đứng cạnh một bộ sưu tập các camera nhỏ và linh kiện điện tử trên bàn thí nghiệm.",
+     "w": 400,
+     "h": 266
+    },
+    {
+     "src": "img/2026-11-25/d97b339455e3-2.jpg",
+     "caption": "Hình ảnh thử nghiệm có tông màu vàng từ camera của Dragonfly cho thấy thiết bị trong phòng sạch ở phía trước và hai kỹ sư đứng sau một ô cửa kính.",
+     "w": 1280,
+     "h": 559
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Các thiết bị khoa học cho trực thăng Dragonfly của NASA đang bắt đầu được chuyển đến Phòng Thí nghiệm Vật lý Ứng dụng Johns Hopkins (APL) ở Laurel, Maryland, nơi chiếc trực thăng cỡ bằng một chiếc ô tô đang được lắp ráp cho sứ mệnh khám phá Titan, vệ tinh lớn nhất của Sao Thổ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị đầu tiên đến nơi là DragonCam, gồm bảy camera được thiết kế để khảo sát bề mặt Titan ở nhiều quy mô khác nhau, cả khi bay và khi đáp xuống mặt đất. Đến giữa tháng 11, cả bảy camera do công ty Malin Space Science Systems phát triển và chế tạo đã được lắp vào các hộp bảo vệ cách nhiệt, được kiểm tra và tích hợp vào trực thăng. Mỗi camera sẽ nhìn ra Titan qua một ô cửa kính nằm trong một hộp bọc xốp, giúp cách nhiệt cho camera và phần bên trong của Dragonfly khỏi môi trường cực lạnh của Titan, nơi nhiệt độ xung quanh có thể xuống tới âm 179 độ C."
+    },
+    {
+     "t": "p",
+     "text": "Một bộ đèn LED có thể điều chỉnh, được chế tạo tại APL và phát ra ánh sáng trải dài từ vùng hồng ngoại đến tử ngoại, cung cấp thông tin về màu sắc của các vật liệu bề mặt tại địa điểm lấy mẫu, giúp các nhà khoa học suy đoán về thành phần của chúng. Trong đêm dài của Titan, kéo dài gần tám ngày Trái Đất, những quan sát này cũng có thể giúp DragonCam phát hiện các phân tử hữu cơ phát sáng (huỳnh quang) dưới ánh sáng tử ngoại. Ánh sáng đèn LED cũng giúp chúng ta nhìn thấy Titan giống như mắt người sẽ thấy."
+    },
+    {
+     "t": "p",
+     "text": "\"Một trong những điều thú vị nhất về Dragonfly là chúng ta sẽ được nhìn thấy Titan từ những góc nhìn mà trước đây chưa từng có,\" Elizabeth Turtle, trưởng nhóm nghiên cứu của dự án Dragonfly tại APL, cho biết. \"Với khả năng chụp ảnh cả khi Dragonfly đang ở trên mặt đất và khi đang bay, DragonCam sẽ cho chúng ta vừa những hình ảnh chi tiết, vừa những cảnh toàn cảnh rộng lớn về địa hình của Titan, cùng với những hiểu biết về các quá trình đã hình thành nên thế giới đặc biệt này. Việc nhìn thấy những camera này trở thành một phần của tàu đổ bộ Dragonfly là một cột mốc thú vị, đưa chúng ta tiến gần hơn một bước tới cuộc khám phá chưa từng có này.\""
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh những camera khoa học này, Dragonfly còn có hai camera dẫn đường, cũng do Malin Space Science Systems chế tạo, đã được lắp vào mùa hè vừa qua."
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi vô cùng vui mừng vì đã hoàn thành việc giao các camera DragonCam,\" Michael Ravine, quản lý phát triển DragonCam và là đồng nghiên cứu viên của dự án Dragonfly từ Malin Space Science Systems, chia sẻ. \"Giờ đây khi chúng được gắn trên tàu vũ trụ Dragonfly và chụp ảnh, chúng tôi dễ dàng hình dung hơn nhiều về cách chúng sẽ hoạt động trên Titan. Đây sẽ là đôi mắt của chúng ta để nhìn và khám phá cả một thế giới hoàn toàn mới.\""
+    },
+    {
+     "t": "p",
+     "text": "Hai camera lắp ở phía trước — một camera góc rộng (WAC) và một camera góc trung bình (MAC) — được thiết kế để chụp ảnh địa hình phía trước Dragonfly. Camera WAC phía trước có góc nhìn 90 độ, trong khi camera MAC phía trước chụp chồng lấn một phần góc nhìn đó nhưng với độ phân giải cao hơn. Kết hợp lại, hình ảnh từ hai camera này tạo ra một góc nhìn ba chiều (stereoscopic) từ phía trước tàu đổ bộ. Cùng với hai camera WAC lắp ở hai bên, hệ thống này có thể chụp được toàn cảnh địa hình của Titan."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hai camera WAC hướng xuống cung cấp hình ảnh về bề mặt ngay dưới Dragonfly, giúp nhóm điều hành sứ mệnh quyết định xem một địa điểm hạ cánh có an toàn để sử dụng công cụ lấy mẫu của Dragonfly, gọi là DrACO (Mũi khoan Lấy mẫu Hợp chất Hữu cơ Phức tạp), và máy đo địa chấn hay không. Một camera chụp ảnh vi mô độ phân giải cao sẽ nhắm vào điểm khoan của DrACO để quan sát chi tiết các hạt cát kích thước chỉ vài milimét quanh khu vực lấy mẫu."
+    },
+    {
+     "t": "p",
+     "text": "\"DragonCam sẽ cung cấp cho chúng tôi bối cảnh quan trọng cho các mẫu vật được DrACO thu thập,\" Carolyn Ernst, nhà khoa học phụ trách thiết bị DragonCam tại APL, cho biết. \"Chúng tôi sẽ thu thập vật liệu tại nhiều địa điểm khác nhau trên Titan, và hình ảnh từ các camera sẽ giúp chúng tôi liên kết các mẫu vật với bức tranh địa hình rộng lớn hơn của Titan, từ đó ghép lại câu chuyện về địa chất của hành tinh này.\""
+    },
+    {
+     "t": "p",
+     "text": "Các bộ phận của những thiết bị khác trên Dragonfly — DraGNS (Máy quang phổ Tia Gamma và Neutron), DraGMet (Thiết bị Địa vật lý và Khí tượng), DraMS (Máy quang phổ Khối lượng) và DrACO — sẽ được giao, lắp đặt và thử nghiệm trong vài tháng tới. Dragonfly dự kiến sẽ được phóng vào tháng 7 năm 2028 và tới Titan vào cuối năm 2034."
+    },
+    {
+     "t": "p",
+     "text": "Để biết thêm thông tin về sứ mệnh Dragonfly của NASA, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://www.nasa.gov/dragonfly"
+    }
+   ]
+  },
+  {
+   "id": "f80557315095",
+   "order": 2,
+   "slug": "hai-thieu-nien-tim-ra-cach-dung-hydrogel-de-ngan-chay-rung-b",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Hai thiếu niên tìm ra cách dùng hydrogel để ngăn cháy rừng bùng trở lại",
+   "sapo": "Hai anh em đã tự chế một vòi xịt để phun hydrogel chống cháy ra xa tới 18 mét.",
+   "author": "Maria Temming",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
+   "published": "2026-11-24T11:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 753,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Hydrogels could help stop wildfires from reigniting, teens find",
+   "images": [
+    {
+     "src": "img/2026-11-25/f80557315095-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 738
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Với cặp anh em song sinh Jack và Henry Grover, 14 tuổi, việc chống cháy rừng là vấn đề rất gần gũi với gia đình các em. Nhà của hai anh em suýt bị cháy mất. Sau đó, các em biết được rằng vụ cháy rừng Palisades năm 2025 ở California, nơi gia đình sinh sống, là do một đám cháy khác bùng phát trở lại. Hai anh em quyết định tìm hiểu xem liệu một loại vật liệu gọi là hydrogel có thể được phun lên các khu vực đã cháy để ngăn cháy rừng âm ỉ bùng trở lại hay không."
+    },
+    {
+     "t": "p",
+     "text": "Hydrogel có thể hấp thụ và giải phóng rất nhiều nước. Vì chúng phân hủy được trong môi trường, chúng có thể thân thiện với môi trường hơn so với các chất chống cháy khác. Jack và Henry đã thử nghiệm chín loại hydrogel giá rẻ và dễ tìm mua. Các em đo xem loại nào khô nhanh hơn trong lò, loại nào bám tốt hơn vào lá cây, và loại nào hút nước nhanh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Loại tốt nhất trong số đó là sodium polyacrylate (natri polyacrylat). Đây là loại gel siêu hút nước thường được dùng để làm tã và băng vệ sinh. Nó cũng được biết đến là có khả năng chống cháy."
+    },
+    {
+     "t": "p",
+     "text": "Trong một thử nghiệm khác, Jack và Henry bôi loại gel này lên than nóng. Các em đo xem phải bao lâu than mới bắt cháy trở lại, so với than đã cháy được phun nước thường. Than được phun nước bắt cháy trở lại sau ba phút. Còn than được xử lý bằng hydrogel thì mất gần nửa giờ mới cháy lại — chậm hơn khoảng 10 lần."
+    },
+    {
+     "t": "p",
+     "text": "Jack và Henry thực hiện dự án này khi học lớp 8 tại Trường Riverside STEM Academy ở California. Công trình nghiên cứu đã giúp hai em trở thành thí sinh vào vòng chung kết cuộc thi Thermo Fisher Scientific Junior Innovators Challenge năm 2026. Chương trình này do Society for Science tổ chức, cũng là đơn vị xuất bản tạp chí Science News Explores. Jack và Henry đều giành được giải thưởng cao nhất trị giá 10.000 đô la tại cuộc thi. Dưới đây, hai anh em chia sẻ về trải nghiệm nghiên cứu và những lời khuyên của mình."
+    },
+    {
+     "t": "h",
+     "text": "Các em đã phản ứng thế nào khi nhìn thấy kết quả thử nghiệm với than?"
+    },
+    {
+     "t": "p",
+     "text": "Cả Jack và Henry đều bất ngờ trong khoảnh khắc đó khi thấy hydrogel hoạt động hiệu quả đến vậy. \"Nhưng khi nhìn lại, điều đó cũng không hoàn toàn bất ngờ,\" Henry nói. \"Với nước, nó chỉ trôi đi hoặc bốc hơi, còn hydrogel thì bám lại và giải phóng [nước] đó trong một thời gian dài. Vì vậy mà lượng nước được sử dụng hiệu quả hơn nhiều, và thực sự làm nguội được vật liệu có thể bùng cháy trở lại.\""
+    },
+    {
+     "t": "h",
+     "text": "Phần nào là khó khăn nhất?"
+    },
+    {
+     "t": "p",
+     "text": "\"Là việc thử nghiệm hydrogel,\" Jack nói. \"Chúng em không thể cứ thế đi đến một đám cháy rừng, chờ lính cứu hỏa dập tắt rồi mới thử sản phẩm của mình được.\" Thay vào đó, hai anh em đã nghĩ ra một mô hình để mô phỏng việc cháy bùng trở lại. \"Chúng em dùng những thứ như lò nướng và lò nướng than vì chúng an toàn hơn nhiều so với việc thử nghiệm bằng một đám cháy lớn.\""
+    },
+    {
+     "t": "h",
+     "text": "Phần nào là đáng nhớ và ý nghĩa nhất?"
+    },
+    {
+     "t": "p",
+     "text": "Jack và Henry đều đồng ý rằng phần thú vị nhất của dự án là in 3D và thử nghiệm một chiếc vòi phun để xịt hydrogel (gel dạng nước) mà họ làm ra. \"Chúng tôi chỉ cần gắn nó vào vòi nước và xem nó phun xa và tốt như thế nào,\" Henry nói. Chiếc vòi phun bắn gel đi khoảng 18 mét. \"Thật sự rất vui khi thấy thiết bị hoạt động tốt như vậy,\" Henry nói."
+    },
+    {
+     "t": "h",
+     "text": "Có lời khuyên gì cho việc chọn bạn cùng làm dự án khoa học không?"
+    },
+    {
+     "t": "p",
+     "text": "\"Bạn phải làm việc với người mà bạn biết mình hợp tác tốt, và đó phải là người thực sự sẽ giúp bạn làm dự án,\" Jack nói. \"Đừng chỉ chọn làm việc với ai đó mà bạn thích dành thời gian chung nhưng chỉ lười biếng và không làm gì cả. Bạn phải chắc chắn tìm được một người bạn đồng hành có trách nhiệm và cũng sẽ hoàn thành phần việc của mình.\""
+    }
+   ]
+  },
+  {
+   "id": "ba44a48be421",
+   "order": 3,
+   "slug": "cac-nhom-chot-kien-truc-nhiem-vu-cho-tau-sr-1-freedom-cua-na",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Các nhóm chốt kiến trúc nhiệm vụ cho tàu SR-1 Freedom của NASA",
+   "sapo": "NASA đã hoàn thành một cuộc rà soát quan trọng cho SR-1 (Lò phản ứng vũ trụ-1) Freedom và chốt các yếu tố chính của tàu vũ trụ, dự kiến sẽ thử nghiệm hệ thống đẩy điện hạt nhân (nuclear electric propulsion).",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+   "published": "2026-11-24T21:04:32+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 1353,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+   "images": [
+    {
+     "src": "img/2026-11-25/ba44a48be421-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "NASA đã hoàn thành một cuộc rà soát quan trọng cho Lò phản ứng vũ trụ-1 (SR-1) Freedom và chốt các yếu tố chính của tàu vũ trụ. Tàu này dự kiến phóng vào năm 2028 và sẽ là lần đầu tiên thử nghiệm hệ thống đẩy điện hạt nhân trong không gian sâu."
+    },
+    {
+     "t": "p",
+     "text": "Các chuyên gia từ nhiều bộ phận của NASA, Bộ Năng lượng Hoa Kỳ (DOE) và ngành công nghiệp đã gặp nhau tại Trung tâm Nghiên cứu Glenn của NASA ở Cleveland để tiến hành một cuộc rà soát thiết kế nhiệm vụ SR-1 quan trọng vào tháng 10. Nhiều quyết định then chốt đã được đưa ra, giúp nhiệm vụ này chuyển từ một ý tưởng sơ khai thành một thiết kế tàu vũ trụ cụ thể."
+    },
+    {
+     "t": "p",
+     "text": "\"SR-1 đánh dấu một bước ngoặt trong cách chúng ta di chuyển khắp hệ Mặt Trời,\" ông Steve Sinacore, giám đốc chương trình SR-1 Freedom, cho biết. \"Nhiệm vụ này sẽ là chuyến hàng đầu tiên trên 'tuyến đường sắt' của hệ Mặt Trời, và những quyết định chúng ta đang đưa ra lúc này chính là đặt nền cho mọi tàu vũ trụ chạy bằng năng lượng hạt nhân sau này.\""
+    },
+    {
+     "t": "p",
+     "text": "Dự kiến phóng vào cuối năm 2028, SR-1 sẽ sử dụng cả năng lượng hạt nhân và năng lượng Mặt Trời để đưa SkyFall, một khoang chứa ba chiếc trực thăng thế hệ mới, đến Sao Hỏa. Sau khi được thả xuống, các trực thăng này sẽ nghiên cứu địa chất và lịch sử khí hậu của Sao Hỏa, khám phá những vùng đất mới, và tìm kiếm dấu hiệu của băng dưới lòng đất."
+    },
+    {
+     "t": "p",
+     "text": "Khi NASA chuẩn bị cho các nhiệm vụ thám hiểm tham vọng hơn, các tàu vũ trụ và hoạt động trên mặt đất trong tương lai sẽ cần nhiều năng lượng hơn hẳn so với các hệ thống hiện tại có thể cung cấp, đặc biệt ở những nơi ánh sáng Mặt Trời ít hoặc không có. SR-1 sẽ cho thấy năng lượng từ phân hạch (fission power) có thể giúp thực hiện các nhiệm vụ kéo dài, mở đường cho các hệ thống năng lượng mặt đất đáng tin cậy để hỗ trợ Trạm Mặt Trăng tương lai của NASA, và giúp con người thám hiểm sâu hơn vào hệ Mặt Trời."
+    },
+    {
+     "t": "p",
+     "text": "Thiết kế tàu vũ trụ SR-1 Freedom đã thay đổi nhiều kể từ khi Giám đốc NASA Jared Isaacman lần đầu giới thiệu ý tưởng này vào tháng 3, tại sự kiện Ignition của cơ quan, nơi các lãnh đạo chia sẻ kế hoạch phát triển một tàu vũ trụ chạy bằng năng lượng phân hạch kịp thời cho cửa sổ phóng tới Sao Hỏa tiếp theo."
+    },
+    {
+     "t": "p",
+     "text": "Một thay đổi quan trọng là sử dụng một cần (boom) ngắn hơn so với cần được thể hiện trong các hình minh họa ban đầu. Cần này giúp tách lò phản ứng ra khỏi phần thân chính của tàu vũ trụ, được gọi là Mô-đun Năng lượng và Đẩy (Power and Propulsion Element). Cần ngắn hơn sẽ giúp giảm trọng lượng, đơn giản hóa việc lắp ráp, và giúp thiết kế tàu gọn gàng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Các chuyên gia của NASA và DOE cũng xác định rằng những cải tiến trong việc chắn bức xạ (shielding) và thiết kế tàu sẽ cho phép lò phản ứng hoạt động gần hơn với phần còn lại của tàu vũ trụ. Điều này sẽ giúp đơn giản hóa việc tích hợp các bộ phận, trong khi vẫn đảm bảo khả năng bảo vệ bức xạ cần thiết cho các thiết bị điện tử của tàu và cho khoang tải SkyFall."
+    },
+    {
+     "t": "p",
+     "text": "Các nhóm vẫn đang tiếp tục đánh giá các đặc điểm thiết kế quan trọng khác, bao gồm số lượng tấm tản nhiệt (radiator panel) trên SR-1, mức công suất đầu ra của mô-đun năng lượng hạt nhân, và thời gian hoạt động của lò phản ứng. Những quyết định này sẽ giúp định hình thiết kế cuối cùng của tàu vũ trụ và đảm bảo nó đáp ứng các mục tiêu của nhiệm vụ."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, nhóm nghiên cứu cũng đang chỉnh sửa Mô-đun Năng lượng và Đẩy của tàu vũ trụ bằng cách cập nhật hệ thống liên lạc cho hành trình đến Sao Hỏa. SR-1 Freedom sẽ sử dụng các đĩa anten băng tần X (X-band antenna) lớn hơn để gửi dữ liệu qua không gian sâu về Trái Đất. Các bước phát triển tiếp theo của kế hoạch tàu vũ trụ sẽ tập trung vào việc giảm rủi ro, đơn giản hóa thiết kế, và giữ đúng tiến độ."
+    },
+    {
+     "t": "p",
+     "text": "NASA đã trao hợp đồng 39,3 triệu đô la cho Phòng thí nghiệm Vật lý Ứng dụng của Đại học Johns Hopkins để phát triển hệ thống tản nhiệt cho khối nguồn điện hạt nhân của tàu vũ trụ. Hệ thống này sẽ loại bỏ lượng nhiệt dư sinh ra từ hệ thống điện hạt nhân của tàu, giúp nó hoạt động an toàn và hiệu quả. Phòng thí nghiệm đang hợp tác với công ty Advanced Cooling Technologies, đối tác thương mại chiến lược quan trọng, để cung cấp công nghệ ống dẫn nhiệt (heat pipe) và bộ tản nhiệt composite then chốt, giúp hệ thống đáp ứng được những yêu cầu khắt khe của nhiệm vụ."
+    },
+    {
+     "t": "p",
+     "text": "Được trao theo hợp đồng Hỗ trợ Nghiên cứu, Phát triển và Kỹ thuật Hàng không Vũ trụ II (Aerospace Research, Development, and Engineering Support II), hợp đồng này đảm bảo nhóm của Phòng thí nghiệm Vật lý Ứng dụng sẽ thiết kế, chế tạo, thử nghiệm và đánh giá hệ thống, cùng với việc sản xuất phần cứng cần thiết cho chuyến bay. Hệ thống tản nhiệt là phần quan trọng để chứng minh khả năng của động cơ đẩy điện hạt nhân (nuclear electric propulsion) trong không gian, và sẽ giúp đặt nền tảng thiết kế cũng như sản xuất công nghiệp cho các hệ thống hạt nhân công suất lớn trong tương lai dùng cho thám hiểm không gian sâu."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với việc thiết kế tàu vũ trụ, các nhóm đã xác định xong lộ trình nhiệm vụ và kế hoạch vận hành."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi phóng và khi tàu vũ trụ đã rời khỏi quỹ đạo Trái Đất, tàu SR-1 Freedom sẽ khởi động và tăng dần công suất lò phản ứng. Hệ thống lò phản ứng sẽ hoạt động trong một khoảng thời gian ban đầu rồi tắt. Trong thời gian này, tàu vũ trụ sẽ thu thập và gửi dữ liệu hoạt động về Trái Đất. Sau đó, các bảng năng lượng mặt trời sẽ cung cấp điện trong lúc tàu bay đến Sao Hỏa."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi đưa tàu SkyFall vào quỹ đạo Sao Hỏa, tàu SR-1 Freedom sẽ khởi động lại lò phản ứng phân hạch của mình, thu thập thêm dữ liệu về hoạt động của tàu vũ trụ trong không gian sâu."
+    },
+    {
+     "t": "p",
+     "text": "\"Bằng cách hoàn thiện thiết kế và phát triển kiến trúc này, chúng tôi không chỉ đang xây dựng một tàu vũ trụ, mà còn đang đặt nền tảng cho một kỷ nguyên mới của phương tiện vận chuyển đáng tin cậy và hiệu quả vượt ra ngoài quỹ đạo Trái Đất,\" ông Sinacore nói. \"Những gì chúng ta học được từ SR-1 Freedom sẽ định hình tương lai của việc thám hiểm không gian trong nhiều thập kỷ tới.\""
+    },
+    {
+     "t": "p",
+     "text": "Với các quyết định thiết kế quan trọng đang được triển khai và các nhóm từ NASA, Bộ Năng lượng Mỹ (DOE) và ngành công nghiệp đang cùng hợp tác, tàu SR-1 Freedom đang tiến tới mục tiêu phóng vào năm 2028. Nhiệm vụ này sẽ chứng minh những khả năng mới của phương tiện vận chuyển bằng năng lượng hạt nhân và giúp đặt nền tảng cho việc thám hiểm không gian trong tương lai, vượt ra ngoài Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm hiểu thêm về những nỗ lực của NASA trong lĩnh vực năng lượng hạt nhân trong không gian, hãy truy cập:"
+    },
+    {
+     "t": "p",
+     "text": "https://www.nasa.gov/space-nuclear"
+    }
+   ]
+  },
+  {
+   "id": "93afdfaf80c0",
+   "order": 4,
+   "slug": "trung-quoc-lan-dau-dua-phi-hanh-gia-nuoc-ngoai-len-tram-vu-t",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Trung Quốc lần đầu đưa phi hành gia nước ngoài lên trạm vũ trụ",
+   "sapo": "Chuyến bay đánh dấu lần đầu tiên chương trình đưa người vào vũ trụ của Trung Quốc có sự tham gia của cả phi hành gia Trung Quốc và nước ngoài.",
+   "author": "Nguyễn Hà",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/trung-quoc-lan-dau-dua-phi-hanh-gia-nuoc-ngoai-len-tram-vu-tru-post1150420.vnp",
+   "published": "2026-11-25T01:03:06+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 191,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/93afdfaf80c0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ngày 25/11, Trung Quốc đã phóng tàu vũ trụ có người lái Thần Châu-24, đưa 3 phi hành gia lên Trạm Vũ trụ Thiên Cung, trong đó có một chuyên gia Pakistan."
+    },
+    {
+     "t": "p",
+     "text": "Đây là lần đầu tiên Trung Quốc đưa phi hành gia nước ngoài lên trạm vũ trụ này."
+    },
+    {
+     "t": "p",
+     "text": "Theo Tân Hoa xã, tàu Thần Châu-24 được phóng bằng tên lửa đẩy Trường Chinh-2F (Long March-2F) từ Trung tâm Phóng vệ tinh Tửu Tuyền ở miền Tây Bắc Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Ba thành viên phi hành đoàn gồm chỉ huy kiêm phi công tàu vũ trụ Tang Hongbo, kỹ sư hàng không vũ trụ Wu Yi và phi hành gia Pakistan Muhammad Zeeshan Ali."
+    },
+    {
+     "t": "p",
+     "text": "Chuyến bay đánh dấu lần đầu tiên chương trình đưa người vào vũ trụ của Trung Quốc có sự tham gia của cả phi hành gia Trung Quốc và nước ngoài./."
+    },
+    {
+     "t": "h",
+     "text": "Trung Quốc tiến hành chương trình nghiên cứu con người trên trạm vũ trụ"
+    },
+    {
+     "t": "p",
+     "text": "Trung Quốc thực hiện nghiên cứu về khả năng quyết định và tâm lý của phi hành gia trên trạm vũ trụ Thiên Cung, chuẩn bị cho các chuyến bay dài hơn."
+    }
+   ]
+  },
+  {
+   "id": "665a765824ea",
+   "order": 5,
+   "slug": "gap-loai-meo-moi-dau-tien-duoc-mo-ta-trong-hon-mot-the-ky",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Gặp loài mèo mới đầu tiên được mô tả trong hơn một thế kỷ",
+   "sapo": "Các xét nghiệm gene trên hai con \"mèo hổ\" tí hon tìm thấy ở Bolivia cho thấy chúng thuộc một loài hoàn toàn mới. Chúng đã bổ sung thêm một nhánh mới vào cây họ nhà mèo.",
+   "author": "Meghan Rosen",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/new-living-cat-species",
+   "published": "2026-11-24T11:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 595,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Meet the first new living cat species described in more than a century",
+   "images": [
+    {
+     "src": "img/2026-11-25/665a765824ea-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chú ý các bạn yêu mèo: một nhánh đáng yêu mới vừa được thêm vào cây họ nhà mèo."
+    },
+    {
+     "t": "p",
+     "text": "Xin giới thiệu loài Leopardus tilcayo. Những con \"mèo hổ\" tí hon này có thân hình thanh mảnh, lông đốm và đuôi có vòng khoang. Chúng chỉ nặng khoảng 2 kg, bằng một chú mèo nhà bốn tháng tuổi. Được phát hiện ở Bolivia, chúng có vẻ là loài bản địa của rừng Yungas thuộc dãy núi Andes miền trung."
+    },
+    {
+     "t": "p",
+     "text": "Trong một bài báo đăng trên tạp chí Current Biology ngày 5 tháng 10, các nhà khoa học lần đầu tiên đặt tên và mô tả loài L. tilcayo. Đây đúng là loài mèo còn sống mới đầu tiên được các nhà khoa học ghi nhận trong hơn một thế kỷ. Loài gần nhất trước đó là mèo đồng cỏ Uruguay (L. fasciatus), được mô tả lần đầu vào năm 1923."
+    },
+    {
+     "t": "p",
+     "text": "Với một sinh vật nhỏ bé như vậy, L. tilcayo đã gây xôn xao không nhỏ. Tin tức về việc nó được công nhận là loài mới đã xuất hiện trên các mặt báo khắp thế giới. \"Tôi hoàn toàn không ngờ lại được chú ý đến mức này,\" Jonas Lescroart nói. Ông là nhà sinh học tiến hóa (evolutionary biologist) tại Đại học Antwerp, Bỉ."
+    },
+    {
+     "t": "h",
+     "text": "\"Mèo nhà\" hóa ra lại là một loài mới"
+    },
+    {
+     "t": "p",
+     "text": "Lescroart và nhóm của ông chưa từng có ý định đi tìm một loài mèo mới. Họ chỉ muốn xác định chính xác có bao nhiêu loài mèo hổ tồn tại. Lescroart cho biết những loài mèo nhỏ bé này, có nguồn gốc từ vùng nhiệt đới châu Mỹ, trông rất giống nhau."
+    },
+    {
+     "t": "p",
+     "text": "Để nhìn sâu hơn lớp lông của những chú mèo này, nhóm của ông đã phân tích gene của 38 loài thuộc chi Leopardus. Nhóm này bao gồm các loài mèo hổ cũng như một số loài nổi tiếng hơn, chẳng hạn như mèo báo đốm (ocelot). Các nhà nghiên cứu ban đầu dự đoán sẽ tìm thấy khoảng hai đến bốn loài mèo hổ khác nhau. Nhưng kết quả phân tích mới lại cho thấy có đến năm loài. Trong đó có một loài chưa từng được ghi nhận trong tài liệu khoa học: L. tilcayo."
+    },
+    {
+     "t": "p",
+     "text": "Dữ liệu về loài này chỉ đến từ hai cá thể. Một là con cái được chữa trị ngắn hạn vì bị thương tại một khu bảo tồn ở Bolivia. (Sau đó, nó được thả về tự nhiên.) Cá thể thứ hai là con đực, vẫn đang sống tại khu bảo tồn. Nó có tên là Tigrino."
+    },
+    {
+     "t": "p",
+     "text": "Đồng nghiệp của Lescroart, bà Paola Nogales-Ascarrunz, đã gặp Tigrino tại khu bảo tồn đó. Bà nhận thấy nó trông có vẻ khác với những con mèo bà dự đoán sẽ thấy ở khu vực này. Và bà có không ít kinh nghiệm với loài mèo này. Bà là một nhà bảo tồn mèo (cat conservationist), đồng thời là Nhà thám hiểm của National Geographic. Vì tò mò, bà Nogales-Ascarrunz đã làm xét nghiệm gene cho Tigrino. Sau đó, bà liên hệ với nhóm của Lescroart để chia sẻ dữ liệu của mình."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu mới này cho thấy vẫn còn sự đa dạng ẩn giấu ngay cả ở những loài vật đã được nghiên cứu kỹ, như loài mèo. \"Tôi không biết liệu có phải chờ thêm 100 năm nữa mới có một loài mới hay không,\" Lescroart nói. Dù vậy, nhóm của ông thừa nhận hiện tại họ chưa phát hiện thêm chú mèo kỳ lạ nào khác trong tầm ngắm."
+    }
+   ]
+  },
+  {
+   "id": "e26b1081bdcf",
+   "order": 6,
+   "slug": "ngu-dan-cuu-ho-tha-50-ca-the-rua-thu-bien-ve-tu-nhien",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Ngư dân cứu hộ thả 50 cá thể rùa, thú biển về tự nhiên",
+   "sapo": "(Dân trí) - Không chỉ mưu sinh trên biển, ngư dân Gia Lai còn trở thành tình nguyện viên trực tiếp cứu hộ rùa biển, thú biển. Trong năm 2026, 50 cá thể đã",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/ngu-dan-cuu-ho-tha-50-ca-the-rua-thu-bien-ve-tu-nhien-20261123163120317.htm",
+   "published": "2026-11-25T01:06:18+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 758,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/e26b1081bdcf-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/e26b1081bdcf-0.jpg",
+     "caption": "Ngư dân tỉnh Gia Lai thả cá thể rùa biển bị mắc lưới về tự nhiên (Ảnh: Liên minh Bảo tồn thiên nhiên quốc tế).",
+     "w": 1280,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-11-25/e26b1081bdcf-1.jpg",
+     "caption": "Bà Bùi Thị Thu Hiền, điều phối viên Chương trình Biển và Tài nguyên vùng bờ của IUCN (Ảnh: Công Sơn).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/e26b1081bdcf-2.jpg",
+     "caption": "Rùa biển mắc lưới của ngư dân trên biển (Ảnh: Liên minh Bảo tồn thiên nhiên quốc tế).",
+     "w": 725,
+     "h": 483
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Không chỉ mưu sinh trên biển, ngư dân Gia Lai còn trở thành tình nguyện viên trực tiếp cứu hộ rùa biển, thú biển. Trong năm 2026, 50 cá thể đã được cứu hộ, thả về môi trường tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Báo cáo của IUCN cho biết, từ đầu năm đến nay, ngư dân Gia Lai đã cứu hộ 49 cá thể rùa biển và một cá thể thú biển. Các loài rùa được phát hiện, giải cứu gồm rùa xanh, đồi mồi, đồi mồi dứa và vích."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo bà Bùi Thị Thu Hiền, điều phối viên Chương trình Biển và Tài nguyên vùng bờ của IUCN, việc đánh bắt không chủ ý là vấn đề nghiêm trọng, ảnh hưởng đến công tác bảo tồn sinh vật biển ở Việt Nam và toàn cầu."
+    },
+    {
+     "t": "p",
+     "text": "Rùa biển, cá heo, cá voi và các loài thú biển không phải mục tiêu khai thác nhưng có thể mắc lưới, dính câu hoặc ngư cụ khác, dẫn đến bị thương, thậm chí chết."
+    },
+    {
+     "t": "p",
+     "text": "Ngư dân hoạt động trên biển 250-300 ngày mỗi năm nên có điều kiện phát hiện sớm các trường hợp động vật biển mắc lưới, gặp nguy hiểm hoặc chết, trôi dạt trên biển, dạt vào bờ. Vì vậy, huy động ngư dân ghi nhận, báo cáo và hỗ trợ bảo vệ các loài này là cách tiếp cận quan trọng trong mô hình khoa học công dân."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu năm đến nay, ngư dân tỉnh Gia Lai đã cứu được 49 rùa biển và một thú biển. Những loài rùa biển đã được phát hiện, giải cứu rất quý hiếm, bao gồm rùa, đồi mồi, đồi mồi dứa, vích."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, quá trình đánh bắt trên biển, ngư dân báo cáo nhiều lần phát hiện hoạt động của rùa biển, cá heo, cá voi sát thủ, cá nhà táng, cá mặt trăng."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, tại Gia Lai có 90 ngư dân tham gia chương trình và nhiều người sử dụng App TNV ngư dân. Các ngư dân từng bước nắm vững, sử dụng nền tảng số trong giám sát, báo cáo và cứu hộ rùa biển, thú biển."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Ngọc Hiếu (54 tuổi, trú tại xã Cát Tiến, tỉnh Gia Lai) cho biết trước đây, khi rùa biển, thú biển mắc lưới hoặc dính câu, ngư dân thường gỡ rồi thả về biển mà chưa có cách ghi nhận, báo cáo cụ thể."
+    },
+    {
+     "t": "p",
+     "text": "Từ khi tham gia chương trình, sử dụng ứng dụng TNV ngư dân, các trường hợp cứu hộ được cập nhật, giúp cơ quan chức năng có thêm dữ liệu phục vụ bảo tồn."
+    },
+    {
+     "t": "p",
+     "text": "“Riêng năm nay, tàu cá của tôi đã cứu hộ, thả 7 cá thể rùa biển về môi trường tự nhiên. Tôi và nhiều ngư dân mong muốn những việc làm nhỏ này góp phần bảo vệ đa dạng sinh học, gìn giữ môi trường biển”, ông Hiếu chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Bà Nguyễn Thị Ái Trinh, chuyên viên Hiệp hội Thủy sản tỉnh Gia Lai, cho biết kết quả 50 động vật biển hoang dã, quý hiếm được cứu hộ cho thấy mô hình đã tạo ra cơ chế phản ứng từ cộng đồng đối với các trường hợp động vật biển gặp nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là hướng tiếp cận phù hợp với yêu cầu giảm thiểu khai thác không chủ ý đối với động vật biển theo định hướng của Đạo luật Bảo vệ động vật có vú biển (MMPA) của Hoa Kỳ."
+    },
+    {
+     "t": "p",
+     "text": "“Ngư dân từ người được tuyên truyền đã trở thành chủ thể bảo tồn và là lực lượng quan sát, cứu hộ hiệu quả ngay trên biển”, bà Trinh cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Hữu Hào, Chủ tịch Hiệp hội Thủy sản tỉnh Gia Lai, nhấn mạnh ngư dân không chỉ là những người khai thác tài nguyên biển, mà còn là những người đồng hành và góp sức bảo vệ đại dương. Với kinh nghiệm và thường xuyên trên biển, ngư dân trở thành những người gác biển tích cực, trực tiếp đóng góp cho công tác bảo tồn đa dạng sinh học, thúc đẩy nghề cá bền vững."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 23/11, IUCN và Hiệp hội Thủy sản tỉnh Gia Lai tổ chức tổng kết chương trình Tình nguyện viên ngư dân giám sát, báo cáo và cứu hộ rùa biển, thú biển năm 2026."
+    },
+    {
+     "t": "p",
+     "text": "Chương trình hướng đến huy động ngư dân trực tiếp tham gia phát hiện, ghi nhận và hỗ trợ cứu hộ các loài động vật biển gặp nguy hiểm."
+    }
+   ]
+  },
+  {
+   "id": "3800cfcd9fb2",
+   "order": 7,
+   "slug": "cac-nha-khoa-hoc-da-lam-song-lai-12-loai-san-ho-o-ran-san-ho",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Các nhà khoa học đã 'làm sống lại' 12 loài san hô ở Rạn san hô Great Barrier",
+   "sapo": "Rạn san hô Great Barrier có sự đa dạng san hô còn lớn hơn những gì chúng ta từng biết, theo một phân tích di truyền mới vừa giúp 'làm sống lại' 12 loài san hô Acropora.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/scientists-have-resurrected-12-coral-species-on-the-great-barrier-reef",
+   "published": "2026-11-24T16:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 6,
+   "words": 891,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Scientists Have 'Resurrected' 12 Coral Species on The Great Barrier Reef",
+   "images": [
+    {
+     "src": "img/2026-11-25/3800cfcd9fb2-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-25/3800cfcd9fb2-0.jpg",
+     "caption": "Hai loài A. fruticosa và A. bullata đã được 'làm sống lại' sau khi từng bị coi là đồng nghĩa với loài A. humilis. (Bảo tàng Queensland)",
+     "w": 600,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-25/3800cfcd9fb2-1.jpg",
+     "caption": "Các địa điểm thu thập mẫu san hô. (Crosbie và cộng sự, Invertebrate Systematics, 2026)",
+     "w": 1280,
+     "h": 889
+    },
+    {
+     "src": "img/2026-11-25/3800cfcd9fb2-2.jpg",
+     "caption": "Hiện tượng san hô bị tẩy trắng tại Rạn san hô Great Barrier trong một đợt tẩy trắng quy mô lớn. (Brett Monroe Garner/Moment/Getty Images)",
+     "w": 641,
+     "h": 426
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rạn san hô Great Barrier có sự đa dạng san hô còn lớn hơn những gì chúng ta từng biết, theo một phân tích di truyền mới vừa giúp 'làm sống lại' 12 loài san hô Acropora."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này được công bố trên tạp chí Invertebrate Systematics."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi công nghệ giải trình tự gen (gene sequencing) xuất hiện, rất khó để biết một loài kết thúc ở đâu và loài khác bắt đầu từ đâu."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học thế kỷ 19 và 20 chỉ có thể dựa vào hình dáng bên ngoài của các mẫu vật mà họ thu thập được trong những chuyến khảo sát thực địa. Các mảnh san hô được kéo lên khỏi biển, phơi dưới nắng, rồi ngâm trong thuốc tẩy gia dụng để loại bỏ phần mô sống, chỉ còn lại \"bộ xương\" san hô bằng khoáng chất aragonit kết tinh."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học nghiên cứu kỹ hình dạng của những bộ xương san hô này, so sánh các mảnh đã tẩy trắng với một \"mẫu chuẩn\" duy nhất để xác định xem có trùng khớp hay không."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Khi bạn đang cầm mẫu chuẩn đó trong tay, đó là lúc bạn chắc chắn 100% mình đang cầm đúng loài đó,\" ông Peter Cowman, nhà khoa học trưởng của Bảo tàng Queensland, chia sẻ với ScienceAlert."
+    },
+    {
+     "t": "p",
+     "text": "Bảo tàng Queensland ở Úc đang lưu giữ một trong những bộ sưu tập mẫu san hô lớn nhất thế giới."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng những bộ xương san hô trong bộ sưu tập này lại gây ra một vấn đề cho các nhà khoa học hiện đại muốn tìm hiểu sâu hơn về các loài san hô. Bộ xương san hô không chứa DNA, vì vậy không thể dùng các mẫu vật cũ trong bảo tàng để phân tích di truyền."
+    },
+    {
+     "t": "p",
+     "text": "Vào cuối thế kỷ 20, một nhóm các nhà khoa học mới đã xem xét lại rất nhiều mẫu san hô trong các lưu trữ, và trong nhiều trường hợp, họ cho rằng có quá nhiều điểm trùng lặp."
+    },
+    {
+     "t": "p",
+     "text": "Họ cho rằng những loài san hô từng được đặt tên khác nhau – và vì thế được coi là những loài riêng biệt – thực ra lại là những cá thể thuộc cùng một loài."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều loài đã bị gộp lại trong quá trình \"đồng nhất hóa\" này mà không có sự trợ giúp của việc phân tích DNA."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng nghiên cứu mới, do Augustine Crosbie của Đại học James Cook ở Australia dẫn đầu, đã xác nhận rằng 12 loài san hô Acropora thực ra vẫn luôn là những loài riêng biệt."
+    },
+    {
+     "t": "p",
+     "text": "Bốn loài san hô khác mà danh tính của chúng vẫn còn là một điều bí ẩn, giờ đây cũng đã được công nhận là loài hợp lệ."
+    },
+    {
+     "t": "p",
+     "text": "Để có được bằng chứng DNA cần thiết, các nhà khoa học phải lần lại từng bước của những người đi trước, quay về đúng nơi xuất phát của các loài san hô này."
+    },
+    {
+     "t": "p",
+     "text": "\"Giờ đây, việc chúng tôi làm là lấy một nhánh nhỏ của san hô làm mẫu mô, bảo quản trong cồn ethanol, trong tủ đông siêu lạnh, để giữ được lâu dài,\" Cowman giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi có đủ nguồn lực, chúng tôi sẽ giải trình tự (sequence) những mẫu này, và bổ sung chúng vào bản đồ tổng thể về lịch sử tiến hóa của san hô.\""
+    },
+    {
+     "t": "p",
+     "text": "Một số mẫu vật trong phân tích mới được lấy từ Rạn san hô Great Barrier; những mẫu khác đến từ Fiji, Tonga, Philippines và Singapore."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi cố gắng tìm một mẫu vật đến từ chính địa điểm gốc, có hình dạng gần giống nhất với hình dạng chuẩn,\" Cowman giải thích."
+    },
+    {
+     "t": "p",
+     "text": "\"Khi chúng tôi đưa vào tất cả những mẫu vật 'cùng vị trí' này — những mẫu lấy từ cùng một địa điểm địa hình — chúng thường cho chúng tôi thấy còn rất nhiều loài cần được công nhận, và một số loài bị coi là 'không hợp lệ' cần được xác nhận lại là hợp lệ.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Các loài san hô Acropora đã bị ảnh hưởng đặc biệt nặng nề bởi các hiện tượng tẩy trắng trong những năm gần đây."
+    },
+    {
+     "t": "p",
+     "text": "Việc phát hiện ra các loài mới cho thấy Rạn san hô Great Barrier có nhiều loài san hô Acropora đa dạng hơn chúng ta từng nghĩ. Nhưng điều đó cũng có nghĩa là mỗi loài trong số đó có thể chỉ sống trong một phạm vi địa lý hẹp hơn nhiều, và vì vậy dễ bị tổn thương hơn."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều này rất quan trọng khi chúng ta đánh giá nguy cơ tuyệt chủng, theo dõi các cộng đồng sinh vật trên rạn san hô và quyết định nên dành nguồn lực bảo tồn cho khu vực nào,\" Cowman nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Rạn san hô Great Barrier là một trong những hệ sinh thái được nghiên cứu kỹ nhất trên Trái Đất, nhưng chúng ta vẫn đang phát hiện ra rằng mình đã đánh giá thấp số lượng loài san hô sống ở đó,\" nhà sinh thái học biển Andrew Baird của Đại học James Cook, tác giả chính của nghiên cứu, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Biết được loài nào đang tồn tại ở đó là điều cơ bản để hiểu, theo dõi và bảo vệ sự đa dạng sinh học của rạn san hô.\""
+    }
+   ]
+  },
+  {
+   "id": "68b5664dd1e6",
+   "order": 8,
+   "slug": "lua-bao-loc-dan-bau-va-cau-chuyen-lam-moi-di-san-viet",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Lụa Bảo Lộc, đàn bầu và câu chuyện làm mới di sản Việt",
+   "sapo": "Từ chất liệu lụa tơ tằm Bảo Lộc đến âm thanh đàn bầu trong không gian âm nhạc hiện đại, những giá trị văn hóa truyền thống được gợi mở qua các sáng tạo mới tại Gala Dinner kỷ niệm 15 năm Harper’s Bazaar Việt Nam.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/lua-bao-loc-dan-bau-va-cau-chuyen-lam-moi-di-san-viet-185261124163458795.htm",
+   "published": "2026-11-24T12:19:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 617,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/68b5664dd1e6-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/68b5664dd1e6-0.jpg",
+     "caption": "Phần trình diễn \"Thời trang và âm nhạc kiến tạo tương lai- Fashion & Music for a Future\", giới thiệu bốn thiết kế thời trang đương đại sử dụng chất liệu lụa tơ tằm Bảo Lộc",
+     "w": 1280,
+     "h": 1919
+    },
+    {
+     "src": "img/2026-11-25/68b5664dd1e6-1.jpg",
+     "caption": "Những thiết kế lụa Bảo Lộc được trình diễn tại đêm Gala",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/68b5664dd1e6-2.jpg",
+     "caption": "Cây đàn bầu mang chữ ký của nhóm nghệ sĩ SpaceSpeakers, từng đồng hành cùng nhóm trong các chuyến lưu diễn, được giới thiệu tại chương trình  và đưa vào phiên đấu giá gây quỹ học bổng",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/68b5664dd1e6-3.jpg",
+     "caption": "Giải thưởng Woman of the Year 2026 được trao cho bác sĩ Di Ái Hồng Sâm (trái), ghi nhận những đóng góp của bà trong lĩnh vực hoạt động xã hội và thiện nguyện",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/68b5664dd1e6-4.jpg",
+     "caption": "Bà Trần Nguyễn Thiên Hương (nhà sáng lập Harper’s Bazaar Việt Nam) trao cúp thiện nguyện Golden Heart cho hoa hậu Nguyễn Đình Như Vân (phải)",
+     "w": 1280,
+     "h": 1148
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Sợi lụa xưa, thanh âm mới và câu chuyện văn hóa Việt"
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Lụa tơ tằm Bảo Lộc gắn với vùng đất có truyền thống sản xuất tơ lụa của Lâm Đồng. Việc đưa chất liệu này vào các thiết kế thời trang đương đại không chỉ là cách khai thác nguyên liệu bản địa, mà còn gợi nhắc câu chuyện về tri thức thủ công, giá trị của nghề truyền thống và những người thợ đứng sau mỗi sản phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Tại chương trình, phần trình diễn \"Thời trang và âm nhạc kiến tạo tương lai - Fashion & Music for a Future\" giới thiệu bốn thiết kế thời trang sử dụng lụa tơ tằm Bảo Lộc. Qua ngôn ngữ thiết kế mới, chất liệu quen thuộc được đặt trong một diện mạo khác, mở thêm cơ hội tiếp cận với công chúng trẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là một hướng tiếp nối di sản: không chỉ bảo tồn chất liệu hay kỹ thuật làm nghề, mà còn tìm cách đưa chúng vào đời sống sáng tạo hôm nay."
+    },
+    {
+     "t": "p",
+     "text": "Đàn bầu cũng được giới thiệu trong một không gian âm nhạc có sự tham gia của các nghệ sĩ gắn với nhạc hiện đại. Thay vì đặt trong một chương trình biểu diễn nhạc cụ truyền thống thuần túy, nhạc cụ dân tộc này được kết nối với tinh thần sáng tạo của các nghệ sĩ đương đại."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ tại sự kiện, ca sĩ Soobin cho biết đàn bầu có thanh âm riêng, mang đậm bản sắc văn hóa Việt Nam. Việc đưa nhạc cụ này vào những không gian âm nhạc mới cũng mở ra cơ hội để âm hưởng truyền thống tiếp cận thêm nhiều khán giả."
+    },
+    {
+     "t": "p",
+     "text": "Một cây đàn bầu mang chữ ký của năm nghệ sĩ SpaceSpeakers , từng đồng hành cùng nhóm trong các chuyến lưu diễn, cũng được giới thiệu tại chương trình và đưa vào phiên đấu giá gây quỹ học bổng. Từ một nhạc cụ gắn với bản sắc âm nhạc dân tộc, cây đàn trở thành điểm kết nối giữa nghệ thuật và hoạt động sẻ chia."
+    },
+    {
+     "t": "h",
+     "text": "Khi sáng tạo gắn với trách nhiệm cộng đồng"
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh câu chuyện di sản, gala kỷ niệm 15 năm Harper’s Bazaar Việt Nam còn dành sự chú ý cho những đóng góp xã hội thông qua hai giải thưởng Woman of the Year 2026 và Golden Heart."
+    },
+    {
+     "t": "p",
+     "text": "Giải thưởng Woman of the Year 2026 được trao cho bác sĩ Di Ái Hồng Sâm (Dr. Sam Nguyen), doanh nhân gốc Việt tại Mỹ. Xuất thân từ gia đình có truyền thống ngự y ở Huế, bà sáng lập S.A.M Foundation năm 2009, với mục tiêu hỗ trợ trẻ mồ côi và thanh thiếu niên vô gia cư."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Theo thông tin từ chương trình, quỹ đã đồng hành cùng hơn 300 trẻ em thông qua các hoạt động hỗ trợ vật chất, giáo dục và cơ hội phát triển. Triết lý \"Living is Giving - Sống là cho\" được bà theo đuổi thể hiện quan niệm về trách nhiệm xã hội gắn với những hành động thiết thực."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, cúp thiện nguyện Golden Heart được trao cho Hoa hậu Nguyễn Đình Như Vân, Miss Global 2025."
+    },
+    {
+     "t": "p",
+     "text": "Hai giải thưởng ghi nhận những đóng góp ở những lĩnh vực khác nhau, nhưng cùng gợi ra một khía cạnh của vẻ đẹp người phụ nữ đương đại: bên cạnh tài năng và thành tựu cá nhân còn là trách nhiệm với cộng đồng. Giá trị của sự thành công không chỉ nằm ở những gì mỗi người đạt được, mà còn ở những điều tích cực họ có thể đóng góp cho xã hội."
+    }
+   ]
+  },
+  {
+   "id": "12ed2ad64fc9",
+   "order": 9,
+   "slug": "cai-ket-bat-ngo-vu-co-giao-tu-choi-qua-20-11-xin-tien-giup-h",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cái kết bất ngờ vụ cô giáo từ chối quà 20/11, xin tiền giúp học trò nghèo",
+   "sapo": "(Dân trí) - Sau khi được cô giáo kêu gọi ủng hộ, nam sinh có hoàn cảnh khó khăn ở Thái Nguyên nhận được gần 175 triệu đồng. Bất ngờ hơn, em chủ động xin",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/cai-ket-bat-ngo-vu-co-giao-tu-choi-qua-2011-xin-tien-giup-hoc-tro-ngheo-20261124201121097.htm",
+   "published": "2026-11-24T17:29:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1361,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/12ed2ad64fc9-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/12ed2ad64fc9-0.jpg",
+     "caption": "Cô Nguyễn Hương Giang, giáo viên Trường THPT Lý Nam Đế, Thái Nguyên, cùng học sinh (Ảnh: NVCC).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/12ed2ad64fc9-1.jpg",
+     "caption": "Sổ tiết kiệm 175 triệu đồng được lập cho học sinh Ng. và chị gái song sinh (Ảnh: NVCC).",
+     "w": 1140,
+     "h": 950
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Sau khi được cô giáo kêu gọi ủng hộ, nam sinh có hoàn cảnh khó khăn ở Thái Nguyên nhận được gần 175 triệu đồng. Bất ngờ hơn, em chủ động xin trích một phần để giúp 2 bạn cùng trường cũng gặp biến cố."
+    },
+    {
+     "t": "p",
+     "text": "Nhận 175 triệu đồng, nam sinh muốn chia sẻ cùng bạn"
+    },
+    {
+     "t": "p",
+     "text": "Những ngày qua, câu chuyện cô Nguyễn Hương Giang, giáo viên toán, chủ nhiệm lớp 12A1, Trường THPT Lý Nam Đế (phường Vạn Xuân, Thái Nguyên), từ chối nhận quà 20/11 để kêu gọi hỗ trợ một nam sinh nghèo tiếp tục nhận được sự quan tâm của cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Theo chia sẻ mới nhất của cô Giang, sau khi bài viết được đăng tải, số tiền cộng đồng chung tay ủng hộ nam sinh đã lên tới gần 175 triệu đồng, vượt xa mong đợi ban đầu của cô."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, điều khiến nữ giáo viên bất ngờ và xúc động hơn cả lại đến từ chính cậu học trò được giúp đỡ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cụ thể, tối 20/11, nam sinh Ng. nhắn tin hẹn gặp cô vào sáng hôm sau để trao đổi một việc. Cô Giang không biết học trò muốn nói điều gì, chỉ thoáng có chút lo lắng."
+    },
+    {
+     "t": "p",
+     "text": "Sáng hôm sau đến trường, cô chủ động tìm gặp Ng. Trước mặt cô giáo, nam sinh đứng rụt rè, hai tay liên tục vân vê gấu áo."
+    },
+    {
+     "t": "p",
+     "text": "Em bày tỏ rằng số tiền hơn 170 triệu đồng là quá lớn đối với hai chị em. Mẹ em trước khi qua đời đã để lại một ngôi nhà để ở và một quán tạp hóa nhỏ. Dù không dư dả, hai chị em vẫn có nơi ở và một nguồn sinh kế để từng bước ổn định cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Nam sinh cũng nhắc đến những lời mẹ từng dạy khi còn sống, đặc biệt là bài học phải biết ơn những người đã giúp đỡ mình."
+    },
+    {
+     "t": "p",
+     "text": "\"Em không biết phải trả ơn cô và tất cả mọi người bằng cách nào...\", cô Giang kể lại lời học trò."
+    },
+    {
+     "t": "p",
+     "text": "Nói đến đây, nam sinh bật khóc. Cô giáo cũng không giấu được sự xúc động trước tình cảm và suy nghĩ của em."
+    },
+    {
+     "t": "p",
+     "text": "Cô nhẹ nhàng giải thích rằng ngay từ đầu, việc kêu gọi hỗ trợ chỉ xuất phát từ mong muốn san sẻ bớt khó khăn, giúp em có điều kiện học tập và trưởng thành tốt hơn. Không ai giúp đỡ để chờ đợi được báo đáp."
+    },
+    {
+     "t": "p",
+     "text": "Cô mong học trò đón nhận tình cảm ấy một cách bình yên, không cảm thấy mình đang mang món nợ phải trả."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu sau này, khi em đủ đầy hơn thì có thể giúp đỡ một ai đó đang khó khăn. Khi ấy, hãy tiếp tục trao đi, để lòng tốt không dừng lại ở một người, mà cứ thế đi hết vòng tuần hoàn của nó\", cô Giang nhắn nhủ."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng điều nam sinh nói tiếp theo mới thực sự khiến cô giáo lặng người."
+    },
+    {
+     "t": "p",
+     "text": "Theo lời kể của cô Giang, em bày tỏ số tiền được mọi người ủng hộ quá lớn so với nhu cầu hiện tại của hai chị em. Bản thân em vẫn còn sức khỏe, có thể lao động, vì vậy em xin phép chỉ nhận một phần."
+    },
+    {
+     "t": "p",
+     "text": "Phần còn lại, Ng. muốn tặng lại để hỗ trợ hai bạn học khác trong trường cũng đang có hoàn cảnh đặc biệt khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Một bạn học lớp 12A6 mắc bệnh suy thận giai đoạn cuối và bạn còn lại học lớp 12A4, cũng có hoàn cảnh mồ côi như em."
+    },
+    {
+     "t": "p",
+     "text": "Với cô Giang, đó là khoảnh khắc đặc biệt xúc động. Người học trò từng cần sự chở che, nâng đỡ nay lại nghĩ đến những người bạn đang gặp khó khăn hơn mình."
+    },
+    {
+     "t": "p",
+     "text": "Cô giáo trao sổ tiết kiệm cho học trò"
+    },
+    {
+     "t": "p",
+     "text": "Cô Giang cho biết, ngay từ đầu, mục đích của việc kêu gọi hỗ trợ là giúp Ng. và chị gái có thêm điểm tựa để tiếp tục học tập, ổn định cuộc sống sau biến cố gia đình. Đến 23/11, sau khi hoàn tất việc sao kê, cô Giang lập sổ tiết kiệm đồng sở hữu mang tên hai chị em Ng. Cùng ngày, cô trực tiếp trao sổ cho em tại lớp học."
+    },
+    {
+     "t": "p",
+     "text": "Việc trao tặng được thực hiện giản dị, không tổ chức rình rang hay chụp ảnh công khai. Theo cô Giang, gia đình cũng mong muốn giữ sự riêng tư, tránh để hai chị em cảm thấy mặc cảm trước sự quan tâm của mọi người."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trước đề nghị muốn dành một phần tiền hỗ trợ giúp bạn, cô Giang cũng khuyên Ng. cần trao đổi kỹ với ông bà và người thân trong gia đình trước khi quyết định."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô, khoản tiền được mọi người gửi gắm dành cho hai chị em nên mọi thay đổi trong việc sử dụng cần có sự thống nhất của gia đình, tránh phát sinh hiểu lầm rằng số tiền được kêu gọi nhưng không được trao đầy đủ cho người nhận."
+    },
+    {
+     "t": "p",
+     "text": "Cô cũng tôn trọng quyền quyết định của Ng. về việc có công khai số tiền cụ thể dành tặng hai người bạn hay không. Nếu em muốn giữ riêng tư, cô sẽ không thông tin chi tiết."
+    },
+    {
+     "t": "p",
+     "text": "Sáng 24/11, học sinh Ng. cho biết đã thống nhất với gia đình và quyết định trích 40 triệu đồng từ khoản tiền được hỗ trợ để giúp hai bạn cùng trường."
+    },
+    {
+     "t": "p",
+     "text": "Cùng với việc cập nhật câu chuyện, cô Giang cho biết đã công khai toàn bộ nội dung sao kê ngân hàng về các khoản tiền tiếp nhận tính đến thời điểm khóa tài khoản của lớp trưởng Nguyễn Duy Phước, người đứng ra tiếp nhận đóng góp."
+    },
+    {
+     "t": "p",
+     "text": "Cô cũng chia sẻ hình ảnh sổ tiết kiệm đồng sở hữu của hai chị em Ng. để những người đã ủng hộ có thể theo dõi việc quản lý khoản tiền."
+    },
+    {
+     "t": "p",
+     "text": "Đối với cô Giang, việc công khai các khoản đóng góp và phương án sử dụng tiền là điều cần thiết, nhằm bảo đảm sự minh bạch, đồng thời giúp những người đã gửi gắm tình cảm có thể yên tâm."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với phóng viên Dân trí , cô Giang cho biết điều khiến cô hạnh phúc không phải vì số tiền quyên góp đạt con số lớn hay việc làm của mình nhận được sự quan tâm rộng rãi."
+    },
+    {
+     "t": "p",
+     "text": "Điều khiến cô xúc động là nhận ra học trò vẫn giữ được sự tử tế, lòng biết ơn và tinh thần sẻ chia dù vừa trải qua những mất mát lớn trong cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Cô cho rằng mẹ của Ng. đã qua đời, nhưng những bài học về cách sống mà người mẹ từng dạy vẫn được em gìn giữ."
+    },
+    {
+     "t": "p",
+     "text": "Người mẹ không chỉ để lại cho hai chị em một mái nhà, một quán tạp hóa nhỏ để mưu sinh, mà còn trao cho các con một nền tảng tinh thần quan trọng: biết trân trọng những người giúp đỡ mình và biết nghĩ đến người khác."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Giang, ban đầu cô chỉ mong học trò có thêm điều kiện để yên tâm học tập, chuẩn bị cho kỳ thi tốt nghiệp THPT và theo đuổi ước mơ vào Trường Đại học Công nghiệp, Đại học Thái Nguyên."
+    },
+    {
+     "t": "p",
+     "text": "Không ngờ, từ một lời kêu gọi hỗ trợ nhỏ, câu chuyện lại trở thành hành trình sẻ chia của rất nhiều người. Và chính nam sinh được giúp đỡ đã tiếp tục nối dài hành trình ấy bằng quyết định nhường lại một phần tiền cho hai người bạn."
+    },
+    {
+     "t": "p",
+     "text": "Cô Giang chia sẻ, sau sự việc, bản thân nhận được thêm một bài học sâu sắc về lòng biết ơn và ý nghĩa của việc cho đi."
+    },
+    {
+     "t": "p",
+     "text": "Từ một lời đề nghị không nhận quà ngày 20/11, gần 175 triệu đồng đã được gửi đến một học trò cần điểm tựa. Nhưng điều đẹp đẽ hơn cả là từ sự giúp đỡ ấy, lòng tốt tiếp tục được trao đến hai học sinh khác."
+    }
+   ]
+  },
+  {
+   "id": "4743e627a829",
+   "order": 10,
+   "slug": "thay-giao-o-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhat-mong",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Thầy giáo ở TP.HCM nhận Huân chương Lao động hạng nhất, mong học trò giỏi hơn mình",
+   "sapo": "Được trao Huân chương Lao động hạng nhất về thành tích thi đấu xuất sắc tại Giải vô địch Vovinam thế giới năm 2025 tại Indonesia, thầy Nguyễn Tứ Cường chia sẻ mong muốn truyền niềm đam mê Vovinam cho học trò, mong các em sẽ đạt thành tích cao hơn mình.",
+   "author": "NGỌC KHẢI",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/thay-giao-o-tphcm-nhan-huan-chuong-lao-dong-hang-nhat-mong-hoc-tro-gioi-hon-minh-100261124180721897.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 594,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/4743e627a829-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/4743e627a829-0.jpg",
+     "caption": "Thầy Nguyễn Tứ Cường hướng dẫn học sinh đồng diễn võ nhạc Vovinam tại sân Trường phổ thông năng khiếu Thể dục thể thao Bình Chánh - Ảnh: NGỌC KHẢI",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/4743e627a829-1.jpg",
+     "caption": "Trước khi giành huy chương vàng Giải vô địch Vovinam thế giới năm 2025 và được trao tặng Huân chương Lao động hạng nhất, thầy Nguyễn Tứ Cường nhiều năm liền vô địch quốc gia, giành huy chương vàng Đại hội Thể dục thể thao toàn quốc năm 2022, Giải vô địch Vovinam thế giới năm 2023 và Giải vô địch Vovinam châu Á năm 2024; huy chương bạc SEA Games 32 và Giải vô địch Vovinam Đông Nam Á năm 2023 - Ảnh: NVCC",
+     "w": 757,
+     "h": 460
+    },
+    {
+     "src": "img/2026-11-25/4743e627a829-2.jpg",
+     "caption": "Thầy Cường hướng dẫn một học sinh thực hiện động tác Vovinam - Ảnh: NGỌC KHẢI",
+     "w": 1280,
+     "h": 794
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi với Tuổi Trẻ ngày 24-11, thầy Nguyễn Tứ Cường - vận động viên đội tuyển Vovinam quốc gia, cũng là giáo viên, huấn luyện viên Trường phổ thông năng khiếu Thể dục thể thao Bình Chánh (xã Bình Lợi, TP.HCM) - bày tỏ niềm vui và vinh dự khi được trao tặng Huân chương Lao động hạng nhất về thành tích thi đấu xuất sắc tại Giải vô địch Vovinam thế giới năm 2025 tại Indonesia."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Cường chia sẻ đây là dấu mốc đáng nhớ trong hành trình nỗ lực rèn luyện và gắn bó với Vovinam."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi chân thành cảm ơn ban huấn luyện, các thầy cô, ban giám hiệu nhà trường, lãnh đạo xã Bình Lợi, gia đình và những người đã dìu dắt, động viên, tạo điều kiện để tôi đạt được thành tích hôm nay. Trong đó tôi biết ơn mẹ, người đã giúp tôi có ý thức nỗ lực học tập hơn từ năm lớp 6\", thầy Cường chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Cường nhớ lại khi học lớp 6 từng bỏ học vì mê game, khiến gia đình và thầy cô lo lắng. Thay vì la mắng, mẹ nhẹ nhàng nhắc nhở về sự vất vả của cha mẹ và giá trị của việc học."
+    },
+    {
+     "t": "p",
+     "text": "\"Mẹ tôi nói: Ba mẹ vất vả làm lụng để con được đến trường. Nhà mình không khá giả, chỉ có con đường học hành mới giúp con. Câu nói ấy đã đánh thức tôi, giúp tôi nhận ra nếu không nỗ lực, tôi sẽ mãi không có cơ hội vươn lên\", thầy Cường kể."
+    },
+    {
+     "t": "p",
+     "text": "Từ đó cậu học sinh lớp 6 quyết tâm học tập để không phụ lòng gia đình. Hè năm ấy, cậu tình cờ bén duyên với Vovinam. Ban đầu, cậu chỉ xem võ thuật như cách rèn luyện sức khỏe, nhưng càng học càng cảm nhận được chiều sâu của môn võ này - nơi tâm, thể, trí được rèn giũa."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi chọn nghề giáo với mong muốn tri ân Vovinam, truyền niềm đam mê và hướng dẫn học sinh học tập, rèn luyện tốt hơn, đóng góp cho xã hội\", thầy Cường bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nhìn lại hành trình thi đấu, thầy Cường cho biết tấm huy chương bạc tại SEA Games 32 năm 2023 tiếp thêm động lực và tự tin để bản thân tiếp tục chinh phục các giải đấu quốc tế. Huy chương vàng tại Giải vô địch Vovinam thế giới năm 2025 ở Indonesia càng thêm ý nghĩa khi thầy vừa thi đấu, vừa giảng dạy tại trường."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian tới, thầy tiếp tục tập luyện, hướng đến huy chương vàng Giải vô địch thế giới năm 2027. \"Tôi mong các em học sinh năng khiếu của trường có thêm động lực phấn đấu, đạt được thành tích tốt hơn tôi trong tương lai\", thầy Cường nói."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Thầy Dương Hoài Bảo, Hiệu trưởng Trường phổ thông năng khiếu Thể dục thể thao Bình Chánh, cho biết tập thể giáo viên nhà trường rất vui mừng khi thầy Cường giành huy chương vàng thế giới năm 2025 và được trao Huân chương Lao động hạng nhất."
+    },
+    {
+     "t": "p",
+     "text": "Theo thầy Bảo, thầy Cường là giáo viên trẻ, nhiệt tình, hòa đồng, có chuyên môn tốt. Ngoài thời gian tập huấn, thầy luôn tâm huyết huấn luyện đội tuyển của trường. Thành tích của thầy không chỉ là niềm tự hào của cá nhân, nhà trường và xã Bình Lợi mà còn truyền cảm hứng để học sinh rèn luyện thể chất, ý chí và nghị lực."
+    }
+   ]
+  },
+  {
+   "id": "ced143d9b6bd",
+   "order": 11,
+   "slug": "can-tho-day-nghe-chan-nuoi-giup-nguoi-ngheo-doi-doi",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cần Thơ: Dạy nghề chăn nuôi giúp người nghèo đổi đời",
+   "sapo": "Để giúp bà con tạo dựng nguồn sinh kế ổn định lâu dài, chính quyền các xã ngoại thành ở Cần Thơ đã gắn việc trao con giống với mở lớp tập huấn kỹ thuật chăn nuôi, thú y \"cầm tay chỉ việc.\"",
+   "author": "Vietnam+ (VietnamPlus)",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/can-tho-day-nghe-chan-nuoi-giup-nguoi-ngheo-doi-doi-post1148071.vnp",
+   "published": "2026-11-25T00:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1078,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/ced143d9b6bd-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/ced143d9b6bd-0.jpg",
+     "caption": "Cán bộ địa phương khảo sát mô hình nuôi bò sinh sản tại gia đình bà Thạch Thị Quang, ấp Lâm Dồ, xã Trần Đề, thành phố Cần Thơ",
+     "w": 1000,
+     "h": 667
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Không có đất canh tác, thu nhập bấp bênh từ những ngày làm thuê công nhật từng là hoàn cảnh chung của nhiều hộ nghèo, cận nghèo vùng đồng bào dân tộc thiểu số tại thành phố Cần Thơ."
+    },
+    {
+     "t": "p",
+     "text": "Để giúp bà con tạo dựng nguồn sinh kế ổn định lâu dài, chính quyền các xã ngoại thành đã gắn việc trao con giống với mở lớp tập huấn kỹ thuật chăn nuôi, thú y \"cầm tay chỉ việc.\""
+    },
+    {
+     "t": "p",
+     "text": "Khi nắm chắc kỹ thuật và được tự tay lựa chọn con giống, người dân đã chủ động phát triển đàn vật nuôi, tạo nguồn tích lũy để từng bước tự lực thoát nghèo bền vững."
+    },
+    {
+     "t": "h",
+     "text": "Gây dựng đàn bò sinh sản để thoát cảnh làm thuê bấp bênh"
+    },
+    {
+     "t": "p",
+     "text": "Không có đất sản xuất, nhiều năm qua cuộc sống của gia đình bà Thạch Thị Quang (78 tuổi, ở ấp Lâm Dồ, xã Trần Đề, thành phố Cần Thơ) chủ yếu dựa vào tiền công nhật làm thuê của các thành viên trong nhà. Thấy gia đình bà có chuồng trại và có nhân lực chăm sóc, khoảng ba năm trước, chính quyền xã đã hỗ trợ gia đình hai con bò giống từ Chương trình mục tiêu quốc gia giảm nghèo bền vững."
+    },
+    {
+     "t": "p",
+     "text": "Có được con giống tốt, các con của bà Quang ban ngày đi làm thuê, chiều về lại tranh thủ cắt cỏ ven kênh rạch, chăm sóc đàn vật nuôi theo đúng kỹ thuật được hướng dẫn. Từ cặp bò ban đầu, đàn bò của gia đình không ngừng sinh sôi."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ vài tháng trước, gia đình bà Quang đã xuất bán 4 con bò, thu về vài chục triệu đồng; trong chuồng hiện vẫn còn 6 con bò cái đang mang thai và 2 con bò tơ. Đàn bò đã trở thành \"kho tiết kiệm\" lớn, giúp gia đình bà giảm hẳn sự lệ thuộc vào công việc làm thuê bấp bênh."
+    },
+    {
+     "t": "p",
+     "text": "Cách rà soát đúng đối tượng và trao đúng con giống cho những hộ có điều kiện chăm sóc đã mang lại kết quả rõ nét tại ấp Lâm Dồ (xã Trần Đề): số hộ nghèo của ấp đã giảm từ 10 hộ xuống còn 6 hộ, số hộ cận nghèo giảm từ 16 hộ xuống còn 10 hộ. Với những gia đình thiếu đất trồng cỏ hoặc không có lao động thường xuyên, chính quyền và các đoàn thể của xã chủ động tư vấn chuyển sang học nghề khác để tránh rủi ro đứt vốn giữa chừng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Cầm tay chỉ việc và để người dân tự tay chọn giống"
+    },
+    {
+     "t": "p",
+     "text": "Xác định việc cấp con giống chỉ là bước đầu, mấu chốt để người nghèo không bị thiệt hại do dịch bệnh là phải có kiến thức thú y thực tế, tại xã Nhu Gia, thành phố Cần Thơ, mô hình chăn nuôi bò sinh sản được tổ chức bài bản theo hình thức tổ cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Với kinh phí hơn 620 triệu đồng từ nguồn vốn chương trình mục tiêu quốc gia giảm nghèo bền vững kết hợp nguồn vốn chuyển tiếp, xã đã hỗ trợ 28 con bò cái giống cho 17 hộ thuộc Tổ cộng đồng chăn nuôi số 1."
+    },
+    {
+     "t": "p",
+     "text": "Điểm đổi mới trong cách làm của xã Nhu Gia là mời cán bộ thú y về tận ấp mở lớp tập huấn kỹ thuật chăn nuôi cho toàn bộ các hộ tham gia. Bà con được hướng dẫn từ cách ủ chua rơm rạ, phối trộn thức ăn dinh dưỡng, vệ sinh tiêu độc chuồng trại đến theo dõi sức khỏe vật nuôi và quy trình đỡ đẻ, chăm sóc bê con."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, xã tổ chức cho người dân trực tiếp đi thực tế đến cơ sở cung ứng để tự tay đánh giá, lựa chọn những con bò giống khỏe mạnh, ưng ý nhất mang về nuôi. Việc được tự tay chọn giống đã nâng cao tinh thần trách nhiệm tự quản và ý thức bảo vệ tài sản của người dân."
+    },
+    {
+     "t": "p",
+     "text": "Nhờ nắm chắc kỹ thuật chăn nuôi từ các buổi tập huấn, gia đình ông Thạch Nam (ở ấp Sóc Bưng, xã Nhu Gia) đã vươn lên thoát nghèo bền vững. Ban đầu được hỗ trợ một con bò giống, nhờ chịu khó áp dụng quy trình phòng dịch và chăm sóc sinh sản khoa học, ông Nam đã bán bò thịt để tái đầu tư mua thêm hai con bò giống. Đến nay, chuồng bò của gia đình ông luôn duy trì 4 con bò cái đang mang thai và một con bê con khỏe mạnh, mang lại nguồn thu ổn định để trang trải cuộc sống và chăm lo cho gia đình."
+    },
+    {
+     "t": "h",
+     "text": "Tự lực làm chủ kỹ thuật để thoát nghèo đa chiều bền vững"
+    },
+    {
+     "t": "p",
+     "text": "Thực tiễn từ xã Trần Đề và xã Nhu Gia cho thấy một nguyên lý xuyên suốt trong công tác giảm nghèo đa chiều: muốn người nghèo thoát nghèo thực chất thì chính sách hỗ trợ phải gắn chặt với việc truyền nghề và bồi dưỡng kỹ năng sản xuất cho người dân."
+    },
+    {
+     "t": "p",
+     "text": "Theo Kế hoạch số 193/KH-UBND ngày 23/4/2026 của Ủy ban Nhân dân thành phố Cần Thơ về triển khai Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2026-2030, thành phố đặt mục tiêu trong năm 2026 đưa tỷ lệ nghèo đa chiều xuống mức 6,42% trở xuống."
+    },
+    {
+     "t": "p",
+     "text": "Để hoàn thành mục tiêu này, các địa phương trên địa bàn thành phố đang chuyển mạnh từ việc cấp phát hỗ trợ đơn thuần sang tư vấn lựa chọn sinh kế, mở các lớp tập huấn kỹ thuật chăn nuôi, trồng trọt và kết nối đào tạo nghề theo nhu cầu thực tế của người lao động."
+    },
+    {
+     "t": "p",
+     "text": "Khi người dân không có đất sản xuất được trang bị nghề nuôi bò sinh sản, biết tận dụng nguồn phụ phẩm nông nghiệp sẵn có ở địa phương để làm giàu, họ không chỉ thoát nghèo về mặt thu nhập mà còn có điều kiện sửa sang nhà ở kiên cố, mua thẻ bảo hiểm y tế chăm sóc sức khỏe và lo cho con cái học hành đầy đủ. Xóa bỏ tâm lý trông chờ, ỷ lại để tự tin làm chủ quy trình sản xuất chính là điểm tựa vững chắc nhất để đồng bào các dân tộc tại Cần Thơ vươn lên làm chủ cuộc sống và không tái nghèo./."
+    }
+   ]
+  },
+  {
+   "id": "1572606ac947",
+   "order": 12,
+   "slug": "cu-nhan-toan-tin-ke-su-viet-tren-gom-bat-trang",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Cử nhân Toán - Tin 'kể' sử Việt trên gốm Bát Tràng",
+   "sapo": "Tốt nghiệp cử nhân ngành Toán - Tin, sau 5 năm kinh doanh máy tính, anh Nguyễn Trọng Nghĩa (40 tuổi, xã Bát Tràng, Hà Nội) quyết định rẽ ngang nối nghiệp nghề gốm. Anh chọn lối đi riêng, khắc họa nét đẹp văn hóa, sử Việt lên gốm nghệ thuật.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/cu-nhan-toan-tin-ke-su-viet-tren-gom-bat-trang-185261124201003195.htm",
+   "published": "2026-11-25T00:36:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1394,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/1572606ac947-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/1572606ac947-0.jpg",
+     "caption": "Nghệ nhân Nguyễn Trọng Nghĩa bên tác phẩm gốm tái hiện cuộc khởi nghĩa Hai Bà Trưng",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-25/1572606ac947-1.jpg",
+     "caption": "Tác phẩm Vinh quy bái tổ được nhiều khách thích thú khi tham quan xưởng gốm",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-25/1572606ac947-2.jpg",
+     "caption": "Tác phẩm Thuyền rồng Ngự long khánh hội ca ngợi vua Lý Thái Tổ dời đô từ Hoa Lư về Thăng Long",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-25/1572606ac947-3.jpg",
+     "caption": "",
+     "w": 720,
+     "h": 1280
+    },
+    {
+     "src": "img/2026-11-25/1572606ac947-4.jpg",
+     "caption": "",
+     "w": 592,
+     "h": 1004
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Trăn trở điển tích ngoại lai lấn át văn hóa Việt"
+    },
+    {
+     "t": "p",
+     "text": "Câu chuyện giữa chúng tôi và nghệ nhân Nguyễn Trọng Nghĩa diễn ra tại khuôn viên trưng bày tác phẩm gốm nghệ thuật của gia đình anh ở làng gốm Bát Tràng . Ngay cạnh anh là bức tượng Thần xà hộ pháp cao 1,9 m, rộng 1 m, nặng hơn 500 kg - bức tượng độc bản khắc họa hình tượng Đức Phật ngồi thiền định trên đài sen, phía sau là linh vật rắn xòe mang che chở."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tác phẩm là một dấu mốc đáng nhớ trong hành trình làm nghề của anh Nghĩa với 2 năm nghiên cứu, ấp ủ ý tưởng và 1 năm chế tác thủ công. Tác phẩm được giới sưu tầm bảo vật hết lời ngợi khen khi từng đường nét tạo hình nếp áo, vảy rắn đều tỉ mỉ, cực kỳ tinh xảo. Nhiều nhà sưu tầm sẵn sàng trả số tiền lớn để sở hữu nhưng anh Nghĩa chưa gật đầu."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn những tác phẩm đậm chất văn hóa Việt được khắc họa, đắp nổi hình ảnh chùa Một Cột, Khuê Văn Các, cột cờ Hà Nội hay những câu chuyện lịch sử như chiến thắng Bạch Đằng, khởi nghĩa Hai Bà Trưng, có lẽ không nhiều người nghĩ nó được tạo tác từ người theo học ngành Toán - Tin, Trường đại học Khoa học tự nhiên (Đại học Quốc gia Hà Nội)."
+    },
+    {
+     "t": "p",
+     "text": "Anh Nghĩa kể, lò gốm Nghĩa Dũng của gia đình được gây dựng cách đây hơn 40 năm. Bà nội anh từng đi làm thuê, học nghề ở hợp tác xã. Sau khi xóa bỏ bao cấp, gia đình dựng được chiếc lò gốm đầu tiên, rồi dần tách ra thành cơ sở sản xuất độc lập. Đến đời bố mẹ anh Nghĩa, nghề gốm tiếp tục phát triển nhưng chỉ sản xuất sản phẩm tiêu dùng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Lớn lên giữa tiếng xoay bàn, sắc men gốm gia đình nhưng anh Nghĩa chọn thoát ly nghề gia truyền khi theo học ngành Toán - Tin. Sau tốt nghiệp, anh Nghĩa có 5 năm làm việc qua 3 công ty, phụ trách kinh doanh máy tính. Năm 2013, anh quyết định trở về Bát Tràng, nối nghiệp làm gốm."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày đầu quay lại làng nghề, xưởng của gia đình anh cũng chỉ tập trung vào dòng ấm chén quà tặng phục vụ cơ quan, sự kiện lớn, đạt sản lượng hàng trăm nghìn bộ mỗi năm. Nhưng càng đi sâu vào nghề, anh càng nhận ra một khoảng trống trên thị trường gốm mỹ nghệ, khi sản phẩm quanh quẩn với nhiều điển tích ngoại lai, mang đậm dấu ấn văn hóa, lịch sử Trung Quốc như: Bát Tiên, Trúc Lâm Thất Hiền, Tam Đa hay chân dung các tướng Quan Công, Khổng Minh Gia Cát Lượng..."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi thấy buồn khi nhiều người nhớ sử Trung Quốc hơn sử Việt. Trong khi lịch sử, văn hóa nước mình bề dày hàng nghìn năm với vô vàn câu chuyện hào hùng, nhân văn nhưng chưa được kể nhiều trên gốm sứ."
+    },
+    {
+     "t": "p",
+     "text": "Nếu mình làm nghề, tạo ra những sản phẩm đi vào đời sống của nhiều người thì tại sao không dùng chính chất liệu truyền thống của cha ông để kể câu chuyện văn hóa, lịch sử của dân tộc?\", anh Nghĩa trăn trở."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "h",
+     "text": "Khắc họa văn hóa, sử Việt lên men gốm Bát Tràng"
+    },
+    {
+     "t": "p",
+     "text": "Chọn lối đi riêng trong nghề, không tạc tượng nhân vật đơn thuần, anh Nghĩa lên ý tưởng dàn dựng những câu chuyện lịch sử xuyên suốt trên các dáng bình, đĩa, thống cỡ lớn, kết hợp kỹ thuật đắp nổi phù điêu, khắc chữ và phối men cổ truyền."
+    },
+    {
+     "t": "p",
+     "text": "Mở đầu cho mạch nguồn dựng nước và giữ nước là tác phẩm Truyền thuyết Việt tổ , khắc họa Lạc Long Quân và Âu Cơ cùng điển tích 50 người con theo cha lên rừng, 50 người con theo mẹ xuống biển. Qua tác phẩm, anh Nghĩa muốn gửi gắm thông điệp về ý thức bảo vệ chủ quyền đất liền và biển đảo của người Việt đã hình thành ngay từ thuở khai sinh lập quốc."
+    },
+    {
+     "t": "p",
+     "text": "Dòng chảy văn hóa, lịch sử Việt tiếp nối qua chiếc bình lớn tôn vinh cuộc khởi nghĩa Hai Bà Trưng gắn với dấu ấn gần 2.000 năm, hay chiếc đĩa phù điêu tái hiện chiến thắng Bạch Đằng năm 938 của Ngô Quyền - vị vua mở đầu kỷ nguyên độc lập tự chủ sau gần 1.000 năm Bắc thuộc."
+    },
+    {
+     "t": "p",
+     "text": "Sang thời Lý - Trần, sử Việt tiếp tục hiện lên qua tác phẩm Thuyền rồng Ngự long khánh hội ca ngợi vua Lý Thái Tổ dời đô từ Hoa Lư về Thăng Long và chiếc thống Trúc Lâm đại sĩ xuất sơn đồ có đường kính khoảng 1,2 m, nặng khoảng 250 kg, được đắp nổi cảnh Phật hoàng Trần Nhân Tông cùng bài thơ Cư trần lạc đạo ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Hai tác phẩm Thăng Long Quốc bảo bình và Truyền thuyết Việt tổ được nhiều người chơi gốm thích thú và đặt mua"
+    },
+    {
+     "t": "p",
+     "text": "Khát khao thổi hồn văn hóa Việt lên tác phẩm gốm của nghệ nhân Nguyễn Trọng Nghĩa đã lan tỏa đến các bảo tàng."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những dấu ấn đặc biệt nhất là tác phẩm Thiềm đức tuệ đăng của anh từng đoạt giải nhất gốm toàn quốc được Bảo tàng Hà Nội mua lại để trưng bày. Đây là tác phẩm kết hợp hình tượng cóc Thiềm Thừ mang ý nghĩa biểu tượng mưa thuận gió hòa của nền văn minh lúa nước Việt Nam, được nâng đỡ chân đèn biểu trưng cho ánh sáng trí tuệ soi đường."
+    },
+    {
+     "t": "p",
+     "text": "Không để gốm sứ Việt nằm yên trong tủ kính, nghệ nhân Nguyễn Trọng Nghĩa chủ động thay đổi cách tiếp cận thị trường."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu chỉ dừng lại ở những tác phẩm độc bản kích thước lớn đặt trong bảo tàng hay phòng trưng bày, câu chuyện văn hóa chỉ tiếp cận được một nhóm rất ít người yêu gốm. Muốn lan tỏa giá trị lịch sử đến cộng đồng, bắt buộc phải thương mại hóa thành những sản phẩm vừa vặn, chi phí hợp lý để hiện diện trong phòng khách, văn phòng làm việc của nhiều gia đình\", anh Nghĩa nhận định."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh các tác phẩm độc bản lớn, anh Nghĩa sản xuất thêm phiên bản thương mại hóa thu nhỏ như tác phẩm: Thăng Long Quốc bảo bình (chiếc bình hội tụ tứ cảnh kiến trúc Hà Nội gồm chùa Một Cột, Khuê Văn Các, tháp Rùa và cột cờ Hà Nội) và Truyền thuyết Việt tổ thành những phiên bản nhỏ trong tầm giá vài triệu đồng mỗi sản phẩm để khách hàng dễ dàng sở hữu hơn."
+    },
+    {
+     "t": "p",
+     "text": "Để sản phẩm có dấu ấn riêng, trên nền tảng các bài men cổ Bát Tràng như men rạn, men lam và dòng men hoa nâu thời Lý làm từ nguồn phù sa giàu ô xít sắt, mangan lấy từ hai bên bờ sông Hồng, anh Nghĩa nghiên cứu điều chỉnh để tạo ra sắc men hoàng thổ có độ trong và chiều sâu, làm nổi bật từng đường nét chạm khắc trên cốt gốm."
+    },
+    {
+     "t": "p",
+     "text": "Hiện nay, nghệ nhân Nguyễn Trọng Nghĩa đang nghiên cứu khai thác các hình tượng lịch sử như: Thánh Gióng, Đinh Tiên Hoàng hay Hưng Đạo Vương Trần Quốc Tuấn."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhưng thay vì tạo hình tĩnh, tôi mong muốn dựng thành chuỗi hành trình cuộc đời nhân vật trên từng tác phẩm gốm để người trẻ quen nhịp sống nhanh, chỉ cần ngắm nhìn trong vài chục giây cũng hình dung trọn vẹn câu chuyện lịch sử qua những họa tiết thuần Việt\", anh Nghĩa nói."
+    },
+    {
+     "t": "p",
+     "text": "Được UBND TP.Hà Nội phong tặng danh hiệu Nghệ nhân Hà Nội từ năm 2024, khi mới 38 tuổi, anh Nguyễn Trọng Nghĩa hiện là một trong những đại diện tiêu biểu thuộc lớp nghệ nhân kế cận năng động ở làng nghề gốm Bát Tràng."
+    },
+    {
+     "t": "p",
+     "text": "Khi truyền nghề cho các lớp thợ trẻ tại xưởng, anh đặt nguyên tắc ưu tiên giúp người học ổn định kinh tế trước, sau đó mới truyền lửa nghề và giá trị văn hóa để họ yên tâm gắn bó lâu dài."
+    }
+   ]
+  },
+  {
+   "id": "c18d660d5371",
+   "order": 13,
+   "slug": "tien-si-gianh-qua-cau-vang-sau-10-nam-tim-chat-chua-benh-tu",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Tiến sĩ giành Quả Cầu Vàng sau 10 năm tìm chất chữa bệnh từ gừng, nghệ",
+   "sapo": "Hơn 10 năm tìm cách \"giải mã\" cây cỏ bản địa, TS Thọ đã phân tách được hàng trăm hợp chất điều trị bệnh dạ dày, đái tháo đường, ung thư từ các loại gừng dại, củ nghệ.",
+   "author": "Lệ Nguyễn",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tien-si-gianh-qua-cau-vang-sau-10-nam-tim-chat-chua-benh-tu-gung-nghe-5148442.html",
+   "published": "2026-11-24T23:56:47+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1148,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/c18d660d5371-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-25/c18d660d5371-0.jpg",
+     "caption": "TS Lê Hữu Thọ. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 643
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hơn 10 năm tìm cách \"giải mã\" cây cỏ bản địa, TS Thọ đã phân tách được hàng trăm hợp chất điều trị bệnh dạ dày, đái tháo đường, ung thư từ các loại gừng dại, củ nghệ."
+    },
+    {
+     "t": "p",
+     "text": "TS Lê Hữu Thọ, 35 tuổi, giảng viên trường Đại học Khoa học Tự nhiên, Đại học Quốc gia TP HCM, là một trong 10 nhà khoa học trẻ xuất sắc được trao giải thưởng Quả Cầu Vàng 2026. Anh cho biết đi cùng niềm vui là cảm giác trách nhiệm."
+    },
+    {
+     "t": "p",
+     "text": "\"Giải thưởng là một lời nhắc nhở rằng xã hội đang đặt niềm tin vào thế hệ trẻ, và tôi phải nỗ lực gấp nhiều lần để những nghiên cứu của mình thực sự có ích cho sức khỏe của người dân\", TS Thọ nói."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra trong gia đình thuần nông nghèo ở Bình Định, nay là tỉnh Gia Lai, tuổi thơ của anh gắn với hành trình mưu sinh của bố mẹ qua nhiều công việc như nấu rượu, chăn nuôi, thu ve chai. Bố lâm bệnh, ước mơ làm bác sĩ để chữa bệnh cho người thân không thể thực hiện vì thời gian học y dài, quá tốn kém. Anh nghĩ con đường gần gũi hơn mà vẫn chạm được vào việc chữa bệnh là nghiên cứu dược liệu."
+    },
+    {
+     "t": "p",
+     "text": "Với niềm say mê môn Hóa, anh được thầy cô khuyên thi vào ngành Hóa trường Đại học Khoa học Tự nhiên vì \"sẽ có nhiều cái hay để khám phá\". Năm đầu, anh mông lung, tự hỏi một sinh viên học không quá nổi trội liệu có thể theo hướng nghiên cứu hay không."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến vào năm thứ ba, khi anh tham gia nhóm nghiên cứu của các thầy cô, được tiếp thêm động lực vì không khí gần gũi, cởi mở. Anh nhớ có những hôm cả nhóm quây quanh chiếc bàn dài, mọi người chia nhau cân mẫu, rửa dụng cụ, giải phổ. Khi làm sai, thầy cô không trách mắng mà chỉ rõ và gợi ý hướng khắc phục. Trước những hướng nghiên cứu mới, nhiều người không dám làm vì sợ thiết bị đắt tiền, thầy cô thường nhắc: \"cứ làm, làm mới biết nó thế nào rồi mới tính được tiếp\". Vì thế, phòng lab thành ngôi nhà thứ hai của Thọ."
+    },
+    {
+     "t": "p",
+     "text": "\"Với một sinh viên tỉnh lẻ xa nhà, thứ giữ tôi lại là cảm giác được thuộc về ngôi nhà chung của khoa\", TS Thọ lý giải việc chọn ở lại trường sau tốt nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Giữa nhiều hướng đi, TS Thọ gắn bó với hóa dược vì trăn trở Việt Nam có nguồn cây thuốc phong phú, nhiều loại có giá trị nhưng chưa được khai thác tương xứng. Thay vì dừng ở kinh nghiệm dân gian, anh xác định thành phần hóa học, tìm hoạt chất và đánh giá tác dụng sinh học bằng phương pháp khoa học."
+    },
+    {
+     "t": "p",
+     "text": "TS Thọ bắt đầu từ những việc căn bản nhất: chiết tách, chạy cột sắc ký, giải từng phổ cộng hưởng từ hạt nhân và khối phổ để bóc tách cấu trúc của từng phân tử nhỏ, tìm hợp chất có lợi cho sức khỏe và có tiềm năng bào chế thành dược phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Anh và nhóm nghiên cứu tập trung vào các dược liệu thuộc họ Gừng và một số cây thuốc bản địa. Từ củ nghệ trắng, nhóm phân lập các diarylheptanoid có thể ức chế enzyme urease và vi khuẩn H.pylori tồn tại trong dạ dày. Từ đó, họ xây dựng quy trình chiết xuất cao để hỗ trợ điều trị viêm loét dạ dày."
+    },
+    {
+     "t": "p",
+     "text": "Hay trên nghệ đen và gừng dại, nhóm tìm ra các hợp chất mới thuộc nhóm phenylbutenoid, labdane diterpene, anthraquinone, có tiềm năng ức chế α-glucosidase theo định hướng hỗ trợ điều trị đái tháo đường type 2, đồng thời khảo sát hoạt tính gây độc tế bào trên một số dòng ung thư."
+    },
+    {
+     "t": "p",
+     "text": "Đến nay, hàng trăm hợp chất tinh khiết đã được phân lập, xác định cấu trúc, hoạt tính sinh học từ nhóm dược liệu này. TS Thọ là tác giả và đồng tác giả hơn 90 bài báo khoa học trong nước và quốc tế, trong đó nhiều bài thuộc nhóm Q1, Q2. Anh và nhóm đã có 7 đơn đăng ký sáng chế ở Việt Nam và 2 sáng chế quốc tế đang trong quá trình thẩm định."
+    },
+    {
+     "t": "p",
+     "text": "Đồng thời, nhóm nghiên cứu của anh phát triển 4 sản phẩm mẫu đạt mức độ hoàn thiện công nghệ TRL 5–6, đang nghiên cứu các bước tiếp theo."
+    },
+    {
+     "t": "p",
+     "text": "\"Việt Nam có hơn 5.000 loài cây dược liệu, vô cùng phong phú và có tiềm năng rất lớn. Nhưng hành trình từ một loài cây vô danh đến khi tìm hợp chất có thể điều trị bệnh rất dài, không hề dễ dàng\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Theo TS Thọ, quá trình này thường mất đến 10 năm hoặc hơn. Phát hiện một hợp chất có hoạt tính tốt mới chỉ là bước đầu. Để tiến tới ứng dụng, nhà khoa học còn phải giải quyết độ hòa tan kém, sinh khả dụng thấp và chất lượng nguyên liệu chưa được chuẩn hóa. Nếu không có sự bền bỉ tích lũy từng chút một, người trẻ rất dễ nản lòng hoặc rơi vào bẫy chạy theo số lượng bài báo mà quên giá trị cốt lõi là sản phẩm có tính ứng dụng."
+    },
+    {
+     "t": "p",
+     "text": "Anh cho rằng ngoài kiến thức, kỹ năng chuyên môn, điều quan trọng với một nhà nghiên cứu là \"sự lì lợm trí tuệ\" và tâm thế phụng sự. Bởi đến 80-90% thời gian nghiên cứu là đối mặt với thất bại: chiết xuất không có hoạt tính, phân lập ròng rã hàng tháng trời chỉ thu được vài miligam hỗn hợp không sạch, hoặc mô hình thử nghiệm mang tính ngẫu nhiên, không có giá trị lâu dài."
+    },
+    {
+     "t": "p",
+     "text": "Anh kể có những đợt thí nghiệm đi vào ngõ cụt trong suốt ba, bốn tháng liền, bên cạnh áp lực đề tài, bài báo, giảng dạy và hướng dẫn sinh viên."
+    },
+    {
+     "t": "p",
+     "text": "\"Niềm tin với cây thuốc, tinh thần đồng đội trong lab đã níu tôi lại, không cho phép bỏ cuộc giữa chừng\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Với kết quả nghiên cứu phong phú và sự đầu tư cho khoa học công nghệ, anh kỳ vọng trong tương lai gần Đại học quốc gia TP HCM có thể tự sản xuất viên thuốc thành phẩm theo tiêu chuẩn quốc tế, được người dân tin dùng."
+    },
+    {
+     "t": "p",
+     "text": "Song song đó, TS Thọ đặt mục tiêu đào tạo thế hệ nghiên cứu sinh, học viên trẻ có đạo đức nghề nghiệp, tư duy khoa học độc lập và đam mê khoa học thực nghiệm để tiếp nối hướng nghiên cứu, phát triển cây dược liệu bản địa."
+    }
+   ]
+  },
+  {
+   "id": "3ba591b4a934",
+   "order": 14,
+   "slug": "hang-xoi-xoai-gan-100-nam-o-bangkok",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Hàng xôi xoài gần 100 năm ở Bangkok",
+   "sapo": "Thái Lan Hạt xôi dẻo cùng nước cốt dừa béo, ăn kèm xoài chín theo công thức cung đình giúp Kor Panich giữ chân thực khách suốt gần một thế kỷ.",
+   "author": "Tâm Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/hang-xoi-xoai-gan-100-nam-o-bangkok-5145519.html",
+   "published": "2026-11-25T01:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 741,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/3ba591b4a934-lead.jpg",
+     "caption": "",
+     "w": 1100,
+     "h": 618
+    },
+    {
+     "src": "img/2026-11-25/3ba591b4a934-0.jpg",
+     "caption": "Mặt tiền quán Kor Panich. Ảnh: AirAsia Move",
+     "w": 1007,
+     "h": 651
+    },
+    {
+     "src": "img/2026-11-25/3ba591b4a934-1.jpg",
+     "caption": "Món xôi ở Kor Panich. Ảnh: Fooddiary",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thái Lan Hạt xôi dẻo cùng nước cốt dừa béo, ăn kèm xoài chín theo công thức cung đình giúp Kor Panich giữ chân thực khách suốt gần một thế kỷ."
+    },
+    {
+     "t": "p",
+     "text": "Từ khi mở cửa vào năm 1932, quán Kor Panich trên đường Tanao đã trở thành điểm thưởng thức xôi xoài quen thuộc của người dân Bangkok. Không biển hiệu cầu kỳ, quán giữ nét bình dân truyền thống nhưng luôn tấp nập thực khách bản địa lẫn du khách quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi 80, bà Panee Chiabchalard, chủ Kor Panich, vẫn đến quán từ sáng sớm để tự tay đồ xôi và chế biến nước cốt dừa. Các nguyên liệu như đường, muối được cân đo chính xác trước khi đưa vào máy trộn nhằm đảm bảo hương vị đồng nhất. Toàn bộ nguồn cung đầu vào đều được quán duy trì ổn định với các mối quen hàng chục năm qua."
+    },
+    {
+     "t": "p",
+     "text": "Công thức món ăn là bí mật gia đình. Bố mẹ chồng bà Panee, Kab và Sarapee Chiabchalard, sử dụng công thức được học từ Li Khamamporn, người dì từng là đầu bếp trong cung điện Hoàng gia Thái Lan dưới triều đại Vua Rama V và Vua Rama VI."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Khoảng năm 20 tuổi, khi Panee đang làm giáo viên, gia đình yêu cầu bà tiếp quản quán. Dù ban đầu không hào hứng, bà chấp nhận sau khi mẹ chồng thuyết phục nhiều lần."
+    },
+    {
+     "t": "p",
+     "text": "Bà Panee luôn kiên định với giá trị truyền thống và tầm quan trọng của việc sẵn sàng phục vụ khách. Đó cũng là những điều bà truyền lại cho thế hệ sau. Con gái bà học làm xôi từ nhỏ và hiện cùng mẹ điều hành."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, bà nhận xét con gái mới học được khoảng 70%. Cô còn nhiều điều cần cải thiện, từ chọn cơm dừa đạt độ già chuẩn để làm nước cốt, sữa dừa; cho đến khâu kiểm soát nguồn gạo nếp nhập từ tỉnh Chiang Rai (miền bắc Thái Lan) sao cho không bị lẫn gạo tẻ."
+    },
+    {
+     "t": "p",
+     "text": "Quán dùng hai giống xoài ngọt nổi tiếng Thái Lan là Nam Dok Mai và Ok Rhong Damnoen, chọn những quả chín mọng nước. Gạo nếp được nấu chậm cùng nước cốt dừa giúp từng hạt xôi căng bóng, dẻo mềm, vị béo thanh không ngấy và giữ nguyên hương vị ngay cả khi để nguội."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, xôi của quán có thể bảo quản ở nhiệt độ phòng suốt ba ngày không hỏng dù không dùng chất bảo quản. Khi ăn cùng phần xôi còn ấm, nước cốt dừa béo ngậy pha chút đường và muối, thêm một ít đậu xanh chiên giòn tạo độ bùi, làm món ăn trở nên hài hòa."
+    },
+    {
+     "t": "p",
+     "text": "Thực khách có thể chọn thêm các loại ăn kèm như sangkaya (mứt dừa) hoặc cá khô. Một lựa chọn kết hợp hấp dẫn khác là sầu riêng Monthong, giống sầu riêng địa phương có nguồn gốc từ miền nam, thường có từ tháng 4 đến tháng 8. Nếu vẫn chưa no, thực khách có thể thử các món pudding truyền thống làm từ bột năng và nước cốt dừa. Quán cũng bán quà mang về như bánh quy bột năng vị dừa và bánh gạo lứt cuộn giòn. Sạp xoài tươi ngay trước cửa cũng của gia đình bà Panee."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Kor Panich có chỗ ngồi ăn hạn chế nhưng ngay cả khi quán đông khách, thời gian chờ thường không quá lâu. Phần lớn người dân Bangkok chọn mua mang đi hoặc đặt giao hàng. Dù vậy, nhiều khách vẫn thích thưởng thức món ăn ngay tại cửa hàng để tận hưởng cảm giác ngồi ghế gỗ ven đường, giữa tiếng xe tuk tuk ồn ào và dòng du khách liên tục chụp ảnh những dãy nhà phố cổ kính."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều du khách trên diễn đàn Tripadvisor đánh giá xôi xoài ở Kor Panich \"ngon nhất Thái Lan\". Tuy nhiên, một số ý kiến đánh giá \"bình thường\" và phần ăn hơi ít."
+    },
+    {
+     "t": "p",
+     "text": "Kor Panich mở cửa từ 7h đến 18h hàng ngày, nghỉ chủ nhật, chỉ nhận tiền mặt. Mỗi phần xôi xoài có giá 130 baht (gần 100.00 đồng). Mức giá không rẻ so với mặt bằng chung nhưng nhiều người khuyên nên thử để hiểu vì sao cửa hàng liên tục được ghi danh trong Michelin Guide của Thái Lan từ năm 2019."
+    },
+    {
+     "t": "p",
+     "text": "Tâm Anh (theo AirAsia, Michelin Guide )"
+    }
+   ]
+  },
+  {
+   "id": "70dc4c12fdd2",
+   "order": 15,
+   "slug": "da-nang-quy-hoach-18-diem-du-lich-sinh-thai-tai-hon-ngoc-xan",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Đà Nẵng quy hoạch 18 điểm du lịch sinh thái tại “hòn ngọc xanh” Cù Lao Chàm",
+   "sapo": "(Dân trí) - Đề án đặt mục tiêu đến năm 2030, Cù Lao Chàm đón 350.000 lượt khách mỗi năm, đồng thời bảo tồn hệ sinh thái rừng, biển và đa dạng sinh học.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/da-nang-quy-hoach-18-diem-du-lich-sinh-thai-tai-hon-ngoc-xanh-cu-lao-cham-20261124110014462.htm",
+   "published": "2026-11-24T11:18:36+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 727,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/70dc4c12fdd2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/70dc4c12fdd2-0.jpg",
+     "caption": "Một góc đảo Cù Lao Chàm, xã Tân Hiệp (Ảnh: Thanh Bình).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/70dc4c12fdd2-1.jpg",
+     "caption": "Du khách lặn ngắm san hô ở Cù Lao Chàm (Ảnh: Bình An).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Đề án đặt mục tiêu đến năm 2030, Cù Lao Chàm đón 350.000 lượt khách mỗi năm, đồng thời bảo tồn hệ sinh thái rừng, biển và đa dạng sinh học."
+    },
+    {
+     "t": "p",
+     "text": "UBND thành phố Đà Nẵng vừa ban hành quyết định phê duyệt Đề án tổng thể phát triển du lịch sinh thái, nghỉ dưỡng, giải trí trong Khu bảo tồn thiên nhiên Cù Lao Chàm (xã Tân Hiệp) đến năm 2030, tầm nhìn đến năm 2050."
+    },
+    {
+     "t": "p",
+     "text": "Đề án hướng đến phát triển du lịch có kiểm soát, gắn với bảo tồn hệ sinh thái rừng - biển, đa dạng sinh học, cảnh quan thiên nhiên và các giá trị văn hóa bản địa. Đồng thời, hoạt động du lịch được kỳ vọng tạo nguồn lực tái đầu tư cho công tác bảo tồn, cải thiện sinh kế người dân, góp phần xây dựng xã Tân Hiệp theo hướng xanh, sinh thái và bền vững."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Theo đề án, đến năm 2030, Cù Lao Chàm phấn đấu đạt năng lực phục vụ 350.000 lượt khách mỗi năm, trong đó có 140.000 lượt khách quốc tế và 210.000 lượt khách nội địa. Lượng khách lưu trú qua đêm dự kiến đạt khoảng 35.000 lượt."
+    },
+    {
+     "t": "p",
+     "text": "Tổng thu du lịch được đặt mục tiêu đạt 350 tỷ đồng/năm. Nguồn thu từ hợp tác, liên kết, cho thuê môi trường rừng và các hoạt động liên quan dự kiến đạt 5 tỷ đồng/năm."
+    },
+    {
+     "t": "p",
+     "text": "Đề án cũng đặt mục tiêu thu hút 3-5 nhà đầu tư, đối tác tham gia phát triển du lịch, đồng thời tạo việc làm cho khoảng 400 lao động địa phương."
+    },
+    {
+     "t": "p",
+     "text": "Tầm nhìn đến năm 2050, năng lực phục vụ và quản lý của hệ thống du lịch dự kiến đạt 400.000 lượt khách mỗi năm, tổng thu du lịch ước đạt 600 tỷ đồng/năm."
+    },
+    {
+     "t": "p",
+     "text": "Định hướng phát triển trong giai đoạn này là hình thành mô hình du lịch sinh thái rừng - biển phát thải thấp, thích ứng với biến đổi khí hậu. Cù Lao Chàm cũng hướng đến hoàn thiện các tiêu chí để trở thành khu du lịch quốc gia trong tương lai."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo đề án, có 18 điểm được quy hoạch để tổ chức các hoạt động du lịch sinh thái, nghỉ dưỡng, giải trí, với tổng diện tích gần 510ha."
+    },
+    {
+     "t": "p",
+     "text": "Trong đó, hợp phần rừng có diện tích hơn 257ha, phân bổ tại 12 điểm trải nghiệm sinh thái. Hợp phần biển có diện tích hơn 252ha, bố trí tại 6 điểm, vùng du lịch sinh thái."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh đó, 12 tuyến du lịch sinh thái cũng được quy hoạch với tổng chiều dài gần 40km. Các tuyến tận dụng hệ thống giao thông hiện có, gồm đường thủy, đường bộ ven bán đảo, đường tuần tra bảo vệ rừng và những tuyến đường mòn hiện hữu."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, đề án xác định bảo tồn là nguyên tắc ưu tiên trong phát triển du lịch. Các hoạt động không được gây suy thoái, tổn hại đến hệ sinh thái rừng tự nhiên, rạn san hô, thảm cỏ biển và nguồn gen của các loài hoang dã."
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, không tổ chức các hoạt động nghỉ dưỡng, giải trí trong phân khu bảo vệ nghiêm ngặt. Tổng kinh phí dự kiến thực hiện đề án đến năm 2030 là hơn 346 tỷ đồng."
+    },
+    {
+     "t": "p",
+     "text": "Cù Lao Chàm được ví như hòn ngọc xanh của thành phố Đà Nẵng, gồm 8 hòn đảo lớn nhỏ: Hòn Lao, Hòn Dài, Hòn Mồ, Hòn Khô mẹ, Hòn Khô con, Hòn Lá, Hòn Tai và Hòn Ông. Trong đó, Hòn Lao là đảo lớn nhất, nơi tập trung dân cư và các hoạt động du lịch."
+    },
+    {
+     "t": "p",
+     "text": "Quần đảo Cù Lao Chàm có diện tích từ gần 14km2 đến hơn 15km2, với đảo chính là Hòn Lao, được UNESCO công nhận là khu dự trữ sinh quyển thế giới vào năm 2009."
+    },
+    {
+     "t": "p",
+     "text": "Hiện nay, Cù Lao Chàm có khoảng 2.400-3.000 người sinh sống, chủ yếu tập trung tại Hòn Lao. Người dân địa phương gắn bó với nghề biển và các hoạt động du lịch cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Nơi đây có nhiều bãi biển, điểm tham quan nổi bật như Bãi Làng, Bãi Ông, Bãi Hương, Bãi Chồng, Bãi Xếp... cùng hệ sinh thái rừng nguyên sinh, rạn san hô và thảm cỏ biển phong phú."
+    }
+   ]
+  },
+  {
+   "id": "efd1578c351c",
+   "order": 16,
+   "slug": "ky-thu-nhung-cung-deo-giai-ma-ten-goi-deo-prenn",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Kỳ thú những cung đèo: Giải mã tên gọi đèo Prenn",
+   "sapo": "Từ dấu tích giao thoa văn hóa giữa người Chăm và cư dân bản địa đến cung đường xuyên rừng thông quanh co, đèo Prenn không chỉ là cửa ngõ vào Đà Lạt mà còn lưu giữ những lớp trầm tích lịch sử và ký ức.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ky-thu-nhung-cung-deo-giai-ma-ten-goi-deo-prenn-185261124202911093.htm",
+   "published": "2026-11-24T23:02:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1033,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/efd1578c351c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-0.jpg",
+     "caption": "Đèo Prenn trước khi nâng cấp mở rộng 4 làn xe",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-1.jpg",
+     "caption": "Đèo Prenn năm 2016",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-2.jpg",
+     "caption": "Nút giao đèo Prenn - đèo Mimosa ngay vị trí thác Prenn",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-3.jpg",
+     "caption": "Đèo Prenn trước khi được mở rộng lên 4 làn xe",
+     "w": 1024,
+     "h": 682
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-4.jpg",
+     "caption": "Đèo Prenn năm 1980",
+     "w": 1024,
+     "h": 742
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-5.jpg",
+     "caption": "Cung đèo Prenn",
+     "w": 1024,
+     "h": 1331
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-6.jpg",
+     "caption": "Cung đèo Prenn ngày nay vẫn nổi bật với cảnh quan rừng thông xanh mướt",
+     "w": 1024,
+     "h": 677
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-7.jpg",
+     "caption": "Đèo Prenn được mở rộng vào năm 2024, trở thành con đèo rộng nhya61t nước với 4 làn xe",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-8.jpg",
+     "caption": "Cầu Datanla trên tuyến đèo Prenn hiện nay",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-9.jpg",
+     "caption": "Đèo Prenn cửa ngỏ vào phố núi ngàn hoa",
+     "w": 1024,
+     "h": 576
+    },
+    {
+     "src": "img/2026-11-25/efd1578c351c-10.jpg",
+     "caption": "Đèo Prenn 2026",
+     "w": 1024,
+     "h": 576
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Từ dấu tích giao thoa văn hóa giữa người Chăm và cư dân bản địa đến cung đường xuyên rừng thông quanh co, đèo Prenn không chỉ là cửa ngõ vào Đà Lạt mà còn lưu giữ những lớp trầm tích lịch sử và ký ức."
+    },
+    {
+     "t": "h",
+     "text": "Từ tên gọi đến dấu tích lịch sử"
+    },
+    {
+     "t": "p",
+     "text": "Prenn là địa danh quen thuộc với người Đà Lạt và du khách, nhưng nguồn gốc tên gọi vẫn có những cách lý giải khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Theo nhà nghiên cứu Nguyễn Hữu Tranh trong công trình biên khảo Đà Lạt năm xưa cùng một số khảo cứu địa chí, tên Pren (Prenn) có nguồn gốc từ tiếng Chăm cổ, mang ý nghĩa liên quan đến sự xâm lấn, chiếm cứ hoặc \"vùng xâm lấn\"."
+    },
+    {
+     "t": "p",
+     "text": "Cách lý giải này gợi mở một lát cắt lịch sử về sự giao thoa, tiếp xúc giữa các cộng đồng cư dân ở Nam Tây nguyên và vùng duyên hải miền Trung. Trước khi Đà Lạt trở thành đô thị nghỉ dưỡng, khu vực chân đèo, thác Prenn và những thung lũng ven suối đã là không gian sinh sống lâu đời của các cộng đồng cư dân bản địa Lạch, Cil thuộc nhóm người K'Ho."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Vùng đất quanh thác Prenn có thể từng gắn với những cuộc va chạm giữa người Chăm và cư dân bản địa trong quá trình mở rộng địa bàn cư trú. Từ cách lý giải liên quan đến \"vùng xâm lấn\", tên gọi Prenn được dùng để định danh ngọn thác, rồi trở thành tên của con đèo."
+    },
+    {
+     "t": "p",
+     "text": "Một cách lý giải khác cho rằng địa danh này bắt nguồn từ tiếng K'Ho, liên quan đến từ \"Prềnh\", nghĩa là cà đắng, loại cây mọc trong vùng và từng hiện diện trong đời sống ẩm thực của cư dân bản địa. Cách giải thích ấy đưa tên gọi Prenn trở về gần hơn với môi trường tự nhiên và sinh hoạt thường ngày của người dân nơi đây."
+    },
+    {
+     "t": "p",
+     "text": "Dù theo cách lý giải nào, Prenn không đơn thuần là một địa danh để chỉ đường. Đằng sau tên gọi ấy có thể là những dấu vết ngôn ngữ, ký ức cộng đồng và biến động lịch sử từ trước khi tuyến đường đèo hình thành."
+    },
+    {
+     "t": "h",
+     "text": "Con đường vào xứ sương mù"
+    },
+    {
+     "t": "p",
+     "text": "Theo tư liệu được nhà nghiên cứu Nguyễn Hữu Tranh ghi chép, trước khi tuyến đèo Prenn được mở, đường vào Đà Lạt từ phía nam đi qua ngả Khe Sanh - Trại Hầm, tương ứng khu vực đèo Mimosa ngày nay. Tuyến đường cũ dài khoảng 14 km, có độ dốc lớn và nhiều đoạn quanh co, gây khó khăn cho việc đi lại."
+    },
+    {
+     "t": "p",
+     "text": "Khi Đà Lạt được người Pháp quy hoạch thành đô thị nghỉ dưỡng, nhu cầu kết nối giao thông ngày càng tăng. Một tuyến đường thuận tiện hơn, rút ngắn hành trình từ vùng thấp lên cao nguyên, trở thành yêu cầu cấp thiết."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình khảo sát, lập bản đồ và mở đường qua khu vực vào đầu thập niên 1940, người Pháp sử dụng tên thác Prenn nằm dưới chân đèo để đặt tên cho tuyến đường là đèo Prenn (Col de Prenn). Tên gọi này vừa xác định vị trí địa lý, vừa gắn con đường với địa danh đã tồn tại từ trước trong ký ức của cư dân bản địa."
+    },
+    {
+     "t": "p",
+     "text": "Theo tư liệu địa chí Đà Lạt về giao thông, công trình xây dựng đèo Prenn do nhà thầu Gross thực hiện, khởi công vào tháng 2.1943, thay thế tuyến đường cũ nối khu vực thác Prenn với trung tâm Đà Lạt, nay thuộc hướng đèo Mimosa. Tuyến đèo mới dài gần 9 km, có 79 đoạn cong, mặt đường rộng 7 m. Giữa địa hình đồi núi hiểm trở, việc mở đường khi máy móc và phương tiện thi công còn hạn chế là một nỗ lực đáng kể. Hai bên đường, những hàng thông cao vút tạo nên cảnh quan xanh mướt đặc trưng của cung đường dẫn vào Đà Lạt."
+    },
+    {
+     "t": "p",
+     "text": "Sau đợt cải tạo giai đoạn 2023 - 2024, đèo Prenn được nâng cấp lên 4 làn xe, một số khúc cua nguy hiểm được điều chỉnh và bổ sung các hạng mục cầu cạn, cải tuyến. Chiều dài tuyến đèo hiện còn khoảng 7,4 km. Việc mở rộng, nâng cấp giúp cải thiện năng lực lưu thông trên cửa ngõ phía nam Đà Lạt."
+    },
+    {
+     "t": "h",
+     "text": "Cung đèo xanh và ký ức điện ảnh"
+    },
+    {
+     "t": "p",
+     "text": "Sức hấp dẫn của đèo Prenn không chỉ nằm ở vai trò cửa ngõ vào Đà Lạt mà còn ở cảnh quan rừng núi đặc trưng. Những khúc cua men theo sườn đồi, rừng thông xanh ngút mắt và không gian cao nguyên mờ sương tạo nên vẻ cuốn hút riêng cho cung đường này."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Đèo Prenn cùng nhiều địa điểm ở Đà Lạt từng được chọn làm bối cảnh cho bộ phim Ván bài lật ngửa , tác phẩm điện ảnh nổi tiếng của VN thập niên 1980. Đạo diễn Lê Hoàng Hoa đã khai thác cảnh quan Đà Lạt, đèo Prenn và thác Datanla trong một số tập phim, trong đó có Phát súng trên cao nguyên (tập 3, năm 1983), Cơn hồng thủy và bản tango số 3 (tập 4, năm 1984)."
+    },
+    {
+     "t": "p",
+     "text": "Với những khán giả từng say mê Ván bài lật ngửa , đèo Prenn có thể gợi nhớ một thời phim Việt ghi dấu bằng những bối cảnh thực, những chiếc xe cổ và cảnh sắc cao nguyên. Với người Đà Lạt, nơi đây còn gắn với ký ức về những chuyến xe xuôi về vùng thấp, những lần đón người thân và hành trình đưa du khách đến với xứ ngàn hoa."
+    },
+    {
+     "t": "p",
+     "text": "Trên cung đèo còn có thác Datanla, một thắng cảnh nổi tiếng của Đà Lạt. Theo cách lý giải được lưu truyền, tên gọi Datanla gắn với tiếng nói của cư dân bản địa, mang nghĩa \"nước giấu dưới tán lá\". Câu chuyện về tên thác, cũng như những cách lý giải tên gọi Prenn, góp thêm một lớp màu sắc văn hóa cho cảnh quan dưới chân cao nguyên. (còn tiếp)"
+    }
+   ]
+  },
+  {
+   "id": "83e42a98cd05",
+   "order": 17,
+   "slug": "nam-phu-nu-u60-chinh-phuc-dinh-nam-kang-ho-tao",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Năm phụ nữ U60 chinh phục đỉnh Nam Kang Ho Tao",
+   "sapo": "Vượt Dốc 3 giờ trơn trượt, chị Thu Hà, 58 tuổi, cùng bốn chị em U60 chạm đỉnh Nam Kang Ho Tao, đỉnh khó chinh phục bậc nhất miền Bắc.",
+   "author": "Tâm Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/nam-phu-nu-u60-chinh-phuc-dinh-nam-kang-ho-tao-5145502.html",
+   "published": "2026-11-24T17:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1411,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/83e42a98cd05-0.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 800
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-1.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-2.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-3.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-4.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-5.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 801
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-6.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1761
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-7.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 799
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-8.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 1800
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-9.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-10.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    },
+    {
+     "src": "img/2026-11-25/83e42a98cd05-11.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Năm phụ nữ U60 chinh phục đỉnh Nam Kang Ho Tao"
+    },
+    {
+     "t": "p",
+     "text": "Vượt Dốc 3 giờ trơn trượt, chị Thu Hà, 58 tuổi, cùng bốn chị em U60 chạm đỉnh Nam Kang Ho Tao, đỉnh khó chinh phục bậc nhất miền Bắc."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Đỉnh Nam Kang Ho Tao cao 2.881 m, nằm trên ranh giới Lai Châu và Lào Cai, được Hội Đam mê leo núi và Cổng Thông tin Điện tử tỉnh Lai Châu đánh giá là một trong những đỉnh khó chinh phục nhất Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "\"Nam Kang Ho Tao không cao nhất Việt Nam, nhưng khó. Hành trình khắc nghiệt, địa hình phức tạp, nhiều đoạn dốc cao, trơn trượt, xuyên rừng và đòi hỏi sức bền lớn\", anh Hùng (Lekima Hung), người tổ chức tour leo núi, nói. Theo anh, hành trình thường mất ít nhất hai ngày."
+    },
+    {
+     "t": "p",
+     "text": "Đỉnh Nam Kang Ho Tao cao 2.881 m, nằm trên ranh giới Lai Châu và Lào Cai, được Hội Đam mê leo núi và Cổng Thông tin Điện tử tỉnh Lai Châu đánh giá là một trong những đỉnh khó chinh phục nhất Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "\"Nam Kang Ho Tao không cao nhất Việt Nam, nhưng khó. Hành trình khắc nghiệt, địa hình phức tạp, nhiều đoạn dốc cao, trơn trượt, xuyên rừng và đòi hỏi sức bền lớn\", anh Hùng (Lekima Hung), người tổ chức tour leo núi, nói. Theo anh, hành trình thường mất ít nhất hai ngày."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Giữa tháng 11, đoàn 8 người, trong đó có 5 phụ nữ U60, chinh phục Nam Kang Ho Tao trong ba ngày hai đêm. Chị Thu Hà (áo xanh, thứ hai từ trái sang), sinh năm 1968, quê Hải Phòng, nhiều tuổi nhất; người trẻ nhất nhóm sinh năm 1972."
+    },
+    {
+     "t": "p",
+     "text": "Cả năm chị đều có kinh nghiệm trekking, đã leo nhiều đỉnh núi trong và ngoài nước, nhưng đến nay mới có \"cái duyên\" với Nam Kang Ho Tao."
+    },
+    {
+     "t": "p",
+     "text": "Giữa tháng 11, đoàn 8 người, trong đó có 5 phụ nữ U60, chinh phục Nam Kang Ho Tao trong ba ngày hai đêm. Chị Thu Hà (áo xanh, thứ hai từ trái sang), sinh năm 1968, quê Hải Phòng, nhiều tuổi nhất; người trẻ nhất nhóm sinh năm 1972."
+    },
+    {
+     "t": "p",
+     "text": "Cả năm chị đều có kinh nghiệm trekking, đã leo nhiều đỉnh núi trong và ngoài nước, nhưng đến nay mới có \"cái duyên\" với Nam Kang Ho Tao."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Bù lại, biển mây tràn qua các đỉnh núi, theo gió lúc cuộn lên, lúc đổ xuống những cánh rừng. Qua Dốc 3 giờ, đoàn lên đến độ cao khoảng 2.200 m."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Giày trekking của một nữ thành viên bị long đế sau một ngày lội bùn, suối và đá."
+    },
+    {
+     "t": "p",
+     "text": "\"Giữa rừng, khi trước mắt còn cả một hành trình dài, đây là vấn đề nghiêm trọng. Lúc đó tôi cũng lo lắng, nhưng may mắn cả năm chị em đều đã có kinh nghiệm nên ai cũng có một đôi giày dự phòng\", anh Hùng nói."
+    },
+    {
+     "t": "p",
+     "text": "Giày trekking của một nữ thành viên bị long đế sau một ngày lội bùn, suối và đá."
+    },
+    {
+     "t": "p",
+     "text": "\"Giữa rừng, khi trước mắt còn cả một hành trình dài, đây là vấn đề nghiêm trọng. Lúc đó tôi cũng lo lắng, nhưng may mắn cả năm chị em đều đã có kinh nghiệm nên ai cũng có một đôi giày dự phòng\", anh Hùng nói."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 17h, đoàn về đến lán sau 10,5 km."
+    },
+    {
+     "t": "p",
+     "text": "\"Có lúc muốn ngồi thụp xuống vì mệt, nhưng thỉnh thoảng gặp cảnh đẹp được 'ăn con ảnh' thấy khỏe ngay. May mắn cả năm chị em an toàn, vẫn giữ được tinh thần vui vẻ\", chị Hà kể. Biết lượng sức, cả năm chị không cố đi nhanh, chấp nhận chậm hơn những người khác."
+    },
+    {
+     "t": "p",
+     "text": "Trên núi không internet, TV hay đèn điện. Cả đoàn ăn uống rồi ngủ sớm. Hôm sau, chưa đến 5h nhiều người đã tỉnh, ăn sáng và chuẩn bị lên đỉnh."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 17h, đoàn về đến lán sau 10,5 km."
+    },
+    {
+     "t": "p",
+     "text": "\"Có lúc muốn ngồi thụp xuống vì mệt, nhưng thỉnh thoảng gặp cảnh đẹp được 'ăn con ảnh' thấy khỏe ngay. May mắn cả năm chị em an toàn, vẫn giữ được tinh thần vui vẻ\", chị Hà kể. Biết lượng sức, cả năm chị không cố đi nhanh, chấp nhận chậm hơn những người khác."
+    },
+    {
+     "t": "p",
+     "text": "Trên núi không internet, TV hay đèn điện. Cả đoàn ăn uống rồi ngủ sớm. Hôm sau, chưa đến 5h nhiều người đã tỉnh, ăn sáng và chuẩn bị lên đỉnh."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ngày thứ hai trời đẹp hơn, sau một đêm nghỉ, năm chị đều đã hồi sức."
+    },
+    {
+     "t": "p",
+     "text": "Trên đường, đoàn gặp một bạn trẻ phải quay lại lán vì trượt ngã. \"Chúng tôi cứ nghĩ ngày đầu nhiều gian nan rồi, nhưng không ngờ chặng thứ hai còn khó hơn\", chị Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Ở Nam Kang Ho Tao có câu nói vui \"100.000 đồng cho mỗi kg cân nặng nếu phải nhờ porter cõng xuống núi\", anh Hùng kể. Câu đùa cho thấy leo núi cần thận trọng hơn là thi xem ai khỏe, ai nhanh. Chỉ một cú trượt chân hay chút chủ quan cũng đủ khiến hành trình dừng lại."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thứ hai trời đẹp hơn, sau một đêm nghỉ, năm chị đều đã hồi sức."
+    },
+    {
+     "t": "p",
+     "text": "Trên đường, đoàn gặp một bạn trẻ phải quay lại lán vì trượt ngã. \"Chúng tôi cứ nghĩ ngày đầu nhiều gian nan rồi, nhưng không ngờ chặng thứ hai còn khó hơn\", chị Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Ở Nam Kang Ho Tao có câu nói vui \"100.000 đồng cho mỗi kg cân nặng nếu phải nhờ porter cõng xuống núi\", anh Hùng kể. Câu đùa cho thấy leo núi cần thận trọng hơn là thi xem ai khỏe, ai nhanh. Chỉ một cú trượt chân hay chút chủ quan cũng đủ khiến hành trình dừng lại."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Cả ngày thứ hai họ chỉ đi 7 km, nhưng chặng từ đỉnh về lán không dễ dàng. Sức đã tiêu hao nhiều, đôi chân \"bắt đầu biểu tình\". Đoàn đi chậm hơn dự kiến."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhưng cứ đi rồi sẽ đến\", chị Hà và các thành viên tự an ủi nhau. Mùa này, khoảng 17h núi rừng đã tối, họ phải bật đèn đội đầu và về đến nơi an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Cả ngày thứ hai họ chỉ đi 7 km, nhưng chặng từ đỉnh về lán không dễ dàng. Sức đã tiêu hao nhiều, đôi chân \"bắt đầu biểu tình\". Đoàn đi chậm hơn dự kiến."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhưng cứ đi rồi sẽ đến\", chị Hà và các thành viên tự an ủi nhau. Mùa này, khoảng 17h núi rừng đã tối, họ phải bật đèn đội đầu và về đến nơi an toàn."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỗ ngủ không thoải mái như ngày đầu. Không gian hạn chế, mặt sàn gồ ghề, nhưng đều là những người dễ thích nghi, lại thêm phấn chấn sau khi chinh phục đỉnh, chúng tôi ngủ say\", chị Hà nói thêm."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thứ hai khép lại bên nồi lẩu nóng. \"Lẩu gà bản và túp lều đơn sơ, bát đũa còn không có đủ, nhưng mọi người đều vui vẻ\", anh Hùng nói."
+    },
+    {
+     "t": "p",
+     "text": "Ngày cuối, đoàn xuống núi 10 km, khép lại hành trình khoảng 27,5 km. \"Đi lên đã khó, xuống núi còn khó hơn gấp bội vì trơn trượt. Chúng tôi liên tục phải nhờ sự giúp đỡ của porter. Nhiều đoạn gần như ngồi xuống để lết\", chị Hà cho biết. Nhưng cuối cùng họ vẫn hoàn thành hành trình."
+    },
+    {
+     "t": "p",
+     "text": "Gần một tuần sau chuyến đi, chị Hà cho hay sức khỏe tốt, hồi phục nhanh và đang chờ những chuyến đi mới."
+    },
+    {
+     "t": "p",
+     "text": "\"Có những chuyến đi nhớ vì cảnh đẹp, vì những bức ảnh, nhưng cũng có những chuyến khiến người ta nhớ bởi những người đã cùng mình vượt khó khăn. Nam Kang Ho Tao không chỉ là một đỉnh núi, mà còn là một hành trình để khám phá giới hạn của mình\", chị Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Gần một tuần sau chuyến đi, chị Hà cho hay sức khỏe tốt, hồi phục nhanh và đang chờ những chuyến đi mới."
+    },
+    {
+     "t": "p",
+     "text": "\"Có những chuyến đi nhớ vì cảnh đẹp, vì những bức ảnh, nhưng cũng có những chuyến khiến người ta nhớ bởi những người đã cùng mình vượt khó khăn. Nam Kang Ho Tao không chỉ là một đỉnh núi, mà còn là một hành trình để khám phá giới hạn của mình\", chị Hà nói."
+    },
+    {
+     "t": "p",
+     "text": "Tâm Anh Ảnh: Lekima Hung"
+    }
+   ]
+  },
+  {
+   "id": "217bf2d175c2",
+   "order": 18,
+   "slug": "viet-nam-la-doi-hiem-hoi-tan-dung-duoc-quyen-luc-khieu-nai-o",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Việt Nam là đội hiếm hoi tận dụng được 'quyền lực khiếu nại' ở World Cup U17",
+   "sapo": "Trong khi nhiều đội tuyển khiếu nại bất thành, thậm chí khiến cầu thủ đội nhà phải nhận thẻ vàng, U17 Việt Nam đã tận dụng hiệu quả công nghệ hỗ trợ trọng tài đặc biệt được FIFA áp dụng tại World Cup U17 2026.",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/viet-nam-la-doi-hiem-hoi-tan-dung-duoc-quyen-luc-khieu-nai-o-world-cup-u17-100261124144440311.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 556,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/217bf2d175c2-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/217bf2d175c2-0.jpg",
+     "caption": "HLV Roland của đội U17 Việt Nam - Ảnh: VFF",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-25/217bf2d175c2-1.jpg",
+     "caption": "Công nghệ FVS đã có từ kỳ World Cup U17 năm ngoái - Ảnh: L'EQUIPE",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Một trong những bước ngoặt của trận hòa 3-3 giữa U17 Việt Nam và New Zealand tối 23-11 đến từ quyết định khiếu nại của HLV Cristiano Roland."
+    },
+    {
+     "t": "p",
+     "text": "Phút 58, Lê Trọng Đại Nhân thoát xuống đón đường chuyền của Nguyễn Lực rồi tung cú sút uy lực đánh bại thủ môn New Zealand. Tuy nhiên, bàn thắng không được công nhận do lỗi việt vị."
+    },
+    {
+     "t": "p",
+     "text": "Ban huấn luyện U17 Việt Nam lập tức sử dụng quyền yêu cầu trọng tài xem lại tình huống qua video. Sau khi kiểm tra, trọng tài đảo ngược quyết định, công nhận bàn thắng gỡ hòa 2-2 cho Đại Nhân."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, đây cũng là pha lập công được trang chủ Liên đoàn Bóng đá thế giới (FIFA) đánh giá đẹp nhất trận đấu."
+    },
+    {
+     "t": "p",
+     "text": "U17 Việt Nam là một trong số ít đội tuyển được ghi nhận đã tận dụng thành công quyền khiếu nại tại World Cup U17 năm nay. Trong những ngày qua, truyền thông quốc tế đề cập đến không ít trường hợp các HLV sử dụng quyền này nhưng không đạt được kết quả mong muốn."
+    },
+    {
+     "t": "p",
+     "text": "Thậm chí, U17 Ecuador còn rơi vào tình cảnh trớ trêu trong trận hòa Uganda 0-0 ngày 22-11."
+    },
+    {
+     "t": "p",
+     "text": "Theo báo El Comercio (Ecuador), ban huấn luyện đội bóng Nam Mỹ yêu cầu trọng tài xem lại tình huống cầu thủ Fragozo ngã trong vòng cấm đối phương với hy vọng được hưởng phạt đền."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, sau khi kiểm tra video, trọng tài xác định Fragozo có hành vi ăn vạ và rút thẻ vàng cảnh cáo cầu thủ này."
+    },
+    {
+     "t": "p",
+     "text": "Tương tự, trong trận thua Mexico 0-1 ngày 21-11, ban huấn luyện U17 Romania khiếu nại vì cho rằng thủ môn đối phương dùng tay chơi bóng bên ngoài vòng cấm. Kết quả kiểm tra cho thấy thủ môn Mexico không phạm luật."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Công nghệ được FIFA áp dụng tại World Cup U17 có tên Football Video Support (FVS), tức hệ thống hỗ trợ trọng tài bằng video. Dù có nhiều nét tương đồng với VAR , FVS vận hành theo cơ chế khác biệt."
+    },
+    {
+     "t": "p",
+     "text": "Với VAR, một tổ trọng tài video chuyên trách theo dõi trận đấu, chủ động kiểm tra các tình huống và thông báo cho trọng tài chính khi phát hiện sai sót thuộc phạm vi can thiệp."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, FVS không có tổ trọng tài video chuyên trách. Quyền chủ động yêu cầu xem lại những tình huống gây tranh cãi được trao cho ban huấn luyện hai đội."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi đội có hai lượt khiếu nại. Nếu thành công, đội bóng được bảo lưu lượt đó. Phạm vi áp dụng gồm bốn nhóm tình huống: bàn thắng, phạt đền, thẻ đỏ trực tiếp và trọng tài nhận diện nhầm cầu thủ khi xử phạt."
+    },
+    {
+     "t": "p",
+     "text": "Cơ chế này tạo thêm một yếu tố chiến thuật trong bóng đá. Bên cạnh khả năng đọc trận đấu và điều chỉnh nhân sự, các HLV còn phải nhạy bén trong việc phát hiện sai sót của trọng tài, cũng như cân nhắc thời điểm sử dụng quyền khiếu nại."
+    },
+    {
+     "t": "p",
+     "text": "Ở trận gặp New Zealand, chính việc tận dụng hiệu quả quyền hạn đặc biệt này của ban huấn luyện đã góp phần giúp U17 Việt Nam giành điểm số lịch sử tại đấu trường World Cup."
+    }
+   ]
+  },
+  {
+   "id": "19aca3fa1be7",
+   "order": 19,
+   "slug": "real-dai-thang-voi-cu-dup-cua-mbappe",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Real đại thắng với cú đúp của Mbappe",
+   "sapo": "Tây Ban Nha HLV Jose Mourinho đưa Real Madrid lên đỉnh bảng Champions League sau trận thắng PSV Eindhoven 5-1, khi Kylian Mbappe và Vinicius Junior cùng ghi bàn.",
+   "author": "Xuân Bình",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/real-dai-thang-voi-cu-dup-cua-mbappe-5148521.html",
+   "published": "2026-11-24T21:56:19+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1200,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/19aca3fa1be7-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-25/19aca3fa1be7-0.jpg",
+     "caption": "Jude Bellingham (phải) của Real Madrid ăn mừng cùng Kylian Mbappe, Yan Diomande và Vinicius Junior sau khi ghi bàn nâng tỷ số lên 2-0 trong trận đấu với PSV ở vòng phân hạng Champions League tại Madrid, Tây Ban Nha, ngày 24/11/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-25/19aca3fa1be7-1.jpg",
+     "caption": "Jude Bellingham ăn mừng sau khi ghi bàn nâng tỷ số lên 2-0 trong trận đấu với PSV ở vòng phân hạng Champions League tại Madrid, Tây Ban Nha, ngày 24/11/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-25/19aca3fa1be7-2.jpg",
+     "caption": "Tiền đạo Kylian Mbappe ghi bàn nâng tỷ số lên 3-0 trong trận đấu với PSV ở vòng phân hạng Champions League tại Madrid, Tây Ban Nha, ngày 24/11/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-25/19aca3fa1be7-3.jpg",
+     "caption": "Tiền đạo Vinicius Junior ghi bàn nâng tỷ số lên 5-0 trong trận đấu với PSV ở vòng phân hạng Champions League tại Madrid, Tây Ban Nha, ngày 24/11/2026. Ảnh: AP",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tây Ban Nha HLV Jose Mourinho đưa Real Madrid lên đỉnh bảng Champions League sau trận thắng PSV Eindhoven 5-1, khi Kylian Mbappe và Vinicius Junior cùng ghi bàn."
+    },
+    {
+     "t": "p",
+     "text": "Có những đêm Champions League ở Bernabeu mà người ta tưởng như đã biết trước kết cục, ngay cả khi Real Madrid đang bị dồn vào thế khó. Khi PSV Eindhoven dẫn 1-0 sau hiệp một, những tiếng hò reo của hàng nghìn CĐV đội khách vang lên giữa sân đấu huyền thoại. Nhưng với Real, 45 phút còn lại đôi khi mới là lúc câu chuyện thực sự bắt đầu."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Jude Bellingham xuất hiện từ đường biên, và bầu không khí ở Bernabeu lập tức thay đổi. Tiền vệ người Anh cùng hai đồng đội vào sân thay người khác trở thành những quân bài quan trọng trong màn ngược dòng, giúp Real ghi liền năm bàn để thắng PSV 5-1 ở lượt năm vòng bảng Champions League tối 24/11."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng này đưa đội bóng của Jose Mourinho lên đỉnh bảng giai đoạn vòng bảng, đồng thời nối dài chuỗi thắng của Real lên 10 trận."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi Bellingham vào sân, Real trải qua một trong những hiệp đấu khó khăn nhất từ đầu mùa. PSV chủ động gây sức ép, khai thác khoảng trống phía sau hàng thủ chủ nhà và tạo ra nhiều tình huống nguy hiểm."
+    },
+    {
+     "t": "p",
+     "text": "Ngay phút thứ tư, Ruben van Bommel thoát xuống đối mặt Thibaut Courtois nhưng sút chệch cột. Đến phút 11, Vinicius Junior khiến khán đài chủ nhà bật dậy với cú sút xa đưa bóng dội cột phải. Nhưng PSV mới là đội mở tỷ số."
+    },
+    {
+     "t": "p",
+     "text": "Phút 30, Aurelien Tchouameni giẫm lên chân Sven Mijnans trong cấm địa. Sau khi tham khảo VAR, trọng tài chỉ tay vào chấm phạt đền. Ivan Perisic đánh bại Courtois bằng cú sút bình tĩnh ở phút 32, đưa PSV dẫn trước. Ở tuổi 37 năm 295 ngày, tiền vệ Croatia trở thành cầu thủ lớn tuổi thứ tư ghi bàn trong lịch sử Champions League."
+    },
+    {
+     "t": "p",
+     "text": "Dấu ấn của Mourinho được thể hiện sau hiệp một. Ngay đầu hiệp hai, ông thay ba người cùng lúc. Bellingham, Ibrahima Konate và Dean Huijsen vào thay Tchouameni, Antonio Rudiger và Eder Militao."
+    },
+    {
+     "t": "p",
+     "text": "Đây là quyết định tạo ra bước ngoặt. Huijsen giúp đội chủ nhà triển khai bóng tốt hơn trước sức ép của PSV, còn Konate tăng cường sự chắc chắn ở hàng thủ. Nhà phân tích bóng đá Juan Carlos Rodriguez dos Santos thì nhận xét Bellingham đã thay đổi trận đấu bằng khả năng di chuyển, tư duy chiến thuật và những pha dâng cao khai thác điểm yếu của PSV. Tiền vệ Anh tạo ra nhịp độ mới cho Real, giúp đội chủ nhà thoát khỏi bế tắc."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Phút 50, Real gỡ hòa sau một pha phối hợp giàu tính ngẫu hứng. Vinicius đưa bóng vào cấm địa, Yan Diomande tiếp tục xử lý trước khi Arda Guler đánh gót tinh tế, để Federico Valverde nhanh chân sút một chạm đưa bóng vào góc thấp, cân bằng tỷ số 1-1. Đây là lần đầu tiên Valverde ghi bàn trong hai trận Champions League liên tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khoảnh khắc khiến Bernabeu thực sự bùng nổ đến ở phút 60. Sau đường chuyền của Kylian Mbappe, Bellingham khống chế bóng bằng chân trái, tâng bóng bằng chân phải rồi dùng má ngoài vuốt bóng cuộn về góc xa. Thủ môn Matej Kovar không thể cản phá cú dứt điểm đầy kỹ thuật."
+    },
+    {
+     "t": "p",
+     "text": "Bàn thắng khiến những đồng đội Real lập tức vây quanh Bellingham. Theo phóng viên Graham Hunter của UEFA có mặt tại Bernabeu, các cầu thủ chủ nhà gần như không chỉ chạy đến chúc mừng, còn đứng lại như thể muốn bày tỏ sự thán phục trước pha xử lý của tiền vệ người Anh."
+    },
+    {
+     "t": "p",
+     "text": "Phút 64, đến lượt Mbappe lên tiếng. Arda Guler cướp bóng rồi chuyền vào cấm địa để tiền đạo Pháp sút một chạm bằng chân phải về góc cao bên trái, nâng tỷ số lên 3-1. Đó là trận Champions League thứ bảy liên tiếp Mbappe ghi bàn. Pha lập công này cũng giúp tiền đạo Pháp trở thành cầu thủ trẻ thứ hai lịch sử chạm mốc 75 bàn thắng tại giải, sau Lionel Messi."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Mbappe không dừng lại ở đó. Phút 84, Brahim Diaz vừa vào sân đã tạo dấu ấn bằng đường chuyền xuyên tuyến, đưa đồng đội đối mặt thủ môn Kovar. Tiền đạo Pháp đảo chân, khiến thủ môn PSV mất thăng bằng trước khi đưa bóng vào lưới, hoàn tất cú đúp. Hai bàn trước PSV nâng thành tích của Mbappe lên 19 bàn sau 18 trận cho Real trên mọi đấu trường mùa này."
+    },
+    {
+     "t": "p",
+     "text": "Vinicius cũng có một đêm đáng nhớ, dù phải chờ đến những phút cuối mới được ăn mừng. Trước khi ghi bàn, cầu thủ Brazil hai lần đưa bóng trúng cột dọc, lần lượt ở phút 11 và 66. Anh còn có thêm một cơ hội bị Kovar cản phá ở phút 69."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Vinicius không bỏ cuộc. Phút 87, Bellingham chuyền bổng để đồng đội băng xuống bên cánh trái. Tiền đạo Brazil khống chế bằng đầu, đưa bóng vào cấm địa rồi sút chân phải qua hai chân thủ môn, ấn định tỷ số 5-1."
+    },
+    {
+     "t": "p",
+     "text": "Đây là bàn thắng đầu tiên của Vinicius tại Champions League kể từ tháng 3. Pha lập công cũng giúp anh giải tỏa sau một trận đấu mà vận may nhiều lần ngoảnh mặt. Trước đó, chính những pha xử lý của Vinicius đã góp phần mở ra bàn gỡ hòa cho Valverde."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng trước PSV tiếp tục khẳng định một đặc điểm quen thuộc của Real, đó là khả năng tăng tốc và kết liễu đối thủ ở cuối trận. Đội bóng Tây Ban Nha đã ghi chín bàn trong 15 phút cuối hiệp hai tại Champions League mùa này, nhiều hơn bất kỳ đội nào khác. Trên mọi đấu trường, họ đã có 16 lần ghi bàn sau phút 80 trong 18 trận."
+    },
+    {
+     "t": "p",
+     "text": "Đó cũng là trận thứ ba tại Champions League mùa này Real ngược dòng thành công sau khi bị dẫn trước. Trước PSV, họ từng thắng Roma 4-3 và AEK Athens 3-2 trong những trận đấu mà đối thủ mở tỷ số."
+    },
+    {
+     "t": "p",
+     "text": "Mourinho cũng có thêm một đêm để khẳng định dấu ấn tại Bernabeu. Trong 20 trận Champions League trên sân nhà dưới thời HLV Bồ Đào Nha, Real thắng 17, hòa hai và chỉ thua một. Đội bóng của ông cũng đã thắng cả tám trận sân nhà trên mọi đấu trường mùa này."
+    },
+    {
+     "t": "p",
+     "text": "Phóng viên Graham Hunter đánh giá màn trình diễn tại Bernabeu là minh chứng cho sức mạnh chiều sâu đội hình, bên cạnh những khoảnh khắc xuất sắc cá nhân của Bellingham, Guler và Mbappe. Real cũng thể hiện tinh thần tập thể trong cách các cầu thủ liên tục hỗ trợ, gây sức ép và khai thác khoảng trống của đối thủ. Và lúc này, người hâm mộ đội bóng có thể bắt đầu mơ về chức vô địch châu Âu thứ 16."
+    }
+   ]
+  },
+  {
+   "id": "b4262389c624",
+   "order": 20,
+   "slug": "xa-thu-37-tuoi-gay-soc-khi-danh-bai-a-quan-the-gioi-thu-vinh",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Xạ thủ 37 tuổi gây sốc khi đánh bại á quân thế giới Thu Vinh, giành HCV đại hội",
+   "sapo": "Nguyễn Thùy Dung đánh bại Thu Vinh và Thùy Trang để giành HCV 25m súng ngắn thể thao nữ. Cùng khám phá hành trình ấn tượng của cô tại Đại hội.",
+   "author": "THANH ĐỊNH",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/xa-thu-37-tuoi-gay-soc-khi-danh-bai-a-quan-the-gioi-thu-vinh-gianh-hcv-dai-hoi-100261124205004625.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 6,
+   "words": 651,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-25/b4262389c624-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-25/b4262389c624-0.jpg",
+     "caption": "Nguyễn Thùy Dung (ngoài cùng bên phải) đánh bại hai đàn em để giành HCV 25m súng ngắn thể thao nữ - Ảnh: BÙI LƯỢNG",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-25/b4262389c624-1.jpg",
+     "caption": "Trịnh Thu Vinh có ngày thi đấu dưới sức - Ảnh: THANH ĐỊNH",
+     "w": 1280,
+     "h": 961
+    },
+    {
+     "src": "img/2026-11-25/b4262389c624-2.jpg",
+     "caption": "Nguyễn Thùy Dung (thứ 2 từ trái sang) giành chiến thắng bất ngờ - Ảnh: THANH ĐỊNH",
+     "w": 1280,
+     "h": 742
+    },
+    {
+     "src": "img/2026-11-25/b4262389c624-3.jpg",
+     "caption": "HCV Asiad 19 Phạm Quang Huy dễ dàng lên ngôi ở Đại hội Thể thao toàn quốc 2026 - Ảnh: THANH ĐỊNH",
+     "w": 1280,
+     "h": 883
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ngày 24-11 tại TP.HCM, khi chung kết chỉ còn một loạt bắn, Nguyễn Thùy Dung (Quân Đội) và Nguyễn Thùy Trang (Công An Nhân Dân) cùng có 29 điểm. Trong năm phát quyết định, Thùy Dung ghi 3 điểm, còn Thùy Trang ghi 2. Xạ thủ 37 tuổi giành HCV với chiến thắng 32-31 trước đàn em kém mình 15 tuổi."
+    },
+    {
+     "t": "h",
+     "text": "Vượt mặt Thu Vinh và Thùy Trang"
+    },
+    {
+     "t": "p",
+     "text": "Trong ba người bước lên bục nhận huy chương, Thùy Dung là người xếp thấp nhất ở vòng loại. Cô đạt 574 điểm, đứng thứ tư trong 18 xạ thủ và là đại diện duy nhất của Quân Đội vào chung kết."
+    },
+    {
+     "t": "p",
+     "text": "Dẫn đầu là Triệu Thị Hoa Hồng (TP.HCM) với 584 điểm, phá kỷ lục đại hội 581 điểm của Nguyễn Thu Vân lập năm 2018. Thu Vinh xếp thứ hai với 578 điểm, hơn Thùy Trang 2 điểm."
+    },
+    {
+     "t": "p",
+     "text": "Thu Vinh, người vừa giành HCB thế giới và mang về suất dự Olympic Los Angeles 2028 cho Việt Nam, mở màn chung kết bằng 5 phát trúng đích. Sau bốn loạt, cô dẫn đầu với 14 điểm. Thùy Dung khi ấy có 12 điểm nhưng trúng cả 5 phát ở loạt thứ năm để bắt kịp Thu Vinh."
+    },
+    {
+     "t": "p",
+     "text": "Đến loạt thứ 7, Thùy Trang cũng trúng cả 5 phát để vượt lên."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó Hoa Hồng thắng Đặng Lê Ngọc Mai 4-2 ở loạt bắn phân hạng, rồi dừng bước ở vị trí thứ tư. Khi chỉ còn ba người tranh huy chương, Thùy Trang dẫn đầu với 26 điểm, hơn Thùy Dung 1 điểm và Thu Vinh 2 điểm."
+    },
+    {
+     "t": "p",
+     "text": "Bước ngoặt đến ở loạt áp chót. Thùy Dung trúng 4 phát để san bằng cách biệt với Thùy Trang. Thu Vinh ghi thêm 3 điểm, nhận HCĐ với tổng điểm 27. Từ thế bám đuổi, Thùy Dung bước vào loạt tranh HCV ngang điểm với Thùy Trang , rồi thắng đối thủ đúng một điểm."
+    },
+    {
+     "t": "p",
+     "text": "Xạ thủ Nguyễn Thùy Dung là ai?"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Nguyễn Thùy Dung sinh ngày 25-9-1989. Từ năm 2013, cô đã có tên trong tổ súng ngắn nữ của đội tuyển quốc gia. Tại SEA Games 27 ở Myanmar năm ấy, hai người sát cánh cùng Dung là Hoa Hồng và Ngọc Mai. Bộ ba từng bị Singapore dẫn 12 điểm sau phần bắn chậm, trước khi lội ngược dòng giành HCV đồng đội 25m súng ngắn thể thao nữ."
+    },
+    {
+     "t": "p",
+     "text": "Ở giải vô địch quốc gia năm 2017, Thùy Dung lập kỷ lục nội dung 25m súng ngắn thể thao nữ với 30 điểm, vượt mốc cũ 24 điểm của Nguyễn Thị Hường. Một năm sau, tại Đại hội Thể thao toàn quốc 2018, cô giành HCB cùng nội dung, xếp sau Nguyễn Thu Vân."
+    },
+    {
+     "t": "p",
+     "text": "Đến SEA Games 33 năm 2025, Thùy Dung lại giành HCV đồng đội 25m, lần này cùng Thu Vinh và Thùy Trang."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 10-11 vừa qua ở Doha (Qatar), cô đóng góp 583 trong tổng số 1.745 điểm giúp bộ ba đoạt HCĐ thế giới. Đúng hai tuần sau, cả ba lại đứng chung bục huy chương ở TP.HCM, với người chị cả Thùy Dung ở vị trí cao nhất."
+    },
+    {
+     "t": "h",
+     "text": "Huy chương bắn súng ngày 24-11"
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung 25m súng ngắn thể thao nữ, Nguyễn Thùy Dung giành HCV, Nguyễn Thùy Trang đoạt HCB và Trịnh Thu Vinh nhận HCĐ. Công An Nhân Dân giành HCV đồng đội, TP.HCM đoạt HCB và Quân Đội nhận HCĐ."
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung 10m súng trường hơi nữ, Nguyễn Thị Thảo giành HCV, Nguyễn Khánh Linh đoạt HCB và Dương Hà My nhận HCĐ. Quân Đội đứng đầu nội dung đồng đội, tiếp theo là Hà Nội và TP.HCM."
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung 50m súng ngắn nam, Phạm Quang Huy giành HCV, Võ Minh Quang đoạt HCB và Nguyễn Thành Nhân nhận HCĐ. TP.HCM giành HCV đồng đội, Hải Phòng đoạt HCB và Quân Đội nhận HCĐ."
+    }
+   ]
+  }
+ ]
+}
