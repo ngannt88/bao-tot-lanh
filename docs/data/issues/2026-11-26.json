@@ -1,0 +1,2756 @@
+{
+ "date": "2026-11-26",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-26T08:52:31+07:00",
+ "sections": [
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  },
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  }
+ ],
+ "articles": [
+  {
+   "id": "28807a594825",
+   "order": 1,
+   "slug": "nguoi-dan-tram-tro-truoc-nhung-con-tom-su-khong-lo-o-ca-mau",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Người dân trầm trồ trước những con tôm sú \"khổng lồ\" ở Cà Mau",
+   "sapo": "(Dân trí) - Những con tôm sú nặng từ 200gram đến gần 400gram xuất hiện tại cuộc thi ở Cà Mau khiến nhiều người dân, du khách thích thú, bất ngờ khi lần đầu",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/nguoi-dan-tram-tro-truoc-nhung-con-tom-su-khong-lo-o-ca-mau-20261124163116945.htm",
+   "published": "2026-11-25T02:42:05+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 506,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/28807a594825-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/28807a594825-0.jpg",
+     "caption": "Con tôm sú có trọng lượng gần 400gram tham gia dự thi \"Con tôm sú nặng nhất Cà Mau năm 2026\" (Ảnh: Huỳnh Hải).",
+     "w": 1050,
+     "h": 700
+    },
+    {
+     "src": "img/2026-11-26/28807a594825-1.jpg",
+     "caption": "Một con tôm sú lớn có chiều dài hơn một gang tay (Ảnh: Huỳnh Hải).",
+     "w": 1105,
+     "h": 736
+    },
+    {
+     "src": "img/2026-11-26/28807a594825-2.jpg",
+     "caption": "Người dân đến tham quan thích thú chụp ảnh các con tôm \"khủng\" (Ảnh: Huỳnh Hải).",
+     "w": 1209,
+     "h": 806
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Những con tôm sú nặng từ 200gram đến gần 400gram xuất hiện tại cuộc thi ở Cà Mau khiến nhiều người dân, du khách thích thú, bất ngờ khi lần đầu tận mắt chứng kiến."
+    },
+    {
+     "t": "p",
+     "text": "Theo ghi nhận của phóng viên Dân trí , tại cuộc thi \"Con tôm sú nặng nhất Cà Mau năm 2026\", trong khuôn khổ Ngày hội văn hóa Việt Nam và Festival tôm Cà Mau lần thứ 2 (diễn ra từ ngày 21 đến 25/11), nhiều cá thể tôm sú có trọng lượng lớn được đưa đến dự thi."
+    },
+    {
+     "t": "p",
+     "text": "Tại khu vực trưng bày, con tôm sú nặng nhất khi kết thúc thời gian nhận tôm đạt 380,9gram. Hai cá thể xếp tiếp theo có trọng lượng lần lượt 362,9gram và 354,1gram. Ngoài ra, nhiều con tôm khác cũng nặng từ 200gram đến 350gram."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đây là những cá thể tôm sú có trọng lượng lớn, hiếm khi xuất hiện cùng lúc tại các khu chợ thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Theo tiết lộ của một chủ tôm, những cá thể tham gia cuộc thi là tôm bố mẹ, được đánh bắt ngoài vùng biển khơi."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người dân đến tham quan gian trưng bày không khỏi ngạc nhiên trước kích thước của những con tôm sú. Một số người cho biết đây là lần đầu tiên họ tận mắt nhìn thấy những cá thể tôm có trọng lượng lên đến vài trăm gram."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Tôm sú tôi thấy cũng khá nhiều nhưng chủ yếu là loại buôn bán ở chợ, trọng lượng không lớn. Khi đến đây tham quan, thấy những con tôm sú nặng đến mấy trăm gram, tôi khá bất ngờ, thú vị lắm\", chị Hồng, du khách đến từ phường Bạc Liêu, chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo Sở Nông nghiệp và Môi trường tỉnh Cà Mau, cuộc thi \"Con tôm sú nặng nhất Cà Mau năm 2026\" dành cho các tổ chức, cá nhân có tôm sú được nuôi hoặc khai thác trên địa bàn tỉnh, gồm hộ nuôi, hợp tác xã, doanh nghiệp, thương lái và cá nhân sở hữu tôm đáp ứng điều kiện tham gia."
+    },
+    {
+     "t": "p",
+     "text": "Tôm dự thi phải còn sống, khỏe mạnh, đầy đủ các bộ phận, không có dấu hiệu hư hỏng hoặc bị tác động làm thay đổi trọng lượng, hình dáng tự nhiên."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Tiêu chí xét giải chính là cá thể tôm có trọng lượng lớn nhất sẽ giành giải nhất, tiếp theo là giải nhì và giải ba. Ngoài ra, ban tổ chức còn trao giải phụ cho cá thể tôm sú có màu sắc đẹp nhất, dựa trên các tiêu chí về màu sắc tự nhiên, độ tươi sáng, hài hòa, đồng đều và tính thẩm mỹ."
+    },
+    {
+     "t": "p",
+     "text": "Theo ban tổ chức, cá thể tôm đạt giải nhất được thưởng 15 triệu đồng; giải nhì 10 triệu đồng, giải ba 5 triệu đồng. Giải phụ dành cho con tôm có màu sắc ấn tượng, đẹp nhất trị giá 5 triệu đồng."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả cuộc thi dự kiến được công bố vào tối 25/11."
+    }
+   ]
+  },
+  {
+   "id": "d5d98cac0b91",
+   "order": 2,
+   "slug": "loai-dong-vat-nao-xuat-hien-dau-tien-tren-trai-dat",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Loài động vật nào xuất hiện đầu tiên trên Trái Đất?",
+   "sapo": "(Dân trí) - Dù chưa thể xác định chính xác sinh vật đầu tiên thuộc loài nào, các nhà khoa học đang từng bước phác họa hình hài của tổ tiên chung của thế",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/khoa-hoc/loai-dong-vat-nao-xuat-hien-dau-tien-tren-trai-dat-20261125005756867.htm",
+   "published": "2026-11-25T08:05:58+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1476,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/d5d98cac0b91-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/d5d98cac0b91-0.jpg",
+     "caption": "Sứa lược phát sáng trong đại dương. Sinh vật đầu tiên của giới động vật có thể nhỏ bé, thân mềm và sống dưới biển, nhưng chưa thể xác định chính xác hình dáng của nó (Ảnh: Rob Atherton/iStock/Getty Images Plus).",
+     "w": 1280,
+     "h": 640
+    },
+    {
+     "src": "img/2026-11-26/d5d98cac0b91-1.jpg",
+     "caption": "Hai sơ đồ phả hệ minh họa hai giả thuyết tiến hóa: Bọt biển hay sứa lược mới là nhánh tách ra đầu tiên trên Trái Đất (ảnh: Matthew W. Brown).",
+     "w": 754,
+     "h": 424
+    },
+    {
+     "src": "img/2026-11-26/d5d98cac0b91-2.jpg",
+     "caption": "Đôi khi, xác của sinh vật cổ đại biến thành đá, tạo nên các mẫu hóa thạch (ảnh: cprevot/Wikimedia Commons, CC BY-SA).",
+     "w": 754,
+     "h": 566
+    },
+    {
+     "src": "img/2026-11-26/d5d98cac0b91-3.jpg",
+     "caption": "Sự kỳ diệu của điện thoại thông minh nằm ở việc gom nhiều công nghệ rời rạc vào chung một thiết bị (ảnh: Tetiana Strilchuk/iStock/Getty Images Plus).",
+     "w": 754,
+     "h": 503
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Dù chưa thể xác định chính xác sinh vật đầu tiên thuộc loài nào, các nhà khoa học đang từng bước phác họa hình hài của tổ tiên chung của thế giới động vật."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hãy tưởng tượng bạn có thể quay ngược thời gian, vượt qua kỷ nguyên khủng long cách đây khoảng 230 triệu năm, thời kỳ những động vật chân khớp đầu tiên phát triển mạnh, rồi tiến sâu hơn về quá khứ."
+    },
+    {
+     "t": "p",
+     "text": "Cách đây khoảng 558 triệu năm, bạn sẽ bắt gặp Dickinsonia , một sinh vật biển có cơ thể dẹt, hình bầu dục, trông giống chiếc bánh kếp. Đây là một trong những động vật đa bào lớn tuổi nhất có bằng chứng hóa thạch đáng tin cậy."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Dickinsonia chưa phải động vật đầu tiên. Những sinh vật thuộc giới động vật có thể đã xuất hiện từ hàng trăm triệu năm trước đó."
+    },
+    {
+     "t": "p",
+     "text": "Với các nhà sinh học, câu hỏi quan trọng không chỉ là động vật đầu tiên trông như thế nào, mà còn là quá trình chuyển đổi từ những sinh vật đơn bào thành cơ thể đa bào phức tạp đã diễn ra ra sao."
+    },
+    {
+     "t": "p",
+     "text": "Điều gì khiến một sinh vật được gọi là động vật?"
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người thường nhận diện động vật qua những đặc điểm như khả năng di chuyển, ăn uống và sinh sản. Tuy nhiên, những đặc điểm này không chỉ có ở động vật. Chẳng hạn, amip là sinh vật đơn bào nhưng vẫn có thể di chuyển và săn bắt thức ăn."
+    },
+    {
+     "t": "p",
+     "text": "Về mặt sinh học, động vật là những sinh vật đa bào, có các tế bào phối hợp với nhau để thực hiện những chức năng khác nhau. Chúng lấy chất dinh dưỡng từ nguồn thức ăn bên ngoài, thay vì tự tổng hợp chất hữu cơ nhờ ánh sáng như thực vật."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, động vật không nhất thiết phải có chân, mắt, não hay miệng. Một số nhóm động vật tồn tại mà không sở hữu bất kỳ cơ quan nào trong số này."
+    },
+    {
+     "t": "p",
+     "text": "Bọt biển hé lộ hình ảnh về động vật sơ khai"
+    },
+    {
+     "t": "p",
+     "text": "Bọt biển ngoài tự nhiên là hình mẫu đặc biệt để các nhà khoa học nghiên cứu về cấu trúc cơ thể động vật đơn giản."
+    },
+    {
+     "t": "p",
+     "text": "Chúng thường bám cố định dưới đáy biển, không có não, tim hay cơ bắp. Cơ thể được cấu tạo từ nhiều loại tế bào, trong đó có những tế bào tạo dòng nước đi qua các lỗ nhỏ để lọc thức ăn."
+    },
+    {
+     "t": "p",
+     "text": "Một loại tế bào đặc biệt của bọt biển là tế bào cổ áo ( choanocyte ), có một roi giúp tạo dòng nước và các tua nhỏ hỗ trợ giữ lại thức ăn."
+    },
+    {
+     "t": "p",
+     "text": "Điều thú vị là những tế bào này có hình dáng tương tự trùng roi cổ áo ( choanoflagellate ) - sinh vật đơn bào được xem là nhóm họ hàng còn tồn tại gần nhất với động vật."
+    },
+    {
+     "t": "p",
+     "text": "Khi quan sát trùng roi cổ áo tập hợp thành những nhóm tế bào, các nhà khoa học có thể tìm hiểu một số đặc điểm sinh học có liên quan đến quá trình tiến hóa từ sinh vật đơn bào sang cơ thể đa bào."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, điều đó không có nghĩa trùng roi cổ áo ngày nay chính là tổ tiên trực tiếp của động vật. Chúng và động vật hiện đại có chung một tổ tiên trong quá khứ."
+    },
+    {
+     "t": "p",
+     "text": "Bọt biển hay sứa lược xuất hiện trước?"
+    },
+    {
+     "t": "p",
+     "text": "Một trong những tranh luận lớn của giới khoa học là nhóm động vật nào phân nhánh đầu tiên trong cây tiến hóa."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Nếu truy ngược lịch sử tiến hóa của các loài động vật hiện đại, chúng đều có chung một tổ tiên. Tuy nhiên, các nhà khoa học chưa thống nhất được nhóm nào tách khỏi nhánh tổ tiên chung sớm nhất."
+    },
+    {
+     "t": "p",
+     "text": "Một giả thuyết cho rằng bọt biển là nhóm phân nhánh đầu tiên, trong khi tất cả những động vật còn lại, bao gồm con người, thuộc một nhánh khác."
+    },
+    {
+     "t": "p",
+     "text": "Giả thuyết đối lập cho rằng vị trí này thuộc về sứa lược ( ctenophore ) - nhóm động vật biển có cơ thể trong suốt, thường phát sáng và di chuyển nhờ các hàng lông bơi."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu công bố năm 2023 trên tạp chí Nature đã sử dụng dữ liệu về cấu trúc nhiễm sắc thể để ủng hộ giả thuyết sứa lược là nhánh động vật phân tách sớm nhất. Tuy nhiên, các nghiên cứu khác vẫn đưa ra kết quả khác biệt, khiến vấn đề chưa hoàn toàn ngã ngũ."
+    },
+    {
+     "t": "p",
+     "text": "Cần hiểu rằng phân nhánh sớm nhất không đồng nghĩa với việc nhóm động vật đó ngừng tiến hóa. Bọt biển, sứa lược và con người đều tiếp tục tiến hóa theo những hướng riêng sau khi tách khỏi tổ tiên chung."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, các loài bọt biển hay sứa lược hiện đại không phải bản sao của những sinh vật từng xuất hiện hàng trăm triệu năm trước."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học tìm kiếm dấu vết bằng cách nào?"
+    },
+    {
+     "t": "p",
+     "text": "Hóa thạch là một trong những nguồn bằng chứng quan trọng nhất để tìm hiểu lịch sử sự sống. Tuy nhiên, phương pháp này có những hạn chế đáng kể khi nghiên cứu động vật sơ khai."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Quá trình hóa thạch thường bảo tồn tốt những bộ phận cứng như xương, răng và vỏ. Trong khi đó, các sinh vật đầu tiên có thể có cơ thể nhỏ, mềm, không sở hữu những cấu trúc này nên dễ bị phân hủy trước khi kịp hóa thạch."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài hóa thạch, giới khoa học còn sử dụng dữ liệu di truyền để nghiên cứu lịch sử tiến hóa."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách so sánh DNA của những loài đang tồn tại, các nhà nghiên cứu có thể xác định mức độ khác biệt di truyền, từ đó xây dựng cây quan hệ tiến hóa và ước tính thời điểm các nhóm sinh vật phân tách."
+    },
+    {
+     "t": "p",
+     "text": "Phương pháp này được gọi là đồng hồ phân tử. Các kết quả ước tính còn phụ thuộc vào tốc độ biến đổi di truyền, mô hình phân tích và những mốc thời gian được xác định từ hóa thạch."
+    },
+    {
+     "t": "p",
+     "text": "Do đó, đồng hồ phân tử không thể xác định chính xác thời điểm động vật đầu tiên ra đời, nhưng giúp thu hẹp khoảng thời gian có khả năng xảy ra sự kiện này."
+    },
+    {
+     "t": "p",
+     "text": "Động vật hình thành từ những bộ công cụ sinh học có sẵn"
+    },
+    {
+     "t": "p",
+     "text": "Nhà sinh vật học Iñaki Ruiz-Trillo cùng cộng sự đã ví nguồn gốc động vật như chiếc điện thoại thông minh. Smartphone không được phát minh từ hai bàn tay trắng; máy ảnh, điện thoại, máy tính và internet đều đã tồn tại riêng lẻ trước đó. Bước đột phá nằm ở việc tích hợp tất cả vào một thiết bị duy nhất."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Động vật cũng tiến hóa y hệt vậy. Sự xuất hiện của động vật không nhất thiết là kết quả của việc phát minh ra những cơ chế sinh học hoàn toàn mới."
+    },
+    {
+     "t": "p",
+     "text": "Trên thực tế, nhiều thành phần cần thiết cho cơ thể đa bào như cơ chế kết dính tế bào, truyền tín hiệu và điều hòa hoạt động của gene đã tồn tại ở các sinh vật đơn bào từ trước."
+    },
+    {
+     "t": "p",
+     "text": "Qua quá trình tiến hóa, những cơ chế này được biến đổi và kết hợp, giúp các tế bào liên kết, chuyên biệt hóa và phối hợp hoạt động trong một cơ thể thống nhất."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà khoa học cho rằng tổ tiên chung của động vật hiện đại có thể là một sinh vật nhỏ bé, thân mềm, sống trong đại dương cổ đại. Tuy nhiên, hình dáng và cấu trúc cụ thể của sinh vật này vẫn chưa thể xác định."
+    },
+    {
+     "t": "p",
+     "text": "Về thời điểm xuất hiện, các bằng chứng hóa thạch và phân tích di truyền vẫn đưa ra những khoảng ước tính khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu công bố tháng 9/2026 trên tạp chí Science Advances cho rằng động vật có thể đã xuất hiện cách đây khoảng 800-700 triệu năm, sớm hơn đáng kể so với những ước tính dựa trên nhiều bằng chứng hóa thạch trước đây. Dù vậy, đây là kết quả phân tích đồng hồ phân tử, chưa phải bằng chứng trực tiếp về hóa thạch động vật ở thời kỳ đó."
+    },
+    {
+     "t": "p",
+     "text": "Như vậy, câu hỏi loài động vật nào xuất hiện đầu tiên trên Trái Đất vẫn chưa có lời giải cuối cùng. Nhưng việc tìm hiểu nguồn gốc của chúng đang giúp các nhà khoa học hiểu rõ hơn cách những tế bào đơn giản từng bước hình thành nên thế giới động vật đa dạng, trong đó có con người."
+    }
+   ]
+  },
+  {
+   "id": "3db507bf7515",
+   "order": 3,
+   "slug": "vi-sao-nguoi-tre-lai-danh-thoi-gian-giup-nhung-nguoi-xa-la",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Vì sao người trẻ lại dành thời gian giúp những người xa lạ?",
+   "sapo": "Giao tiếp không chỉ là cách nói chuyện, ứng xử hay tạo thiện cảm. Từ những câu chuyện đời thường đến sáng kiến cộng đồng, nhiều người trẻ đang cho thấy khả năng lắng nghe, kết nối và hợp tác có thể trở thành sức mạnh tạo nên những thay đổi tích cực cho xã hội.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/vi-sao-nguoi-tre-lai-danh-thoi-gian-giup-nhung-nguoi-xa-la-185261125163554327.htm",
+   "published": "2026-11-25T23:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1260,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/3db507bf7515-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/3db507bf7515-0.jpg",
+     "caption": "Theo các chuyên gia, dù trong học tập, công việc hay đời sống, văn hóa giao tiếp luôn đóng vai trò quan trọng",
+     "w": 1024,
+     "h": 573
+    },
+    {
+     "src": "img/2026-11-26/3db507bf7515-1.jpg",
+     "caption": "Văn hóa giao tiếp cởi mở, tôn trọng, biết lắng nghe sẽ giúp người trẻ tăng cường kết nối, hợp tác và phát huy khả năng sáng tạo trong môi trường công sở",
+     "w": 1024,
+     "h": 768
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giao tiếp không chỉ là cách nói chuyện, ứng xử hay tạo thiện cảm. Từ những câu chuyện đời thường đến sáng kiến cộng đồng, nhiều người trẻ đang cho thấy khả năng lắng nghe, kết nối và hợp tác có thể trở thành sức mạnh tạo nên những thay đổi tích cực cho xã hội."
+    },
+    {
+     "t": "h",
+     "text": "Từ những điều bình dị, kết nối muôn người"
+    },
+    {
+     "t": "p",
+     "text": "Không cần lời thoại cầu kỳ, những thước phim về bữa cơm quê , khu vườn nhỏ và người mẹ tảo tần vẫn có thể chạm đến trái tim hàng triệu khán giả. Đó là cách Đồng Văn Hùng (30 tuổi), chủ kênh \"Ẩm thực mẹ làm\", đưa hình ảnh gia đình, quê hương và văn hóa Việt Nam đến với bạn bè quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Hùng cho biết khi bắt đầu làm video, anh chỉ mong lưu giữ những khoảnh khắc bên mẹ. Chàng trai quê Thái Nguyên chưa từng nghĩ hình ảnh giản dị của người mẹ quanh năm gắn bó với ruộng đồng lại được yêu thương ở nhiều quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Theo Hùng, sự chân thật chính là ngôn ngữ kết nối vượt qua khác biệt về địa lý, văn hóa. Qua từng món ăn, anh muốn giới thiệu với khán giả quốc tế những phong tục, nét đẹp làng quê và tình cảm gia đình Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cũng bắt đầu từ cuộc trò chuyện đời thường, Nguyễn Phan Thanh Phượng (28 tuổi) và Nguyễn Phú Thịnh (32 tuổi) đã biến những buổi hẹn hò thành dự án \"Vẽ hạnh phúc\", giúp người lao động nghèo có thêm cơ hội cải thiện cuộc sống."
+    },
+    {
+     "t": "p",
+     "text": "Thường xuyên ghé các hàng quán ở TP.HCM, Phượng nói đôi bạn nhận ra nhiều cô chú bán hàng rất tận tâm nhưng việc buôn bán lại ế ẩm. Ban đầu, cả hai định thiết kế sẵn bảng hiệu để mang tặng. Tuy nhiên, lo sản phẩm không đúng ý của người nhận, Thịnh nảy ra ý tưởng mang dụng cụ đến tận nơi, vừa trò chuyện, vừa vẽ và chỉnh sửa bảng hiệu theo ý từng người."
+    },
+    {
+     "t": "p",
+     "text": "\"Không phải ai cũng lập tức đồng ý. Nhiều cô chú lo ngại thay bảng hiệu mới sẽ khiến khách quen không nhận ra hàng quán. Tụi mình phải kiên nhẫn giải thích rằng một tấm bảng rõ ràng, bắt mắt sẽ giúp người đi đường dễ nhận biết hơn, từ đó tăng cơ hội bán được hàng. Chính sự chân thành và tôn trọng đã giúp tụi mình dần nhận được niềm tin\", Phượng chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Phượng nhớ nhất câu chuyện chú Năm bán dừa tắc. Trước đây, mỗi ngày chú chỉ bán được 5 - 6 trái dừa, trong khi còn phải lo tiền thuê trọ và thuốc men cho bản thân cũng như người vợ bị tai biến. Sau khi có bảng hiệu mới, lượng dừa bán ra tăng lên khoảng 60 - 100 trái mỗi ngày. Nghe chú vui mừng kể chuyện cuộc sống bớt chật vật, cả hai không giấu được xúc động."
+    },
+    {
+     "t": "p",
+     "text": "Hiện tại, dự án đã thực hiện hơn hàng trăm bảng hiệu tại nhiều địa phương. Không chỉ vẽ miễn phí, họ còn kể lại câu chuyện của những người mưu sinh trên mạng xã hội, giúp họ tiếp cận thêm khách hàng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Khi tiếng nói người trẻ được lắng nghe"
+    },
+    {
+     "t": "p",
+     "text": "Nếu những câu chuyện trên cho thấy khả năng kết nối giữa cá nhân với cộng đồng, thì tại P.Dĩ An (TP.HCM), văn hóa đối thoại đang mở ra cơ hội để người trẻ trực tiếp tham gia giải quyết các vấn đề của địa phương. Chị Bùi Thị Phương Trâm, Bí thư Đoàn P.Dĩ An, cho biết địa phương xác định tổ chức Đoàn phải trở thành cầu nối tin cậy, đưa tiếng nói thanh thiếu nhi đến với cấp ủy, chính quyền."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những hoạt động khiến chị Trâm nhớ nhất là chương trình lãnh đạo phường gặp gỡ, lắng nghe thiếu nhi. Tại đây, 50 \"cử tri nhí\", đại diện cho hơn 40.000 thiếu nhi toàn phường, đã mạnh dạn trình bày những sáng kiến về an toàn, giáo dục và đời sống. Điều khiến chị Trâm ấn tượng là các ý tưởng ấy được lãnh đạo địa phương nghiêm túc tiếp nhận."
+    },
+    {
+     "t": "p",
+     "text": "Theo chị Trâm, điều quan trọng không chỉ là tạo diễn đàn để người trẻ lên tiếng, mà phải có cơ chế phản hồi và giải quyết đến cùng. Mỗi kiến nghị cần được phân công đầu mối, có lộ trình xử lý, thông tin kết quả rõ ràng."
+    },
+    {
+     "t": "p",
+     "text": "Chị Trâm cũng đề xuất mở rộng không gian thử nghiệm sáng kiến, kết nối nhà trường, doanh nghiệp và chính quyền để biến những ý tưởng khả thi thành sản phẩm phục vụ cộng đồng. Đặc biệt, người trẻ cần được khuyến khích tinh thần \"tự suy nghĩ, tự làm, tự thử nghiệm, sai và sửa\", thay vì lo sợ bị phán xét khi đưa ra điều mới mẻ."
+    },
+    {
+     "t": "p",
+     "text": "Từ góc nhìn giáo dục, thầy Đỗ Đức Anh, giáo viên Ngữ văn Trường THPT Bùi Thị Xuân (TP.HCM), cho rằng khả năng đối thoại cần được hình thành ngay từ nhà trường. Theo thầy Anh, nhà trường cần tạo điều kiện để học sinh thực hành cách trình bày quan điểm trái chiều, kiểm soát cảm xúc, nhận lỗi và tìm kiếm sự hỗ trợ khi xảy ra mâu thuẫn. Những kỹ năng ấy không chỉ giúp xây dựng môi trường học đường an toàn, mà còn chuẩn bị cho người trẻ khả năng hợp tác trong đời sống sau này."
+    },
+    {
+     "t": "p",
+     "text": "Ở môi trường doanh nghiệp, bà Trịnh Kim Trang, CEO Changmi Skin Beauty (TP.HCM), nhìn nhận văn hóa giao tiếp là nền tảng tạo dựng niềm tin với khách hàng, đối tác và đồng nghiệp. Theo bà Trang, người trẻ có nhiều ý tưởng sáng tạo, nhất là trong ứng dụng công nghệ, nhưng khả năng ấy khó phát huy nếu môi trường làm việc thiếu cởi mở. Doanh nghiệp cần khuyến khích nhân viên đề xuất cách làm mới, tranh luận có trách nhiệm và được trao cơ hội hiện thực hóa sáng kiến."
+    },
+    {
+     "t": "p",
+     "text": "\"Giao tiếp tốt không phải lúc nào cũng nói điều người khác muốn nghe, mà là biết trao đổi thẳng thắn, có trách nhiệm, kể cả khi xuất hiện bất đồng\", bà Trang chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tương tự, ông Lê Anh Tú, CEO iGem Agency (TP.HCM), cho rằng năng lực giao tiếp thể hiện từ những việc tưởng nhỏ như chào hỏi, báo cáo công việc, trao đổi qua nhóm trò chuyện đến phối hợp, đàm phán giữa các bộ phận."
+    },
+    {
+     "t": "p",
+     "text": "Trong quá trình quản lý nhân sự trẻ, ông Tú từng phải thường xuyên hướng dẫn nhân viên cách trao đổi, phản hồi và giữ tác phong chuyên nghiệp. Theo ông, giao tiếp thiếu hiệu quả không chỉ ảnh hưởng đến công việc nội bộ mà còn có thể tạo ra hiểu lầm với đối tác và các bên liên quan. Đặc biệt, khi AI ngày càng hỗ trợ nhiều công việc, ông Tú nhận định khả năng xây dựng quan hệ, thấu hiểu và phối hợp giữa con người càng cần được chú trọng."
+    },
+    {
+     "t": "p",
+     "text": "\"Trong môi trường chuyên nghiệp, mình cần vừa tự nhiên, thoải mái, vừa chuyên nghiệp\", ông Tú nói, đồng thời nhấn mạnh rằng khả năng kết nối và huy động nguồn lực chính là nền tảng để người trẻ phát triển năng lực lãnh đạo, đảm nhận trách nhiệm lớn hơn trong tương lai."
+    }
+   ]
+  },
+  {
+   "id": "fac6ac916d5c",
+   "order": 4,
+   "slug": "co-gai-quang-ninh-lam-mc-tu-nam-nhat-tot-nghiep-thu-khoa",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Cô gái Quảng Ninh làm MC từ năm nhất, tốt nghiệp thủ khoa",
+   "sapo": "Dù suýt lỡ suất tuyển thẳng và tự ti về giọng địa phương, Linh Phương vẫn tốt nghiệp thủ khoa Học viện Báo chí và Tuyên truyền, làm MC truyền hình từ cuối năm thứ nhất.",
+   "author": "Thanh Hằng",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/co-gai-quang-ninh-lam-mc-tu-nam-nhat-tot-nghiep-thu-khoa-5148841.html",
+   "published": "2026-11-25T22:51:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 940,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/fac6ac916d5c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-26/fac6ac916d5c-0.jpg",
+     "caption": "Linh Phương tại Lễ vinh danh thủ khoa của TP Hà Nội, ngày 18/11. Ảnh: Nhân vật cung cấp",
+     "w": 1020,
+     "h": 714
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dù suýt lỡ suất tuyển thẳng và tự ti về giọng địa phương, Linh Phương vẫn tốt nghiệp thủ khoa Học viện Báo chí và Tuyên truyền, làm MC truyền hình từ cuối năm thứ nhất."
+    },
+    {
+     "t": "p",
+     "text": "Lê Linh Phương, 22 tuổi, quê Quảng Ninh, tốt nghiệp chuyên ngành Báo Truyền hình với điểm trung bình 3,93/4 - dẫn đầu khóa tốt nghiệp năm nay của Học viện Báo chí và Tuyên truyền (AJC). Cô còn là một trong 99 thủ khoa mà thành phố Hà Nội vinh danh, tối 18/11."
+    },
+    {
+     "t": "p",
+     "text": "Vài ngày trước đó, trong Lễ kỷ niệm 950 năm thành lập Quốc Tử Giám, Phương được chọn đại diện thế hệ trẻ phát biểu sau nhiều vòng đánh giá về thành tích, cách nói chuyện và sự tự tin."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một niềm vinh dự rất lớn, là cơ hội có lẽ chỉ đến một lần trong đời\", Phương bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Báo chí ban đầu không phải nguyện vọng một của Phương khi học tại THPT chuyên Hạ Long. Nhưng khi vào đội tuyển Văn quốc gia, nữ sinh được \"trải nghiệm nhiều cuộc đời khác nhau\" qua việc phân tích tác phẩm, nên muốn làm nhà báo để \"tìm hiểu nhiều câu chuyện, cuộc đời\" và đi nhiều nơi."
+    },
+    {
+     "t": "p",
+     "text": "Với giải ba quốc gia, Phương đủ điều kiện xét tuyển thẳng vào AJC. Tuy nhiên, do sai sót khi làm thủ tục, cô suýt lỡ hẹn. Phương may mắn được cơ quan khảo thí ở địa phương và bộ phận tuyển sinh của trường xem xét lại, giành \"vé vớt\" vào trường."
+    },
+    {
+     "t": "p",
+     "text": "Nữ sinh tâm niệm \"sự chuẩn bị là quan trọng nhất\", nên chủ động đọc giáo trình, tài liệu trước buổi học. Phương còn nhắn tin hỏi giảng viên môn Triết cách học tốt môn này và các môn đại cương khác. Khi có lịch thi, cô làm đề cương rồi dành khoảng hai tuần để ôn tập."
+    },
+    {
+     "t": "p",
+     "text": "Theo Phương, đặc thù của truyền hình là sản phẩm được thực hiện theo ekip với nhiều công đoạn như lên kịch bản, biên tập, quay phim, dẫn chương trình, dựng phim. Ở các môn chuyên ngành, sinh viên thường làm việc theo nhóm 5-8 người để quen với mô hình sản xuất thực tế. Như khi làm trưởng nhóm tổ chức gameshow hẹn hò \"Love Lab - Thí nghiệm tình yêu\", cô tham gia cùng nhóm từ khâu ý tưởng, tiền kỳ, điều phối nhân sự đến truyền thông."
+    },
+    {
+     "t": "p",
+     "text": "\"Mình thường là người xuất hiện trên màn hình, nhưng sau mỗi môn học mới hiểu một chương trình 30 phút là công sức của rất nhiều người sau máy quay. Từ đó mình trân trọng họ hơn\", Phương nói."
+    },
+    {
+     "t": "p",
+     "text": "Môn khiến Phương vất vả nhất là Dựng phim vì thao tác kỹ thuật chưa nhanh, phải nhờ bạn bè hỗ trợ. Thử thách này lặp lại khi cô làm phóng sự tốt nghiệp về ngành than - biểu tượng của Quảng Ninh và cũng là nghề của bố."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì kể chung về nghề thợ mỏ, Phương khai thác khía cạnh an toàn lao động qua câu chuyện của Anh hùng Lao động Phạm Đình Duẩn - người có sáng kiến cải thiện vấn đề này. Dù được tạo điều kiện xuống hầm lò ghi hình, độ sâu Phương tiếp cận chỉ ở mức vừa phải so với công trình thực tế của nhân vật. Lo người xem khó hình dung, cô dành nhiều đêm tra cứu tài liệu, tự thiết kế hình ảnh chuyển động để thể hiện ý tưởng. Kết quả, tác phẩm tốt nghiệp của Phương đạt 9,6/10 điểm."
+    },
+    {
+     "t": "p",
+     "text": "TS Nguyễn Thị Thu Trà, giảng viên Viện Báo chí - Truyền thông, là chủ nhiệm và hướng dẫn Linh Phương thực hiện tác phẩm tốt nghiệp. Cô giáo cho biết Phương là lớp phó học tập, luôn chăm chỉ, cầu thị, nghiêm túc với việc học và tích cực tham gia hoạt động tập thể."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Trà, Phương có khả năng dẫn chương trình, tư duy biên tập khá tốt, biết cách lựa chọn, sắp xếp và tổ chức thông tin."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi đánh giá cao sự tìm tòi, trách nhiệm của em trong suốt quá trình học cũng như khi thực hiện tác phẩm. Đây là những yếu tố quan trọng để em tiếp tục phát triển với nghề\", cô nói."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài học, Phương tham gia câu lạc bộ MC của trường và kiên trì sửa phát âm do quen giọng địa phương. Cuối năm thứ nhất, nữ sinh được nhận cộng tác vị trí MC của kênh Truyền hình Quốc hội. Đây là \"hình ảnh truyền hình\" đầu tiên của Phương, giúp cô tự tin hơn trước đám đông, biết cách kiểm soát giọng nói, biểu cảm, tác phong và ứng biến linh hoạt khi ghi hình. Sau đó, Phương vượt cuộc thi tuyển và trở thành MC, biên tập viên của kênh Truyền hình Quốc phòng Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "\"Tất cả cơ hội đều đến từ việc mình cố gắng để tốt hơn. Mình có thời gian, tuổi trẻ thì cần phải học thôi\", Phương nói."
+    },
+    {
+     "t": "p",
+     "text": "Từ đầu tháng 10, Phương về quê, thử việc tại phòng Thời sự, Đài Truyền hình Quảng Ninh. Thuận lợi của cô là đã có kinh nghiệm làm nghề, được giao dẫn một số chương trình lớn như Gặp gỡ Indonesia 2026, Tuần lễ số Quốc tế Việt Nam 2026."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian tới, Phương muốn tiếp tục theo đuổi công việc này, song song dự định trở thành người sáng tạo nội dung để giúp các bạn trẻ hình dung rõ hơn về nghề."
+    }
+   ]
+  },
+  {
+   "id": "7e8eefbf58f4",
+   "order": 5,
+   "slug": "ba-hoc-sinh-doi-mua-giup-nguoi-phu-nu-nga-xe-gay-sot",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Ba học sinh đội mưa giúp người phụ nữ ngã xe gây sốt",
+   "sapo": "(Dân trí) - Thấy một phụ nữ lớn tuổi bị ngã xe đạp, hàng hóa văng xuống đường giữa trời mưa, 3 học sinh lớp 8 ở Đà Nẵng vội chạy đến giúp đỡ, thu gom và sắp",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/giao-duc/ba-hoc-sinh-doi-mua-giup-nguoi-phu-nu-nga-xe-gay-sot-20261125181915013.htm",
+   "published": "2026-11-25T12:42:05+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 636,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/7e8eefbf58f4-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/7e8eefbf58f4-0.jpg",
+     "caption": "Khoảnh khắc 3 học sinh giúp đỡ người phụ nữ lớn tuổi (Ảnh: Anh Khoa).",
+     "w": 534,
+     "h": 356
+    },
+    {
+     "src": "img/2026-11-26/7e8eefbf58f4-1.jpg",
+     "caption": "Em Nguyễn Văn Duy Đạt, Phan Phước Nhân và Trương Tấn Tuấn Đạt (lần lượt từ trái qua phải) (Ảnh: Hoài Sơn).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Thấy một phụ nữ lớn tuổi bị ngã xe đạp, hàng hóa văng xuống đường giữa trời mưa, 3 học sinh lớp 8 ở Đà Nẵng vội chạy đến giúp đỡ, thu gom và sắp xếp lại đồ đạc."
+    },
+    {
+     "t": "p",
+     "text": "Ngày 25/11, clip ghi lại cảnh 3 học sinh ở Đà Nẵng cặm cụi giúp đỡ một người phụ nữ lớn tuổi bị ngã xe giữa trời mưa đã thu hút sự quan tâm lớn của cộng đồng mạng."
+    },
+    {
+     "t": "p",
+     "text": "Anh Trịnh Võ Anh Khoa (trú phường Điện Bàn Đông, thành phố Đà Nẵng), người quay clip, cho biết sự việc xảy ra ngày 28/10, trước Trường THCS Dũng Sĩ Điện Ngọc (phường Điện Bàn Đông)."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm đó, trời đang mưa. Anh Khoa ở trong nhà chạy ra cổng lấy hàng thì tình cờ chứng kiến hành động đẹp của 3 học sinh nên dùng điện thoại ghi lại."
+    },
+    {
+     "t": "p",
+     "text": "“Thấy các em dễ thương, có hành động tốt nên tôi quay lại để chia sẻ, lan tỏa việc làm ý nghĩa này”, anh Khoa nói."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Đào Văn Quang, Hiệu trưởng Trường THCS Dũng Sĩ Điện Ngọc, xác nhận 3 học sinh trong clip là Trương Tấn Tuấn Đạt, Nguyễn Văn Duy Đạt và Phan Phước Nhân, cùng học lớp 8/5 của trường."
+    },
+    {
+     "t": "p",
+     "text": "Em Trương Tấn Tuấn Đạt kể, hôm đó, sau giờ tan học, trời đổ mưa nên cả nhóm vội tìm chỗ trú. Đúng lúc này, một phụ nữ lớn tuổi làm nghề thu mua ve chai đi xe đạp qua đoạn đường trơn, không may bị trượt ngã. Cú ngã khiến hàng hóa phía sau xe bung ra, rơi xuống đường."
+    },
+    {
+     "t": "p",
+     "text": "Nghe tiếng động lớn, Tuấn Đạt cùng Duy Đạt và Phước Nhân vội chạy ra giúp đỡ. Sau khi đỡ người phụ nữ đứng dậy, Phước Nhân giữ xe, còn Tuấn Đạt và Duy Đạt thu gom, sắp xếp rồi buộc lại hàng hóa giúp bà."
+    },
+    {
+     "t": "p",
+     "text": "“Giúp bà xong, cả 3 chúng em đều ướt sũng. Tuy nhiên, em rất vui vì đã giúp được bà. Ở trường, chúng em luôn được thầy cô giáo dục phải biết quan tâm, giúp đỡ người lớn tuổi”, Tuấn Đạt chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Thầy Đào Văn Quang cho rằng, việc làm của 3 học sinh tuy giản dị nhưng thể hiện lòng nhân ái, sự quan tâm và tinh thần trách nhiệm với những người xung quanh. Đáng quý là các em chủ động giúp đỡ người gặp khó khăn, không đắn đo hay chờ người khác nhắc nhở."
+    },
+    {
+     "t": "p",
+     "text": "Theo thầy Quang, bên cạnh truyền đạt kiến thức, nhà trường luôn chú trọng giáo dục đạo đức, lối sống, giúp học sinh biết yêu thương, sẻ chia và có trách nhiệm với cộng đồng. Hành động của 3 em là minh chứng cho những giá trị đó."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau khi clip được chia sẻ, nhiều người bày tỏ sự cảm kích và dành lời khen cho hành động của các học sinh."
+    },
+    {
+     "t": "p",
+     "text": "Tài khoản Nguyễn Tùng cho rằng, dù chưa biết sau này các em có thành công hay không, nhưng những hành động đẹp hôm nay cho thấy các em đã \"thành nhân\" khi là những người sống nhân ái, biết yêu thương mọi người."
+    },
+    {
+     "t": "p",
+     "text": "Tài khoản Đều Phạm cũng nhấn mạnh sự tử tế thường bắt đầu từ những việc nhỏ nhất. Trong khi đó tài khoản Phạm Kiều bày tỏ mong muốn các em sẽ luôn giữ được tấm lòng tốt bụng ấy khi trưởng thành."
+    },
+    {
+     "t": "p",
+     "text": "Nhớ về câu chuyện tương tự, tài khoản Cherry Nguyễn chia sẻ từng được một nhóm học sinh tiểu học và THCS giúp đỡ khi bị ngã xe máy. Dù sự việc đã qua nhiều năm, người này vẫn nhớ cảm giác ấm áp trước sự quan tâm chân thành của những đứa trẻ xa lạ."
+    }
+   ]
+  },
+  {
+   "id": "8bc3484b4ca5",
+   "order": 6,
+   "slug": "bo-luong-vai-chuc-trieu-o-tp-hcm-nu-ky-su-ve-que-lam-mat-ong",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Bỏ lương vài chục triệu ở TP.HCM, nữ kỹ sư về quê làm mật ong lên men",
+   "sapo": "Từ bỏ công việc kỹ sư lập trình ở TP.HCM, Nguyễn Phương Quyên về quê khởi nghiệp, ứng dụng công nghệ lên men và chuyển đổi số để phát triển sản phẩm từ mật ong, nghệ, gừng, nhàu.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/bo-luong-vai-chuc-trieu-o-tphcm-nu-ky-su-ve-que-lam-mat-ong-len-men-185261125105201524.htm",
+   "published": "2026-11-25T05:03:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 872,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-0.jpg",
+     "caption": "Nguyễn Phương Quyên giới thiệu sản phẩm lên men đến khách hàng",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-1.jpg",
+     "caption": "Sản phẩm nghệ mật ong lên men",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-2.jpg",
+     "caption": "Ba sản phẩm chủ lực của cơ sở gồm nghệ, gừng và nhàu mật ong lên men",
+     "w": 896,
+     "h": 717
+    },
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-3.jpg",
+     "caption": "Sản phẩm nhàu mật ong lên men",
+     "w": 1280,
+     "h": 1024
+    },
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-4.jpg",
+     "caption": "Sản phẩm nghệ mật ong lên men",
+     "w": 1280,
+     "h": 1024
+    },
+    {
+     "src": "img/2026-11-26/8bc3484b4ca5-5.jpg",
+     "caption": "Sản phẩm gừng mật ong lên men",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Từ những mẻ lên men thất bại"
+    },
+    {
+     "t": "p",
+     "text": "Năm 2025, sau nhiều năm làm việc tại TP.HCM, Nguyễn Phương Quyên quyết định trở về quê ở phường Mỹ Phong, tỉnh Đồng Tháp để khởi nghiệp . Rời công việc kỹ sư lập trình với mức thu nhập ổn định vài chục triệu đồng mỗi tháng, Quyên bắt đầu hành trình mới trong lĩnh vực nông sản và dược liệu - một hướng đi gần như trái ngược với chuyên môn trước đây."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi muốn làm một sản phẩm từ những nguyên liệu quen thuộc của quê hương nhưng phải có điểm khác biệt, có câu chuyện và quan trọng là tạo được giá trị thực tế\", Quyên chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tháng 3.2025, cô gái miền Tây bắt tay nghiên cứu công nghệ lên men mật ong kết hợp nam dược. Không có nền tảng chuyên sâu về công nghệ sinh học, Quyên vừa tham gia các khóa đào tạo, vừa tìm đến kỹ sư và chuyên gia để học hỏi."
+    },
+    {
+     "t": "p",
+     "text": "Thời gian đầu, hành trình khởi nghiệp không ít lần gặp khó. Nhiều mẻ lên men không đạt yêu cầu, thậm chí phải bỏ toàn bộ thành phẩm sau nhiều ngày chờ đợi. Mỗi lần thất bại, Quyên lại điều chỉnh nguyên liệu, quy trình và điều kiện lên men, đồng thời nhờ chuyên gia hỗ trợ kiểm soát chất lượng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau nhiều lần thử nghiệm, dòng sản phẩm lên men dần hoàn thiện gồm: nghệ mật ong lên men, gừng mật ong lên men và nhàu mật ong lên men. Trong đó, nhàu được kết hợp với mật ong hoa dừa; nghệ và gừng sử dụng mật ong hoa nhãn."
+    },
+    {
+     "t": "p",
+     "text": "Theo Quyên, thách thức lớn nhất là kiểm soát quá trình lên men để sản phẩm ổn định, đồng thời giữ được đặc tính của nguyên liệu. Quyên hướng đến cách kết hợp mật ong và dược liệu nhằm tạo ra sản phẩm thuận tiện hơn trong sử dụng. Đến nay, cơ sở sản xuất đã được cấp giấy chứng nhận đủ điều kiện an toàn thực phẩm; sản phẩm nghệ mật ong lên men đã có hồ sơ tự công bố. Trong 6 tháng, 1.000 chai sản phẩm đầu tiên được tiêu thụ."
+    },
+    {
+     "t": "h",
+     "text": "Đưa công nghệ số vào hành trình khởi nghiệp"
+    },
+    {
+     "t": "p",
+     "text": "Tận dụng nền tảng công nghệ thông tin từng theo đuổi, Quyên không chỉ ứng dụng công nghệ vào sản xuất mà còn đưa chuyển đổi số vào hoạt động kinh doanh."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Quyên sử dụng trí tuệ nhân tạo (AI) để hỗ trợ tìm kiếm, tổng hợp tài liệu, nghiên cứu thị trường, xây dựng hình ảnh và nội dung quảng bá. Đồng thời, chị xây dựng cơ sở dữ liệu theo dõi thông tin nguyên liệu, quá trình sản xuất và vòng đời sản phẩm."
+    },
+    {
+     "t": "p",
+     "text": "Quyên cho biết, sản phẩm được giới thiệu trên mạng xã hội, các sàn thương mại điện tử và tại những sự kiện, hội chợ, triển lãm. Sau hơn một năm phát triển, nam dược lên men Be từng bước tiếp cận khách hàng tại Đồng Tháp, TP.HCM, Đồng Nai và nhiều địa phương qua các nền tảng trực tuyến."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Không dừng ở việc tìm đầu ra, Quyên còn định hướng mô hình theo hướng sản xuất xanh, tuần hoàn. Xưởng ưu tiên sử dụng điện mặt trời, từng bước thay bao bì nhựa bằng chai thủy tinh. Bã hữu cơ sau xử lý nguyên liệu được tận dụng ủ thành phân bón sinh học phục vụ cây trồng."
+    },
+    {
+     "t": "p",
+     "text": "Quyên dự kiến triển khai mô hình refill (châm thêm sản phẩm vào chai cũ), khuyến khích khách hàng tái sử dụng bao bì, giảm rác thải. \"Làm sản phẩm không chỉ quan tâm đến việc bán được bao nhiêu. Tôi muốn trong quá trình sản xuất cũng phải tính đến chuyện giảm chất thải và tận dụng những gì có thể tái sử dụng\", Quyên chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "h",
+     "text": "T ận dụng nguyên liệu địa phương"
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh phát triển cơ sở riêng, Quyên còn tích cực tham gia phong trào thanh niên tại địa phương. Hiện Quyên là Phó chủ nhiệm CLB Thanh niên khởi nghiệp phường Mỹ Phong, thường xuyên chia sẻ kinh nghiệm đưa nông sản lên môi trường số, xây dựng hình ảnh sản phẩm và ứng dụng AI trong nghiên cứu thị trường, quảng bá."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Lê Vương Quốc Hùng, Chủ nhiệm CLB Khởi nghiệp phường Mỹ Phong, mô hình của Quyên có điểm mới khi kết hợp nguyên liệu tự nhiên với công nghệ lên men, đồng thời chú trọng sản xuất xanh và ứng dụng công nghệ số. \"Mô hình tận dụng được nguyên liệu tại địa phương, tạo ra sản phẩm có giá trị gia tăng. Điều quan trọng là cần tiếp tục hoàn thiện chất lượng và mở rộng thị trường\", anh Hùng nhận xét."
+    },
+    {
+     "t": "p",
+     "text": "Từ một kỹ sư công nghệ thông tin, Quyên chọn trở về quê, bắt đầu lại với những nguyên liệu gần gũi. Hành trình ấy không chỉ là câu chuyện khởi nghiệp của một người trẻ mà còn gợi mở hướng khai thác giá trị nông sản địa phương bằng tri thức, công nghệ và tư duy sản xuất bền vững."
+    }
+   ]
+  },
+  {
+   "id": "007ad6015215",
+   "order": 7,
+   "slug": "chuyen-bat-ngo-ve-anh-tay-lam-bung-be-pho-tai-quan-an-o-ha-n",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "Chuyện bất ngờ về anh Tây làm bưng bê phở tại quán ăn ở Hà Nội",
+   "sapo": "(Dân trí) - Thích cuộc sống nhộn nhịp trong ngõ nhỏ ở Hà Nội, anh Michael (quốc tịch Anh) xin làm nhân viên bưng bê không lương ở 2 quán tại phố Trần Xuân",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/chuyen-bat-ngo-ve-anh-tay-lam-bung-be-pho-tai-quan-an-o-ha-noi-20261124151008916.htm",
+   "published": "2026-11-25T03:06:15+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1268,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/007ad6015215-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/007ad6015215-0.jpg",
+     "caption": "Anh Michael luôn niềm nở, vui vẻ giao lưu với khách trong quá trình làm việc (Nguồn: Trang Ngoc Linh).",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/007ad6015215-1.jpg",
+     "caption": "Anh chụp ảnh cùng những người dân trong ngõ trên phố Trần Xuân Soạn (Ảnh: Nhân vật cung cấp).",
+     "w": 646,
+     "h": 404
+    },
+    {
+     "src": "img/2026-11-26/007ad6015215-2.jpg",
+     "caption": "Anh Michael thích cảnh quan thiên nhiên tươi đẹp của Việt Nam (Ảnh: Nhân vật cung cấp).",
+     "w": 1019,
+     "h": 906
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Thích cuộc sống nhộn nhịp trong ngõ nhỏ ở Hà Nội, anh Michael (quốc tịch Anh) xin làm nhân viên bưng bê không lương ở 2 quán tại phố Trần Xuân Soạn để gặp gỡ mọi người và quan sát cách chế biến đồ ăn."
+    },
+    {
+     "t": "p",
+     "text": "Bê phở tại quán ở Hà Nội"
+    },
+    {
+     "t": "p",
+     "text": "Thời gian gần đây, nhiều thực khách đến ăn phở và bún đậu mắm tôm tại ngõ 25 phố Trần Xuân Soạn (Hà Nội), bất ngờ khi thấy người đàn ông nước ngoài tất bật bê đồ ăn rất chuyên nghiệp."
+    },
+    {
+     "t": "p",
+     "text": "Với dáng người cao ráo, đeo chiếc tạp dề trước ngực, anh thoăn thoắt chuyển các tô phở nóng hổi đến từng bàn. Dù bất đồng ngôn ngữ, người đàn ông luôn nở nụ cười thân thiện với thực khách."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh của anh Tây làm việc nhanh nhẹn được chia sẻ lên mạng xã hội nhận về nhiều lượt tương tác."
+    },
+    {
+     "t": "p",
+     "text": "Theo tìm hiểu, người đàn ông bê phở và bún đậu mắm tôm trong ảnh là anh Michael (quốc tịch Anh)."
+    },
+    {
+     "t": "p",
+     "text": "Michael cho biết, anh vừa rời Việt Nam, đến Ai Cập du lịch. Dự kiến, nam du khách sẽ quay lại Hà Nội vào năm 2027."
+    },
+    {
+     "t": "p",
+     "text": "Theo Michael, trong lần đến Việt Nam đầu tiên hồi năm 2025, anh từng thuê nhà trong ngõ trên phố Trần Xuân Soạn."
+    },
+    {
+     "t": "p",
+     "text": "Hàng ngày, đi qua quán phở trong ngõ, không khí nhộn nhịp và mùi thơm tỏa ra thu hút nam du khách. Anh nảy ra ý tưởng xin chủ quán làm việc không lương, quan sát cách chế biến món ăn Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi mong muốn làm việc ở đây vì thích tìm hiểu văn hóa và ẩm thực. Ban đầu, chủ quán khá bất ngờ nhưng thấy tôi hào hứng, mọi người đều chào đón. Từ đó, mỗi lần đến Việt Nam, tôi đều làm việc tại quán bằng tất cả niềm đam mê\", anh nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Mỗi sáng, anh có mặt tại quán phở từ sáng sớm, giúp dọn dẹp, kê bàn ghế, chuẩn bị đón khách. Trong quá trình làm việc, anh tỉ mỉ quan sát cách chủ quán nấu nước dùng, thái thịt bò..."
+    },
+    {
+     "t": "p",
+     "text": "Theo Michael, buổi sáng là thời điểm quán phở nhộn nhịp nhất. Nhiều hôm, khách xếp hàng chờ đến lượt ăn, công việc phục vụ liên tục, không có thời gian nghỉ ngơi."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 12h, quán phở hết hàng, Michael chuyển sang phụ giúp công việc ở quán bún đậu mắm tôm gần đó."
+    },
+    {
+     "t": "p",
+     "text": "Dù bận rộn, người đàn ông nước ngoài không cảm thấy mệt mỏi. Anh xem đây là cơ hội để tiếp xúc với người dân, trò chuyện và hiểu thêm về nhịp sống Hà Nội."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi rất thích được giao tiếp với người dân địa phương, trở thành một phần trong nhịp sống của cộng đồng nơi đây. Nhờ làm việc này, tôi có thêm những người bạn mới\", Michael chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những rào cản lớn nhất của anh là ngôn ngữ. Để khắc phục, Michael sử dụng phần mềm dịch trên điện thoại, kết hợp cử chỉ và những nụ cười."
+    },
+    {
+     "t": "p",
+     "text": "\"Chỉ cần một nụ cười hay vài cử chỉ đủ giao tiếp trong quá trình làm việc. Tôi không biết tiếng Việt nhưng vẫn cảm nhận được tình cảm của mọi người\", anh nói."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với phóng viên Dân trí , anh Hoàng Nhật Chung (con trai chủ quán phở trong ngõ 125 Trần Xuân Soạn), cho biết từ lần đầu tiếp xúc với anh Michael, mọi người đã cảm nhận ở nam du khách sự nhiệt tình, vui vẻ và thân thiện."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "\"Mỗi lần đến Việt Nam, anh ấy đều đến quán phở và quán bún đậu mắm tôm, bê đồ ăn như một nhân viên. Michael hoà đồng nên mọi người đều quý mến\", anh Chung nói."
+    },
+    {
+     "t": "p",
+     "text": "Được biết, quán phở này được bố mẹ anh Chung mở từ năm 1990. Trước đó, bà ngoại anh chuyên nấu phở tại cửa hàng mậu dịch ở phố Tràng Tiền, sau đó truyền nghề lại cho con dâu và con trai."
+    },
+    {
+     "t": "p",
+     "text": "Niềm đam mê với ẩm thực và tình yêu Việt Nam"
+    },
+    {
+     "t": "p",
+     "text": "Từ khi còn nhỏ, anh Michael đã thích nấu ăn. Tốt nghiệp trung học, anh lựa chọn học ngành nghệ thuật, còn kiến thức về nấu nướng do bản thân tự tìm hiểu."
+    },
+    {
+     "t": "p",
+     "text": "Hiện, Michael nhận nấu đồ ăn cho các sự kiện, gia đình hoặc những nhóm bạn muốn tổ chức tiệc liên hoan."
+    },
+    {
+     "t": "p",
+     "text": "Anh quan niệm, ẩm thực không đơn thuần là chuyện ăn uống mà còn gắn liền với lịch sử, văn hóa và sự kết nối giữa con người."
+    },
+    {
+     "t": "p",
+     "text": "\"Ẩm thực không chỉ là thức ăn hay hương vị. Ở bất kỳ nền văn hóa nào trên thế giới, mọi người có thể xích lại gần nhau thông qua việc nấu nướng và ăn uống\", Michael bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trước khi đến Hà Nội, anh từng thưởng thức các món ăn Việt Nam tại nhà hàng ở châu Âu."
+    },
+    {
+     "t": "p",
+     "text": "Trong thời gian phụ giúp quán phở, anh quan sát cách chuẩn bị nguyên liệu, nấu nước dùng kỳ công."
+    },
+    {
+     "t": "p",
+     "text": "Để có được nồi nước dùng ngon, người nấu phải thực hiện nhiều công đoạn, mất khoảng 16-18 giờ. Các nguyên liệu như thịt bò, gừng và hành được sử dụng để tạo nên hương vị đặc trưng."
+    },
+    {
+     "t": "p",
+     "text": "\"Phở không đơn thuần là một món ăn mà còn chứa đựng những giá trị văn hóa được người Việt gìn giữ qua hàng trăm năm. Cách nêm nếm gia vị, chuẩn bị nguyên liệu làm ra bát phở chứa đựng tâm huyết của người bán\", anh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Theo Michael, anh không học nấu phở để mở nhà hàng tại châu Âu. Bản thân muốn tìm hiểu về nét đặc sắc của món ăn này, thỏa mãn niềm đam mê và giới thiệu ẩm thực Việt Nam đến bạn bè."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài phở, anh đặc biệt yêu thích các món cuốn của Việt Nam. Điều gây ấn tượng với Michael là cách kết hợp các loại rau thơm, nước chấm và nguyên liệu tạo nên sự cân bằng hương vị."
+    },
+    {
+     "t": "p",
+     "text": "Nam du khách dành lời khen cho món bún chả với nước chấm có vị chua từ giấm, kết hợp cùng thịt và các loại rau ăn kèm \"đánh thức\" vị giác. Đây là một trong những món ăn được Michael lựa chọn khi du lịch Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Được biết, Michael lần đầu đến Việt Nam hồi năm 2025. Gần 2 năm qua, anh đã du lịch Hà Nội 4 lần."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi quay lại nhiều lần vì rất thích được giúp đỡ mọi người, gặp gỡ cư dân sống trong ngõ ở Hà Nội. Người Việt Nam tốt bụng, thân thiện khiến các du khách cảm thấy thân quen như trong một đại gia đình\", Michael tâm sự."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài Hà Nội, Michael từng ghé thăm Tam Cốc (Ninh Bình) và Pù Luông (Thanh Hoá). Tuy nhiên, đường phố nhộn nhịp, các công trình trăm năm tuổi và những hàng cổ thụ của Thủ đô để lại trong lòng anh nhiều cảm xúc nhất."
+    },
+    {
+     "t": "p",
+     "text": "Từ tình yêu Việt Nam của bản thân, anh đã giới thiệu đất nước này với bạn bè, người thân. Các thành viên trong gia đình anh từng đến Hà Nội, lưu lại những kỷ niệm đẹp ở đây."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi thường kể với bạn bè ở châu Âu về nguồn năng lượng đầy sức sống của Hà Nội. Tôi còn khuyên họ nên đến Việt Nam du lịch, sinh sống lâu dài nếu có thể\", anh nói vui."
+    }
+   ]
+  },
+  {
+   "id": "4302aeead644",
+   "order": 8,
+   "slug": "ngoi-nha-tren-cay-la-do-nhu-buoc-ra-tu-truyen-co-tich-o-bao",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Ngôi nhà trên cây lá đỏ như bước ra từ truyện cổ tích ở Bảo Lộc",
+   "sapo": "Lâm Đồng Nằm ở độ cao khoảng 1.100 m trên núi Đại Bình, ngôi nhà gỗ nép dưới tán cây lôi khoai đỏ rực, chỉ khoe sắc khoảng một tháng mỗi năm, trở thành điểm check-in thu hút du khách ở Bảo Lộc.",
+   "author": "Mai Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/ngoi-nha-tren-cay-la-do-nhu-buoc-ra-tu-truyen-co-tich-o-bao-loc-5148386.html",
+   "published": "2026-11-25T05:02:57+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 476,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/4302aeead644-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-26/4302aeead644-0.jpg",
+     "caption": "Ngôi nhà trên cây ở núi Đại Bình, Bảo Lộc. Video: Mai Anh",
+     "w": 1080,
+     "h": 1920
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lâm Đồng Nằm ở độ cao khoảng 1.100 m trên núi Đại Bình, ngôi nhà gỗ nép dưới tán cây lôi khoai đỏ rực, chỉ khoe sắc khoảng một tháng mỗi năm, trở thành điểm check-in thu hút du khách ở Bảo Lộc."
+    },
+    {
+     "t": "p",
+     "text": "Ngôi nhà khoảng 7 m2, được dựng trên thân cây lôi khoai có tuổi đời ước tính 50 - 60 năm. Tán cây xòe rộng, phủ lên mái nhà gỗ nhỏ, nổi bật giữa màu xanh của núi rừng."
+    },
+    {
+     "t": "p",
+     "text": "Cây nằm trong khu đất riêng của một gia đình ở Bảo Lộc. Khi mua đất, ấn tượng với sắc lá đặc biệt, gia chủ quyết định giữ lại cây và xây một ngôi nhà trên cây như trong truyện cổ tích, thỏa mong ước của hai con nhỏ."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Công trình hoàn thiện cách đây một năm, với chi phí hơn 80 triệu đồng. Gia đình sử dụng nơi này làm không gian nghỉ ngơi cuối tuần, không kinh doanh dịch vụ lưu trú nhưng vẫn tạo điều kiện để du khách đến tham quan, chụp ảnh."
+    },
+    {
+     "t": "p",
+     "text": "Theo anh Phạm Thế Sơn, người sáng tạo nội dung về du lịch Bảo Lộc, cây lá đỏ là lôi khoai, còn gọi là lim lửa hay cây lá đỏ. Loài cây thân gỗ này mọc tự nhiên, tập trung nhiều ở khu vực núi Đại Bình."
+    },
+    {
+     "t": "p",
+     "text": "Lôi khoai thường bị nhầm với phong lá đỏ, song có sự khác biệt về hình dáng và màu sắc. \"Lá non của cây lôi khoai có màu đỏ tươi, trong khi lá phong thường có sắc đỏ thẫm. Trên mỗi cành cây có nhiều lá nhỏ\", anh Sơn nói."
+    },
+    {
+     "t": "p",
+     "text": "Anh Sơn cho biết sắc đỏ chỉ xuất hiện trong khoảng một tháng, sau đó cây rụng lá và đâm chồi mới rồi chuyển dần sang màu nâu rồi xanh lục. Thời điểm thay lá không đồng nhất giữa các cây, phụ thuộc vào lượng mưa, độ cao và điều kiện thời tiết tại từng khu vực."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài sắc lá đặc biệt, vị trí của cây cũng là một trong những yếu tố thu hút du khách. Nằm ở độ cao khoảng 1.100 m, khu vực này có tầm nhìn ra thành phố Bảo Lộc và các dãy núi, gần quần thể homestay săn mây trên núi Đại Bình. Du khách có thể kết hợp ngắm cây lá đỏ, đón bình minh và săn mây vào sáng sớm."
+    },
+    {
+     "t": "p",
+     "text": "Từ khi cây bắt đầu chuyển đỏ, lượng người tìm đến khu vực tăng lên. Theo anh Sơn, vào những dịp cuối tuần, cung đường lên núi Đại Bình đón khoảng 2.000 - 3.000 lượt khách tới tham quan, chụp ảnh. Do khu vực có nhiều lối lên núi khác nhau, du khách nên tìm hiểu kỹ lộ trình trước khi di chuyển và lựa chọn phương tiện phù hợp."
+    }
+   ]
+  },
+  {
+   "id": "913112bba94a",
+   "order": 9,
+   "slug": "khach-viet-lan-dau-den-thu-do-duy-nhat-con-bi-chia-cat-tren",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Khách Việt lần đầu đến thủ đô duy nhất còn bị chia cắt trên thế giới",
+   "sapo": "Giữa lòng phố cổ Nicosia, một lối đi bộ rộng hơn 3 mét chia đôi thủ đô của Cộng hòa Síp, khiến hành trình khám phá của du khách Việt phải dừng lại giữa chừng.",
+   "author": "Tâm Anh",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/khach-viet-lan-dau-den-thu-do-duy-nhat-con-bi-chia-cat-tren-the-gioi-5120867.html",
+   "published": "2026-11-26T01:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 732,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/913112bba94a-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-26/913112bba94a-0.jpg",
+     "caption": "Anh Trường đứng trước cửa khẩu rộng 3,3 m ở phía CH Síp. Ảnh: NVCC",
+     "w": 1020,
+     "h": 1378
+    },
+    {
+     "src": "img/2026-11-26/913112bba94a-1.jpg",
+     "caption": "Lối đi bộ qua cửa khẩu ở CH Síp. Ảnh: NVCC",
+     "w": 1020,
+     "h": 1259
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giữa lòng phố cổ Nicosia, một lối đi bộ rộng hơn 3 mét chia đôi thủ đô của Cộng hòa Síp, khiến hành trình khám phá của du khách Việt phải dừng lại giữa chừng."
+    },
+    {
+     "t": "p",
+     "text": "Cuối tháng 8, anh Đoàn Phước Trường (TP HCM) có hành trình 12 ngày qua châu Âu và dành 3 ngày khám phá Cộng hòa Síp (Cyprus). Nằm ở phía đông Địa Trung Hải và cách bờ biển Thổ Nhĩ Kỳ khoảng 70 km, Síp là hòn đảo lớn thứ ba tại khu vực, sau Sicily và Sardinia của Italy, là nơi giao thoa giữa ba châu lục Á - Âu - Phi. Giành độc lập từ Anh năm 1960, nhưng hòn đảo rơi vào tình trạng chia cắt lãnh thổ từ năm 1974 sau những xung đột kéo dài giữa hai cộng đồng người Síp gốc Hy Lạp và gốc Thổ Nhĩ Kỳ."
+    },
+    {
+     "t": "p",
+     "text": "Chính lịch sử này đã biến thủ đô Nicosia của Cộng hòa Síp trở thành thủ đô duy nhất trên thế giới hiện vẫn bị chia đôi."
+    },
+    {
+     "t": "p",
+     "text": "Để tới quốc gia chưa thuộc khối Schengen này, đoàn của anh Trường tận dụng chính sách cho phép nhập cảnh bằng visa Schengen nhiều lần (multiple-entry) và chọn bay từ thủ đô Warsaw (Ba Lan) tới sân bay Larnaca. Theo anh Trường, chặng bay này tần suất thấp (chỉ khoảng hai chuyến mỗi tuần) nên giá vé cao gấp 2-3 lần các đường bay nội địa châu Âu khác. Tại sân bay Larnaca, toàn bộ thủ tục nhập cảnh thực hiện qua hệ thống nhận diện gương mặt, không đóng dấu hộ chiếu nhưng lực lượng biên phòng kiểm tra kỹ giấy tờ cá nhân và lịch trình, khiến cả đoàn mất gần một tiếng mới hoàn tất."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Từng đến hơn 70 quốc gia và vùng lãnh thổ , anh Trường vẫn ấn tượng mạnh với sự chia cắt đặc biệt nơi đây. Toàn bộ đảo Síp bị ngăn đôi bởi vùng đệm \"Đường Xanh\" (Green Line) dài khoảng 180 km do Liên Hợp Quốc giám sát, chạy cắt ngang qua giữa thủ đô Nicosia. Phía nam là Cộng hòa Síp (thành viên Liên minh châu Âu - EU), còn phía bắc là vùng lãnh thổ tự xưng \"Cộng hòa Bắc Síp Thổ Nhĩ Kỳ\", chỉ được Thổ Nhĩ Kỳ công nhận."
+    },
+    {
+     "t": "p",
+     "text": "\"Ngay giữa khu phố cổ Nicosia có một cửa khẩu dành cho người đi bộ trên phố Ledra, lối đi rộng khoảng 3,3 m và được giám sát nghiêm ngặt bởi lực lượng gìn giữ hòa bình Liên Hợp Quốc\", anh Trường cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Dù người dân và du khách được phép qua lại hai miền qua các trạm kiểm soát từ năm 2003, thủ tục đối với khách du lịch nước ngoài khá chặt chẽ. Để qua vùng đệm, du khách phải xuất trình hộ chiếu, giấy tờ chứng minh đã nhập cảnh hợp pháp vào Cộng hòa Síp qua các cửa khẩu quốc tế chính thức và chịu sự kiểm tra của cả hai phía."
+    },
+    {
+     "t": "p",
+     "text": "Do không đủ điều kiện giấy tờ theo yêu cầu kiểm soát tại chốt phía bắc, đoàn của anh Trường chỉ có thể tham quan khu vực vùng đệm và phần lãnh thổ phía nam, lỡ hẹn với việc đi trọn hòn đảo. Nhân viên kiểm soát tại cửa khẩu giải thích nếu được phép sang phía bắc, du khách cũng chỉ được lưu trú ngắn hạn (thường tối đa 30 ngày), được cấp giấy thông hành rời thay vì đóng dấu trực tiếp vào hộ chiếu và bắt buộc phải quay lại Cộng hòa Síp để xuất cảnh."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Dù chưa thể đặt chân sang nửa phía Bắc, chuyến đi 3 ngày vẫn mang lại cho nam du khách Việt nhiều trải nghiệm đáng nhớ tại vùng biển Địa Trung Hải. Anh gợi ý du khách đến Cộng hòa Síp nên ghé thăm hệ thống tường thành cổ bao quanh Nicosia, công viên khảo cổ Paphos (Di sản Thế giới được UNESCO công nhận năm 1980), tu viện Agia Napa hay thành phố biển Limassol với bờ biển Molos và pháo đài cổ bằng đá sa thạch."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một điểm đến mới mẻ, còn ít khách Việt biết tới nhưng giàu chiều sâu văn hóa và có nhiều điều đặc biệt để khám phá cho những lần quay trở lại\", anh Trường nói."
+    }
+   ]
+  },
+  {
+   "id": "d51a882b667c",
+   "order": 10,
+   "slug": "theo-chan-tho-an-ong-kham-pha-dac-san-nuc-tieng-dat-ca-mau",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Theo chân thợ “ăn ong”, khám phá đặc sản nức tiếng đất Cà Mau",
+   "sapo": "(Dân trí) - Giữa không gian xanh thẳm của rừng tràm U Minh Hạ ở Cà Mau, chỉ với một cây đuốc nhỏ và vài thao tác thuần thục, người thợ có thể khiến hàng",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/theo-chan-tho-an-ong-kham-pha-dac-san-nuc-tieng-dat-ca-mau-20261124082026559.htm",
+   "published": "2026-11-25T23:06:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1369,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/d51a882b667c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-0.jpg",
+     "caption": "Theo chân thợ “ăn ong”, khám phá đặc sản nức tiếng đất Cà Mau - 1",
+     "w": 1152,
+     "h": 768
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-1.jpg",
+     "caption": "Sau khi ong về làm tổ từ 15 đến 20 ngày, người dân sẽ thu hoạch lấy mật (Ảnh: Hoàng Thạch).",
+     "w": 1000,
+     "h": 666
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-2.jpg",
+     "caption": "Ông Trần Văn Nhì, người đã có hơn 50 năm gắn bó với nghề gác kèo ong ở U Minh Hạ (Ảnh: Hoàng Thạch).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-3.jpg",
+     "caption": "Chỉ cần thổi nhẹ khói vào tổ, hàng nghìn con ong sẽ bay ra, để lộ bắp mật vàng óng (Ảnh: Hoàng Thạch).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-4.jpg",
+     "caption": "Đuốc khói được làm từ rễ non của cây gừa (Ảnh: Hoàng Thạch).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-5.jpg",
+     "caption": "Mật ong rừng U Minh Hạ có màu vàng tự nhiên và ngọt thanh, rất tốt cho sức khỏe (Ảnh: Hoàng Thạch).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/d51a882b667c-6.jpg",
+     "caption": "Du khách cười tươi khi trải nghiệm “ăn ong” (Ảnh: Hoàng Thạch).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "U Minh Hạ nổi tiếng với những cánh rừng tràm bạt ngàn và nhiều sản vật thiên nhiên có giá trị. Nhắc đến vùng đất này, nhiều người nghĩ ngay đến những con người chân chất, nghĩa tình cùng đặc sản mật ong rừng có tiếng trên thị trường."
+    },
+    {
+     "t": "p",
+     "text": "Ít ai biết rằng, đã có thời người dân đi “ăn ong” (là cách gọi dân gian của người dân Nam Bộ, đặc biệt ở vùng rừng U Minh Hạ, chỉ việc đi thu hoạch mật ong từ các tổ ong, thường là từ những kèo ong đã được gác trước đó) chủ yếu lấy sáp làm đèn cầy, còn mật ong nhiều đến mức chỉ để cho người thân hoặc chan cơm ăn chứ bán chẳng ai mua."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ông Trần Văn Nhì (67 tuổi, trú tại xã Nguyễn Phích, tỉnh Cà Mau), cho biết năm 16 tuổi ông đã được cha truyền nghề, theo chân người lớn len lỏi vào những cánh rừng tràm ở U Minh Hạ để gác kèo ong."
+    },
+    {
+     "t": "p",
+     "text": "“Đến nay, gia đình tôi đã có 5 thế hệ gắn bó với nghề này. Nghe người lớn kể lại, thời ông cố đến đời cha tôi, người đi ăn ong chỉ lấy sáp làm đèn cầy. Mật ong nhiều nhưng chẳng ai mua nên thường cho họ hàng hoặc chan cơm ăn”, ông Nhì nhớ lại."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Đến những năm 1980, mật ong bắt đầu có người thu mua nhưng giá chỉ khoảng 8.000-9.000 đồng/lít. Khi ấy, ông Nhì từng chèo xuồng hơn chục cây số ra Cà Mau bán mật cho một chủ cơ sở kinh doanh khách sạn với giá 12.000 đồng/lít, kiếm thêm tiền phụ giúp gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Theo thời gian, mật ong rừng U Minh Hạ ngày càng được nhiều người biết đến và ưa chuộng. Từ sản vật từng ít người quan tâm, nay đặc sản này có giá khoảng 500.000 đồng/lít."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Nhì, để có được những tổ ong chất lượng, người thợ phải am hiểu đặc tính của loài ong và địa hình rừng tràm."
+    },
+    {
+     "t": "p",
+     "text": "“Người có kinh nghiệm chỉ cần nhìn vỏ cây tràm là có thể đoán nơi đó ong có khả năng về làm tổ hay không. Tôi thường chọn những cây có vỏ bóng láng để gác kèo, bởi đó là nơi có ánh nắng chiếu đến cả buổi sáng lẫn chiều, thuận lợi cho ong về ở. Những cây có vỏ sần sùi thường nằm ở nơi thiếu nắng, kèo dễ mục, ong cũng khó ở lâu”, ông Nhì chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Gia đình ông hiện có hơn 200 kèo ong, mỗi năm thu hoạch khoảng 300 lít mật. Sản phẩm chủ yếu được bán cho khách quen ở TPHCM, mang lại nguồn thu nhập khá ổn định."
+    },
+    {
+     "t": "p",
+     "text": "Nghề gác kèo ong ở U Minh trước đây đã được Bộ Văn hóa, Thể thao và Du lịch công nhận là Di sản văn hóa phi vật thể cấp quốc gia. Mật ong rừng U Minh cũng được Hội đồng Xác lập kỷ lục Việt Nam công nhận thuộc tốp 100 đặc sản quà tặng Việt Nam."
+    },
+    {
+     "t": "p",
+     "text": "Không chỉ khai thác sản vật dưới tán rừng, người dân U Minh Hạ còn tận dụng lợi thế thiên nhiên để phát triển du lịch. Nghề “ăn ong” từ công việc mưu sinh thường ngày nay trở thành trải nghiệm hấp dẫn, được nhiều du khách lựa chọn khi đến Cà Mau."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ông Nguyễn Hoàng Khởi, Trưởng ban Quản lý Khu du lịch sinh thái Sông Trẹm, xã Nguyễn Phích, cho biết khu du lịch có diện tích khoảng 110ha rừng tràm nguyên sinh."
+    },
+    {
+     "t": "p",
+     "text": "Đến đây, du khách được tận hưởng không khí trong lành dưới những tán tràm khoảng 40 năm tuổi, trải nghiệm đặt trúm lươn, câu cá đồng và thưởng thức các món ăn đặc sản giữa rừng. Đặc biệt, hoạt động bắt ong mật luôn là trải nghiệm được nhiều người mong đợi."
+    },
+    {
+     "t": "p",
+     "text": "Bà Nguyễn Ngọc Vân (40 tuổi, trú tại Hà Nội) cho biết vợ chồng bà từng đi du lịch nhiều nơi trong và ngoài nước nhưng đây là lần đầu tiên đặt chân đến vùng đất địa đầu cực Nam Tổ quốc."
+    },
+    {
+     "t": "p",
+     "text": "Trước chuyến đi, bà chỉ biết đến Cà Mau và U Minh Hạ qua lời giới thiệu của hướng dẫn viên. Tuy nhiên, khi được ngồi vỏ lãi xuyên qua những cánh rừng tràm và tận mắt chứng kiến người dân lấy mật ong, vợ chồng bà không khỏi thích thú."
+    },
+    {
+     "t": "p",
+     "text": "“Chỉ với một cây đuốc nhỏ trên tay, ông Sáu Bảnh nhẹ nhàng thổi khói vào tổ ong, hàng nghìn con ong bay ra, để lộ những bắp mật vàng óng. Người thợ chỉ cần dùng dao cắt lấy mật bỏ vào thùng. Tuyệt vời hơn, chúng tôi còn được mời thưởng thức mật ong U Minh vừa thu hoạch”, bà Vân kể."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Trước khi rời Cà Mau, nữ du khách mua nhiều mật ong về làm quà cho người thân. Bà cho biết khi trở về Hà Nội và sang Hà Lan, nơi quê chồng sinh sống, sẽ giới thiệu với bạn bè về vùng đất U Minh cùng những trải nghiệm đáng nhớ."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Trần Quốc Sự, Phó Chủ tịch UBND xã Nguyễn Phích, địa phương luôn quan tâm tuyên truyền, vận động người dân gìn giữ nghề gác kèo ong, đồng thời tạo điều kiện quảng bá mật ong U Minh Hạ tại các sự kiện của tỉnh và kết nối với doanh nghiệp lữ hành để đưa sản phẩm vào các tour du lịch."
+    },
+    {
+     "t": "p",
+     "text": "“Đưa nghề gác kèo ong vào phát triển du lịch không chỉ giúp người dân tăng thu nhập, tạo việc làm mà còn góp phần quảng bá hình ảnh, con người vùng đất U Minh nói chung và xã Nguyễn Phích nói riêng đến du khách”, ông Sự cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Theo lãnh đạo xã Nguyễn Phích, những sản vật dưới tán rừng tràm đang mang lại nguồn thu nhập ổn định cho nhiều hộ dân. Vì vậy, người dân ngày càng ý thức rõ hơn việc bảo vệ rừng cũng chính là bảo vệ sinh kế của gia đình mình."
+    },
+    {
+     "t": "p",
+     "text": "Mật ong rừng U Minh Hạ được nhiều người ưa chuộng nhờ hương thơm dịu và vị ngọt thanh đặc trưng. Tuy nhiên, trước thị trường có nhiều loại mật ong với nguồn gốc, chất lượng khác nhau, việc lựa chọn sản phẩm bảo đảm chất lượng là điều người tiêu dùng quan tâm."
+    },
+    {
+     "t": "p",
+     "text": "Ông Phạm Duy Khanh, chủ điểm du lịch sinh thái cộng đồng Mười Ngọt (Cà Mau), khuyến cáo người mua nên ưu tiên những cơ sở uy tín, có nguồn gốc xuất xứ rõ ràng."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Khanh, người dân địa phương còn lưu truyền một số cách dân gian để nhận biết mật ong nguyên chất. Chẳng hạn, nhúng đầu que diêm vào mật ong rồi quẹt thử; nếu que diêm bén lửa thì được cho là mật ong ít nước."
+    },
+    {
+     "t": "p",
+     "text": "Một cách khác là nhỏ mật ong vào ly nước để quan sát. Theo kinh nghiệm dân gian, giọt mật giữ được hình dạng và chìm xuống đáy ly thường được xem là dấu hiệu của mật đặc."
+    },
+    {
+     "t": "p",
+     "text": "“Nhiều người còn dùng cọng hành tươi nhúng vào mật ong, để khoảng 5-7 phút. Nếu cọng hành héo và chuyển sang màu xanh đậm thì được cho là mật ong nguyên chất”, ông Khanh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, các cách thử bằng que diêm, hành tươi hay nước chỉ là kinh nghiệm dân gian, không đủ cơ sở khoa học để xác định mật ong thật, giả hoặc độ nguyên chất. Người tiêu dùng nên lựa chọn sản phẩm có thông tin nguồn gốc rõ ràng, được kiểm soát chất lượng."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Từ những kèo ong mộc mạc giữa rừng tràm, người dân U Minh Hạ không chỉ gìn giữ một nghề truyền thống mà còn tạo nên sản phẩm du lịch mang đậm bản sắc địa phương. Những bắp mật vàng óng vì thế không đơn thuần là món quà của thiên nhiên, mà còn là thành quả lao động và tình yêu rừng của nhiều thế hệ người dân vùng đất Cà Mau."
+    }
+   ]
+  },
+  {
+   "id": "f44cdb566ab7",
+   "order": 11,
+   "slug": "ky-thu-nhung-cung-deo-khanh-le-dau-an-khat-vong-nguoi-viet",
+   "section": "kham-pha-the-gioi",
+   "section_name": "Khám phá thế giới",
+   "emoji": "🌏",
+   "title": "Kỳ thú những cung đèo: Khánh Lê, dấu ấn khát vọng người Việt",
+   "sapo": "Người Pháp từng bỏ cuộc trước vách núi dựng đứng. Nhưng với khát vọng, ý chí của người Việt, đèo Khánh Lê - \"cung đèo mù sương\" đã ra đời, kết nối phố biển Nha Trang với phố hoa Đà Lạt, góp phần đổi thay đời sống người dân.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/ky-thu-nhung-cung-deo-khanh-le-dau-an-khat-vong-nguoi-viet-185261125221240187.htm",
+   "published": "2026-11-25T23:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1037,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-0.jpg",
+     "caption": "Đèo Khánh Lê trên QL27C dài khoảng 29 km, nối phố biển Nha Trang với cao nguyên Lâm Viên, được mệnh danh là “cung đường nối biển và hoa”",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-1.jpg",
+     "caption": "Từ độ cao 1.000 m, cung đèo thường xuyên chìm trong sương mù",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-2.jpg",
+     "caption": "Đường đèo Khánh Lê uốn lượn giữa biển mây",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-3.jpg",
+     "caption": "Một con thác như đổ từ trên mây xuống trên đèo Khánh Lê",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-4.jpg",
+     "caption": "Biển mây dưới chân núi là cảnh sắc thu hút du khách khi qua đèo Khánh Lê",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-5.jpg",
+     "caption": "Sương giăng kín rừng thông hai bên QL27C, biến đèo Khánh Lê thành cung đường được nhiều bạn trẻ, dân phượt tìm đến chinh phục",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-6.jpg",
+     "caption": "Đèo Khánh Lê là nơi giao thoa hai vùng khí hậu, càng lên cao sương mù càng dày đặc",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-7.jpg",
+     "caption": "Đèo Khánh Lê xuyên qua những cánh rừng xanh bạt ngàn, dọc đường đèo có nhiều con thác nhỏ đổ trắng xóa qua những ghềnh đá",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-8.jpg",
+     "caption": "Rừng thông hai bên QL27C trên cao nguyên Lâm Viên, trái hẳn với rừng lá rộng khô nóng dưới chân đèo phía Khánh Vĩnh",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-9.jpg",
+     "caption": "Giới trẻ, dân phượt hay gọi đèo Khánh Lê là đèo Omega vì những khúc cua uốn hình chữ Ω",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-10.jpg",
+     "caption": "Một góc cua nguy hiểm trên đèo Khánh Lê",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/f44cdb566ab7-11.jpg",
+     "caption": "Mai anh đào nở hồng sườn đồi bên QL27C đoạn qua Lạc Dương khiến nhiều du khách dừng lại check-in",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Người Pháp từng bó tay"
+    },
+    {
+     "t": "p",
+     "text": "Đèo Khánh Lê nằm trên QL27C, nối xã Nam Khánh Vĩnh (Khánh Hòa) với xã Lạc Dương (Lâm Đồng). Đỉnh đèo cao khoảng 1.700 m so với mực nước biển, nằm gần đỉnh núi Hòn Giao. Biển báo dưới chân đèo phía Khánh Hòa ghi đường đèo dài 29 km, trong khi nhiều tư liệu ghi nhận con số 33 km. Với chiều dài này, Khánh Lê thuộc nhóm đèo dài nhất cả nước."
+    },
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Con đèo mang nhiều tên gọi. Tên đèo Hòn Giao gắn với khối núi Hòn Giao cao 2.062 m ở phía bắc. Giới trẻ, dân phượt lại gọi đây là đèo Omega vì những khúc cua uốn hình chữ Ω, hay đèo Long Lanh theo tên làng K'Long K'lanh của người K'Ho ở đầu đèo phía Lạc Dương. Còn tên Khánh Lê được dùng chính thức trên biển báo, gắn với xã Khánh Lê trước đây."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, đèo Khánh Lê gần như chỉ có một sườn. Sườn phía Khánh Hòa chiếm phần lớn chiều dài, leo dốc liên tục từ độ cao khoảng 200 m lên 1.700 m. Sang địa phận Lạc Dương, đường thoai thoải xuống khoảng 1.500 m. Thực chất, con đèo là sườn đông của dãy Trường Sơn Nam."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Chênh lệch độ cao hơn 1.000 m khiến đèo trở thành nơi giao thoa hai vùng khí hậu. Dưới chân đèo, Khánh Vĩnh khô nóng với những cánh rừng lá rộng. Lên đỉnh đèo, Lạc Dương mát lạnh quanh năm, rừng lá kim phủ kín sườn núi. Khu vực này thuộc Vườn quốc gia Bidoup - Núi Bà, nơi còn lưu giữ loài thông hai lá dẹt, một loài thực vật cổ quý hiếm."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Năm 1893, bác sĩ Alexandre Yersin đặt chân lên cao nguyên Lâm Viên và đề xuất chọn nơi đây làm chốn nghỉ dưỡng. Năm 1897, Toàn quyền Đông Dương Paul Doumer cử phái đoàn quân sự do đại úy Thouard chỉ huy đi tìm đường từ Nha Trang lên Lâm Viên. Sau gần một năm khảo sát, phái đoàn kết luận không thể mở đường trực tiếp từ Nha Trang lên cao nguyên, và đề nghị đi từ Phan Rang."
+    },
+    {
+     "t": "p",
+     "text": "Suốt hơn một thế kỷ sau đó, muốn đi từ Nha Trang lên Đà Lạt , người dân phải vòng qua Phan Rang, vượt đèo Ngoạn Mục, quãng đường hơn 220 km."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "h",
+     "text": "Mở đèo, đổi thay quê hương"
+    },
+    {
+     "t": "p",
+     "text": "Những năm đầu thập niên 2000, khi lên vùng đất Khánh Vĩnh, ông Phạm Văn Chi, nguyên Chủ tịch UBND tỉnh Khánh Hòa, trăn trở trước cảnh đường sá cách trở, đời sống đồng bào dân tộc thiểu số còn nhiều khó khăn. Phía bên kia dãy núi là Lâm Đồng, đời sống người dân cũng khó khăn không kém. Hai địa phương giàu tiềm năng nông nghiệp, du lịch nhưng việc giao thương chưa thuận tiện."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Từ thực tế ấy, ý tưởng mở tuyến đường vượt núi nối Nha Trang với Đà Lạt dần hình thành. Ông Chi tìm gặp người bạn của mình là ông Nguyễn Hoài Bảo, Bí thư Tỉnh ủy Lâm Đồng lúc bấy giờ. Hai địa phương nhanh chóng tìm được tiếng nói chung, cùng kiến nghị Trung ương cho chủ trương đầu tư tuyến đường."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "\"Chúng tôi ra Hà Nội gặp lãnh đạo Bộ Quốc phòng, Bộ Giao thông vận tải để trình bày về sự cần thiết của tuyến đường, rồi cùng thống nhất kiến nghị Thủ tướng\", ông Chi nhớ lại."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Chi, mở một con đường xuyên núi rừng không chỉ là bài toán kỹ thuật mà còn là câu chuyện lớn về chủ trương, nhất là nguồn vốn lấy ở đâu. Để thuyết phục Trung ương, Khánh Hòa nhấn mạnh tuyến đường không chỉ kết nối hai địa phương mà còn có ý nghĩa về quốc phòng, an ninh, mở lối vận chuyển nông sản Tây nguyên và rút ngắn hơn 75 km so với tuyến đường cũ."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Sau khi được các bộ, ngành đồng thuận, lãnh đạo tỉnh Khánh Hòa trực tiếp mang hồ sơ ra Chính phủ, trình bày với Phó thủ tướng thường trực Nguyễn Tấn Dũng khi đó. Phương án đầu tư bằng ngân sách Trung ương được chấp thuận, mở đường cho dự án đi vào triển khai."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ban đầu, Khánh Hòa giao Sở Giao thông vận tải nghiên cứu phương án với tổng vốn dự kiến hơn 100 tỉ đồng. Phương án này chưa đáp ứng yêu cầu nên tỉnh thuê đơn vị tư vấn thuộc Bộ Giao thông vận tải nghiên cứu lại. Thiết kế mới có quy mô vượt xa dự kiến ban đầu, nhưng theo ông Chi, ngân sách tỉnh khi đó chỉ phải đóng góp khoảng 1% tổng kinh phí dự án."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Đèo Khánh Lê khởi công năm 2004 và thông xe cuối năm 2006, nối tỉnh lộ 652 phía Khánh Hòa với tỉnh lộ 723 phía Lâm Đồng, sau này được nâng lên thành QL27C. Hai bên con đèo chủ yếu là địa bàn sinh sống của đồng bào K'Ho, Raglai, T'Rin…"
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Mấu Văn Phi, Bí thư Đảng ủy xã Khánh Vĩnh, nguyên Bí thư H.Khánh Vĩnh (cũ), ngày thông đèo là dấu mốc quan trọng đối với người dân vùng núi. Khi con đường hoàn thành, bà con ở những thôn làng xa xôi mừng vui vì việc đi lại đến trung tâm thuận lợi hơn, lại có thêm tuyến kết nối trực tiếp với Đà Lạt và Nha Trang. Nông sản được vận chuyển dễ dàng, người dân tiếp cận dịch vụ y tế, giáo dục và các hoạt động kinh tế thuận tiện hơn."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Con đường cũng kéo theo dòng du khách với những điểm dừng chân như Suối Đá Hòn Giao, Bến Lội mọc lên bên QL27C để đón khách nghỉ chân trước khi lên đèo. Ở đầu đèo phía Lạc Dương, làng K'Long K'lanh của người K'Ho Cil vốn bình yên cũng đổi thay khi từng đoàn xe nườm nượp dừng chân săn mây, ngắm mai anh đào mỗi mùa xuân. Rau, hoa của Đà Lạt có thêm đường xuống miền biển. Còn hải sản Nha Trang lên cao nguyên nhanh hơn. (còn tiếp)"
+    }
+   ]
+  },
+  {
+   "id": "56fb6e514812",
+   "order": 12,
+   "slug": "lap-hat-trick-hcv-cau-long-nguyen-thuy-linh-toi-khong-dam-nh",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Lập hat-trick HCV cầu lông, Nguyễn Thùy Linh: 'Tôi không dám nhận mình out trình'",
+   "sapo": "Đánh bại đàn chị Vũ Thị Trang với tỷ số 2-0 ở trận chung kết, Nguyễn Thùy Linh lần thứ 3 liên tiếp giành HCV nội dung đơn nữ môn cầu lông tại Đại hội Thể thao toàn quốc.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/lap-hat-trick-hcv-cau-long-nguyen-thuy-linh-toi-khong-dam-nhan-minh-out-trinh-185261125225557918.htm",
+   "published": "2026-11-25T17:00:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 484,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/56fb6e514812-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/56fb6e514812-0.jpg",
+     "caption": "Nguyễn Thùy Linh hiện đứng hạng 28 trên bảng xếp hạng đơn nữ thế giới",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-26/56fb6e514812-1.jpg",
+     "caption": "Nguyễn Thùy Linh thi đấu dưới sự cổ vũ cuồng nhiệt của đông đảo người hâm mộ",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tối 25.11, trận chung kết nội dung đơn nữ môn cầu lông tại Đại hội Thể thao toàn quốc lần thứ X năm 2026 diễn ra tại nhà thi đấu Hồ Xuân Hương (TP.HCM) là màn so tài giữa Nguyễn Thùy Linh (Đồng Nai) và Vũ Thị Trang (TP.HCM). Tay vợt nữ số một Việt Nam ở thời điểm hiện tại Nguyễn Thùy Linh đã thể hiện phong độ ổn định để giành chiến thắng thuyết phục 2-0, với điểm số lần lượt là 21/9 và 21/10."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng kiểm soát thế trận và điều cầu khéo léo giúp Thùy Linh làm chủ hoàn toàn cuộc chơi. Kết quả này giúp tay vợt 29 tuổi hoàn tất cú hat-trick HCV đơn nữ qua 3 kỳ đại hội toàn quốc liên tiếp (2018, 2022 và 2026)."
+    },
+    {
+     "t": "p",
+     "text": "Trước nhận định cho rằng Nguyễn Thùy Linh đang ở trình độ vượt trội so với mặt bằng chung của cầu lông nữ Việt Nam, tay vợt sinh năm 1997 bày tỏ: \"Tôi không dám nhận mình \"out trình\" gì đâu. Tôi nghĩ rằng chừng nào còn thi đấu thì vẫn phải giữ vững phong độ và luôn tập luyện chăm chỉ để đối thủ không thể đuổi kịp\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "h",
+     "text": "Thùy Linh hướng tới Olympic và SEA Games 2027"
+    },
+    {
+     "t": "p",
+     "text": "Ngay khi khép lại nhiệm vụ tại Đại hội Thể thao toàn quốc 2026, Nguyễn Thùy Linh đã vạch sẵn lộ trình quay lại guồng quay quốc tế. Cô tiết lộ sẽ sang Thái Lan tập huấn trong khoảng 30 ngày vào tháng 12 tới, nhằm duy trì cảm giác cầu và nâng cao thể lực. Theo chia sẻ của Thùy Linh, việc dồn toàn lực cho đại hội lần này khiến cô phải bỏ lỡ 5 giải đấu quốc tế thời gian qua, kéo theo thứ hạng trên bảng xếp hạng thế giới bị sụt giảm. Do đó, giai đoạn sắp tới là lúc cô cần thi đấu nhiều hơn để cải thiện điểm số."
+    },
+    {
+     "t": "p",
+     "text": "\"Năm sau đã là năm tích điểm để đến với Olympic 2028 tại Mỹ. Thời gian tới, em sẽ cố gắng đi thi đấu nhiều hơn để cải thiện thứ hạng, tập trung cho SEA Games cũng như tích lũy điểm số hướng tới Olympic\", Thùy Linh chia sẻ về mục tiêu phía trước."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh chuyên môn, bầu không khí cuồng nhiệt tại nhà thi đấu Hồ Xuân Hương trong những ngày tranh tài vừa qua cũng để lại nhiều dấu ấn với nhà vô địch cầu lông đơn nữ. \"Khi vào nhà thi đấu và thấy mọi người cổ vũ, hô reo tên mình, tôi cảm thấy rất hạnh phúc và tự hào về hành trình của bản thân. Dù có nhiều khi tôi chưa đạt được thành tích như mong muốn, nhưng tôi luôn cảm ơn và biết ơn tất cả mọi người vì đã yêu thương mình\", Thùy Linh bộc bạch."
+    }
+   ]
+  },
+  {
+   "id": "2b2aedf70c65",
+   "order": 13,
+   "slug": "u17-viet-nam-gay-sot-tuyen-trach-vien-barcelona-truc-tiep-xe",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "U17 Việt Nam gây \"sốt\": Tuyển trạch viên Barcelona trực tiếp \"xem giò\" Nguyễn Lực",
+   "sapo": "Truyền thông Tây Ban Nha cho biết câu lạc bộ Barcelona đã cử người đứng đầu bộ phận tuyển trạch đến Qatar tìm kiếm những tài năng mới tại World Cup U17, nơi nhiều ngôi sao U17 Việt Nam đang tỏa sáng.",
+   "author": "Viết Thành",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/u17-viet-nam-gay-sot-tuyen-trach-vien-barcelona-truc-tiep-xem-gio-nguyen-luc-post1150503.vnp",
+   "published": "2026-11-25T08:46:49+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 160,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/2b2aedf70c65-lead.jpg",
+     "caption": "",
+     "w": 730,
+     "h": 499
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Theo tờ Sport của Tây Ban Nha, Barcelona đã cử ông Joao Amaral, trưởng bộ phận tuyển trạch và là cộng sự thân cận của giám đốc thể thao Deco, sang Qatar để theo dõi giải đấu World Cup U17 năm nay."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh việc đánh giá màn trình diễn của 7 cầu thủ thuộc học viện La Masia đang khoác áo đội tuyển U17 Tây Ban Nha, ông Joao Amaral còn có nhiệm vụ tìm kiếm những gương mặt triển vọng đến từ các nền bóng đá khác. Trong danh sách các đội bóng lớn mà báo chí Tây Ban Nha đưa tin ông Amaral có thể sẽ theo dõi sát sao có nhóm đội bóng Nam Mỹ, cùng những đội bóng lớn ở châu Âu như Bỉ."
+    },
+    {
+     "t": "p",
+     "text": "Chính vì vậy, không có gì ngạc nhiên khi đội ngũ của ông Amaral cũng đã chứng kiến trận đấu giữa U17 Việt Nam và U17 Bỉ tại giải năm nay./."
+    }
+   ]
+  },
+  {
+   "id": "8fb6c9f3000b",
+   "order": 14,
+   "slug": "anh-vien-gianh-them-hai-hcv-pha-ky-luc-dai-hoi-the-thao-toan",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ánh Viên giành thêm hai HCV, phá kỷ lục Đại hội Thể thao toàn quốc",
+   "sapo": "(Dân trí) - Kình ngư nổi tiếng Nguyễn Thị Ánh Viên giành thêm 2 huy chương vàng (HCV) tại Đại hội Thể thao toàn quốc 2026. Trong khi đó, Huy Hoàng nhận bất",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/anh-vien-gianh-them-hai-hcv-pha-ky-luc-dai-hoi-the-thao-toan-quoc-20261124233435440.htm",
+   "published": "2026-11-25T02:59:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 301,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/8fb6c9f3000b-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/8fb6c9f3000b-0.jpg",
+     "caption": "Ánh Viên (thứ hai từ trái sang) và các đồng đội ở đội bơi Quân đội (Ảnh: Quý Lượng).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-26/8fb6c9f3000b-1.jpg",
+     "caption": "Võ Thị Mỹ Tiên giành thêm 2 HCV trong ngày thi đấu thứ ba của môn bơi (Ảnh: Quý Lượng).",
+     "w": 1280,
+     "h": 706
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Kình ngư nổi tiếng Nguyễn Thị Ánh Viên giành thêm 2 huy chương vàng (HCV) tại Đại hội Thể thao toàn quốc 2026. Trong khi đó, Huy Hoàng nhận bất ngờ trên “đường đua xanh”."
+    },
+    {
+     "t": "p",
+     "text": "Ngày thi đấu thứ ba của môn bơi tại Đại hội Thể thao toàn quốc lần thứ 10 năm 2026, chứng kiến thêm thành công của “Tiểu tiên cá” Nguyễn Thị Ánh Viên."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Ở đợt thi chung kết nội dung bơi 100m ngửa nữ, diễn ra tối 24/11, Ánh Viên giành HCV với thành tích 1 phút 02 giây 75, phá kỷ lục đại hội (1 phút 03 giây 71)."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó, Ánh Viên còn giành thêm một HCV ở nội dung bơi tiếp sức 4x100m hỗn hợp nam và nữ. Những người đứng chung đội với Ánh Viên ở nội dung này là Trần Hưng Nguyên, Nguyễn Thúy Hiền và Nguyễn Quang Thuấn (em trai Ánh Viên)."
+    },
+    {
+     "t": "p",
+     "text": "Ánh Viên đã có 3 HCV tại Đại hội Thể thao toàn quốc 2026, gồm 2 HCV đồng đội và một HCV cá nhân."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong ngày 24/11, vận động viên (VĐV) Võ Thị Mỹ Tiên giành 2 HCV ở các nội dung 100m bơi bướm nữ và bơi 1.500m tự do nữ. Mỹ Tiên đã có 4 HCV tại Đại hội Thể thao toàn quốc năm nay."
+    },
+    {
+     "t": "p",
+     "text": "Ở chiều ngược lại, bất ngờ xảy ra ở nội dung bơi 400m tự do nam. VĐV mới 18 tuổi Trần Văn Nguyễn Quốc (đội bơi Đà Nẵng) giành HCV, đánh bại đàn anh Nguyễn Huy Hoàng (đội Quảng Trị)."
+    },
+    {
+     "t": "p",
+     "text": "Bất ngờ khác xảy ra ở nội dung bơi 100m ngửa nam, Trịnh Trường Vinh (TPHCM) giành HCV, vượt qua các kình ngư nổi tiếng Trần Hưng Nguyên (đội bơi Quân đội) và Trần Duy Khôi (TPHCM)."
+    }
+   ]
+  },
+  {
+   "id": "7421627d9f68",
+   "order": 15,
+   "slug": "ky-thu-bi-liet-chan-quat-nga-nha-vo-dich-co-tuong-the-gioi",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Kỳ thủ bị liệt chân quật ngã nhà vô địch cờ tướng thế giới",
+   "sapo": "Kỳ thủ được mệnh danh là",
+   "author": "HUY ĐĂNG",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/ky-thu-bi-liet-chan-quat-nga-nha-vo-dich-co-tuong-the-gioi-100261126060614783.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 714,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/7421627d9f68-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-26/7421627d9f68-0.jpg",
+     "caption": "Triệu Phàn Vĩ nổi tiếng là tấm gương nghị lực của làng cờ tướng Trung Quốc - Ảnh: BAIDU",
+     "w": 512,
+     "h": 341
+    },
+    {
+     "src": "img/2026-11-26/7421627d9f68-1.jpg",
+     "caption": "Triệu Phàn Vĩ vượt qua căn bệnh từng khiến anh khó lòng sống đến tuổi 20 - Ảnh: BAIDU",
+     "w": 1280,
+     "h": 807
+    },
+    {
+     "src": "img/2026-11-26/7421627d9f68-2.jpg",
+     "caption": "Triệu Phàn Vĩ thường xuyên vô địch những giải quy tụ các kỳ thủ mạnh nhất - Ảnh: SINA",
+     "w": 1280,
+     "h": 654
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Cuộc đọ sức giữa Triệu Phàn Vĩ và Mạnh Thần là một trong những trận đấu hấp dẫn nhất vòng 16 Giải vô địch cờ tướng Trung Quốc diễn ra ngày 25-11 tại Trường Xuân (tỉnh Cát Lâm)."
+    },
+    {
+     "t": "h",
+     "text": "Chiến thắng chấn động làng cờ tướng Trung Quốc"
+    },
+    {
+     "t": "p",
+     "text": "Hai kỳ thủ cùng khoác áo đội cờ tướng Thành Đô đã phải trải qua 5 ván đấu mới phân định được thắng thua."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi bất phân thắng bại ở 2 ván cờ tiêu chuẩn, cả hai tiếp tục hòa nhau trong 2 ván cờ nhanh. Đến ván cờ chớp quyết định, Triệu Phàn Vĩ tận dụng lợi thế đi tiên để khuất phục đối thủ."
+    },
+    {
+     "t": "p",
+     "text": "Mạnh Thần là một trong những cao thủ hàng đầu làng cờ tướng Trung Quốc, đặc biệt lợi hại ở các thể thức cờ tốc độ. Năm 2023, kỳ thủ này từng đánh bại Lại Lý Huynh trong trận chung kết Giải vô địch thế giới tại Houston (Mỹ)."
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong năm đó, Mạnh Thần vượt qua chính Triệu Phàn Vĩ ở trận chung kết Giải vô địch cờ tướng nhanh Trung Quốc. Sau hơn 3 năm, \"kỳ vương xe lăn\" đã đòi lại món nợ trước người đồng đội bằng chiến thắng ở thể thức sở trường của đối phương."
+    },
+    {
+     "t": "p",
+     "text": "Triệu Phàn Vĩ là một trong những nhân vật có câu chuyện giàu cảm xúc nhất làng thể thao Trung Quốc. Sinh năm 1992 tại Phàn Chi Hoa (Tứ Xuyên), anh làm quen với cờ tướng từ năm 8 tuổi và sớm bộc lộ năng khiếu."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng biến cố ập đến khi Triệu Phàn Vĩ mới 13 tuổi. Đôi chân của anh ngày càng suy yếu."
+    },
+    {
+     "t": "p",
+     "text": "Hai năm sau, các bác sĩ chẩn đoán anh mắc chứng loạn dưỡng cơ tiến triển, căn bệnh khiến cơ bắp dần teo yếu và hiện chưa có phương pháp chữa khỏi. Thậm chí từng có bác sĩ lo ngại rằng anh khó lòng sống quá tuổi 20."
+    },
+    {
+     "t": "p",
+     "text": "Mất khả năng đi lại, Triệu Phàn Vĩ phải gắn bó với chiếc xe lăn. Cờ tướng trở thành điểm tựa tinh thần, giúp anh vượt qua giai đoạn khó khăn nhất của cuộc đời."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Trong bài phỏng vấn trên Nhân Dân Nhật Báo cuối năm 2025, Triệu Phàn Vĩ kể từng có người hoài nghi về khả năng thi đấu đỉnh cao của anh. Những cuộc đấu kéo dài hàng giờ vốn đòi hỏi nền tảng thể lực không nhỏ, ngay cả với các kỳ thủ khỏe mạnh."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng Triệu Phàn Vĩ từng đáp lại bằng một câu nói đầy tự tin: \"Tôi không cần đôi chân để chơi cờ\"."
+    },
+    {
+     "t": "h",
+     "text": "Phong độ cực cao"
+    },
+    {
+     "t": "p",
+     "text": "Bằng tài năng và sự kiên trì, anh từng bước khẳng định vị thế trong làng cờ tướng vốn có tính cạnh tranh khốc liệt của Trung Quốc."
+    },
+    {
+     "t": "p",
+     "text": "Năm 2018, Triệu Phàn Vĩ gây tiếng vang khi đạt thành tích 1 thắng, 1 hòa sau 2 lần chạm trán Vương Thiên Nhất, kỳ thủ thống trị làng cờ tướng Trung Quốc suốt nhiều năm. Năm 2021, anh được vinh danh là kỳ thủ xuất sắc nhất giai đoạn play-off Giải vô địch đồng đội quốc gia."
+    },
+    {
+     "t": "p",
+     "text": "Sự nghiệp của Triệu Phàn Vĩ tiếp tục thăng hoa trong những năm gần đây. Tháng 3-2026, anh xuất sắc giành hạng ba tại Ngũ Dương Bôi, một trong những giải đấu giàu danh tiếng nhất làng cờ tướng Trung Quốc."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trên bảng điểm kỳ thủ do chuyên trang Quảng Tượng Võng công bố, Triệu Phàn Vĩ hiện đứng thứ 8 với 2.636 điểm, chỉ kém Mạnh Thần một bậc."
+    },
+    {
+     "t": "p",
+     "text": "Chiến thắng trước nhà cựu vô địch thế giới một lần nữa cho thấy Triệu Phàn Vĩ hoàn toàn đủ khả năng cạnh tranh danh hiệu ở sân chơi đỉnh cao."
+    },
+    {
+     "t": "p",
+     "text": "Đối thủ tiếp theo của anh tại tứ kết là Tô Dịch Lâm. Giải vô địch cờ tướng cá nhân Trung Quốc 2026 sẽ khép lại ngày 28-11."
+    },
+    {
+     "t": "p",
+     "text": "Triệu Phàn Vĩ từng ví cuộc đời mình với một ván cờ tàn. Ngay cả khi rơi vào thế bất lợi, kỳ thủ vẫn có thể xoay chuyển cục diện bằng những nước đi chính xác."
+    },
+    {
+     "t": "p",
+     "text": "Và đó cũng là điều anh đang làm trên hành trình chinh phục đỉnh cao cờ tướng Trung Quốc."
+    }
+   ]
+  },
+  {
+   "id": "379eb02d16d8",
+   "order": 16,
+   "slug": "tac-nhan-ai-thiet-ke-kien-truc-cpu-tu-con-so-0",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tác nhân AI thiết kế kiến trúc CPU 'từ con số 0'",
+   "sapo": "Công ty Architect Labs cho biết tác nhân AI của họ đã \"thiết kế và kiểm chứng\" một CPU đa năng với tập lệnh mới được xây dựng từ đầu.",
+   "author": "Bảo Lâm",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tac-nhan-ai-thiet-ke-kien-truc-cpu-tu-con-so-0-5148262.html",
+   "published": "2026-11-25T22:00:00+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 1027,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-26/379eb02d16d8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-26/379eb02d16d8-0.jpg",
+     "caption": "Mô phỏng chip Frostbite. Ảnh: Architect Labs",
+     "w": 1020,
+     "h": 574
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Công ty Architect Labs cho biết tác nhân AI của họ đã \"thiết kế và kiểm chứng\" một CPU đa năng với tập lệnh mới được xây dựng từ đầu."
+    },
+    {
+     "t": "p",
+     "text": "Theo Tom's Hardware , CPU truyền thống phải dùng phần cứng để xác định quan hệ phụ thuộc giữa các lệnh khi chạy. Các chip đa nhân còn cần bộ nhớ đệm nhiều tầng và giao thức nhất quán bộ nhớ để đồng bộ dữ liệu giữa các lõi, khiến tiêu tốn diện tích chip, năng lượng và gây khó khăn khi mở rộng."
+    },
+    {
+     "t": "p",
+     "text": "Architect Labs, startup công nghệ AI ở Palo Alto, California, cho biết đã sử dụng hệ thống AI để thiết kế CPU mang tên Frostbite bắt đầu với trạng thái \"không có định kiến về kiến trúc\" (Zero Architectural Priors). Mô hình không tự động hoàn toàn, bởi đội ngũ nghiên cứu đã xác định trước những nhóm tác vụ cần phải xử lý nhằm tránh sự thiên kiến."
+    },
+    {
+     "t": "p",
+     "text": "Các tác nhân sau đó đọc tài liệu, phân tích kết quả điểm chuẩn (benchmark), xây dựng mô hình bằng Python và lựa chọn ý tưởng kiến trúc tối ưu để phát triển. Ban đầu, AI tạo ra một tài liệu PDF dài 141 trang, mô tả môi trường thực thi và các tile (khối) chức năng cấp cao. Trong bán dẫn, tile là một khối mạch tích hợp nhỏ, độc lập được cắt ra từ tấm wafer silicon và ghép nối với nhau để tạo thành một chip hoàn chỉnh."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, sau khi xem xét bản thiết kế mô tả cách thành phần bên trong chip hoạt động (RTL) đầu tiên, nhóm nghiên cứu nhận thấy nhiều thông số và ước tính không khả thi về mặt vật lý. Bản thiết kế sau đó bị loại bỏ. Từ đây, các tác nhân AI chuyển sang sử dụng ASL - một ngôn ngữ đặc tả chuyên dụng thay cho tiếng Anh thông thường. Theo Architect Labs, ngôn ngữ tự nhiên khó diễn đạt chính xác mọi chi tiết kỹ thuật và dễ khiến các lỗi bị bỏ sót."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng ASL giúp hệ thống kiểm tra tính hợp lệ của bản thiết kế, phát hiện nhiều nhóm lỗi và hạn chế tình trạng AI chỉ tìm cách tối ưu theo mục tiêu được giao mà bỏ qua những ràng buộc thực tế. Các tác nhân cũng phát triển Arcmodel - phần mềm mô phỏng hoạt động của toàn bộ chip trước khi chuyển sang thiết kế mạch điện thực tế. Thay vì kiểm tra trực tiếp trên bản thiết kế RTL vốn mất nhiều thời gian, AI thử nghiệm các ý tưởng trên mô hình thay thế, có tốc độ nhanh hơn khoảng 200 lần. Ở những lần thử nghiệm đầu tiên, kết quả ước tính mức tiêu thụ năng lượng sai lệch gần 250%. Tuy nhiên, qua nhiều lần điều chỉnh, sai số giảm xuống dưới 5%."
+    },
+    {
+     "t": "p",
+     "text": "Trong giai đoạn tiếp theo, các tác nhân đề xuất 58 cải tiến về kiến trúc chip. Sau khi trải qua bước kiểm tra đặc tả, mô phỏng, tích hợp mạch và đo mức tiêu thụ năng lượng, 37 ý tưởng được đánh giá đạt yêu cầu và giữ lại. Hệ thống cũng tự hình thành cơ chế phân bổ công việc giữa các tile (khối xử lý): khi một tile hoàn thành nhiệm vụ, nó có thể nhận phần việc còn lại từ tile bên cạnh hoặc chuyển sang chế độ nghỉ để tiết kiệm năng lượng, mà không cần con người chỉ định."
+    },
+    {
+     "t": "p",
+     "text": "Trong tập hợp 25 tác vụ lựa chọn, gồm 15 tác vụ được đưa vào ở vòng đánh giá cuối cùng, cụm Frostbite gồm bốn tile đạt mức hiệu năng trên mỗi watt cao gấp 4,59 lần so với một lõi CPU siêu vô hướng (superscalar) phổ biến hiện nay vốn sử dụng kiến trúc xử lý dạng phát lệnh kép, thực thi tuần tự (dual-issue, in-order)."
+    },
+    {
+     "t": "p",
+     "text": "Dù kết quả cuối cùng cho thấy hiệu năng của lõi CPU vẫn \"gần như đình trệ\", đội ngũ Architect Labs đánh giá AI đã thể hiện khả năng xử lý tốt xuyên suốt quá trình, từ đề xuất ý tưởng đến hoàn thiện thiết kế chip. Nhóm dự đoán, khi các mô hình AI tiếp tục phát triển, chúng có thể tạo ra thay đổi căn bản trong kiến trúc của nhiều loại chip, từ bộ xử lý máy chủ, chip tăng tốc AI đến thiết bị chuyển mạch và card mạng."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, Frostbite hiện mới dừng ở giai đoạn thiết kế và mô phỏng trên quy trình công nghệ 7 nm, chưa sản xuất thành chip thực tế. Architect Labs cũng không công bố tên bộ xử lý được sử dụng để so sánh hiệu năng do những ràng buộc pháp lý."
+    },
+    {
+     "t": "p",
+     "text": "Frostbite không phải thiết kế chip đầu tiên của Architect Labs. Hồi tháng 8, startup giới thiệu Redwood, bộ tăng tốc suy luận trí tuệ nhân tạo dành cho robot và máy bay không người lái, đang hướng tới sản xuất chip này thông qua TSMC, nhưng không nêu chi tiết."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh Architect Labs, một số công ty hiện sử dụng AI cho nghiên cứu vi xử lý. Cuối tháng 9, OpenAI và tập đoàn bán dẫn Mỹ Synopsys thông báo hợp tác phát triển mô hình GPT-Synopsys có khả năng vận hành trực tiếp công cụ thiết kế chip chuyên nghiệp nhằm giúp kỹ sư rút ngắn quy trình và đưa sản phẩm ra thị trường nhanh hơn."
+    },
+    {
+     "t": "p",
+     "text": "Bảo Lâm tổng hợp"
+    },
+    {
+     "t": "li",
+     "text": "Chip AI thu hút nhà sản xuất kim cương nhân tạo Trung Quốc"
+    },
+    {
+     "t": "li",
+     "text": "Khủng hoảng heli bủa vây ngành chip và bán dẫn"
+    },
+    {
+     "t": "li",
+     "text": "'Ngựa ô' ngành bán dẫn thách thức thế độc tôn của Nvidia"
+    },
+    {
+     "t": "li",
+     "text": "Mô hình AI tự thiết kế và cải tiến chip bán dẫn"
+    },
+    {
+     "t": "li",
+     "text": "Chip AI thu hút nhà sản xuất kim cương nhân tạo Trung Quốc"
+    },
+    {
+     "t": "li",
+     "text": "Khủng hoảng heli bủa vây ngành chip và bán dẫn"
+    },
+    {
+     "t": "li",
+     "text": "'Ngựa ô' ngành bán dẫn thách thức thế độc tôn của Nvidia"
+    },
+    {
+     "t": "li",
+     "text": "Mô hình AI tự thiết kế và cải tiến chip bán dẫn"
+    }
+   ]
+  },
+  {
+   "id": "73739fd27bc8",
+   "order": 17,
+   "slug": "con-trung-tung-co-24-chan",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Côn trùng từng có 24 chân",
+   "sapo": "Một sinh vật nhiều chân từ xa xưa giúp lấp đầy khoảng trống lớn trong hồ sơ hóa thạch — và gợi ý cách côn trùng ngày nay chỉ còn lại 6 chân.",
+   "author": "Elie Dolgin",
+   "source_name": "Science News Explores",
+   "source_url": "https://www.snexplores.org/article/insects-had-24-legs",
+   "published": "2026-11-25T11:30:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1374,
+   "translated": true,
+   "translated_from": "Science News Explores",
+   "title_original": "Insects once had 24 legs",
+   "images": [
+    {
+     "src": "img/2026-11-26/73739fd27bc8-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Côn trùng nổi tiếng vì có cơ thể 6 chân. Nhưng không phải lúc nào cũng vậy. Một hóa thạch 324 triệu năm tuổi được khai quật ở miền tây Texas lại có cấu tạo khác hẳn. Sinh vật kỳ lạ cổ xưa này có tới 18 chân phụ dọc theo bụng. Đó là một kiểu cơ thể không giống bất kỳ loài côn trùng nào ngày nay."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho biết đây là một trong những loài côn trùng kỳ lạ nhất từng được tìm thấy. Họ công bố phát hiện này vào ngày 26 tháng 8 trên tạp chí Nature."
+    },
+    {
+     "t": "p",
+     "text": "Phát hiện này \"lấp đầy một khoảng trống lớn trong hồ sơ hóa thạch\", Erik Tihelka nói. Là một nhà cổ côn trùng học (paleoentomologist), ông dùng hóa thạch để nghiên cứu côn trùng thời tiền sử. Ông làm việc tại Đại học Cambridge ở Anh."
+    },
+    {
+     "t": "p",
+     "text": "Tihelka cho biết hóa thạch cổ xưa này giúp làm sáng tỏ quá trình tiến hóa của côn trùng ngày nay từ tổ tiên nhiều chân, giống tôm của chúng. \"Nó cho thấy đã có những hình dạng chuyển tiếp trên con đường đó\" — trước khi côn trùng ổn định với 6 chân."
+    },
+    {
+     "t": "p",
+     "text": "Tihelka và nhóm của ông đặt tên cho hóa thạch là Chosha praecursor. Cái tên này được lấy cảm hứng từ thần thoại sáng thế của người Navajo, trong đó thế giới từng có những con người giống côn trùng sinh sống. Theo thần thoại đó, con cháu của họ sau này lan rộng khắp Trái Đất. Tên của hóa thạch kết hợp từ \"côn trùng\" trong tiếng Navajo (ch'osh) với từ Latin nghĩa là \"tiền thân\"."
+    },
+    {
+     "t": "h",
+     "text": "Một trường hợp nhận diện sai"
+    },
+    {
+     "t": "p",
+     "text": "Hóa thạch này ban đầu có một cái tên rất khác. Nó được thu thập vào năm 1985 từ một mỏm đá gần Vườn quốc gia Big Bend. Đó là ở tây nam Texas. Lúc đầu, các nhà khoa học cho rằng đây là con non (juvenile) của một loài giáp xác tên là Tesnusocaris goldichi. Những mẫu khác của loài này đã được tìm thấy trong các loại đá tương tự. Các nhà nghiên cứu thấy phát hiện này không quan trọng lắm và trong nhiều năm đã để nó trong một ngăn tủ ở một bảo tàng ở San Diego."
+    },
+    {
+     "t": "p",
+     "text": "Sau đó Tihelka nhìn thấy một bức vẽ của hóa thạch này trong một cuốn sách cổ sinh vật học của Nga mà ông mua lại. Ông lần theo nghiên cứu gốc về nó. Nhưng ông có một cảm giác kỳ lạ về việc mẫu vật này được phân loại là giáp xác. Vì vậy ông đã đến Bảo tàng Lịch sử Tự nhiên San Diego để tự mình xem xét nó."
+    },
+    {
+     "t": "p",
+     "text": "Thoạt nhìn, hóa thạch chỉ giống như một \"vết đen mờ\", Tihelka kể lại. Sau đó ông nhìn lại qua các bộ lọc ánh sáng phân cực (polarized light filters). Những bộ lọc này cắt giảm phản xạ và làm rõ hình ảnh. Giờ đây, ông có thể nhìn ra những chi tiết mới. Và những chi tiết này cho thấy hóa thạch là một loài côn trùng sơ khai."
+    },
+    {
+     "t": "p",
+     "text": "Tihelka nhìn thấy một phần giữa cơ thể, gọi là ngực (thorax). Nó được chia thành ba đốt — giống như côn trùng ngày nay. Ông cũng thấy một phần bụng dài với 11 đốt. Côn trùng ngày nay có phần bụng với 7 đến 11 đốt."
+    },
+    {
+     "t": "p",
+     "text": "Hóa thạch này còn có một râu dài như cái roi trên đầu, một ống cứng để đẻ trứng và một cái đuôi dài ở giữa, nằm kẹp giữa hai đuôi ngắn hơn. Và tất nhiên, nó có ba cặp chân để đi lại."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng có một vấn đề nhỏ: hóa thạch Chosha không chỉ có ba cặp chân đi. Có thêm chín cặp chân ngắn, mập mạp mọc ra từ phần bụng của nó. Những cặp chân ở phía sau có hình dạng như cái chèo. Chúng có thể đã giúp con côn trùng này bơi hoặc di chuyển nhanh qua các vùng biển nông đầy bùn."
+    },
+    {
+     "t": "h",
+     "text": "Bạn có câu hỏi về khoa học không? Chúng tôi có thể giúp!"
+    },
+    {
+     "t": "p",
+     "text": "Hãy gửi câu hỏi của bạn ở đây, và chúng tôi có thể trả lời trong một số báo sắp tới của Science News Explores."
+    },
+    {
+     "t": "h",
+     "text": "Còn những côn trùng cổ đại nhiều chân khác thì sao?"
+    },
+    {
+     "t": "p",
+     "text": "Điều thực sự khiến Tihelka ngạc nhiên là anh đã từng thấy những hóa thạch khác giống như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Một mẫu vật có tuổi 405 triệu năm được tìm thấy ở Scotland. Anh cũng nhớ đến một cặp hóa thạch nhiều chân, giống côn trùng, chưa được mô tả, từ một địa điểm ở Illinois."
+    },
+    {
+     "t": "p",
+     "text": "Tihelka đã so sánh cơ thể của những sinh vật kỳ lạ cổ xưa này với các loài côn trùng và động vật giáp xác (crustacean) khác, cả loài còn sống và loài đã tuyệt chủng. Những sự so sánh như vậy giúp các nhà khoa học tìm ra sinh vật nào có quan hệ với một hóa thạch chưa rõ danh tính. Và điều đó giúp họ xếp các hóa thạch vào những nhóm khác nhau. Chẳng hạn, cơ thể của nó có giống với một loài côn trùng, như con châu chấu hay con kiến không? Hay nó giống một loài giáp xác hơn, như con tôm hay con cua?"
+    },
+    {
+     "t": "p",
+     "text": "Khi đặt lên cây phả hệ (family tree), Tihelka có thể thấy rằng Chosha cùng với các hóa thạch từ Scotland và Illinois đều nằm ở cùng một vị trí. Tất cả chúng đều nằm ngay bên ngoài nhóm bao gồm mọi loài côn trùng còn sống ngày nay."
+    },
+    {
+     "t": "p",
+     "text": "Điều đó khiến chúng trở thành một tổ tiên cổ xưa của các loài côn trùng ngày nay. Động vật giáp xác chỉ là một nhánh xa trên cây phả hệ đó. Chúng giống như người anh em họ hơn là người thân trực tiếp."
+    },
+    {
+     "t": "h",
+     "text": "Thích nghi với cuộc sống trên đất liền"
+    },
+    {
+     "t": "p",
+     "text": "Việc nhìn lại những bằng chứng cũ với công cụ mới đang làm thay đổi cách các nhà khoa học nhìn nhận về Chosha và các loài thân thuộc nhiều chân của nó. Với cả chân đi bộ và chân giống như mái chèo, Chosha có khả năng sống kiểu nửa sống dưới nước nửa trên cạn (semi-aquatic). Vào một thời điểm nào đó trong hàng triệu năm kể từ lúc đó, một loài côn trùng cổ xưa như vậy có lẽ đã thực hiện cú nhảy lớn để chuyển sang sống hoàn toàn trên đất liền."
+    },
+    {
+     "t": "p",
+     "text": "Qua rất nhiều, rất nhiều thế hệ, những tổ tiên côn trùng này đã tiến hóa để có ít chân hơn. Cuối cùng, chỉ còn lại sáu chân. Tổ tiên sống trên đất liền đó sau này đã sinh ra hàng triệu loài côn trùng đang tồn tại trên Trái Đất ngày nay."
+    },
+    {
+     "t": "p",
+     "text": "\"Đây là một điều khá thú vị,\" Tihelka nói. \"Chúng ta gọi côn trùng là 'hexapod,' có nghĩa là sáu chân. Nhưng hóa ra những loài đầu tiên lại có nhiều chân hơn thế.\""
+    },
+    {
+     "t": "p",
+     "text": "Dù có vẻ kỳ lạ, Chosha có thể giúp làm sáng tỏ cách côn trùng đã thực hiện cú nhảy từ dưới nước lên đất liền."
+    },
+    {
+     "t": "p",
+     "text": "\"Hóa thạch này là một dấu mốc quan trọng trong một giai đoạn đầy bí ẩn, khi mọi thứ đang chuyển đổi từ chủ yếu sống dưới nước sang sống trên đất liền,\" Dany Azar nói. Ông là một nhà cổ côn trùng học (paleoentomologist). Ông làm việc tại Đại học Lebanese ở Fanar và Viện Địa chất và Cổ sinh vật học Nam Kinh ở Trung Quốc. Ông cho biết hầu như không có bằng chứng hóa thạch nào về côn trùng từ thời kỳ cổ xưa đó, cách đây khoảng 325 đến 400 triệu năm."
+    },
+    {
+     "t": "p",
+     "text": "William Shear là một nhà cổ sinh vật học đã nghỉ hưu từ Đại học Hampden-Sydney ở Virginia. Chosha \"mở ra rất nhiều hướng nghiên cứu về sự tiến hóa của côn trùng,\" ông nói. \"Và chúng ta chỉ có thể hy vọng rằng sẽ tìm thấy thêm nhiều hóa thạch của loài sinh vật đặc biệt này khi tiếp tục tìm kiếm.\""
+    }
+   ]
+  },
+  {
+   "id": "f44291a2b4b1",
+   "order": 18,
+   "slug": "mat-trang-tam-thoi-ky-la-cua-trai-dat-da-tiet-lo-dieu-cac-nh",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Mặt trăng tạm thời kỳ lạ của Trái Đất đã tiết lộ điều các nhà thiên văn học dự đoán từ năm 1878",
+   "sapo": "Điệu nhảy quỹ đạo trong Hệ Mặt Trời có thể phức tạp hơn rất nhiều so với những gì hình vẽ trên lớp học của chúng ta thể hiện.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/confirmed-earth-has-picked-up-another-temporary-moonlet-and-its-orbit-is-wild",
+   "published": "2026-11-25T18:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 2226,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Earth's Strange New Moonlet Has Revealed Something Astronomers Predicted in 1878",
+   "images": [
+    {
+     "src": "img/2026-11-26/f44291a2b4b1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-26/f44291a2b4b1-0.jpg",
+     "caption": "Đường đi của 2026 QQ 8 quanh Trái Đất nhìn từ hệ quy chiếu không quay (trên) và hệ quy chiếu quay cùng (dưới). Màu đỏ chỉ giai đoạn tiểu hành tinh bị giữ lại bởi lực hấp dẫn của Trái Đất, còn màu xanh là đường đi của nó trước và sau khi bị bắt giữ. Vòng tròn nhỏ ở giữa thể hiện quỹ đạo của Mặt Trăng. (Fedorets và cộng sự, arXiv, 2026)",
+     "w": 599,
+     "h": 489
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Điệu nhảy quỹ đạo trong Hệ Mặt Trời có thể phức tạp hơn rất nhiều so với những gì hình vẽ trên lớp học của chúng ta thể hiện."
+    },
+    {
+     "t": "p",
+     "text": "Chẳng hạn, chúng ta đều được dạy rằng Trái Đất chỉ có một Mặt Trăng, trong khi Sao Thổ và Sao Mộc có tới hàng trăm mặt trăng quay quanh."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng không phải lúc nào cũng vậy. Đôi khi, một vật thể nhỏ hơn có thể bị mắc tạm vào \"lưới\" hấp dẫn của Trái Đất - một mặt trăng tạm thời chỉ lưu lại vài tháng rồi lại tiếp tục đi tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Hành tinh của chúng ta hiện đang có một \"khách\" như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Nó có tên là 2026 QQ 8 - một hòn đá nhỏ chỉ rộng vài mét. Nó lọt vào quỹ đạo Trái Đất từ tháng 4 năm nay, nhưng thời gian lưu lại của nó sẽ rất ngắn."
+    },
+    {
+     "t": "p",
+     "text": "Người ta dự đoán nó sẽ rời đi vào ngày 7 tháng 12 năm 2026 - nhưng trong khoảng thời gian rất ngắn ngủi đồng hành cùng Trái Đất, nó đã cho các nhà thiên văn học cái nhìn đầu tiên về một kiểu bố trí quỹ đạo kỳ lạ được dự đoán từ gần 150 năm trước."
+    },
+    {
+     "t": "p",
+     "text": "\"Quỹ đạo khác thường của nó gần với giới hạn thời gian tối đa theo lý thuyết của một vật thể bị bắt giữ trong hệ Trái Đất - Mặt Trăng, và giờ đây lần đầu tiên đã được quan sát thấy,\" nhóm nghiên cứu do nhà thiên văn học Grigori Fedorets thuộc Đại học Turku ở Phần Lan dẫn đầu viết trong một bản thảo chưa qua bình duyệt đăng trên arXiv."
+    },
+    {
+     "t": "p",
+     "text": "Vào thời điểm QQ 8 được phát hiện, nó đã ở trong quỹ đạo Trái Đất được vài tháng."
+    },
+    {
+     "t": "p",
+     "text": "Lần xác định đầu tiên được thực hiện vào ngày 19 tháng 8 năm 2026 bởi nhà thiên văn học Krisztián Sárneczky tại Đài quan sát Konkoly ở Hungary - nhưng không lâu sau đó, nhiều vấn đề đã xuất hiện."
+    },
+    {
+     "t": "p",
+     "text": "Mặc dù mối quan hệ quỹ đạo của vật thể này với Trái Đất được nhận ra ngay lập tức, danh tính của nó thì không - và các nhà thiên văn học chưa thể xác định ngay liệu đó là một vật thể tự nhiên hay là một mảnh rác vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một tình huống khó xử bất ngờ thường gặp trong ngành thiên văn học. Con người đã để lại quá nhiều rác trong không gian quanh Trái Đất, đến mức đôi khi những thứ đó có thể bị nhầm là vật thể có nguồn gốc vũ trụ xa xôi hơn – thậm chí có khả năng bị nhầm là một vụ nổ tia gamma từ thời kỳ đầu của Vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "QQ 8 cho thấy vấn đề cũng có thể xảy ra theo chiều ngược lại. Và điều này đã gây ra không ít rắc rối cho các nhà thiên văn học khi họ cố gắng tìm hiểu rõ về vật thể này."
+    },
+    {
+     "t": "p",
+     "text": "Những vật thể bị nghi là do con người tạo ra – giống như hầu hết các vật thể đang bay quanh Trái Đất – thường bị loại khỏi Trang xác nhận vật thể gần Trái Đất (Near-Earth Object Confirmation Page) của Trung tâm Hành tinh Nhỏ (Minor Planet Center), nơi các nhà thiên văn học dùng để phối hợp quan sát tiếp theo đối với các vật thể mới phát hiện. QQ 8 đã bị loại khỏi trang này hai lần."
+    },
+    {
+     "t": "p",
+     "text": "Điều này gây khó khăn cho các nhà thiên văn học khi họ đang lập kế hoạch quan sát tiếp theo – nhưng họ không bỏ cuộc. Để khắc phục, họ chia sẻ trực tiếp các số liệu đo được cho đồng nghiệp qua danh sách thư điện tử của các nhà nghiên cứu hành tinh nhỏ (Minor Planet Mailing List), nhờ đó việc quan sát vẫn được tiếp tục."
+    },
+    {
+     "t": "p",
+     "text": "Phải đến ngày 29 tháng 10, Trung tâm Hành tinh Nhỏ mới chính thức công bố việc phát hiện ra vệ tinh tự nhiên mới nhất của Trái Đất, đặt tên cho nó là 2026 QQ8 và xếp vào loại Vật thể bị bắt giữ tạm thời (Temporarily Captured Object)."
+    },
+    {
+     "t": "p",
+     "text": "Sự nhầm lẫn này xảy ra vì ở khoảng cách quá xa, dù là kính viễn vọng mạnh cũng chỉ có thể nhìn thấy một đốm sáng nhỏ từ một vật thể bé như vậy – và việc tìm ra QQ8 thực chất là gì đòi hỏi một quá trình điều tra thiên văn học rất thú vị."
+    },
+    {
+     "t": "p",
+     "text": "Một trong những manh mối liên quan đến áp lực nhẹ mà ánh sáng Mặt Trời tác động lên các vật thể."
+    },
+    {
+     "t": "p",
+     "text": "Photon – những hạt tạo nên ánh sáng – mang theo động lượng, và truyền động lượng đó cho vật thể khi va vào chúng. Điều này tạo ra một lực rất nhỏ gọi là áp suất ánh sáng (radiation pressure)."
+    },
+    {
+     "t": "p",
+     "text": "Lực này ảnh hưởng đến đường đi của vật thể nhiều hay ít phụ thuộc vào tỷ lệ giữa diện tích mặt cắt và khối lượng của vật thể, cùng một số yếu tố khác. Ví dụ, một tầng tên lửa bị bỏ lại, bên trong rỗng, sẽ dễ bị ánh sáng Mặt Trời đẩy đi hơn nhiều so với một khối đá rắn có kích thước tương tự."
+    },
+    {
+     "t": "p",
+     "text": "Bằng cách theo dõi chính xác đường đi của QQ8, Fedorets và các đồng nghiệp đã đo được tác động của áp suất ánh sáng Mặt Trời lên quỹ đạo của nó. Tác động đó quá nhỏ để phù hợp với rác vũ trụ thông thường, nhưng lại nằm trong phạm vi phù hợp với một vật thể tự nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Bằng chứng tiếp theo đến từ cách vật thể này phản chiếu ánh sáng."
+    },
+    {
+     "t": "p",
+     "text": "Các loại vật liệu khác nhau hấp thụ và phản chiếu quang phổ ánh sáng theo những cách khác nhau. Bằng cách đo độ sáng của QQ 8 qua bốn bộ lọc khác nhau bằng Kính viễn vọng Quang học Bắc Âu (Nordic Optical Telescope) ở Quần đảo Canary, các nhà nghiên cứu đã xác định được rằng kiểu phản chiếu của nó rất giống với các tiểu hành tinh loại S - những vật thể đá giàu khoáng chất silicat."
+    },
+    {
+     "t": "p",
+     "text": "Dựa trên suất phản chiếu (albedo) điển hình của các tiểu hành tinh loại S và độ sáng của QQ 8, các nhà nghiên cứu sau đó có thể ước tính kích thước của nó - chỉ từ 1,3 đến 1,9 mét."
+    },
+    {
+     "t": "p",
+     "text": "Vì khoảng cách gần nhất mà QQ 8 tiếp cận Trái Đất được ước tính là 537.000 km, nên mức độ chi tiết này thật đáng kinh ngạc."
+    },
+    {
+     "t": "p",
+     "text": "Điều này dẫn chúng ta một cách tự nhiên đến quỹ đạo của nó - và lý do vì sao chúng ta không thể chắc chắn gọi QQ 8 là một \"mặt trăng tí hon\" (minimoon)."
+    },
+    {
+     "t": "p",
+     "text": "Các vệ tinh tự nhiên tạm thời của Trái Đất được chia thành hai loại: vật thể bị bắt giữ tạm thời vào quỹ đạo và vật thể bay qua tạm thời bị bắt giữ. Loại đầu tiên mới là thứ chúng ta gọi là \"mặt trăng tí hon\"."
+    },
+    {
+     "t": "p",
+     "text": "Sự khác biệt quan trọng nằm ở việc vật thể đó có hoàn thành một vòng quay đầy đủ quanh Trái Đất trước khi thoát khỏi lực hấp dẫn của Trái Đất hay không."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng hóa ra, thế nào mới được coi là một vòng quay đầy đủ lại là một câu hỏi phức tạp đến bất ngờ - vì Trái Đất không đứng yên trong không gian. Nó di chuyển quanh Mặt Trời theo quỹ đạo riêng của mình."
+    },
+    {
+     "t": "p",
+     "text": "Để hiểu được chuyển động của những \"người bạn đồng hành\" tạm thời của Trái Đất, các nhà thiên văn học sử dụng cái gọi là hệ quy chiếu đồng quay (co-rotating reference frame) - một góc nhìn quay cùng với Trái Đất khi nó quay quanh Mặt Trời, giữ cho vị trí của Trái Đất và Mặt Trời cố định so với nhau."
+    },
+    {
+     "t": "p",
+     "text": "Từ góc nhìn này, QQ 8 chỉ đi được khoảng ba phần tư vòng quanh Trái Đất trong thời gian bị bắt giữ, khiến nó về mặt kỹ thuật là một vật thể bay qua tạm thời bị bắt giữ, chứ không phải là một \"mặt trăng tí hon\"."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, một cách tính số vòng quay khác, dựa trên độ cong của đường bay ba chiều của vật thể, lại cho ra kết quả khác. Trong một bản nghiên cứu riêng do nhà thiên văn học Bryce Bolin ở Eureka Scientific dẫn đầu, các nhà nghiên cứu tính toán rằng QQ 8 hoàn thành hơn một vòng quay."
+    },
+    {
+     "t": "p",
+     "text": "Theo cách định nghĩa đó, nó đúng là một \"mặt trăng mini\". Một mặt trăng mini kiểu Schrödinger – vừa là vừa không phải, tùy vào cách tính toán."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Điều rõ ràng hơn là QQ 8 đã ở gần Trái Đất bao lâu, và đây mới là phần thú vị hơn."
+    },
+    {
+     "t": "p",
+     "text": "Hai vật thể bay ngang qua và bị giữ lại tạm thời từng được phát hiện trước đó, 2022 NX 1 và 2024 PT 5, chỉ bị lực hấp dẫn Trái Đất giữ lại trong khoảng một tháng mỗi vật. Thời gian lưu lại khá dài của QQ 8, lên tới 7,5 tháng, đưa nó vào nhóm 0,3% những lần bay ngang qua tồn tại lâu nhất theo các mô hình lý thuyết."
+    },
+    {
+     "t": "p",
+     "text": "Nguyên nhân nằm ở một dạng quỹ đạo đặc biệt, được nhà thiên văn học và toán học người Mỹ George William Hill đề xuất lần đầu vào năm 1878, gọi là quỹ đạo tuần trăng cực đại (orbit of maximum lunation)."
+    },
+    {
+     "t": "p",
+     "text": "Trong hệ quy chiếu quay cùng, một vật thể trên quỹ đạo như vậy có thể trông như gần như đứng yên, dù vẫn cùng Trái Đất quay quanh Mặt Trời, nấn lại trong nhiều tháng ở những vùng không gian cách hướng Mặt Trời khoảng 90 độ, được gọi là điểm vuông (quadrature)."
+    },
+    {
+     "t": "p",
+     "text": "QQ 8 là bằng chứng quan sát đầu tiên cho thấy những quỹ đạo như vậy thực sự tồn tại."
+    },
+    {
+     "t": "p",
+     "text": "Có thể còn những điều bất ngờ khác ẩn trong tảng đá nhỏ này. Bolin và các đồng nghiệp đã tìm cách xác định tảng đá này đến từ đâu."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng các quan sát từ Kính viễn vọng Rất Lớn (Very Large Telescope) ở Chile và các đài quan sát Keck, Gemini North ở Hawaii, các nhà nghiên cứu đã so sánh đặc tính phản xạ ánh sáng của QQ 8 không chỉ với các loại tiểu hành tinh khác nhau, mà còn với các mẫu đá được mang về từ Mặt Trăng."
+    },
+    {
+     "t": "p",
+     "text": "Hai mẫu đá bazan được các phi hành gia tàu Apollo 17 thu thập năm 1972 cho kết quả khớp đặc biệt tốt."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, có thể QQ 8 là một mảnh đá bị bắn ra từ Mặt Trăng sau một vụ va chạm, bay vào không gian để quay quanh Mặt Trời, rồi tạm thời bị Trái Đất \"bắt giữ\"."
+    },
+    {
+     "t": "p",
+     "text": "Nếu đúng là như vậy, QQ 8 có thể lớn hơn một chút so với con số mà Fedorets và các đồng nghiệp ước tính. Dựa trên độ phản chiếu ánh sáng thấp hơn của các mẫu đá Mặt Trăng, nhóm của Bolin đã tính ra đường kính khoảng 2,5 mét."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, sự trùng khớp này chưa phải là kết luận chắc chắn - các số liệu đo được cũng phù hợp với giả thuyết đây là một tiểu hành tinh đá. Những phép đo chi tiết hơn về ánh sáng phản chiếu từ QQ 8, đặc biệt ở bước sóng hồng ngoại, có thể giúp phân biệt rõ hai khả năng này."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, những khó khăn mà các nhà thiên văn gặp phải khi xác định QQ 8 đã cho thấy cần có những quy trình tốt hơn để nhận diện những \"người bạn đồng hành\" tự nhiên tạm thời của Trái Đất - đặc biệt khi người ta dự đoán còn rất nhiều vật thể như vậy đang tồn tại ngoài kia."
+    },
+    {
+     "t": "p",
+     "text": "QQ 8 chỉ là vật thể đồng hành tự nhiên tạm thời thứ năm của Trái Đất được phát hiện - và là vật thể thứ tư kể từ năm 2020 - nhưng các mô hình lý thuyết cho thấy hành tinh của chúng ta lúc nào cũng nên có ít nhất một vật thể như thế."
+    },
+    {
+     "t": "p",
+     "text": "Với Đài quan sát Vera C. Rubin sắp sửa phát hiện thêm nhiều vật thể như vậy trong những năm tới, có thể chúng ta sẽ còn phát hiện ra rằng Mặt Trăng vẫn luôn gửi cho chúng ta những \"lá thư tình\" nhỏ bằng đá."
+    },
+    {
+     "t": "p",
+     "text": "Hai bài báo khoa học này đều có sẵn trên arXiv. Bạn có thể xem bài của Fedorets và các đồng nghiệp tại đây, và bài của Bolin và các đồng nghiệp tại đây."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được kiểm chứng thông tin bởi Fiona MacDonald và biên tập bởi Fiona MacDonald. Dù chúng tôi luôn tự hào về quy trình làm việc của mình, nhưng chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "8cd7bb44a04c",
+   "order": 19,
+   "slug": "nasa-tim-kiem-cay-trong-cho-thuc-don-tuong-lai",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "NASA tìm kiếm cây trồng cho thực đơn tương lai",
+   "sapo": "Một nghiên cứu mới từ Bộ phận Khoa học Sinh học và Vật lý của NASA sẽ là buồng tăng trưởng thử nghiệm đầu tiên thuộc loại này, cung cấp những hiểu biết quan trọng để phát triển các hệ thống trồng cây có thể trồng những loại cây như vậy cho các khu cư trú trên Căn cứ Mặt Trăng và các sứ mệnh sao Hỏa trong tương lai.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+   "published": "2026-11-25T17:53:42+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 970,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA Eyes Crop Candidates for Future Menus",
+   "images": [
+    {
+     "src": "img/2026-11-26/8cd7bb44a04c-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 579
+    },
+    {
+     "src": "img/2026-11-26/8cd7bb44a04c-0.jpg",
+     "caption": "SpaceCropsThanksgiving",
+     "w": 1200,
+     "h": 543
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khi NASA chuẩn bị cho các sứ mệnh tương lai lên Mặt Trăng và sao Hỏa, các nhà nghiên cứu đang nghiên cứu những loại cây trồng có thể cung cấp cho các nhà du hành vũ trụ thực phẩm tươi, dinh dưỡng và sự đa dạng khi ở xa Trái Đất. Sự đa dạng cây trồng này có thể giúp làm phong phú thực đơn trong không gian sâu, điều đang được chú ý trong tuần này khi nước Mỹ kỷ niệm Lễ Tạ Ơn."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các thử nghiệm gần đây cho thấy dâu tây, dưa chuột và húng quế chanh là những lựa chọn tiềm năng cho các nhà thám hiểm trong tương lai. Cây trồng trong không gian có thể hấp thụ khí carbon dioxide, tạo ra oxy và tái chế nước. Những khả năng này sẽ ngày càng trở nên quan trọng khi các sứ mệnh có người điều khiển đi xa hơn khỏi hành tinh của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi nghiên cứu cây trồng không gian đang tiến triển trên Trái Đất, các khả năng cũng đang được mở rộng ngay trong không gian. Một nghiên cứu mới từ Bộ phận Khoa học Sinh học và Vật lý của NASA sắp được đưa lên Trạm Vũ trụ Quốc tế, nơi buồng tăng trưởng thử nghiệm đầu tiên thuộc loại này sẽ cung cấp những hiểu biết quan trọng để phát triển các hệ thống trồng cây có thể trồng những loại cây như vậy cho các khu cư trú trên Căn cứ Mặt Trăng và các sứ mệnh sao Hỏa trong tương lai."
+    },
+    {
+     "t": "h",
+     "text": "Dâu tây ngọt ngào trong không gian"
+    },
+    {
+     "t": "p",
+     "text": "Dâu tây là một trong số ít loại quả ngọt đang được xem xét cho các chuyến bay vũ trụ, và chúng giàu dinh dưỡng, thơm ngon, có thể tự thụ phấn."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tại Trung tâm Vũ trụ Kennedy của NASA ở Florida đang trồng dâu tây trong các buồng tăng trưởng giống như trên chuyến bay thực tế để đánh giá loại cây trồng không gian tiềm năng này. Các đối tác của NASA tại Trung tâm Nghiên cứu Xuất sắc về Cây trồng cho Không gian của Hội đồng Nghiên cứu Úc cũng đang giúp mở rộng hiểu biết về dâu tây không gian."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu tại NASA Kennedy, Đại học Melbourne và Đại học Tây Úc gần đây đã thử nghiệm so sánh một loại dâu tây dại với ứng cử viên dâu tây hàng đầu của NASA, giống 'Delizz', để xem loại nào phát triển tốt hơn trong điều kiện mô phỏng không gian."
+    },
+    {
+     "t": "p",
+     "text": "Theo một nghiên cứu công bố vào tháng Chín trên tạp chí Life Sciences in Space Research, Delizz và dâu tây dại tạo ra những quả rất khác nhau. Delizz cho quả to, màu đỏ, còn dâu tây dại cho quả nhỏ, màu vàng do một đột biến gen lặn."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng vẻ ngoài không phải là tất cả. Khi được trồng từ hạt, dâu tây dại cho ra số nụ, hoa và quả gấp đôi so với Delizz. Tuy nhiên, cuối cùng lựa chọn của NASA vẫn giữ vị trí dẫn đầu, bởi dâu tây dại mọc quá nhiều thân bò (runner), điều này sẽ chiếm mất không gian quý giá trên tàu vũ trụ."
+    },
+    {
+     "t": "h",
+     "text": "Dưa chuột cho thấy nhiều hứa hẹn"
+    },
+    {
+     "t": "p",
+     "text": "Nhiều loại cây trồng đã được trồng trong không gian, nhưng chưa có loại nào thuộc họ bầu bí. Dưa chuột có thể sẽ là loại cây đầu tiên."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi những loại cây trồng như dưa chuột có thể được trồng và ăn trong không gian, chúng phải trải qua quá trình thử nghiệm kỹ lưỡng. Các nhà nghiên cứu được NASA cấp vốn gần đây đã đánh giá dưa chuột về khả năng sinh trưởng, năng suất và giá trị dinh dưỡng trong điều kiện bay vào không gian."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu phát hiện rằng mặc dù cây có một số dấu hiệu lá bị to hơn bình thường, chúng vẫn cho ra quả ăn được đều đặn, theo một nghiên cứu công bố vào tháng 8 trên tạp chí HortScience."
+    },
+    {
+     "t": "p",
+     "text": "Việc cung cấp nhiều loại cây trồng khác nhau, như dưa chuột, không chỉ có lợi cho chế độ ăn và sức khỏe tinh thần của các nhà du hành vũ trụ, mà còn làm tăng sự đa dạng sinh học của thực vật, giúp tăng khả năng trồng cây thành công trong các chuyến bay dài ngày."
+    },
+    {
+     "t": "h",
+     "text": "Thêm hương vị cho chuyến bay vào không gian"
+    },
+    {
+     "t": "p",
+     "text": "Các loại thảo mộc có thể làm cho cuộc sống trong không gian thêm thú vị, biến một bữa ăn nhàm chán thành một bữa ăn đậm đà."
+    },
+    {
+     "t": "p",
+     "text": "Húng chanh, một loại thảo mộc ăn được có mùi và vị cam quýt, đang có những bước tiến trong quá trình thử nghiệm tại Trung tâm Kennedy của NASA."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho biết húng chanh đã vượt qua vòng thử nghiệm sơ bộ cho cây trồng trong không gian và đã được khử trùng hạt giống thành công - một bước bắt buộc trước khi bay vào không gian để loại bỏ vi sinh vật khỏi hạt. Bước tiếp theo đối với húng chanh là đánh giá khả năng sinh trưởng của nó trong các \"túi trồng cây\" (plant pillows), vật dụng có thể chứa cây trồng trên trạm vũ trụ."
+    },
+    {
+     "t": "p",
+     "text": "Tình trạng chán ăn vì thực đơn lặp lại có thể nhanh chóng trở thành vấn đề đối với các nhà du hành vũ trụ, nhưng các loại thảo mộc tươi như húng chanh giúp biến những bữa ăn đóng gói thành món gì đó mới lạ và ngon miệng hơn, góp phần hỗ trợ sức khỏe và hiệu suất làm việc của con người trong không gian."
+    }
+   ]
+  },
+  {
+   "id": "1d9cf67cf255",
+   "order": 20,
+   "slug": "kinh-hubble-cua-nasa-ngam-bien-sao-de-chuan-bi-cho-kinh-roma",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Kính Hubble của NASA ngắm \"biển sao\" để chuẩn bị cho kính Roman",
+   "sapo": "Những quan sát này của Hubble sẽ giúp các nhà nghiên cứu hiểu rõ hơn dữ liệu sắp tới từ Kính viễn vọng Không gian Nancy Grace Roman.",
+   "author": "",
+   "source_name": "NASA",
+   "source_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+   "published": "2026-11-25T14:56:54+07:00",
+   "lang": "vi-dich",
+   "score": 7,
+   "words": 906,
+   "translated": true,
+   "translated_from": "NASA",
+   "title_original": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+   "images": [
+    {
+     "src": "img/2026-11-26/1d9cf67cf255-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 936
+    },
+    {
+     "src": "img/2026-11-26/1d9cf67cf255-0.jpg",
+     "caption": "Vô số vì sao với đủ màu xanh, cam, đỏ, vàng và trắng lấp đầy khung ảnh.",
+     "w": 1280,
+     "h": 892
+    },
+    {
+     "src": "img/2026-11-26/1d9cf67cf255-1.jpg",
+     "caption": "Những vì sao trắng, xanh, cam, đỏ và vàng lấp đầy khung cảnh. Một vùng tối hơn kéo dài từ phía trên bên trái xuống giữa phía dưới của bức ảnh.",
+     "w": 1280,
+     "h": 918
+    },
+    {
+     "src": "img/2026-11-26/1d9cf67cf255-2.jpg",
+     "caption": "Những vì sao xanh và trắng lấp đầy khung ảnh, xen lẫn vài đốm sao màu cam và vàng.",
+     "w": 1280,
+     "h": 936
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trong những bức ảnh này của Kính viễn vọng Không gian Hubble (NASA), vô vàn vì sao lấp lánh đủ màu sắc như cầu vồng thuộc dải Ngân Hà. Các bức ảnh tập trung vào một vùng trời hướng về phần lồi trung tâm của thiên hà (galactic bulge) - một khu vực hình cầu, nơi các vì sao tập trung dày đặc, bao quanh trung tâm của đĩa thiên hà. Những quan sát này của Hubble là một phần trong chương trình khảo sát sẽ giúp các nhà nghiên cứu hiểu rõ hơn dữ liệu sắp tới từ Kính viễn vọng Không gian Nancy Grace Roman, khi họ tìm cách xác định đặc điểm của các vì sao và tìm kiếm các hành tinh ngoài hệ Mặt Trời (exoplanet) trong vùng đông đúc này của thiên hà chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà thiên văn học nghiên cứu phần lồi trung tâm của dải Ngân Hà vì nơi đây chứa gần một phần tư khối lượng sao của toàn thiên hà, và vì nó ở gần nên họ có thể quan sát chi tiết hơn. Mặc dù chúng ta có thể nhìn thấy ánh sáng phát ra từ những khu vực sao dày đặc tương tự ở các thiên hà khác, nhưng chúng quá chật chội và quá xa để có thể phân biệt từng vì sao riêng lẻ. Bằng cách nghiên cứu phần lồi trung tâm của dải Ngân Hà, các nhà nghiên cứu hy vọng tìm ra những hành tinh mới và hiểu rõ hơn cách các thiên hà hình thành, phát triển và tương tác với nhau qua hàng tỷ năm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Hubble quan sát vũ trụ chủ yếu bằng ánh sáng cực tím, ánh sáng nhìn thấy và ánh sáng hồng ngoại gần, còn Roman thu thập dữ liệu bằng ánh sáng hồng ngoại gần và một phần ánh sáng nhìn thấy. Vì các nhà nghiên cứu muốn so sánh quan sát của Hubble với quan sát trong tương lai của Roman, nên Hubble đã quan sát khu vực này ở những bước sóng trùng với vùng nhạy của Roman, đó là phần đỏ của quang phổ nhìn thấy và các bước sóng hồng ngoại gần."
+    },
+    {
+     "t": "p",
+     "text": "Độ phân giải cao của Hubble cho phép các thiết bị của nó thu thập dữ liệu về độ sáng, tuổi, thành phần và sự chuyển động của các vì sao theo thời gian. Với những dữ liệu này, các nhà thiên văn học có thể tìm kiếm những hành tinh ngoài hệ Mặt Trời có thể tồn tại, xác định vị trí của các lỗ đen hoặc vật chất tối, và hiểu rõ hơn về môi trường cũng như sự phát triển của thiên hà chúng ta."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một phần quan trọng trong các quan sát tương lai của Roman là tìm kiếm hành tinh ngoài hệ Mặt Trời bằng cách chụp lại các sự kiện vi thấu kính hấp dẫn (microlensing) - một dạng thấu kính hấp dẫn xảy ra khi ánh sáng từ một vật thể xa hơn bị khuếch đại và bị bẻ cong bởi khối lượng của một vật thể gần hơn nằm trên cùng đường ngắm. Cách ánh sáng từ ngôi sao xa bị bẻ cong và khuếch đại có thể tiết lộ những đầu mối về bản chất của ngôi sao ở phía trước và bất kỳ hành tinh nào nó có thể có. Những quan sát của Hubble sẽ giúp xác định đặc điểm của các vì sao trong khu vực này trước khi chúng trải qua một sự kiện thấu kính. Vài tháng hoặc vài năm sau, khi Roman chụp lại được một sự kiện vi thấu kính, các nhà nghiên cứu có thể so sánh dữ liệu của Hubble với dữ liệu của Roman về sự kiện đó, giúp việc phân tích trở nên dễ dàng hơn. Những sự kiện vi thấu kính này diễn ra ở quy mô nhỏ hơn rất nhiều - ở cấp độ các vì sao và hành tinh - so với những thấu kính hấp dẫn lớn hơn xảy ra quanh các thiên hà và cụm thiên hà."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Trong suốt thời gian hoạt động, Hubble đã nhiều lần quan sát phần lồi trung tâm của thiên hà chúng ta. Những chương trình khảo sát để đời này bao gồm Chương trình Khảo sát Kho báu Phần Lồi Thiên hà WFC3 (WFC3 Galactic Bulge Treasury Program), sử dụng Camera Trường rộng 3 (Wide Field Camera 3) của Hubble để nghiên cứu độ sáng, vị trí chính xác và sự chuyển động của các vì sao trong vùng đông đúc này của thiên hà chúng ta. Nó cũng bao gồm chương trình Tìm kiếm Hành tinh Ngoài hệ Mặt Trời qua Nhật thực tại Cửa sổ Sagittarius (SWEEPS - Sagittarius Window Eclipsing Extrasolar Planet Search), sử dụng Camera Khảo sát Tiên tiến (Advanced Camera for Surveys) của Hubble để quan sát 180.000 vì sao ở phần lồi của thiên hà chúng ta. Những quan sát mới này nằm trong một chương trình quan sát (số 17776: S. Terry) được thiết kế để hỗ trợ Roman trong việc tìm kiếm hành tinh ngoài hệ Mặt Trời, lỗ đen, sao neutron và nhiều thứ khác. Dữ liệu này cũng góp phần vào di sản liên tục của Hubble về những quan sát độ chính xác cao đối với các vì sao ở phần lồi trung tâm thiên hà."
+    }
+   ]
+  }
+ ]
+}
