@@ -1,0 +1,2816 @@
+{
+ "date": "2026-11-27",
+ "paper": "LEVEL UP",
+ "tagline": "Mỗi ngày lên một cấp. Đọc hết là xong, hẹn mai nhé!",
+ "generated_at": "2026-11-27T07:30:04+07:00",
+ "sections": [
+  {
+   "id": "sang-tao-kien-truc",
+   "name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨"
+  },
+  {
+   "id": "guong-sang",
+   "name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟"
+  },
+  {
+   "id": "nguoi-va-viec",
+   "name": "Người và Việc",
+   "emoji": "💡"
+  },
+  {
+   "id": "cuoi-tuan-di-dau",
+   "name": "Cuối tuần đi đâu",
+   "emoji": "🎡"
+  },
+  {
+   "id": "kham-pha-the-gioi",
+   "name": "Khám phá thế giới",
+   "emoji": "🌏"
+  },
+  {
+   "id": "the-thao-dep",
+   "name": "Thể thao đẹp",
+   "emoji": "⚽"
+  },
+  {
+   "id": "kham-pha-khoa-hoc",
+   "name": "Khám phá khoa học",
+   "emoji": "🔬"
+  },
+  {
+   "id": "the-gioi-dong-vat",
+   "name": "Thế giới động vật",
+   "emoji": "🦈"
+  }
+ ],
+ "articles": [
+  {
+   "id": "09c41dd4dee8",
+   "order": 1,
+   "slug": "bien-may-trang-cuon-cuon-nhu-dong-thac-chay-giua-troi-o-ta-x",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Biển mây trắng cuồn cuộn như dòng thác chảy giữa trời ở Tà Xùa",
+   "sapo": "(Dân trí) - Những dòng mây trắng cuồn cuộn tràn qua sườn núi rồi đổ xuống thung sâu như thác nước, khiến nhiều người ví như chốn bồng lai. Dịp này, Tà Xùa",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/bien-may-trang-cuon-cuon-nhu-dong-thac-chay-giua-troi-o-ta-xua-20261126105222768.htm",
+   "published": "2026-11-26T04:19:42+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 835,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/09c41dd4dee8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/09c41dd4dee8-0.jpg",
+     "caption": "Tà Xùa đang vào mùa săn mây (Ảnh: Nhân vật cung cấp).",
+     "w": 1020,
+     "h": 1020
+    },
+    {
+     "src": "img/2026-11-27/09c41dd4dee8-1.jpg",
+     "caption": "Tới Tà Xùa mùa này, du khách phải đặt phòng trước đó khoảng một tháng (Ảnh: Nhân vật cung cấp).",
+     "w": 1280,
+     "h": 720
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Những dòng mây trắng cuồn cuộn tràn qua sườn núi rồi đổ xuống thung sâu như thác nước, khiến nhiều người ví như chốn bồng lai. Dịp này, Tà Xùa đông khách cả cuối tuần lẫn ngày thường."
+    },
+    {
+     "t": "p",
+     "text": "Khoảng 15h30 chiều 24/11, khi nắng đã bắt đầu nghiêng trên những đỉnh núi Tà Xùa (tỉnh Sơn La), anh Lù A Cu đứng ở một mỏm cao trên khu vực Đỉnh Gió và bấm máy. Trước mắt anh, biển mây trắng dày đặc trải kín các thung lũng."
+    },
+    {
+     "t": "p",
+     "text": "Từng đợt mây tràn qua sống núi rồi đổ xuống sườn bên kia, chậm rãi mà không ngừng, như một dòng thác khổng lồ chảy giữa trời. Đoạn video ngắn được đăng lên mạng xã hội nhanh chóng thu hút sự chú ý."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người để lại bình luận rằng khung cảnh \"như lạc vào chốn bồng lai tiên cảnh\". Số khác hẹn nhau lên kế hoạch lên Tà Xùa ngay trong mùa này."
+    },
+    {
+     "t": "p",
+     "text": "Chia sẻ với phóng viên Dân trí , anh Lù A Cu sống ở Mù Cang Chải, làm nghề quay chụp ảnh cho du khách cho biết, mùa này, anh thường tới Tà Xùa để ghi hình."
+    },
+    {
+     "t": "p",
+     "text": "Theo kinh nghiệm nhiều năm của mình, anh Cu tiết lộ, cảnh mây đổ như thác không phải ngày nào cũng có. Để có được khoảnh khắc ấn tượng nhất, anh thường chọn ghi hình ở Đỉnh Gió hoặc Khe Cải. Trong đó, khung hình xuất sắc nhất thường ghi tại Đỉnh Gió."
+    },
+    {
+     "t": "p",
+     "text": "Thời điểm săn mây trong ngày phụ thuộc hoàn toàn vào thời tiết. Anh Cu cho biết, nếu buổi sáng ở Đỉnh Gió mù mịt thì buổi chiều thường sẽ quang đãng hơn."
+    },
+    {
+     "t": "p",
+     "text": "Ngược lại, nếu buổi sáng Đỉnh Gió quang đãng và thung lũng phía dưới có mây, du khách có thể ngắm biển mây gần như cả ngày. Nằm ở độ cao từ 1.500 đến hơn 2.000m so với mực nước biển, Tà Xùa từ lâu được mệnh danh là \"thiên đường săn mây\" ở khu vực Tây Bắc."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mùa mây ở đây kéo dài từ khoảng tháng 10 đến tháng 4 năm sau. Đây cũng là lúc những con đường lên Tà Xùa đông xe nhất trong năm."
+    },
+    {
+     "t": "p",
+     "text": "Năm nay, sức hút của Tà Xùa tăng rõ rệt. Cuối tháng 7 vừa qua, điểm đến này lần đầu được vinh danh ở hạng mục \"Điểm đến du lịch mới nổi hàng đầu châu Á 2026\" tại lễ trao Giải thưởng Du lịch Thế giới (World Travel Awards) khu vực châu Á, châu Đại Dương và Ấn Độ Dương ở Maldives."
+    },
+    {
+     "t": "p",
+     "text": "Trao đổi với phóng viên, ông Bùi Văn Dương - Chánh Văn phòng HĐND và UBND xã Tà Xùa - cho biết, điểm đến này đang vào mùa du lịch cao điểm. Từ sau khi được vinh danh, lượng khách tăng hơn 10% so với năm ngoái."
+    },
+    {
+     "t": "p",
+     "text": "\"Trước đây, khách chủ yếu lên vào các ngày cuối tuần. Bây giờ lượng khách trải khá đều các ngày trong tuần. Cao điểm vẫn tập trung vào cuối tuần, nhưng ngày thường cũng khá đông\", ông Dương nói."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo ước tính của địa phương, Tà Xùa hiện có khoảng 150-170 cơ sở lưu trú, đáp ứng khoảng 1.500 khách mỗi ngày. Con số này vẫn không đủ vào những ngày cuối tuần. Chỉ những khách đã đặt phòng trước mới có chỗ nghỉ, số còn lại phải chuyển về khu vực Bắc Yên, nơi số nhà nghỉ cũng rất ít."
+    },
+    {
+     "t": "p",
+     "text": "Nhiều du khách phải đặt phòng trước từ 3 tuần đến một tháng. Vì vậy, chính quyền xã khuyến cáo du khách đặt trước phòng nghỉ và tìm hiểu trước địa điểm ăn uống, nhất là vào những ngày cao điểm."
+    },
+    {
+     "t": "p",
+     "text": "\"Hạ tầng trên địa bàn còn khá mới, còn nhiều hạn chế. Thời tiết ở đây lại rất phức tạp, trời rét và biến đổi thường xuyên trong hàng giờ. Khách lên mà không có chỗ nghỉ sẽ rất vất vả\", ông Dương nói."
+    },
+    {
+     "t": "p",
+     "text": "Hiện giá phòng ở Tà Xùa dao động từ 600.000 đồng tới hơn 2 triệu đồng/đêm tùy theo từng phân khúc. Trước tình trạng giá phòng bị các bên trung gian đẩy lên rất cao vào thời điểm khan hiếm, chính quyền xã hiện tìm giải pháp để hạn chế."
+    },
+    {
+     "t": "p",
+     "text": "Tà Xùa, thuộc tỉnh Sơn La, là điểm đến nổi tiếng với cảnh quan núi rừng và những biển mây trải rộng trên các thung lũng. Sức hút của địa phương tăng mạnh trong những năm gần đây, đặc biệt vào mùa săn mây."
+    },
+    {
+     "t": "p",
+     "text": "Trong 6 tháng đầu năm, Tà Xùa đón khoảng 56.000 lượt khách với tổng doanh thu du lịch ước tính 54 tỷ đồng."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài săn mây, du khách đến đây có thể trải nghiệm đi bộ trên sống lưng khủng long, ngắm cảnh từ Đỉnh Gió, ghé mỏm cá heo, khám phá những bản làng người Mông, tìm hiểu văn hóa bản địa và thưởng thức chè Shan tuyết cổ thụ."
+    }
+   ]
+  },
+  {
+   "id": "189f8d2b5b9c",
+   "order": 2,
+   "slug": "sinh-vien-chuyen-loi-noi-thanh-ngon-ngu-ky-hieu-tren-kinh",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Sinh viên chuyển lời nói thành ngôn ngữ ký hiệu trên kính",
+   "sapo": "Phát triển phần mềm hỗ trợ người khiếm thính trên kính thực tế tăng cường (AR), đội Sư phạm Kỹ thuật Đà Nẵng đi tiếp tại \"Sinh viên Thế hệ mới 2026\".",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/sinh-vien-chuyen-loi-noi-thanh-ngon-ngu-ky-hieu-tren-kinh-5149010.html",
+   "published": "2026-11-26T02:30:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1948,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/189f8d2b5b9c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-27/189f8d2b5b9c-0.jpg",
+     "caption": "Phần thi Sân khấu hoá và trình bày dự án của đội thi trường Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM. Ảnh: Ban tổ chức",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-27/189f8d2b5b9c-1.jpg",
+     "caption": "Đội thi trường Sư phạm Kỹ thuật, Đại học Đà Nẵng trình bày phần mềm phát triển trên website và điện thoại, kết hợp cùng kính với ban giám khảo. Ảnh: Ban tổ chức",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-27/189f8d2b5b9c-2.jpg",
+     "caption": "Khoảnh khắc chiến thắng của đội thi trường Đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng. Ảnh: Ban tổ chức",
+     "w": 1020,
+     "h": 680
+    },
+    {
+     "src": "img/2026-11-27/189f8d2b5b9c-3.jpg",
+     "caption": "Á hậu Phạm Hoàng Thu Uyên tại vòng thi Sân khấu hoá và Phản biện miền Nam - Trung Sinh viên Thế hệ mới 2026 . Ảnh: Ban tổ chức",
+     "w": 1020,
+     "h": 680
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Phát triển phần mềm hỗ trợ người khiếm thính trên kính thực tế tăng cường (AR), đội Sư phạm Kỹ thuật Đà Nẵng đi tiếp tại \"Sinh viên Thế hệ mới 2026\"."
+    },
+    {
+     "t": "p",
+     "text": "Những cải tiến từ vòng tuyển chọn tạo lợi thế cho trường Đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng trong tập 5. Thay vì tập trung tự làm phần cứng, nhóm phát triển phần mềm có thể tích hợp trên kính thực tế tăng cường (AR), đồng thời mở rộng sang ứng dụng và nền tảng hỗ trợ học tập, giao tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Bước chuyển này được giám khảo ghi nhận bởi sinh viên đã tiếp thu góp ý và hiện thực hóa thành những thay đổi cụ thể. Đội thể hiện sự am hiểu và chủ động phát triển công nghệ của \"SignSound AI\" – dự án chuyển lời nói thành ngôn ngữ ký hiệu qua nhân vật 3D hiển thị trước mắt người đeo kính."
+    },
+    {
+     "t": "p",
+     "text": "Đối đầu với nhóm là trường Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM với dự án \"Giữ một nghề dệt nên tương lai\". Một bên hỗ trợ người khiếm thính giao tiếp, bên còn lại kết nối nghề dệt thổ cẩm Gia Rai với thị trường, tạo nên cuộc tranh tài giữa hai cách ứng dụng công nghệ để phục vụ cộng đồng theo đúng tinh thần \"Quê mình có việc - Gen Z Việt có cách\"."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mang bản sắc quê hương lên sân khấu"
+    },
+    {
+     "t": "p",
+     "text": "Để diễn giải rào cản giao tiếp, đội Sư phạm Kỹ thuật chọn bài chòi làm chất liệu mở đầu. Giữa cuộc vui, một nhân vật khiếm thính đứng gần mọi người nhưng không hiểu những lời đang được nói. Chiếc kính xuất hiện như một cách kết nối nhân vật khiếm thính với người bạn mới, đưa ý tưởng công nghệ vào tình huống đời sống."
+    },
+    {
+     "t": "p",
+     "text": "Phía sau tiết mục là quá trình sinh viên tự tìm cách làm quen với sân khấu. Các thành viên tập hợp ý tưởng rồi biểu quyết chọn kịch bản. Người đảm nhận phần hô bài chòi phải tập đi tập lại, chỉnh sửa nhiều lần để hoàn thành vai diễn."
+    },
+    {
+     "t": "p",
+     "text": "Giám khảo - Tiến sĩ Hà Ánh Phượng, ghi nhận cách nhóm lồng ghép văn hóa miền Trung để giới thiệu sản phẩm. Trong khi đó, giám khảo Nguyễn Văn Thanh, Tổng giám đốc Công ty AVES, cho rằng phần mở đầu cần dẫn vào vấn đề trực tiếp hơn."
+    },
+    {
+     "t": "p",
+     "text": "Nếu đội Sư phạm Kỹ thuật khai thác một cuộc vui dân gian, đội Kinh tế - Luật tạo dấu ấn bằng câu chuyện nghề dệt. Những hoa văn được giới thiệu cùng người làm ra chúng và ý nghĩa văn hóa phía sau, nối phần trình diễn với mục tiêu trao truyền nghề."
+    },
+    {
+     "t": "p",
+     "text": "Lực lượng múa phụ họa góp phần tạo không khí cho tiết mục, được giám khảo ghi nhận cùng sự hỗ trợ từ nhà trường. Những chiếc khăn thổ cẩm còn trở thành điểm giao lưu khi hai MC thử khoác sản phẩm ngay trên sân khấu."
+    },
+    {
+     "t": "p",
+     "text": "Từ trải nghiệm nhìn, chạm vào chiếc khăn, sinh viên mở ra cách tiếp cận trên môi trường số. Theo đội thi, chỉ cần quét mã QR, khách hàng có thể tìm hiểu về sản phẩm, người dệt và ý nghĩa từng hoa văn. Website được bổ sung tính năng chọn họa tiết, để nghệ nhân thực hiện sản phẩm theo đơn đặt hàng."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm đồng thời đề xuất phát triển ví, túi, kết nối với homestay và hoạt động du lịch. Tuy nhiên, phía sau những cách giới thiệu sản phẩm là yêu cầu khó hơn: làm sao để người trẻ muốn học nghề và nghệ nhân có điều kiện truyền dạy."
+    },
+    {
+     "t": "p",
+     "text": "\"Bảo tồn giá trị văn hóa không chỉ là bảo tồn một tấm vải\", đội thi chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Phản biện v ề khả năng giữ nghề và giới hạn AI"
+    },
+    {
+     "t": "p",
+     "text": "Từ mục tiêu ấy, đội Sư phạm Kỹ thuật đặt câu hỏi: nếu doanh số tăng nhưng đơn hàng vẫn phụ thuộc vào nghệ nhân lớn tuổi, còn người trẻ không tham gia, căn cứ nào cho thấy nghề đang được bảo tồn bền vững?"
+    },
+    {
+     "t": "p",
+     "text": "Nhóm tiếp tục đưa ra những tình huống cụ thể. Khi nghệ nhân dành hết thời gian đáp ứng đơn hàng, ai sẽ dạy người mới? Nếu thị trường chỉ ưa chuộng một vài mẫu, những hoa văn có giá trị văn hóa nhưng khó bán sẽ được duy trì bằng nguồn lực nào?"
+    },
+    {
+     "t": "p",
+     "text": "Đội Kinh tế - Luật trình bày hướng kết nối nghệ nhân với các tổ chức địa phương và sử dụng một phần doanh thu cho hoạt động truyền nghề. Nhóm cũng bảo vệ vai trò hỗ trợ quảng bá, tiếp cận khách hàng, để người dệt tập trung vào sản xuất."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, nguồn lực và cơ chế kế thừa vẫn là những nội dung cần làm rõ. Khi sinh viên cho biết dự kiến trích 10% doanh thu sản phẩm để hỗ trợ lớp học nghề, giám khảo Nguyễn Văn Thanh, Tổng giám đốc Công ty AVES, yêu cầu tính cụ thể trên giá bán, quy mô doanh thu và chi phí vận hành, thay vì chỉ đưa ra một tỷ lệ."
+    },
+    {
+     "t": "p",
+     "text": "Ông cũng lưu ý việc chuyển giao cho địa phương chưa đủ bảo đảm dự án sẽ tiếp tục. Nhóm cần xây dựng cơ chế kế thừa giữa các khóa sinh viên, duy trì hỗ trợ công nghệ, quản lý và nguồn thu song song với chuyển giao."
+    },
+    {
+     "t": "p",
+     "text": "Ở chiều ngược lại, đội Kinh tế - Luật đặt \"SignSound AI\" trước hàng loạt câu hỏi về bảo vệ giải pháp khi hợp tác với doanh nghiệp, vốn từ của hệ thống, ảnh hưởng khi đeo kính lâu và khả năng xử lý trong những bối cảnh giao tiếp khác nhau."
+    },
+    {
+     "t": "p",
+     "text": "Minh Chiến, Tuấn Khanh là hai thành viên đội Sư phạm Kỹ thuật được chọn trả lời. Đại diện đội Kinh tế - Luật cho biết thay vì đội trưởng nổi bật, đội muốn khai thác nhiều hơn ở thành viên khác sau khi gặp mặt tại buổi workshop \"Từ ý tưởng vào đời\" do lãnh đạo Herbalife Việt Nam chia sẻ nên muốn thấy thêm khả năng của các bạn trong phần phản biện. Trước tốc độ hỏi nhanh và nhiều nội dung liên tiếp, nhóm chưa giải đáp hết các ý trong thời gian ngắn nhưng tập trung làm rõ hướng phát triển: xây dựng phần mềm tích hợp trên kính thực tế tăng cường (AR), đồng thời tối ưu mô hình AI để xử lý một số tác vụ ngay trên thiết bị."
+    },
+    {
+     "t": "p",
+     "text": "Đội Kinh tế - Luật dùng quyền hội ý với cố vấn để chuẩn bị lượt hỏi tiếp theo. Lần này, câu hỏi xoay vào giới hạn dữ liệu: khi nội dung giao tiếp vượt ngoài vốn từ đã có, hệ thống sẽ xử lý thế nào và có nguy cơ đưa ra thông tin sai hay không?"
+    },
+    {
+     "t": "p",
+     "text": "Những lượt hỏi nối tiếp tạo sức ép để hai đội giải thích rõ hơn giải pháp của mình. Với \"Giữ một nghề dệt nên tương lai\", đó là cách biến đầu ra sản phẩm thành điều kiện duy trì nghề. Với \"SignSound AI\", đó là khả năng đáp ứng nhu cầu giao tiếp trong những tình huống thực tế."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Những cải tiến tạo lợi thế đi tiếp"
+    },
+    {
+     "t": "p",
+     "text": "Căn cứ quan trọng để giám khảo đánh giá đội Sư phạm Kỹ thuật là tiến bộ lớn của dự án so với vòng trước. Theo giám khảo Nguyễn Văn Thanh, trong thời gian không dài, nhóm đã thực hiện được hai thay đổi đáng kể: tích hợp phần mềm lên kính thực tế tăng cường (AR) và phát triển bộ công cụ để mở rộng khả năng tích hợp."
+    },
+    {
+     "t": "p",
+     "text": "Bên cạnh phần mềm trên kính, sinh viên phát triển thêm bộ công cụ tích hợp, ứng dụng và website có chức năng meeting, hỗ trợ giao tiếp trong học tập trực tuyến. Nền tảng còn có phần học ngôn ngữ ký hiệu miễn phí cho người khiếm thính và gia đình."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm cũng cho biết đã đưa mô hình AI vào thiết bị, cho phép xử lý một số tác vụ khi không có kết nối Internet. Đây là hướng cải tiến nhằm giảm sự phụ thuộc vào mạng; tốc độ và khả năng xử lý vẫn cần tiếp tục được kiểm chứng, tối ưu trên từng nền tảng trong thời gian tới."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, việc giám khảo ghi nhận thay đổi không đồng nghĩa sản phẩm đã hoàn thiện. Khi thử nền tảng học trực tuyến tại chỗ, giám khảo nhận xét tốc độ phản hồi còn chậm và đề nghị nhóm mở rộng trải nghiệm người dùng để tìm thêm hạn chế nếu dự án được giành vé vào vòng kế tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Ở phần đánh giá tổng thể, giám khảo Nguyễn Khánh Diệu Hồng ghi nhận lõi dự án và sự tự tin của sinh viên đối với công nghệ tự phát triển. Thể hiện sự am hiểu và tâm huyết của nhóm qua cách giải thích về sản phẩm."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, giám khảo Hà Ánh Phượng đánh giá cao đội Kinh tế - Luật ở cách kết nối văn hóa với tư duy kinh tế và khả năng trả lời đúng trọng tâm. Nhóm đã tiếp thu góp ý về tính độc bản, bổ sung lựa chọn cá nhân hóa sản phẩm, nhưng cần tiếp tục làm rõ nguồn lực duy trì và cơ chế truyền nghề."
+    },
+    {
+     "t": "p",
+     "text": "Khả năng kết nối của đội còn được thể hiện trong phần giao lưu với Á hậu Phạm Hoàng Thu Uyên. Khi Bạn đồng hành hỏi mình sẽ nằm ở đâu trong kế hoạch truyền thông, sinh viên gợi ý sử dụng thổ cẩm trong trang phục, túi xách, đồng thời nêu ý tưởng đưa chất liệu này vào trang phục dân tộc khi tham gia cuộc thi quốc tế."
+    },
+    {
+     "t": "p",
+     "text": "Những đánh giá khác nhau của giám khảo cho thấy mỗi đội có lợi thế riêng. Chung cuộc, Trường Đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng giành quyền đi tiếp. Kết quả ghi nhận nền tảng công nghệ, khả năng tự phát triển giải pháp và những cải tiến cụ thể của \"SignSound AI\"."
+    },
+    {
+     "t": "p",
+     "text": "Với nhóm, phần thi cũng là dịp nhận rõ khoảng cách giữa hiểu sản phẩm và kỹ năng truyền đạt để người khác hiểu. Những câu hỏi chưa trả lời trọn vẹn ở phần thi phản biện cho thấy sinh viên cần rèn cách lắng nghe, phối hợp và phản hồi ngắn gọn, đúng trọng tâm – những kỹ năng sẽ tiếp tục cần đến khi làm việc với đối tác và người sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Ở khu vực chờ, các thành viên động viên nhau nhìn lại hành trình cùng phát triển dự án. Một sinh viên nhắc lại lời hứa với đồng đội từ những ngày đầu: \"Đi cùng tao đi, anh em mình làm được\". Quyền vào vòng tiếp theo mở ra cơ hội để nhóm tiếp tục hoàn thiện công nghệ, kiểm chứng hiệu quả hỗ trợ giao tiếp và rèn khả năng đưa ý tưởng đến cộng đồng."
+    },
+    {
+     "t": "p",
+     "text": "Sinh viên Thế hệ mới 2026 , với sự đồng hành của nhà tài trợ Herbalife Việt Nam trong vai trò nhà tài trợ và đồng kiến tạo nội dung, tiếp tục lên sóng lúc 21h30 thứ Bảy hằng tuần trên VTV3. Khán giả đón xem để theo dõi hành trình tiếp theo của các đội thi."
+    },
+    {
+     "t": "p",
+     "text": "Mai Thương"
+    }
+   ]
+  },
+  {
+   "id": "c4f56c22682c",
+   "order": 3,
+   "slug": "cham-tay-vao-hoa-van-champa-qua-ban-in-giay-do-o-da-nang",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "Chạm tay vào hoa văn Champa qua bản in giấy dó ở Đà Nẵng",
+   "sapo": "Bất chấp cơn mưa sáng 24/11, đông đảo người dân Đà Nẵng và bạn trẻ đã đến Bảo tàng Điêu khắc Chăm tham quan miễn phí, trực tiếp trải nghiệm in tranh khắc gỗ họa tiết Champa trên giấy dó.",
+   "author": "Thanh Phong",
+   "source_name": "VietnamPlus",
+   "source_url": "https://www.vietnamplus.vn/cham-tay-vao-hoa-van-champa-qua-ban-in-giay-do-o-da-nang-post1150745.vnp",
+   "published": "2026-11-26T16:13:29+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 196,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/c4f56c22682c-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sáng 24/11, nhân Ngày Văn hóa Việt Nam và kỷ niệm 80 năm Hội nghị Văn hóa toàn quốc lần thứ nhất (24/11/1946 – 24/11/2026), Bảo tàng Điêu khắc Chăm Đà Nẵng đồng loạt mở cửa miễn phí vé tham quan cho người dân và du khách cùng Bảo tàng Đà Nẵng và Bảo tàng Mỹ thuật Đà Nẵng."
+    },
+    {
+     "t": "p",
+     "text": "Dù cơn mưa bất chợt khiến không gian in tranh khắc gỗ trên giấy dó phải chuyển từ sân vườn vào bên trong bảo tàng, lượng khách dự kiến vẫn tăng hơn 30% so với ngày thường, đạt khoảng 700 đến 800 lượt."
+    },
+    {
+     "t": "p",
+     "text": "Tại khu vực trải nghiệm, người dân thành phố Đà Nẵng và các bạn trẻ tự tay quét màu lên ván gỗ chạm khắc hoa văn Champa, trải giấy dó thủ công và xoa đều bằng xơ mướp để hoàn thiện bản in mang về."
+    },
+    {
+     "t": "p",
+     "text": "Nằm trong chuỗi hoạt động kéo dài từ ngày 18 đến 30/11/2026, sự kiện còn giới thiệu triển lãm ảnh \"Sắc màu văn hóa các dân tộc thành phố Đà Nẵng\" với 70 tác phẩm của 33 tác giả, tour ký họa di sản và biểu diễn trống Handpan./."
+    }
+   ]
+  },
+  {
+   "id": "b6ff49da1fba",
+   "order": 4,
+   "slug": "hoa-sac-non-song-dua-van-hoa-truyen-thong-den-gan-nguoi-tre",
+   "section": "sang-tao-kien-truc",
+   "section_name": "Sáng tạo & Kiến trúc",
+   "emoji": "🎨",
+   "title": "“Họa sắc non sông”: Đưa văn hóa truyền thống đến gần người trẻ",
+   "sapo": "Từ những làn điệu dân gian, âm vang cồng chiêng đến màn trình diễn trang phục truyền thống, chương trình nghệ thuật “Họa sắc non sông” cho thấy cách người trẻ có thể tiếp cận, khám phá và lan tỏa văn hóa dân tộc bằng ngôn ngữ nghệ thuật sáng tạo.",
+   "author": "Báo Hànộimới",
+   "source_name": "Hà Nội Mới",
+   "source_url": "https://hanoimoi.vn/hoa-sac-non-song-dua-van-hoa-truyen-thong-den-gan-nguoi-tre-1767729.html",
+   "published": "2026-11-26T08:30:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 1138,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/b6ff49da1fba-lead.jpg",
+     "caption": "",
+     "w": 600,
+     "h": 315
+    },
+    {
+     "src": "img/2026-11-27/b6ff49da1fba-0.jpg",
+     "caption": "Một tiết mục trong chương trình \"Họa sắc non sông\". Ảnh: BTC",
+     "w": 1280,
+     "h": 743
+    },
+    {
+     "src": "img/2026-11-27/b6ff49da1fba-1.jpg",
+     "caption": "Một cảnh trong hoạt cảnh “Muôn sắc Việt Nam”. Ảnh: BTC",
+     "w": 1280,
+     "h": 768
+    },
+    {
+     "src": "img/2026-11-27/b6ff49da1fba-2.jpg",
+     "caption": "Chương trình mang đến những tiết mục trẻ trung, sôi động. Ảnh: BTC",
+     "w": 1280,
+     "h": 851
+    },
+    {
+     "src": "img/2026-11-27/b6ff49da1fba-3.jpg",
+     "caption": "\"Họa sắc non sông\" mang văn hóa truyền thống đến gần hơn với giới trẻ. Ảnh: BTC",
+     "w": 1280,
+     "h": 821
+    },
+    {
+     "src": "img/2026-11-27/b6ff49da1fba-4.jpg",
+     "caption": "Chương trình thu hút đông đảo bạn trẻ tham gia. Ảnh: BTC",
+     "w": 1280,
+     "h": 845
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Văn hóa ba miền cùng hội tụ trên sân khấu"
+    },
+    {
+     "t": "p",
+     "text": "Với thông điệp “Muôn miền văn hóa - Một dải non sông”, chương trình nghệ thuật “Họa sắc non sông” do sinh viên Học viện Thanh thiếu niên Việt Nam tổ chức đã tái hiện bức tranh văn hóa Việt Nam qua những sắc thái đặc trưng của ba miền Bắc - Trung - Nam. Không chỉ giới thiệu các loại hình nghệ thuật truyền thống, chương trình còn kết nối âm nhạc, múa, hoạt cảnh và trình diễn trang phục trong một hành trình nghệ thuật xuyên suốt, từ cội nguồn đến hiện đại."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mở đầu bằng tiết mục “Made in Vietnam” mang tinh thần trẻ trung, hiện đại, chương trình lần lượt đưa khán giả đến với ba không gian nghệ thuật: “Tinh hoa đất Bắc”, “Đậm tình miền Trung” và “Rực sắc phương Nam”."
+    },
+    {
+     "t": "p",
+     "text": "Ở chương “Tinh hoa đất Bắc”, những giá trị văn hóa lâu đời được khơi gợi qua lời ru trong “Tiếng ru cội nguồn”, không khí lễ hội vùng cao ở “Ngày hội Tây Bắc”, làn điệu quan họ trong “Kinh Bắc” và sắc màu tín ngưỡng dân gian qua tiết mục “Hầu đồng Cô đôi Thượng Ngàn”. Những chất liệu quen thuộc được đặt cạnh nhau, góp phần khắc họa chiều sâu văn hóa và đời sống tinh thần phong phú của miền Bắc."
+    },
+    {
+     "t": "p",
+     "text": "Nếu chương đầu đưa người xem tìm về cội nguồn văn hiến, thì “Đậm tình miền Trung” tạo dấu ấn bằng hoạt cảnh “Muôn sắc Việt Nam”. Trên nền nhạc cung đình Huế, màn diễu hành và trình diễn trang phục truyền thống mở ra không gian văn hóa đa dạng, nơi mỗi bộ trang phục mang theo những dấu ấn riêng về lịch sử, phong tục và bản sắc cộng đồng. Màu sắc, họa tiết và kiểu dáng trang phục không chỉ tạo nên sức hấp dẫn thị giác mà còn giúp khán giả hình dung rõ hơn sự phong phú của văn hóa các vùng miền, dân tộc."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Đặc biệt, hoạt cảnh còn lồng ghép dấu mốc Hội nghị Văn hóa toàn quốc lần thứ nhất ngày 24-11-1946 và tư tưởng “Văn hóa phải soi đường cho quốc dân đi”. Cách kết nối giữa lịch sử với trình diễn nghệ thuật góp phần nhấn mạnh rằng văn hóa không chỉ hiện diện trong di sản hay những công trình lịch sử mà còn gắn bó với trang phục, phong tục và nếp sống hằng ngày."
+    },
+    {
+     "t": "p",
+     "text": "Tiếp nối mạch cảm xúc ấy, “Mưa trên phố Huế và Đậm tình miền Trung” gợi lên vẻ đẹp trầm lắng, sâu sắc của miền đất giàu truyền thống. Trong khi đó, chương “Rực sắc phương Nam” đưa khán giả đến với âm vang cồng chiêng Tây Nguyên qua “Âm vang Tây Nguyên”, những câu hò, điệu lý đậm chất sông nước trong “Đất rừng phương Nam” và tinh thần năng động, khát vọng vươn lên qua “Hò vươn mình”."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Hành trình khép lại bằng phần đại kết “Bức họa non sông”, với các tiết mục “Thịnh vượng Việt Nam sáng ngời”, “Rạng ngời văn hóa Việt Nam” và “Việt Nam Tinh Hoa”. Ba miền với những sắc thái riêng cùng hội tụ, khẳng định tinh thần thống nhất trong đa dạng của văn hóa Việt Nam."
+    },
+    {
+     "t": "h",
+     "text": "Để người trẻ trở thành chủ thể lan tỏa văn hóa"
+    },
+    {
+     "t": "p",
+     "text": "Điểm đáng chú ý của “Họa sắc non sông” không chỉ là sự phong phú của các chất liệu truyền thống mà còn ở cách những người trẻ chủ động lựa chọn nghệ thuật biểu diễn để kể câu chuyện văn hóa dân tộc. Thay vì tiếp cận văn hóa qua những khái niệm khô cứng, khán giả được cảm nhận di sản bằng hình ảnh, âm thanh và những màn trình diễn trực quan. Qua đó, các giá trị truyền thống trở nên gần gũi hơn với đời sống và cách tiếp nhận của công chúng trẻ."
+    },
+    {
+     "t": "p",
+     "text": "Anh Âu Quốc Khánh, Trưởng Ban tổ chức chương trình, cho biết ý tưởng “Họa sắc non sông” xuất phát từ hình ảnh một bức tranh được tạo nên bởi nhiều gam màu. Mỗi vùng đất có bản sắc riêng nhưng đều góp phần làm nên một Việt Nam thống nhất. Ban tổ chức mong muốn chương trình không chỉ dừng ở việc biểu diễn nghệ thuật mà còn tạo cơ hội để khán giả cảm nhận vẻ đẹp văn hóa qua từng vùng miền."
+    },
+    {
+     "t": "p",
+     "text": "“Chúng tôi hy vọng các bạn trẻ sẽ thêm yêu, thêm tự hào về văn hóa dân tộc và nhận thức rõ hơn rằng việc gìn giữ văn hóa không phải là điều xa vời, mà bắt đầu từ chính cách chúng ta trân trọng, tiếp nhận và lan tỏa những giá trị truyền thống trong cuộc sống hằng ngày”, anh Âu Quốc Khánh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sự thay đổi trong cách nhìn nhận văn hóa truyền thống cũng được thể hiện qua cảm nhận của khán giả. Bạn Thu Thủy, sinh viên Học viện Ngoại giao, cho biết hoạt cảnh “Muôn sắc Việt Nam” là phần để lại ấn tượng sâu sắc với cô bởi sự đa dạng của trang phục và sắc thái văn hóa được giới thiệu trên cùng một sân khấu."
+    },
+    {
+     "t": "p",
+     "text": "“Qua chương trình, mình nhận ra văn hóa hiện diện trong những điều rất gần gũi, từ trang phục, âm nhạc đến phong tục và cách sinh hoạt. Mình nghĩ người trẻ hoàn toàn có thể góp phần gìn giữ văn hóa bằng cách tìm hiểu, trân trọng và chia sẻ những giá trị ấy theo cách sáng tạo của riêng mình”, Thu Thủy bày tỏ."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Theo ThS. Nguyễn Đồng Linh, nguyên Trưởng khoa Công tác Thanh thiếu niên, Học viện Thanh thiếu niên Việt Nam, việc sinh viên chủ động tìm kiếm cách tiếp cận văn hóa bằng ngôn ngữ nghệ thuật là hướng đi đáng ghi nhận. Khi những chất liệu truyền thống được đặt trong hình thức thể hiện phù hợp với công chúng trẻ, văn hóa sẽ trở nên gần gũi và dễ tiếp nhận hơn. Tuy nhiên, quá trình sáng tạo cần dựa trên sự tìm hiểu nghiêm túc, tôn trọng bản sắc, tránh biến văn hóa thành những hình thức minh họa đơn thuần."
+    },
+    {
+     "t": "p",
+     "text": "“Họa sắc non sông” gợi mở cách đưa văn hóa truyền thống đến gần hơn với thế hệ trẻ, không chỉ giới thiệu để người trẻ biết, mà còn tạo cảm hứng để họ tìm hiểu, yêu mến và chủ động lan tỏa. Bởi văn hóa chỉ thực sự được tiếp nối khi những giá trị của quá khứ tiếp tục hiện diện trong đời sống hôm nay, được các thế hệ đón nhận và sáng tạo trên nền tảng bản sắc dân tộc."
+    }
+   ]
+  },
+  {
+   "id": "aea2f6b4215e",
+   "order": 5,
+   "slug": "tung-nghi-hoc-mot-nam-chua-benh-nu-sinh-lang-son-viet-tiep-u",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Từng nghỉ học một năm chữa bệnh, nữ sinh Lạng Sơn viết tiếp ước mơ làm cô giáo",
+   "sapo": "Từng phải bảo lưu việc học một năm để điều trị khối u tái phát, nữ sinh Lạng Sơn đã vượt qua khó khăn, viết tiếp ước mơ làm cô giáo.",
+   "author": "Thúy Nga",
+   "source_name": "VietnamNet",
+   "source_url": "https://vietnamnet.vn/nu-sinh-lang-son-viet-tiep-uoc-mo-lam-co-giao-2578181.html",
+   "published": "2026-11-26T22:36:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1031,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/aea2f6b4215e-lead.jpg",
+     "caption": "",
+     "w": 766,
+     "h": 401
+    },
+    {
+     "src": "img/2026-11-27/aea2f6b4215e-0.jpg",
+     "caption": "Địch Thị Lợi hiện là sinh viên Trường Đại học Sư phạm Hà Nội. Ảnh: NVCC",
+     "w": 766,
+     "h": 526
+    },
+    {
+     "src": "img/2026-11-27/aea2f6b4215e-1.jpg",
+     "caption": "Lợi là cựu học sinh Trường Phổ thông Vùng cao Việt Bắc. Ảnh: NVCC",
+     "w": 832,
+     "h": 674
+    },
+    {
+     "src": "img/2026-11-27/aea2f6b4215e-2.jpg",
+     "caption": "Nữ sinh người Thái đạt 29,5 điểm thi đại học và khát vọng 'thắp sáng' bản làng",
+     "w": 1280,
+     "h": 871
+    },
+    {
+     "src": "img/2026-11-27/aea2f6b4215e-3.jpg",
+     "caption": "Giành giải Nhất quốc gia, cô gái Cao Bằng chọn làm giáo viên Lịch sử",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/aea2f6b4215e-4.jpg",
+     "caption": "Nữ tiến sĩ 9X từng bỏ lễ tốt nghiệp ở Mỹ, về nước thi tuyển giảng viên ở tuổi 22",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Có những giấc mơ lớn bắt đầu từ những bản làng xa xôi, nơi con đường đến trường còn nhiều gian khó. Bằng nghị lực và khát vọng vươn lên, nhiều người trẻ dân tộc thiểu số đã chinh phục những kỳ thi, bước vào giảng đường đại học, từng bước thay đổi tương lai bằng tri thức. Qua những kỳ tuyên dương học sinh, sinh viên, thanh niên dân tộc thiểu số xuất sắc, tiêu biểu, những tấm gương ấy không chỉ được ghi nhận, tiếp thêm động lực mà còn lan tỏa niềm tin vào sức mạnh của giáo dục trong việc mở ra cơ hội phát triển cho thế hệ trẻ vùng cao. VietNamNet giới thiệu tuyến bài “Những giấc mơ lớn từ bản làng”, kể về hành trình vượt khó, vươn lên và khát vọng đổi thay của những người trẻ."
+    },
+    {
+     "t": "h",
+     "text": "Bảo lưu một năm để điều trị bệnh"
+    },
+    {
+     "t": "p",
+     "text": "Địch Thị Lợi (sinh năm 2005, quê Lạng Sơn), phát hiện khối u ở hàm từ những năm học THCS và từng trải qua phẫu thuật cắt bỏ. Tuy nhiên, đến năm lớp 10, khi đang học tại Trường Phổ thông Vùng cao Việt Bắc, khối u tái phát, buộc nữ sinh phải phẫu thuật một lần nữa."
+    },
+    {
+     "t": "p",
+     "text": "Khi ấy, quá trình điều trị kéo dài hơn dự kiến khiến thời gian nghỉ học của Lợi vượt quá quy định."
+    },
+    {
+     "t": "p",
+     "text": "“Bố mẹ quyết định để em bảo lưu kết quả học tập một năm, tập trung chữa bệnh và ổn định sức khỏe”, Lợi nhớ lại. Khoảng thời gian ấy, cuộc sống của Lợi thường xuyên gắn với bệnh viện K."
+    },
+    {
+     "t": "p",
+     "text": "Quãng thời gian phải tạm dừng việc học khiến nữ sinh không khỏi buồn và lo lắng. Vốn nhút nhát, rụt rè, Lợi lo sợ sau một năm xa trường sẽ khó bắt nhịp với chương trình, phải làm quen lại với thầy cô, bạn bè."
+    },
+    {
+     "t": "p",
+     "text": "Vì thế, ngay khi sức khỏe dần ổn định, vào những lúc rảnh rỗi, nữ sinh thường đọc sách, tranh thủ ôn lại kiến thức của học kỳ đã qua."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, ngày trở lại Trường Phổ thông Vùng cao Việt Bắc, Lợi vẫn không tránh khỏi cảm giác hoài nghi về khả năng của bản thân. Những môn khoa học tự nhiên vốn đã khó, nay càng trở thành thách thức khi kiến thức bị đứt quãng."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng rồi, nhớ lại nỗi mong mỏi được trở lại trường của chính mình và sự lo lắng của bố mẹ, Lợi như được tiếp thêm động lực."
+    },
+    {
+     "t": "p",
+     "text": "“Em thấy mình khi ấy chưa đủ cố gắng. Vì vậy, khi gặp kiến thức chưa hiểu, em chủ động hỏi thầy cô, bạn bè để bổ sung những phần còn thiếu”, Lợi chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Với môn Ngữ văn, Lợi duy trì thói quen đọc sách, tìm hiểu các tác phẩm văn học để mở rộng vốn hiểu biết, nâng cao khả năng cảm thụ."
+    },
+    {
+     "t": "p",
+     "text": "Sau mỗi lần đọc, nữ sinh thường ghi lại cảm nghĩ, nhận định để hiểu sâu hơn vấn đề. Lợi cũng chủ động cập nhật tin tức, quan tâm tới các sự kiện văn hóa, xã hội để rèn luyện tư duy phản biện, nhìn nhận sự việc từ nhiều chiều, đồng thời có thêm chất liệu cho bài làm văn."
+    },
+    {
+     "t": "h",
+     "text": "Ấp ủ ước mơ làm giáo viên vùng cao"
+    },
+    {
+     "t": "p",
+     "text": "Sự nỗ lực của Lợi dần được đền đáp. Năm lớp 10, Lợi giành giải Nhì môn Ngữ văn trong kỳ thi chọn học sinh giỏi cấp tỉnh và Huy chương Đồng tại kỳ thi học sinh giỏi khu vực Duyên hải và Đồng bằng Bắc Bộ."
+    },
+    {
+     "t": "p",
+     "text": "Sang lớp 11, nữ sinh tiếp tục đạt giải Ba môn Ngữ văn trong kỳ thi học sinh giỏi cấp tỉnh, giải Ba ở kỳ thi vượt cấp cấp tỉnh và Huy chương Đồng tại kỳ thi học sinh giỏi khu vực Duyên hải và Đồng bằng Bắc Bộ."
+    },
+    {
+     "t": "p",
+     "text": "Đến năm lớp 12, Lợi giành giải Nhì môn Ngữ văn trong kỳ thi chọn học sinh giỏi quốc gia. Cũng trong năm này, Lợi được Ủy ban Dân tộc (nay là Bộ Dân tộc và Tôn giáo) vinh danh là học sinh dân tộc thiểu số xuất sắc, tiêu biểu."
+    },
+    {
+     "t": "p",
+     "text": "“Em rất vui và bất ngờ với những kết quả này”, nữ sinh nói."
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra trong gia đình người Cao Lan, Lợi cho biết bản thân không có nhiều cơ hội tiếp cận các thiết bị, phương tiện dạy học hiện đại hay tham gia những lớp học nâng cao. Tuy nhiên, Lợi không coi xuất phát điểm ấy là lý do để tự ti mà xem đó là động lực để cố gắng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tốt nghiệp THPT, Lợi được tuyển vào lớp chất lượng cao ngành Sư phạm Ngữ văn của Trường Đại học Sư phạm Hà Nội. Tại đây, Lợi tiếp tục duy trì kết quả học tập tốt với 2 năm đạt danh hiệu sinh viên giỏi, sinh viên xuất sắc, điểm trung bình tích lũy 3,88/4,0. Lợi được kết nạp Đảng khi đang học tập tại trường."
+    },
+    {
+     "t": "p",
+     "text": "Lợi cho hay trong giai đoạn khó khăn, đặc biệt là khi phải tạm dừng việc học để điều trị bệnh, em đã nhận được sự giúp đỡ từ nhiều thầy cô. Tình cảm ấy khiến nữ sinh ấp ủ ước mơ trở thành một giáo viên, đồng hành và tiếp thêm động lực cho học trò."
+    },
+    {
+     "t": "p",
+     "text": "Vì thế, Lợi mong muốn sau khi tốt nghiệp có thể trở về Lạng Sơn hoặc những địa bàn còn nhiều khó khăn để công tác. Nữ sinh kỳ vọng mang tri thức đến gần hơn với những học sinh đồng bào dân tộc thiểu số."
+    },
+    {
+     "t": "p",
+     "text": "“Em mong mình sẽ trở thành một nhà giáo mẫu mực, có thể truyền đạt kiến thức dễ hiểu, tạo động lực để học sinh cố gắng và khao khát sống có ích. Nếu được đứng lớp ở một ngôi trường vùng cao, em muốn học trò nhớ về mình qua những giờ học Văn say sưa, những bài giảng hay và xúc động, trong đó có cả những bài học làm người”, nữ sinh chia sẻ."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "img",
+     "i": 5
+    }
+   ]
+  },
+  {
+   "id": "4d5a47f9b393",
+   "order": 6,
+   "slug": "nhung-buoc-chan-nho-vuot-duong-rung-den-lop",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Những bước chân nhỏ vượt đường rừng đến lớp",
+   "sapo": "Vượt hàng cây số đường rừng nhỏ hẹp, gập ghềnh để tới trường hay hoàn cảnh còn thiếu thốn, những em nhỏ ở điểm trường Khe Bủng, Trường phổ thông dân tộc bán trú Tiểu học Kiên Mộc, (Lạng Sơn) vẫn giữ niềm vui đến lớp.",
+   "author": "HÀ QUÂN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/nhung-buoc-chan-nho-vuot-duong-rung-den-lop-100261126100124679.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 1152,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-0.jpg",
+     "caption": "Học sinh ở vùng núi Kiên Mộc (Lạng Sơn) men theo đường mòn để về nhà sau giờ học - Ảnh: HÀ QUÂN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-1.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-2.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-3.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-4.jpg",
+     "caption": "Chíu Xuân Mai được cô giáo chủ nhiệm phụ đạo thêm ngoài giờ để theo kịp kiến thức trên lớp mới - Ảnh: HÀ QUÂN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-5.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-6.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-7.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-8.jpg",
+     "caption": "Nhờ có chiếc xe đạp mới, Thanh sẽ đi đến trường nhanh hơn trong những hôm bố và hàng xóm bận việc - Ảnh: HÀ QUÂN",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/4d5a47f9b393-9.jpg",
+     "caption": "Chíu Xuân Mai cùng mẹ dắt xe đạp mới cùng túi quà từ học bổng \"Gieo mầm tri thức\" do Báo Tuổi trẻ và Tỉnh đoàn Lạng Sơn tổ chức tại xã Kiên Mộc ngày 26-11 - Ảnh: HÀ QUÂN",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Với các em, một chiếc xe đạp hay chiếc áo ấm trong mùa đông sắp tới cũng là niềm mong ước, tiếp thêm động lực trên hành trình tìm kiếm con chữ."
+    },
+    {
+     "t": "h",
+     "text": "Vượt rừng thông đến trường"
+    },
+    {
+     "t": "p",
+     "text": "Ở tuổi lên 10, khi nhiều bạn bè vẫn được cha mẹ đón đưa đến trường, Chíu Xuân Mai, học sinh lớp 5A1, Trường phổ thông dân tộc bán trú Tiểu học Kiên Mộc, lại quen với những ngày dắt tay em trai là Chíu Đức Thắng tự đi bộ qua rừng thông để đến lớp. Hôm nay trời có nắng nên đường dễ đi hơn."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày mưa, con đường đất gập ghềnh khiến hành trình của hai chị em thêm vất vả. Mai mới chuyển từ xã Ba Chẽ, tỉnh Quảng Ninh về xã Kiên Mộc, tỉnh Lạng Sơn học tập từ tháng 9 năm nay, sau khi bố qua đời. Không có mẹ ở bên do phải ở lại Quảng Ninh chăm anh trai lớn bị tai nạn, hai chị em Mai phải ở nhờ nhà bà ngoại, gần nhà bác ruột để tiện được hỗ trợ, đưa đón đi học."
+    },
+    {
+     "t": "p",
+     "text": "Hôm bác bận, hai chị em tự đi bộ đến trường. Ngôi nhà cấp 4 nằm giữa rừng thông, cách xa khu dân cư. Thiếu vắng sự chăm sóc thường xuyên của người lớn, Chíu Xuân Mai đã biết rửa bát, nấu cơm, chăm em, phụ giúp bác các công việc nhà."
+    },
+    {
+     "t": "p",
+     "text": "Ngày nghỉ, em còn theo người lớn đi cạo nhựa thông . Có những hôm bác về muộn, hai chị em tự lấy phần cháo và thức ăn còn lại từ buổi sáng để ăn. Ăn xong, các em chủ động rửa bát, dọn dẹp nhà cửa, tranh thủ học bài…"
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Ngoài giờ học, hai chị em Mai lên rừng thông trích nhựa, rửa bát, quét nhà phụ giúp gia đình - Ảnh: HÀ QUÂN"
+    },
+    {
+     "t": "p",
+     "text": "Vì Mai mới chuyển trường đến, cô giáo chủ nhiệm dành thêm thời gian đến nhà phụ đạo thêm cho em để theo kịp các bạn. Hôm nay, hai cô trò ôn lại bài học về niềm tin vượt khó khăn, khát vọng hạnh phúc, ngày mai tươi sáng của nhà văn người Đan Mạch Andersen."
+    },
+    {
+     "t": "p",
+     "text": "Mai tâm sự đường từ nhà đến trường khoảng 4km, có nhiều đoạn dốc, gập ghềnh, trơn trượt khi mưa. Nếu có một chiếc xe đạp, em sẽ bớt thời gian đi bộ, việc đến trường cũng an toàn và thuận lợi hơn."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "h",
+     "text": "Mẹ đi làm xa, cậu bé người Dao vừa học vừa chăm em"
+    },
+    {
+     "t": "p",
+     "text": "Cùng lớp với Mai, em Tằng Quý Thanh, người Dao, cũng sớm biết phụ cha mẹ việc nhà. Thanh thuộc hộ cận nghèo, bố bị khuyết tật ở chân, không thể làm việc nặng nhọc."
+    },
+    {
+     "t": "p",
+     "text": "Dù vậy, bố của Thanh vẫn cố gắng đưa đón các con đến trường bằng chiếc xe ba bánh của gia đình. Những hôm trời mưa hay bận việc, các em phải tự đi bộ đến lớp. Thanh còn có em gái Tằng Thị Hạnh đang học lớp 3 theo diện hòa nhập tại trường. Hạnh bị câm bẩm sinh, gặp khó khăn trong giao tiếp."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, Thanh cũng dành sự quan tâm, sẻ chia với em trong cuộc sống hằng ngày. Mẹ em là lao động chính, thường xuyên đi làm xa. Hôm nay, mẹ của Thanh đi cạo nhựa thông tại Bắc Xa, cách nhà hơn 40km, để kiếm tiền nuôi các con ăn học. Ngày mẹ đi làm, Thanh phụ giúp gia đình phơi lạc, nhặt hoa hồi, rửa bát, nấu cơm và làm việc nhà."
+    },
+    {
+     "t": "p",
+     "text": "\"Dù cuộc sống còn nhiều khó khăn nhưng em luôn cảm nhận được tình yêu thương và sự hy sinh của bố mẹ dành cho mình. Em mong muốn học thật giỏi để chăm ngoan, không phụ lòng bố mẹ, thầy cô\" - Thanh quả quyết."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Ngoài giờ học trên lớp, Thanh còn giúp gia đình việc nhà - Ảnh: HÀ QUÂN"
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Cô Hoàng Hải Yến - giáo viên chủ nhiệm lớp 5A1, phụ trách điểm trường Khe Bủng (Trường phổ thông dân tộc bán trú Tiểu học Kiên Mộc) - cho biết phần lớn học sinh ở xa trường, đường sá đi lại khó khăn. Nhiều phụ huynh dù vất vả vẫn cố gắng đưa đón con, nhưng một số gia đình phải đi làm ăn xa nên các em phải tự đi bộ đến lớp."
+    },
+    {
+     "t": "p",
+     "text": "Theo cô Yến, với những học sinh như Mai và Thanh, có thêm phương tiện đi lại sẽ giúp các em đến trường thuận lợi, an toàn hơn. Bên cạnh đó, mùa đông đang đến gần, nhiều học sinh có hoàn cảnh khó khăn cũng rất cần được hỗ trợ áo ấm để yên tâm học tập."
+    },
+    {
+     "t": "p",
+     "text": "Với những học trò nhỏ ở Khe Bủng, một chiếc xe đạp để đường đến lớp bớt xa, một chiếc áo ấm để mùa đông không còn buốt giá là những món quà giản dị nhưng đầy ý nghĩa. Đó không chỉ là sự hỗ trợ thiết thực trong cuộc sống, mà còn là nguồn động viên để các em tiếp tục nuôi dưỡng ước mơ, vững bước trên hành trình đến trường."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Ngày 26-11, tại hội trường Đảng ủy xã Kiên Mộc, Báo Tuổi Trẻ phối hợp với Tỉnh đoàn Lạng Sơn tổ chức trao học bổng \"Gieo mầm tri thức\". Đây cũng là hoạt động thuộc chương trình \"Vì ngày mai phát triển\" lần thứ 643 của Báo Tuổi Trẻ. Hai nhân vật đặc biệt trong chương trình hôm nay là em Chíu Xuân Mai và Tằng Quý Thanh."
+    },
+    {
+     "t": "p",
+     "text": "Theo ban tổ chức, chương trình \"Gieo mầm tri thức\" trao các suất học bổng trị giá 2 triệu đồng/suất xe đạp và dụng cụ học tập. Ngoài ra Agribank Chi nhánh Lạng Sơn hỗ trợ thêm 100 chiếc ô, Công ty TNHH Nestlé Việt Nam cũng tài trợ 100 balo cho các em học sinh của xã Kiên Mộc. Tổng trị giá chương trình tại tỉnh Lạng Sơn hơn 400 triệu đồng do Agribank chi nhánh Phú Nhuận TP.HCM tài trợ."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, chương trình đã trao 600 suất học bổng cho các em học sinh của tỉnh Nghệ An, Quảng Trị và Tây Ninh với tổng trị giá hơn 1,2 tỉ đồng. Năm 2026, Agribank Chi nhánh Phú Nhuận TP.HCM tiếp tục tài trợ chương trình \"Gieo mầm tri thức\" 800 suất học bổng trị giá 1,6 tỉ đồng. Như vậy tính đến nay, trong 9 năm chương trình \"Gieo mầm tri thức\" đã trao tổng cộng 6.165 suất học bổng, trị giá hơn 12,5 tỉ đồng."
+    },
+    {
+     "t": "p",
+     "text": "Kể từ năm 2018 cho đến nay, học bổng \"Gieo mầm tri thức\" trải dài khắp các tỉnh, thành. Chương trình đã nâng bước các em học sinh ở những vùng sâu, vùng xa nhất có điều kiện đến trường thuận lợi hơn."
+    }
+   ]
+  },
+  {
+   "id": "e8071e14fac8",
+   "order": 7,
+   "slug": "tam-bang-tot-nghiep-thoi-ai",
+   "section": "guong-sang",
+   "section_name": "Gương sáng & Tài năng trẻ",
+   "emoji": "🌟",
+   "title": "Tấm bằng tốt nghiệp thời AI",
+   "sapo": "Một tân cử nhân đã rủ 2 người bạn hóa trang thành ChatGPT và Claude, cùng lên sân khấu nhận bằng tốt nghiệp. Khoảnh khắc hài hước ấy thu hút hơn 6 triệu lượt xem.",
+   "author": "TRẦN XUÂN TIẾN",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/tam-bang-tot-nghiep-thoi-ai-100261126090915467.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 7,
+   "words": 1061,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/e8071e14fac8-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/e8071e14fac8-0.jpg",
+     "caption": "Cách một người trẻ làm chủ công nghệ, chứ không phải bị công nghệ làm chủ, mới chính là tấm bằng thật sự của thời đại mới - Ảnh minh họa",
+     "w": 1280,
+     "h": 800
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong một lễ tốt nghiệp đại học ở TP.HCM mới đây, một nữ tân cử nhân bước lên nhận bằng, hai bên là hai người bạn khoác áo cử nhân, đầu đội chiếc hộp mica dán hình giao diện ChatGPT và Claude."
+    },
+    {
+     "t": "p",
+     "text": "Bạn kể với báo chí rằng trí tuệ nhân tạo (AI) là tri kỷ đồng hành suốt những năm đại học, giúp tìm ý tưởng, gỡ những bài tập bí, nên bạn muốn biến điều quen thuộc ấy thành một màn xuất hiện vui nhộn, ấn tượng."
+    },
+    {
+     "t": "p",
+     "text": "Những người có mặt tại hội trường được dịp cười nghiêng ngả. Ai nấy giơ điện thoại quay rồi chia sẻ trên mạng xã hội. Đoạn clip ghi lại kỷ niệm ấn tượng ngày nhận bằng tốt nghiệp đã thu hút hơn 6 triệu lượt xem."
+    },
+    {
+     "t": "p",
+     "text": "ChatGPT ra mắt ngày 30-11-2022, khi tân sinh viên khóa ấy mới bước vào giảng đường được vài tuần. Các bạn là lứa sinh viên đầu tiên có AI trong tay ngay từ năm nhất và cũng là lứa đầu tiên cầm tấm bằng sau bốn năm học cùng nó. Chỉ trong một khóa học, chuyện nhờ máy giúp đã đi từ chỗ phải giấu giếm đến chỗ có thể mang lên lễ đài."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu AI Ready ASEAN do Quỹ ASEAN công bố hồi tháng 2 năm nay cho thấy 89,3% sinh viên Việt Nam tham gia khảo sát cho biết đã dùng AI, trong khi chỉ khoảng một phần tư từng được đào tạo bài bản về nó. Chuẩn mực đổi rất nhanh, còn luật chơi vẫn đang chạy theo phía sau."
+    },
+    {
+     "t": "h",
+     "text": "Tấm bằng là một \"tín hiệu \""
+    },
+    {
+     "t": "p",
+     "text": "Dù muốn dù không, nhà tuyển dụng vẫn thường đánh giá ứng viên qua tấm bằng. Năm 1973, nhà kinh tế học Michael Spence, người sau này nhận giải Nobel, gọi tấm bằng là một \"tín hiệu\" trên thị trường lao động. Tín hiệu ấy có giá trị vì người không có năng lực thì khó lòng đạt được, cũng như một con dấu chỉ đáng tin khi không dễ làm giả."
+    },
+    {
+     "t": "p",
+     "text": "Nhìn từ góc độ ấy, AI chưa làm tấm bằng của lứa sinh viên này mất giá, nhưng đã khiến nó khó đọc hơn nhiều. Hai tấm bằng cùng loại Giỏi có thể sẽ là hai câu chuyện rất khác nhau. Một người tự mày mò, chỉ dùng AI để hỏi lại những chỗ chưa thông. Còn người kia để máy viết gần trọn các bài tiểu luận. Nhưng nhìn từ bên ngoài, hai tấm bằng ấy rất khó lòng để phân biệt."
+    },
+    {
+     "t": "p",
+     "text": "Trớ trêu là người chịu thiệt trong tình huống này lại thường là những người làm đúng. Sinh viên tự làm bài bị nghi ngờ chung, còn sinh viên biết dùng AI một cách có trách nhiệm thì cũng khá vất vả để chứng minh mình đã dùng nó đúng chỗ. Khi một tín hiệu bị nhiễu, tất cả những ai mang nó đều có nguy cơ bị đọc sai, hiểu sai."
+    },
+    {
+     "t": "p",
+     "text": "Công bằng mà nói, cũng phải ghi nhận phần được. Với nhiều sinh viên ở xa, không có điều kiện thuê gia sư, một chatbot sẵn lòng giảng lại một khái niệm lúc hai giờ sáng là thứ trước đây chỉ người khá giả mới có. Vậy nên điều đáng bàn nằm ở chỗ phần trợ giúp ấy đang diễn ra như thế nào."
+    },
+    {
+     "t": "p",
+     "text": "Hẳn nhiên cũng có nhiều ý kiến bao dung cho rằng thế hệ trước có máy tính bỏ túi, có Google, rồi cũng thành tài. Bắt sinh viên khai báo việc dùng AI lại dễ thành thủ tục hình thức, khiến các em thấy mình bị nghi ngờ. Những băn khoăn ấy đều có lý."
+    },
+    {
+     "t": "h",
+     "text": "Ghi nguồn cho người bạn không tên"
+    },
+    {
+     "t": "p",
+     "text": "Một bài báo ghi rõ nguồn tin chưa bao giờ khiến người phóng viên kém đi trong mắt độc giả. Ngược lại, chính việc thẳng thắn ghi rõ nguồn sẽ tạo nên uy tín cho bài báo. Bởi người đọc tin khi biết thông tin đến từ đâu, phần nào là tài liệu kế thừa, phần nào là công sức của tự thân người viết. Lời khai báo về AI, nếu được hiểu đúng, cũng vận hành tương tự như thế. Nó bảo vệ giá trị tấm bằng, và bảo vệ cả người đứng tên."
+    },
+    {
+     "t": "p",
+     "text": "Thay vì biến quy định về AI thành những bản cam kết mang tính đối phó để bắt lỗi, giảng đường cần xây dựng văn hóa ghi nguồn cho AI như một chuẩn mực trích dẫn mới. Cuối mỗi tiểu luận hay đồ án, sinh viên có thể thêm một phụ lục ngắn, ghi rõ đã dùng công cụ nào, ở khâu lên ý tưởng, tìm tài liệu hay biên tập, và đã kiểm chứng lại ra sao."
+    },
+    {
+     "t": "p",
+     "text": "Đi kèm với đó, các hình thức đánh giá trực diện như vấn đáp, bảo vệ đề tài cần được trả lại vị trí trung tâm. Đây chính là môi trường để sinh viên phải giải thích bằng chính ngôn ngữ của mình, điều mà không thuật toán nào nói hộ được. Hiện nay, một số tạp chí khoa học cũng đã áp dụng điều khoản này (ghi nhận mức độ sử dụng AI trong quá trình thực hiện bài báo khoa học)."
+    },
+    {
+     "t": "p",
+     "text": "Luật Trí tuệ nhân tạo có hiệu lực từ ngày 1-3-2026 đã đặt ra yêu cầu minh bạch và gắn nhãn đối với các nội dung do AI tạo ra. Khi pháp luật đã đòi hỏi sự rạch ròi giữa sản phẩm của người và máy, nơi trao truyền và tiếp nhận tri thức như giảng đường càng không thể đứng ngoài cuộc. Chuẩn đầu ra của nhà trường phải được thiết kế cập nhật thích ứng với sự phát triển năng động không ngừng của AI."
+    },
+    {
+     "t": "p",
+     "text": "Và ở chuẩn đầu vào của doanh nghiệp, thay vì chỉ nhìn vào xếp loại trên tấm bằng, trong buổi phỏng vấn, nhà tuyển dụng hoàn toàn có thể đặt thêm câu hỏi về việc các ứng viên đã tạo ra sản phẩm này như thế nào, và AI đứng ở đâu trong quá trình đó?"
+    },
+    {
+     "t": "p",
+     "text": "Câu trả lời sẽ cho thấy cách một người trẻ làm chủ công nghệ, chứ không phải bị công nghệ làm chủ, mới chính là tấm bằng thật sự của thời đại mới."
+    }
+   ]
+  },
+  {
+   "id": "49a084c0b41d",
+   "order": 8,
+   "slug": "nsut-ngoc-khanh-ban-3-can-nha-de-giu-nghe-khac-ghi-loi-day-c",
+   "section": "nguoi-va-viec",
+   "section_name": "Người và Việc",
+   "emoji": "💡",
+   "title": "NSƯT Ngọc Khanh bán 3 căn nhà để giữ nghề, khắc ghi lời dạy của Thanh Tòng",
+   "sapo": "Gắn bó cả đời với nghệ thuật hát bội, NSƯT Ngọc Khanh không ngần ngại bán nhà, dốc tiền bạc để duy trì đoàn hát. Đằng sau sự tận tụy ấy là nỗi trăn trở về một loại hình nghệ thuật truyền thống ngày càng thưa vắng khán giả và cuộc mưu sinh nhiều nhọc nhằn của người nghệ sĩ.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/nsut-ngoc-khanh-ban-3-can-nha-de-giu-nghe-khac-ghi-loi-day-cua-thanh-tong-185261126010314165.htm",
+   "published": "2026-11-26T02:40:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 1300,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/49a084c0b41d-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/49a084c0b41d-0.jpg",
+     "caption": "NSƯT Ngọc Khanh trăn trở trước tương lai của nghệ thuật hát bội",
+     "w": 1280,
+     "h": 810
+    },
+    {
+     "src": "img/2026-11-27/49a084c0b41d-1.jpg",
+     "caption": "Nghệ sĩ Ngọc Khanh từng phải bán nhà, bán hết tài sản để có kinh phí duy trì hoạt động đoàn tuồng cổ và lo cho anh em nghệ sĩ",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/49a084c0b41d-2.jpg",
+     "caption": "Dù mang nhiều trăn trở, nữ nghệ sĩ vẫn thấy hạnh phúc khi cháu nội, cháu ngoại cũng rất đam mê bộ môn nghệ thuật truyền thống này",
+     "w": 1280,
+     "h": 960
+    },
+    {
+     "src": "img/2026-11-27/49a084c0b41d-3.jpg",
+     "caption": "NSƯT Ngọc Khanh mong muốn có thêm nhiều chương trình đưa hát bội đến trường học, giúp người trẻ hiểu và trân trọng giá trị của nghệ thuật truyền thống",
+     "w": 1280,
+     "h": 837
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "NSƯT Ngọc Khanh sinh năm 1954 tại TP.HCM. Mẹ bà là nghệ sĩ tài danh Ba Út, nổi tiếng một thời với NSND Thành Tôn (cha của NSƯT Thành Lộc), NSND Năm Đồ... Từ thuở lên 9, bà đã được làm quen với ánh đèn sân khấu. Năm 1990, bà thành lập đoàn hát bội Ngọc Khanh (nay là Đoàn nghệ thuật hát bội - tuồng cổ Ngọc Khanh)."
+    },
+    {
+     "t": "h",
+     "text": "Bán 3 căn nhà để giữ nghề, lo cho nghệ sĩ"
+    },
+    {
+     "t": "p",
+     "text": "Với NSƯT Ngọc Khanh , hát bội không chỉ là nghề mà đã trở thành một phần máu thịt, gắn bó với bà suốt hơn 60 năm. Tình yêu ấy được vun đắp từ gia đình, tiếp nối qua những năm tháng học tập, biểu diễn và truyền nghề cho thế hệ sau. Để giữ lửa đam mê và duy trì gánh hát, nữ nghệ sĩ đã phải đánh đổi không ít, thậm chí bán đi cả những tài sản tích cóp trong đời. \"Không phải là mê nghề không đâu, 3 căn nhà rồi đó. Đi ra tay trắng vì bao nhiêu đây: vì phục trang sân khấu, vì gánh hát, vì nghệ sĩ\", bà bộc bạch."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Theo nghệ sĩ Ngọc Khanh, đó không phải sự hy sinh chỉ để thỏa mãn niềm đam mê cá nhân. Điều khiến bà trăn trở hơn cả là hoàn cảnh của những nghệ sĩ cùng bám trụ với loại hình nghệ thuật truyền thống này. Theo bà, phía sau vẻ ngoài lộng lẫy khi bước ra sân khấu là những khoản đầu tư không nhỏ, trong khi thu nhập của người nghệ sĩ lại rất khiêm tốn."
+    },
+    {
+     "t": "p",
+     "text": "\"Một người nghệ sĩ bước ra sân khấu từ cái đầu tóc xuống đôi giày không dưới 20 triệu đồng, mà lương một đêm bao nhiêu đâu. Khoảng 700.000 đồng - 800.000 đồng là hết giá, nó chỉ có bấy nhiêu thôi. Nhưng mà họ vẫn mê nghề, vẫn làm sao cho mình lộng lẫy, vẫn làm sao cho mình đẹp, vẫn làm sao bám cái nghề này mà không buông bỏ\", NSƯT Ngọc Khanh chia sẻ."
+    },
+    {
+     "t": "p",
+     "text": "Chính sự tận tụy ấy khiến bà càng thương và muốn chăm lo cho các nghệ sĩ. Với bà, một vai diễn không chỉ cần được thể hiện trọn vẹn bằng tài năng mà còn phải có phục trang, mão, râu ria, đạo cụ tương xứng. Bởi ấn tượng đầu tiên của khán giả khi nghệ sĩ xuất hiện trên sân khấu chính là diện mạo nhân vật."
+    },
+    {
+     "t": "p",
+     "text": "Bà kể, trong những năm tháng khó khăn, khi trang phục và đạo cụ biểu diễn dần xuống cấp, bà luôn trăn trở tìm cách thay mới. Không đủ điều kiện thuê người thực hiện, bà cùng các thành viên trong gia đình tự tay làm mọi thứ, từ trang phục, mão đến đạo cụ và những chi tiết phục vụ biểu diễn. Với bà, mỗi nhân vật khi bước ra sân khấu phải có diện mạo chỉn chu, rực rỡ, bởi phục trang không chỉ góp phần tạo nên thần thái nhân vật mà còn làm nên sức hấp dẫn đặc trưng của nghệ thuật hát bội"
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Cũng từ đó, tình yêu dành cho phục trang trở thành niềm say mê được truyền qua nhiều thế hệ trong gia đình. Cháu ngoại, cháu nội của nữ nghệ sĩ đều nối tiếp tình yêu với những vai tuồng, trang phục và sân khấu. Bà kể, dù không có nhiều tiền, cả bà lẫn con cháu vẫn muốn may trang phục mới mỗi khi yêu thích một vai diễn, bởi ai cũng mong được xuất hiện thật đẹp, thật lộng lẫy trước khán giả."
+    },
+    {
+     "t": "h",
+     "text": "Trăn trở khi hát bội đứng trước nhiều khó khăn"
+    },
+    {
+     "t": "p",
+     "text": "Sinh ra trong gia đình có truyền thống nghệ thuật, NSƯT Ngọc Khanh sớm tiếp xúc với hát bội. Mẹ bà là nghệ sĩ Ba Út, người đã dành hơn 70 năm cuộc đời gắn bó với nghề. Thế nhưng, chính người mẹ ấy từng không muốn con gái nối nghiệp vì thấu hiểu những nhọc nhằn của đời nghệ sĩ. \"Mẹ nói con phải đi học mới có sự sống vững chãi. Còn đi hát, 40 tuổi là không còn hát đào nữa. Lão lai tài tận, chừng đó rồi con lấy gì nuôi sống bản thân\", bà nhớ lại lời mẹ."
+    },
+    {
+     "t": "p",
+     "text": "Nghe theo định hướng của gia đình, NSƯT Ngọc Khanh thi vào Trường Quốc gia Âm nhạc và Kịch nghệ. Sau khi tốt nghiệp, bà tiếp tục giảng dạy tại trường, rồi gắn bó với sân khấu. Dù con đường đến với hát bội không hoàn toàn được định sẵn, tình yêu nghệ thuật và cơ duyên gia đình đã đưa bà trở lại với nghề truyền thống, để rồi dành phần lớn cuộc đời theo đuổi và gìn giữ loại hình nghệ thuật này."
+    },
+    {
+     "t": "p",
+     "text": "Hơn 60 năm gắn bó, nữ nghệ sĩ từng có lúc muốn từ bỏ vì những khó khăn, vất vả. Nhưng một cuộc trò chuyện với nghệ sĩ Thanh Tòng đã khiến bà nhận ra mình không thể rời xa sân khấu. Bà nhớ lại lần tâm sự với đàn anh: \"Anh Năm ơi, sao mình bỏ không được anh Năm?\". Câu trả lời của nghệ sĩ Thanh Tòng đến nay vẫn in sâu trong tâm trí bà: \"Không phải em ơi, nó là máu của mình rồi. Bây giờ chỉ cần nhìn sơ qua người đó hóa trang, hoặc nhìn sơ qua một lớp tuồng thì nó đã ăn sâu vô người của mình rồi, không thể nào quên được...\"."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Với NSƯT Ngọc Khanh, đó cũng chính là cảm giác của mình. Có những ngày không đi diễn, ở nhà bà vẫn thấy bồn chồn, khó chịu vì nỗi nhớ sân khấu. Tình yêu nghề không chỉ nằm trong những lần xuất hiện trước công chúng mà còn hiện diện trong từng bộ trang phục, từng lớp hóa trang và những câu tuồng đã trở nên thân thuộc."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, điều khiến bà trăn trở nhất là thực trạng của hát bội hiện nay. Theo nữ nghệ sĩ, loại hình nghệ thuật từng có vị trí trong đời sống văn hóa cộng đồng đang ngày càng khó tiếp cận công chúng. Nếu trước đây hát bội thường hiện diện trong các dịp lễ hội, sinh hoạt cộng đồng thì hiện nay, hoạt động biểu diễn chủ yếu còn được duy trì tại các đình làng, thông qua những suất hát cúng đình. Trong khi đó, việc tổ chức biểu diễn bán vé, thu hút khán giả đến rạp ngày càng khó khăn."
+    },
+    {
+     "t": "p",
+     "text": "Dẫu vậy, NSƯT Ngọc Khanh vẫn tin hát bội có thể tiếp tục tồn tại nếu được trao thêm cơ hội tiếp cận công chúng. Bà đặc biệt phấn khởi trước những chương trình đưa nghệ thuật truyền thống đến trường học, tạo dịp để nghệ sĩ gặp gỡ học sinh, sinh viên và nhận được sự quan tâm của thầy cô, phụ huynh."
+    },
+    {
+     "t": "p",
+     "text": "Với bà, những buổi giao lưu như vậy không chỉ giúp người trẻ hiểu thêm về một loại hình sân khấu truyền thống mà còn là cơ hội để nghệ sĩ trực tiếp giới thiệu những giá trị đặc sắc của hát bội. Từ nghệ thuật hóa trang, phục trang đến ngôn ngữ ước lệ trên sân khấu, mỗi yếu tố đều có thể trở thành một câu chuyện thú vị nếu được giải thích, truyền đạt đúng cách."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu các con hiểu được, quan tâm được tới nghệ thuật hát bội thì xin hãy giúp hát bội nhiều hơn nữa, lan tỏa hát bội nhiều hơn nữa để mọi người cùng tới với hát bội. Để cho hát bội còn, đó điều tôi mong mỏi lắm...\", nữ nghệ sĩ nhắn gửi."
+    }
+   ]
+  },
+  {
+   "id": "730bffd60204",
+   "order": 9,
+   "slug": "loai-hoa-lan-dau-xuat-hien-o-da-lat-no-ro-nhuom-hong-goc-pho",
+   "section": "cuoi-tuan-di-dau",
+   "section_name": "Cuối tuần đi đâu",
+   "emoji": "🎡",
+   "title": "Loài hoa lần đầu xuất hiện ở Đà Lạt nở rộ, nhuộm hồng góc phố",
+   "sapo": "(Dân trí) - Ngắm con đường cạnh hồ Xuân Hương ở Đà Lạt “chìm” trong màu hồng pha tím của loài hoa lạ, người dân, du khách thích thú chụp hình lưu niệm.",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/du-lich/loai-hoa-lan-dau-xuat-hien-o-da-lat-no-ro-nhuom-hong-goc-pho-20261126080221718.htm",
+   "published": "2026-11-26T06:38:36+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 595,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/730bffd60204-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/730bffd60204-0.jpg",
+     "caption": "Bạn trẻ thích thú với loài hoa mới xuất hiện ở Đà Lạt (Ảnh: Minh Hậu).",
+     "w": 1280,
+     "h": 933
+    },
+    {
+     "src": "img/2026-11-27/730bffd60204-1.jpg",
+     "caption": "Hoa phong linh nở những chùm hoa lớn hình chuông, màu hồng pha tím nhạt lãng mạn (Ảnh: Minh Hậu).",
+     "w": 1280,
+     "h": 901
+    },
+    {
+     "src": "img/2026-11-27/730bffd60204-2.jpg",
+     "caption": "Người dân, du khách \"check-in\" đường hoa mới lạ ở Đà Lạt (Ảnh: Nguyễn Phương).",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/730bffd60204-3.jpg",
+     "caption": "Đoạn đường Đinh Tiên Hoàng được \"nhuộm hồng\" bởi màu hoa phong linh (Ảnh: Nguyễn Phương).",
+     "w": 1280,
+     "h": 927
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Ngắm con đường cạnh hồ Xuân Hương ở Đà Lạt “chìm” trong màu hồng pha tím của loài hoa lạ, người dân, du khách thích thú chụp hình lưu niệm."
+    },
+    {
+     "t": "p",
+     "text": "Những ngày gần đây, người dân, du khách không khỏi ngỡ ngàng khi hàng cây bên đường Đinh Tiên Hoàng, phường Xuân Hương - Đà Lạt, Lâm Đồng, nở hoa, nhuộm hồng cả góc phố."
+    },
+    {
+     "t": "p",
+     "text": "Theo ghi nhận, đoạn đường Đinh Tiên Hoàng dài hàng trăm mét gần nút giao Trần Quốc Toản (bờ hồ Xuân Hương) được các đơn vị liên quan xây dựng cảnh quan, trồng hàng chục cây cảnh từ nhiều tháng trước. Cuối tháng 10, những cây này trút lá, để lại cành trơ trọi và đồng loạt nở hoa từ giữa tháng 11."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trên cành cây, những chùm hoa lớn hình chuông nở rộ với màu hồng pha tím nhạt khiến người dân, du khách thích thú."
+    },
+    {
+     "t": "p",
+     "text": "Chị Phạm Thị Ngọc Linh, trú tại phường Cam Ly - Đà Lạt (Lâm Đồng), chia sẻ, khi dạo chơi, chị tình cờ phát hiện hàng cây lạ nở hoa rực rỡ nên đã dùng điện thoại ghi hình, chia sẻ cho người thân, bạn bè."
+    },
+    {
+     "t": "p",
+     "text": "“Tôi không biết những cây hoa trên phố là cây gì và chưa từng thấy ở Đà Lạt. Tuy nhiên, cây có hoa rất đẹp. Tôi nghĩ, năm nay, Đà Lạt có thêm một loài hoa khoe sắc và đây sẽ là món quà rất đặc biệt của xứ sở mộng mơ đối với du khách”, chị Ngọc Linh thổ lộ."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Tuyến đường Đinh Tiên Hoàng kết nối Ngã 5 Đại học Đà Lạt với bờ hồ Xuân Hương thơ mộng. Đây là một trong những tuyến phố đẹp, lãng mạn, hút người dân, du khách. Khi những gốc cây lạ nở hoa, tuyến phố trở nên nhộn nhịp, nhiều du khách tìm đến check-in, thưởng lãm."
+    },
+    {
+     "t": "p",
+     "text": "Đặt chân đến Đà Lạt sau đêm hành trình dài hơn 500km, chị Nguyễn Thị Ngọc Anh (trú tại TP Cần Thơ) chia sẻ: “Quãng đường di chuyển dài nên tôi khá mệt mỏi. Vậy nhưng, khi đặt chân đến Đà Lạt, được hòa vào không khí mát lạnh, ngắm bầu trời trong veo, những mệt nhọc đã tan biến. Trong sáng đầu tiên ở Đà Lạt, tôi dành thời gian chụp hình với hoa lạ trên phố Đinh Tiên Hoàng”."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Ông Hồ Hữu Tường, Giám đốc Trung tâm dịch vụ tổng hợp Phường Xuân Hương - Đà Lạt, chia sẻ, những gốc cây lạ trên đường Đinh Tiên Hoàng thực chất là hoa phong linh, có nguồn gốc nước ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Theo ông Hồ Hữu Tường, những gốc phong linh nói trên được chủ đầu tư dự án bất động sản trồng để tạo cảnh quan. Đây cũng là loài hoa lần đầu tiên được trồng ở Đà Lạt, còn mới và lạ đối với nhiều người."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, đại diện dự án bất động sản cho biết, đơn vị phối hợp cùng các cơ quan chức năng địa phương xây dựng cảnh quan, trồng gần 60 cây phong linh. Toàn bộ cây được đơn vị nhập giống từ Nhật Bản."
+    },
+    {
+     "t": "p",
+     "text": "“Ở một số tỉnh miền Bắc, cây phong linh được trồng tạo cảnh quan cho biệt thự và thường ra hoa sau Tết. Tuy nhiên, vì không thích nghi khí hậu nên cây cho hoa ít. Ở Đà Lạt, lần đầu chúng tôi trồng cây phong linh, cây hợp khí hậu, thổ nhưỡng nên ra hoa nhiều và đẹp”, đại diện dự án cho hay."
+    }
+   ]
+  },
+  {
+   "id": "3e25f8d2e797",
+   "order": 10,
+   "slug": "fifa-an-tuong-manh-voi-sieu-pham-cua-u17-viet-nam-dang-xem-l",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "FIFA ấn tượng mạnh với siêu phẩm của U17 Việt Nam: “Đáng xem lại 100 lần”",
+   "sapo": "(Dân trí) - Trang FIFA Training Centre rất ấn tượng với bàn thắng của Lê Sỹ Bách vào lưới U17 Bỉ. Thậm chí, nền tảng này còn khẳng định: “Bàn thắng này đáng",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/fifa-an-tuong-manh-voi-sieu-pham-cua-u17-viet-nam-dang-xem-lai-100-lan-20261126185202919.htm",
+   "published": "2026-11-26T12:33:02+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 439,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/3e25f8d2e797-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/3e25f8d2e797-0.jpg",
+     "caption": "Lê Sỹ Bách ghi bàn vào lưới U17 Bỉ (Ảnh: VFF).",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Trang FIFA Training Centre rất ấn tượng với bàn thắng của Lê Sỹ Bách vào lưới U17 Bỉ. Thậm chí, nền tảng này còn khẳng định: “Bàn thắng này đáng xem lại 100 lần”."
+    },
+    {
+     "t": "p",
+     "text": "Lê Sỹ Bách đã làm nên lịch sử khi trở thành cầu thủ đầu tiên ghi bàn ở World Cup cho bóng đá Việt Nam ở sân 11 người. Phút thứ 4 trong trận đấu với U17 Bỉ, Sỹ Bách đón đường phạt góc và thực hiện cú đánh gót tung lưới đối thủ."
+    },
+    {
+     "t": "p",
+     "text": "Trang FIFA Training Centre (Trung tâm huấn luyện của FIFA) là nền tảng phân tích kỹ thuật của FIFA. Một trong những nhân vật quan trọng giúp phát triển FIFA Training Centre là HLV Arsene Wenger."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Mới đây, trang này đã giới thiệu bàn thắng của Sỹ Bách, kèm theo dòng trạng thái: “Bàn thắng này đáng xem lại 100 lần”."
+    },
+    {
+     "t": "p",
+     "text": "Kèm theo đó, trang FIFA Training Centre bình luận: “Có những bàn thắng xứng đáng được xem đi xem lại nhiều lần. Từ quả phạt góc được treo vào cột gần, Lê Sỹ Bách thực hiện cú đánh gót không tưởng, đưa bóng bay thẳng vào góc cao khung thành."
+    },
+    {
+     "t": "p",
+     "text": "Một pha dứt điểm ngoạn mục của U17 Việt Nam trong trận đấu với U17 Bỉ tại U17 World Cup 2026”."
+    },
+    {
+     "t": "p",
+     "text": "Với việc được nền tảng chuyên môn của FIFA giới thiệu và dành lời khen, siêu phẩm của Sỹ Bách có thêm sức hút và được kỳ vọng sẽ góp mặt trong các cuộc bình chọn bàn thắng đẹp tại giải. Ngoài ra, tình huống sút phạt góc thành bàn của Chu Ngọc Nguyễn Lực trong trận đấu với U17 Bỉ cũng được đánh giá là ứng cử viên nặng ký cho danh hiệu này."
+    },
+    {
+     "t": "p",
+     "text": "FIFA Training Centre cũng khen ngợi pha cứu thua của thủ thành Xuân Hòa trong trận đấu với U17 New Zealand: “Thủ môn của U17 Việt Nam có khả năng chọn vị trí và phản xạ nhanh như chớp. Lý Xuân Hòa đã có một tình huống cản phá bằng chân trong trận đấu với U17 New Zealand. Anh đã nhận định tốt đường bóng trước khi có động tác cứu thua chính xác”."
+    },
+    {
+     "t": "p",
+     "text": "Vào lúc 20h hôm nay (26/11), U17 Việt Nam sẽ đối đầu với U17 Mali trong trận đấu quyết định ở bảng G U17 World Cup 2026. Đoàn quân của HLV Cristiano Roland cần giành chiến thắng để vượt qua vòng bảng."
+    },
+    {
+     "t": "p",
+     "text": "Cổ vũ đội tuyển U17 Việt Nam tại VCK FIFA U-17 World Cup Qatar 2026™ trực tiếp và trọn vẹn trên FPT Play, tại: http://fptplay.vn"
+    }
+   ]
+  },
+  {
+   "id": "3abc4b01c9f0",
+   "order": 11,
+   "slug": "billiards-co-thu-viet-nam-nguoc-dong-ngoan-muc-danh-bai-cuu",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Billiards: Cơ thủ Việt Nam ngược dòng ngoạn mục, đánh bại cựu số 1 thế giới",
+   "sapo": "Tối 26.11, tay cơ Mã Minh Cẩm đã tạo nên màn lội ngược dòng ấn tượng để đánh bại cựu số 1 thế giới người Hàn Quốc Kim Jun-tae ở vòng 32 cơ thủ, chặng thứ sáu giải billiards PBA Tour 2026-2027.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/billiards-co-thu-viet-nam-nguoc-dong-ngoan-muc-danh-bai-cuu-so-1-the-gioi-185261126231130408.htm",
+   "published": "2026-11-26T17:00:00+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 514,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/3abc4b01c9f0-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/3abc4b01c9f0-0.jpg",
+     "caption": "Mã Minh Cẩm là cơ thủ Việt Nam đầu tiên giành chức vô địch PBA Tour, vào cuối năm 2022",
+     "w": 1280,
+     "h": 888
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Mã Minh Cẩm thua ván ra quân"
+    },
+    {
+     "t": "p",
+     "text": "Cuộc chạm trán giữa Mã Minh Cẩm và Kim Jun-tae được xem là một trong những cặp đấu đáng chú ý nhất tại vòng 32. Trước khi rời Liên đoàn Billiards carom thế giới (UMB) để chuyển sang thi đấu tại giải chuyên nghiệp Hàn Quốc PBA vào đầu tháng 6.2025, Kim Jun-tae từng giữ vị trí số 1 trên bảng xếp hạng UMB hồi tháng 5.2024 sau danh hiệu á quân World Cup billiards TP.HCM (giải đấu mà Trần Đức Minh lên ngôi vô địch)."
+    },
+    {
+     "t": "p",
+     "text": "Trong làng carom 3 băng, tay cơ sinh năm 1995 được biết đến với cái tên \"ông hoàng sê-ri\" nhờ lối đánh tấn công phóng khoáng và khả năng tung ra những sê-ri điểm lớn với tần suất cao. Đỉnh cao cho biệt danh này là tại World Cup billiards Seoul tháng 11.2024, nơi anh có sê-ri 28 điểm để cân bằng kỷ lục thế giới của các huyền thoại như Raymond Ceulemans, Frederic Caudron."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Chạm trán đối thủ đáng gờm, Mã Minh Cẩm gặp nhiều khó khăn trong giai đoạn nhập cuộc. Ngay ở ván đầu tiên, Kim Jun-tae tận dụng tốt các hình bi thuận lợi để áp đặt thế trận, khiến tay cơ Việt Nam nhận thất bại cách biệt 4/15."
+    },
+    {
+     "t": "p",
+     "text": "Bị dẫn trước sau ván mở màn, Mã Minh Cẩm không hề nao núng. Bước sang ván 2, anh chủ động điều chỉnh nhịp độ, chắt chiu từng cơ hội ghi điểm và kiểm soát tốt các đường bi phòng ngự. Sự điềm tĩnh giúp đại diện Việt Nam giành chiến thắng 15/11, đưa trận đấu trở lại vạch xuất phát với tỷ số hòa 1-1."
+    },
+    {
+     "t": "p",
+     "text": "Đà tâm lý thuận lợi tiếp tục được Mã Minh Cẩm phát huy mạnh mẽ ở ván 3. Ngay khi nhập cuộc, anh đã tung ra sê-ri 6 điểm để tạo lợi thế dẫn trước, buộc Kim Jun-tae rơi vào thế rượt đuổi. Duy trì sự ổn định cần thiết ở những lượt cơ cuối, Minh Cẩm khép lại ván đấu với cùng tỷ số 15/11, qua đó vươn lên dẫn ngược 2-1."
+    },
+    {
+     "t": "p",
+     "text": "Kịch tính của trận đấu được đẩy lên cao trào ở ván 4. Trong thế không còn đường lùi, Kim Jun-tae bứt phá và vượt lên chạm \"match point\" (14 điểm), đứng trước cơ hội lớn để cân bằng tỷ số 2-2. Tuy nhiên, đúng ở thời khắc ngặt nghèo nhất, bản lĩnh của tay cơ Việt Nam đã lên tiếng. Tận dụng triệt để sai sót của đối thủ, Mã Minh Cẩm đã thắng ngược kịch tính 15/14, qua đó ấn định chiến thắng chung cuộc 3-1 đầy thuyết phục."
+    },
+    {
+     "t": "p",
+     "text": "Tại chặng thứ sáu PBA Tour 2026-2027, Mã Minh Cẩm là đại diện Việt Nam duy nhất góp mặt ở vòng 32 cơ thủ. Với màn ngược dòng giàu cảm xúc trước cựu số 1 thế giới của UMB, Minh Cẩm tiếp tục mang theo niềm kỳ vọng của người hâm mộ khi bước vào tranh tài tại vòng 16 cơ thủ, diễn ra trong ngày 27.11."
+    }
+   ]
+  },
+  {
+   "id": "a8c61ecd31e5",
+   "order": 12,
+   "slug": "u17-viet-nam-tao-nen-cot-moc-lich-su-du-bi-loai-o-world-cup",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "U17 Việt Nam tạo nên cột mốc lịch sử dù bị loại ở World Cup",
+   "sapo": "(Dân trí) - Dù bị loại ở U17 World Cup 2026, U17 Việt Nam vẫn tạo nên cột mốc lịch sử khi đạt thứ hạng cao nhất trong số các đội tuyển Việt Nam từng tham dự",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/u17-viet-nam-tao-nen-cot-moc-lich-su-du-bi-loai-o-world-cup-20261126224606037.htm",
+   "published": "2026-11-26T16:33:03+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 580,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/a8c61ecd31e5-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/a8c61ecd31e5-0.jpg",
+     "caption": "U17 Việt Nam có thứ hạng cao nhất trong số các đội tuyển của Việt Nam tham dự World Cup trên sân 11 người (Ảnh: Getty).",
+     "w": 612,
+     "h": 387
+    },
+    {
+     "src": "img/2026-11-27/a8c61ecd31e5-1.jpg",
+     "caption": "U17 Việt Nam nhận được nhiều lời khen trong lần đầu tham dự World Cup (Ảnh: VFF).",
+     "w": 1280,
+     "h": 898
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "(Dân trí) - Dù bị loại ở U17 World Cup 2026, U17 Việt Nam vẫn tạo nên cột mốc lịch sử khi đạt thứ hạng cao nhất trong số các đội tuyển Việt Nam từng tham dự World Cup bóng đá 11 người."
+    },
+    {
+     "t": "p",
+     "text": "Ở lượt trận cuối bảng G U17 World Cup 2026 diễn ra trên sân Aspire Zone (Qatar), U17 Việt Nam đã thất bại với tỷ số 0-2 trước U17 Mali. Với kết quả này, đoàn quân của HLV Cristiano Roland đã kết thúc ở vị trí thứ ba bảng đấu với một điểm."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đáng tiếc, U17 Việt Nam đã bị loại vì không thể nằm trong nhóm 8/12 đội xếp thứ ba có thành tích tốt nhất. Tuy nhiên, đội bóng của HLV Roland vẫn làm nên lịch sử của riêng mình."
+    },
+    {
+     "t": "p",
+     "text": "Theo thống kê, U17 Việt Nam có thứ hạng cao nhất trong số các đội tuyển của Việt Nam tham dự World Cup trên sân 11 người."
+    },
+    {
+     "t": "p",
+     "text": "Ở giải U20 World Cup 2017, U20 Việt Nam đã kết thúc với một điểm nhưng khi đó, đội bóng của HLV Hoàng Anh Tuấn xếp cuối bảng. Tương tự, đội tuyển nữ Việt Nam cũng đứng cuối bảng ở World Cup nữ 2023 với 0 điểm."
+    },
+    {
+     "t": "p",
+     "text": "Ngoài ra, U17 Việt Nam cũng là đội tuyển ghi nhiều bàn nhất với 5 pha lập công sau 3 trận ở giải U17 World Cup. Các đội U20 Việt Nam (năm 2017) và đội tuyển nữ Việt Nam (năm 2023) đều không ghi được bàn thắng."
+    },
+    {
+     "t": "p",
+     "text": "Quan trọng hơn, các cầu thủ trẻ Việt Nam đã thể hiện sự tự tin và tinh thần thi đấu mạnh mẽ trước những đối thủ được đánh giá cao hơn. Thậm chí, FIFA cũng có cái nhìn tích cực về màn trình diễn của U17 Việt Nam."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hai siêu phẩm của Lê Sỹ Bách và Chu Ngọc Nguyễn Lực (cùng trong trận đấu với U17 Bỉ) được giới chuyên môn đánh giá rất cao và là ứng cử viên nặng ký cho danh hiệu “Bàn thắng đẹp nhất giải đấu”."
+    },
+    {
+     "t": "p",
+     "text": "Trang FIFA Training Centre (Trung tâm huấn luyện của FIFA) đã giới thiệu bàn thắng của Sỹ Bách, kèm theo dòng trạng thái: “Bàn thắng này đáng xem lại 100 lần”."
+    },
+    {
+     "t": "p",
+     "text": "Kèm theo đó, trang FIFA Training Centre bình luận: “Có những bàn thắng xứng đáng được xem đi xem lại nhiều lần. Từ quả phạt góc được treo vào cột gần, Lê Sỹ Bách thực hiện cú đánh gót không tưởng, đưa bóng bay thẳng vào góc cao khung thành. Một pha dứt điểm ngoạn mục của U17 Việt Nam trong trận đấu với U17 Bỉ tại U17 World Cup 2026”."
+    },
+    {
+     "t": "p",
+     "text": "Trong khi đó, bình luận viên nổi tiếng người Argentina trầm trồ trước bàn thắng trực tiếp từ chấm phạt góc của Nguyễn Lực: “Tôi vừa chứng kiến một bàn thắng từ chấm phạt góc ở giải U17 World Cup 2026. Hai siêu phẩm của đội U17 Việt Nam thực sự đáng xem. Đặc biệt là bàn thắng đẳng cấp thế giới của Nguyễn Lực. Quá đỉnh”."
+    },
+    {
+     "t": "p",
+     "text": "Theo thống kê, Nguyễn Lực là cầu thủ thứ ba ghi bàn từ chấm phạt góc trong lịch sử giải U17 World Cup sau Jonathan Espericueta (Mexico, U17 World Cup 2011) và Jonathan Kalimina (Zambia, U17 World Cup 2025)."
+    },
+    {
+     "t": "p",
+     "text": "Cổ vũ đội tuyển U17 Việt Nam tại VCK FIFA U-17 World Cup Qatar 2026™ trực tiếp và trọn vẹn trên FPT Play, tại: http://fptplay.vn"
+    }
+   ]
+  },
+  {
+   "id": "39cd44765a76",
+   "order": 13,
+   "slug": "anh-vien-lo-hcv-thu-6-om-chuc-mung-dan-em-my-tien",
+   "section": "the-thao-dep",
+   "section_name": "Thể thao đẹp",
+   "emoji": "⚽",
+   "title": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên",
+   "sapo": "(Dân trí) - Dù thất bại trước đàn em Võ Thị Mỹ Tiên ở chung kết 200m tự do nữ, Ánh Viên vẫn nở nụ cười, dành cái ôm và lời chúc mừng đầy tình cảm cho người",
+   "author": "Dân trí",
+   "source_name": "Dân Trí",
+   "source_url": "https://dantri.com.vn/the-thao/anh-vien-lo-hcv-thu-6-om-chuc-mung-dan-em-my-tien-20261126220336534.htm",
+   "published": "2026-11-26T15:38:37+07:00",
+   "lang": "vi",
+   "score": 6,
+   "words": 730,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/39cd44765a76-0.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 1",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-1.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 2",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-2.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 3",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-3.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 4",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-4.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 5",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-5.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 6",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-6.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 7",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-7.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 8",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-8.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 10",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-9.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 11",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-10.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 12",
+     "w": 1280,
+     "h": 853
+    },
+    {
+     "src": "img/2026-11-27/39cd44765a76-11.jpg",
+     "caption": "Ánh Viên lỡ HCV thứ 6, ôm chúc mừng đàn em Mỹ Tiên - 13",
+     "w": 1280,
+     "h": 853
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 0
+    },
+    {
+     "t": "p",
+     "text": "Tối 26/11, Nguyễn Thị Ánh Viên đã không thể giành tấm HCV thứ 6 tại Đại hội Thể thao toàn quốc 2026 khi để thua đàn em Võ Thị Mỹ Tiên ở nội dung 200m tự do nữ. Dù dẫn đầu trong phần lớn thời gian thi đấu, kình ngư quê Cần Thơ đã bị đối thủ vượt qua ở những mét cuối cùng."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Đường đua 200m tự do nữ chứng kiến màn cạnh tranh hấp dẫn giữa Nguyễn Thị Ánh Viên và Võ Thị Mỹ Tiên. Một bên là biểu tượng của bơi lội Việt Nam trở lại thi đấu sau hơn 4 năm, bên còn lại là gương mặt trẻ 21 tuổi được kỳ vọng tiếp nối thành công của đàn chị."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Ánh Viên thể hiện đẳng cấp và kinh nghiệm khi liên tục dẫn đầu trong phần lớn thời gian thi đấu. Sau 150m, kình ngư quê Cần Thơ vẫn duy trì lợi thế đáng kể, thậm chí dẫn trước đàn em Võ Thị Mỹ Tiên 0,74 giây ở lượt quay đầu cuối cùng. Tuy nhiên, 50m cuối chứng kiến màn bứt tốc ngoạn mục của kình ngư 21 tuổi. Khi cuộc đua chỉ còn khoảng 20m, Mỹ Tiên bắt kịp đàn chị rồi vượt lên ở những mét cuối để cán đích đầu tiên với thành tích 2 phút 01 giây 29, giành HCV. Cô chỉ nhanh hơn Ánh Viên 0,37 giây trong màn so tài đầy kịch tính."
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Ngay sau khi cuộc đua kết thúc, Ánh Viên chủ động vòng tay ôm, nhẹ nhàng xoa má và chúc mừng chiến thắng của Mỹ Tiên. Hình ảnh đẹp giữa hai thế hệ vận động viên cho thấy tinh thần thể thao, sự trân trọng và tình cảm mà đàn chị dành cho người kế cận."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Sau hơn 4 năm vắng bóng ở các cuộc tranh tài đỉnh cao, sự trở lại của Ánh Viên tại Đại hội Thể thao toàn quốc 2026 nhận được nhiều sự chú ý. Dù không thể giành HCV ở nội dung 200m tự do nữ, màn trình diễn của kình ngư từng thống trị đường đua xanh vẫn để lại nhiều dấu ấn."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "Các khán đài tại khu vực thi đấu môn bơi lội gần như được phủ kín bởi đông đảo người hâm mộ. Sự quan tâm của người hâm mộ tạo nên bầu không khí sôi động, cho thấy sức hút của môn bơi lội tại Đại hội Thể thao toàn quốc lần thứ X."
+    },
+    {
+     "t": "img",
+     "i": 6
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong tối 26/11, Nguyễn Quang Thuấn, em trai Ánh Viên, tham gia tranh tài ở hai nội dung 200m bơi ếch và tiếp sức 4x100m hỗn hợp nam."
+    },
+    {
+     "t": "img",
+     "i": 7
+    },
+    {
+     "t": "p",
+     "text": "Ở nội dung 200m bơi ếch, Quang Thuấn thi đấu nỗ lực và giành HCB."
+    },
+    {
+     "t": "p",
+     "text": "Thành tích của em trai Ánh Viên cũng góp thêm điểm nhấn cho ngày thi đấu đáng chú ý của gia đình kình ngư quê Cần Thơ."
+    },
+    {
+     "t": "img",
+     "i": 8
+    },
+    {
+     "t": "p",
+     "text": "Nhiều người hâm mộ phấn khích nhảy cẫng lên, reo hò và liên tục vỗ tay tiếp sức cho các vận động viên trong từng lượt tranh tài tại Đại hội Thể thao toàn quốc lần thứ X."
+    },
+    {
+     "t": "img",
+     "i": 9
+    },
+    {
+     "t": "p",
+     "text": "Cũng trong tối 26/11, loạt kỷ lục Quốc gia bị xô đổ tại môn bơi lội. Ở chung kết 50m bơi bướm nam, Lương Jérémie Loic Nino gây ấn tượng mạnh khi cán đích với thành tích 23 giây 74. Kết quả này giúp anh phá kỷ lục quốc gia cũ 23 giây 97 do Nguyễn Hoàng Khang (Vĩnh Long) thiết lập hồi tháng 5/2023."
+    },
+    {
+     "t": "img",
+     "i": 10
+    },
+    {
+     "t": "p",
+     "text": "Ở chung kết 50m bơi bướm nữ, Phạm Thị Vân (đoàn Thanh Hóa) xuất sắc thiết lập kỷ lục quốc gia mới với thành tích 27 giây 06. Cô phá kỷ lục cũ 27 giây 31 do Nguyễn Thúy Hiền lập tại Giải Bơi vô địch quốc gia 2023, đồng thời xô đổ kỷ lục Đại hội 27 giây 58 do chính mình thiết lập năm 2022 tại Đại hội lần thứ IX."
+    },
+    {
+     "t": "img",
+     "i": 11
+    },
+    {
+     "t": "p",
+     "text": "Các cuộc tranh tài ở môn bơi lội tại Đại hội Thể thao toàn quốc lần thứ X tiếp tục diễn ra với nhiều nội dung hấp dẫn đến hết ngày 28/11. Những ngày thi đấu còn lại hứa hẹn sẽ chứng kiến thêm nhiều màn so tài kịch tính, những thành tích ấn tượng và các kỷ lục mới được thiết lập trên đường đua xanh."
+    }
+   ]
+  },
+  {
+   "id": "83b82b256213",
+   "order": 14,
+   "slug": "nguoi-dan-ong-giu-mot-hon-da-nhieu-nam-vi-nghi-la-vang-cuoi",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Người đàn ông giữ một hòn đá nhiều năm vì nghĩ là vàng, cuối cùng nó còn quý hơn thế",
+   "sapo": "Năm 2015, David Hole đi tìm khoáng vật ở công viên vùng Maryborough, miền trung bang Victoria, Australia.",
+   "author": "ScienceAlert Staff",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/man-keeps-a-rock-for-years-hoping-its-gold-it-turned-out-to-be-even-more-valuable",
+   "published": "2026-11-26T22:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1159,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Man Keeps a Rock For Years, Hoping It's Gold. It Turned Out to Be Even More Valuable",
+   "images": [
+    {
+     "src": "img/2026-11-27/83b82b256213-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-27/83b82b256213-0.jpg",
+     "caption": "Dermot Henry và nhà địa chất học Bill Birch của Bảo tàng Melbourne cùng thiên thạch Maryborough. (Museums Victoria)",
+     "w": 600,
+     "h": 401
+    },
+    {
+     "src": "img/2026-11-27/83b82b256213-1.jpg",
+     "caption": "Thiên thạch Maryborough, với một miếng cắt ra từ khối đá. (Museums Victoria)",
+     "w": 656,
+     "h": 437
+    },
+    {
+     "src": "img/2026-11-27/83b82b256213-2.jpg",
+     "caption": "Một hạt chondrule pyroxen dạng tia hình thành trong thiên thạch Maryborough. (Birch và cộng sự, PRSV, 2019)",
+     "w": 600,
+     "h": 470
+    },
+    {
+     "src": "img/2026-11-27/83b82b256213-3.jpg",
+     "caption": "Một miếng cắt ra từ thiên thạch Maryborough. (Birch và cộng sự, PRSV, 2019)",
+     "w": 522,
+     "h": 327
+    },
+    {
+     "src": "img/2026-11-27/83b82b256213-4.jpg",
+     "caption": "Hạt chondrule olivin dạng vân hình thành trong thiên thạch Maryborough. (Birch và cộng sự, PRSV, 2019)",
+     "w": 600,
+     "h": 470
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Năm 2015, David Hole đi tìm khoáng vật ở công viên vùng Maryborough, miền trung bang Victoria, Australia."
+    },
+    {
+     "t": "p",
+     "text": "Mang theo máy dò kim loại, ông phát hiện một thứ khác thường - một hòn đá màu đỏ rất nặng, nằm trong lớp đất sét màu vàng."
+    },
+    {
+     "t": "p",
+     "text": "Ông mang nó về nhà và thử mọi cách để mở ra, vì chắc chắn rằng bên trong hòn đá có một cục vàng."
+    },
+    {
+     "t": "p",
+     "text": "Xét cho cùng, Maryborough nằm trong vùng Goldfields, nơi từng diễn ra cơn sốt vàng nổi tiếng của Australia vào thế kỷ 19."
+    },
+    {
+     "t": "p",
+     "text": "Để phá vỡ hòn đá, Hole đã thử dùng cưa đá, máy mài góc, máy khoan, và cả việc ngâm nó trong axit. Nhưng ngay cả búa tạ cũng không làm nó nứt ra được."
+    },
+    {
+     "t": "p",
+     "text": "Đó là vì thứ mà ông đang cố công mở ra không phải là cục vàng."
+    },
+    {
+     "t": "p",
+     "text": "Như ông phát hiện ra nhiều năm sau, đó là một thiên thạch hiếm."
+    },
+    {
+     "t": "p",
+     "text": "Video dưới đây có phần tóm tắt:"
+    },
+    {
+     "t": "p",
+     "text": "\"Nó có vẻ ngoài được chạm khắc, lồi lõm,\" nhà địa chất học Dermot Henry của Bảo tàng Melbourne nói với báo The Sydney Morning Herald năm 2019."
+    },
+    {
+     "t": "p",
+     "text": "\"Hình dạng đó được tạo ra khi chúng xuyên qua khí quyển; bên ngoài bị nóng chảy, và khí quyển đã tạo hình cho chúng.\""
+    },
+    {
+     "t": "p",
+     "text": "Không mở được \"tảng đá\" đó, nhưng vẫn tò mò, Hole mang hòn đá tới Viện bảo tàng Melbourne để xác định."
+    },
+    {
+     "t": "p",
+     "text": "\"Tôi đã xem rất nhiều hòn đá mà mọi người nghĩ là thiên thạch (meteorite),\" Henry nói với Channel 10 News."
+    },
+    {
+     "t": "p",
+     "text": "Thực tế, dù đã làm việc tại viện bảo tàng này 37 năm và kiểm tra hàng nghìn hòn đá, Henry cho biết chỉ có hai trong số đó từng là thiên thạch thật."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một trong hai hòn đá đó."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu bạn thấy một hòn đá trên Trái Đất như thế này, và bạn nhặt nó lên, nó không nên nặng đến vậy,\" nhà địa chất học Bill Birch của Viện bảo tàng Melbourne, hiện là người phụ trách danh dự, giải thích với The Sydney Morning Herald."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đã công bố một bài báo khoa học trên Proceedings of the Royal Society of Victoria, mô tả thiên thạch 4,6 tỉ năm tuổi này, mà họ đặt tên là Maryborough theo tên thị trấn gần nơi tìm thấy nó."
+    },
+    {
+     "t": "q",
+     "text": "\"Trong một số thiên thạch, có 'bụi sao' còn già hơn cả Hệ Mặt Trời của chúng ta.\" – nhà địa chất học Dermot Henry"
+    },
+    {
+     "t": "p",
+     "text": "Thiên thạch Maryborough nặng tới 17 kilogram."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi các nhà nghiên cứu dùng cưa kim cương cắt một lát mỏng, họ phát hiện thành phần của nó có tỉ lệ sắt cao, khiến nó trở thành một thiên thạch đá thường (ordinary chondrite) loại H5."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Khi đã cắt mở, bạn cũng có thể thấy những hạt khoáng vật silicat nhỏ kết tinh nằm rải khắp bên trong, được gọi là chondrule."
+    },
+    {
+     "t": "p",
+     "text": "\"Thiên thạch là cách rẻ nhất để khám phá vũ trụ. Chúng đưa chúng ta trở về quá khứ, cung cấp những manh mối về tuổi, quá trình hình thành và thành phần hóa học của Hệ Mặt Trời (kể cả Trái Đất),\" Henry nói."
+    },
+    {
+     "t": "p",
+     "text": "\"Một số thiên thạch cho chúng ta thấy một phần của lớp sâu bên trong hành tinh. Trong một số thiên thạch còn có 'bụi sao' thậm chí già hơn cả Hệ Mặt Trời, giúp chúng ta hiểu được cách các vì sao hình thành và phát triển để tạo ra các nguyên tố trong bảng tuần hoàn."
+    },
+    {
+     "t": "p",
+     "text": "\"Những thiên thạch hiếm khác còn chứa các phân tử hữu cơ như axit amin - những thành phần cơ bản tạo nên sự sống.\""
+    },
+    {
+     "t": "img",
+     "i": 3
+    },
+    {
+     "t": "p",
+     "text": "Dù các nhà nghiên cứu chưa biết chính xác thiên thạch này đến từ đâu và đã ở trên Trái Đất bao lâu, họ vẫn có một số suy đoán."
+    },
+    {
+     "t": "p",
+     "text": "Hệ Mặt Trời của chúng ta từng là một đám bụi và đá chondrite xoay tròn."
+    },
+    {
+     "t": "p",
+     "text": "Cuối cùng, lực hấp dẫn đã kéo phần lớn vật chất này lại với nhau để tạo thành các hành tinh, còn phần còn lại thì chủ yếu nằm trong một vành đai tiểu hành tinh khổng lồ."
+    },
+    {
+     "t": "p",
+     "text": "\"Thiên thạch này nhiều khả năng xuất phát từ vành đai tiểu hành tinh nằm giữa sao Hỏa và sao Mộc, và nó đã bị đẩy ra khỏi đó do các tiểu hành tinh va vào nhau, rồi một ngày nó rơi xuống va vào Trái Đất,\" Henry nói với Channel 10 News."
+    },
+    {
+     "t": "img",
+     "i": 4
+    },
+    {
+     "t": "p",
+     "text": "Phương pháp định tuổi bằng carbon cho thấy thiên thạch này đã nằm trên Trái Đất chưa đầy 1.000 năm, và đã có một số lần người ta nhìn thấy sao băng trong khoảng từ năm 1889 đến 1951 có thể trùng khớp với thời điểm nó rơi xuống hành tinh của chúng ta."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho rằng thiên thạch Maryborough còn hiếm hơn vàng rất nhiều, điều này khiến nó trở nên quý giá hơn nhiều đối với khoa học."
+    },
+    {
+     "t": "p",
+     "text": "Đây là một trong chỉ 17 thiên thạch từng được ghi nhận tại bang Victoria của Australia, và là khối thiên thạch chondrite lớn thứ hai, chỉ sau một mẫu vật khổng lồ nặng 55 kg được xác định vào năm 2003."
+    },
+    {
+     "t": "img",
+     "i": 5
+    },
+    {
+     "t": "p",
+     "text": "\"Đây chỉ là thiên thạch thứ 17 được tìm thấy ở Victoria, trong khi đã có hàng nghìn cục vàng được tìm thấy,\" Henry nói với Channel 10 News."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhìn vào chuỗi sự kiện xảy ra, có thể nói việc nó được phát hiện ra quả là một xác suất thiên văn.\""
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải là thiên thạch đầu tiên phải mất vài năm mới đến được bảo tàng."
+    },
+    {
+     "t": "p",
+     "text": "Trong một câu chuyện đặc biệt thú vị mà ScienceAlert đã đưa tin năm 2018, một tảng đá vũ trụ đã mất 80 năm, qua tay hai chủ sở hữu, và từng được dùng làm chặn cửa trước khi cuối cùng được xác định đúng là gì."
+    },
+    {
+     "t": "p",
+     "text": "Cho đến gần đây, chỉ một phần nhỏ trong số các thiên thạch rơi xuống Trái Đất được xác định chắc chắn nguồn gốc từ thiên thể mẹ ngoài không gian."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng vào năm 2024, ba bài báo khoa học mới công bố đã cho chúng ta những câu chuyện nguồn gốc đáng tin cậy cho hơn 90% các thiên thạch hiện nay."
+    },
+    {
+     "t": "p",
+     "text": "Có lẽ bây giờ là thời điểm tốt để bạn kiểm tra sân sau nhà mình, tìm những tảng đá đặc biệt nặng và khó đập vỡ – bạn có thể đang ngồi trên một \"mỏ vàng\" theo nghĩa bóng."
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này được công bố trên tạp chí Proceedings of the Royal Society of Victoria."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này được Rebecca Dyer kiểm chứng thông tin và biên tập. Dù chúng tôi tự hào về quy trình làm việc của mình, chúng tôi vẫn là con người. Nếu bạn phát hiện lỗi sai, hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "cf8585134f55",
+   "order": 15,
+   "slug": "nhung-hinh-anh-can-canh-dau-tien-ve-tieu-hanh-tinh-bi-nasa-d",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Những hình ảnh cận cảnh đầu tiên về tiểu hành tinh bị NASA đâm trúng cho thấy một miệng hố khổng lồ – và cả một đàn đá tảng bay lạ kỳ",
+   "sapo": "Bốn năm trước, một vụ va chạm vô cùng lớn đã xảy ra, cách Trái Đất 11 triệu km.",
+   "author": "Michelle Starr",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/nasa-crashed-a-spacecraft-into-an-asteroid-4-years-later-we-can-finally-see-the-carnage",
+   "published": "2026-11-26T02:21:27+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1657,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "First Close-Up Images of Asteroid Struck by NASA Reveal a Giant Crater – And a Swarm of Mysterious Flying Boulders",
+   "images": [
+    {
+     "src": "img/2026-11-27/cf8585134f55-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-27/cf8585134f55-0.jpg",
+     "caption": "Ảnh ghép từ 11 bức ảnh phơi sáng lâu cho thấy đàn đá tảng xung quanh tiểu hành tinh. (ESA)",
+     "w": 599,
+     "h": 318
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bốn năm trước, một vụ va chạm vô cùng lớn đã xảy ra, cách Trái Đất 11 triệu km."
+    },
+    {
+     "t": "p",
+     "text": "Đó không phải là sự kiện lớn nhất mà Hệ Mặt Trời từng chứng kiến, nhưng lại là một khoảnh khắc vô cùng quan trọng đối với con người."
+    },
+    {
+     "t": "p",
+     "text": "NASA đã gửi một tàu vũ trụ đến một tiểu hành tinh nhỏ và cố ý đâm nó vào khối đá vũ trụ này – đây là lần đầu tiên con người thử nghiệm một công nghệ có thể một ngày nào đó cứu chúng ta khỏi một tiểu hành tinh đang bay về hướng Trái Đất."
+    },
+    {
+     "t": "p",
+     "text": "Bản thân tiểu hành tinh đó vốn vô can – nó chỉ là một \"nạn nhân\" chấp nhận được trong một cuộc chiến lớn hơn nhiều. Và quả là một \"nạn nhân\" đáng nể."
+    },
+    {
+     "t": "p",
+     "text": "Trong hơn hai năm, tàu vũ trụ Hera của Cơ quan Vũ trụ châu Âu (ESA) đã bay suốt chặng đường đến Dimorphos để điều tra hiện trường \"vụ án\" này – và giờ đây nó đã hé lộ một vết sẹo khổng lồ chạy dọc toàn bộ chiều rộng của tiểu hành tinh."
+    },
+    {
+     "t": "p",
+     "text": "\"Các nhà khoa học đã tranh luận xem liệu Dimorphos có bị tạo thành miệng hố va chạm, thay đổi hình dạng, hay vẫn giữ nguyên như cũ,\" nhà khoa học chủ trì nhiệm vụ Hera, ông Patrick Michel từ Đài quan sát Côte d'Azur thuộc CNRS, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Thật bất ngờ, câu trả lời lại là cả ba điều đó cùng một lúc! Mặt bị DART đâm vào đã bị san bằng thành một miệng hố va chạm có kích thước bằng một sân vận động, trải dài trên toàn bộ chiều rộng của tiểu hành tinh.\""
+    },
+    {
+     "t": "p",
+     "text": "Nhiệm vụ này được gọi là Thử nghiệm chuyển hướng tiểu hành tinh kép (Double Asteroid Redirection Test, viết tắt là DART), và câu hỏi mà nó đặt ra rất đơn giản: Liệu chúng ta có thể thay đổi đường bay của một tiểu hành tinh bằng cách đâm trực tiếp vào nó không?"
+    },
+    {
+     "t": "p",
+     "text": "Mục tiêu là một cặp tiểu hành tinh liên kết với nhau bằng lực hấp dẫn – tiểu hành tinh lớn hơn, tên là Didymos, có đường kính khoảng 730 mét, và tiểu hành tinh nhỏ hơn, tên là Dimorphos, có đường kính khoảng 151 mét."
+    },
+    {
+     "t": "p",
+     "text": "Vì Dimorphos nhỏ hơn trong hai tiểu hành tinh, nên nó sẽ dễ bị làm thay đổi đường bay hơn, và bất kỳ sự thay đổi nào trong quỹ đạo của nó quanh Didymos đều có thể được đo đạc dễ dàng bằng các kính viễn vọng trên Trái Đất. Vì vậy, Dimorphos đã được chọn làm mục tiêu của DART."
+    },
+    {
+     "t": "p",
+     "text": "Vào ngày 26 tháng 9 năm 2022, sau khi tàu vũ trụ đã bay hơn 10 tháng, vụ va chạm đã diễn ra. Bụi bắn tung tóe, DART tan tành, và thành công còn lớn hơn bất kỳ ai dám mơ tới."
+    },
+    {
+     "t": "p",
+     "text": "NASA đã đặt ra một mục tiêu thành công tối thiểu: giảm chu kỳ quỹ đạo của Dimorphos quanh Didymos đi 73 giây."
+    },
+    {
+     "t": "p",
+     "text": "Mức giảm thực tế là một con số khổng lồ: 33 phút - và toàn bộ quỹ đạo của cặp thiên thạch này quanh Mặt Trời cũng đã thay đổi."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng đáng tiếc, camera của một tàu vũ trụ nhỏ của Ý mang tên LICIACube, vốn đi cùng DART để chụp ảnh vụ va chạm, không thể nhìn thấy mức độ hư hại qua đám bụi khổng lồ bị bắn ra từ vụ va chạm. Đến khi bụi lắng xuống, LICIACube đã đi xa từ lâu."
+    },
+    {
+     "t": "p",
+     "text": "Bất kể vết sẹo nào mà Dimorphos mang lại sau cú va chạm đó vẫn còn là một bí ẩn."
+    },
+    {
+     "t": "p",
+     "text": "Đây không phải là một câu hỏi vô cớ. Dimorphos là loại thiên thạch được gọi là thiên thạch đống đá vụn (rubble-pile asteroid). Thay vì là một khối đá đơn, rắn chắc, nó là tập hợp của nhiều khối đá nhỏ hơn được giữ lại với nhau bởi lực hấp dẫn giữa chúng - và lực hấp dẫn đó cực kỳ yếu."
+    },
+    {
+     "t": "p",
+     "text": "Điều này khiến việc dự đoán cách một thiên thạch như vậy phản ứng với va chạm trở nên phức tạp hơn. Trên thực tế, các mô phỏng được công bố năm 2024 cho thấy DART có thể không hề để lại một miệng hố rõ ràng, mà thay vào đó đã sắp xếp lại các khối đá cấu thành của thiên thạch thành một hình dạng hoàn toàn khác."
+    },
+    {
+     "t": "p",
+     "text": "Để tìm ra câu trả lời, cần phải gửi một thứ gì đó có thể cho chúng ta xác nhận bằng hình ảnh - và đó là lúc tàu Hera xuất hiện. Được phóng vào tháng 10 năm 2024, tàu vũ trụ này mang theo một bộ thiết bị được thiết kế để nghiên cứu tác động của DART lên hệ Didymos-Dimorphos."
+    },
+    {
+     "t": "p",
+     "text": "Và những gì nó phát hiện ra là một sự kết hợp kỳ lạ giữa phá hủy và bảo tồn."
+    },
+    {
+     "t": "p",
+     "text": "Ở phía Dimorphos bị DART đâm trúng, hình dạng tròn trước đây của thiên thạch đã bị làm dẹt đi một cách đáng kể. Miệng hố va chạm lớn đến mức, so với kích thước của chính thiên thạch, nó đã làm thay đổi hình dạng tổng thể của khối đá này."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, ở những nơi khác, cảnh quan vẫn trông quen thuộc đến lạ. Các nhà khoa học so sánh những hình ảnh mới với những hình ảnh mà DART chụp được trước vụ va chạm đã nhận ra một số tảng đá riêng lẻ dường như vẫn nằm nguyên vị trí."
+    },
+    {
+     "t": "p",
+     "text": "Vậy là DART đã tạo ra một miệng hố, và nó cũng đã làm biến dạng hình thù tiểu hành tinh - nhưng nó cũng để lại một số khu vực địa hình dường như không hề bị tác động."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng những thay đổi ở Dimorphos không chỉ là bề ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Trước vụ va chạm, người ta cho rằng Dimorphos bị khóa thủy triều (tidally locked) với Didymos, giống như cách Mặt Trăng bị khóa với Trái Đất, luôn hướng một mặt cố định về phía người bạn đồng hành lớn hơn của nó. Giờ thì không còn như vậy nữa."
+    },
+    {
+     "t": "p",
+     "text": "\"Thêm vào đó, khi Hera gửi về càng nhiều hình ảnh, càng rõ ràng là cú va chạm của DART đã làm Dimorphos quay cuồng một cách hỗn loạn trên quỹ đạo của nó,\" nhà khoa học của nhiệm vụ Hera, ông Michael Kueppers thuộc Cơ quan Vũ trụ châu Âu (ESA), cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Một điều bất ngờ lớn khác là Hera cho thấy các tiểu hành tinh này được bao quanh bởi hàng trăm tảng đá đang bay theo quỹ đạo, chỉ có kích thước vài mét. Nhóm nghiên cứu sẽ phải tính đến những vật thể này trong những tuần tới, khi nhiệm vụ tiến gần hơn để thu được những hình ảnh có độ phân giải cao hơn về các tiểu hành tinh.\""
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Có khả năng ít nhất một số trong những tảng đá này là \"món quà lưu niệm\" từ chuyến thăm của DART. Năm 2023, các quan sát từ Kính viễn vọng Không gian Hubble đã phát hiện một đám gồm 37 tảng đá dường như đã bị bắn ra khỏi Dimorphos do vụ va chạm."
+    },
+    {
+     "t": "p",
+     "text": "Các mô phỏng sau đó cho thấy một số tảng đá bị bắn ra có thể vẫn bị giữ lại bởi lực hấp dẫn của cặp tiểu hành tinh đủ lâu để Hera có thể gặp được chúng."
+    },
+    {
+     "t": "p",
+     "text": "Việc xác định nguồn gốc của số lượng tảng đá lớn hơn nhiều mà Hera quan sát được có thể giúp các nhà khoa học ghép lại toàn cảnh hậu quả của vụ va chạm."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng cuộc điều tra mới chỉ vừa bắt đầu. Hera đã đến được tiểu hành tinh vào ngày 4 tháng 11 năm 2026, và còn rất nhiều kế hoạch cho những tháng sắp tới."
+    },
+    {
+     "t": "p",
+     "text": "Vào thời điểm viết bài này, tàu đang ở khoảng cách từ 25 đến 30 km so với cặp tiểu hành tinh; đến tháng 12, tàu sẽ tiến gần hơn, chỉ còn 13 km, để chụp được những hình ảnh có độ phân giải ngày càng cao."
+    },
+    {
+     "t": "p",
+     "text": "Vào tháng 1, tàu sẽ thả xuống hai vệ tinh nhỏ (cubesat) để tiếp cận gần hơn nữa - Juventas, vệ tinh sẽ thực hiện phép đo radar đầu tiên trong lịch sử về cấu trúc bên trong của một tiểu hành tinh, và Milani, vệ tinh sẽ đo môi trường bên ngoài."
+    },
+    {
+     "t": "p",
+     "text": "Kết hợp lại, dữ liệu thu được từ hai vệ tinh này được kỳ vọng sẽ mang đến những hiểu biết vô giá. Bằng cách xác định khối lượng và cấu trúc của Dimorphos, các nhà khoa học sẽ hiểu rõ hơn việc tàu DART đã truyền động lượng cho tiểu hành tinh này hiệu quả đến mức nào - và những tiểu hành tinh khác có thể phản ứng ra sao trước một cú va chạm tương tự."
+    },
+    {
+     "t": "p",
+     "text": "\"Sáu mươi sáu triệu năm trước, một vụ va chạm tiểu hành tinh đã thay đổi tiến trình sự sống trên Trái Đất. Hôm nay, lần đầu tiên trong lịch sử, con người đang kiểm chứng cách ngăn chặn một sự kiện như vậy xảy ra lần nữa,\" ông Ian Carnelli, quản lý nhiệm vụ Hera của Cơ quan Vũ trụ châu Âu (ESA), cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Nhiệm vụ DART của NASA đã chứng minh rằng chúng ta có thể thay đổi quỹ đạo của một tiểu hành tinh. Giờ đây, Hera đang hé lộ điều gì đã xảy ra với chính tiểu hành tinh đó. Bằng cách kết hợp hai nhiệm vụ này, con người đang thực hiện một bước tiến quyết định để biến việc làm chệch hướng tiểu hành tinh thành một công cụ đáng tin cậy nhằm bảo vệ hành tinh của chúng ta.\""
+    }
+   ]
+  },
+  {
+   "id": "ef09cf698f6f",
+   "order": 16,
+   "slug": "tau-nasa-lam-bet-be-mat-tieu-hanh-tinh-sau-va-cham",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Tàu NASA làm bẹt bề mặt tiểu hành tinh sau va chạm",
+   "sapo": "Cơ quan Vũ trụ châu Âu (ESA) công bố bức ảnh hôm 25/11 cho thấy, tàu DART của NASA tạo ra hố lớn ngang một sân vận động trên tiểu hành tinh sau cú va chạm ở tốc độ 21.960 km/h.",
+   "author": "VnExpress",
+   "source_name": "VnExpress",
+   "source_url": "https://vnexpress.net/tau-nasa-lam-bet-be-mat-tieu-hanh-tinh-sau-va-cham-5149158.html",
+   "published": "2026-11-26T08:00:17+07:00",
+   "lang": "vi",
+   "score": 8,
+   "words": 739,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/ef09cf698f6f-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-27/ef09cf698f6f-0.jpg",
+     "caption": "Ảnh chụp từ Hera hé lộ miệng hố lớn bằng một sân vận động trên tiểu hành tinh Dimorphos. Ảnh: ESA",
+     "w": 1020,
+     "h": 574
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cơ quan Vũ trụ châu Âu (ESA) công bố bức ảnh hôm 25/11 cho thấy, tàu DART của NASA tạo ra hố lớn ngang một sân vận động trên tiểu hành tinh sau cú va chạm ở tốc độ 21.960 km/h."
+    },
+    {
+     "t": "p",
+     "text": "Vụ va chạm tàu DART (Thử nghiệm chuyển hướng tiểu hành tinh kép) của NASA đâm vào Dimorphos - mặt trăng rộng 152 m của tiểu hành tinh Didymos vào ngày 26/9/2022. Nhiệm vụ này nhằm kiểm tra liệu một vụ va chạm như vậy có thể giúp chuyển hướng tiểu hành tinh sắp lao tới Trái Đất hay không."
+    },
+    {
+     "t": "p",
+     "text": "Giới khoa học xác nhận thử nghiệm thành công khi nó khiến quỹ đạo của hệ thống tiểu hành tinh nhị phân quanh Mặt Trời kéo dài thêm 33 phút. Tuy nhiên, tháng 10/2024, ESA vẫn phóng tàu vũ trụ Hera bay qua 194 triệu km để quan sát chi tiết hơn tác động của DART."
+    },
+    {
+     "t": "p",
+     "text": "Những bức ảnh đầu tiên của nhiệm vụ được ESA công bố tại hội trường khủng long của Bảo tàng Lịch sử Tự nhiên Berlin."
+    },
+    {
+     "t": "p",
+     "text": "Hình ảnh cho thấy DART đã làm bẹp một mặt của tiểu hành tinh Dimorphos bằng hố va chạm lớn cỡ sân vận động và khiến nó quay lộn nhào hỗn loạn. \"Các nhà khoa học tranh luận Dimorphos có thêm một miệng hố va chạm, thay đổi hình dạng hay vẫn giữ nguyên\", Space dẫn lời Patrick Michel, nhà nghiên cứu chính của Hera, giám đốc nghiên cứu tại Đài quan sát Côte d'Azur. \"Câu trả lời bất ngờ là cả ba điều cùng xảy ra. Bề mặt mà DART đâm vào bị mài phẳng thành miệng hố lớn ngang một sân vận động, trải khắp chiều rộng của tiểu hành tinh\"."
+    },
+    {
+     "t": "p",
+     "text": "Michael Kueppers, nhà khoa học trong nhiệm vụ Hera của ESA, cho biết ảnh chụp do Hera truyền về cho thấy vụ va chạm với DART khiến Dimorphos quay mất kiểm soát trên quỹ đạo. Bao quanh tiểu hành tinh nhỏ này là hàng trăm tảng đá có kích thước chỉ vài mét. Phần còn lại của Dimorphos không có dấu hiệu thay đổi rõ rệt. Hera phát hiện những bãi đá tảng phủ kín khu vực không bị va chạm trên thiên thể này vẫn giữ nguyên hiện trạng như lúc tàu DART chụp ảnh vào năm 2022."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu vẫn chưa rõ nguồn gốc của những tảng đá đó. \"Với thông tin hiện có, chúng tôi không thể khẳng định liệu đây có phải mảnh vỡ từ tác động của DART hay nguồn khác như từ tiểu hành tinh chính\", Naomi Murdoch, nhà khoa học hành tinh tại Đại học Toulouse, nói với CNN . Theo Murdoch, nhóm nghiên cứu cần thêm thời gian để xác định những tảng đá đến từ đâu và lý do chúng xuất hiện."
+    },
+    {
+     "t": "p",
+     "text": "Hera đã sử dụng ba thiết bị trong quan sát đầu tiên gồm máy chụp ảnh hồng ngoại nhiệt để đo nhiệt độ bề mặt, máy chụp ảnh đa phổ 25 màu và máy ảnh đơn sắc. Hiện nay, tàu vũ trụ của ESA đang ở trong quỹ đạo hình chữ nhật quanh hệ thống tiểu hành tinh nhị phân, sử dụng động cơ đẩy để duy trì khoảng cách xấp xỉ 30 km nhằm tiếp tục quan sát Didymos và Dimorphos."
+    },
+    {
+     "t": "p",
+     "text": "Theo Popular Science , trong tháng 12, Hera sẽ rút ngắn khoảng cách xuống 13 km, chụp thêm hình ảnh chi tiết với độ phân giải cao hơn về các tiểu hành tinh này trong không gian. Sau đó, vào tháng 1/2027, tàu sẽ triển khai hai vệ tinh CubeSat lớn cỡ hộp giày đến gần hai thiên thể hơn."
+    },
+    {
+     "t": "p",
+     "text": "CubeSat Juventas sẽ sử dụng radar tần số thấp để thăm dò bên trong Dimorphos và tìm cách hạ cánh lên mặt trăng nhỏ này để đo trọng lực của nó. Trong khi đó, CubeSat Milani sẽ khảo sát vật liệu và bụi tiểu hành tinh xung quanh hệ thống Didymos. Hera và các CubeSat sẽ xác định chính xác hơn khối lượng của Dimorphos, một thông tin quan trọng giúp lập kế hoạch cho nhiệm vụ chuyển hướng tiểu hành tinh đe dọa Trái Đất. ESA cho biết thông tin thu được sẽ góp phần cải tiến mô hình dự đoán cách các tiểu hành tinh khác phản ứng với nỗ lực chuyển hướng."
+    },
+    {
+     "t": "p",
+     "text": "An Khang tổng hợp"
+    }
+   ]
+  },
+  {
+   "id": "62e9047bcde1",
+   "order": 17,
+   "slug": "lop-hoc-xanh-giua-rung-gia",
+   "section": "kham-pha-khoa-hoc",
+   "section_name": "Khám phá khoa học",
+   "emoji": "🔬",
+   "title": "Lớp học xanh giữa rừng già",
+   "sapo": "Với la bàn, ống nhòm, kính lúp và cuốn sổ tay, học sinh xã Krong (Gia Lai) có một ngày trải nghiệm đặc biệt: học cách khám phá thiên nhiên và giữ rừng.",
+   "author": "thanhnien.vn",
+   "source_name": "Thanh Niên",
+   "source_url": "https://thanhnien.vn/lop-hoc-xanh-giua-rung-gia-185261126203657348.htm",
+   "published": "2026-11-26T22:54:00+07:00",
+   "lang": "vi",
+   "score": 7,
+   "words": 808,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/62e9047bcde1-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/62e9047bcde1-0.jpg",
+     "caption": "Các “kiểm lâm nhí” được kiểm lâm viên Vườn quốc gia Kon Ka Kinh hướng dẫn trước khi vào rừng",
+     "w": 1280,
+     "h": 718
+    },
+    {
+     "src": "img/2026-11-27/62e9047bcde1-1.jpg",
+     "caption": "Các \"kiểm lâm viên nhí\" đã có một trải nghiệm khó quên",
+     "w": 1280,
+     "h": 960
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Tiết học dưới tán rừng"
+    },
+    {
+     "t": "p",
+     "text": "Với nhiều học sinh (HS) ở xã Krong, rừng Kon Ka Kinh vốn gần gũi vì các em sống ở vùng đệm của vườn quốc gia , nơi rừng già hiện diện trong đời sống hằng ngày."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, trong chuyến đi thuộc khuôn khổ chương trình \"Một ngày làm kiểm lâm nhí\" do Trung tâm giáo dục môi trường và dịch vụ môi trường rừng thuộc Ban Quản lý Vườn quốc gia Kon Ka Kinh tổ chức, với sự hỗ trợ kỹ thuật của Hội Động vật học Frankfurt (FZS, Đức), các em có cơ hội khám phá rừng theo một cách rất khác - trở thành những \"kiểm lâm nhí\", tự tìm hiểu, quan sát và thực hành những công việc của người giữ rừng."
+    },
+    {
+     "t": "p",
+     "text": "\"Phòng học xanh\" của các em có diện tích tự nhiên khoảng 41.900 ha, trong đó rừng tự nhiên chiếm 93%. Vườn quốc gia Kon Ka Kinh có 1.754 loài thực vật thuộc 753 chi và 181 họ, chiếm khoảng 14% hệ thực vật cả nước; cùng hơn 300 loài dược liệu, hơn 100 loài nấm và trên 850 loài động vật."
+    },
+    {
+     "t": "p",
+     "text": "Đây cũng là nơi khởi nguồn của nhiều hệ thống sông lớn, trong đó có sông Ba. Năm 2003, Kon Ka Kinh được công nhận là Vườn di sản ASEAN. Những loài động vật đặc hữu như voọc chà vá chân xám, vượn đen má hung hay khướu Kon Ka Kinh cũng góp phần tạo nên giá trị đặc biệt của khu rừng."
+    },
+    {
+     "t": "p",
+     "text": "Trước khi bước vào hành trình, HS được làm quen với những dụng cụ của nghề kiểm lâm như ống nhòm, GPS, bản đồ, la bàn và máy bẫy ảnh. Từ những vật dụng này, các em hiểu hơn cách người giữ rừng xác định vị trí, theo dõi động vật và ghi nhận những thay đổi trong rừng."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "h",
+     "text": "Theo dấu rừng, học cách giữ rừng"
+    },
+    {
+     "t": "p",
+     "text": "Điểm nhấn của chương trình là chuyến tuần tra qua 5 trạm tại Tiểu khu 88. Trước khi lên đường, các em được hướng dẫn cách ghi chép, đánh dấu bản đồ, sử dụng sổ tay nhiệm vụ và tuân thủ các quy tắc an toàn."
+    },
+    {
+     "t": "p",
+     "text": "Tại trạm đầu tiên, các đội tìm kiếm dấu vết tác động của con người như rác, đường mòn, gốc cây cũ, vết chặt cây hay dấu đốt. Đến trạm \"Khám phá cây rừng\", các em nhận diện ít nhất 3 loài cây thuộc 3 dạng sống khác nhau, xác định vị trí trên bản đồ và tìm hiểu về quần thể cây giáng hương trong khu vực, những mối đe dọa cũng như quy định bảo tồn loài cây quý này."
+    },
+    {
+     "t": "p",
+     "text": "Ở trạm \"Bạn rừng quanh ta\", HS tập quan sát dấu chân, dấu thức ăn, lông, phân, vết cào, tiếng động hay mùi để nhận biết sự hiện diện của động vật. Trò chơi \"Giọt mưa đi đâu?\" giúp các em hiểu vai trò của rừng đầu nguồn đối với những dòng sông, còn ở trạm \"Hành động vì rừng xanh\", các đội cùng nhặt rác trên đoạn đường đã chọn và phân loại rác thông thường."
+    },
+    {
+     "t": "p",
+     "text": "Sau chuyến tuần tra, mỗi nhóm báo cáo kết quả, thảo luận và gửi gắm thông điệp bảo vệ rừng qua những bức tranh mang chủ đề \"Rừng bảo vệ cuộc sống\". Vỏ cây, vỏ quả, lá khô được tận dụng làm chất liệu sáng tạo."
+    },
+    {
+     "t": "p",
+     "text": "Cuối chương trình, mỗi HS viết lại 3 điều mới học được, 3 điều thích nhất và 3 điều chưa thích. Ban tổ chức còn chuẩn bị hộp thư \"Lời hứa với rừng\" để các em gửi những cam kết của mình, cùng giấy chứng nhận \"Kiểm lâm trẻ Kon Ka Kinh\" và dấu mộc checkpoint trong sổ tay."
+    },
+    {
+     "t": "p",
+     "text": "Em Đinh Thị Thông, HS lớp 9 Trường phổ thông dân tộc bán trú THCS Krong, hào hứng kể dù sống gần rừng và từng vào rừng, đây là lần đầu em được các chú kiểm lâm giải thích nhiều điều thú vị, hiểu thêm về giá trị của Vườn quốc gia Kon Ka Kinh. \"Em rất vui và mong có nhiều dịp thế này. Em cũng mong thêm nhiều người yêu rừng, giữ rừng\", Thông nói."
+    },
+    {
+     "t": "p",
+     "text": "Ông Lê Văn Vinh, Phó giám đốc Vườn quốc gia Kon Ka Kinh, cho rằng việc tuần tra, bảo vệ rừng lâu nay thường được xem là nhiệm vụ của ngành lâm nghiệp , nhưng HS cũng là nguồn lực quý để lan tỏa ý thức bảo vệ môi trường. \"Khi các em tự tay vẽ bản đồ, ghi nhận dấu vết động vật, lắng nghe tiếng chim và chạm vào thân cây hương cổ thụ, thứ được đánh thức sẽ không chỉ là hiểu biết mà còn là sự gắn bó với rừng\", ông Vinh chia sẻ."
+    }
+   ]
+  },
+  {
+   "id": "8ec4dc28688b",
+   "order": 18,
+   "slug": "mot-con-chim-ruoi-nho-bay-hon-6-500-km-trong-chuyen-di-cu-la",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Một con chim ruồi nhỏ bay hơn 6.500 km trong chuyến di cư lập kỷ lục",
+   "sapo": "Nhỏ như chim sẻ và nhẹ như viên đường, một con chim ruồi lửa (rufous hummingbird) đực đã bay tổng cộng quãng đường kỷ lục 6.526 km từ Alabama đến Alaska chỉ trong 38 ngày.",
+   "author": "Jess Cockerill",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/one-little-hummingbird-flew-over-4000-miles-in-a-record-breaking-migration",
+   "published": "2026-11-26T11:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 1158,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "One Little Hummingbird Flew Over 4,000 Miles in a Record-Breaking Migration",
+   "images": [
+    {
+     "src": "img/2026-11-27/8ec4dc28688b-lead.jpg",
+     "caption": "",
+     "w": 1280,
+     "h": 720
+    },
+    {
+     "src": "img/2026-11-27/8ec4dc28688b-0.jpg",
+     "caption": "(Rhodes và cộng sự, Ecology and Evolution, 2026)",
+     "w": 912,
+     "h": 1256
+    },
+    {
+     "src": "img/2026-11-27/8ec4dc28688b-1.jpg",
+     "caption": "Bản đồ 8 trong số 11 đường bay cá thể để quan sát các chuyển động quy mô lớn. RTHU = chim ruồi họng đỏ (ruby-throated hummingbird); RUHU = chim ruồi lửa (rufous hummingbird). (Rhodes và cộng sự, Ecology and Evolution, 2026)",
+     "w": 1280,
+     "h": 742
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nhỏ như chim sẻ và nhẹ như viên đường, một con chim ruồi lửa đực đã bay tổng cộng quãng đường kỷ lục 6.526 km từ Alabama đến Alaska chỉ trong 38 ngày."
+    },
+    {
+     "t": "p",
+     "text": "Đó là chuyến hành trình dài nhất của loài chim ruồi mà các nhà khoa học từng ghi nhận được."
+    },
+    {
+     "t": "p",
+     "text": "Chim ruồi rất khó theo dõi. Các loại thiết bị định vị mà các nhà khoa học thường dùng cho những loài di cư lớn hơn lại quá nặng đối với chim ruồi, vì hầu hết chúng nặng chưa tới 5 gram."
+    },
+    {
+     "t": "p",
+     "text": "Nhà sinh lý học động vật Emma Rhodes, làm việc tại Đại học Memphis, đã dẫn đầu một nhóm nghiên cứu chế tạo một thiết bị theo dõi siêu nhỏ cho chim ruồi, chỉ tạo thêm gánh nặng 0,06 gram cho hành trình của chúng. Đó là trọng lượng tương đương với một hạt gạo."
+    },
+    {
+     "t": "p",
+     "text": "Kết quả thử nghiệm thực địa của họ được công bố trên tạp chí khoa học Ecology and Evolution, bao gồm cả hành trình lập kỷ lục nói trên."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị phát tín hiệu mỗi 3 giây, được cấp năng lượng trực tiếp bởi một tấm pin năng lượng mặt trời nhỏ xíu. Nó không cần pin và không cần lưu trữ dữ liệu: tín hiệu có thể được điện thoại thông minh hoặc máy tính bắt được trong phạm vi 200 mét quanh con chim qua kết nối Bluetooth."
+    },
+    {
+     "t": "p",
+     "text": "Đây có thể là một bước đột phá quan trọng đối với các nhà nghiên cứu chim ruồi, những người từ lâu vẫn phải dựa vào phương pháp đeo vòng để theo dõi loài chim này."
+    },
+    {
+     "t": "p",
+     "text": "Những người đeo vòng cho chim ruồi được huấn luyện sử dụng lưới hoặc lồng để bắt chim ruồi, sau đó nhanh tay đeo vào chân mỗi con chim một chiếc \"vòng tay\" kim loại có đánh số riêng."
+    },
+    {
+     "t": "p",
+     "text": "Những người quan sát chim, người đeo vòng và các nhà nghiên cứu chim học đều kiểm tra vòng đeo mỗi khi bắt gặp một con chim, và điều này đã giúp các nhà khoa học có rất nhiều dữ liệu về nơi chim ruồi di chuyển trong suốt năm."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng khi số lượng chim ruồi tiếp tục giảm, các nhà khoa học cần thêm nhiều thông tin chi tiết hơn để có thể tìm ra chính xác nơi nào và vì sao mọi thứ đang trở nên tồi tệ."
+    },
+    {
+     "t": "p",
+     "text": "Việc gắn những con chip radio nhỏ xíu lên chim đã giúp các nhà khoa học lấp được một phần lỗ hổng trong dữ liệu về chim ruồi. Hệ thống theo dõi động vật hoang dã Motus (Motus Wildlife Tracking System) cho thấy cách làm này khả thi, nhưng theo Rhodes và nhóm nghiên cứu, nó \"vẫn bị hạn chế bởi số lượng tháp thu tín hiệu đang hoạt động và tương thích với thiết bị\"."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị theo dõi của họ, có tên BlūMorpho, dựa trên phương pháp Internet vạn vật (Internet of Things), nghĩa là bất kỳ máy tính nào có phần mềm phù hợp cũng có thể bắt được tín hiệu từ những con chim gần đó. Và vì hầu như ai cũng có điện thoại thông minh trong túi, mạng lưới thiết bị thu tín hiệu này đã có sẵn với độ phủ rất rộng."
+    },
+    {
+     "t": "p",
+     "text": "Rhodes và nhóm nghiên cứu đã gắn thiết bị theo dõi lên bốn con chim ruồi rufous (Selasphorus rufus) và bảy con chim ruồi họng đỏ (Archilochus colubris) vào tháng Ba và tháng Tư năm 2025, đúng thời điểm các loài chim này bắt đầu di cư mùa xuân từ vùng biển Alabama và dải đất Florida Panhandle."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu đảm bảo mỗi thiết bị nặng dưới 3% trọng lượng cơ thể chim, mức tải trọng mà theo một nghiên cứu trên chim chích mông vàng mang thiết bị radio, không khiến chúng tốn thêm năng lượng khi bay."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị phát được dán giữa hai bả vai của chim, với ăng-ten hướng ra phía sau."
+    },
+    {
+     "t": "p",
+     "text": "Khi theo dõi đường bay của những con chim gần như theo thời gian thực, các nhà khoa học đã phát hiện vài đường đi vòng đáng ngạc nhiên."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi bay hướng bắc một thời gian ngắn, một con chim ruồi rufous đã đi theo \"đường bay ngoằn ngoèo như rắn\" qua nhiều bang phía đông trong suốt 23 ngày, bao gồm \"một vòng lớn khoảng 345 km cắt lên miền đông Tennessee vào ngày 2 tháng 4 năm 2025, tiếp tục hướng bắc đến khi tới Fredericktown, Missouri, rồi vòng trở lại phía nam và cuối cùng hướng về phía đông cho tới ngày 14 tháng 4 năm 2025,\" các nhà nghiên cứu cho biết."
+    },
+    {
+     "t": "p",
+     "text": "Hai con chim ruồi họng đỏ đực được gắn thẻ cùng một ngày đã bay theo hướng bắc tương tự nhau. Trong hai ngày của tháng Tư, chúng di chuyển song song gần như hoàn hảo, cách nhau khoảng 83 km theo kinh độ."
+    },
+    {
+     "t": "p",
+     "text": "Một con chim ruồi họng đỏ khác bất ngờ bay về phía đông nam từ nơi nó được bắt, di chuyển từ vùng biển Alabama tới Florida."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Và tất nhiên, không thể không nhắc tới con chim ruồi rufous lập kỷ lục, với chuyến bay 38 ngày từ Alabama tới Alaska, vòng qua phía tây miền bắc Mexico rồi bay thẳng lên theo tuyến đường di cư Thái Bình Dương (Pacific Flyway)."
+    },
+    {
+     "t": "p",
+     "text": "Thiết bị này không hoàn hảo: nó không hoạt động vào ban đêm, và cũng không có nhiều tác dụng ở những vùng xa xôi không có máy tính hay điện thoại thông minh để truyền dữ liệu đến."
+    },
+    {
+     "t": "p",
+     "text": "Thử thách khác là làm sao giữ cho các thiết bị theo dõi (tracker) dính chặt vào chim: chúng hoạt động được trung bình khoảng 47 ngày trước khi có thể rơi ra do lớp keo dán bị hỏng."
+    },
+    {
+     "t": "p",
+     "text": "\"Những khó khăn về phương pháp và công nghệ trước đây đã hạn chế khả năng của chúng tôi trong việc trả lời các câu hỏi quan trọng ở cấp độ quần thể, chẳng hạn như liệu có sự liên kết di cư (migratory connectivity) ở các loài chim ruồi di cư hay không, và nếu có thì ở mức độ nào,\" Rhodes và nhóm nghiên cứu viết."
+    },
+    {
+     "t": "p",
+     "text": "\"Với việc cả chim ruồi hung (rufous hummingbird) và chim ruồi họng đỏ (ruby-throated hummingbird) đều đang trải qua sự suy giảm số lượng gần đây, công nghệ mới này sẽ cung cấp những hiểu biết quan trọng cho việc quản lý loài, bảo tồn, và để hiểu được những thay đổi hiện nay trong quần thể.\""
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được kiểm tra thông tin bởi Peter Dockrill và biên tập bởi Peter Dockrill. Mặc dù chúng tôi tự hào về quy trình làm việc của mình, chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "3f56ca1bcbbc",
+   "order": 19,
+   "slug": "cac-nha-khoa-hoc-xac-dinh-loai-bo-cap-lon-nhat-the-gioi-tung",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Các nhà khoa học xác định loài bọ cạp lớn nhất thế giới từng được biết đến, to như một con chó",
+   "sapo": "Rất lâu trước khi động vật có vú, bò sát hay chim chóc xuất hiện trên Trái Đất, một loài săn mồi khác đã lùng sục trên các vùng đồng bằng ngập nước.",
+   "author": "Fiona MacDonald",
+   "source_name": "ScienceAlert",
+   "source_url": "https://www.sciencealert.com/scientists-identify-the-worlds-largest-known-scorpion-the-size-of-a-dog",
+   "published": "2026-11-26T09:00:00+07:00",
+   "lang": "vi-dich",
+   "score": 8,
+   "words": 913,
+   "translated": true,
+   "translated_from": "ScienceAlert",
+   "title_original": "Scientists Identify The World's Largest Known Scorpion, The Size of a Dog",
+   "images": [
+    {
+     "src": "img/2026-11-27/3f56ca1bcbbc-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 675
+    },
+    {
+     "src": "img/2026-11-27/3f56ca1bcbbc-0.jpg",
+     "caption": "Việc phát hiện ra Eramoscorpius (trong ảnh) cuối cùng đã cung cấp bằng chứng hóa thạch để xác nhận Praearcturus đúng là một loài bọ cạp. (Ảnh chỉnh từ Dunlop & Garwood qua PeerJ, CC BY 4.0)",
+     "w": 1200,
+     "h": 690
+    },
+    {
+     "src": "img/2026-11-27/3f56ca1bcbbc-1.jpg",
+     "caption": "Hình ảnh minh họa của họa sĩ về Praearcturus gigas, loài có chiều dài hơn một mét. (© Franz Anthony)",
+     "w": 1280,
+     "h": 662
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rất lâu trước khi động vật có vú, bò sát hay chim chóc xuất hiện trên Trái Đất, một loài săn mồi khác đã lùng sục trên các vùng đồng bằng ngập nước."
+    },
+    {
+     "t": "p",
+     "text": "Đó không phải là khủng long… mà là một con bọ cạp."
+    },
+    {
+     "t": "p",
+     "text": "Và không phải là một con bọ cạp nhỏ đâu."
+    },
+    {
+     "t": "p",
+     "text": "Các hóa thạch của loài sinh vật này, có niên đại khoảng 415 triệu năm trước, được tìm thấy ở Anh và lần đầu tiên được mô tả vào những năm 1870. Từ đó đến nay, các nhà khoa học vẫn tranh luận về việc họ thực sự đang nhìn thấy loài gì."
+    },
+    {
+     "t": "p",
+     "text": "Một nghiên cứu gần đây được công bố trên tạp chí Palaeontology – sử dụng phương pháp chụp cắt lớp (CT scan) kết hợp với kỹ thuật vẽ truyền thống bằng camera lucida – đã giải quyết được câu hỏi này."
+    },
+    {
+     "t": "p",
+     "text": "Sinh vật này được gọi là Praearcturus gigas, và nó có thể là loài bọ cạp lớn nhất từng tồn tại."
+    },
+    {
+     "t": "p",
+     "text": "Chỉ riêng chiếc càng của nó đã dài tới 16 cm, dài hơn cả toàn bộ cơ thể của nhiều loài bọ cạp sống ngày nay."
+    },
+    {
+     "t": "q",
+     "text": "\"Loài này có thể đã phát triển to lớn như vậy vì không có loài săn mồi lớn khác, nên nó có thể thống trị môi trường sống của mình.\" – nhà cổ sinh vật học Richie Howard"
+    },
+    {
+     "t": "p",
+     "text": "Toàn bộ con vật được ước tính có chiều dài hơn một mét, cỡ bằng một con chó cỡ trung bình."
+    },
+    {
+     "t": "p",
+     "text": "Và chỉ cần biết thông tin đó cũng đủ khiến tôi thấy mừng vì không phải sống vào thời đó."
+    },
+    {
+     "t": "p",
+     "text": "\"Praearcturus sống vào thời kỳ sự sống trên đất liền chỉ vừa mới bắt đầu, và tổ tiên của loài bò sát, động vật có vú và chim vẫn chưa rời khỏi nước,\" nhà nghiên cứu chính Richie Howard, nhà cổ sinh vật học (paleontologist) tại Bảo tàng Lịch sử Tự nhiên Anh, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều này cho thấy loài này có thể đã phát triển to lớn như vậy vì không có loài săn mồi lớn khác nào cạnh tranh, giúp nó thống trị môi trường sống của mình.\""
+    },
+    {
+     "t": "p",
+     "text": "Nói cách khác: không có đối thủ, không có luật lệ nào cả."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu còn so sánh các mẫu hóa thạch (fossil) ở Anh với mẫu vật của loài bọ cạp cổ đại Eramoscorpius ở Canada (ảnh dưới), để xác nhận vị trí của P. gigas trong cây gia đình loài bọ cạp."
+    },
+    {
+     "t": "p",
+     "text": "Nếu bạn nghĩ mọi thứ không thể đáng sợ hơn được nữa, thì các nhà khoa học còn tìm thấy những đường gờ trên một trong các chân của nó, chứng tỏ nó có thể đã tạo ra âm thanh bằng cách chà xát các bộ phận cơ thể vào nhau – một mẹo gọi là phát âm bằng cách cọ xát (stridulation) mà một số loài bọ cạp ngày nay vẫn còn sử dụng."
+    },
+    {
+     "t": "p",
+     "text": "Tuy nhiên, đất liền lúc đó vẫn chưa phát triển hoàn chỉnh. Trên đó chưa có nhiều hệ sinh thái (ecosystem) để dựa vào."
+    },
+    {
+     "t": "p",
+     "text": "Vì vậy, con vật khổng lồ này có thể đã chọn cách an toàn hơn, vừa sống trên đất liền vừa dành thời gian ở trong nước."
+    },
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Các hóa thạch ở Wales cho thấy những cấu trúc giống như nắp, gọi là epimera, trên cơ thể con vật, tương tự những đặc điểm tìm thấy ở tôm hùm và cua ngày nay."
+    },
+    {
+     "t": "p",
+     "text": "Howard và các đồng nghiệp cho rằng P. gigas săn mồi cả trên đất liền và trong nước, bất cứ nơi nào có con mồi."
+    },
+    {
+     "t": "p",
+     "text": "Nhưng lợi thế đó sẽ không kéo dài lâu."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Hàng triệu năm sau, mặt đất tràn ngập những con cuốn chiếu to như ô tô và chuồn chuồn lớn như chim săn mồi, trong những khu rừng vốn chưa từng tồn tại vào thời P. gigas còn sống."
+    },
+    {
+     "t": "p",
+     "text": "Sự cạnh tranh thức ăn ngày càng tăng có thể đã khiến loài bọ cạp khổng lồ này suy giảm dần, mặc dù các nhà nghiên cứu cho rằng nó có thể vẫn tồn tại thêm khoảng 40 triệu năm sau thời kỳ của những hóa thạch này trước khi biến mất hoàn toàn."
+    },
+    {
+     "t": "p",
+     "text": "Vẫn còn một câu hỏi lớn hơn treo lơ lửng trên tất cả: làm thế nào một dòng sinh vật thở bằng không khí lại quay trở lại sống dưới nước ngay từ đầu."
+    },
+    {
+     "t": "p",
+     "text": "\"Những cây phả hệ tốt nhất mà chúng tôi dựng được từ trình tự DNA cho thấy bọ cạp có quan hệ gần gũi với các loài nhện khác có cùng loại phổi sách (book lungs), chẳng hạn như nhện,\" nhà cổ sinh vật học Greg Edgecombe, cũng thuộc Bảo tàng Lịch sử Tự nhiên Anh, cho biết."
+    },
+    {
+     "t": "p",
+     "text": "\"Điều này cho thấy chúng có thể là con cháu của một loài tổ tiên thở bằng không khí."
+    },
+    {
+     "t": "p",
+     "text": "\"Nếu đúng như vậy, thì Praearcturus là một ví dụ về loài vật có thể đã quay trở lại sống dưới nước sau khi tổ tiên của nó đã chuyển lên sống trên đất liền.\""
+    },
+    {
+     "t": "p",
+     "text": "Nghiên cứu này đã được công bố trên tạp chí Palaeontology."
+    },
+    {
+     "t": "p",
+     "text": "Bài viết này đã được Rebecca Dyer kiểm tra thông tin và biên tập. Mặc dù chúng tôi luôn tự hào về quy trình làm việc của mình, nhưng chúng tôi cũng chỉ là con người. Nếu bạn phát hiện lỗi sai, xin hãy cho chúng tôi biết."
+    }
+   ]
+  },
+  {
+   "id": "48a9dbdb1074",
+   "order": 20,
+   "slug": "phat-hien-san-ho-1-000-nam-tuoi-cung-he-sinh-thai-ky-la",
+   "section": "the-gioi-dong-vat",
+   "section_name": "Thế giới động vật",
+   "emoji": "🦈",
+   "title": "Phát hiện san hô 1.000 năm tuổi cùng hệ sinh thái kỳ lạ",
+   "sapo": "Các nhà khoa học phát hiện những quần thể san hô nước lạnh có tuổi đời lên tới 1.000 năm, cùng nhiều loài mực, bạch tuộc và bọt biển tại khu vực sâu hàng nghìn mét dưới Đại Tây Dương.",
+   "author": "ANH THƯ",
+   "source_name": "Tuổi Trẻ",
+   "source_url": "https://tuoitre.vn/phat-hien-san-ho-1000-nam-tuoi-cung-he-sinh-thai-ky-la-100261126113958705.htm",
+   "published": null,
+   "lang": "vi",
+   "score": 8,
+   "words": 397,
+   "translated": false,
+   "translated_from": "",
+   "title_original": "",
+   "images": [
+    {
+     "src": "img/2026-11-27/48a9dbdb1074-lead.jpg",
+     "caption": "",
+     "w": 1200,
+     "h": 630
+    },
+    {
+     "src": "img/2026-11-27/48a9dbdb1074-0.jpg",
+     "caption": "Một quần thể san hô và bọt biển nước lạnh phát triển mạnh ở độ sâu hơn 1.600m tại đới đứt gãy Romanche - Ảnh: SCHMIDT OCEAN INSTITUDE",
+     "w": 800,
+     "h": 450
+    },
+    {
+     "src": "img/2026-11-27/48a9dbdb1074-1.jpg",
+     "caption": "Mực ống thuộc chi Planctoteuthis ở độ sâu hơn 1.500m tại đới đứt gãy Romanche - Ảnh: SCHMIDT OCEAN INSTITUDE",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "lead": 0,
+   "blocks": [
+    {
+     "t": "img",
+     "i": 1
+    },
+    {
+     "t": "p",
+     "text": "Trong chuyến thám hiểm kéo dài 35 ngày trên tàu nghiên cứu Falkor của Viện Hải dương học Schmidt (Mỹ), các nhà khoa học đã khảo sát đới đứt gãy Romanche, thuộc dãy núi ngầm giữa Đại Tây Dương ."
+    },
+    {
+     "t": "p",
+     "text": "Đây là khu vực giao nhau giữa hai dòng nước sâu Bắc Đại Tây Dương và nước đáy Nam Cực, tạo nên môi trường đặc biệt cho nhiều sinh vật biển."
+    },
+    {
+     "t": "p",
+     "text": "Nhóm nghiên cứu ghi nhận nhiều loài mực và bạch tuộc tại bốn khu vực khác nhau, ở độ sâu từ 600 - 4.000m, theo trang IFLScience ngày 25-11."
+    },
+    {
+     "t": "p",
+     "text": "Đáng chú ý, họ phát hiện những quần thể san hô nước lạnh có tuổi đời ước tính lên tới 1.000 năm. Dựa trên kích thước và tốc độ sinh trưởng chỉ vài milimet mỗi năm của san hô, các nhà khoa học cho rằng một số cá thể đã tồn tại suốt nhiều thế kỷ."
+    },
+    {
+     "t": "p",
+     "text": "Sử dụng tàu lặn robot SuBastian, nhóm còn ghi hình một đảo san hô cổ chìm dưới đáy biển."
+    },
+    {
+     "t": "p",
+     "text": "Cấu trúc này được tạo thành từ san hô hóa thạch, cao khoảng 300m, gần bằng chiều cao tháp Eiffel (Pháp)."
+    },
+    {
+     "t": "img",
+     "i": 2
+    },
+    {
+     "t": "p",
+     "text": "Một phát hiện bất ngờ khác là những khu vườn san hô và bọt biển ở độ sâu 4.300m - nơi môi trường khắc nghiệt có nguồn thức ăn và chất dinh dưỡng rất khan hiếm."
+    },
+    {
+     "t": "p",
+     "text": "Trước đó, các nhà khoa học cho rằng san hô khó có thể sinh sống ở độ sâu như vậy."
+    },
+    {
+     "t": "p",
+     "text": "Theo tiến sĩ Paulo Sumida, người tham gia nghiên cứu và làm việc tại Đại học São Paulo (Brazil), mỗi sinh vật trong hệ sinh thái này đều đóng vai trò quan trọng, từ những loài lớn như bọt biển đến các động vật nhỏ ẩn mình trong bùn hoặc bám trên cành san hô."
+    },
+    {
+     "t": "p",
+     "text": "Những phát hiện trên cho thấy đới đứt gãy Romanche không chỉ là một cấu trúc địa chất dưới đáy biển mà còn là hệ sinh thái độc đáo, chứa đựng nhiều bí mật về sự sống ở đại dương sâu."
+    },
+    {
+     "t": "p",
+     "text": "Các nhà nghiên cứu cho rằng những dữ liệu thu thập được củng cố cơ sở khoa học để xem xét đưa khu vực này vào diện bảo vệ theo Hiệp định Biển cả (High Seas Treaty), nhằm bảo tồn đa dạng sinh học tại vùng biển quốc tế."
+    }
+   ]
+  }
+ ]
+}

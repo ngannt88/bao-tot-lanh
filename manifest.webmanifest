@@ -1,0 +1,17 @@
+{
+  "name": "LEVEL UP",
+  "short_name": "LEVEL UP",
+  "description": "Tờ báo mỗi ngày cho các bạn nhỏ: khoa học, công nghệ, thể thao, động vật, sáng tạo.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF8EC",
+  "theme_color": "#FFF8EC",
+  "lang": "vi",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
